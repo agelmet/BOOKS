@@ -1,0 +1,1253 @@
+{
+  "id": "indistractable",
+  "title": {
+    "en": "Indistractable: How to Control Your Attention and Choose Your Life",
+    "el": "Indistractable: Πώς να ελέγχεις την προσοχή σου και να διαλέγεις τη ζωή σου"
+  },
+  "author": "Nir Eyal with Julie Li",
+  "authorEl": "Νιρ Εγιάλ με την Τζούλι Λι",
+  "year": 2019,
+  "shelf": "focus",
+  "skills": {
+    "focus": 3,
+    "mindset": 2,
+    "leadership": 1
+  },
+  "oneLine": {
+    "en": "Distraction is mostly an escape from discomfort: handle your inner triggers, plan your time, cut the outside triggers and make pacts, and you will do what you say.",
+    "el": "Η απόσπαση είναι κυρίως φυγή από μια δυσφορία: χειρίσου τα εσωτερικά σου ερεθίσματα, σχεδίασε τον χρόνο σου, κόψε τα εξωτερικά και κάνε συμφωνίες με τον εαυτό σου, και θα κάνεις ό,τι λες."
+  },
+  "story": {
+    "en": "Nir Eyal is an Israeli-born American writer who taught at Stanford and became famous for Hooked (2014), a guide to how tech products build habits. Five years later, with Julie Li, he wrote the opposite manual: how to keep control of your attention when apps are designed to grab it. Its simple four-part model and practical tools are why teams, managers and parents still use it.",
+    "el": "Ο Νιρ Εγιάλ γεννήθηκε στο Ισραήλ, μεγάλωσε στις ΗΠΑ, δίδαξε στο Στάνφορντ και έγινε γνωστός με το Hooked (2014), έναν οδηγό για το πώς τα ψηφιακά προϊόντα δημιουργούν συνήθειες. Πέντε χρόνια μετά, μαζί με την Τζούλι Λι, έγραψε το αντίθετο εγχειρίδιο: πώς κρατάς τον έλεγχο της προσοχής σου όταν οι εφαρμογές είναι φτιαγμένες για να σου την κλέβουν. Το απλό μοντέλο των τεσσάρων βημάτων και τα πρακτικά εργαλεία του είναι ο λόγος που το διαβάζουν ακόμα ομάδες, μάνατζερ και γονείς."
+  },
+  "forYou": {
+    "en": "Your business runs on attention: hours of cold calls, focused site builds, quick answers in the client chat, ads and reels made on the same phone that distracts you. Every hour lost to scrolling is calls not made. This book gives you a system to plan your week, tame the chat and the phone, and stay on plan as the team grows.",
+    "el": "Η δουλειά σου ζει από την προσοχή: ώρες cold calls, συγκεντρωμένο χτίσιμο ιστοσελίδων, γρήγορες απαντήσεις στο chat των πελατών, διαφημίσεις και reels από το ίδιο κινητό που σε αποσπά. Κάθε ώρα που χάνεται στο scroll είναι τηλεφωνήματα που δεν έγιναν. Το βιβλίο σού δίνει ένα σύστημα για να σχεδιάζεις την εβδομάδα σου, να δαμάσεις το chat και το κινητό, και να μένεις στο πλάνο καθώς η ομάδα μεγαλώνει."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "Traction versus distraction",
+        "el": "Έλξη ή απόσπαση"
+      },
+      "explain": {
+        "en": "Distraction is not only your phone. It is any action that pulls you away from what you planned to do. Its opposite is traction: any action that moves you toward what you planned. The same action can be either one. Instagram during a block planned for calls is distraction; Instagram at a time you planned for it is traction. So the first step is to know what you meant to do.",
+        "el": "Απόσπαση δεν είναι μόνο το κινητό. Είναι κάθε πράξη που σε τραβά μακριά από αυτό που είχες σχεδιάσει. Το αντίθετό της ο Εγιάλ το λέει traction, δηλαδή έλξη: κάθε πράξη που σε φέρνει πιο κοντά σε αυτό που σχεδίασες. Η ίδια πράξη μπορεί να είναι και τα δύο. Το Instagram μέσα στην ώρα που έκλεισες για τηλέφωνα είναι απόσπαση. Το ίδιο Instagram, σε ώρα που το είχες προγραμματίσει, είναι έλξη. Άρα πρώτα πρέπει να ξέρεις τι ήθελες να κάνεις."
+      },
+      "example": {
+        "en": "The book opens with Eyal spending an afternoon with his young daughter, doing activities from a book. One question was which superpower she would choose. He missed her answer because he was looking at his phone, and she went off to play alone. That small moment pushed him to write the book.",
+        "el": "Το βιβλίο ξεκινά με τον Εγιάλ να περνά ένα απόγευμα με τη μικρή του κόρη, κάνοντας δραστηριότητες από ένα βιβλίο. Μια ερώτηση ήταν ποια υπερδύναμη θα διάλεγε. Εκείνος έχασε την απάντησή της, γιατί κοιτούσε το κινητό του, κι εκείνη έφυγε να παίξει μόνη. Αυτή η μικρή στιγμή τον έσπρωξε να γράψει το βιβλίο."
+      },
+      "apply": {
+        "en": "Before each work block write one line: «10:00 to 12:00, calls to dentists in Thessaloniki». Every time your hand reaches for another tab, ask: is this traction or distraction against that line? Even answering the client chat is distraction if the plan said calls.",
+        "el": "Πριν από κάθε μπλοκ δουλειάς γράψε μία γραμμή: «10:00 με 12:00, τηλέφωνα σε οδοντιάτρους της Θεσσαλονίκης». Κάθε φορά που το χέρι σου πάει σε άλλη καρτέλα, ρώτα: αυτό είναι έλξη ή απόσπαση σε σχέση με τη γραμμή μου; Ακόμα και το chat των πελατών είναι απόσπαση, αν το πλάνο έλεγε τηλέφωνα."
+      },
+      "check": {
+        "q": {
+          "en": "When is watching a series traction?",
+          "el": "Πότε το να βλέπεις μια σειρά είναι έλξη;"
+        },
+        "options": [
+          {
+            "en": "When the series teaches you something",
+            "el": "Όταν η σειρά σού μαθαίνει κάτι"
+          },
+          {
+            "en": "When you planned that time for it",
+            "el": "Όταν είχες σχεδιάσει αυτή την ώρα γι' αυτό"
+          },
+          {
+            "en": "When you watch less than one hour",
+            "el": "Όταν βλέπεις λιγότερο από μία ώρα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Traction is defined by your plan, not by the activity itself.",
+          "el": "Την έλξη την ορίζει το πλάνο σου, όχι η ίδια η δραστηριότητα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Escaping discomfort",
+        "el": "Φυγή από τη δυσφορία"
+      },
+      "explain": {
+        "en": "Every action starts with a trigger. External triggers are around us: pings, rings, people. Internal triggers come from inside: boredom, loneliness, stress, fear of a hard task. Eyal argues most distraction comes from internal triggers: we are trying to escape an unpleasant feeling. So time management is really pain management. If you ignore the feeling, blocking one app only sends you to another.",
+        "el": "Κάθε πράξη ξεκινά από ένα ερέθισμα. Τα εξωτερικά είναι γύρω μας: ειδοποιήσεις, κουδούνια, άνθρωποι. Τα εσωτερικά έρχονται από μέσα: βαρεμάρα, μοναξιά, άγχος, φόβος για μια δύσκολη δουλειά. Ο Εγιάλ υποστηρίζει ότι οι περισσότερες αποσπάσεις ξεκινούν από μέσα: προσπαθούμε να ξεφύγουμε από ένα δυσάρεστο συναίσθημα. Άρα η διαχείριση του χρόνου είναι στην ουσία διαχείριση του πόνου. Αν αγνοήσεις το συναίσθημα, όταν μπλοκάρεις μια εφαρμογή απλώς θα πας σε άλλη."
+      },
+      "example": {
+        "en": "You open the proposal for a demanding client, feel unsure what to write, and within a minute you are in your inbox. Nothing pinged you. The unease of the hard task did. Remove the inbox and you would suddenly start tidying your desktop folders instead.",
+        "el": "Ανοίγεις την πρόταση για έναν απαιτητικό πελάτη, δεν ξέρεις τι να γράψεις, και σε ένα λεπτό βρίσκεσαι στο inbox. Καμία ειδοποίηση δεν σε κάλεσε. Σε κάλεσε η αμηχανία μπροστά στη δύσκολη δουλειά. Αν κρύψεις το inbox, ξαφνικά θα αρχίσεις να τακτοποιείς τους φακέλους στην επιφάνεια εργασίας."
+      },
+      "apply": {
+        "en": "The next time you catch yourself opening Instagram in the middle of a sales script or a site build, stop and name the feeling under it: «I am afraid this doctor will say no», «this text bores me». Naming the feeling comes first; the app is only the exit door.",
+        "el": "Την επόμενη φορά που θα πιάσεις τον εαυτό σου να ανοίγει το Instagram στη μέση ενός σεναρίου πωλήσεων ή ενός site, σταμάτα και δώσε όνομα στο συναίσθημα από κάτω: «φοβάμαι ότι ο γιατρός θα πει όχι», «βαριέμαι αυτό το κείμενο». Πρώτα ονομάζεις το συναίσθημα. Η εφαρμογή είναι απλώς η πόρτα διαφυγής."
+      },
+      "check": {
+        "q": {
+          "en": "According to Eyal, what drives most distraction?",
+          "el": "Τι προκαλεί τις περισσότερες αποσπάσεις, κατά τον Εγιάλ;"
+        },
+        "options": [
+          {
+            "en": "The wish to escape an unpleasant feeling",
+            "el": "Η ανάγκη να ξεφύγουμε από ένα δυσάρεστο συναίσθημα"
+          },
+          {
+            "en": "Badly designed apps and notifications",
+            "el": "Οι κακοσχεδιασμένες εφαρμογές και ειδοποιήσεις"
+          },
+          {
+            "en": "Not having a good to-do list",
+            "el": "Η έλλειψη μιας καλής λίστας εργασιών"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Eyal says internal triggers, feelings we want to escape, are the root; technology is only the outlet.",
+          "el": "Ο Εγιάλ λέει ότι η ρίζα είναι τα εσωτερικά ερεθίσματα, συναισθήματα που θέλουμε να αποφύγουμε. Η τεχνολογία είναι απλώς η διέξοδος."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Built to be restless",
+        "el": "Φτιαγμένοι για ανησυχία"
+      },
+      "explain": {
+        "en": "Our brains are built to stay a little unsatisfied. Boredom, negativity bias (bad things stick more than good ones), rumination (chewing over problems) and hedonic adaptation (getting used to every good thing) kept our ancestors searching and alive. Eyal says this restlessness is not a flaw to cure. It is the engine that pushes us to improve. The skill is to point it at useful action, not at the feed.",
+        "el": "Ο εγκέφαλός μας είναι φτιαγμένος να μένει λίγο ανικανοποίητος. Η βαρεμάρα, η τάση να θυμόμαστε τα άσχημα πιο έντονα από τα καλά, ο μηρυκασμός των προβλημάτων και η συνήθεια σε κάθε καλό πράγμα κράτησαν τους προγόνους μας σε εγρήγορση και ζωντανούς. Ο Εγιάλ λέει ότι αυτή η ανησυχία δεν είναι ελάττωμα για θεραπεία. Είναι η μηχανή που μας σπρώχνει να βελτιωνόμαστε. Η τέχνη είναι να τη στρέφεις σε κάτι χρήσιμο και όχι στο feed."
+      },
+      "example": {
+        "en": "In a 2014 study led by Timothy Wilson at the University of Virginia, people sat alone in a room with nothing to do for up to fifteen minutes. A button let them give themselves a mild electric shock. About two thirds of the men and a quarter of the women pressed it at least once rather than just sit with their thoughts.",
+        "el": "Σε μια μελέτη του 2014 με επικεφαλής τον Τίμοθι Γουίλσον στο Πανεπιστήμιο της Βιρτζίνια, άνθρωποι κάθισαν μόνοι σε ένα δωμάτιο χωρίς τίποτα να κάνουν, έως και δεκαπέντε λεπτά. Ένα κουμπί τούς έδινε ένα ελαφρύ ηλεκτρικό σοκ. Περίπου οι δύο στους τρεις άντρες και μία στις τέσσερις γυναίκες το πάτησαν τουλάχιστον μία φορά, αντί απλώς να μείνουν με τις σκέψεις τους."
+      },
+      "apply": {
+        "en": "When the restless feeling hits on a slow afternoon, use it as fuel. Keep a short list of «useful when restless» tasks: improve one email template, study one competitor's site, record one reel idea. Let the itch push you there instead of to scrolling.",
+        "el": "Όταν σε πιάσει η ανησυχία σε ένα αργό απόγευμα, κάν' την καύσιμο. Κράτα μια μικρή λίστα με «χρήσιμα για όταν δεν βρίσκω ησυχία»: βελτίωσε ένα πρότυπο email, μελέτησε το site ενός ανταγωνιστή, γράψε μια ιδέα για reel. Άσε τη φαγούρα να σε σπρώξει εκεί και όχι στο scroll."
+      },
+      "check": {
+        "q": {
+          "en": "How does Eyal see our constant dissatisfaction?",
+          "el": "Πώς βλέπει ο Εγιάλ τη μόνιμη δυσαρέσκειά μας;"
+        },
+        "options": [
+          {
+            "en": "As a problem to remove with calm apps",
+            "el": "Ως πρόβλημα που λύνεται με εφαρμογές χαλάρωσης"
+          },
+          {
+            "en": "As an engine you can point at useful work",
+            "el": "Ως μηχανή που μπορείς να στρέψεις σε χρήσιμη δουλειά"
+          },
+          {
+            "en": "As a sign that you chose the wrong job",
+            "el": "Ως σημάδι ότι διάλεξες λάθος δουλειά"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Restlessness made us survive and improve; the goal is to steer it, not erase it.",
+          "el": "Η ανησυχία μάς βοήθησε να επιβιώσουμε και να βελτιωθούμε. Ο στόχος είναι να την κατευθύνεις, όχι να τη σβήσεις."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Surf the urge",
+        "el": "Κάνε σέρφινγκ στην παρόρμηση"
+      },
+      "explain": {
+        "en": "You cannot control feelings, but you can control what you do next. Eyal's steps: notice the feeling that comes before the distraction, write it down with the time, explore it with curiosity instead of fighting it, and watch the small gaps between tasks, when we reach for the phone without thinking. Then use the 10-minute rule: when the urge comes, wait ten minutes. Like a wave, it rises and passes.",
+        "el": "Τα συναισθήματα δεν τα ελέγχεις. Ελέγχεις όμως τι κάνεις μετά. Τα βήματα του Εγιάλ: πρόσεξε το συναίσθημα που έρχεται πριν από την απόσπαση, γράψ' το με την ώρα, εξέρευνησέ το με περιέργεια αντί να το πολεμάς, και πρόσεχε τα μικρά κενά ανάμεσα στις δουλειές, εκεί που πιάνουμε το κινητό χωρίς σκέψη. Μετά ο κανόνας των δέκα λεπτών: όταν έρθει η παρόρμηση, περίμενε δέκα λεπτά. Σαν κύμα, ανεβαίνει και περνά."
+      },
+      "example": {
+        "en": "The idea of surfing the urge comes from addiction research. In a 2009 study by Sarah Bowen and Alan Marlatt, college students who smoked were taught to notice their cravings and ride them out without acting. In the following week they smoked fewer cigarettes than students who did not get the training.",
+        "el": "Το «σέρφινγκ στην παρόρμηση» προέρχεται από την έρευνα για τους εθισμούς. Σε μια μελέτη του 2009 από τη Σάρα Μπόουεν και τον Άλαν Μάρλατ, φοιτητές καπνιστές έμαθαν να παρατηρούν τη λαχτάρα για τσιγάρο και να την αφήνουν να περάσει χωρίς να υποκύψουν. Την επόμενη εβδομάδα κάπνισαν λιγότερα τσιγάρα από όσους δεν πήραν αυτή την εκπαίδευση."
+      },
+      "apply": {
+        "en": "Keep a «distraction log» note on your phone this week. Each time you drift, write the time and the feeling: «15:20, stuck on a hero text, bored». When the urge to check messages hits during a call block, tell yourself «in ten minutes» and dial the next number.",
+        "el": "Κράτα αυτή την εβδομάδα μια σημείωση «αποσπάσεις» στο κινητό. Κάθε φορά που ξεφεύγεις, γράψε την ώρα και το συναίσθημα: «15:20, κόλλησα στο κείμενο του hero, βαριέμαι». Όταν σε πιάσει η ανάγκη να δεις μηνύματα μέσα στο μπλοκ των τηλεφωνημάτων, πες στον εαυτό σου «σε δέκα λεπτά» και πάρε τον επόμενο αριθμό."
+      },
+      "check": {
+        "q": {
+          "en": "What is the 10-minute rule?",
+          "el": "Τι είναι ο κανόνας των δέκα λεπτών;"
+        },
+        "options": [
+          {
+            "en": "Allow yourself ten minutes of scrolling every hour",
+            "el": "Δίνεις στον εαυτό σου δέκα λεπτά scroll κάθε ώρα"
+          },
+          {
+            "en": "Work ten minutes, then take a short break",
+            "el": "Δουλεύεις δέκα λεπτά και μετά κάνεις διάλειμμα"
+          },
+          {
+            "en": "When an urge comes, wait ten minutes before acting",
+            "el": "Όταν έρθει η παρόρμηση, περιμένεις δέκα λεπτά πριν κάνεις κάτι"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Urges peak and fade; waiting ten minutes lets the wave pass and gives you back the choice.",
+          "el": "Οι παρορμήσεις κορυφώνονται και σβήνουν. Τα δέκα λεπτά αφήνουν το κύμα να περάσει και σου δίνουν πίσω την επιλογή."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Find the game in the task",
+        "el": "Βρες το παιχνίδι μέσα στη δουλειά"
+      },
+      "explain": {
+        "en": "Boring work feels like punishment, so we run from it. Eyal, borrowing from the game designer Ian Bogost, says you can make almost any task more interesting, not by adding rewards on top, but by paying closer attention to it. Look for what is new or odd inside the task, set yourself limits, turn it into a puzzle. The fun is found inside the work, not glued onto it.",
+        "el": "Η βαρετή δουλειά μοιάζει με τιμωρία, γι' αυτό την αποφεύγουμε. Ο Εγιάλ, παίρνοντας μια ιδέα από τον σχεδιαστή παιχνιδιών Ίαν Μπόγκοστ, λέει ότι σχεδόν κάθε δουλειά μπορεί να γίνει πιο ενδιαφέρουσα, όχι με ανταμοιβές από πάνω, αλλά με περισσότερη προσοχή σε αυτήν. Ψάξε τι είναι καινούργιο ή παράξενο μέσα της, βάλε στον εαυτό σου περιορισμούς, κάν' τη γρίφο. Η διασκέδαση βρίσκεται μέσα στη δουλειά, δεν κολλιέται απ' έξω."
+      },
+      "example": {
+        "en": "In his book Play Anything, Bogost writes about mowing his lawn. Instead of treating it as a chore to rush through, he paid attention to its limits: the shape of the yard, the lines, the order of the passes. Inside those limits the job became a small game he could get better at.",
+        "el": "Στο βιβλίο του Play Anything, ο Μπόγκοστ γράφει για το κούρεμα του γκαζόν του. Αντί να το βλέπει σαν αγγαρεία που πρέπει να τελειώσει γρήγορα, πρόσεξε τους περιορισμούς του: το σχήμα της αυλής, τις γραμμές, τη σειρά των περασμάτων. Μέσα σε αυτά τα όρια η δουλειά έγινε ένα μικρό παιχνίδι, στο οποίο μπορούσε να γίνεται καλύτερος."
+      },
+      "apply": {
+        "en": "Make the hundredth cold call a game. Track how often you reach the doctor instead of the secretary, or test a new opening line every ten calls and note which one books more video meetings. You are not adding a prize; you are finding the puzzle inside the call.",
+        "el": "Κάνε το εκατοστό cold call παιχνίδι. Μέτρα πόσο συχνά φτάνεις στον γιατρό και όχι στη γραμματεία, ή δοκίμαζε μια νέα πρώτη φράση κάθε δέκα τηλεφωνήματα και σημείωνε ποια κλείνει περισσότερες βιντεοκλήσεις. Δεν προσθέτεις βραβείο. Βρίσκεις τον γρίφο μέσα στο τηλεφώνημα."
+      },
+      "check": {
+        "q": {
+          "en": "How does Eyal suggest making a dull task more bearable?",
+          "el": "Πώς προτείνει ο Εγιάλ να γίνει πιο υποφερτή μια βαρετή δουλειά;"
+        },
+        "options": [
+          {
+            "en": "Pay closer attention and find the novelty in it",
+            "el": "Δίνεις περισσότερη προσοχή και βρίσκεις το καινούργιο μέσα της"
+          },
+          {
+            "en": "Promise yourself a treat when it is done",
+            "el": "Υπόσχεσαι στον εαυτό σου μια λιχουδιά όταν τελειώσει"
+          },
+          {
+            "en": "Do it while a video plays in the background",
+            "el": "Την κάνεις με ένα βίντεο να παίζει στο φόντο"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Fun comes from focused attention and constraints inside the task, not from outside rewards.",
+          "el": "Η διασκέδαση έρχεται από τη συγκεντρωμένη προσοχή και τους περιορισμούς μέσα στη δουλειά, όχι από εξωτερικές ανταμοιβές."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Change your story about yourself",
+        "el": "Άλλαξε την ιστορία που λες για σένα"
+      },
+      "explain": {
+        "en": "What you believe about yourself shapes how you act. If you believe willpower runs out like fuel, it seems to. If you call yourself «easily distracted» or «addicted to my phone», you hand yourself an excuse. Eyal suggests three changes: drop the idea that willpower is limited, stop labelling yourself, and after a slip talk to yourself kindly, as you would to a friend. Kindness makes you try again; guilt makes you hide.",
+        "el": "Αυτό που πιστεύεις για τον εαυτό σου καθορίζει πώς φέρεσαι. Αν πιστεύεις ότι η θέληση τελειώνει σαν καύσιμο, έτσι φαίνεται να γίνεται. Αν λες ότι «αποσπώμαι εύκολα» ή ότι «είμαι εθισμένος στο κινητό», δίνεις στον εαυτό σου δικαιολογία. Ο Εγιάλ προτείνει τρεις αλλαγές: άσε την ιδέα ότι η θέληση είναι περιορισμένη, σταμάτα να βάζεις ταμπέλες στον εαυτό σου, και μετά από μια αποτυχία μίλα του με καλοσύνη, όπως θα μιλούσες σε φίλο. Η καλοσύνη σε κάνει να ξαναπροσπαθήσεις. Οι τύψεις σε κάνουν να κρύβεσαι."
+      },
+      "example": {
+        "en": "In a 2010 Stanford study, Veronika Job, Carol Dweck and Gregory Walton found that people did worse on a second task after a tiring first one mainly when they believed willpower is a limited resource. People who believed it is not limited did about as well on the second task.",
+        "el": "Σε μια μελέτη του Στάνφορντ το 2010, η Βερόνικα Γιόμπ, η Κάρολ Ντουέκ και ο Γκρέγκορι Γουόλτον βρήκαν ότι οι άνθρωποι τα πήγαιναν χειρότερα σε μια δεύτερη δοκιμασία, μετά από μια κουραστική πρώτη, κυρίως όταν πίστευαν ότι η θέληση είναι περιορισμένη. Όσοι πίστευαν ότι δεν είναι, τα πήγαν περίπου το ίδιο καλά και στη δεύτερη."
+      },
+      "apply": {
+        "en": "When you lose an afternoon to YouTube, do not say «I have no discipline». Say what a good coach would: «Normal. The hard task was the proposal. Tomorrow I start with it at 9:00.» And stop telling your team «I can't focus»; say «I am training my focus».",
+        "el": "Όταν χάνεις ένα απόγευμα στο YouTube, μην πεις «δεν έχω πειθαρχία». Πες ό,τι θα έλεγε ένας καλός προπονητής: «Συμβαίνει. Δύσκολη δουλειά ήταν η πρόταση. Αύριο ξεκινάω με αυτήν στις 9:00.» Και σταμάτα να λες στην ομάδα «δεν μπορώ να συγκεντρωθώ». Πες «εκπαιδεύω τη συγκέντρωσή μου»."
+      },
+      "check": {
+        "q": {
+          "en": "In the study Eyal uses, when did willpower seem to run out?",
+          "el": "Στη μελέτη που χρησιμοποιεί ο Εγιάλ, πότε φαινόταν να εξαντλείται η θέληση;"
+        },
+        "options": [
+          {
+            "en": "After about four hours of hard work",
+            "el": "Μετά από περίπου τέσσερις ώρες σκληρής δουλειάς"
+          },
+          {
+            "en": "Mostly when people believed it is limited",
+            "el": "Κυρίως όταν οι άνθρωποι πίστευαν ότι είναι περιορισμένη"
+          },
+          {
+            "en": "Only when people had skipped a meal",
+            "el": "Μόνο όταν οι άνθρωποι είχαν χάσει ένα γεύμα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "The belief about willpower made the difference, which is why Eyal says to change the story you tell yourself.",
+          "el": "Τη διαφορά την έκανε η πεποίθηση για τη θέληση. Γι' αυτό ο Εγιάλ λέει να αλλάξεις την ιστορία που λες στον εαυτό σου."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Turn values into time",
+        "el": "Κάνε τις αξίες σου χρόνο"
+      },
+      "explain": {
+        "en": "You cannot call something a distraction unless you know what it distracted you from. A to-do list does not say when. So Eyal says: decide what matters, then turn it into time on a calendar. This is timeboxing, planning every block of your week, even rest and fun. Judge yourself on input, the time you gave, not on output, results you cannot fully control.",
+        "el": "Δεν μπορείς να πεις κάτι απόσπαση αν δεν ξέρεις από τι σε απέσπασε. Μια λίστα εργασιών δεν λέει πότε. Γι' αυτό ο Εγιάλ λέει: αποφάσισε τι μετράει για σένα και κάν' το χρόνο στο ημερολόγιο. Αυτό λέγεται timeboxing: σχεδιάζεις κάθε κομμάτι της εβδομάδας σου, ακόμα και την ξεκούραση και τη διασκέδαση. Κρίνεις τον εαυτό σου από ό,τι έβαλες, δηλαδή τον χρόνο που έδωσες, και όχι από το αποτέλεσμα, που δεν το ελέγχεις πλήρως."
+      },
+      "example": {
+        "en": "Eyal keeps a short weekly block he calls «reflect and refine». He looks back at last week's calendar, asks where he did what he planned and where he got pulled off, and then adjusts the template for next week. His calendar is a living plan he improves, not a promise carved in stone.",
+        "el": "Ο Εγιάλ έχει κάθε εβδομάδα ένα μικρό μπλοκ που το λέει «αναλογίσου και βελτίωσε». Κοιτάζει το ημερολόγιο της προηγούμενης εβδομάδας, βλέπει πού έκανε ό,τι σχεδίασε και πού ξέφυγε, και διορθώνει το πρότυπο για την επόμενη. Το ημερολόγιό του είναι ένα ζωντανό πλάνο που βελτιώνεται, όχι μια υπόσχεση σκαλισμένη στην πέτρα."
+      },
+      "apply": {
+        "en": "On Sunday evening, build next week: 9:30 to 12:00 cold calls Monday to Thursday, 12:00 to 12:30 client chat, 14:00 to 16:00 site builds, 16:30 gym, evenings free. Then judge each day by one question: did I do what I said, for as long as I said?",
+        "el": "Την Κυριακή το βράδυ στήσε την επόμενη εβδομάδα: 9:30 με 12:00 cold calls Δευτέρα με Πέμπτη, 12:00 με 12:30 chat πελατών, 14:00 με 16:00 χτίσιμο ιστοσελίδων, 16:30 γυμναστήριο, βράδια ελεύθερα. Μετά κρίνε κάθε μέρα με μία ερώτηση: έκανα ό,τι είπα, για όσο είπα;"
+      },
+      "check": {
+        "q": {
+          "en": "In timeboxing, what do you judge yourself by?",
+          "el": "Στο timeboxing, με τι κρίνεις τον εαυτό σου;"
+        },
+        "options": [
+          {
+            "en": "How many tasks you crossed off the list",
+            "el": "Πόσες δουλειές έσβησες από τη λίστα"
+          },
+          {
+            "en": "How much money the day brought in",
+            "el": "Πόσα χρήματα έφερε η μέρα"
+          },
+          {
+            "en": "Whether you did what you planned, for the time planned",
+            "el": "Αν έκανες ό,τι σχεδίασες, για τον χρόνο που σχεδίασες"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Eyal says to focus on input you control: showing up for the planned time.",
+          "el": "Ο Εγιάλ λέει να εστιάζεις σε ό,τι ελέγχεις: να είσαι εκεί τον χρόνο που όρισες."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "You first, then people, then work",
+        "el": "Εσύ, οι δικοί σου, μετά η δουλειά"
+      },
+      "explain": {
+        "en": "Eyal splits life into three areas: you, your relationships and your work. Most of us fill the calendar with work and give the rest whatever is left. Instead, book yourself first: sleep, exercise, reading, thinking time. Then book the people who matter, including regular time with family and friends and a fair share of home chores. What is not on the calendar gets pushed out by whatever is loudest.",
+        "el": "Ο Εγιάλ χωρίζει τη ζωή σε τρία πεδία: εσένα, τις σχέσεις σου και τη δουλειά σου. Οι περισσότεροι γεμίζουμε το ημερολόγιο με δουλειά και δίνουμε στα υπόλοιπα ό,τι περισσέψει. Αντί γι' αυτό, κλείσε πρώτα χρόνο για σένα: ύπνο, γυμναστική, διάβασμα, χρόνο για σκέψη. Μετά κλείσε χρόνο για τους ανθρώπους που μετράνε: τακτικές συναντήσεις με οικογένεια και φίλους, και δίκαιο μοίρασμα των δουλειών του σπιτιού. Ό,τι δεν είναι στο ημερολόγιο, το σπρώχνει έξω το πιο θορυβώδες."
+      },
+      "example": {
+        "en": "The Harvard Study of Adult Development has followed hundreds of men since 1938. Its directors, including Robert Waldinger, report that the warmth of close relationships predicted health and happiness in old age better than money, fame or social class.",
+        "el": "Η Μελέτη Ενήλικης Ανάπτυξης του Χάρβαρντ παρακολουθεί εκατοντάδες άντρες από το 1938. Οι υπεύθυνοί της, ανάμεσά τους ο Ρόμπερτ Γουάλντινγκερ, αναφέρουν ότι η ζεστασιά των στενών σχέσεων προέβλεπε την υγεία και την ευτυχία στα γεράματα καλύτερα από τα χρήματα, τη φήμη ή την κοινωνική τάξη."
+      },
+      "apply": {
+        "en": "Put three blocks into this week before any work: two gym sessions and one evening with friends or family, phone in another room. Treat them like a demo with a dentist: you would never cancel a client meeting, so do not cancel yourself.",
+        "el": "Βάλε αυτή την εβδομάδα τρία μπλοκ πριν από οποιαδήποτε δουλειά: δύο φορές γυμναστήριο και ένα βράδυ με φίλους ή οικογένεια, με το κινητό σε άλλο δωμάτιο. Αντιμετώπισέ τα σαν παρουσίαση σε οδοντίατρο: ραντεβού με πελάτη δεν θα ακύρωνες ποτέ, άρα μην ακυρώνεις ούτε τον εαυτό σου."
+      },
+      "check": {
+        "q": {
+          "en": "What goes on the calendar first, according to Eyal?",
+          "el": "Τι μπαίνει πρώτο στο ημερολόγιο, κατά τον Εγιάλ;"
+        },
+        "options": [
+          {
+            "en": "Time for yourself",
+            "el": "Χρόνος για σένα"
+          },
+          {
+            "en": "Client work",
+            "el": "Η δουλειά για τους πελάτες"
+          },
+          {
+            "en": "Email and messages",
+            "el": "Τα email και τα μηνύματα"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "If you do not protect time for yourself and your people first, work and noise take it all.",
+          "el": "Αν δεν προστατέψεις πρώτα χρόνο για σένα και τους δικούς σου, η δουλειά και ο θόρυβος θα τα πάρουν όλα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Sync your schedule",
+        "el": "Συντόνισε το πρόγραμμά σου"
+      },
+      "explain": {
+        "en": "At work, your calendar touches other people's plans. Eyal suggests a schedule sync: show your manager, partner or team your planned week and agree on priorities. Then a new request is no longer «can you squeeze this in?» but «what should move to make room?». Plans that others can see cut interruptions and the guilt of saying no.",
+        "el": "Στη δουλειά, το ημερολόγιό σου ακουμπά τα σχέδια άλλων. Ο Εγιάλ προτείνει έναν συντονισμό προγράμματος: δείχνεις στον προϊστάμενο, στον συνεργάτη ή στην ομάδα την εβδομάδα σου και συμφωνείτε στις προτεραιότητες. Έτσι ένα νέο αίτημα δεν είναι πια «μπορείς να το χώσεις κάπου;» αλλά «τι μετακινούμε για να χωρέσει;». Τα σχέδια που βλέπουν και οι άλλοι κόβουν τις διακοπές και τις τύψεις του «όχι»."
+      },
+      "example": {
+        "en": "Harvard professor Leslie Perlow worked with teams at the Boston Consulting Group, where people were always on call. Each consultant got one planned night a week fully offline, and the team agreed in advance how to cover it. The work still got done, and people reported more satisfaction and more wish to stay at the firm.",
+        "el": "Η καθηγήτρια του Χάρβαρντ Λέσλι Πέρλοου δούλεψε με ομάδες της Boston Consulting Group, όπου όλοι ήταν μόνιμα διαθέσιμοι. Κάθε σύμβουλος πήρε ένα προγραμματισμένο βράδυ την εβδομάδα εντελώς εκτός σύνδεσης, και η ομάδα συμφώνησε από πριν πώς θα το καλύψει. Η δουλειά έγινε κανονικά, και οι άνθρωποι δήλωσαν πιο ικανοποιημένοι και πιο πρόθυμοι να μείνουν στην εταιρεία."
+      },
+      "apply": {
+        "en": "When you hire your first helper, start each Monday with a 15-minute sync: your week, their week, what matters most. And tell clients when you answer the chat, for example: «We reply to change requests every day, 12:00 to 13:00 and 17:00 to 18:00», so nobody expects instant replies.",
+        "el": "Όταν πάρεις τον πρώτο σου βοηθό, ξεκινάτε κάθε Δευτέρα με 15 λεπτά συντονισμό: η δική σου εβδομάδα, η δική του, τι μετράει περισσότερο. Και πες στους πελάτες πότε απαντάς στο chat, για παράδειγμα: «Απαντάμε στις αλλαγές καθημερινά 12:00 με 13:00 και 17:00 με 18:00», ώστε κανείς να μην περιμένει άμεση απάντηση."
+      },
+      "check": {
+        "q": {
+          "en": "What is a schedule sync for?",
+          "el": "Σε τι χρησιμεύει ο συντονισμός προγράμματος;"
+        },
+        "options": [
+          {
+            "en": "To show your boss how many hours you work",
+            "el": "Για να δείξεις στον προϊστάμενο πόσες ώρες δουλεύεις"
+          },
+          {
+            "en": "To agree on priorities, so new requests replace old ones instead of piling up",
+            "el": "Για να συμφωνήσετε σε προτεραιότητες, ώστε τα νέα αιτήματα να παίρνουν τη θέση άλλων και όχι να στοιβάζονται"
+          },
+          {
+            "en": "To share passwords and files with the team",
+            "el": "Για να μοιράζεσαι κωδικούς και αρχεία με την ομάδα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "When everyone sees the plan, a new request becomes a trade-off, not an extra.",
+          "el": "Όταν όλοι βλέπουν το πλάνο, ένα νέο αίτημα γίνεται ανταλλαγή και όχι κάτι επιπλέον."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Does this trigger serve you?",
+        "el": "Σε υπηρετεί αυτό το ερέθισμα;"
+      },
+      "explain": {
+        "en": "Now the outside triggers: pings, rings, red badges, people at your door. Eyal's test for each one is a single question: is this trigger serving me, or am I serving it? A trigger serves you when it leads you to traction, like an alarm that tells you to start calls. It works against you when it pulls you off plan. Keep the first kind; remove or tame the second.",
+        "el": "Πάμε στα εξωτερικά ερεθίσματα: ειδοποιήσεις, κουδούνια, κόκκινα σήματα, άνθρωποι στην πόρτα σου. Το τεστ του Εγιάλ για το καθένα είναι μία ερώτηση: αυτό το ερέθισμα με υπηρετεί ή το υπηρετώ εγώ; Σε υπηρετεί όταν σε οδηγεί σε έλξη, όπως ένα ξυπνητήρι που σου λέει να ξεκινήσεις τα τηλέφωνα. Σε βλάπτει όταν σε βγάζει από το πλάνο. Το πρώτο το κρατάς. Το δεύτερο το βγάζεις ή το δαμάζεις."
+      },
+      "example": {
+        "en": "In a 2015 study, Cary Stothart and colleagues at Florida State University had people do an attention task while their phones received calls or texts they did not answer. Just getting the alert hurt their performance, about as much as actually using the phone.",
+        "el": "Σε μια μελέτη του 2015, ο Κάρι Στόθαρτ και οι συνεργάτες του στο Πολιτειακό Πανεπιστήμιο της Φλόριντα έβαλαν ανθρώπους να κάνουν μια δοκιμασία προσοχής, ενώ στο κινητό τους έρχονταν κλήσεις ή μηνύματα που δεν απαντούσαν. Μόνο η ειδοποίηση χάλασε την απόδοσή τους, περίπου όσο και η κανονική χρήση του κινητού."
+      },
+      "apply": {
+        "en": "Go through your phone's notifications today with the question «does this serve me?». Keep calendar alerts and the CRM lead alert during work hours. Turn off sounds and badges for Instagram, news and group chats. If a trigger cannot answer «yes, it helps my plan», it goes.",
+        "el": "Πέρνα σήμερα όλες τις ειδοποιήσεις του κινητού με την ερώτηση «με υπηρετεί;». Κράτα τις ειδοποιήσεις του ημερολογίου και του CRM για νέα leads στις ώρες δουλειάς. Κλείσε ήχους και σήματα για Instagram, ειδήσεις και ομαδικά chat. Αν ένα ερέθισμα δεν μπορεί να απαντήσει «ναι, βοηθάει το πλάνο μου», φεύγει."
+      },
+      "check": {
+        "q": {
+          "en": "Which of these triggers is serving you?",
+          "el": "Ποιο από αυτά τα ερεθίσματα σε υπηρετεί;"
+        },
+        "options": [
+          {
+            "en": "A badge showing 37 unread Instagram messages",
+            "el": "Ένα σήμα με 37 αδιάβαστα μηνύματα στο Instagram"
+          },
+          {
+            "en": "A news alert about a celebrity wedding",
+            "el": "Μια ειδοποίηση ειδήσεων για τον γάμο ενός διάσημου"
+          },
+          {
+            "en": "An alarm telling you it is time to start your call block",
+            "el": "Ένα ξυπνητήρι που σου λέει ότι ήρθε η ώρα για τα τηλέφωνα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "It leads you toward what you planned; the other two pull you away from it.",
+          "el": "Σε οδηγεί σε αυτό που σχεδίασες. Τα άλλα δύο σε τραβούν μακριά του."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Show that you are focused",
+        "el": "Δείξε ότι είσαι συγκεντρωμένος"
+      },
+      "explain": {
+        "en": "Colleagues and family often interrupt because they cannot tell you are focused. So make it visible. Eyal uses a simple card on his screen saying he is focused right now and will be free later. At home, a closed door or headphones can do the same job. A clear signal protects your focus without being rude, and it also makes clear when you are available.",
+        "el": "Συνάδελφοι και οικογένεια συχνά σε διακόπτουν επειδή δεν καταλαβαίνουν ότι είσαι συγκεντρωμένος. Κάν' το λοιπόν ορατό. Ο Εγιάλ χρησιμοποιεί μια απλή κάρτα στην οθόνη του που λέει ότι αυτή τη στιγμή είναι συγκεντρωμένος και θα είναι διαθέσιμος αργότερα. Στο σπίτι, μια κλειστή πόρτα ή τα ακουστικά κάνουν την ίδια δουλειά. Ένα καθαρό σήμα προστατεύει τη συγκέντρωσή σου χωρίς αγένεια, και δείχνει επίσης πότε είσαι διαθέσιμος."
+      },
+      "example": {
+        "en": "Hospitals found that nurses were often interrupted while preparing medicines, a moment when a mistake can hurt a patient. Several hospitals tried brightly coloured vests that told staff and visitors not to interrupt the nurse during medication rounds. Where they were used well, interruptions and medication errors went down.",
+        "el": "Τα νοσοκομεία διαπίστωσαν ότι οι νοσηλευτές διακόπτονταν συχνά την ώρα που ετοίμαζαν φάρμακα, τη στιγμή που ένα λάθος μπορεί να βλάψει ασθενή. Αρκετά νοσοκομεία δοκίμασαν έντονα χρωματιστά γιλέκα που έλεγαν σε προσωπικό και επισκέπτες να μη διακόπτουν τον νοσηλευτή στη διανομή φαρμάκων. Όπου εφαρμόστηκαν σωστά, μειώθηκαν οι διακοπές και τα λάθη στη φαρμακευτική αγωγή."
+      },
+      "apply": {
+        "en": "When you work from home, put on headphones and tell the people around you: «Until 12:00 I am on calls, after that I am all yours.» In the team chat set a status like «Deep work until 12:00», so a helper writes the question down for later instead of pinging you.",
+        "el": "Όταν δουλεύεις από το σπίτι, φόρα ακουστικά και πες σε όσους είναι γύρω σου: «Μέχρι τις 12:00 έχω τηλέφωνα, μετά είμαι όλος δικός σας.» Στο chat της ομάδας βάλε κατάσταση «Συγκέντρωση μέχρι τις 12:00», ώστε ο βοηθός να σημειώνει την ερώτηση για αργότερα αντί να σου στέλνει."
+      },
+      "check": {
+        "q": {
+          "en": "Why does a visible «I am focused» signal work?",
+          "el": "Γιατί πιάνει ένα ορατό σήμα «είμαι συγκεντρωμένος»;"
+        },
+        "options": [
+          {
+            "en": "It makes people a little afraid of you",
+            "el": "Κάνει τους άλλους να σε φοβούνται λίγο"
+          },
+          {
+            "en": "People interrupt less when they can see you are busy",
+            "el": "Οι άλλοι διακόπτουν λιγότερο όταν βλέπουν ότι είσαι απασχολημένος"
+          },
+          {
+            "en": "It blocks all calls to your phone",
+            "el": "Μπλοκάρει όλες τις κλήσεις στο κινητό σου"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Most interruptions are innocent; people simply could not tell you were busy.",
+          "el": "Οι περισσότερες διακοπές είναι αθώες. Οι άλλοι απλώς δεν μπορούσαν να καταλάβουν ότι ήσουν απασχολημένος."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Tame the inbox",
+        "el": "Δάμασε το inbox"
+      },
+      "explain": {
+        "en": "Email works like a slot machine: sometimes there is something good, so we keep checking. Eyal treats it as simple math: number of emails times time spent on each. Cut both. Send fewer emails to get fewer back. Offer set office hours for questions. Delay sending so replies do not bounce straight back. Turn off alerts, check at set times, label each message by when it needs a reply, and answer in one planned batch.",
+        "el": "Το email λειτουργεί σαν φρουτάκι: κάποιες φορές έχει κάτι καλό, οπότε το ελέγχουμε συνέχεια. Ο Εγιάλ το βλέπει σαν απλή αριθμητική: πλήθος email επί τον χρόνο για το καθένα. Μείωσε και τα δύο. Στείλε λιγότερα για να πάρεις λιγότερα. Όρισε συγκεκριμένες ώρες για ερωτήσεις. Καθυστέρησε την αποστολή ώστε οι απαντήσεις να μη γυρίζουν αμέσως. Κλείσε τις ειδοποιήσεις, άνοιγε σε σταθερές ώρες, βάλε σε κάθε μήνυμα ετικέτα για το πότε θέλει απάντηση, και απάντα μαζεμένα σε ένα προγραμματισμένο μπλοκ."
+      },
+      "example": {
+        "en": "Eyal gives every email he opens one of two labels, «today» or «this week», depending on when it truly needs an answer, and then leaves the inbox. He replies later in time already blocked on his calendar. Common email apps such as Gmail let you snooze messages and schedule sending, which makes this easy.",
+        "el": "Ο Εγιάλ δίνει σε κάθε email που ανοίγει μία από δύο ετικέτες, «σήμερα» ή «αυτή την εβδομάδα», ανάλογα με το πότε χρειάζεται πραγματικά απάντηση, και κλείνει το inbox. Απαντά αργότερα, σε χρόνο που έχει ήδη κλείσει στο ημερολόγιο. Γνωστές εφαρμογές όπως το Gmail επιτρέπουν αναβολή μηνυμάτων και προγραμματισμένη αποστολή, κάτι που το κάνει εύκολο."
+      },
+      "apply": {
+        "en": "Open the inbox twice a day, at 12:00 and 17:30. Label each message «today» or «this week» and close it. Write the long answers in your batch, and schedule them to send the next morning, so a client does not start a quick back-and-forth with you late at night.",
+        "el": "Άνοιγε το inbox δύο φορές τη μέρα, στις 12:00 και στις 17:30. Βάλε σε κάθε μήνυμα ετικέτα «σήμερα» ή «αυτή την εβδομάδα» και κλείσ' το. Γράψε τις μεγάλες απαντήσεις στο μπλοκ σου και προγραμμάτισέ τες να φύγουν το επόμενο πρωί, ώστε ένας πελάτης να μην ξεκινά μαζί σου πινγκ-πονγκ αργά το βράδυ."
+      },
+      "check": {
+        "q": {
+          "en": "What is the point of labelling emails «today» or «this week»?",
+          "el": "Ποιο είναι το νόημα της ετικέτας «σήμερα» ή «αυτή την εβδομάδα» στα email;"
+        },
+        "options": [
+          {
+            "en": "To make sure you answer everything within minutes",
+            "el": "Για να απαντάς σε όλα μέσα σε λίγα λεπτά"
+          },
+          {
+            "en": "To delete half of your emails without reading",
+            "el": "Για να σβήνεις τα μισά email χωρίς να τα διαβάσεις"
+          },
+          {
+            "en": "To decide once, then reply later in a planned block",
+            "el": "Για να αποφασίζεις μία φορά και να απαντάς αργότερα σε προγραμματισμένο μπλοκ"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Labelling stops you from rereading the same email again and again and moves replies into planned time.",
+          "el": "Η ετικέτα σε γλιτώνει από το να ξαναδιαβάζεις το ίδιο email ξανά και ξανά και μεταφέρει τις απαντήσεις σε προγραμματισμένο χρόνο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Group chat: in and out",
+        "el": "Ομαδικό chat: μπες και βγες"
+      },
+      "explain": {
+        "en": "Group chat can feel like a party you can never leave. Eyal's rules: treat it like a cocktail party, go in, talk, and leave; schedule when you check it; do not use it for long, complex or emotional topics, which need a call; and keep groups small, with only the people who truly need to be there. Fewer people and a clear purpose mean less noise.",
+        "el": "Το ομαδικό chat μοιάζει με πάρτι από το οποίο δεν μπορείς να φύγεις ποτέ. Οι κανόνες του Εγιάλ: φέρσου του σαν σε κοκτέιλ πάρτι, μπαίνεις, μιλάς και φεύγεις. Όρισε πότε το ελέγχεις. Μην το χρησιμοποιείς για μεγάλα, σύνθετα ή φορτισμένα θέματα, αυτά θέλουν τηλέφωνο. Και κράτα τις ομάδες μικρές, μόνο με όσους πραγματικά χρειάζεται να είναι εκεί. Λιγότεροι άνθρωποι και καθαρός σκοπός σημαίνει λιγότερος θόρυβος."
+      },
+      "example": {
+        "en": "Jason Fried, co-founder of the software company Basecamp, has compared constant group chat to sitting all day in a meeting with random people and no agenda. His company limits real-time chat and uses longer written posts for most decisions, so people can answer when they choose.",
+        "el": "Ο Τζέισον Φριντ, συνιδρυτής της εταιρείας λογισμικού Basecamp, έχει παρομοιάσει το συνεχές ομαδικό chat με το να κάθεσαι όλη μέρα σε μια σύσκεψη με τυχαίους ανθρώπους και χωρίς ατζέντα. Η εταιρεία του περιορίζει τη συνομιλία σε πραγματικό χρόνο και χρησιμοποιεί μεγαλύτερα γραπτά κείμενα για τις περισσότερες αποφάσεις, ώστε ο καθένας να απαντά όποτε επιλέγει."
+      },
+      "apply": {
+        "en": "Reply in the client chat in two windows a day, not live. Tell every new client from day one: «Please send all your material and changes together in one message, and we will reply within the day.» Move any complaint or long list of changes to a short phone call.",
+        "el": "Απάντα στο chat των πελατών σε δύο παράθυρα τη μέρα, όχι ζωντανά. Πες σε κάθε νέο πελάτη από την πρώτη μέρα: «Στείλτε μας όλο το υλικό και τις αλλαγές μαζεμένα σε ένα μήνυμα, και σας απαντάμε μέσα στην ημέρα.» Κάθε παράπονο ή μεγάλη λίστα αλλαγών μετάφερέ τα σε ένα σύντομο τηλεφώνημα."
+      },
+      "check": {
+        "q": {
+          "en": "When should a topic leave the group chat?",
+          "el": "Πότε πρέπει ένα θέμα να φύγει από το ομαδικό chat;"
+        },
+        "options": [
+          {
+            "en": "When it is long, complex or emotional",
+            "el": "Όταν είναι μεγάλο, σύνθετο ή φορτισμένο"
+          },
+          {
+            "en": "When more than two people have replied",
+            "el": "Όταν έχουν απαντήσει πάνω από δύο άτομα"
+          },
+          {
+            "en": "Never, everything should stay in writing",
+            "el": "Ποτέ, όλα πρέπει να μένουν γραπτά"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Chat is fine for quick facts; hard topics get messy and endless in writing.",
+          "el": "Το chat είναι καλό για γρήγορες πληροφορίες. Τα δύσκολα θέματα γραπτώς μπερδεύονται και δεν τελειώνουν ποτέ."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "No agenda, no meeting",
+        "el": "Χωρίς ατζέντα, χωρίς σύσκεψη"
+      },
+      "explain": {
+        "en": "Meetings are a common way to look busy without moving forward. Eyal's rules: no agenda, no meeting. Whoever calls it must send a short note with the problem and the options first. Use meetings to reach agreement, not to brainstorm from zero, which people do better alone. And keep laptops and phones closed, except one laptop to show the work and take notes, so everyone is really there.",
+        "el": "Οι συσκέψεις είναι ένας εύκολος τρόπος να φαίνεσαι απασχολημένος χωρίς να προχωράς. Οι κανόνες του Εγιάλ: χωρίς ατζέντα, χωρίς σύσκεψη. Όποιος τη ζητά πρέπει πρώτα να στείλει ένα σύντομο σημείωμα με το πρόβλημα και τις επιλογές. Οι συσκέψεις είναι για να συμφωνήσετε, όχι για ιδέες από το μηδέν, που βγαίνουν καλύτερα όταν σκέφτεται ο καθένας μόνος. Και κλειστά λάπτοπ και κινητά, εκτός από ένα λάπτοπ για να δείξεις τη δουλειά και να κρατάς σημειώσεις, ώστε όλοι να είναι πραγματικά εκεί."
+      },
+      "example": {
+        "en": "At Amazon, many important meetings start with everyone silently reading a written memo of up to six pages, instead of watching slides. Jeff Bezos has explained that writing a full memo forces clear thinking, and reading it together means everyone has really taken in the content before the discussion.",
+        "el": "Στην Amazon, πολλές σημαντικές συσκέψεις ξεκινούν με όλους να διαβάζουν σιωπηλά ένα γραπτό σημείωμα έως έξι σελίδων, αντί για διαφάνειες. Ο Τζεφ Μπέζος έχει εξηγήσει ότι ένα ολοκληρωμένο κείμενο σε αναγκάζει να σκεφτείς καθαρά, και ότι η κοινή ανάγνωση εξασφαλίζει πως όλοι έχουν πραγματικά καταλάβει το περιεχόμενο πριν από τη συζήτηση."
+      },
+      "apply": {
+        "en": "Before every video meeting with a prospect, send one line: «Tomorrow at 11:00, 15 minutes: I show you two sites of colleagues of yours and you decide if it interests you.» Same with your team: no written agenda, no meeting. During the call, only the screen you share is open.",
+        "el": "Πριν από κάθε βιντεοκλήση με υποψήφιο πελάτη, στείλε μία γραμμή: «Αύριο στις 11:00, 15 λεπτά: σας δείχνω δύο ιστοσελίδες συναδέλφων σας και αποφασίζετε αν σας ενδιαφέρει.» Το ίδιο με την ομάδα σου: χωρίς γραπτή ατζέντα, δεν γίνεται σύσκεψη. Κατά την κλήση, είναι ανοιχτή μόνο η οθόνη που μοιράζεσαι."
+      },
+      "check": {
+        "q": {
+          "en": "What does Eyal say a meeting is mainly for?",
+          "el": "Για τι είναι κυρίως μια σύσκεψη, κατά τον Εγιάλ;"
+        },
+        "options": [
+          {
+            "en": "Brainstorming new ideas from zero together",
+            "el": "Για να βγάλετε μαζί νέες ιδέες από το μηδέν"
+          },
+          {
+            "en": "Reaching agreement on a problem prepared in advance",
+            "el": "Για να συμφωνήσετε σε ένα πρόβλημα που έχει προετοιμαστεί"
+          },
+          {
+            "en": "Giving everyone a full update on everything",
+            "el": "Για να ενημερωθούν όλοι για τα πάντα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Thinking happens best alone beforehand; the meeting is where people agree on a decision.",
+          "el": "Η σκέψη γίνεται καλύτερα από πριν και μοναχικά. Η σύσκεψη είναι για να συμφωνήσετε σε μια απόφαση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Hack back your phone and desktop",
+        "el": "Πάρε πίσω το κινητό και την οθόνη σου"
+      },
+      "explain": {
+        "en": "Your phone and computer are full of triggers. Eyal's four steps for the phone: remove apps you do not need; replace some uses with another device or time, like reading news only on the computer; rearrange the home screen so only useful tools are visible; and reclaim control of notifications. On the computer: clear the desktop, hide feeds you scroll without choosing, and save articles to read at a planned time.",
+        "el": "Το κινητό και ο υπολογιστής σου είναι γεμάτα ερεθίσματα. Τα τέσσερα βήματα του Εγιάλ για το κινητό: αφαίρεσε τις εφαρμογές που δεν χρειάζεσαι. Μετάφερε κάποιες χρήσεις σε άλλη συσκευή ή ώρα, για παράδειγμα ειδήσεις μόνο στον υπολογιστή. Αναδιάταξε την αρχική οθόνη ώστε να φαίνονται μόνο τα χρήσιμα εργαλεία. Και πάρε πίσω τον έλεγχο των ειδοποιήσεων. Στον υπολογιστή: καθάρισε την επιφάνεια εργασίας, κρύψε τα feed που κυλάς χωρίς να το διαλέγεις, και κράτα τα άρθρα για να τα διαβάσεις σε προγραμματισμένη ώρα."
+      },
+      "example": {
+        "en": "Eyal uses browser extensions such as News Feed Eradicator, which hides the Facebook feed but leaves the rest of the site working, and DF Tube, which removes recommended videos from YouTube. Articles he finds go into a read-later app, and he listens to many of them while walking.",
+        "el": "Ο Εγιάλ χρησιμοποιεί επεκτάσεις του browser όπως το News Feed Eradicator, που κρύβει το feed του Facebook αλλά αφήνει το υπόλοιπο site να δουλεύει, και το DF Tube, που αφαιρεί τα προτεινόμενα βίντεο από το YouTube. Τα άρθρα που βρίσκει πάνε σε μια εφαρμογή για διάβασμα αργότερα, και πολλά τα ακούει όσο περπατά."
+      },
+      "apply": {
+        "en": "Today, move Instagram, Facebook and news apps off your home screen into one folder on the last page. Keep only phone, calendar, CRM and maps on screen one. On the laptop, hide YouTube recommendations and save interesting articles to one read-later list for Sunday.",
+        "el": "Σήμερα, μετάφερε Instagram, Facebook και εφαρμογές ειδήσεων από την αρχική οθόνη σε έναν φάκελο στην τελευταία σελίδα. Στην πρώτη οθόνη κράτα μόνο τηλέφωνο, ημερολόγιο, CRM και χάρτες. Στο λάπτοπ, κρύψε τις προτάσεις του YouTube και κράτα τα ενδιαφέροντα άρθρα σε μία λίστα για την Κυριακή."
+      },
+      "check": {
+        "q": {
+          "en": "What are Eyal's four steps for the phone?",
+          "el": "Ποια είναι τα τέσσερα βήματα του Εγιάλ για το κινητό;"
+        },
+        "options": [
+          {
+            "en": "Remove, replace, rearrange, reclaim",
+            "el": "Αφαίρεσε, αντικατάστησε, αναδιάταξε, πάρε πίσω τον έλεγχο"
+          },
+          {
+            "en": "Lock, hide, delete, sell",
+            "el": "Κλείδωσε, κρύψε, σβήσε, πούλησε"
+          },
+          {
+            "en": "Check, reply, archive, repeat",
+            "el": "Έλεγξε, απάντησε, αρχειοθέτησε, επανέλαβε"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The goal is not to throw the phone away but to keep its useful parts and cut the triggers.",
+          "el": "Ο στόχος δεν είναι να πετάξεις το κινητό, αλλά να κρατήσεις τα χρήσιμα και να κόψεις τα ερεθίσματα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Effort pacts",
+        "el": "Συμφωνίες προσπάθειας"
+      },
+      "explain": {
+        "en": "Even with good habits, weak moments will come. A pact is a choice you make now that makes distraction harder later. The first kind is the effort pact: put friction between you and what you want to avoid. Apps that block sites for a set time, or working next to someone who expects you to work, raise the effort needed to drift away.",
+        "el": "Ακόμα και με καλές συνήθειες, θα έρθουν στιγμές αδυναμίας. Μια συμφωνία είναι μια απόφαση που παίρνεις τώρα και κάνει την απόσπαση πιο δύσκολη αργότερα. Το πρώτο είδος είναι η συμφωνία προσπάθειας: βάζεις εμπόδια ανάμεσα σε σένα και σε αυτό που θέλεις να αποφύγεις. Εφαρμογές που μπλοκάρουν sites για ορισμένο χρόνο, ή η δουλειά δίπλα σε κάποιον που περιμένει να σε δει να δουλεύεις, ανεβάζουν την προσπάθεια που χρειάζεται για να ξεφύγεις."
+      },
+      "example": {
+        "en": "In Homer's Odyssey, Odysseus has his crew tie him to the mast and fill their own ears with wax, so the ship can pass the Sirens. Today apps like Freedom block chosen sites and apps across devices for a set time, and Focusmate pairs you on video with a stranger who works alongside you.",
+        "el": "Στην Οδύσσεια του Ομήρου, ο Οδυσσέας βάζει τους συντρόφους του να τον δέσουν στο κατάρτι και να βουλώσουν τα δικά τους αυτιά με κερί, για να περάσει το πλοίο από τις Σειρήνες. Σήμερα εφαρμογές όπως το Freedom μπλοκάρουν όσα sites και εφαρμογές διαλέξεις, σε όλες τις συσκευές, για ορισμένο χρόνο, και το Focusmate σε βάζει σε βιντεοκλήση με έναν άγνωστο που δουλεύει παράλληλα με σένα."
+      },
+      "apply": {
+        "en": "For your two-hour call block, start a blocker on laptop and phone for Instagram, YouTube and news. Or book a Focusmate session for 9:30: knowing that a stranger sees you working makes it much harder to wander off in the middle of the list.",
+        "el": "Για το δίωρο των τηλεφωνημάτων, ενεργοποίησε μπλοκάρισμα σε λάπτοπ και κινητό για Instagram, YouTube και ειδήσεις. Ή κλείσε μια συνεδρία Focusmate για τις 9:30: όταν ξέρεις ότι ένας άγνωστος σε βλέπει να δουλεύεις, είναι πολύ πιο δύσκολο να ξεφύγεις στη μέση της λίστας."
+      },
+      "check": {
+        "q": {
+          "en": "What does an effort pact do?",
+          "el": "Τι κάνει μια συμφωνία προσπάθειας;"
+        },
+        "options": [
+          {
+            "en": "Pays you a small reward for each hour of focus",
+            "el": "Σου δίνει μια μικρή ανταμοιβή για κάθε ώρα συγκέντρωσης"
+          },
+          {
+            "en": "Removes the feeling of boredom for good",
+            "el": "Εξαφανίζει για πάντα το αίσθημα της βαρεμάρας"
+          },
+          {
+            "en": "Makes distraction harder to reach in the weak moment",
+            "el": "Κάνει την απόσπαση πιο δύσκολη τη στιγμή της αδυναμίας"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Friction decided in advance protects you when your resolve is low.",
+          "el": "Τα εμπόδια που έβαλες από πριν σε προστατεύουν όταν η αποφασιστικότητά σου είναι χαμηλή."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Price pacts",
+        "el": "Συμφωνίες με τίμημα"
+      },
+      "explain": {
+        "en": "A price pact puts money on the line: if you do not do what you planned, you lose it. It works because losing money hurts. Eyal warns it fits only short, clear tasks that depend on you alone, where the temptation can be fully removed. Use it rarely, because a pact you keep breaking makes you feel worse and quit.",
+        "el": "Η συμφωνία με τίμημα βάζει λεφτά στο τραπέζι: αν δεν κάνεις ό,τι σχεδίασες, τα χάνεις. Πιάνει επειδή η απώλεια χρημάτων πονάει. Ο Εγιάλ προειδοποιεί ότι ταιριάζει μόνο σε σύντομες, ξεκάθαρες δουλειές που εξαρτώνται μόνο από σένα, όπου ο πειρασμός μπορεί να αφαιρεθεί εντελώς. Χρησιμοποίησέ τη σπάνια, γιατί μια συμφωνία που αθετείς συνέχεια σε κάνει να νιώθεις χειρότερα και να τα παρατάς."
+      },
+      "example": {
+        "en": "Eyal wanted to exercise regularly. He pinned a 100-dollar bill to his wall calendar and promised himself he would burn it on any day he skipped his workout. The website stickK, co-founded by Yale economists Dean Karlan and Ian Ayres, lets people stake money on their goals in a similar way.",
+        "el": "Ο Εγιάλ ήθελε να γυμνάζεται τακτικά. Κάρφωσε ένα χαρτονόμισμα των 100 δολαρίων στο ημερολόγιο του τοίχου και υποσχέθηκε στον εαυτό του να το κάψει όποια μέρα έχανε την προπόνηση. Η ιστοσελίδα stickK, που την ίδρυσαν μεταξύ άλλων οι οικονομολόγοι του Γέιλ Ντιν Κάρλαν και Ίαν Έιρς, επιτρέπει με παρόμοιο τρόπο να βάζεις χρήματα εγγύηση για τους στόχους σου."
+      },
+      "apply": {
+        "en": "Make a price pact for one task you keep avoiding, like writing the script for your new ad. Give a friend 50€ and tell them to keep it if the script is not in their inbox by Friday 18:00. Clear task, clear deadline, only you involved.",
+        "el": "Κάνε μια συμφωνία με τίμημα για μία δουλειά που αναβάλλεις συνέχεια, όπως το σενάριο της νέας διαφήμισης. Δώσε σε έναν φίλο 50€ και πες του να τα κρατήσει αν το σενάριο δεν είναι στο inbox του μέχρι την Παρασκευή στις 18:00. Ξεκάθαρη δουλειά, ξεκάθαρη προθεσμία, μόνο εσύ μέσα."
+      },
+      "check": {
+        "q": {
+          "en": "When is a price pact a good fit?",
+          "el": "Πότε ταιριάζει μια συμφωνία με τίμημα;"
+        },
+        "options": [
+          {
+            "en": "For a habit you want to keep for the rest of your life",
+            "el": "Για μια συνήθεια που θέλεις να κρατήσεις μια ζωή"
+          },
+          {
+            "en": "For a short, clear task that depends only on you",
+            "el": "Για μια σύντομη, ξεκάθαρη δουλειά που εξαρτάται μόνο από σένα"
+          },
+          {
+            "en": "For a team goal that depends on several people",
+            "el": "Για έναν ομαδικό στόχο που εξαρτάται από πολλούς"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Money pressure works for short, controllable tasks; for long habits or shared goals it backfires.",
+          "el": "Η πίεση των χρημάτων πιάνει σε σύντομες δουλειές που ελέγχεις. Σε μακροχρόνιες συνήθειες ή κοινούς στόχους γυρίζει μπούμερανγκ."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Identity pacts",
+        "el": "Συμφωνίες ταυτότητας"
+      },
+      "explain": {
+        "en": "The deepest pact is about who you are. When an action becomes part of your identity, choices stop feeling like sacrifices. A vegetarian does not fight the urge to order steak; it is simply not who they are. Eyal suggests calling yourself «indistractable», telling others, and using small rituals that remind you. «I don't» is stronger than «I can't».",
+        "el": "Η πιο βαθιά συμφωνία αφορά το ποιος είσαι. Όταν μια πράξη γίνεται κομμάτι της ταυτότητάς σου, οι επιλογές παύουν να μοιάζουν με θυσίες. Ένας χορτοφάγος δεν παλεύει με την επιθυμία να παραγγείλει μπριζόλα. Απλώς δεν είναι αυτό που είναι. Ο Εγιάλ προτείνει να λες τον εαυτό σου «αναπόσπαστο», να το λες και στους άλλους, και να έχεις μικρές τελετουργίες που σου το θυμίζουν. Το «δεν το κάνω» είναι πιο δυνατό από το «δεν μπορώ»."
+      },
+      "example": {
+        "en": "In a 2012 study by Vanessa Patrick and Henrik Hagtvedt, people who told themselves «I don't» (for example «I don't eat that») resisted temptation more often than those who said «I can't». «Can't» sounds like a rule from outside; «don't» sounds like who you are.",
+        "el": "Σε μια μελέτη του 2012 από τη Βανέσα Πάτρικ και τον Χένρικ Χάγκτβεντ, όσοι έλεγαν στον εαυτό τους «δεν το κάνω» (για παράδειγμα «δεν τρώω αυτό») αντιστέκονταν στον πειρασμό συχνότερα από όσους έλεγαν «δεν μπορώ». Το «δεν μπορώ» ακούγεται σαν κανόνας απ' έξω. Το «δεν το κάνω» ακούγεται σαν αυτό που είσαι."
+      },
+      "apply": {
+        "en": "Say it in identity words: «I don't check Instagram during call blocks», not «I can't». Tell your team and a friend you are training to be indistractable. Pair it with a ritual, like putting the phone face down in a drawer when the first call starts.",
+        "el": "Πες το με λέξεις ταυτότητας: «Δεν ανοίγω Instagram στα μπλοκ των τηλεφωνημάτων», όχι «δεν μπορώ». Πες στην ομάδα και σε έναν φίλο ότι εκπαιδεύεσαι να είσαι αναπόσπαστος. Δέσ' το με μια τελετουργία, όπως να βάζεις το κινητό ανάποδα σε ένα συρτάρι μόλις ξεκινά το πρώτο τηλεφώνημα."
+      },
+      "check": {
+        "q": {
+          "en": "Why does «I don't» work better than «I can't»?",
+          "el": "Γιατί το «δεν το κάνω» πιάνει καλύτερα από το «δεν μπορώ»;"
+        },
+        "options": [
+          {
+            "en": "It is shorter and easier to remember",
+            "el": "Είναι πιο σύντομο και το θυμάσαι πιο εύκολα"
+          },
+          {
+            "en": "It sounds like your identity, not an outside rule",
+            "el": "Ακούγεται σαν ταυτότητα και όχι σαν κανόνας απ' έξω"
+          },
+          {
+            "en": "It stops other people from asking you",
+            "el": "Σταματά τους άλλους από το να σε ρωτούν"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "When a choice expresses who you are, it no longer feels like a fight against yourself.",
+          "el": "Όταν μια επιλογή εκφράζει αυτό που είσαι, δεν μοιάζει πια με μάχη με τον εαυτό σου."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Fix the culture, not the people",
+        "el": "Φτιάξε την κουλτούρα, όχι τους ανθρώπους"
+      },
+      "explain": {
+        "en": "When a whole team is always distracted, the problem is usually not the people but the culture. Constant pings and the expectation of instant replies are symptoms. Eyal says healthy teams share three things: people feel safe to talk about the problem, there is a place to discuss it, and leaders show the way by being indistractable themselves.",
+        "el": "Όταν μια ολόκληρη ομάδα αποσπάται συνέχεια, το πρόβλημα συνήθως δεν είναι οι άνθρωποι αλλά η κουλτούρα. Οι συνεχείς ειδοποιήσεις και η απαίτηση για άμεση απάντηση είναι συμπτώματα. Ο Εγιάλ λέει ότι οι υγιείς ομάδες έχουν τρία κοινά: οι άνθρωποι νιώθουν ασφαλείς να μιλήσουν για το πρόβλημα, υπάρχει χώρος να το συζητήσουν, και οι επικεφαλής δείχνουν τον δρόμο, όντας οι ίδιοι αναπόσπαστοι."
+      },
+      "example": {
+        "en": "Google studied what makes its best teams work in a research effort called Project Aristotle. The strongest factor was psychological safety: members felt safe to take risks and speak up without being embarrassed. Distraction gets fixed only where someone dares to say «this chat is drowning us».",
+        "el": "Η Google μελέτησε τι κάνει τις καλύτερες ομάδες της να δουλεύουν, σε μια έρευνα με το όνομα Project Aristotle. Ο πιο δυνατός παράγοντας ήταν η ψυχολογική ασφάλεια: τα μέλη ένιωθαν ασφαλή να ρισκάρουν και να μιλήσουν χωρίς να ντραπούν. Η απόσπαση διορθώνεται μόνο εκεί όπου κάποιος τολμά να πει «αυτό το chat μάς πνίγει»."
+      },
+      "apply": {
+        "en": "As you grow the team, say from day one that nobody is expected to answer in the evening, and that anyone can point out when tools or habits hurt focus. Then live it: do not message your helper at 23:00, and praise finished work, never instant replies.",
+        "el": "Καθώς μεγαλώνεις την ομάδα, πες από την πρώτη μέρα ότι κανείς δεν περιμένει απάντηση το βράδυ, και ότι ο καθένας μπορεί να πει πότε τα εργαλεία ή οι συνήθειες χαλάνε τη συγκέντρωση. Μετά κάν' το πράξη: μη στέλνεις στον βοηθό σου στις 23:00, και να επαινείς τη δουλειά που τελείωσε, ποτέ τις άμεσες απαντήσεις."
+      },
+      "check": {
+        "q": {
+          "en": "When everyone on a team is distracted, what does Eyal say is usually the cause?",
+          "el": "Όταν όλη η ομάδα αποσπάται, τι λέει ο Εγιάλ ότι φταίει συνήθως;"
+        },
+        "options": [
+          {
+            "en": "The culture of the workplace",
+            "el": "Η κουλτούρα του χώρου δουλειάς"
+          },
+          {
+            "en": "Lazy employees",
+            "el": "Οι τεμπέληδες υπάλληλοι"
+          },
+          {
+            "en": "Old computers and slow internet",
+            "el": "Οι παλιοί υπολογιστές και το αργό ίντερνετ"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Distraction across a team is a symptom of how the team works and talks.",
+          "el": "Η απόσπαση σε όλη την ομάδα είναι σύμπτωμα του τρόπου που η ομάδα δουλεύει και μιλάει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Kids, friends and partners",
+        "el": "Παιδιά, φίλοι και σύντροφοι"
+      },
+      "explain": {
+        "en": "Eyal ends with children and close relationships. Kids drift to screens when their basic needs go unmet offline: autonomy (some control), competence (feeling good at something) and relatedness (feeling connected). Instead of only banning, help them plan their own time and understand their inner triggers. With friends and partners, agree on simple rules, like no phones at dinner, and gently name it when someone vanishes into a screen.",
+        "el": "Ο Εγιάλ κλείνει με τα παιδιά και τις στενές σχέσεις. Τα παιδιά πηγαίνουν στις οθόνες όταν οι βασικές τους ανάγκες μένουν ανικανοποίητες εκτός οθόνης: αυτονομία (λίγος έλεγχος), ικανότητα (να νιώθουν καλά σε κάτι) και σύνδεση (να νιώθουν δεμένα με άλλους). Αντί μόνο για απαγορεύσεις, βοήθησέ τα να σχεδιάζουν τον χρόνο τους και να καταλαβαίνουν τα εσωτερικά τους ερεθίσματα. Με φίλους και συντρόφους, συμφωνήστε απλούς κανόνες, όπως όχι κινητά στο τραπέζι, και πες το ευγενικά όταν κάποιος χάνεται σε μια οθόνη."
+      },
+      "example": {
+        "en": "Psychologists Edward Deci and Richard Ryan built self-determination theory over decades of research: people of all ages are driven by those three needs. Eyal uses it to explain why a teenager who feels controlled at school and alone at home finds all three in an online game with friends.",
+        "el": "Οι ψυχολόγοι Έντουαρντ Ντέσι και Ρίτσαρντ Ράιαν έχτισαν μέσα από δεκαετίες έρευνας τη θεωρία του αυτοπροσδιορισμού: άνθρωποι κάθε ηλικίας κινούνται από αυτές τις τρεις ανάγκες. Ο Εγιάλ τη χρησιμοποιεί για να εξηγήσει γιατί ένας έφηβος που νιώθει ελεγχόμενος στο σχολείο και μόνος στο σπίτι βρίσκει και τις τρεις σε ένα online παιχνίδι με φίλους."
+      },
+      "apply": {
+        "en": "With friends or family, make one simple pact: phones go in a basket during dinner. If someone at the table starts scrolling, ask kindly «Is everything OK?» instead of preaching. If there are kids around you, help them plan their own screen time instead of only forbidding it.",
+        "el": "Με φίλους ή οικογένεια, κάνε μια απλή συμφωνία: τα κινητά μπαίνουν σε ένα καλάθι στο φαγητό. Αν κάποιος στο τραπέζι αρχίσει να σκρολάρει, ρώτα ευγενικά «Όλα καλά;» αντί για κήρυγμα. Αν έχεις παιδιά γύρω σου, βοήθησέ τα να σχεδιάζουν μόνα τους τον χρόνο στην οθόνη, αντί μόνο να τον απαγορεύεις."
+      },
+      "check": {
+        "q": {
+          "en": "Why do kids get hooked on screens, according to Eyal?",
+          "el": "Γιατί κολλάνε τα παιδιά με τις οθόνες, κατά τον Εγιάλ;"
+        },
+        "options": [
+          {
+            "en": "Screens are simply too strong for any child to resist",
+            "el": "Οι οθόνες είναι απλώς πολύ δυνατές για κάθε παιδί"
+          },
+          {
+            "en": "Children today are lazier than before",
+            "el": "Τα σημερινά παιδιά είναι πιο τεμπέλικα από παλιά"
+          },
+          {
+            "en": "Their needs for autonomy, competence and connection go unmet offline",
+            "el": "Οι ανάγκες τους για αυτονομία, ικανότητα και σύνδεση δεν καλύπτονται εκτός οθόνης"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Screens fill gaps; meet the needs in real life and the pull of the screen weakens.",
+          "el": "Οι οθόνες γεμίζουν κενά. Κάλυψε τις ανάγκες στην πραγματική ζωή και το τράβηγμα της οθόνης αδυνατίζει."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "You start your 10:00 call block and feel a strong urge to check the client chat «just in case». What do you do?",
+        "el": "Ξεκινάς το μπλοκ των τηλεφωνημάτων στις 10:00 και νιώθεις έντονη ανάγκη να δεις το chat των πελατών «για σιγουριά». Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Check it quickly, it only takes a minute",
+          "el": "Ρίχνεις μια γρήγορη ματιά, ένα λεπτό είναι"
+        },
+        {
+          "en": "Note the feeling, wait ten minutes and keep dialling",
+          "el": "Σημειώνεις το συναίσθημα, περιμένεις δέκα λεπτά και συνεχίζεις τα τηλέφωνα"
+        },
+        {
+          "en": "Cancel the call block and do chat all morning",
+          "el": "Ακυρώνεις τα τηλέφωνα και κάνεις chat όλο το πρωί"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "The urge is an internal trigger; naming it and waiting lets it pass without breaking your plan.",
+        "el": "Η ανάγκη είναι εσωτερικό ερέθισμα. Όταν την ονομάζεις και περιμένεις, περνά χωρίς να χαλάσει το πλάνο σου."
+      },
+      "idea": 3
+    },
+    {
+      "q": {
+        "en": "A client writes in the chat at 22:30 asking for a small change. What do you do?",
+        "el": "Ένας πελάτης γράφει στο chat στις 22:30 και ζητά μια μικρή αλλαγή. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Reply at once so they see how committed you are",
+          "el": "Απαντάς αμέσως για να δει πόσο αφοσιωμένος είσαι"
+        },
+        {
+          "en": "Ignore it until they write again next week",
+          "el": "Το αγνοείς μέχρι να ξαναγράψει την άλλη εβδομάδα"
+        },
+        {
+          "en": "Answer in tomorrow's chat window, as your reply hours say",
+          "el": "Απαντάς στο αυριανό παράθυρο του chat, όπως λένε οι ώρες απαντήσεών σου"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Scheduled chat windows, shared with clients, stop the chat from running your life while still serving them well.",
+        "el": "Τα σταθερά παράθυρα για το chat, που τα ξέρουν και οι πελάτες, εμποδίζουν το chat να σου κάνει κουμάντο, και οι πελάτες εξυπηρετούνται κανονικά."
+      },
+      "idea": 12
+    },
+    {
+      "q": {
+        "en": "Your new helper keeps messaging you small questions during your build hours. What do you do?",
+        "el": "Ο νέος σου βοηθός σού στέλνει συνέχεια μικρές ερωτήσεις στις ώρες που χτίζεις sites. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Set a visible «deep work until 12:00» status and a daily Q&A slot",
+          "el": "Βάζεις ορατή κατάσταση «συγκέντρωση μέχρι τις 12:00» και ένα καθημερινό slot για ερωτήσεις"
+        },
+        {
+          "en": "Answer each one instantly to keep things moving",
+          "el": "Απαντάς αμέσως στην καθεμία για να μην κολλάει τίποτα"
+        },
+        {
+          "en": "Mute them without explaining why",
+          "el": "Τον βάζεις σε σίγαση χωρίς εξήγηση"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "A clear signal plus a set time for questions protects your focus and still helps your helper.",
+        "el": "Ένα καθαρό σήμα μαζί με σταθερή ώρα για ερωτήσεις προστατεύει τη συγκέντρωσή σου και βοηθάει και τον βοηθό."
+      },
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "You have avoided writing your new ad script for two weeks. What do you do?",
+        "el": "Αναβάλλεις εδώ και δύο εβδομάδες το σενάριο της νέας διαφήμισης. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Wait until you feel inspired",
+          "el": "Περιμένεις να έρθει η έμπνευση"
+        },
+        {
+          "en": "Download a new productivity app",
+          "el": "Κατεβάζεις μια νέα εφαρμογή παραγωγικότητας"
+        },
+        {
+          "en": "Give a friend 50€ to keep if the script is not sent by Friday",
+          "el": "Δίνεις σε έναν φίλο 50€ να τα κρατήσει αν δεν στείλεις το σενάριο ως την Παρασκευή"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "A price pact fits a short, clear task that depends only on you.",
+        "el": "Η συμφωνία με τίμημα ταιριάζει σε μια σύντομη, ξεκάθαρη δουλειά που εξαρτάται μόνο από σένα."
+      },
+      "idea": 16
+    },
+    {
+      "q": {
+        "en": "It is Sunday night and last week felt like a blur of reacting to others. What do you do?",
+        "el": "Κυριακή βράδυ, και η περασμένη εβδομάδα ήταν μια θολούρα από αντιδράσεις στους άλλους. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Write a longer to-do list for next week",
+          "el": "Γράφεις μια μεγαλύτερη λίστα εργασιών για την επόμενη εβδομάδα"
+        },
+        {
+          "en": "Timebox next week, starting with gym and friends, then work",
+          "el": "Κάνεις timeboxing στην επόμενη εβδομάδα, ξεκινώντας από γυμναστήριο και φίλους και μετά δουλειά"
+        },
+        {
+          "en": "Work on Sunday too, to catch up",
+          "el": "Δουλεύεις και την Κυριακή για να προλάβεις"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Turning values into time on a calendar is how you stop living by other people's priorities.",
+        "el": "Όταν κάνεις τις αξίες σου χρόνο στο ημερολόγιο, σταματάς να ζεις με τις προτεραιότητες των άλλων."
+      },
+      "idea": 6
+    },
+    {
+      "q": {
+        "en": "At dinner with friends, half the table is on their phones. What do you do?",
+        "el": "Σε ένα τραπέζι με φίλους, οι μισοί κοιτούν το κινητό. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Suggest, with a smile, that all phones go in a basket until dessert",
+          "el": "Προτείνεις με χαμόγελο να μπουν όλα τα κινητά σε ένα καλάθι μέχρι το γλυκό"
+        },
+        {
+          "en": "Give a short speech about phone addiction",
+          "el": "Βγάζεις έναν μικρό λόγο για τον εθισμό στα κινητά"
+        },
+        {
+          "en": "Take out your phone too",
+          "el": "Βγάζεις κι εσύ το κινητό σου"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "A light, shared social pact works better than a lecture and protects the time together.",
+        "el": "Μια ανάλαφρη κοινή συμφωνία πιάνει καλύτερα από ένα κήρυγμα και προστατεύει τον χρόνο που περνάτε μαζί."
+      },
+      "idea": 19
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "The same activity can be traction or distraction, depending on whether you planned it.",
+        "el": "Η ίδια δραστηριότητα μπορεί να είναι έλξη ή απόσπαση, ανάλογα με το αν την είχες σχεδιάσει."
+      },
+      "answer": true,
+      "why": {
+        "en": "Eyal defines distraction against your plan, not by the activity itself.",
+        "el": "Ο Εγιάλ ορίζει την απόσπαση σε σχέση με το πλάνο σου, όχι με την ίδια τη δραστηριότητα."
+      }
+    },
+    {
+      "s": {
+        "en": "Eyal says the main cause of distraction is technology.",
+        "el": "Ο Εγιάλ λέει ότι η κύρια αιτία της απόσπασης είναι η τεχνολογία."
+      },
+      "answer": false,
+      "why": {
+        "en": "He says most distraction starts with internal triggers, the wish to escape discomfort.",
+        "el": "Λέει ότι οι περισσότερες αποσπάσεις ξεκινούν από εσωτερικά ερεθίσματα, την ανάγκη να ξεφύγουμε από μια δυσφορία."
+      }
+    },
+    {
+      "s": {
+        "en": "Eyal suggests timeboxing even rest and fun.",
+        "el": "Ο Εγιάλ προτείνει timeboxing ακόμα και για την ξεκούραση και τη διασκέδαση."
+      },
+      "answer": true,
+      "why": {
+        "en": "Time you planned for fun is traction, not wasted time.",
+        "el": "Ο χρόνος που σχεδίασες για διασκέδαση είναι έλξη, όχι χαμένος χρόνος."
+      }
+    },
+    {
+      "s": {
+        "en": "A price pact is the best tool for building lifelong habits.",
+        "el": "Η συμφωνία με τίμημα είναι το καλύτερο εργαλείο για συνήθειες ζωής."
+      },
+      "answer": false,
+      "why": {
+        "en": "Eyal says price pacts suit short, clear tasks; for long habits they tend to backfire.",
+        "el": "Ο Εγιάλ λέει ότι ταιριάζει σε σύντομες, ξεκάθαρες δουλειές. Στις μακροχρόνιες συνήθειες συνήθως γυρίζει μπούμερανγκ."
+      }
+    },
+    {
+      "s": {
+        "en": "In Eyal's view, a team where everyone is always distracted usually has a culture problem.",
+        "el": "Κατά τον Εγιάλ, μια ομάδα όπου όλοι αποσπώνται συνέχεια συνήθως έχει πρόβλημα κουλτούρας."
+      },
+      "answer": true,
+      "why": {
+        "en": "Team-wide distraction is a symptom of how the workplace works, not of lazy people.",
+        "el": "Η απόσπαση σε όλη την ομάδα είναι σύμπτωμα του τρόπου λειτουργίας, όχι τεμπέλικων ανθρώπων."
+      }
+    },
+    {
+      "s": {
+        "en": "The 10-minute rule means you must never give in to an urge.",
+        "el": "Ο κανόνας των δέκα λεπτών σημαίνει ότι δεν πρέπει να υποκύπτεις ποτέ σε μια παρόρμηση."
+      },
+      "answer": false,
+      "why": {
+        "en": "You wait ten minutes; after that you may choose to act, but usually the urge has passed.",
+        "el": "Περιμένεις δέκα λεπτά. Μετά μπορείς να επιλέξεις, αλλά συνήθως η παρόρμηση έχει περάσει."
+      }
+    },
+    {
+      "s": {
+        "en": "Eyal says feeling restless and unsatisfied can push you to improve.",
+        "el": "Ο Εγιάλ λέει ότι η ανησυχία και η δυσαρέσκεια μπορούν να σε σπρώξουν να βελτιωθείς."
+      },
+      "answer": true,
+      "why": {
+        "en": "He sees dissatisfaction as an engine you can point at useful work.",
+        "el": "Βλέπει τη δυσαρέσκεια σαν μηχανή που μπορείς να στρέψεις σε χρήσιμη δουλειά."
+      }
+    },
+    {
+      "s": {
+        "en": "Eyal recommends deleting all apps and switching to a basic phone.",
+        "el": "Ο Εγιάλ προτείνει να σβήσεις όλες τις εφαρμογές και να πάρεις ένα απλό κινητό."
+      },
+      "answer": false,
+      "why": {
+        "en": "He keeps the useful tools and removes only the triggers that do not serve him.",
+        "el": "Κρατά τα χρήσιμα εργαλεία και αφαιρεί μόνο τα ερεθίσματα που δεν τον υπηρετούν."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "Traction",
+        "el": "Έλξη"
+      },
+      "b": {
+        "en": "Any action toward what you planned",
+        "el": "Κάθε πράξη προς αυτό που σχεδίασες"
+      }
+    },
+    {
+      "a": {
+        "en": "Internal trigger",
+        "el": "Εσωτερικό ερέθισμα"
+      },
+      "b": {
+        "en": "An unpleasant feeling that pushes you to act",
+        "el": "Δυσάρεστο συναίσθημα που σε σπρώχνει να κάνεις κάτι"
+      }
+    },
+    {
+      "a": {
+        "en": "Timeboxing",
+        "el": "Μπλοκ χρόνου"
+      },
+      "b": {
+        "en": "Deciding what you will do and when",
+        "el": "Αποφασίζεις τι θα κάνεις και πότε"
+      }
+    },
+    {
+      "a": {
+        "en": "Effort pact",
+        "el": "Συμφωνία προσπάθειας"
+      },
+      "b": {
+        "en": "Adding friction to make distraction harder",
+        "el": "Βάζεις εμπόδια για να δυσκολέψει η απόσπαση"
+      }
+    },
+    {
+      "a": {
+        "en": "Identity pact",
+        "el": "Συμφωνία ταυτότητας"
+      },
+      "b": {
+        "en": "Acting from who you are",
+        "el": "Πράττεις με βάση το ποιος είσαι"
+      }
+    },
+    {
+      "a": {
+        "en": "Schedule sync",
+        "el": "Συντονισμός προγράμματος"
+      },
+      "b": {
+        "en": "Agreeing priorities with the people you work with",
+        "el": "Συμφωνείς προτεραιότητες με όσους δουλεύεις"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Write tomorrow as a timeboxed calendar, including a gym block and a 30-minute client chat window.",
+      "el": "Γράψε την αυριανή μέρα ως ημερολόγιο με μπλοκ, μαζί με ένα μπλοκ γυμναστηρίου και ένα μισάωρο για το chat των πελατών."
+    },
+    {
+      "en": "Keep a distraction log for one day: each time you drift, note the time and the feeling.",
+      "el": "Κράτα για μία μέρα σημειώσεις αποσπάσεων: κάθε φορά που ξεφεύγεις, γράψε την ώρα και το συναίσθημα."
+    },
+    {
+      "en": "Turn off notifications for every app that fails the «does this serve me?» test.",
+      "el": "Κλείσε τις ειδοποιήσεις σε κάθε εφαρμογή που αποτυγχάνει στο τεστ «με υπηρετεί;»."
+    },
+    {
+      "en": "Move social and news apps off your phone's home screen into a folder on the last page.",
+      "el": "Μετάφερε τα social και τις ειδήσεις από την αρχική οθόνη του κινητού σε έναν φάκελο στην τελευταία σελίδα."
+    },
+    {
+      "en": "Add one line to your client welcome message saying at which hours you reply in the chat.",
+      "el": "Πρόσθεσε μία γραμμή στο μήνυμα καλωσορίσματος των πελατών που λέει ποιες ώρες απαντάς στο chat."
+    }
+  ],
+  "mantra": {
+    "en": "I plan my time, I guard my attention, I keep my word.",
+    "el": "Σχεδιάζω τον χρόνο μου, φυλάω την προσοχή μου, κρατάω τον λόγο μου."
+  },
+  "careful": {
+    "en": "Eyal also wrote Hooked, a guide to building habit-forming products, and critics note that this book puts most of the responsibility on the user while companies keep designing apps to grab attention. His advice is practical but built mostly on stories and selected studies, not on trials of the full method, and research on willpower beliefs has mixed replication results. Serious attention or anxiety problems need a professional, not only timeboxing.",
+    "el": "Ο Εγιάλ έγραψε και το Hooked, έναν οδηγό για προϊόντα που δημιουργούν συνήθειες, και οι επικριτές σημειώνουν ότι εδώ ρίχνει το μεγαλύτερο βάρος στον χρήστη, ενώ οι εταιρείες συνεχίζουν να σχεδιάζουν εφαρμογές που αρπάζουν την προσοχή. Οι συμβουλές του είναι πρακτικές, αλλά στηρίζονται κυρίως σε ιστορίες και επιλεγμένες μελέτες, όχι σε δοκιμές όλης της μεθόδου, και η έρευνα για τις πεποιθήσεις γύρω από τη θέληση έχει μικτά αποτελέσματα επανάληψης. Σοβαρά θέματα προσοχής ή άγχους θέλουν ειδικό, όχι μόνο timeboxing."
+  },
+  "connects": [
+    {
+      "book": "deep-work",
+      "note": {
+        "en": "Newport tells you why deep focus is valuable and how to build a deep life; Eyal gives the day-to-day tools to stop the pulls that break it.",
+        "el": "Ο Νιούπορτ σού λέει γιατί αξίζει η βαθιά συγκέντρωση και πώς χτίζεις μια ζωή γύρω της. Ο Εγιάλ δίνει τα καθημερινά εργαλεία για να κόψεις όσα τη διακόπτουν."
+      }
+    },
+    {
+      "book": "procrastination-puzzle",
+      "note": {
+        "en": "Both see avoidance as an escape from bad feelings; Pychyl focuses on getting started, Eyal on the whole system of triggers, time and pacts.",
+        "el": "Και οι δύο βλέπουν την αποφυγή ως φυγή από δυσάρεστα συναισθήματα. Ο Πίτσιλ εστιάζει στο ξεκίνημα, ο Εγιάλ σε όλο το σύστημα: ερεθίσματα, χρόνος, συμφωνίες."
+      }
+    },
+    {
+      "book": "atomic-habits",
+      "note": {
+        "en": "Clear's «make it difficult» and identity-based habits are close cousins of Eyal's effort pacts and identity pacts.",
+        "el": "Το «κάν' το δύσκολο» και οι συνήθειες ταυτότητας του Κλίαρ είναι κοντινά ξαδέρφια των συμφωνιών προσπάθειας και ταυτότητας του Εγιάλ."
+      }
+    }
+  ]
+}

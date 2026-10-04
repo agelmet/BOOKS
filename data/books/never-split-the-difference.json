@@ -1,0 +1,626 @@
+{
+  "id": "never-split-the-difference",
+  "title": {"en": "Never Split the Difference", "el": "Ποτέ μη μοιράζεις τη διαφορά"},
+  "author": "Chris Voss with Tahl Raz",
+  "authorEl": "Κρις Βος με τον Ταλ Ραζ",
+  "year": 2016,
+  "shelf": "sales",
+  "skills": {"persuasion": 3, "communication": 3, "sales": 2},
+  "oneLine": {
+    "en": "Every conversation is a negotiation, and you win it not with logic or pressure but by making the other person feel truly heard, safe and in control.",
+    "el": "Κάθε κουβέντα είναι διαπραγμάτευση, και την κερδίζεις όχι με λογική ή πίεση, αλλά κάνοντας τον άλλον να νιώσει ότι τον άκουσες, ότι είναι ασφαλής και ότι έχει τον έλεγχο."
+  },
+  "story": {
+    "en": "Chris Voss spent over twenty years in the FBI and became its lead international kidnapping negotiator. He learned his craft talking to bank robbers, terrorists and kidnappers, where a mistake costs a life. In 2016, with journalist Tahl Raz, he turned those lessons into tools for business and daily life. It became one of the most recommended books on negotiation because its techniques are simple, specific and work on the phone tomorrow.",
+    "el": "Ο Κρις Βος πέρασε πάνω από είκοσι χρόνια στο FBI και έγινε ο επικεφαλής διαπραγματευτής του σε διεθνείς απαγωγές. Έμαθε τη δουλειά μιλώντας με ληστές τραπεζών, τρομοκράτες και απαγωγείς, εκεί όπου ένα λάθος κοστίζει μια ζωή. Το 2016, μαζί με τον δημοσιογράφο Ταλ Ραζ, μετέτρεψε αυτά τα μαθήματα σε εργαλεία για τη δουλειά και την καθημερινότητα. Έγινε από τα πιο προτεινόμενα βιβλία διαπραγμάτευσης, γιατί οι τεχνικές του είναι απλές, συγκεκριμένες και τις δοκιμάζεις στο τηλέφωνο από αύριο."
+  },
+  "forYou": {
+    "en": "Your day is full of small negotiations: a doctor who says «not interested», a client who wants one more change, a payment that is late, a team member who disagrees. Voss gives you exact sentences for each moment. Above all he shows you how to stop pushing and start listening in a way that makes people open up and say yes on their own.",
+    "el": "Η μέρα σου είναι γεμάτη μικρές διαπραγματεύσεις: ο γιατρός που λέει «δεν ενδιαφέρομαι», ο πελάτης που θέλει άλλη μία αλλαγή, η πληρωμή που αργεί, ο συνεργάτης που διαφωνεί. Ο Βος σού δίνει ακριβείς φράσεις για κάθε τέτοια στιγμή. Πάνω απ' όλα σού δείχνει πώς να σταματήσεις να πιέζεις και να αρχίσεις να ακούς με τρόπο που κάνει τον άλλον να ανοιχτεί και να πει «ναι» μόνος του."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Emotion decides, logic explains", "el": "Αποφασίζει το συναίσθημα, όχι η λογική"},
+      "explain": {
+        "en": "Old negotiation teaching treated people as rational: find the interests, offer a fair deal, done. Voss says that is wrong. People decide mostly with feelings and then find reasons. So the real work is tactical empathy: understanding what the other person feels and fears, and saying it out loud. You do not have to agree with them. You only have to show you understand.",
+        "el": "Η παλιά διδασκαλία της διαπραγμάτευσης έβλεπε τους ανθρώπους ως λογικά όντα: βρίσκεις τα συμφέροντα, προτείνεις μια δίκαιη συμφωνία, τέλος. Ο Βος λέει ότι αυτό είναι λάθος. Οι άνθρωποι αποφασίζουν κυρίως με το συναίσθημα και μετά βρίσκουν δικαιολογίες. Άρα η πραγματική δουλειά είναι η «τακτική ενσυναίσθηση»: να καταλάβεις τι νιώθει και τι φοβάται ο άλλος και να το πεις φωναχτά. Δεν χρειάζεται να συμφωνήσεις μαζί του. Αρκεί να δείξεις ότι καταλαβαίνεις."
+      },
+      "example": {
+        "en": "Voss builds on the work of Daniel Kahneman, who won the Nobel prize in economics for showing that most choices come from fast, emotional thinking (System 1), while slow, logical thinking (System 2) mostly justifies them afterwards. If you only talk to System 2, you talk to the wrong part of the brain.",
+        "el": "Ο Βος πατάει πάνω στη δουλειά του Ντάνιελ Κάνεμαν, που πήρε Νόμπελ οικονομικών επειδή έδειξε ότι οι περισσότερες επιλογές βγαίνουν από τη γρήγορη, συναισθηματική σκέψη (Σύστημα 1), ενώ η αργή, λογική σκέψη (Σύστημα 2) κυρίως τις δικαιολογεί μετά. Αν μιλάς μόνο στο Σύστημα 2, μιλάς στο λάθος κομμάτι του μυαλού."
+      },
+      "apply": {
+        "en": "Before each call, write the doctor's likely fear, not your features: «another salesman», «a hidden cost», «a site I cannot control». Open with that feeling: «You probably get calls like this every week and most of them waste your time.» Then show you are different.",
+        "el": "Πριν από κάθε τηλεφώνημα γράψε τον πιθανό φόβο του γιατρού, όχι τα χαρακτηριστικά σου: «άλλος ένας πωλητής», «κρυφό κόστος», «ένα site που δεν θα ελέγχω». Άνοιξε με αυτό το συναίσθημα: «Μάλλον δέχεστε τέτοια τηλέφωνα κάθε εβδομάδα και τα περισσότερα σας τρώνε χρόνο». Μετά δείξε ότι είσαι διαφορετικός."
+      },
+      "check": {
+        "q": {"en": "What is «tactical empathy»?", "el": "Τι είναι η «τακτική ενσυναίσθηση»;"},
+        "options": [
+          {"en": "Agreeing with the other side to keep them happy", "el": "Να συμφωνείς με τον άλλον για να είναι ευχαριστημένος"},
+          {"en": "Understanding their feelings and saying them out loud", "el": "Να καταλαβαίνεις τα συναισθήματά του και να τα λες φωναχτά"},
+          {"en": "Hiding your own feelings during a deal", "el": "Να κρύβεις τα δικά σου συναισθήματα σε μια συμφωνία"}
+        ],
+        "answer": 1,
+        "why": {"en": "Empathy here means showing you understand, not agreeing or giving in.", "el": "Ενσυναίσθηση εδώ σημαίνει να δείχνεις ότι καταλαβαίνεις, όχι να συμφωνείς ή να υποχωρείς."}
+      }
+    },
+    {
+      "title": {"en": "Treat assumptions as guesses", "el": "Οι υποθέσεις σου είναι απλώς υποθέσεις"},
+      "explain": {
+        "en": "Most people walk into a talk already sure what the other side wants, and then only listen for proof. Voss says: arrive with hypotheses, not certainties, and use the conversation to test them. Your goal is to discover, not to win the first minute. Quiet the voice in your head preparing the next argument and put all your attention on the other person.",
+        "el": "Οι περισσότεροι μπαίνουν σε μια κουβέντα ήδη σίγουροι για το τι θέλει ο άλλος, και μετά ακούνε μόνο όσα το επιβεβαιώνουν. Ο Βος λέει: πήγαινε με υποθέσεις, όχι με βεβαιότητες, και χρησιμοποίησε τη συζήτηση για να τις ελέγξεις. Στόχος σου είναι να ανακαλύψεις, όχι να κερδίσεις το πρώτο λεπτό. Κλείσε τη φωνή στο κεφάλι σου που ετοιμάζει το επόμενο επιχείρημα και δώσε όλη σου την προσοχή στον άλλον."
+      },
+      "example": {
+        "en": "After deadly standoffs in the early 1990s, such as Waco, the FBI rebuilt its crisis negotiation around listening. Its model, which Voss describes, is a staircase: active listening first, then empathy, then rapport, and only then influence and a change in behaviour. You cannot skip the bottom steps.",
+        "el": "Μετά από πολύνεκρες πολιορκίες στις αρχές της δεκαετίας του '90, όπως αυτή στο Γουάκο, το FBI ξαναέστησε τη διαπραγμάτευση κρίσεων γύρω από την ακρόαση. Το μοντέλο του, που περιγράφει ο Βος, είναι μια σκάλα: πρώτα ενεργητική ακρόαση, μετά ενσυναίσθηση, μετά σχέση εμπιστοσύνης και μόνο στο τέλος επιρροή και αλλαγή συμπεριφοράς. Τα κάτω σκαλιά δεν τα πηδάς."
+      },
+      "apply": {
+        "en": "Before a video meeting, write three guesses: «He wants more patients», «He fears hidden costs», «His nephew made his old site». During the call, test each one with a question instead of pitching. After the call, note which guess was wrong. That wrong guess is often where the deal is.",
+        "el": "Πριν από μια βιντεοκλήση γράψε τρεις υποθέσεις: «Θέλει περισσότερους ασθενείς», «Φοβάται κρυφές χρεώσεις», «Το παλιό του site το έφτιαξε ο ανιψιός του». Στην κλήση έλεγξε την καθεμία με μια ερώτηση αντί για παρουσίαση. Μετά σημείωσε ποια βγήκε λάθος. Εκεί συχνά κρύβεται η συμφωνία."
+      },
+      "check": {
+        "q": {"en": "How should you walk into an important conversation?", "el": "Πώς πρέπει να μπαίνεις σε μια σημαντική κουβέντα;"},
+        "options": [
+          {"en": "Sure of what they want, ready with counter-arguments", "el": "Σίγουρος για το τι θέλει, με έτοιμα αντεπιχειρήματα"},
+          {"en": "With no preparation at all, just improvising", "el": "Χωρίς καμία προετοιμασία, αυτοσχεδιάζοντας"},
+          {"en": "With guesses you test by listening", "el": "Με υποθέσεις που ελέγχεις ακούγοντας"}
+        ],
+        "answer": 2,
+        "why": {"en": "Certainty makes you deaf; hypotheses keep you curious and help you discover what is really going on.", "el": "Η βεβαιότητα σε κάνει κουφό. Οι υποθέσεις σε κρατούν περίεργο και σε βοηθούν να ανακαλύψεις τι πραγματικά συμβαίνει."}
+      }
+    },
+    {
+      "title": {"en": "The late-night radio voice", "el": "Η φωνή του νυχτερινού ραδιοφώνου"},
+      "explain": {
+        "en": "Voss names three voices. The calm, slow, deep «late-night FM DJ» voice, with the tone going down at the end, tells people you are in control and calms them. The positive, playful voice is your default: relaxed and smiling. The direct, assertive voice is almost never useful, because it feels like an attack. How you sound changes how they feel before they hear your words.",
+        "el": "Ο Βος ξεχωρίζει τρεις φωνές. Η ήρεμη, αργή, βαθιά φωνή του «νυχτερινού DJ στα FM», με τον τόνο να πέφτει στο τέλος, λέει στον άλλον ότι έχεις τον έλεγχο και τον ηρεμεί. Η θετική, χαλαρή φωνή είναι η βασική σου: άνετη, με χαμόγελο. Η απότομη, επιθετική φωνή σχεδόν ποτέ δεν βοηθά, γιατί ακούγεται σαν επίθεση. Το πώς ακούγεσαι αλλάζει το πώς νιώθει ο άλλος πριν ακούσει καν τις λέξεις."
+      },
+      "example": {
+        "en": "Think of a pilot announcing turbulence: «Folks, we're going to have a few bumps, please keep your seatbelts on.» Slow, low, calm. Voss uses this exact picture. The news is not good, but the voice tells everyone the situation is under control, and nobody panics.",
+        "el": "Σκέψου έναν πιλότο που ανακοινώνει αναταράξεις: «Κυρίες και κύριοι, θα έχουμε λίγο κούνημα, παρακαλούμε κρατήστε δεμένες τις ζώνες σας». Αργά, χαμηλά, ήρεμα. Ο Βος χρησιμοποιεί ακριβώς αυτή την εικόνα. Το νέο δεν είναι καλό, αλλά η φωνή λέει σε όλους ότι η κατάσταση είναι υπό έλεγχο, και κανείς δεν πανικοβάλλεται."
+      },
+      "apply": {
+        "en": "Smile while you dial so your voice sounds warm. When a client is angry about a delay or a price, drop to a slower, lower tone and let your sentences go down at the end: «I understand. Let's see together what happened.» Never answer anger with speed.",
+        "el": "Χαμογέλα καθώς πατάς τον αριθμό, για να ακούγεται ζεστή η φωνή σου. Όταν ένας πελάτης είναι θυμωμένος για μια καθυστέρηση ή μια τιμή, χαμήλωσε και κόψε ταχύτητα, με τον τόνο να πέφτει στο τέλος: «Καταλαβαίνω. Ας δούμε μαζί τι έγινε». Ποτέ μην απαντάς στον θυμό με βιασύνη."
+      },
+      "check": {
+        "q": {"en": "Which voice does Voss say to use most of the time?", "el": "Ποια φωνή λέει ο Βος να χρησιμοποιείς τις περισσότερες φορές;"},
+        "options": [
+          {"en": "The positive, relaxed, smiling voice", "el": "Τη θετική, χαλαρή φωνή με χαμόγελο"},
+          {"en": "The direct, assertive voice", "el": "Την απότομη, δυναμική φωνή"},
+          {"en": "A neutral voice with no emotion", "el": "Μια ουδέτερη φωνή χωρίς συναίσθημα"}
+        ],
+        "answer": 0,
+        "why": {"en": "The playful voice is the default; the deep DJ voice is for tense moments; the assertive voice is rarely useful.", "el": "Η χαλαρή φωνή είναι η βασική. Η βαθιά φωνή του DJ είναι για τις τεταμένες στιγμές. Η επιθετική σπάνια βοηθά."}
+      }
+    },
+    {
+      "title": {"en": "Mirroring", "el": "Ο καθρέφτης"},
+      "explain": {
+        "en": "A mirror is simple: repeat the last one to three words the person said, as a gentle question, then stay silent. People feel heard and naturally explain more. It also buys you time and keeps them talking without you arguing. Voss's recipe: calm voice, start with «I'm sorry...» if needed, mirror, wait at least four seconds, repeat.",
+        "el": "Ο καθρέφτης είναι απλός: επαναλαμβάνεις τις τελευταίες μία έως τρεις λέξεις που είπε ο άλλος, σαν ήπια ερώτηση, και μετά σωπαίνεις. Ο άλλος νιώθει ότι τον ακούς και εξηγεί περισσότερα από μόνος του. Επίσης κερδίζεις χρόνο και τον κρατάς να μιλάει χωρίς να του φέρνεις αντίρρηση. Η συνταγή του Βος: ήρεμη φωνή, αν χρειάζεται ξεκίνα με «Συγγνώμη...», καθρέφτης, σιωπή για τουλάχιστον τέσσερα δευτερόλεπτα, και πάλι από την αρχή."
+      },
+      "example": {
+        "en": "A Dutch study in restaurants found that waiters who repeated the customer's order back word for word received clearly bigger tips than waiters who just said «OK» or «coming up». Copying people's words makes them feel understood and like you more.",
+        "el": "Μια ολλανδική έρευνα σε εστιατόρια βρήκε ότι οι σερβιτόροι που επαναλάμβαναν την παραγγελία του πελάτη λέξη προς λέξη έπαιρναν αισθητά μεγαλύτερα φιλοδωρήματα από όσους έλεγαν απλώς «εντάξει» ή «έρχεται». Όταν επαναλαμβάνεις τα λόγια κάποιου, νιώθει ότι τον καταλαβαίνεις και σε συμπαθεί περισσότερο."
+      },
+      "apply": {
+        "en": "When the doctor says «I already have a site», mirror: «You already have a site?» Then wait. He usually adds the truth: «Yes, but it's old and my nephew made it.» Now you have something real to talk about, and you did not argue at all.",
+        "el": "Όταν ο γιατρός λέει «Έχω ήδη site», κάνε καθρέφτη: «Έχετε ήδη site;» Και περίμενε. Συνήθως προσθέτει μόνος του την αλήθεια: «Ναι, αλλά είναι παλιό, το έφτιαξε ο ανιψιός μου». Τώρα έχεις κάτι πραγματικό να συζητήσετε, χωρίς να φέρεις καμία αντίρρηση."
+      },
+      "check": {
+        "q": {"en": "What exactly is a mirror?", "el": "Τι ακριβώς είναι ο «καθρέφτης»;"},
+        "options": [
+          {"en": "Copying the other person's body posture", "el": "Να αντιγράφεις τη στάση του σώματος του άλλου"},
+          {"en": "Summarising everything they said in your words", "el": "Να συνοψίζεις όλα όσα είπε με δικά σου λόγια"},
+          {"en": "Repeating their last few words as a question, then pausing", "el": "Να επαναλαμβάνεις τις τελευταίες λέξεις του σαν ερώτηση και να σωπαίνεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "One to three of their own words, a questioning tone, then silence so they keep talking.", "el": "Μία έως τρεις δικές του λέξεις, ερωτηματικός τόνος, και μετά σιωπή για να συνεχίσει να μιλάει."}
+      }
+    },
+    {
+      "title": {"en": "Label the feeling", "el": "Δώσε όνομα στο συναίσθημα"},
+      "explain": {
+        "en": "A label names the other person's feeling or position. Start with «It seems like...», «It sounds like...» or «It looks like...», never «I hear that...», because «I» makes it about you. Then stop talking. If the label is right, they confirm and say more. If it is wrong, they correct you, and you still learn something. Either way, you lose nothing.",
+        "el": "Η «ετικέτα» δίνει όνομα στο συναίσθημα ή στη θέση του άλλου. Ξεκινάς με «Μου φαίνεται ότι...», «Ακούγεται σαν...» ή «Μοιάζει να...», ποτέ με «Αυτό που ακούω εγώ είναι...», γιατί το «εγώ» στρέφει την προσοχή σε σένα. Μετά σωπαίνεις. Αν η ετικέτα πέτυχε, θα το επιβεβαιώσει και θα πει κι άλλα. Αν όχι, θα σε διορθώσει, και πάλι κάτι μαθαίνεις. Όπως και να 'χει, δεν χάνεις τίποτα."
+      },
+      "example": {
+        "en": "In a 2007 brain-scan study at UCLA, Matthew Lieberman showed people photos of angry or scared faces. When they simply put the emotion into a word, activity in the amygdala, the brain's alarm centre, went down. Naming a feeling calms it.",
+        "el": "Σε μια έρευνα του 2007 στο UCLA με απεικόνιση εγκεφάλου, ο Μάθιου Λίμπερμαν έδειχνε σε ανθρώπους φωτογραφίες με θυμωμένα ή φοβισμένα πρόσωπα. Όταν απλώς έδιναν όνομα στο συναίσθημα με μια λέξη, έπεφτε η δραστηριότητα στην αμυγδαλή, το κέντρο συναγερμού του εγκεφάλου. Όταν ονομάζεις ένα συναίσθημα, το ηρεμείς."
+      },
+      "apply": {
+        "en": "When a client in the chat sends a sharp message about the site, reply first with a label, not a defence: «It seems like you're frustrated that the changes are taking longer than you expected.» Then wait for the answer before you explain anything.",
+        "el": "Όταν ένας πελάτης στείλει στο chat ένα απότομο μήνυμα για το site, απάντησε πρώτα με ετικέτα, όχι με απολογία: «Μου φαίνεται ότι σας εκνευρίζει που οι αλλαγές αργούν περισσότερο απ' όσο περιμένατε». Περίμενε την απάντηση πριν εξηγήσεις οτιδήποτε."
+      },
+      "check": {
+        "q": {"en": "Why should a label not start with «I»?", "el": "Γιατί μια ετικέτα δεν πρέπει να ξεκινά με «εγώ»;"},
+        "options": [
+          {"en": "It is grammatically wrong", "el": "Είναι γραμματικά λάθος"},
+          {"en": "It shifts the focus to you instead of them", "el": "Στρέφει την προσοχή σε σένα αντί για εκείνον"},
+          {"en": "It sounds too friendly", "el": "Ακούγεται υπερβολικά φιλικό"}
+        ],
+        "answer": 1,
+        "why": {"en": "«It seems like...» keeps the spotlight on their feelings; «I» makes them think about you.", "el": "Το «Μου φαίνεται ότι...» κρατά το βλέμμα στα δικά του συναισθήματα. Το «εγώ» τον κάνει να σκέφτεται εσένα."}
+      }
+    },
+    {
+      "title": {"en": "Defuse the negative, then go quiet", "el": "Ξεφούσκωσε το αρνητικό και σώπασε"},
+      "explain": {
+        "en": "Negative feelings do not disappear when you ignore them; they grow. Voss says label the fears and anger directly, which takes away their power, and reinforce the positive feelings. After a label, use silence. The pause feels long to you, but it gives the other person space to fill it, often with exactly the information you need.",
+        "el": "Τα αρνητικά συναισθήματα δεν εξαφανίζονται όταν τα αγνοείς. Μεγαλώνουν. Ο Βος λέει: δώσε όνομα στους φόβους και στον θυμό ευθέως, ώστε να χάσουν τη δύναμή τους, και ενίσχυσε τα θετικά συναισθήματα. Μετά την ετικέτα, σιωπή. Η παύση σού φαίνεται ατελείωτη, αλλά δίνει χώρο στον άλλον να τη γεμίσει, συχνά ακριβώς με την πληροφορία που χρειάζεσαι."
+      },
+      "example": {
+        "en": "Voss tells of fugitives hiding in a Harlem apartment who did not answer for six hours. He kept labelling, slowly: «It looks like you don't want to come out. It seems like you worry that if you open the door, we'll come in shooting.» They finally came out and said his calm voice made them feel it was safe.",
+        "el": "Ο Βος διηγείται για φυγάδες κρυμμένους σε διαμέρισμα στο Χάρλεμ που δεν απαντούσαν επί έξι ώρες. Εκείνος συνέχιζε, αργά, με ετικέτες: «Μοιάζει να μη θέλετε να βγείτε. Φαίνεται ότι φοβάστε πως αν ανοίξετε την πόρτα θα μπούμε πυροβολώντας». Τελικά βγήκαν και είπαν ότι η ήρεμη φωνή του τους έκανε να νιώσουν ασφαλείς."
+      },
+      "apply": {
+        "en": "When a doctor says «I'm not interested», do not argue. Label: «It sounds like you've had bad experiences with people selling websites.» Then count to four in silence. Most of the time he tells you the real story, and the call continues.",
+        "el": "Όταν ένας γιατρός λέει «Δεν ενδιαφέρομαι», μη φέρεις αντίρρηση. Βάλε ετικέτα: «Ακούγεται σαν να έχετε κακή εμπειρία με ανθρώπους που πουλάνε ιστοσελίδες». Μέτρα μέχρι το τέσσερα σιωπηλά. Τις περισσότερες φορές θα σου πει την πραγματική ιστορία, και η κουβέντα συνεχίζεται."
+      },
+      "check": {
+        "q": {"en": "What does Voss say to do with the other side's negative feelings?", "el": "Τι λέει ο Βος να κάνεις με τα αρνητικά συναισθήματα του άλλου;"},
+        "options": [
+          {"en": "Name them out loud so they lose power", "el": "Να τα ονομάσεις φωναχτά για να χάσουν τη δύναμή τους"},
+          {"en": "Ignore them and stick to the facts", "el": "Να τα αγνοήσεις και να μείνεις στα γεγονότα"},
+          {"en": "Answer them with stronger arguments", "el": "Να τα αντικρούσεις με πιο δυνατά επιχειρήματα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Ignored fears grow; a labelled fear shrinks and the person calms down.", "el": "Ο φόβος που αγνοείς μεγαλώνει. Ο φόβος που ονομάζεις μικραίνει, και ο άλλος ηρεμεί."}
+      }
+    },
+    {
+      "title": {"en": "The accusation audit", "el": "Πες πρώτος τις κατηγορίες"},
+      "explain": {
+        "en": "Before a hard talk, list every bad thing the other person might think about you, and say those things first: «You're going to think I'm just another salesman.» Spoken aloud, the accusations lose their force, and the other person often answers «No, it's not that bad.» It feels risky, but it clears the air before they can use it against you.",
+        "el": "Πριν από μια δύσκολη κουβέντα, γράψε ό,τι κακό μπορεί να σκέφτεται ο άλλος για σένα, και πες το πρώτος: «Θα σκεφτείτε ότι είμαι άλλος ένας πωλητής». Όταν οι κατηγορίες λέγονται φωναχτά, χάνουν τη δύναμή τους, και ο άλλος συχνά απαντά «Όχι, δεν είναι και τόσο έτσι». Μοιάζει ρίσκο, αλλά καθαρίζει την ατμόσφαιρα πριν προλάβει να τα χρησιμοποιήσει εναντίον σου."
+      },
+      "example": {
+        "en": "Think of a neighbour who knocks on your door: «I'm sorry, I know this is annoying, I'm the one who's been drilling every evening this week.» Your irritation drops before you say a word. Voss teaches this as a planned tool: write the list, say it early, label each fear.",
+        "el": "Σκέψου έναν γείτονα που χτυπά την πόρτα σου: «Συγγνώμη, ξέρω ότι είναι ενοχλητικό, εγώ είμαι αυτός που τρυπάει κάθε βράδυ αυτή την εβδομάδα». Ο εκνευρισμός σου πέφτει πριν πεις λέξη. Ο Βος το διδάσκει ως οργανωμένο εργαλείο: γράφεις τη λίστα, τη λες νωρίς, δίνεις όνομα σε κάθε φόβο."
+      },
+      "apply": {
+        "en": "Open a cold call to a dentist like this: «I'm calling you out of nowhere, in the middle of your day, and you'll probably think I'm another person selling something you don't need.» Then pause. When chasing a late payment: «You may feel I'm pressuring you, and that's the last thing I want.»",
+        "el": "Άνοιξε ένα cold call σε οδοντίατρο έτσι: «Σας παίρνω εντελώς ξαφνικά, μέσα στη μέρα σας, και μάλλον θα σκεφτείτε ότι είμαι άλλος ένας που πουλάει κάτι που δεν χρειάζεστε». Και παύση. Όταν κυνηγάς μια καθυστερημένη πληρωμή: «Ίσως νιώσετε ότι σας πιέζω, και αυτό είναι το τελευταίο που θέλω»."
+      },
+      "check": {
+        "q": {"en": "What do you do in an accusation audit?", "el": "Τι κάνεις σε μια «λίστα κατηγοριών»;"},
+        "options": [
+          {"en": "You list the other side's mistakes to win", "el": "Απαριθμείς τα λάθη του άλλου για να κερδίσεις"},
+          {"en": "You say the negative things they think about you first", "el": "Λες πρώτος τα αρνητικά που σκέφτεται εκείνος για σένα"},
+          {"en": "You check the contract for hidden risks", "el": "Ελέγχεις το συμβόλαιο για κρυφούς κινδύνους"}
+        ],
+        "answer": 1,
+        "why": {"en": "Naming their fears before they do takes the sting out of them.", "el": "Όταν ονομάζεις τους φόβους του πριν το κάνει εκείνος, τους αφαιρείς το κεντρί."}
+      }
+    },
+    {
+      "title": {"en": "«No» is where it starts", "el": "Το «όχι» είναι η αρχή"},
+      "explain": {
+        "en": "Salespeople chase «yes», but people feel trapped when pushed into it. Voss separates three yeses: the counterfeit yes (said to get rid of you), the confirmation yes (a reflex) and the commitment yes (a real agreement). «No», on the other hand, makes people feel safe and in control. Once they have said no, they relax and listen. So do not fear it; invite it.",
+        "el": "Οι πωλητές κυνηγούν το «ναι», αλλά ο κόσμος νιώθει παγιδευμένος όταν τον σπρώχνεις εκεί. Ο Βος ξεχωρίζει τρία «ναι»: το ψεύτικο (το λες για να ξεφορτωθείς τον άλλον), το επιβεβαιωτικό (αντανακλαστικό) και το «ναι» δέσμευσης (η πραγματική συμφωνία). Το «όχι», αντίθετα, κάνει τον άλλον να νιώθει ασφαλής και με τον έλεγχο. Μόλις το πει, χαλαρώνει και ακούει. Άρα μην το φοβάσαι. Κάλεσέ το."
+      },
+      "example": {
+        "en": "Everyone knows the telemarketer who opens with «Do you like saving money?» The only possible answer is yes, and we hang up feeling manipulated. A question built to force a yes makes people defensive; it creates the exact distrust the seller wanted to avoid.",
+        "el": "Όλοι ξέρουμε τον τηλεφωνητή που ανοίγει με «Σας αρέσει να εξοικονομείτε χρήματα;» Η μόνη δυνατή απάντηση είναι «ναι», και κλείνουμε νιώθοντας ότι μας χειραγώγησαν. Μια ερώτηση φτιαγμένη για να βγάλει υποχρεωτικό «ναι» βάζει τον άλλον σε άμυνα. Δημιουργεί ακριβώς τη δυσπιστία που ήθελε να αποφύγει ο πωλητής."
+      },
+      "apply": {
+        "en": "Delete forced-yes openings from your script («Do you want more patients?»). Ask instead: «Is now a bad time for two minutes?» If he says «No, go on», he has chosen to listen. If he says «Yes», ask: «Would it be a bad idea if I called back Thursday at 3?»",
+        "el": "Σβήσε από το σενάριό σου τα ανοίγματα που ζορίζουν το «ναι» («Θέλετε περισσότερους ασθενείς;»). Ρώτα αντί γι' αυτό: «Είναι κακή στιγμή για δύο λεπτά;» Αν πει «Όχι, πείτε μου», διάλεξε ο ίδιος να ακούσει. Αν πει «Ναι», ρώτα: «Θα ήταν κακή ιδέα να σας ξαναπάρω την Πέμπτη στις 3;»"
+      },
+      "check": {
+        "q": {"en": "Why does Voss like hearing «no»?", "el": "Γιατί ο Βος θέλει να ακούει «όχι»;"},
+        "options": [
+          {"en": "It makes the other side feel safe and in control", "el": "Κάνει τον άλλον να νιώθει ασφαλής και με τον έλεγχο"},
+          {"en": "It means the deal is over and saves time", "el": "Σημαίνει ότι η συμφωνία τελείωσε και γλιτώνεις χρόνο"},
+          {"en": "It gives you a reason to lower your price", "el": "Σου δίνει λόγο να ρίξεις την τιμή σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "«No» protects people; once protected, they open up and start to really talk.", "el": "Το «όχι» προστατεύει τον άλλον. Όταν νιώσει προστατευμένος, ανοίγεται και αρχίζει να μιλάει αληθινά."}
+      }
+    },
+    {
+      "title": {"en": "The «have you given up» email", "el": "Το email «Το έχετε αφήσει;»"},
+      "explain": {
+        "en": "When someone goes silent, more friendly reminders rarely work. Voss suggests a one-line, no-oriented question: «Have you given up on this project?» It is short, polite and invites a «no». People hate implying they quit, so they reply to say they haven't, and explain where things stand. Use it sparingly and sincerely, not as a weekly trick.",
+        "el": "Όταν κάποιος εξαφανίζεται, οι φιλικές υπενθυμίσεις σπάνια πιάνουν. Ο Βος προτείνει μια ερώτηση μιας γραμμής που ζητάει «όχι»: «Έχετε εγκαταλείψει αυτό το project;» Είναι σύντομη, ευγενική και καλεί σε άρνηση. Δεν αρέσει σε κανέναν να φανεί ότι τα παράτησε, οπότε απαντά ότι όχι, και εξηγεί πού βρίσκεται. Χρησιμοποίησέ το σπάνια και ειλικρινά, όχι σαν κόλπο κάθε εβδομάδα."
+      },
+      "example": {
+        "en": "Voss's company teaches this email to clients for prospects who have «ghosted» them, and readers of the book widely report getting answers to threads that had been dead for weeks. The trick is not magic: a «no» costs the other person nothing to say.",
+        "el": "Η εταιρεία του Βος διδάσκει αυτό το email σε πελάτες της για υποψήφιους που έχουν «εξαφανιστεί», και πολλοί αναγνώστες του βιβλίου λένε ότι πήραν απάντηση σε συζητήσεις νεκρές για εβδομάδες. Δεν είναι μαγεία: ένα «όχι» δεν κοστίζει τίποτα στον άλλον να το πει."
+      },
+      "apply": {
+        "en": "A psychologist saw her draft two weeks ago and went silent. Send one line: «Have you given up on the idea of the new website?» For a late payment: «Is it a bad idea to settle the renewal this week, so the site stays online without interruption?»",
+        "el": "Μια ψυχολόγος είδε το draft της πριν από δύο εβδομάδες και χάθηκε. Στείλε μία γραμμή: «Το έχετε αφήσει τελείως το θέμα με τη νέα ιστοσελίδα;» Για καθυστερημένη πληρωμή: «Θα ήταν κακή ιδέα να τακτοποιήσουμε την ανανέωση μέσα στην εβδομάδα, ώστε το site να μείνει online χωρίς διακοπή;»"
+      },
+      "check": {
+        "q": {"en": "Why does «Have you given up on this?» get replies?", "el": "Γιατί το «Το έχετε αφήσει;» παίρνει απαντήσεις;"},
+        "options": [
+          {"en": "It threatens the person with losing the deal", "el": "Απειλεί τον άλλον ότι θα χάσει τη συμφωνία"},
+          {"en": "It is longer and more detailed than a reminder", "el": "Είναι πιο μεγάλο και αναλυτικό από μια υπενθύμιση"},
+          {"en": "Saying «no» is easy and people dislike seeming to quit", "el": "Το «όχι» λέγεται εύκολα και κανείς δεν θέλει να φανεί ότι τα παράτησε"}
+        ],
+        "answer": 2,
+        "why": {"en": "It invites a safe «no» and touches the wish not to look like someone who gave up.", "el": "Καλεί σε ένα ασφαλές «όχι» και αγγίζει την επιθυμία να μη φανεί κανείς ότι τα παράτησε."}
+      }
+    },
+    {
+      "title": {"en": "Aim for «That's right»", "el": "Στόχος: «Ακριβώς έτσι»"},
+      "explain": {
+        "en": "The best words in a negotiation are «That's right». They come when you summarise the other person's world so well (their facts plus their feelings) that they feel completely understood. «You're right» is different and bad: it usually means «please stop talking». So summarise, label, summarise again, until you hear «that's right». That is the moment their guard drops.",
+        "el": "Οι καλύτερες λέξεις σε μια διαπραγμάτευση είναι το «Ακριβώς έτσι». Έρχονται όταν συνοψίζεις τον κόσμο του άλλου τόσο καλά (τα γεγονότα του μαζί με τα συναισθήματά του) που νιώθει ότι τον κατάλαβες πλήρως. Το «Έχεις δίκιο» είναι άλλο και κακό σημάδι: συνήθως σημαίνει «σταμάτα πια να μιλάς». Άρα συνόψιζε, βάζε ετικέτες, ξανασυνόψιζε, μέχρι να ακούσεις «ακριβώς έτσι». Τότε πέφτει η άμυνά του."
+      },
+      "example": {
+        "en": "In 2000 the Abu Sayyaf group held American Jeffrey Schilling in the Philippines. Voss coached the local negotiator to stop arguing and summarise the kidnapper's grievances. When the kidnapper answered «That's right», he stopped demanding ransom. Schilling later got free.",
+        "el": "Το 2000 η ομάδα Αμπού Σαγιάφ κρατούσε όμηρο τον Αμερικανό Τζέφρι Σίλινγκ στις Φιλιππίνες. Ο Βος καθοδήγησε τον τοπικό διαπραγματευτή να σταματήσει να διαφωνεί και να συνοψίσει τα παράπονα του απαγωγέα. Όταν εκείνος απάντησε «Ακριβώς έτσι», σταμάτησε να ζητάει λύτρα. Ο Σίλινγκ αργότερα ελευθερώθηκε."
+      },
+      "apply": {
+        "en": "In a video meeting, before showing any site, summarise: «So you have a site from years ago, patients still call to ask for your address, and you don't want to spend weeks on this. Is that it?» Wait for «Exactly». Only then show the draft.",
+        "el": "Σε μια βιντεοκλήση, πριν δείξεις οποιοδήποτε site, κάνε σύνοψη: «Δηλαδή έχετε ένα site από παλιά, οι ασθενείς ακόμα παίρνουν τηλέφωνο για να ρωτήσουν τη διεύθυνση, και δεν θέλετε να χάσετε εβδομάδες με αυτό. Σωστά;» Περίμενε το «Ακριβώς». Μόνο τότε δείξε το draft."
+      },
+      "check": {
+        "q": {"en": "What does «You're right» usually mean?", "el": "Τι σημαίνει συνήθως το «Έχεις δίκιο»;"},
+        "options": [
+          {"en": "Stop talking, I want this to end", "el": "Σταμάτα να μιλάς, θέλω να τελειώνουμε"},
+          {"en": "I am fully convinced and ready to sign", "el": "Πείστηκα πλήρως και είμαι έτοιμος να υπογράψω"},
+          {"en": "I feel completely understood by you", "el": "Νιώθω ότι με κατάλαβες απόλυτα"}
+        ],
+        "answer": 0,
+        "why": {"en": "«You're right» is a polite way to end the discussion; «That's right» signals real understanding.", "el": "Το «έχεις δίκιο» είναι ευγενικός τρόπος να κλείσει η κουβέντα. Το «ακριβώς έτσι» δείχνει πραγματική κατανόηση."}
+      }
+    },
+    {
+      "title": {"en": "Don't meet halfway", "el": "Μη συναντιέστε στη μέση"},
+      "explain": {
+        "en": "Compromise sounds fair, but it often leaves both sides with a bad deal. Voss's image: your partner wants black shoes, you want brown, so you «compromise» and wear one of each. Splitting the difference is lazy. Instead, keep asking questions until you find a solution that serves what both really need. Also, deadlines are rarely as fixed as they look; panic about time makes you give away too much.",
+        "el": "Ο συμβιβασμός ακούγεται δίκαιος, αλλά συχνά αφήνει και τους δύο με κακή συμφωνία. Η εικόνα του Βος: ο σύντροφός σου θέλει μαύρα παπούτσια, εσύ καφέ, και «συμβιβάζεστε» φορώντας ένα από το καθένα. Το «μοιράζουμε τη διαφορά» είναι τεμπελιά. Συνέχισε να ρωτάς μέχρι να βρεις λύση που να καλύπτει όσα χρειάζονται πραγματικά και οι δύο. Επίσης, οι προθεσμίες σπάνια είναι τόσο σταθερές όσο φαίνονται. Ο πανικός για τον χρόνο σε κάνει να δίνεις πολλά."
+      },
+      "example": {
+        "en": "Voss cites research by Don Moore at Berkeley: negotiators who openly revealed their deadline actually got better deals, because the other side also hurried to agree. Deadlines push both sides, not only you.",
+        "el": "Ο Βος αναφέρει έρευνα του Ντον Μουρ στο Μπέρκλεϊ: οι διαπραγματευτές που αποκάλυπταν ανοιχτά την προθεσμία τους έκλειναν τελικά καλύτερες συμφωνίες, γιατί βιαζόταν και η άλλη πλευρά να συμφωνήσει. Η προθεσμία πιέζει και τις δύο πλευρές, όχι μόνο εσένα."
+      },
+      "apply": {
+        "en": "When a client asks for half price on hosting, don't offer 25% off. Ask what is behind it: «What's making the yearly cost feel heavy right now?» Maybe the real need is paying in two parts, which costs you nothing.",
+        "el": "Όταν ένας πελάτης ζητά τη φιλοξενία στη μισή τιμή, μην προτείνεις έκπτωση 25%. Ρώτα τι κρύβεται από πίσω: «Τι είναι αυτό που κάνει το ετήσιο κόστος να σας φαίνεται βαρύ αυτή τη στιγμή;» Ίσως η πραγματική ανάγκη είναι να πληρώσει σε δύο δόσεις, που δεν σου κοστίζει τίποτα."
+      },
+      "check": {
+        "q": {"en": "What is wrong with splitting the difference?", "el": "Τι πρόβλημα έχει το «μοιράζουμε τη διαφορά»;"},
+        "options": [
+          {"en": "It is illegal in most contracts", "el": "Είναι παράνομο στα περισσότερα συμβόλαια"},
+          {"en": "It often gives both sides a bad deal", "el": "Συχνά δίνει και στους δύο μια κακή συμφωνία"},
+          {"en": "It always favours the richer side", "el": "Ευνοεί πάντα τον πιο πλούσιο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Like one black and one brown shoe, the middle is often worse than a creative solution.", "el": "Όπως ένα μαύρο και ένα καφέ παπούτσι, η μέση συχνά είναι χειρότερη από μια δημιουργική λύση."}
+      }
+    },
+    {
+      "title": {"en": "The F-word: «fair»", "el": "Η επικίνδυνη λέξη: «δίκαιο»"},
+      "explain": {
+        "en": "«Fair» is the most powerful word in negotiation. When someone says «I just want what's fair», they put you on the defensive. Do not cave: answer «Okay, I apologise. Let's stop and go back to where I started treating you unfairly.» Use the word positively yourself: «I want you to feel I'm being fair. Stop me any time you feel I'm not.»",
+        "el": "Το «δίκαιο» είναι η πιο ισχυρή λέξη στη διαπραγμάτευση. Όταν κάποιος λέει «Θέλω απλώς ό,τι είναι δίκαιο», σε βάζει σε άμυνα. Μην υποχωρήσεις αμέσως. Απάντησε: «Εντάξει, ζητώ συγγνώμη. Ας σταματήσουμε και ας γυρίσουμε στο σημείο όπου άρχισα να σας αδικώ». Χρησιμοποίησε κι εσύ τη λέξη θετικά: «Θέλω να νιώθετε ότι είμαι δίκαιος μαζί σας. Σταματήστε με όποτε νιώσετε ότι δεν είμαι»."
+      },
+      "example": {
+        "en": "In the «ultimatum game», one player splits a sum of money and the other can accept or reject; if rejected, both get nothing. Logically you should accept any amount, yet across many studies people regularly reject offers around 20% or less as unfair, choosing nothing over feeling cheated.",
+        "el": "Στο «παιχνίδι του τελεσιγράφου», ο ένας παίκτης μοιράζει ένα ποσό και ο άλλος δέχεται ή αρνείται. Αν αρνηθεί, δεν παίρνει κανείς τίποτα. Λογικά θα έπρεπε να δέχεσαι οποιοδήποτε ποσό, κι όμως σε πολλές έρευνες ο κόσμος απορρίπτει συχνά προσφορές γύρω στο 20% ή λιγότερο ως άδικες. Προτιμά το μηδέν από το να νιώσει ότι τον εκμεταλλεύτηκαν."
+      },
+      "apply": {
+        "en": "Start meetings with: «I want you to feel I'm being fair with you. If at any point you feel I'm not, stop me.» If a client says «It's not fair to pay for hosting again», ask calmly: «What would make it feel fair to you?»",
+        "el": "Ξεκίνα τα ραντεβού με: «Θέλω να νιώθετε ότι είμαι δίκαιος μαζί σας. Αν σε κάποιο σημείο δεν το νιώσετε, σταματήστε με». Αν ένας πελάτης πει «Δεν είναι δίκαιο να ξαναπληρώσω φιλοξενία», ρώτα ήρεμα: «Τι θα το έκανε να σας φαίνεται δίκαιο;»"
+      },
+      "check": {
+        "q": {"en": "What does the ultimatum game show about fairness?", "el": "Τι δείχνει το παιχνίδι του τελεσιγράφου για το «δίκαιο»;"},
+        "options": [
+          {"en": "People always accept money when it is offered", "el": "Ο κόσμος δέχεται πάντα χρήματα όταν του τα προσφέρουν"},
+          {"en": "People only care about the total amount", "el": "Ο κόσμος νοιάζεται μόνο για το συνολικό ποσό"},
+          {"en": "People reject gains that feel unfair", "el": "Ο κόσμος απορρίπτει κέρδη που νιώθει άδικα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Feeling cheated hurts more than losing a small gain, so «fair» is an emotional trigger.", "el": "Το να νιώσεις ότι σε εκμεταλλεύτηκαν πονάει περισσότερο από το να χάσεις ένα μικρό κέρδος. Γι' αυτό το «δίκαιο» είναι συναισθηματικό κουμπί."}
+      }
+    },
+    {
+      "title": {"en": "Bend their sense of reality", "el": "Άλλαξε το πλαίσιο που βλέπει"},
+      "explain": {
+        "en": "People judge numbers by what they compare them with. Voss's tools: losses hurt more than gains, so show what they lose by waiting; let the other side name a number first when you can; if you must go first, give a range, not one number; use precise, non-round numbers, which sound calculated; and switch to non-money terms when price gets stuck.",
+        "el": "Ο κόσμος κρίνει τους αριθμούς ανάλογα με το τι τους συγκρίνει. Τα εργαλεία του Βος: η απώλεια πονάει περισσότερο από το κέρδος, άρα δείξε τι χάνει ο άλλος αν περιμένει. Άφησε τον άλλον να πει πρώτος αριθμό όταν μπορείς. Αν πρέπει να πεις εσύ πρώτος, δώσε εύρος, όχι έναν αριθμό. Χρησιμοποίησε ακριβείς, μη στρογγυλούς αριθμούς, που ακούγονται υπολογισμένοι. Και όταν κολλάει η τιμή, πέρνα σε όρους που δεν είναι χρήματα."
+      },
+      "example": {
+        "en": "Daniel Kahneman and Amos Tversky showed that losing 100 euros feels roughly twice as bad as winning 100 feels good. That is why «you are losing patients every month» moves people more than «you could win patients».",
+        "el": "Ο Ντάνιελ Κάνεμαν και ο Άμος Τβέρσκι έδειξαν ότι η απώλεια 100 ευρώ πονάει περίπου διπλάσια απ' όσο μας χαροποιεί ένα κέρδος 100 ευρώ. Γι' αυτό το «χάνετε ασθενείς κάθε μήνα» κινητοποιεί περισσότερο από το «θα μπορούσατε να κερδίσετε ασθενείς»."
+      },
+      "apply": {
+        "en": "Say the true loss, not the gain: «Right now, people who search your specialty in your area find your colleagues first.» When asked the price, name the exact figure: «The build is free; you pay 130 euros a year for hosting and domain, nothing else.»",
+        "el": "Πες την πραγματική απώλεια, όχι το κέρδος: «Αυτή τη στιγμή, όποιος ψάχνει την ειδικότητά σας στην περιοχή σας βρίσκει πρώτα τους συναδέλφους σας». Όταν σε ρωτήσουν την τιμή, πες τον ακριβή αριθμό: «Η κατασκευή είναι δωρεάν. Πληρώνετε 130 ευρώ τον χρόνο για φιλοξενία και domain, τίποτε άλλο»."
+      },
+      "check": {
+        "q": {"en": "Why talk about what the client loses rather than gains?", "el": "Γιατί να μιλάς για το τι χάνει ο πελάτης και όχι για το τι κερδίζει;"},
+        "options": [
+          {"en": "Because losses are felt more strongly than gains", "el": "Γιατί οι απώλειες πονάνε περισσότερο απ' όσο χαροποιούν τα κέρδη"},
+          {"en": "Because it scares people into paying more", "el": "Γιατί τρομάζει τον κόσμο ώστε να πληρώσει περισσότερα"},
+          {"en": "Because gains are never believed", "el": "Γιατί κανείς δεν πιστεύει ποτέ τα κέρδη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Loss aversion: an honest, real loss motivates more than the same size gain.", "el": "Η αποστροφή στην απώλεια: μια αληθινή απώλεια κινητοποιεί περισσότερο από ένα ίσο κέρδος."}
+      }
+    },
+    {
+      "title": {"en": "Calibrated questions: how and what", "el": "Ερωτήσεις με «πώς» και «τι»"},
+      "explain": {
+        "en": "Calibrated questions are open questions that start with «How» or «What». They invite the other person to solve your problem and give them the feeling of control. Avoid «Why», which sounds like an accusation. The strongest one is «How am I supposed to do that?», said calmly: a polite «no» that makes them think about your side.",
+        "el": "Οι «βαθμονομημένες» ερωτήσεις είναι ανοιχτές ερωτήσεις που ξεκινούν με «Πώς» ή «Τι». Καλούν τον άλλον να λύσει εκείνος το πρόβλημά σου και του δίνουν την αίσθηση ότι έχει τον έλεγχο. Απόφευγε το «Γιατί», που ακούγεται σαν κατηγορία. Η πιο δυνατή είναι το «Πώς θα μπορούσα να το κάνω αυτό;», ειπωμένο ήρεμα: ένα ευγενικό «όχι» που τον κάνει να σκεφτεί και τη δική σου πλευρά."
+      },
+      "example": {
+        "en": "At a Harvard negotiation course, professor Robert Mnookin played a kidnapper demanding ransom from Voss. Instead of bargaining, Voss kept asking questions like «How am I supposed to do that?» The «kidnapper» ended up trying to solve Voss's problem, and the class was stunned.",
+        "el": "Σε ένα σεμινάριο διαπραγμάτευσης στο Χάρβαρντ, ο καθηγητής Ρόμπερτ Μνούκιν υποδύθηκε απαγωγέα που ζητούσε λύτρα από τον Βος. Αντί να παζαρέψει, ο Βος ρωτούσε ξανά και ξανά πράγματα όπως «Πώς θα μπορούσα να το κάνω αυτό;» Ο «απαγωγέας» κατέληξε να προσπαθεί να λύσει εκείνος το πρόβλημα του Βος, και η τάξη έμεινε άφωνη."
+      },
+      "apply": {
+        "en": "To the doctor who says «Send me an email»: «Of course. What would you need to see in it so it's worth your time to open?» To a client asking for a tenth redesign after going live: «How can we do this so that it stays fair for both of us?»",
+        "el": "Στον γιατρό που λέει «Στείλτε μου ένα email»: «Βεβαίως. Τι θα θέλατε να δείτε μέσα για να αξίζει τον χρόνο σας να το ανοίξετε;» Σε πελάτη που ζητά δέκατο ξανασχεδιασμό αφού το site βγήκε live: «Πώς μπορούμε να το κάνουμε έτσι ώστε να είναι δίκαιο και για τους δύο;»"
+      },
+      "check": {
+        "q": {"en": "Why avoid questions that start with «Why»?", "el": "Γιατί να αποφεύγεις τις ερωτήσεις με «Γιατί»;"},
+        "options": [
+          {"en": "They are too long to answer", "el": "Θέλουν πολύ χρόνο για να απαντηθούν"},
+          {"en": "They usually get a yes", "el": "Συνήθως παίρνουν «ναι»"},
+          {"en": "They sound like an accusation", "el": "Ακούγονται σαν κατηγορία"}
+        ],
+        "answer": 2,
+        "why": {"en": "«Why did you...?» makes people defend themselves; «What» and «How» make them think.", "el": "Το «Γιατί κάνατε...;» βάζει τον άλλον να απολογηθεί. Το «Τι» και το «Πώς» τον βάζουν να σκεφτεί."}
+      }
+    },
+    {
+      "title": {"en": "Yes is nothing without how", "el": "Το «ναι» χωρίς «πώς» δεν αξίζει"},
+      "explain": {
+        "en": "A yes means little until you know how it will happen. Ask «How will we know we're on track?» and «What do we do if we're off track?» Their answers are their plan, so they own it. Also find the people behind the table: a partner, a spouse, an accountant who can kill the deal later. Ask «How does this affect everyone else involved?»",
+        "el": "Ένα «ναι» λέει λίγα μέχρι να ξέρεις πώς θα γίνει. Ρώτα «Πώς θα ξέρουμε ότι πάμε καλά;» και «Τι κάνουμε αν ξεφύγουμε;» Οι απαντήσεις είναι το δικό του σχέδιο, άρα το νιώθει δικό του. Βρες επίσης τους ανθρώπους «πίσω από το τραπέζι»: έναν συνέταιρο, τη σύζυγο, τον λογιστή, που μπορούν να ακυρώσουν τη συμφωνία αργότερα. Ρώτα «Πώς επηρεάζει αυτό τους υπόλοιπους που εμπλέκονται;»"
+      },
+      "example": {
+        "en": "Every agency knows the meeting that ends with «Great, let's do it», followed by silence: the partner in the practice was never asked, or nobody knew who would send the photos. A yes with no plan and no hidden decision maker named is only a polite way to end the meeting.",
+        "el": "Κάθε γραφείο γνωρίζει το ραντεβού που τελειώνει με «Τέλεια, ας το κάνουμε» και μετά σιωπή: ο συνεργάτης στο ιατρείο δεν ρωτήθηκε ποτέ, ή κανείς δεν ήξερε ποιος θα στείλει τις φωτογραφίες. Ένα «ναι» χωρίς σχέδιο και χωρίς να έχει φανεί ο κρυφός αποφασίζων είναι απλώς ευγενικός τρόπος να κλείσει το ραντεβού."
+      },
+      "apply": {
+        "en": "After a dentist says yes, ask: «Is anyone else in the practice who should see the draft before we start?» Then: «What's the easiest way for you to send me the photos and texts this week?» Write down who sends what, by when.",
+        "el": "Αφού ο οδοντίατρος πει «ναι», ρώτα: «Υπάρχει κάποιος άλλος στο ιατρείο που θα πρέπει να δει το draft πριν ξεκινήσουμε;» Και μετά: «Ποιος είναι ο πιο εύκολος τρόπος να μου στείλετε τις φωτογραφίες και τα κείμενα αυτή την εβδομάδα;» Σημείωσε ποιος στέλνει τι και μέχρι πότε."
+      },
+      "check": {
+        "q": {"en": "Who are the «people behind the table»?", "el": "Ποιοι είναι οι άνθρωποι «πίσω από το τραπέζι»;"},
+        "options": [
+          {"en": "People not in the talk who can still block the deal", "el": "Άνθρωποι που δεν είναι στην κουβέντα αλλά μπορούν να μπλοκάρουν τη συμφωνία"},
+          {"en": "Your own team members who prepare the offer", "el": "Οι συνεργάτες σου που ετοιμάζουν την προσφορά"},
+          {"en": "Lawyers who write the final contract", "el": "Οι δικηγόροι που γράφουν το τελικό συμβόλαιο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Unseen decision makers can kill a yes, so you ask about them early.", "el": "Οι αόρατοι αποφασίζοντες μπορούν να ακυρώσουν ένα «ναι», γι' αυτό ρωτάς γι' αυτούς νωρίς."}
+      }
+    },
+    {
+      "title": {"en": "Read the hidden signals", "el": "Διάβασε τα κρυφά σημάδια"},
+      "explain": {
+        "en": "Words are only part of the message; tone and body often tell more. When they don't match, trust the tone. Voss's «rule of three»: get the same agreement three times in different ways (a yes, a summary they confirm, a «how» they answer), because a lie is hard to repeat. Also, people who use your name or say theirs build connection: humanise yourself by introducing yourself by name.",
+        "el": "Οι λέξεις είναι μόνο ένα μέρος του μηνύματος. Ο τόνος και το σώμα συχνά λένε περισσότερα. Όταν δεν ταιριάζουν, εμπιστεύσου τον τόνο. Ο «κανόνας των τριών» του Βος: πάρε την ίδια συμφωνία τρεις φορές με διαφορετικό τρόπο (ένα «ναι», μια σύνοψη που επιβεβαιώνει, ένα «πώς» που απαντά), γιατί ένα ψέμα δύσκολα επαναλαμβάνεται. Και πες το όνομά σου: όταν συστήνεσαι, γίνεσαι άνθρωπος και όχι «ένας πωλητής»."
+      },
+      "example": {
+        "en": "Voss cites research on what he calls the «Pinocchio effect»: people who are lying tend to use more words than people telling the truth, and more «he», «they» and «it» instead of «I», as if keeping a distance from their own story.",
+        "el": "Ο Βος αναφέρει έρευνες για αυτό που ονομάζει «φαινόμενο Πινόκιο»: όσοι λένε ψέματα τείνουν να χρησιμοποιούν περισσότερες λέξεις από όσους λένε την αλήθεια, και περισσότερα «αυτός», «εκείνοι» και «αυτό» αντί για «εγώ», σαν να κρατούν απόσταση από την ίδια τους την ιστορία."
+      },
+      "apply": {
+        "en": "If a client says «Sure, I'll pay this week» in a flat, tired voice, don't relax. Label: «It sounds like this week might be difficult.» Then get it three ways: the yes, a confirmed summary, and «Which day works best for the transfer?»",
+        "el": "Αν ένας πελάτης πει «Ναι, θα πληρώσω μέσα στην εβδομάδα» με επίπεδη, κουρασμένη φωνή, μην εφησυχάσεις. Βάλε ετικέτα: «Ακούγεται σαν να είναι δύσκολη αυτή η εβδομάδα». Μετά πάρε τη συμφωνία με τρεις τρόπους: το «ναι», μια σύνοψη που επιβεβαιώνει, και «Ποια μέρα σας βολεύει για τη μεταφορά;»"
+      },
+      "check": {
+        "q": {"en": "What is the «rule of three»?", "el": "Τι είναι ο «κανόνας των τριών»;"},
+        "options": [
+          {"en": "Never make more than three offers", "el": "Ποτέ περισσότερες από τρεις προσφορές"},
+          {"en": "Get the same agreement three times in different ways", "el": "Παίρνεις την ίδια συμφωνία τρεις φορές με διαφορετικό τρόπο"},
+          {"en": "Call a prospect three times before giving up", "el": "Παίρνεις έναν υποψήφιο τρεις φορές πριν τα παρατήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "A fake yes is easy once; repeating it three different ways is hard, so a real one shows.", "el": "Ένα ψεύτικο «ναι» λέγεται εύκολα μία φορά. Τρεις φορές με διαφορετικό τρόπο δύσκολα, οπότε φαίνεται το αληθινό."}
+      }
+    },
+    {
+      "title": {"en": "Know the three types", "el": "Γνώρισε τους τρεις τύπους"},
+      "explain": {
+        "en": "Voss sees three negotiation styles. Analysts are methodical, want data and time, and hate surprises; silence means they are thinking. Accommodators want a good relationship and love to talk, but may say yes and not deliver. Assertives want to win fast and be heard; for them, time is money and silence means talk now. Spot the type and adapt; don't treat others as you would want to be treated.",
+        "el": "Ο Βος βλέπει τρία στιλ διαπραγμάτευσης. Ο Αναλυτικός είναι μεθοδικός, θέλει στοιχεία και χρόνο και μισεί τις εκπλήξεις. Η σιωπή του σημαίνει ότι σκέφτεται. Ο Συμβιβαστικός θέλει καλή σχέση και του αρέσει να μιλάει, αλλά μπορεί να πει «ναι» και να μην το κάνει. Ο Δυναμικός θέλει να κερδίσει γρήγορα και να ακουστεί. Γι' αυτόν ο χρόνος είναι χρήμα. Βρες τον τύπο και προσαρμόσου. Μην του φερθείς όπως θα ήθελες να σου φερθούν εσένα."
+      },
+      "example": {
+        "en": "Think of three doctors you call on one morning: an orthopaedist who asks for a written breakdown of costs (analyst), a psychologist who chats for twenty minutes about her patients (accommodator), and a surgeon who says «You've got one minute, what is it?» (assertive). Same offer, three different conversations.",
+        "el": "Σκέψου τρεις γιατρούς που παίρνεις ένα πρωί: έναν ορθοπεδικό που ζητά γραπτή ανάλυση κόστους (αναλυτικός), μια ψυχολόγο που μιλάει είκοσι λεπτά για τους ασθενείς της (συμβιβαστική) και έναν χειρουργό που λέει «Έχετε ένα λεπτό, τι θέλετε;» (δυναμικός). Ίδια προσφορά, τρεις διαφορετικές κουβέντες."
+      },
+      "apply": {
+        "en": "Analyst: send a clear one-page breakdown and give him time. Accommodator: enjoy the chat, but end with a concrete step and date. Assertive: get to the point in two sentences, then let him talk: «Two sentences: the build is free, you pay hosting only. What do you need to know?»",
+        "el": "Αναλυτικός: στείλε μια καθαρή ανάλυση σε μία σελίδα και δώσ' του χρόνο. Συμβιβαστικός: απόλαυσε την κουβέντα, αλλά κλείσε με συγκεκριμένο βήμα και ημερομηνία. Δυναμικός: πες το ουσιώδες σε δύο προτάσεις και άφησέ τον να μιλήσει: «Με δύο λόγια: η κατασκευή είναι δωρεάν, πληρώνετε μόνο τη φιλοξενία. Τι θα θέλατε να μάθετε;»"
+      },
+      "check": {
+        "q": {"en": "What does silence usually mean to an Analyst?", "el": "Τι σημαίνει συνήθως η σιωπή για έναν Αναλυτικό;"},
+        "options": [
+          {"en": "He is angry and wants to leave", "el": "Είναι θυμωμένος και θέλει να φύγει"},
+          {"en": "He is thinking, so give him space", "el": "Σκέφτεται, οπότε δώσ' του χώρο"},
+          {"en": "He wants you to talk more", "el": "Θέλει να μιλήσεις εσύ περισσότερο"}
+        ],
+        "answer": 1,
+        "why": {"en": "For analysts silence is time to think; for assertives it is a signal to speak.", "el": "Για τον αναλυτικό η σιωπή είναι χρόνος σκέψης. Για τον δυναμικό είναι σήμα να μιλήσει."}
+      }
+    },
+    {
+      "title": {"en": "The Ackerman bargain", "el": "Το παζάρι του Άκερμαν"},
+      "explain": {
+        "en": "For haggling on price, Voss teaches a method from a kidnap-ransom expert, Mike Ackerman. Set your target. Open at 65% of it, then move to 85%, 95% and 100%, with shrinking steps. Between steps use empathy and calibrated questions so they bid against themselves. End on a precise, odd number and add a small non-money item to show you are at your limit.",
+        "el": "Για το παζάρι στην τιμή, ο Βος διδάσκει τη μέθοδο ενός ειδικού σε λύτρα απαγωγών, του Μάικ Άκερμαν. Όρισε τον στόχο σου. Ξεκίνα στο 65% του στόχου, μετά πήγαινε στο 85%, στο 95% και στο 100%, με όλο και μικρότερα βήματα. Ανάμεσα στα βήματα χρησιμοποίησε ενσυναίσθηση και ερωτήσεις «πώς/τι», ώστε ο άλλος να ανεβάζει μόνος του. Κλείσε με έναν ακριβή, μη στρογγυλό αριθμό και πρόσθεσε κάτι μικρό που δεν είναι χρήματα, για να φανεί ότι έφτασες στο όριό σου."
+      },
+      "example": {
+        "en": "Buying a used car with a target of 10,000 euros: open at 6,500, then 8,500, then 9,500, and close at 9,870 plus «and you fill the tank». The shrinking steps and the odd number signal that you have squeezed to your very limit.",
+        "el": "Αγοράζεις μεταχειρισμένο αυτοκίνητο με στόχο τα 10.000 ευρώ: ξεκινάς στα 6.500, μετά 8.500, μετά 9.500, και κλείνεις στα 9.870 «και μου το γεμίζετε βενζίνη». Τα όλο και μικρότερα βήματα και ο μη στρογγυλός αριθμός δείχνουν ότι έχεις φτάσει στο απόλυτο όριό σου."
+      },
+      "apply": {
+        "en": "Use it when you buy: a new laptop, an office rent, a freelancer's quote. Write the four numbers before the call. Between offers, say: «I'd love to, but how am I supposed to do that with my budget?» Never use fake limits with your own clients.",
+        "el": "Χρησιμοποίησέ το όταν αγοράζεις: ένα νέο laptop, το ενοίκιο ενός γραφείου, την προσφορά ενός freelancer. Γράψε τους τέσσερις αριθμούς πριν από την κουβέντα. Ανάμεσα στις προσφορές πες: «Θα ήθελα πολύ, αλλά πώς να το κάνω αυτό με τον προϋπολογισμό μου;» Ποτέ μη λες ψεύτικα όρια στους δικούς σου πελάτες."
+      },
+      "check": {
+        "q": {"en": "Why do the steps get smaller in the Ackerman model?", "el": "Γιατί τα βήματα μικραίνουν στη μέθοδο Άκερμαν;"},
+        "options": [
+          {"en": "To confuse the seller with maths", "el": "Για να μπερδέψεις τον πωλητή με αριθμούς"},
+          {"en": "Because you run out of patience", "el": "Γιατί σου τελειώνει η υπομονή"},
+          {"en": "To signal you are reaching your limit", "el": "Για να δείξεις ότι φτάνεις στο όριό σου"}
+        ],
+        "answer": 2,
+        "why": {"en": "Shrinking moves tell the other side there is very little left to give.", "el": "Οι όλο και μικρότερες κινήσεις λένε στον άλλον ότι δεν έχει μείνει σχεδόν τίποτα να δώσεις."}
+      }
+    },
+    {
+      "title": {"en": "Find the black swans", "el": "Βρες τους μαύρους κύκνους"},
+      "explain": {
+        "en": "Black swans are hidden facts you don't know you don't know, and they can change everything. When someone seems irrational, they are usually missing information, under constraints you can't see, or have interests they haven't said. Ask, listen, and meet face to face when you can. Look for leverage: what they gain, what they fear losing, and their own stated principles you can point to.",
+        "el": "Οι «μαύροι κύκνοι» είναι κρυφά στοιχεία που δεν ξέρεις καν ότι δεν τα ξέρεις, και μπορούν να αλλάξουν τα πάντα. Όταν κάποιος φαίνεται παράλογος, συνήθως του λείπει πληροφορία, έχει περιορισμούς που δεν βλέπεις ή συμφέροντα που δεν έχει πει. Ρώτα, άκου, και συναντήσου από κοντά όταν μπορείς. Ψάξε για μοχλούς: τι κερδίζει, τι φοβάται να χάσει, και ποιες αρχές του έχει πει ο ίδιος, ώστε να του τις θυμίσεις."
+      },
+      "example": {
+        "en": "Europeans were sure all swans were white, until Dutch explorers led by Willem de Vlamingh saw black swans in Australia in 1697. One sight destroyed a «certain» fact. Voss borrowed the term from Nassim Taleb and named his company after it.",
+        "el": "Οι Ευρωπαίοι ήταν σίγουροι ότι όλοι οι κύκνοι είναι λευκοί, μέχρι που Ολλανδοί εξερευνητές με επικεφαλής τον Βίλεμ ντε Βλάμινγκ είδαν μαύρους κύκνους στην Αυστραλία το 1697. Μια ματιά γκρέμισε ένα «βέβαιο» γεγονός. Ο Βος δανείστηκε τον όρο από τον Νασίμ Ταλέμπ και έδωσε αυτό το όνομα στην εταιρεία του."
+      },
+      "apply": {
+        "en": "When a client refuses something that seems obviously good, ask: «What am I missing here?» or «What would happen if you went ahead?» The answer might be a partner who decides, a cousin who «does websites», or a tax worry. That is your black swan.",
+        "el": "Όταν ένας πελάτης αρνείται κάτι που φαίνεται προφανώς καλό, ρώτα: «Τι μου διαφεύγει;» ή «Τι θα γινόταν αν προχωρούσατε;» Η απάντηση μπορεί να είναι ένας συνέταιρος που αποφασίζει, ένα ξαδέρφι που «φτιάχνει sites» ή μια ανησυχία για την εφορία. Αυτός είναι ο μαύρος κύκνος σου."
+      },
+      "check": {
+        "q": {"en": "When someone seems irrational, what does Voss suggest?", "el": "Όταν κάποιος φαίνεται παράλογος, τι προτείνει ο Βος;"},
+        "options": [
+          {"en": "Look for missing information, hidden limits or unspoken interests", "el": "Ψάξε για πληροφορία που λείπει, κρυφούς περιορισμούς ή ανείπωτα συμφέροντα"},
+          {"en": "Walk away, because you cannot negotiate with him", "el": "Φύγε, γιατί δεν διαπραγματεύεσαι μαζί του"},
+          {"en": "Repeat your logical arguments more slowly", "el": "Επανάλαβε τα λογικά σου επιχειρήματα πιο αργά"}
+        ],
+        "answer": 0,
+        "why": {"en": "«Irrational» usually means you don't yet know something they know or fear.", "el": "Το «παράλογος» συνήθως σημαίνει ότι ακόμα δεν ξέρεις κάτι που ξέρει ή φοβάται εκείνος."}
+      }
+    },
+    {
+      "title": {"en": "Prepare a one-page plan", "el": "Ετοίμασε ένα σχέδιο μιας σελίδας"},
+      "explain": {
+        "en": "Under pressure, you don't rise to the occasion; you fall to your level of training. So Voss ends with a «negotiation one sheet»: your goal, a short summary of the situation, three to five labels you expect to use, your accusation audit, three to five calibrated questions, and non-money things you could offer. One page, written before the talk.",
+        "el": "Υπό πίεση δεν ανεβαίνεις στο ύψος της περίστασης. Πέφτεις στο επίπεδο της προετοιμασίας σου. Γι' αυτό ο Βος κλείνει με το «φύλλο διαπραγμάτευσης»: ο στόχος σου, μια σύντομη περίληψη της κατάστασης, τρεις με πέντε ετικέτες που περιμένεις να χρειαστείς, η λίστα κατηγοριών σου, τρεις με πέντε ερωτήσεις «πώς/τι» και πράγματα χωρίς χρήματα που μπορείς να προσφέρεις. Μία σελίδα, γραμμένη πριν από την κουβέντα."
+      },
+      "example": {
+        "en": "Pilots run through a printed checklist before every take-off, even after thousands of flights, because under stress memory fails. FBI negotiators work the same way: a team prepares and writes the key lines before a call, so nobody has to invent them in panic.",
+        "el": "Οι πιλότοι περνούν μια τυπωμένη λίστα ελέγχου πριν από κάθε απογείωση, ακόμα και μετά από χιλιάδες πτήσεις, γιατί υπό πίεση η μνήμη προδίδει. Οι διαπραγματευτές του FBI δουλεύουν με τον ίδιο τρόπο: μια ομάδα προετοιμάζει και γράφει τις βασικές φράσεις πριν από την κλήση, ώστε κανείς να μη χρειάζεται να τις εφεύρει πανικόβλητος."
+      },
+      "apply": {
+        "en": "Write one sheet for your cold calls and keep it beside the phone: goal (a 10-minute video call), accusation audit, labels for «not interested», «send email», «I have a site», and three «what/how» questions. Update it every Friday with what worked.",
+        "el": "Γράψε ένα φύλλο για τα cold calls σου και κράτα το δίπλα στο τηλέφωνο: στόχος (μια βιντεοκλήση 10 λεπτών), λίστα κατηγοριών, ετικέτες για το «δεν ενδιαφέρομαι», το «στείλτε email» και το «έχω ήδη site», και τρεις ερωτήσεις «τι/πώς». Ενημέρωσέ το κάθε Παρασκευή με ό,τι δούλεψε."
+      },
+      "check": {
+        "q": {"en": "Why write a one sheet before negotiating?", "el": "Γιατί να γράψεις ένα φύλλο πριν διαπραγματευτείς;"},
+        "options": [
+          {"en": "To read it word for word to the other side", "el": "Για να το διαβάσεις λέξη προς λέξη στον άλλον"},
+          {"en": "Because under pressure you fall to your preparation", "el": "Γιατί υπό πίεση πέφτεις στο επίπεδο της προετοιμασίας σου"},
+          {"en": "To prove later what was agreed", "el": "Για να αποδείξεις αργότερα τι συμφωνήθηκε"}
+        ],
+        "answer": 1,
+        "why": {"en": "Prepared labels and questions come out naturally when stress hits.", "el": "Οι έτοιμες ετικέτες και ερωτήσεις βγαίνουν φυσικά όταν σε πιάσει το άγχος."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A cardiologist answers your cold call: «I'm not interested.» What do you do?", "el": "Ένας καρδιολόγος σού απαντά στο cold call: «Δεν ενδιαφέρομαι». Τι κάνεις;"},
+      "options": [
+        {"en": "Quickly list three benefits before he hangs up", "el": "Λες γρήγορα τρία πλεονεκτήματα πριν κλείσει"},
+        {"en": "Label calmly: «Sounds like you get too many of these calls», then pause", "el": "Βάζεις ήρεμα ετικέτα: «Ακούγεται σαν να δέχεστε πολλά τέτοια τηλέφωνα» και κάνεις παύση"},
+        {"en": "Ask «Don't you want more patients?»", "el": "Ρωτάς «Δεν θέλετε περισσότερους ασθενείς;»"}
+      ],
+      "answer": 1,
+      "why": {"en": "A label plus silence lowers his guard; pushing for yes raises it.", "el": "Η ετικέτα μαζί με τη σιωπή κατεβάζει την άμυνά του. Το κυνήγι του «ναι» την ανεβάζει."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "A dentist says: «Just send me an email.» What is your best answer?", "el": "Ένας οδοντίατρος λέει: «Στείλτε μου απλώς ένα email». Ποια είναι η καλύτερη απάντηση;"},
+      "options": [
+        {"en": "«Sure. What would you need to see in it to make it worth opening?»", "el": "«Βεβαίως. Τι θα θέλατε να δείτε μέσα για να αξίζει να το ανοίξετε;»"},
+        {"en": "«Why don't you want to talk now?»", "el": "«Γιατί δεν θέλετε να μιλήσουμε τώρα;»"},
+        {"en": "«OK, thank you», and send a long brochure", "el": "«Εντάξει, ευχαριστώ», και στέλνεις ένα μεγάλο φυλλάδιο"}
+      ],
+      "answer": 0,
+      "why": {"en": "A calibrated «what» question keeps the talk alive and lets him define what matters.", "el": "Μια ερώτηση με «τι» κρατά ζωντανή την κουβέντα και τον αφήνει να πει τι μετράει γι' αυτόν."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "A client saw her draft three weeks ago and stopped replying. What do you send?", "el": "Μια πελάτισσα είδε το draft της πριν από τρεις εβδομάδες και σταμάτησε να απαντά. Τι στέλνεις;"},
+      "options": [
+        {"en": "A long message repeating all the benefits", "el": "Ένα μεγάλο μήνυμα που επαναλαμβάνει όλα τα πλεονεκτήματα"},
+        {"en": "A message saying the offer expires tomorrow", "el": "Ένα μήνυμα ότι η προσφορά λήγει αύριο"},
+        {"en": "One line: «Have you given up on the new website?»", "el": "Μία γραμμή: «Το έχετε αφήσει τελείως το θέμα με τη νέα ιστοσελίδα;»"}
+      ],
+      "answer": 2,
+      "why": {"en": "A no-oriented question is easy to answer and honest; fake deadlines break trust.", "el": "Μια ερώτηση που ζητά «όχι» απαντιέται εύκολα και είναι ειλικρινής. Οι ψεύτικες προθεσμίες σπάνε την εμπιστοσύνη."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "A client says angrily: «I just want what's fair!» about the renewal. What do you do?", "el": "Ένας πελάτης λέει θυμωμένος για την ανανέωση: «Θέλω απλώς ό,τι είναι δίκαιο!» Τι κάνεις;"},
+      "options": [
+        {"en": "Give a discount immediately to calm him", "el": "Του κάνεις αμέσως έκπτωση για να ηρεμήσει"},
+        {"en": "Ask calmly what would make it feel fair to him", "el": "Ρωτάς ήρεμα τι θα το έκανε να του φαίνεται δίκαιο"},
+        {"en": "Tell him your prices are fair and he is wrong", "el": "Του λες ότι οι τιμές σου είναι δίκαιες και ότι κάνει λάθος"}
+      ],
+      "answer": 1,
+      "why": {"en": "Don't cave or fight; explore what «fair» means to him.", "el": "Ούτε υποχωρείς ούτε τσακώνεσαι. Ψάχνεις τι σημαίνει «δίκαιο» για εκείνον."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "At the end of a meeting a doctor says «You're right, you're right». What does it most likely mean?", "el": "Στο τέλος ενός ραντεβού ο γιατρός λέει «Έχετε δίκιο, έχετε δίκιο». Τι σημαίνει πιθανότατα;"},
+      "options": [
+        {"en": "He wants the conversation to end; you haven't reached him yet", "el": "Θέλει να τελειώσει η κουβέντα. Δεν τον έχεις φτάσει ακόμα"},
+        {"en": "He is ready to sign today", "el": "Είναι έτοιμος να υπογράψει σήμερα"},
+        {"en": "He fully trusts you", "el": "Σε εμπιστεύεται πλήρως"}
+      ],
+      "answer": 0,
+      "why": {"en": "Summarise his situation until you hear «Exactly, that's it» instead.", "el": "Συνόψισε την κατάστασή του μέχρι να ακούσεις «Ακριβώς, αυτό είναι»."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "Your partner wants to holiday in the mountains, you want the sea. What would Voss do?", "el": "Ο σύντροφός σου θέλει διακοπές στο βουνό, εσύ θάλασσα. Τι θα έκανε ο Βος;"},
+      "options": [
+        {"en": "Split it: three days each", "el": "Μοιράζετε: τρεις μέρες ο καθένας"},
+        {"en": "Insist until the other gives in", "el": "Επιμένεις μέχρι να υποχωρήσει ο άλλος"},
+        {"en": "Ask what each really wants from the trip and look for a place that gives both", "el": "Ρωτάς τι θέλει ο καθένας πραγματικά από το ταξίδι και ψάχνεις μέρος που δίνει και τα δύο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Behind positions are needs (quiet, swimming, cool air); find a solution, not a middle.", "el": "Πίσω από τις θέσεις υπάρχουν ανάγκες (ησυχία, κολύμπι, δροσιά). Ψάχνεις λύση, όχι μέση."},
+      "idea": 10
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "A mirror means repeating the last one to three words the other person said.", "el": "Ο καθρέφτης σημαίνει να επαναλαμβάνεις τις τελευταίες μία έως τρεις λέξεις του άλλου."}, "answer": true, "why": {"en": "Said as a soft question, then followed by silence.", "el": "Ειπωμένες σαν ήπια ερώτηση και μετά σιωπή."}},
+    {"s": {"en": "Voss says to get the other person to say «yes» as early as possible.", "el": "Ο Βος λέει να κάνεις τον άλλον να πει «ναι» όσο πιο νωρίς γίνεται."}, "answer": false, "why": {"en": "He prefers inviting «no», which makes people feel safe.", "el": "Προτιμά να καλεί το «όχι», που κάνει τον άλλον να νιώθει ασφαλής."}},
+    {"s": {"en": "A good label starts with «It seems like...» rather than «I hear...».", "el": "Μια καλή ετικέτα ξεκινά με «Μου φαίνεται ότι...» και όχι με «Αυτό που ακούω εγώ...»."}, "answer": true, "why": {"en": "It keeps the focus on the other person.", "el": "Κρατά την προσοχή στον άλλον."}},
+    {"s": {"en": "«You're right» is the best sign that the other side is convinced.", "el": "Το «Έχεις δίκιο» είναι το καλύτερο σημάδι ότι ο άλλος πείστηκε."}, "answer": false, "why": {"en": "It often means «stop talking». «That's right» is the real breakthrough.", "el": "Συχνά σημαίνει «σταμάτα να μιλάς». Η πραγματική ανατροπή είναι το «ακριβώς έτσι»."}},
+    {"s": {"en": "Calibrated questions usually start with «How» or «What».", "el": "Οι ερωτήσεις «πώς/τι» ξεκινούν συνήθως με «Πώς» ή «Τι»."}, "answer": true, "why": {"en": "They invite the other side to think and solve, without feeling attacked.", "el": "Καλούν τον άλλον να σκεφτεί και να λύσει, χωρίς να νιώσει ότι δέχεται επίθεση."}},
+    {"s": {"en": "Meeting halfway is Voss's favourite way to close a deal.", "el": "Η συνάντηση στη μέση είναι ο αγαπημένος τρόπος του Βος να κλείνει συμφωνίες."}, "answer": false, "why": {"en": "The title says it: never split the difference.", "el": "Το λέει και ο τίτλος: ποτέ μη μοιράζεις τη διαφορά."}},
+    {"s": {"en": "In the Ackerman model your offers rise in shrinking steps toward your target.", "el": "Στη μέθοδο Άκερμαν οι προσφορές σου ανεβαίνουν προς τον στόχο με όλο και μικρότερα βήματα."}, "answer": true, "why": {"en": "65%, 85%, 95%, 100%: the smaller moves signal your limit.", "el": "65%, 85%, 95%, 100%: οι μικρότερες κινήσεις δείχνουν το όριό σου."}},
+    {"s": {"en": "Voss recommends the assertive, direct voice for most situations.", "el": "Ο Βος προτείνει την απότομη, δυναμική φωνή για τις περισσότερες περιστάσεις."}, "answer": false, "why": {"en": "Mostly the playful voice; the calm DJ voice for tension; the assertive one rarely.", "el": "Κυρίως τη χαλαρή φωνή, την ήρεμη φωνή του DJ στην ένταση, και τη δυναμική σπάνια."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Mirror", "el": "Καθρέφτης"}, "b": {"en": "Repeat their last few words as a question", "el": "Επαναλαμβάνεις τις τελευταίες λέξεις του σαν ερώτηση"}},
+    {"a": {"en": "Label", "el": "Ετικέτα"}, "b": {"en": "Name their feeling: «It seems like...»", "el": "Ονομάζεις το συναίσθημά του: «Μου φαίνεται ότι...»"}},
+    {"a": {"en": "Accusation audit", "el": "Λίστα κατηγοριών"}, "b": {"en": "Say the worst they think of you first", "el": "Λες πρώτος τα χειρότερα που σκέφτεται για σένα"}},
+    {"a": {"en": "Calibrated question", "el": "Ερώτηση «πώς/τι»"}, "b": {"en": "Open «how» or «what» question that hands over control", "el": "Ανοιχτή ερώτηση που δίνει στον άλλον αίσθηση ελέγχου"}},
+    {"a": {"en": "Black swan", "el": "Μαύρος κύκνος"}, "b": {"en": "Hidden fact that changes the whole deal", "el": "Κρυφό στοιχείο που αλλάζει όλη τη συμφωνία"}},
+    {"a": {"en": "That's right", "el": "Ακριβώς έτσι"}, "b": {"en": "Sign they feel fully understood", "el": "Σημάδι ότι νιώθει πλήρως κατανοητός"}}
+  ],
+  "missions": [
+    {"en": "Write your accusation audit for cold calls: the five worst things a doctor might think when you call. Turn them into two opening sentences.", "el": "Γράψε τη λίστα κατηγοριών σου για τα cold calls: τα πέντε χειρότερα που μπορεί να σκεφτεί ένας γιατρός όταν τον παίρνεις. Κάν' τα δύο προτάσεις ανοίγματος."},
+    {"en": "In your next five calls, answer every objection first with a mirror or a label, then count to four in silence. Note what happened.", "el": "Στα επόμενα πέντε τηλεφωνήματα απάντησε σε κάθε αντίρρηση πρώτα με καθρέφτη ή ετικέτα και μέτρα σιωπηλά μέχρι το τέσσερα. Σημείωσε τι έγινε."},
+    {"en": "Send «Have you given up on the new website?» to one client who stopped replying, and note how fast they answer.", "el": "Στείλε «Το έχετε αφήσει τελείως το θέμα με τη νέα ιστοσελίδα;» σε έναν πελάτη που δεν απαντά, και σημείωσε πόσο γρήγορα απαντά."},
+    {"en": "Replace the first question of your script with a no-oriented one, such as «Is now a bad time for two minutes?»", "el": "Άλλαξε την πρώτη ερώτηση του σεναρίου σου με μία που ζητά «όχι», όπως «Είναι κακή στιγμή για δύο λεπτά;»"},
+    {"en": "Write a one-page negotiation sheet for your next video meeting: goal, summary, three labels, three «what/how» questions.", "el": "Γράψε ένα φύλλο διαπραγμάτευσης μιας σελίδας για την επόμενη βιντεοκλήση σου: στόχος, περίληψη, τρεις ετικέτες, τρεις ερωτήσεις «τι/πώς»."}
+  ],
+  "mantra": {"en": "Slow down, label the feeling, and let them feel in control.", "el": "Κόψε ταχύτητα, ονόμασε το συναίσθημα, άφησέ τον να νιώσει ότι ελέγχει."},
+  "careful": {
+    "en": "The hostage stories are dramatic and told from Voss's side only; some details cannot be checked. A hostage talk is not a sales call: the stakes, power and time are different. Some research he cites is simplified. And these tools are powerful: used to trap people, with fake limits or invented pressure, they become manipulation. Use them to understand, not to trick.",
+    "el": "Οι ιστορίες ομήρων είναι δραματικές και ειπωμένες μόνο από την πλευρά του Βος. Κάποιες λεπτομέρειες δεν μπορούν να ελεγχθούν. Μια διαπραγμάτευση για όμηρο δεν είναι τηλεφώνημα πώλησης: το διακύβευμα, η δύναμη και ο χρόνος διαφέρουν. Μέρος της έρευνας που αναφέρει είναι απλοποιημένο. Και τα εργαλεία είναι ισχυρά: αν τα χρησιμοποιήσεις για να παγιδέψεις, με ψεύτικα όρια ή επινοημένη πίεση, γίνονται χειραγώγηση. Χρησιμοποίησέ τα για να καταλαβαίνεις, όχι για να ξεγελάς."
+  },
+  "connects": [
+    {"book": "influence", "note": {"en": "Cialdini explains why people say yes; Voss shows how to get there by first making them feel safe saying no.", "el": "Ο Τσιαλντίνι εξηγεί γιατί ο κόσμος λέει «ναι». Ο Βος δείχνει πώς φτάνεις εκεί κάνοντάς τον πρώτα να νιώσει ασφαλής να πει «όχι»."}},
+    {"book": "art-of-the-deal", "note": {"en": "Trump negotiates with bravado and pressure; Voss wins with calm listening, labels and questions.", "el": "Ο Τραμπ διαπραγματεύεται με μεγάλα λόγια και πίεση. Ο Βος κερδίζει με ήρεμη ακρόαση, ετικέτες και ερωτήσεις."}},
+    {"book": "crucial-conversations", "note": {"en": "Both teach you to stay calm and make the other person feel safe when emotions run high.", "el": "Και τα δύο σού μαθαίνουν να μένεις ήρεμος και να κάνεις τον άλλον να νιώθει ασφαλής όταν ανεβαίνουν τα συναισθήματα."}}
+  ]
+}

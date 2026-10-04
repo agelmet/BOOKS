@@ -1,0 +1,576 @@
+{
+  "id": "mindset",
+  "title": {"en": "Mindset: The New Psychology of Success", "el": "Νοοτροπία: Η νέα ψυχολογία της επιτυχίας"},
+  "author": "Carol S. Dweck",
+  "authorEl": "Κάρολ Ντουέκ",
+  "year": 2006,
+  "shelf": "mind",
+  "skills": {"mindset": 3, "leadership": 2, "communication": 1},
+  "oneLine": {
+    "en": "If you believe your abilities can grow instead of being fixed, you face challenges, effort, failure and criticism differently, and that decides how far you go.",
+    "el": "Αν πιστεύεις ότι οι ικανότητές σου μεγαλώνουν και δεν είναι δεδομένες, αντιμετωπίζεις αλλιώς την πρόκληση, τον κόπο, την αποτυχία και την κριτική, και αυτό κρίνει πόσο μακριά θα φτάσεις."
+  },
+  "story": {
+    "en": "Carol Dweck is a psychology professor at Stanford University. For decades she studied why some children love hard problems while others fall apart at the first mistake. In 2006 she turned that research into this book for everyone. It explains two simple beliefs about ability and shows how they shape school, sport, business and love. Teachers, coaches and CEOs still use its language, and «mindset» became an everyday word because of it.",
+    "el": "Η Κάρολ Ντουέκ είναι καθηγήτρια ψυχολογίας στο Στάνφορντ. Για δεκαετίες ερευνούσε γιατί κάποια παιδιά λατρεύουν τα δύσκολα προβλήματα ενώ άλλα καταρρέουν με το πρώτο λάθος. Το 2006 έκανε την έρευνά της ένα βιβλίο για όλους. Εξηγεί δύο απλές πεποιθήσεις για την ικανότητα και δείχνει πώς καθορίζουν το σχολείο, τον αθλητισμό, τη δουλειά και τις σχέσεις. Δάσκαλοι, προπονητές και CEO μιλούν ακόμα με τις λέξεις του, και το «mindset» έγινε καθημερινή λέξη χάρη σε αυτό."
+  },
+  "forYou": {
+    "en": "You have no formal coding or business schooling, yet you built more than 200 sites with AI. That is already a growth story. This book helps you keep that attitude as you grow: hear harsh client feedback without taking it personally, treat a bad week of calls as data, praise your team so they get better, and hire people for how they learn, not only for what they know today.",
+    "el": "Δεν έχεις σπουδάσει ούτε προγραμματισμό ούτε διοίκηση, κι όμως έφτιαξες πάνω από 200 ιστοσελίδες με AI. Αυτό είναι ήδη μια ιστορία ανάπτυξης. Το βιβλίο σε βοηθά να κρατήσεις αυτή τη στάση όσο μεγαλώνεις: να ακούς σκληρό feedback από πελάτη χωρίς να το παίρνεις προσωπικά, να βλέπεις μια κακή εβδομάδα τηλεφώνων ως δεδομένα, να επαινείς την ομάδα σου ώστε να βελτιώνεται, και να προσλαμβάνεις ανθρώπους για το πώς μαθαίνουν, όχι μόνο για το τι ξέρουν σήμερα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Two mindsets", "el": "Δύο νοοτροπίες"},
+      "explain": {
+        "en": "Dweck found two beliefs about ability. In the fixed mindset you think intelligence and talent are a set amount: you either have them or you don't. In the growth mindset you think your basic qualities can grow through effort, good strategies and help from others. This does not mean anyone can become Einstein. It means nobody knows in advance how far a person can go. This one belief changes how you face challenges, effort, failure and criticism.",
+        "el": "Η Ντουέκ βρήκε δύο πεποιθήσεις για την ικανότητα. Στη σταθερή νοοτροπία πιστεύεις ότι η ευφυΐα και το ταλέντο είναι μια δεδομένη ποσότητα: ή τα έχεις ή δεν τα έχεις. Στη νοοτροπία ανάπτυξης πιστεύεις ότι οι βασικές σου ικανότητες μεγαλώνουν με προσπάθεια, σωστές στρατηγικές και βοήθεια από άλλους. Δεν σημαίνει ότι ο καθένας γίνεται Αϊνστάιν. Σημαίνει ότι κανείς δεν ξέρει από πριν πόσο μακριά μπορεί να φτάσει κάποιος. Αυτή η μία πεποίθηση αλλάζει το πώς βλέπεις την πρόκληση, τον κόπο, την αποτυχία και την κριτική."
+      },
+      "example": {
+        "en": "Dweck's research began with children solving puzzles that kept getting harder. She expected them to get upset. Instead one boy rubbed his hands and announced that he loved a challenge. Another said he had hoped this would teach him something. They did not feel they were failing. They felt they were learning, and that changed her whole career.",
+        "el": "Η έρευνα της Ντουέκ ξεκίνησε με παιδιά που έλυναν γρίφους όλο και πιο δύσκολους. Περίμενε ότι θα στενοχωρηθούν. Αντί γι' αυτό, ένα αγόρι έτριψε τα χέρια του και δήλωσε ότι λατρεύει τις προκλήσεις. Ένα άλλο είπε ότι ήλπιζε να μάθει κάτι από αυτό. Δεν ένιωθαν ότι αποτυγχάνουν. Ένιωθαν ότι μαθαίνουν, και αυτό άλλαξε όλη την καριέρα της."
+      },
+      "apply": {
+        "en": "Catch your own fixed sentences this week: «I'm just not a good speaker», «I'm not a numbers person». Each time, add «yet» and one action: «I'm not a good speaker yet, so tonight I rehearse my cold call opening out loud and record myself once.»",
+        "el": "Πιάσε αυτή την εβδομάδα τις «σταθερές» σου φράσεις: «Δεν είμαι καλός ομιλητής», «Δεν είμαι άνθρωπος των αριθμών». Κάθε φορά πρόσθεσε ένα «ακόμα» και μία πράξη: «Δεν είμαι ακόμα καλός ομιλητής, οπότε απόψε λέω δυνατά το άνοιγμα του cold call και ηχογραφώ τον εαυτό μου μία φορά»."
+      },
+      "check": {
+        "q": {"en": "What is the growth mindset?", "el": "Τι είναι η νοοτροπία ανάπτυξης;"},
+        "options": [
+          {"en": "Believing you already have a lot of talent", "el": "Να πιστεύεις ότι έχεις ήδη πολύ ταλέντο"},
+          {"en": "Believing abilities grow with effort, strategy and help", "el": "Να πιστεύεις ότι οι ικανότητες μεγαλώνουν με κόπο, στρατηγική και βοήθεια"},
+          {"en": "Believing anyone can become anything they want", "el": "Να πιστεύεις ότι ο καθένας γίνεται ό,τι θέλει"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is the belief that qualities can be developed, not a promise that there are no limits.", "el": "Είναι η πεποίθηση ότι οι ικανότητες καλλιεργούνται, όχι η υπόσχεση ότι δεν υπάρχουν όρια."}
+      }
+    },
+    {
+      "title": {"en": "Prove or improve", "el": "Να αποδείξεις ή να βελτιωθείς"},
+      "explain": {
+        "en": "In the fixed mindset every situation is a test of who you are. Will I look smart or stupid? Will I win or be rejected? So you keep proving yourself again and again, and you pick tasks you already know you can win. In the growth mindset the question changes from «how do I look?» to «what can I learn?». The goal is getting better, not looking good.",
+        "el": "Στη σταθερή νοοτροπία κάθε κατάσταση είναι εξέταση για το ποιος είσαι. Θα φανώ έξυπνος ή χαζός; Θα κερδίσω ή θα με απορρίψουν; Έτσι αποδεικνύεις συνέχεια τον εαυτό σου και διαλέγεις δουλειές που ξέρεις ήδη ότι θα πετύχεις. Στη νοοτροπία ανάπτυξης η ερώτηση αλλάζει από «πώς φαίνομαι;» σε «τι μπορώ να μάθω;». Ο στόχος είναι να γίνεις καλύτερος, όχι να φανείς καλός."
+      },
+      "example": {
+        "en": "In Dweck's studies children solved some puzzles and could then choose: redo an easy puzzle or try a harder one. Children with a fixed mindset chose the safe, easy puzzle so they would keep looking clever. Children with a growth mindset could not understand why anyone would want to do the same puzzle twice.",
+        "el": "Στις μελέτες της Ντουέκ τα παιδιά έλυναν κάποιους γρίφους και μετά διάλεγαν: να ξανακάνουν έναν εύκολο ή να δοκιμάσουν έναν πιο δύσκολο. Τα παιδιά με σταθερή νοοτροπία διάλεγαν τον ασφαλή, εύκολο γρίφο, για να συνεχίσουν να φαίνονται έξυπνα. Τα παιδιά με νοοτροπία ανάπτυξης δεν καταλάβαιναν γιατί να θέλει κανείς να λύσει τον ίδιο γρίφο δεύτερη φορά."
+      },
+      "apply": {
+        "en": "Before each video meeting with a psychologist or doctor, write one learning goal next to the sales goal: «Today I test showing two sites from her own specialty first.» After the call, judge yourself on what you learned too, so even a no gives you something.",
+        "el": "Πριν από κάθε βιντεοκλήση με ψυχολόγο ή γιατρό, γράψε έναν στόχο μάθησης δίπλα στον στόχο πώλησης: «Σήμερα δοκιμάζω να δείξω πρώτα δύο ιστοσελίδες από τη δική της ειδικότητα». Μετά την κλήση κρίνε τον εαυτό σου και για το τι έμαθες, ώστε ακόμα και ένα «όχι» να σου αφήνει κάτι."
+      },
+      "check": {
+        "q": {"en": "What question does the fixed mindset ask in every task?", "el": "Ποια ερώτηση κάνει η σταθερή νοοτροπία σε κάθε δουλειά;"},
+        "options": [
+          {"en": "What can I learn from this?", "el": "Τι μπορώ να μάθω από αυτό;"},
+          {"en": "Will this make me look smart or stupid?", "el": "Θα με κάνει να φανώ έξυπνος ή χαζός;"},
+          {"en": "Who could help me do this better?", "el": "Ποιος θα με βοηθούσε να το κάνω καλύτερα;"}
+        ],
+        "answer": 1,
+        "why": {"en": "For the fixed mindset every task judges your worth, so looking good comes first.", "el": "Για τη σταθερή νοοτροπία κάθε δουλειά κρίνει την αξία σου, οπότε προηγείται το να φανείς καλός."}
+      }
+    },
+    {
+      "title": {"en": "Love the stretch", "el": "Αγάπα το τέντωμα"},
+      "explain": {
+        "en": "Because they don't fear looking bad, people with a growth mindset look for tasks just beyond their current level. That is where learning happens. The fixed mindset avoids them, because a hard task could reveal missing talent. Dweck adds a surprise: the growth mindset also makes you more honest about yourself. You want accurate information about your weak points, because you plan to fix them.",
+        "el": "Επειδή δεν φοβούνται να φανούν αδύναμοι, οι άνθρωποι με νοοτροπία ανάπτυξης ψάχνουν δουλειές λίγο πιο πάνω από το τωρινό τους επίπεδο. Εκεί γίνεται η μάθηση. Η σταθερή νοοτροπία τις αποφεύγει, γιατί μια δύσκολη δουλειά μπορεί να δείξει ότι λείπει το ταλέντο. Η Ντουέκ προσθέτει κάτι απρόσμενο: η νοοτροπία ανάπτυξης σε κάνει και πιο ειλικρινή με τον εαυτό σου. Θέλεις σωστή εικόνα για τις αδυναμίες σου, γιατί σκοπεύεις να τις διορθώσεις."
+      },
+      "example": {
+        "en": "At the University of Hong Kong all classes are taught in English, but some students arrive with weak English. Dweck's team asked new students if they would take a course to improve their English. Students with a growth mindset said yes. Those with a fixed mindset were not interested: they preferred to hide the weakness rather than fix it.",
+        "el": "Στο Πανεπιστήμιο του Χονγκ Κονγκ όλα τα μαθήματα γίνονται στα αγγλικά, αλλά κάποιοι φοιτητές έρχονται με αδύναμα αγγλικά. Η ομάδα της Ντουέκ ρώτησε νέους φοιτητές αν θα έκαναν ένα μάθημα για να τα βελτιώσουν. Όσοι είχαν νοοτροπία ανάπτυξης είπαν ναι. Όσοι είχαν σταθερή νοοτροπία δεν ενδιαφέρθηκαν: προτιμούσαν να κρύψουν την αδυναμία παρά να τη διορθώσουν."
+      },
+      "apply": {
+        "en": "Pick one skill that scares you a little and is just beyond you now: a 5-minute talk at a local association of professionals, or a reel where you speak to camera about your offer. Put a date on it this month. Read the nervous feeling as proof you are in the learning zone.",
+        "el": "Διάλεξε μία δεξιότητα που σε φοβίζει λίγο και είναι λίγο πιο πάνω από εσένα σήμερα: μια ομιλία πέντε λεπτών σε έναν τοπικό σύλλογο επαγγελματιών ή ένα reel όπου μιλάς στην κάμερα για την προσφορά σου. Βάλε ημερομηνία μέσα στον μήνα. Δες το άγχος ως απόδειξη ότι βρίσκεσαι στη ζώνη μάθησης."
+      },
+      "check": {
+        "q": {"en": "Why did fixed-mindset students in Hong Kong refuse the English course?", "el": "Γιατί οι φοιτητές με σταθερή νοοτροπία στο Χονγκ Κονγκ αρνήθηκαν το μάθημα αγγλικών;"},
+        "options": [
+          {"en": "Their English was already very good", "el": "Τα αγγλικά τους ήταν ήδη πολύ καλά"},
+          {"en": "The course cost too much money", "el": "Το μάθημα κόστιζε πολλά χρήματα"},
+          {"en": "Taking it meant admitting a weakness", "el": "Αν το έκαναν, θα παραδέχονταν μια αδυναμία"}
+        ],
+        "answer": 2,
+        "why": {"en": "In the fixed mindset showing a weak point feels like proof you lack ability, so people hide it.", "el": "Στη σταθερή νοοτροπία, αν δείξεις αδυναμία, μοιάζει με απόδειξη ότι δεν έχεις ικανότητα, οπότε την κρύβεις."}
+      }
+    },
+    {
+      "title": {"en": "Talent is only the start", "el": "Το ταλέντο είναι μόνο η αφετηρία"},
+      "explain": {
+        "en": "Many famous «naturals» did not look special at the start. The fixed mindset judges people by a first test and writes them off. Dweck shows that great performers were often ordinary early on and became great through years of focused practice, curiosity and stubborn work. Talent may give a head start, but it does not decide where you finish. So never judge yourself or others only by the first try.",
+        "el": "Πολλά διάσημα «χαρίσματα» δεν έδειχναν τίποτα ιδιαίτερο στην αρχή. Η σταθερή νοοτροπία κρίνει τον άνθρωπο από την πρώτη δοκιμή και τον ξεγράφει. Η Ντουέκ δείχνει ότι πολλοί κορυφαίοι ήταν συνηθισμένοι στο ξεκίνημα και έγιναν σπουδαίοι με χρόνια συγκεντρωμένης εξάσκησης, περιέργειας και πείσμα. Το ταλέντο ίσως σου δίνει προβάδισμα, αλλά δεν αποφασίζει πού θα τερματίσεις. Μην κρίνεις λοιπόν ούτε εσένα ούτε τους άλλους μόνο από την πρώτη προσπάθεια."
+      },
+      "example": {
+        "en": "Michael Jordan was not picked for his high school's varsity basketball team as a sophomore. He went home, cried, and then trained harder. Even as the biggest star in the sport he was known for practising hardest and for working on his weak points, like his jump shot and his defence, year after year.",
+        "el": "Ο Μάικλ Τζόρνταν δεν επιλέχθηκε για την πρώτη ομάδα μπάσκετ του λυκείου του στη δευτέρα τάξη. Πήγε σπίτι, έκλαψε, και μετά προπονήθηκε πιο σκληρά. Ακόμα και ως ο μεγαλύτερος σταρ του αθλήματος, ήταν γνωστός ότι προπονούνταν περισσότερο από όλους και δούλευε τις αδυναμίες του, όπως το σουτ και την άμυνα, χρόνο με τον χρόνο."
+      },
+      "apply": {
+        "en": "When you hire someone for your team, test how they learn, not only what they know today. Give a small paid task, add clear feedback, then give a second task. Choose the person whose second try improved the most, not the one who shone once and then stopped growing.",
+        "el": "Όταν προσλαμβάνεις κάποιον στην ομάδα, δοκίμασε πώς μαθαίνει, όχι μόνο τι ξέρει σήμερα. Δώσε μια μικρή πληρωμένη δουλειά, πρόσθεσε καθαρό feedback και μετά δώσε δεύτερη. Διάλεξε αυτόν που βελτιώθηκε περισσότερο στη δεύτερη προσπάθεια, όχι αυτόν που έλαμψε μία φορά και μετά σταμάτησε να εξελίσσεται."
+      },
+      "check": {
+        "q": {"en": "What does Dweck say about early talent?", "el": "Τι λέει η Ντουέκ για το ταλέντο που φαίνεται νωρίς;"},
+        "options": [
+          {"en": "It can give a head start but does not decide the finish", "el": "Μπορεί να δώσει προβάδισμα αλλά δεν αποφασίζει τον τερματισμό"},
+          {"en": "It is the best way to predict who will become great", "el": "Είναι ο καλύτερος τρόπος να προβλέψεις ποιος θα γίνει σπουδαίος"},
+          {"en": "It does not exist at all, only effort exists", "el": "Δεν υπάρχει καθόλου, υπάρχει μόνο η προσπάθεια"}
+        ],
+        "answer": 0,
+        "why": {"en": "Dweck does not deny talent; she says it is a starting point that practice and learning build on.", "el": "Η Ντουέκ δεν αρνείται το ταλέντο· λέει ότι είναι αφετηρία, πάνω στην οποία χτίζουν η εξάσκηση και η μάθηση."}
+      }
+    },
+    {
+      "title": {"en": "Effort is what makes you good", "el": "Ο κόπος σε κάνει ικανό"},
+      "explain": {
+        "en": "In the fixed mindset effort is a bad sign: if you were really talented, it would come easily. So people with this view stop trying when things get hard, which protects the story that they could have done it. The growth mindset sees effort as the thing that builds skill. Not just more hours, but effort with better strategies and help from others.",
+        "el": "Στη σταθερή νοοτροπία ο κόπος είναι κακό σημάδι: αν είχες πραγματικά ταλέντο, θα σου έβγαινε εύκολα. Γι' αυτό όσοι σκέφτονται έτσι σταματούν να προσπαθούν όταν δυσκολεύει, και έτσι προστατεύουν την ιστορία ότι «θα μπορούσαν αν ήθελαν». Η νοοτροπία ανάπτυξης βλέπει τον κόπο ως αυτό που χτίζει την ικανότητα. Όχι απλώς περισσότερες ώρες, αλλά προσπάθεια με καλύτερες στρατηγικές και βοήθεια από άλλους."
+      },
+      "example": {
+        "en": "We picture Thomas Edison as a lonely genius who suddenly invented the light bulb. Dweck points out that he worked at his Menlo Park lab with a team of around thirty assistants, testing for years. What we call genius was long, shared, stubborn work.",
+        "el": "Φανταζόμαστε τον Τόμας Έντισον σαν μοναχική ιδιοφυΐα που ξαφνικά εφηύρε τη λάμπα. Η Ντουέκ θυμίζει ότι δούλευε στο εργαστήριό του στο Μένλο Παρκ με μια ομάδα περίπου τριάντα βοηθών και δοκίμαζαν για χρόνια. Αυτό που λέμε ιδιοφυΐα ήταν μακριά, συλλογική, πεισματάρικη δουλειά."
+      },
+      "apply": {
+        "en": "When something feels hard, like writing Meta ad copy or learning a new AI tool, stop reading it as «I'm not made for this». Ask: which strategy can I change, and who can I ask? Write the new strategy down and give it three more tries before you judge.",
+        "el": "Όταν κάτι σε δυσκολεύει, όπως το κείμενο μιας διαφήμισης στο Meta ή ένα καινούργιο εργαλείο AI, μην το διαβάζεις ως «δεν είμαι φτιαγμένος γι' αυτό». Ρώτα: ποια στρατηγική μπορώ να αλλάξω και ποιον μπορώ να ρωτήσω; Γράψε τη νέα στρατηγική και δώσ' της τρεις ακόμα προσπάθειες πριν κρίνεις."
+      },
+      "check": {
+        "q": {"en": "How does the growth mindset see effort?", "el": "Πώς βλέπει τον κόπο η νοοτροπία ανάπτυξης;"},
+        "options": [
+          {"en": "As proof that you lack natural talent", "el": "Ως απόδειξη ότι σου λείπει το έμφυτο ταλέντο"},
+          {"en": "As something only beginners need to do", "el": "Ως κάτι που χρειάζονται μόνο οι αρχάριοι"},
+          {"en": "As what builds ability, with good strategies", "el": "Ως αυτό που χτίζει ικανότητα, με σωστές στρατηγικές"}
+        ],
+        "answer": 2,
+        "why": {"en": "Effort, aimed well and supported by others, is how skill is made.", "el": "Ο κόπος, με σωστή κατεύθυνση και βοήθεια από άλλους, είναι ο τρόπος που φτιάχνεται η ικανότητα."}
+      }
+    },
+    {
+      "title": {"en": "Failure is an event, not your name", "el": "Η αποτυχία είναι γεγονός, όχι ταυτότητα"},
+      "explain": {
+        "en": "For the fixed mindset, failing turns from an action («I failed») into an identity («I am a failure»). It hurts so much that people hide, blame others, give up or even cheat. For the growth mindset failure still hurts, but it is information: something to face, study and fix. The question is not «what does this say about me?» but «what do I do next?».",
+        "el": "Για τη σταθερή νοοτροπία η αποτυχία περνά από την πράξη («απέτυχα») στην ταυτότητα («είμαι αποτυχημένος»). Πονάει τόσο που ο άνθρωπος κρύβεται, ρίχνει το φταίξιμο σε άλλους, τα παρατάει ή ακόμα και κλέβει. Για τη νοοτροπία ανάπτυξης η αποτυχία πονάει κι αυτή, αλλά είναι πληροφορία: κάτι που το κοιτάς, το μελετάς και το διορθώνεις. Η ερώτηση δεν είναι «τι λέει αυτό για μένα;» αλλά «τι κάνω τώρα;»."
+      },
+      "example": {
+        "en": "Dweck's team followed students moving up to junior high school. Asked what they would do after a bad grade, students with a fixed mindset said they would study less next time and would seriously think about cheating. Students with a growth mindset said they would study harder or change the way they studied.",
+        "el": "Η ομάδα της Ντουέκ παρακολούθησε μαθητές που περνούσαν στο γυμνάσιο. Όταν τους ρώτησαν τι θα έκαναν μετά από έναν κακό βαθμό, οι μαθητές με σταθερή νοοτροπία είπαν ότι την επόμενη φορά θα διάβαζαν λιγότερο και θα σκέφτονταν σοβαρά να αντιγράψουν. Οι μαθητές με νοοτροπία ανάπτυξης είπαν ότι θα διάβαζαν περισσότερο ή θα άλλαζαν τον τρόπο που διαβάζουν."
+      },
+      "apply": {
+        "en": "After a bad day of cold calls, don't say «I'm bad at sales». Write three lines: what happened, what I change, what I test tomorrow. For example: «Doctors hung up in the first ten seconds. Tomorrow I open with the exact reason I'm calling this doctor.»",
+        "el": "Μετά από μια κακή μέρα με cold calls, μην πεις «είμαι άχρηστος στις πωλήσεις». Γράψε τρεις γραμμές: τι έγινε, τι αλλάζω, τι δοκιμάζω αύριο. Για παράδειγμα: «Οι γιατροί έκλειναν στα πρώτα δέκα δευτερόλεπτα. Αύριο ανοίγω με τον ακριβή λόγο που καλώ τον συγκεκριμένο γιατρό»."
+      },
+      "check": {
+        "q": {"en": "What did fixed-mindset students say they would do after a bad grade?", "el": "Τι είπαν οι μαθητές με σταθερή νοοτροπία ότι θα έκαναν μετά από κακό βαθμό;"},
+        "options": [
+          {"en": "Study harder with a new method", "el": "Να διαβάσουν περισσότερο με νέα μέθοδο"},
+          {"en": "Study less and maybe cheat", "el": "Να διαβάσουν λιγότερο και ίσως να αντιγράψουν"},
+          {"en": "Ask the teacher for extra help", "el": "Να ζητήσουν επιπλέον βοήθεια από τον καθηγητή"}
+        ],
+        "answer": 1,
+        "why": {"en": "When failure means «I am not smart», effort feels pointless and shortcuts feel tempting.", "el": "Όταν η αποτυχία σημαίνει «δεν είμαι έξυπνος», ο κόπος μοιάζει άσκοπος και τα κόλπα μοιάζουν δελεαστικά."}
+      }
+    },
+    {
+      "title": {"en": "Listen to the feedback that stings", "el": "Άκου το feedback που τσούζει"},
+      "explain": {
+        "en": "The fixed mindset hears criticism as an attack on who you are, so it stops listening. It cares about whether you were judged right or wrong, not about how to do better next time. The growth mindset wants the correction, because that is where the improvement is. Listening to hard feedback without defending yourself is one of the clearest signs of a growth mindset.",
+        "el": "Η σταθερή νοοτροπία ακούει την κριτική σαν επίθεση σε αυτό που είσαι, γι' αυτό σταματά να ακούει. Την ενδιαφέρει αν κρίθηκες σωστός ή λάθος, όχι πώς θα τα πας καλύτερα την επόμενη φορά. Η νοοτροπία ανάπτυξης θέλει τη διόρθωση, γιατί εκεί βρίσκεται η βελτίωση. Το να ακούς σκληρό feedback χωρίς να αμύνεσαι είναι από τα πιο καθαρά σημάδια νοοτροπίας ανάπτυξης."
+      },
+      "example": {
+        "en": "At Columbia University, researchers measured people's brain waves as they answered hard questions and got feedback. People with a fixed mindset paid close attention when told whether they were right or wrong, but their attention dropped when shown the correct answer. People with a growth mindset paid close attention to the information that could teach them.",
+        "el": "Στο Πανεπιστήμιο Κολούμπια, ερευνητές κατέγραφαν τα εγκεφαλικά κύματα ανθρώπων που απαντούσαν σε δύσκολες ερωτήσεις και έπαιρναν feedback. Όσοι είχαν σταθερή νοοτροπία πρόσεχαν πολύ όταν μάθαιναν αν είχαν σωστό ή λάθος, αλλά η προσοχή τους έπεφτε όταν τους έδειχναν τη σωστή απάντηση. Όσοι είχαν νοοτροπία ανάπτυξης πρόσεχαν πολύ ακριβώς την πληροφορία που μπορούσε να τους μάθει κάτι."
+      },
+      "apply": {
+        "en": "After each video meeting that ends in a no, ask one calm question: «What would have made this a yes for you?» Write the answer down word for word, without arguing. After ten answers, look for the pattern and change your pitch or offer.",
+        "el": "Μετά από κάθε βιντεοκλήση που κλείνει με «όχι», κάνε μία ήρεμη ερώτηση: «Τι θα χρειαζόταν για να πείτε ναι;» Γράψε την απάντηση λέξη προς λέξη, χωρίς να διαφωνήσεις. Μετά από δέκα απαντήσεις ψάξε το κοινό μοτίβο και άλλαξε την παρουσίαση ή την προσφορά σου."
+      },
+      "check": {
+        "q": {"en": "In the brain-wave study, what did fixed-mindset people tune out?", "el": "Στη μελέτη με τα εγκεφαλικά κύματα, τι αγνοούσαν όσοι είχαν σταθερή νοοτροπία;"},
+        "options": [
+          {"en": "Whether their answer was right or wrong", "el": "Αν η απάντησή τους ήταν σωστή ή λάθος"},
+          {"en": "How difficult the questions were", "el": "Πόσο δύσκολες ήταν οι ερωτήσεις"},
+          {"en": "The information showing the correct answer", "el": "Την πληροφορία που έδειχνε τη σωστή απάντηση"}
+        ],
+        "answer": 2,
+        "why": {"en": "They cared about the verdict on themselves, not about the lesson that could help them improve.", "el": "Τους ένοιαζε η ετυμηγορία για τον εαυτό τους, όχι το μάθημα που θα τους βοηθούσε να βελτιωθούν."}
+      }
+    },
+    {
+      "title": {"en": "The CEO disease", "el": "Η αρρώστια του CEO"},
+      "explain": {
+        "en": "Dweck describes leaders with a fixed mindset who must prove their greatness every day. The company becomes a stage for their genius. They take the credit, blame others, avoid bad news and surround themselves with people who agree. Often they want the company to depend on them alone. When the market changes, nobody dares to tell them, and they cannot learn.",
+        "el": "Η Ντουέκ περιγράφει ηγέτες με σταθερή νοοτροπία που πρέπει να αποδεικνύουν κάθε μέρα το μεγαλείο τους. Η εταιρεία γίνεται σκηνή για την ιδιοφυΐα τους. Παίρνουν τα εύσημα, ρίχνουν το φταίξιμο στους άλλους, αποφεύγουν τα άσχημα νέα και περιστοιχίζονται από ανθρώπους που συμφωνούν. Συχνά θέλουν η εταιρεία να εξαρτάται μόνο από αυτούς. Όταν αλλάζει η αγορά, κανείς δεν τολμά να τους το πει, και δεν μπορούν να μάθουν."
+      },
+      "example": {
+        "en": "Lee Iacocca rescued Chrysler in the early 1980s and became an American star. Dweck describes how he then spent more energy on his public image, pushed out managers who disagreed with him and blamed others for problems. Chrysler fell behind its rivals again, and the board finally eased him out in 1992.",
+        "el": "Ο Λι Αϊακόκα έσωσε την Chrysler στις αρχές της δεκαετίας του '80 και έγινε σταρ στην Αμερική. Η Ντουέκ περιγράφει πώς μετά έδινε όλο και περισσότερη ενέργεια στη δημόσια εικόνα του, έδιωχνε στελέχη που διαφωνούσαν και φόρτωνε σε άλλους τα προβλήματα. Η Chrysler έμεινε ξανά πίσω από τους ανταγωνιστές και το διοικητικό συμβούλιο τελικά τον έβγαλε στη σύνταξη το 1992."
+      },
+      "apply": {
+        "en": "Make it easy to bring you bad news. In your weekly check with the team, ask: «What is going wrong that I don't know about?» Thank the first person who answers, even if it stings, and fix one of the problems where they can see it.",
+        "el": "Κάνε εύκολο να σου φέρνουν άσχημα νέα. Στην εβδομαδιαία κουβέντα με την ομάδα ρώτα: «Τι πάει στραβά και δεν το ξέρω;» Ευχαρίστησε τον πρώτο που θα απαντήσει, ακόμα κι αν τσούζει, και διόρθωσε ένα από τα προβλήματα μπροστά του."
+      },
+      "check": {
+        "q": {"en": "Which is a sign of a fixed-mindset leader?", "el": "Ποιο είναι σημάδι ηγέτη με σταθερή νοοτροπία;"},
+        "options": [
+          {"en": "Pushing out people who disagree with him", "el": "Διώχνει όσους διαφωνούν μαζί του"},
+          {"en": "Asking the team to bring him bad news", "el": "Ζητά από την ομάδα να του φέρνει άσχημα νέα"},
+          {"en": "Training people who could replace him", "el": "Εκπαιδεύει ανθρώπους που θα τον αντικαταστήσουν"}
+        ],
+        "answer": 0,
+        "why": {"en": "A leader who must look perfect cannot stand disagreement, so he loses the information he needs.", "el": "Ένας ηγέτης που πρέπει να φαίνεται τέλειος δεν αντέχει τη διαφωνία, και έτσι χάνει την πληροφορία που χρειάζεται."}
+      }
+    },
+    {
+      "title": {"en": "Companies that worship talent", "el": "Εταιρείες που λατρεύουν το ταλέντο"},
+      "explain": {
+        "en": "A whole company can have a fixed mindset. When it worships natural talent, people learn that looking brilliant matters more than learning. Nobody admits a mistake or asks for help, because that would show they are not a genius. Problems are hidden until they explode. Dweck argues that teamwork and honesty grow where a company values development, not inborn brilliance.",
+        "el": "Ολόκληρη εταιρεία μπορεί να έχει σταθερή νοοτροπία. Όταν λατρεύει το έμφυτο ταλέντο, οι άνθρωποι μαθαίνουν ότι μετράει περισσότερο να φαίνονται λαμπροί παρά να μαθαίνουν. Κανείς δεν παραδέχεται λάθος ούτε ζητά βοήθεια, γιατί θα φαινόταν ότι δεν είναι ιδιοφυΐα. Τα προβλήματα κρύβονται μέχρι να σκάσουν. Η Ντουέκ υποστηρίζει ότι η ομαδικότητα και η ειλικρίνεια ανθίζουν εκεί όπου η εταιρεία εκτιμά την εξέλιξη, όχι τη «γεννημένη» λάμψη."
+      },
+      "example": {
+        "en": "Enron, the American energy giant, hired star graduates and treated them as geniuses. Writer Malcolm Gladwell called this «the talent myth». In a culture where you had to look brilliant, people hid losses instead of admitting them. In 2001 Enron collapsed in one of the biggest accounting scandals in history.",
+        "el": "Η Enron, ο αμερικανικός ενεργειακός κολοσσός, προσλάμβανε αστέρια των πανεπιστημίων και τους φερόταν σαν ιδιοφυΐες. Ο συγγραφέας Μάλκολμ Γκλάντγουελ το ονόμασε «ο μύθος του ταλέντου». Σε μια κουλτούρα όπου έπρεπε να φαίνεσαι λαμπρός, οι άνθρωποι έκρυβαν τις ζημιές αντί να τις παραδεχτούν. Το 2001 η Enron κατέρρευσε σε ένα από τα μεγαλύτερα λογιστικά σκάνδαλα της ιστορίας."
+      },
+      "apply": {
+        "en": "In your team chat, praise the work, not the genius: «Great that you tested two hero layouts and asked the client which one he preferred» instead of «You are so talented». Once a month share one mistake of your own and what you changed, so reporting mistakes becomes normal.",
+        "el": "Στο chat της ομάδας επαίνεσε τη δουλειά, όχι την ιδιοφυΐα: «Πολύ καλά που δοκίμασες δύο εκδοχές για το hero και ρώτησες τον πελάτη ποια προτιμά» αντί για «Είσαι πολύ ταλαντούχος». Μία φορά τον μήνα πες ένα δικό σου λάθος και τι άλλαξες, ώστε να γίνει φυσικό να λέμε τα λάθη μας."
+      },
+      "check": {
+        "q": {"en": "Why are mistakes hidden in a company that worships talent?", "el": "Γιατί κρύβονται τα λάθη σε μια εταιρεία που λατρεύει το ταλέντο;"},
+        "options": [
+          {"en": "Because mistakes almost never happen there", "el": "Επειδή εκεί τα λάθη σχεδόν δεν συμβαίνουν"},
+          {"en": "Because admitting one shows you are no genius", "el": "Επειδή αν το παραδεχτείς, φαίνεται ότι δεν είσαι ιδιοφυΐα"},
+          {"en": "Because managers never check anyone's work", "el": "Επειδή οι προϊστάμενοι δεν ελέγχουν ποτέ τη δουλειά"}
+        ],
+        "answer": 1,
+        "why": {"en": "When status depends on looking brilliant, a mistake threatens your place, so people cover it up.", "el": "Όταν η θέση σου εξαρτάται από το να φαίνεσαι λαμπρός, ένα λάθος την απειλεί, οπότε το σκεπάζεις."}
+      }
+    },
+    {
+      "title": {"en": "Leaders who grow people", "el": "Ηγέτες που μεγαλώνουν ανθρώπους"},
+      "explain": {
+        "en": "Growth-mindset leaders start from the belief that people, themselves included, can develop. They don't need to be the smartest person in the room. They ask questions, face hard facts and build teams that keep learning. They are not soft: they expect a lot, but they invest in people and judge them by progress. Their companies keep improving even after they leave.",
+        "el": "Οι ηγέτες με νοοτροπία ανάπτυξης ξεκινούν από την πεποίθηση ότι οι άνθρωποι, και οι ίδιοι μαζί, μπορούν να εξελιχθούν. Δεν χρειάζεται να είναι οι πιο έξυπνοι στο δωμάτιο. Κάνουν ερωτήσεις, κοιτάζουν κατάματα τα δύσκολα δεδομένα και χτίζουν ομάδες που μαθαίνουν συνέχεια. Δεν είναι μαλθακοί: απαιτούν πολλά, αλλά επενδύουν στους ανθρώπους και τους κρίνουν από την πρόοδο. Οι εταιρείες τους συνεχίζουν να βελτιώνονται και αφού φύγουν."
+      },
+      "example": {
+        "en": "Lou Gerstner became CEO of IBM in 1993, when the company was losing billions. He found an arrogant culture where departments fought each other. He pushed teamwork, put customers first, rewarded results for the whole company and opened the doors to outside ideas. IBM recovered and became profitable again.",
+        "el": "Ο Λου Γκέρστνερ έγινε CEO της IBM το 1993, όταν η εταιρεία έχανε δισεκατομμύρια. Βρήκε μια αλαζονική κουλτούρα όπου τα τμήματα πολεμούσαν μεταξύ τους. Έσπρωξε την ομαδική δουλειά, έβαλε πρώτο τον πελάτη, επιβράβευε τα αποτελέσματα όλης της εταιρείας και άνοιξε τις πόρτες σε ιδέες απ' έξω. Η IBM συνήλθε και έγινε ξανά κερδοφόρα."
+      },
+      "apply": {
+        "en": "Write a one-page «how we learn» guide for your team: every finished site gets a 10-minute review of what worked and what to change; every new person shadows one sale and one build; every month each person learns one new tool. Do all three yourself first.",
+        "el": "Γράψε έναν οδηγό μίας σελίδας «πώς μαθαίνουμε» για την ομάδα σου: κάθε ιστοσελίδα που τελειώνει παίρνει μια ανασκόπηση δέκα λεπτών για το τι δούλεψε και τι αλλάζουμε· κάθε νέο μέλος παρακολουθεί μία πώληση και ένα στήσιμο ιστοσελίδας· κάθε μήνα ο καθένας μαθαίνει ένα νέο εργαλείο. Κάνε πρώτος εσύ και τα τρία."
+      },
+      "check": {
+        "q": {"en": "What does a growth-mindset leader not need?", "el": "Τι δεν χρειάζεται ένας ηγέτης με νοοτροπία ανάπτυξης;"},
+        "options": [
+          {"en": "To be the smartest person in the room", "el": "Να είναι ο πιο έξυπνος στο δωμάτιο"},
+          {"en": "To face the hard facts about the business", "el": "Να κοιτάζει τα δύσκολα δεδομένα της επιχείρησης"},
+          {"en": "To set high expectations for the team", "el": "Να έχει υψηλές απαιτήσεις από την ομάδα"}
+        ],
+        "answer": 0,
+        "why": {"en": "His aim is a team that learns and wins, not proof of his own superiority.", "el": "Ο στόχος του είναι μια ομάδα που μαθαίνει και κερδίζει, όχι η απόδειξη της δικής του ανωτερότητας."}
+      }
+    },
+    {
+      "title": {"en": "See your people improve", "el": "Δες την πρόοδο των ανθρώπων σου"},
+      "explain": {
+        "en": "Managers with a fixed mindset decide early who is good and who is not. Then they don't notice when someone improves, and they coach less, because they think it won't help. Managers with a growth mindset look for progress, give more useful feedback and mentor more. The good news is that managers can learn this mindset, and their coaching changes when they do.",
+        "el": "Οι προϊστάμενοι με σταθερή νοοτροπία αποφασίζουν νωρίς ποιος είναι καλός και ποιος όχι. Μετά δεν προσέχουν όταν κάποιος βελτιώνεται και καθοδηγούν λιγότερο, γιατί θεωρούν ότι δεν θα βοηθήσει. Οι προϊστάμενοι με νοοτροπία ανάπτυξης ψάχνουν την πρόοδο, δίνουν πιο χρήσιμο feedback και καθοδηγούν περισσότερο. Το καλό νέο είναι ότι αυτή η νοοτροπία μαθαίνεται, και όταν συμβεί, αλλάζει και η καθοδήγηση."
+      },
+      "example": {
+        "en": "Researcher Peter Heslin found that managers with a fixed mindset failed to notice real improvement in an employee's performance and offered less coaching. After a short workshop teaching that abilities can be developed, the same managers noticed improvement more readily and gave more, and better, coaching suggestions.",
+        "el": "Ο ερευνητής Πίτερ Χέσλιν βρήκε ότι οι προϊστάμενοι με σταθερή νοοτροπία δεν έβλεπαν την πραγματική βελτίωση ενός υπαλλήλου και τον καθοδηγούσαν λιγότερο. Μετά από ένα σύντομο εργαστήριο που τους δίδαξε ότι οι ικανότητες καλλιεργούνται, οι ίδιοι προϊστάμενοι αναγνώριζαν πιο εύκολα τη βελτίωση και έδιναν περισσότερες και καλύτερες συμβουλές."
+      },
+      "apply": {
+        "en": "Pick the team member you rate lowest. Put a site they made three months ago next to one from this month. Write down two concrete improvements and tell them. Then agree on one skill to grow next month, with a 15-minute check every week.",
+        "el": "Διάλεξε το μέλος της ομάδας που εκτιμάς λιγότερο. Βάλε δίπλα δίπλα μια ιστοσελίδα που έφτιαξε πριν από τρεις μήνες και μία από αυτόν τον μήνα. Γράψε δύο συγκεκριμένες βελτιώσεις και πες του τες. Μετά συμφωνήστε μία δεξιότητα για τον επόμενο μήνα, με έλεγχο δεκαπέντε λεπτών κάθε εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What did Heslin find about fixed-mindset managers?", "el": "Τι βρήκε ο Χέσλιν για τους προϊσταμένους με σταθερή νοοτροπία;"},
+        "options": [
+          {"en": "They coached more than anyone else", "el": "Καθοδηγούσαν περισσότερο από όλους"},
+          {"en": "They could never change their mindset", "el": "Δεν μπορούσαν ποτέ να αλλάξουν νοοτροπία"},
+          {"en": "They missed real improvement in their people", "el": "Δεν έβλεπαν την πραγματική βελτίωση των ανθρώπων τους"}
+        ],
+        "answer": 2,
+        "why": {"en": "Once they had judged someone, they stopped seeing progress, until a workshop changed their view.", "el": "Μόλις έκριναν κάποιον, σταματούσαν να βλέπουν την πρόοδό του, μέχρι που ένα εργαστήριο άλλαξε την οπτική τους."}
+      }
+    },
+    {
+      "title": {"en": "Success means your best", "el": "Επιτυχία σημαίνει το καλύτερό σου"},
+      "explain": {
+        "en": "In the fixed mindset success means proving you are better than others, and you are only as good as your last result. In the growth mindset success means doing your best, learning and improving. Dweck uses sport to show that champions are built by this kind of character. They focus on what they control, their preparation and effort, more than on the scoreboard.",
+        "el": "Στη σταθερή νοοτροπία επιτυχία σημαίνει να αποδείξεις ότι είσαι καλύτερος από τους άλλους, και αξίζεις όσο το τελευταίο σου αποτέλεσμα. Στη νοοτροπία ανάπτυξης επιτυχία σημαίνει να δίνεις τον καλύτερό σου εαυτό, να μαθαίνεις και να βελτιώνεσαι. Η Ντουέκ δείχνει μέσα από τον αθλητισμό ότι οι πρωταθλητές χτίζονται με τέτοιο χαρακτήρα. Εστιάζουν σε όσα ελέγχουν, την προετοιμασία και τον κόπο, περισσότερο από το σκορ."
+      },
+      "example": {
+        "en": "Basketball coach John Wooden won ten US college championships with UCLA. He defined success as the peace of mind that comes from knowing you made the effort to become the best you are capable of becoming. He judged his players on preparation and effort, not only on wins.",
+        "el": "Ο προπονητής μπάσκετ Τζον Γούντεν κατέκτησε δέκα πανεπιστημιακά πρωταθλήματα των ΗΠΑ με το UCLA. Όριζε την επιτυχία ως τη γαλήνη που νιώθεις όταν ξέρεις ότι έκανες ό,τι μπορούσες για να γίνεις ο καλύτερος που είσαι ικανός να γίνεις. Έκρινε τους παίκτες του από την προετοιμασία και τον κόπο, όχι μόνο από τις νίκες."
+      },
+      "apply": {
+        "en": "Every Friday score yourself on two lines first: «Did I do my best?» (calls made, follow-ups sent, sites delivered on time) and «What did I learn?». Only then look at the sales numbers. Over months, the first two lines drive the third.",
+        "el": "Κάθε Παρασκευή βαθμολόγησε πρώτα δύο γραμμές: «Έδωσα το καλύτερό μου;» (τηλέφωνα, follow-ups, ιστοσελίδες που παραδόθηκαν στην ώρα τους) και «Τι έμαθα;». Μόνο μετά κοίτα τους αριθμούς των πωλήσεων. Μέσα στους μήνες, οι δύο πρώτες γραμμές σπρώχνουν την τρίτη."
+      },
+      "check": {
+        "q": {"en": "How did John Wooden define success?", "el": "Πώς όριζε την επιτυχία ο Τζον Γούντεν;"},
+        "options": [
+          {"en": "Winning more games than every rival", "el": "Να κερδίζεις περισσότερα παιχνίδια από κάθε αντίπαλο"},
+          {"en": "Peace of mind from giving your full effort", "el": "Γαλήνη επειδή έδωσες όλη σου την προσπάθεια"},
+          {"en": "Being praised by fans and the press", "el": "Να σε επαινούν οι φίλαθλοι και ο Τύπος"}
+        ],
+        "answer": 1,
+        "why": {"en": "For Wooden success was about your own effort and growth, which you control, not the scoreboard.", "el": "Για τον Γούντεν επιτυχία ήταν ο δικός σου κόπος και η εξέλιξή σου, που τα ελέγχεις, όχι το σκορ."}
+      }
+    },
+    {
+      "title": {"en": "Relationships take work", "el": "Οι σχέσεις θέλουν δουλειά"},
+      "explain": {
+        "en": "The fixed mindset brings its own rules into love and friendship: if you have to work at it, it wasn't meant to be; a good partner reads your mind; a problem shows a flaw in someone's character. So small fights turn into blame. The growth mindset expects relationships to take effort, honest talk and learning from conflict, and believes both people can change.",
+        "el": "Η σταθερή νοοτροπία φέρνει τους δικούς της κανόνες στον έρωτα και τη φιλία: αν πρέπει να προσπαθήσεις, δεν ήταν γραφτό· ο σωστός σύντροφος διαβάζει τη σκέψη σου· ένα πρόβλημα δείχνει ελάττωμα στον χαρακτήρα του άλλου. Έτσι οι μικροί καβγάδες γίνονται κατηγορίες. Η νοοτροπία ανάπτυξης περιμένει ότι οι σχέσεις θέλουν κόπο, ειλικρινή κουβέντα και μάθηση από τις συγκρούσεις, και πιστεύει ότι και οι δύο μπορούν να αλλάξουν."
+      },
+      "example": {
+        "en": "Psychiatrist Aaron Beck, the founder of cognitive therapy, noted that one of the most damaging beliefs in couples is «if we have to work at our relationship, something is seriously wrong». Dweck adds that people with a fixed mindset tend to blame the partner's character after a conflict instead of solving the problem together.",
+        "el": "Ο ψυχίατρος Άαρον Μπεκ, θεμελιωτής της γνωσιακής θεραπείας, παρατήρησε ότι μία από τις πιο καταστροφικές πεποιθήσεις στα ζευγάρια είναι το «αν πρέπει να δουλέψουμε τη σχέση μας, κάτι πάει πολύ στραβά». Η Ντουέκ προσθέτει ότι όσοι έχουν σταθερή νοοτροπία, μετά από έναν καβγά, τα βάζουν με τον χαρακτήρα του άλλου αντί να λύσουν μαζί το πρόβλημα."
+      },
+      "apply": {
+        "en": "When someone close upsets you, swap the label for a request. Not «you never care», but «when plans change at the last minute I feel left out, can you tell me a day earlier?» It works with a client who sends material late, too: ask for one clear change.",
+        "el": "Όταν σε στενοχωρήσει κάποιος δικός σου, άλλαξε την ταμπέλα με ένα αίτημα. Όχι «δεν σε νοιάζει ποτέ», αλλά «όταν αλλάζουν τα σχέδια την τελευταία στιγμή νιώθω παραμερισμένος, μπορείς να μου το λες μια μέρα νωρίτερα;». Πιάνει και με πελάτη που στέλνει αργά το υλικό: ζήτα μία συγκεκριμένη αλλαγή."
+      },
+      "check": {
+        "q": {"en": "Which belief does Dweck call a fixed-mindset trap in relationships?", "el": "Ποια πεποίθηση θεωρεί η Ντουέκ παγίδα της σταθερής νοοτροπίας στις σχέσεις;"},
+        "options": [
+          {"en": "If we need to work at it, it's not meant to be", "el": "Αν χρειάζεται προσπάθεια, δεν ήταν γραφτό"},
+          {"en": "We can learn from our fights", "el": "Μπορούμε να μάθουμε από τους καβγάδες μας"},
+          {"en": "We should say clearly what we need", "el": "Πρέπει να λέμε καθαρά τι χρειαζόμαστε"}
+        ],
+        "answer": 0,
+        "why": {"en": "Every relationship needs effort; reading effort as a bad sign makes people give up or blame.", "el": "Κάθε σχέση θέλει προσπάθεια· αν τη διαβάζεις ως κακό σημάδι, τα παρατάς ή κατηγορείς."}
+      }
+    },
+    {
+      "title": {"en": "Praise the process", "el": "Επαίνεσε τη διαδικασία"},
+      "explain": {
+        "en": "Praising intelligence or talent feels kind but teaches the fixed mindset: if success means I am smart, failure must mean I am stupid. Instead praise effort, strategy, focus and progress. This tells people that what they did made the difference, and they can repeat it. Dweck also warns against empty praise: praise real work that led somewhere, not just trying.",
+        "el": "Ο έπαινος για την εξυπνάδα ή το ταλέντο μοιάζει καλοσυνάτος, αλλά διδάσκει τη σταθερή νοοτροπία: αν η επιτυχία σημαίνει ότι είμαι έξυπνος, η αποτυχία σημαίνει ότι είμαι χαζός. Επαίνεσε αντί γι' αυτό τον κόπο, τη στρατηγική, τη συγκέντρωση και την πρόοδο. Έτσι ο άλλος μαθαίνει ότι η διαφορά ήρθε από αυτό που έκανε, και μπορεί να το ξανακάνει. Η Ντουέκ προειδοποιεί και για τον κούφιο έπαινο: επαίνεσε πραγματική δουλειά που κάπου οδήγησε, όχι σκέτη προσπάθεια."
+      },
+      "example": {
+        "en": "Claudia Mueller and Dweck gave hundreds of children a test, then praised some for being smart and others for working hard. The «smart» group then avoided hard tasks, enjoyed the work less and did worse later. Almost 40% of them even lied about their scores. The effort group chose challenges and improved.",
+        "el": "Η Κλόντια Μιούλερ και η Ντουέκ έβαλαν εκατοντάδες παιδιά να γράψουν ένα τεστ και μετά επαίνεσαν άλλα για την εξυπνάδα τους και άλλα για τον κόπο τους. Η «έξυπνη» ομάδα απέφευγε μετά τα δύσκολα, χαιρόταν λιγότερο τη δουλειά και τα πήγε χειρότερα αργότερα. Σχεδόν το 40% από αυτά είπαν και ψέματα για τη βαθμολογία τους. Η ομάδα του κόπου διάλεγε προκλήσεις και βελτιωνόταν."
+      },
+      "apply": {
+        "en": "Change how you praise in the client chat and in your team. To a teammate: «Rebuilding the mobile menu step by step made the site much faster.» To yourself after a closed deal: «Preparing two sample sites before the call worked.» Name the action, never only the talent.",
+        "el": "Άλλαξε τον τρόπο που επαινείς, στο chat με τους πελάτες και στην ομάδα. Σε συνεργάτη: «Ξαναφτιάχνοντας βήμα βήμα το μενού στο κινητό, έκανες τη σελίδα πολύ πιο γρήγορη». Στον εαυτό σου μετά από μια πώληση: «Δούλεψε που ετοίμασα δύο δείγματα πριν από την κλήση». Ονόμασε την πράξη, ποτέ μόνο το ταλέντο."
+      },
+      "check": {
+        "q": {"en": "What happened to children praised for being smart?", "el": "Τι έπαθαν τα παιδιά που επαινέθηκαν για την εξυπνάδα τους;"},
+        "options": [
+          {"en": "They chose harder tasks to show off", "el": "Διάλεξαν πιο δύσκολες δουλειές για να επιδειχθούν"},
+          {"en": "They improved faster than everyone else", "el": "Βελτιώθηκαν πιο γρήγορα από όλους"},
+          {"en": "They avoided challenges and many lied about scores", "el": "Απέφυγαν τις προκλήσεις και πολλά είπαν ψέματα για τους βαθμούς"}
+        ],
+        "answer": 2,
+        "why": {"en": "Praise for being smart made them protect that label, so they avoided risk and hid failure.", "el": "Ο έπαινος για την εξυπνάδα τα έκανε να προστατεύουν την ταμπέλα, οπότε απέφευγαν το ρίσκο και έκρυβαν την αποτυχία."}
+      }
+    },
+    {
+      "title": {"en": "High standards, warm support", "el": "Υψηλός πήχης, ζεστή στήριξη"},
+      "explain": {
+        "en": "Great teachers and coaches with a growth mindset do two things at once. They set very high standards, because they believe everyone can reach them. And they give real support: patience, clear teaching, honest feedback and a safe place to make mistakes. Low expectations dressed up as kindness hold people back. So does harshness without help.",
+        "el": "Οι σπουδαίοι δάσκαλοι και προπονητές με νοοτροπία ανάπτυξης κάνουν δύο πράγματα μαζί. Βάζουν πολύ ψηλά τον πήχη, γιατί πιστεύουν ότι όλοι μπορούν να φτάσουν εκεί. Και δίνουν πραγματική στήριξη: υπομονή, καθαρή διδασκαλία, ειλικρινές feedback και ένα ασφαλές μέρος για να κάνεις λάθη. Οι χαμηλές προσδοκίες ντυμένες ως καλοσύνη κρατούν τον άνθρωπο πίσω. Το ίδιο και η αυστηρότητα χωρίς βοήθεια."
+      },
+      "example": {
+        "en": "Jaime Escalante taught maths at Garfield High School in a poor area of East Los Angeles. Many believed his students could not handle college-level calculus. In 1982 eighteen of them passed the hard national AP Calculus exam. Examiners suspected cheating and made several retake it, and they passed again. The film «Stand and Deliver» tells the story.",
+        "el": "Ο Χάιμε Εσκαλάντε δίδασκε μαθηματικά στο λύκειο Garfield, σε μια φτωχή περιοχή του ανατολικού Λος Άντζελες. Πολλοί πίστευαν ότι οι μαθητές του δεν θα τα έβγαζαν πέρα με ανάλυση πανεπιστημιακού επιπέδου. Το 1982 δεκαοκτώ από αυτούς πέρασαν τις δύσκολες εθνικές εξετάσεις AP Calculus. Οι εξεταστές υποψιάστηκαν αντιγραφή και έβαλαν αρκετούς να ξαναγράψουν, και πέρασαν πάλι. Η ταινία «Stand and Deliver» λέει αυτή την ιστορία."
+      },
+      "apply": {
+        "en": "When you train someone new, say both things out loud: «I expect your sites to look as good as mine within two months» and «I'll review every one with you until then.» Then actually do the reviews, with clear examples of what to fix.",
+        "el": "Όταν εκπαιδεύεις καινούργιο άνθρωπο, πες δυνατά και τα δύο: «Περιμένω σε δύο μήνες οι ιστοσελίδες σου να είναι το ίδιο καλές με τις δικές μου» και «Μέχρι τότε θα τις κοιτάμε μαζί μία μία». Και μετά κάνε πραγματικά τους ελέγχους, με καθαρά παραδείγματα για το τι διορθώνεται."
+      },
+      "check": {
+        "q": {"en": "What two things do great growth-mindset teachers combine?", "el": "Ποια δύο πράγματα συνδυάζουν οι σπουδαίοι δάσκαλοι με νοοτροπία ανάπτυξης;"},
+        "options": [
+          {"en": "Low expectations and lots of kind words", "el": "Χαμηλές προσδοκίες και πολλά καλά λόγια"},
+          {"en": "High standards and real support", "el": "Υψηλό πήχη και πραγματική στήριξη"},
+          {"en": "Strict rules and harsh punishment", "el": "Αυστηρούς κανόνες και σκληρή τιμωρία"}
+        ],
+        "answer": 1,
+        "why": {"en": "Belief that people can reach a high bar, plus the help to get there, is what makes them grow.", "el": "Η πίστη ότι μπορούν να φτάσουν ψηλά, μαζί με τη βοήθεια να φτάσουν, είναι αυτό που τους μεγαλώνει."}
+      }
+    },
+    {
+      "title": {"en": "The brain grows like a muscle", "el": "Ο εγκέφαλος δυναμώνει σαν μυς"},
+      "explain": {
+        "en": "One way to build a growth mindset is to understand how learning works. When you practise something hard, the brain forms new connections and gets better at it, a bit like a muscle with training. Knowing this makes effort feel useful instead of embarrassing. Dweck's team turned this into short lessons for students and saw their attitude and grades change.",
+        "el": "Ένας τρόπος να χτίσεις νοοτροπία ανάπτυξης είναι να καταλάβεις πώς δουλεύει η μάθηση. Όταν εξασκείσαι σε κάτι δύσκολο, ο εγκέφαλος φτιάχνει νέες συνδέσεις και γίνεται καλύτερος σε αυτό, κάπως σαν τον μυ με την προπόνηση. Όταν το ξέρεις, ο κόπος μοιάζει χρήσιμος και όχι ντροπιαστικός. Η ομάδα της Ντουέκ το έκανε σύντομα μαθήματα για μαθητές και είδε να αλλάζουν η στάση και οι βαθμοί τους."
+      },
+      "example": {
+        "en": "Lisa Blackwell, Dweck and colleagues gave New York seventh graders an eight-session workshop. One group also learned that the brain grows stronger with learning, like a muscle. That group's maths grades went up, while the other group's grades kept falling. Teachers spotted the change without knowing which group each student was in.",
+        "el": "Η Λίζα Μπλάκγουελ, η Ντουέκ και συνεργάτες τους έκαναν σε μαθητές πρώτης γυμνασίου στη Νέα Υόρκη ένα εργαστήριο οκτώ συναντήσεων. Η μία ομάδα έμαθε επιπλέον ότι ο εγκέφαλος δυναμώνει με τη μάθηση, σαν μυς. Οι βαθμοί της στα μαθηματικά ανέβηκαν, ενώ της άλλης ομάδας συνέχισαν να πέφτουν. Οι καθηγητές πρόσεξαν την αλλαγή χωρίς να ξέρουν σε ποια ομάδα ήταν ο κάθε μαθητής."
+      },
+      "apply": {
+        "en": "When you learn something new, like a sales technique or a coding tool, expect the first attempts to feel clumsy. That clumsiness is the brain building connections. Practise in short daily blocks, such as 20 minutes of role-playing your call opening with a friend, not one long session a month.",
+        "el": "Όταν μαθαίνεις κάτι καινούργιο, μια τεχνική πώλησης ή ένα εργαλείο κώδικα, περίμενε οι πρώτες προσπάθειες να βγαίνουν άγαρμπα. Αυτή η αδεξιότητα είναι ο εγκέφαλος που φτιάχνει συνδέσεις. Εξασκήσου σε μικρά καθημερινά κομμάτια, π.χ. είκοσι λεπτά πρόβα του ανοίγματος της κλήσης με έναν φίλο, όχι μία μεγάλη συνεδρία τον μήνα."
+      },
+      "check": {
+        "q": {"en": "Why does knowing the brain grows with practice help?", "el": "Γιατί βοηθά να ξέρεις ότι ο εγκέφαλος δυναμώνει με την εξάσκηση;"},
+        "options": [
+          {"en": "Effort starts to feel useful, not shameful", "el": "Ο κόπος αρχίζει να μοιάζει χρήσιμος, όχι ντροπιαστικός"},
+          {"en": "You no longer need to practise at all", "el": "Δεν χρειάζεται πια καθόλου εξάσκηση"},
+          {"en": "It makes every task feel easy at once", "el": "Κάνει κάθε δουλειά να μοιάζει αμέσως εύκολη"}
+        ],
+        "answer": 0,
+        "why": {"en": "If struggle means your brain is building skill, you keep going instead of hiding.", "el": "Αν το ζόρι σημαίνει ότι ο εγκέφαλός σου χτίζει ικανότητα, συνεχίζεις αντί να κρύβεσαι."}
+      }
+    },
+    {
+      "title": {"en": "The false growth mindset", "el": "Η ψεύτικη νοοτροπία ανάπτυξης"},
+      "explain": {
+        "en": "In later editions Dweck warned about a «false growth mindset». It is not simply being positive or open-minded. It is not praising effort that is going nowhere. It is not a badge you give yourself. Effort that is not working needs a new strategy and help from others. And nobody has a pure growth mindset: everyone is a mix, and that is normal.",
+        "el": "Σε νεότερες εκδόσεις η Ντουέκ προειδοποίησε για μια «ψεύτικη νοοτροπία ανάπτυξης». Δεν είναι απλώς να είσαι θετικός ή ανοιχτόμυαλος. Δεν είναι να επαινείς προσπάθεια που δεν οδηγεί πουθενά. Δεν είναι ένα σήμα που καρφιτσώνεις στον εαυτό σου. Η προσπάθεια που δεν δουλεύει θέλει νέα στρατηγική και βοήθεια από άλλους. Και κανείς δεν έχει καθαρή νοοτροπία ανάπτυξης: όλοι είμαστε μείγμα, και αυτό είναι φυσιολογικό."
+      },
+      "example": {
+        "en": "Dweck saw classrooms where teachers praised effort alone, saying «great try», while children kept failing with the same wrong method. The children learned nothing and some felt worse. She stressed that effort must be tied to learning: when one method fails, try another and ask for help.",
+        "el": "Η Ντουέκ είδε τάξεις όπου οι δάσκαλοι επαινούσαν σκέτη την προσπάθεια, «μπράβο που προσπάθησες», ενώ τα παιδιά αποτύγχαναν ξανά και ξανά με την ίδια λάθος μέθοδο. Τα παιδιά δεν μάθαιναν τίποτα και κάποια ένιωθαν χειρότερα. Τόνισε ότι η προσπάθεια πρέπει να δένεται με τη μάθηση: όταν μια μέθοδος δεν πιάνει, δοκίμασε άλλη και ζήτα βοήθεια."
+      },
+      "apply": {
+        "en": "If you have been stuck for weeks, say with low replies to your Meta ads, don't just «try harder». Change one strategy: a new hook, a new audience, or a reel showing a real before and after of a client site. Ask someone who runs ads for one tip, then measure for a week.",
+        "el": "Αν έχεις κολλήσει εδώ και εβδομάδες, π.χ. με λίγες απαντήσεις στις διαφημίσεις σου στο Meta, μην «προσπαθείς απλώς περισσότερο». Άλλαξε μία στρατηγική: νέο hook, νέο κοινό ή ένα reel με το πραγματικό πριν και μετά μιας ιστοσελίδας πελάτη. Ζήτα μία συμβουλή από κάποιον που τρέχει διαφημίσεις και μέτρα για μία εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What is a «false growth mindset»?", "el": "Τι είναι η «ψεύτικη νοοτροπία ανάπτυξης»;"},
+        "options": [
+          {"en": "Changing strategy when effort isn't working", "el": "Να αλλάζεις στρατηγική όταν η προσπάθεια δεν πιάνει"},
+          {"en": "Asking others for help when you are stuck", "el": "Να ζητάς βοήθεια από άλλους όταν κολλάς"},
+          {"en": "Praising effort even when nothing is learned", "el": "Να επαινείς την προσπάθεια ακόμα κι όταν δεν μαθαίνεται τίποτα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Effort matters only as a path to learning; praising it alone, with no progress, misses the point.", "el": "Η προσπάθεια μετράει μόνο ως δρόμος προς τη μάθηση· αν την επαινείς σκέτη, χωρίς πρόοδο, χάνεις το νόημα."}
+      }
+    },
+    {
+      "title": {"en": "Name your fixed-mindset voice", "el": "Δώσε όνομα στη σταθερή φωνή"},
+      "explain": {
+        "en": "Changing your mindset is a journey, not a switch. Dweck suggests you notice what triggers your fixed mindset: a challenge, criticism, a setback, or someone who is better than you. Give that inner voice a name, so you can spot it when it shows up. Then answer it calmly and choose the step that helps you learn. Over time you catch it faster.",
+        "el": "Η αλλαγή νοοτροπίας είναι ταξίδι, όχι διακόπτης. Η Ντουέκ προτείνει να προσέξεις τι πυροδοτεί τη σταθερή σου νοοτροπία: μια πρόκληση, μια κριτική, μια αποτυχία ή κάποιος που είναι καλύτερος από σένα. Δώσε όνομα σε αυτή την εσωτερική φωνή, για να την αναγνωρίζεις όταν εμφανίζεται. Μετά απάντησέ της ήρεμα και διάλεξε το βήμα που σε βοηθά να μάθεις. Με τον καιρό την πιάνεις όλο και πιο γρήγορα."
+      },
+      "example": {
+        "en": "When Satya Nadella became Microsoft's CEO in 2014, he used Dweck's ideas to change the company's culture. He asked people to stop being «know-it-alls» and become «learn-it-alls». Microsoft became more open and collaborative, and in the following years it grew into one of the most valuable companies in the world.",
+        "el": "Όταν ο Σάτια Ναντέλα έγινε CEO της Microsoft το 2014, χρησιμοποίησε τις ιδέες της Ντουέκ για να αλλάξει την κουλτούρα της εταιρείας. Ζήτησε από τους ανθρώπους να πάψουν να είναι «οι ξερόλες» και να γίνουν «αυτοί που τα μαθαίνουν όλα». Η Microsoft έγινε πιο ανοιχτή και συνεργατική, και τα επόμενα χρόνια έφτασε να είναι από τις πιο πολύτιμες εταιρείες του κόσμου."
+      },
+      "apply": {
+        "en": "Write down your three biggest triggers, maybe a client criticising a design, a competitor with a stronger portfolio, or a day with zero meetings booked. Give the voice a name, like «the Judge». When it speaks, say «thanks, Judge» and write the one next step that would help you learn.",
+        "el": "Γράψε τα τρία μεγαλύτερα «κουμπιά» σου: ίσως ένας πελάτης που κράζει ένα σχέδιο, ένας ανταγωνιστής με καλύτερο portfolio ή μια μέρα με μηδέν ραντεβού. Δώσε όνομα στη φωνή, π.χ. «ο Κριτής». Όταν μιλήσει, πες «ευχαριστώ, Κριτή» και γράψε το ένα επόμενο βήμα που θα σε βοηθούσε να μάθεις."
+      },
+      "check": {
+        "q": {"en": "Why give your fixed-mindset voice a name?", "el": "Γιατί να δώσεις όνομα στη σταθερή σου φωνή;"},
+        "options": [
+          {"en": "So you can spot it and answer it calmly", "el": "Για να την αναγνωρίζεις και να της απαντάς ήρεμα"},
+          {"en": "So you can blame it for your results", "el": "Για να της ρίχνεις το φταίξιμο για τα αποτελέσματα"},
+          {"en": "So it disappears completely forever", "el": "Για να εξαφανιστεί εντελώς και για πάντα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Naming it helps you notice the moment it speaks, so you can choose a growth step instead.", "el": "Το όνομα σε βοηθά να πιάνεις τη στιγμή που μιλάει, για να διαλέξεις αντί γι' αυτήν ένα βήμα ανάπτυξης."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A client writes in the chat about his draft: «I don't like it at all.» What do you do?", "el": "Ένας πελάτης γράφει στο chat για το draft του: «Δεν μου αρέσει καθόλου». Τι κάνεις;"},
+      "options": [
+        {"en": "Explain why your design choices are correct", "el": "Εξηγείς γιατί οι σχεδιαστικές σου επιλογές είναι σωστές"},
+        {"en": "Ask what exactly he dislikes, note it and fix it", "el": "Ρωτάς τι ακριβώς δεν του αρέσει, το σημειώνεις και το διορθώνεις"},
+        {"en": "Tell him it is the best that can be done", "el": "Του λες ότι καλύτερο δεν γίνεται"}
+      ],
+      "answer": 1,
+      "why": {"en": "Hard feedback is information. The growth mindset asks for the details instead of defending its pride.", "el": "Το σκληρό feedback είναι πληροφορία. Η νοοτροπία ανάπτυξης ζητά λεπτομέρειες αντί να υπερασπίζεται τον εγωισμό της."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "You made 40 calls today and booked no meeting. What do you tell yourself?", "el": "Έκανες σήμερα 40 τηλέφωνα και δεν έκλεισες κανένα ραντεβού. Τι λες στον εαυτό σου;"},
+      "options": [
+        {"en": "«I'm just not a salesperson.»", "el": "«Απλώς δεν είμαι πωλητής»"},
+        {"en": "«Bad luck, same script tomorrow.»", "el": "«Ατυχία, αύριο το ίδιο σενάριο»"},
+        {"en": "«What do I change? I test a new opening tomorrow.»", "el": "«Τι αλλάζω; Αύριο δοκιμάζω νέο άνοιγμα»"}
+      ],
+      "answer": 2,
+      "why": {"en": "Failure is an event, not an identity. Turn it into one concrete change to test.", "el": "Η αποτυχία είναι γεγονός, όχι ταυτότητα. Κάν' τη μία συγκεκριμένη αλλαγή για δοκιμή."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "A local association asks you to give a short talk about websites. You've never spoken in public. What do you do?", "el": "Ένας τοπικός σύλλογος σού ζητά μια σύντομη ομιλία για τις ιστοσελίδες. Δεν έχεις μιλήσει ποτέ δημόσια. Τι κάνεις;"},
+      "options": [
+        {"en": "Accept and rehearse it several times beforehand", "el": "Δέχεσαι και κάνεις αρκετές πρόβες από πριν"},
+        {"en": "Decline so you don't risk looking bad", "el": "Αρνείσαι για να μην κινδυνέψεις να φανείς άσχημα"},
+        {"en": "Accept and improvise on the day", "el": "Δέχεσαι και αυτοσχεδιάζεις την ημέρα της ομιλίας"}
+      ],
+      "answer": 0,
+      "why": {"en": "A stretch task is where you grow, and good preparation is the effort that makes it work.", "el": "Μια δουλειά λίγο πάνω από τα όριά σου είναι εκεί που μεγαλώνεις, και η καλή προετοιμασία είναι ο κόπος που την κάνει να πετύχει."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "A new teammate's first site is weak. What do you do?", "el": "Η πρώτη ιστοσελίδα ενός νέου συνεργάτη είναι αδύναμη. Τι κάνεις;"},
+      "options": [
+        {"en": "Decide he has no eye for design and let him go", "el": "Αποφασίζεις ότι δεν έχει μάτι και τον αφήνεις"},
+        {"en": "Show him exactly what to fix and review the next one", "el": "Του δείχνεις ακριβώς τι διορθώνεται και ελέγχεις μαζί του την επόμενη"},
+        {"en": "Quietly redo it yourself and say nothing", "el": "Την ξαναφτιάχνεις εσύ σιωπηλά και δεν λες τίποτα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Growth-mindset managers coach and look for progress instead of judging from the first try.", "el": "Ο προϊστάμενος με νοοτροπία ανάπτυξης καθοδηγεί και ψάχνει την πρόοδο αντί να κρίνει από την πρώτη προσπάθεια."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "Your teammate closes a client after a great video call. How do you praise him?", "el": "Ο συνεργάτης σου κλείνει πελάτη μετά από μια εξαιρετική βιντεοκλήση. Πώς τον επαινείς;"},
+      "options": [
+        {"en": "«You prepared the right examples and followed up on time.»", "el": "«Ετοίμασες τα σωστά παραδείγματα και έκανες follow-up στην ώρα του»"},
+        {"en": "«You're a born salesman.»", "el": "«Είσαι γεννημένος πωλητής»"},
+        {"en": "«Not bad, let's see the next one.»", "el": "«Όχι άσχημα, για να δούμε τον επόμενο»"}
+      ],
+      "answer": 0,
+      "why": {"en": "Praising the process tells him what to repeat; praising talent makes him afraid to fail.", "el": "Ο έπαινος της διαδικασίας του λέει τι να επαναλάβει· ο έπαινος του ταλέντου τον κάνει να φοβάται την αποτυχία."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "Someone close to you says: «You never have time for me.» What do you do?", "el": "Ένας δικός σου άνθρωπος σού λέει: «Δεν έχεις ποτέ χρόνο για μένα». Τι κάνεις;"},
+      "options": [
+        {"en": "Say «that's just how I am, I work a lot»", "el": "Λες «έτσι είμαι, δουλεύω πολύ»"},
+        {"en": "Point out the times they were busy too", "el": "Του θυμίζεις τις φορές που ήταν κι εκείνος απασχολημένος"},
+        {"en": "Ask what would help and agree on one change", "el": "Ρωτάς τι θα βοηθούσε και συμφωνείτε σε μία αλλαγή"}
+      ],
+      "answer": 2,
+      "why": {"en": "In relationships the growth mindset treats a problem as something to work on together, not as fixed character.", "el": "Στις σχέσεις η νοοτροπία ανάπτυξης βλέπει το πρόβλημα ως κάτι που δουλεύεται μαζί, όχι ως σταθερό χαρακτήρα."},
+      "idea": 12
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Dweck claims that with a growth mindset anyone can become anything they want.", "el": "Η Ντουέκ υποστηρίζει ότι με νοοτροπία ανάπτυξης ο καθένας μπορεί να γίνει ό,τι θέλει."}, "answer": false, "why": {"en": "She says abilities can grow and we can't know the limit in advance, not that there are no limits.", "el": "Λέει ότι οι ικανότητες μεγαλώνουν και ότι δεν ξέρουμε από πριν το όριο, όχι ότι δεν υπάρχουν όρια."}},
+    {"s": {"en": "Children praised for being smart were later more likely to avoid hard tasks.", "el": "Τα παιδιά που επαινέθηκαν για την εξυπνάδα τους απέφευγαν αργότερα πιο συχνά τα δύσκολα."}, "answer": true, "why": {"en": "In the Mueller and Dweck study they protected the «smart» label by choosing easy tasks.", "el": "Στη μελέτη των Μιούλερ και Ντουέκ προστάτευαν την ταμπέλα του «έξυπνου» διαλέγοντας εύκολες δουλειές."}},
+    {"s": {"en": "A fixed-mindset leader often surrounds himself with people who agree with him.", "el": "Ένας ηγέτης με σταθερή νοοτροπία συχνά περιστοιχίζεται από ανθρώπους που συμφωνούν μαζί του."}, "answer": true, "why": {"en": "Disagreement threatens his image of genius, so he pushes it away and loses useful information.", "el": "Η διαφωνία απειλεί την εικόνα του ως ιδιοφυΐας, οπότε τη διώχνει και χάνει χρήσιμη πληροφορία."}},
+    {"s": {"en": "A growth mindset means praising effort, whatever the result.", "el": "Νοοτροπία ανάπτυξης σημαίνει να επαινείς την προσπάθεια, ό,τι κι αν βγει."}, "answer": false, "why": {"en": "Dweck calls that a false growth mindset; effort must lead to learning or change strategy.", "el": "Η Ντουέκ το λέει ψεύτικη νοοτροπία ανάπτυξης· η προσπάθεια πρέπει να οδηγεί σε μάθηση ή σε αλλαγή στρατηγικής."}},
+    {"s": {"en": "Everyone is a mix of fixed and growth mindset.", "el": "Όλοι είμαστε ένα μείγμα σταθερής νοοτροπίας και νοοτροπίας ανάπτυξης."}, "answer": true, "why": {"en": "Dweck says nobody is pure growth; the work is to notice your triggers.", "el": "Η Ντουέκ λέει ότι κανείς δεν είναι καθαρά «ανάπτυξη»· η δουλειά είναι να προσέχεις τα κουμπιά σου."}},
+    {"s": {"en": "In the fixed mindset, effort is seen as the road to mastery.", "el": "Στη σταθερή νοοτροπία ο κόπος θεωρείται ο δρόμος προς την αριστεία."}, "answer": false, "why": {"en": "The fixed mindset sees effort as a sign of low talent; the growth mindset sees it as the road.", "el": "Η σταθερή νοοτροπία βλέπει τον κόπο ως σημάδι λίγου ταλέντου· η νοοτροπία ανάπτυξης τον βλέπει ως δρόμο."}},
+    {"s": {"en": "Large later studies found that school mindset lessons bring huge grade gains for all students.", "el": "Μεγάλες μεταγενέστερες έρευνες βρήκαν ότι τα σχολικά μαθήματα νοοτροπίας φέρνουν τεράστια άνοδο βαθμών σε όλους."}, "answer": false, "why": {"en": "The effects were small on average and showed up mainly for weaker students.", "el": "Τα αποτελέσματα ήταν κατά μέσο όρο μικρά και φάνηκαν κυρίως στους πιο αδύναμους μαθητές."}},
+    {"s": {"en": "Managers can learn a growth mindset and then coach their people better.", "el": "Οι προϊστάμενοι μπορούν να μάθουν νοοτροπία ανάπτυξης και μετά να καθοδηγούν καλύτερα."}, "answer": true, "why": {"en": "In Heslin's research a short workshop made managers notice improvement and coach more.", "el": "Στην έρευνα του Χέσλιν ένα σύντομο εργαστήριο έκανε τους προϊσταμένους να βλέπουν τη βελτίωση και να καθοδηγούν περισσότερο."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Fixed mindset", "el": "Σταθερή νοοτροπία"}, "b": {"en": "Belief that ability is set and unchangeable", "el": "Πεποίθηση ότι η ικανότητα είναι δεδομένη"}},
+    {"a": {"en": "Growth mindset", "el": "Νοοτροπία ανάπτυξης"}, "b": {"en": "Belief that ability grows with effort and help", "el": "Πεποίθηση ότι η ικανότητα μεγαλώνει με κόπο"}},
+    {"a": {"en": "«Yet»", "el": "«Ακόμα»"}, "b": {"en": "The word that turns a limit into a stage", "el": "Η λέξη που κάνει το όριο στάδιο"}},
+    {"a": {"en": "CEO disease", "el": "Αρρώστια του CEO"}, "b": {"en": "A leader who must look great and ignores bad news", "el": "Ηγέτης που θέλει να φαίνεται και αγνοεί τα άσχημα νέα"}},
+    {"a": {"en": "Process praise", "el": "Έπαινος διαδικασίας"}, "b": {"en": "Praising effort, strategy and progress, not talent", "el": "Έπαινος για κόπο, στρατηγική και πρόοδο, όχι ταλέντο"}},
+    {"a": {"en": "False growth mindset", "el": "Ψεύτικη ανάπτυξη"}, "b": {"en": "Praising effort even when nothing is learned", "el": "Έπαινος προσπάθειας χωρίς καμία μάθηση"}}
+  ],
+  "missions": [
+    {"en": "Write three things you believe you are bad at, add «yet» to each, and write one concrete next step for each.", "el": "Γράψε τρία πράγματα στα οποία πιστεύεις ότι είσαι κακός, πρόσθεσε σε καθένα ένα «ακόμα» και γράψε ένα συγκεκριμένο επόμενο βήμα."},
+    {"en": "Message two people who said no to your offer last month and ask what would have changed their mind; save their answers word for word.", "el": "Στείλε μήνυμα σε δύο ανθρώπους που είπαν «όχι» στην προσφορά σου τον προηγούμενο μήνα και ρώτα τι θα τους έκανε να αλλάξουν γνώμη· κράτα τις απαντήσεις λέξη προς λέξη."},
+    {"en": "Rewrite your last three messages of praise to your team so that each names the action, not the talent.", "el": "Ξαναγράψε τα τρία τελευταία μηνύματα επαίνου προς την ομάδα σου ώστε το καθένα να ονομάζει την πράξη, όχι το ταλέντο."},
+    {"en": "Book one stretch task for this month, such as a reel on camera or a short talk, and put the date in your calendar.", "el": "Κλείσε μία δουλειά λίγο πάνω από τα όριά σου για αυτόν τον μήνα, π.χ. ένα reel στην κάμερα ή μια σύντομη ομιλία, και βάλε την ημερομηνία στο ημερολόγιο."},
+    {"en": "Give your fixed-mindset voice a name and write its three favourite sentences on a card on your desk.", "el": "Δώσε όνομα στη σταθερή σου φωνή και γράψε τις τρεις αγαπημένες της φράσεις σε μια κάρτα πάνω στο γραφείο σου."}
+  ],
+  "mantra": {"en": "I'm not good at this yet. What do I learn next?", "el": "Δεν είμαι ακόμα καλός σε αυτό. Τι μαθαίνω τώρα;"},
+  "careful": {
+    "en": "Dweck's early lab studies were real and influential, but later large studies found that school «growth mindset» lessons have much smaller effects than the book suggests. A 2018 meta-analysis found tiny average effects, and a big US national study in 2019 found modest gains, mainly for weaker students. The book also picks its success stories selectively, and a mindset alone cannot beat poverty, bad teaching or a bad strategy.",
+    "el": "Οι πρώτες εργαστηριακές μελέτες της Ντουέκ ήταν πραγματικές και άφησαν εποχή, όμως μεταγενέστερες μεγάλες έρευνες βρήκαν ότι τα σχολικά μαθήματα «νοοτροπίας ανάπτυξης» έχουν πολύ μικρότερη επίδραση απ' όση αφήνει να εννοηθεί το βιβλίο. Μια μετα-ανάλυση του 2018 βρήκε πολύ μικρά μέσα αποτελέσματα και μια μεγάλη εθνική μελέτη στις ΗΠΑ το 2019 βρήκε μέτρια οφέλη, κυρίως για τους πιο αδύναμους μαθητές. Το βιβλίο διαλέγει επίσης τις ιστορίες επιτυχίας που το βολεύουν, και η νοοτροπία μόνη της δεν νικά τη φτώχεια, την κακή διδασκαλία ή μια λάθος στρατηγική."
+  },
+  "connects": [
+    {"book": "inner-game-of-tennis", "note": {"en": "Both say the inner critic blocks learning; Gallwey shows how to quiet it while you perform, Dweck how to read failure as a lesson afterwards.", "el": "Και τα δύο λένε ότι ο εσωτερικός κριτής μπλοκάρει τη μάθηση· ο Γκάλγουεϊ δείχνει πώς τον ησυχάζεις την ώρα της επίδοσης, η Ντουέκ πώς διαβάζεις μετά την αποτυχία ως μάθημα."}},
+    {"book": "atomic-habits", "note": {"en": "Clear turns the growth idea into daily systems: you become someone through small repeated actions, not fixed talent.", "el": "Ο Κλίαρ κάνει την ιδέα της ανάπτυξης καθημερινό σύστημα: γίνεσαι κάποιος με μικρές επαναλαμβανόμενες πράξεις, όχι με δεδομένο ταλέντο."}},
+    {"book": "obstacle-is-the-way", "note": {"en": "Holiday gives the Stoic version of the same attitude: a setback is material to work with, not a verdict on who you are.", "el": "Ο Χόλιντεϊ δίνει τη στωική εκδοχή της ίδιας στάσης: η αναποδιά είναι υλικό για δουλειά, όχι ετυμηγορία για το ποιος είσαι."}}
+  ]
+}

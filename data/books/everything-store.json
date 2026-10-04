@@ -1,0 +1,601 @@
+{
+  "id": "everything-store",
+  "title": {"en": "The Everything Store", "el": "Το κατάστημα των πάντων: Ο Τζεφ Μπέζος και η εποχή της Amazon"},
+  "author": "Brad Stone",
+  "authorEl": "Μπραντ Στόουν",
+  "year": 2013,
+  "shelf": "founders",
+  "skills": {"strategy": 3, "leadership": 2, "focus": 1},
+  "oneLine": {
+    "en": "How Jeff Bezos turned an online bookstore into a store for everything by obsessing over customers, thinking long term, and pushing his people and partners extremely hard.",
+    "el": "Πώς ο Τζεφ Μπέζος έκανε ένα online βιβλιοπωλείο κατάστημα για τα πάντα, με εμμονή στον πελάτη, σκέψη για το μακρινό μέλλον και πίεση χωρίς έλεος στους ανθρώπους και στους συνεργάτες του."
+  },
+  "story": {
+    "en": "Brad Stone, a technology journalist at Bloomberg Businessweek, followed Amazon for about fifteen years. The Everything Store, published in 2013, tells the story from Bezos's decision in 1994 to the giant of retail, shipping, e-readers and cloud computing it had become. Stone interviewed more than 300 people, many of them former employees. It remains the classic account of how Bezos thinks, decides and leads.",
+    "el": "Ο Μπραντ Στόουν, δημοσιογράφος τεχνολογίας στο Bloomberg Businessweek, παρακολουθούσε την Amazon για περίπου δεκαπέντε χρόνια. Το βιβλίο, που κυκλοφόρησε το 2013, αφηγείται την ιστορία από την απόφαση του Μπέζος το 1994 μέχρι τον κολοσσό του λιανικού εμπορίου, των αποστολών, των ηλεκτρονικών βιβλίων και του cloud που είχε γίνει η εταιρεία. Ο Στόουν μίλησε με περισσότερους από 300 ανθρώπους, πολλούς από αυτούς πρώην υπαλλήλους. Παραμένει η κλασική αφήγηση για το πώς σκέφτεται, αποφασίζει και ηγείται ο Μπέζος."
+  },
+  "forYou": {
+    "en": "You run a service business on one promise: almost free to start, then a small yearly fee, with fast help. That is Amazon thinking: low price, long relationship, obsession with the customer's experience. The book shows how to build systems that scale with a small team, test instead of guess and keep cash safe, and it also shows the human cost of pushing too hard.",
+    "el": "Τρέχεις μια επιχείρηση υπηρεσιών πάνω σε μία υπόσχεση: σχεδόν δωρεάν για να ξεκινήσεις, μετά μια μικρή ετήσια χρέωση, με γρήγορη εξυπηρέτηση. Αυτό είναι σκέψη Amazon: χαμηλή τιμή, μακρινή σχέση, εμμονή με την εμπειρία του πελάτη. Το βιβλίο δείχνει πώς χτίζεις συστήματα που μεγαλώνουν με μικρή ομάδα, πώς δοκιμάζεις αντί να μαντεύεις και πώς προστατεύεις τα μετρητά σου, αλλά και το ανθρώπινο κόστος όταν πιέζεις υπερβολικά."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Learn to fix it yourself", "el": "Μάθε να τα φτιάχνεις μόνος σου"},
+      "explain": {
+        "en": "Stone traces Bezos's drive to his childhood. His mother had him at 17, and he was adopted by his stepfather, Mike Bezos, who had come to America from Cuba alone as a teenager. Every summer young Jeff worked on his grandfather's ranch in Texas, where anything broken had to be fixed by hand. He grew up seeing problems as puzzles you solve yourself.",
+        "el": "Ο Στόουν ψάχνει τις ρίζες της ορμής του Μπέζος στα παιδικά του χρόνια. Η μητέρα του τον έκανε στα 17, και τον υιοθέτησε ο πατριός του, ο Μάικ Μπέζος, που είχε έρθει στην Αμερική από την Κούβα μόνος του, έφηβος. Κάθε καλοκαίρι ο μικρός Τζεφ δούλευε στο ράντσο του παππού του στο Τέξας, όπου ό,τι χαλούσε έπρεπε να το φτιάξεις με τα χέρια σου. Μεγάλωσε βλέποντας τα προβλήματα σαν γρίφους που λύνεις μόνος σου."
+      },
+      "example": {
+        "en": "From about four to sixteen, Bezos spent his summers on his grandfather's ranch in Cotulla, Texas. His grandfather, a retired government official, had him fix windmills, lay pipes and rebuild an old bulldozer with parts they ordered themselves. Bezos has called him one of the great influences of his life.",
+        "el": "Από τα τέσσερα περίπου μέχρι τα δεκαέξι, ο Μπέζος περνούσε τα καλοκαίρια στο ράντσο του παππού του στην Κοτούλα του Τέξας. Ο παππούς, συνταξιούχος κρατικός αξιωματούχος, τον έβαζε να επισκευάζει ανεμόμυλους, να βάζει σωλήνες και να ξαναφτιάχνει μια παλιά μπουλντόζα με ανταλλακτικά που παράγγελναν μόνοι τους. Ο Μπέζος τον έχει πει μία από τις μεγάλες επιρροές της ζωής του."
+      },
+      "apply": {
+        "en": "When something breaks, a form that stops sending or a domain that will not connect, try to understand and fix it yourself first, with AI as your helper, before you pay someone. Write down how you fixed it, so next time it takes five minutes.",
+        "el": "Όταν κάτι χαλάει, μια φόρμα που δεν στέλνει ή ένα domain που δεν συνδέεται, προσπάθησε πρώτα να το καταλάβεις και να το φτιάξεις μόνος σου, με βοηθό το AI, πριν πληρώσεις κάποιον. Γράψε πώς το έφτιαξες, ώστε την επόμενη φορά να πάρει πέντε λεπτά."
+      },
+      "check": {
+        "q": {"en": "What habit did the ranch summers give Bezos?", "el": "Ποια συνήθεια έδωσαν στον Μπέζος τα καλοκαίρια στο ράντσο;"},
+        "options": [
+          {"en": "Waiting for experts to solve problems", "el": "Να περιμένει τους ειδικούς να λύσουν τα προβλήματα"},
+          {"en": "Solving problems himself with what he had", "el": "Να λύνει μόνος του τα προβλήματα με ό,τι είχε"},
+          {"en": "Avoiding hands-on work", "el": "Να αποφεύγει τη χειρωνακτική δουλειά"}
+        ],
+        "answer": 1,
+        "why": {"en": "On the ranch, broken things were fixed by hand, which taught him resourcefulness.", "el": "Στο ράντσο ό,τι χαλούσε φτιαχνόταν με τα χέρια, και αυτό τον έμαθε να τα βγάζει πέρα μόνος του."}
+      }
+    },
+    {
+      "title": {"en": "Catch the wave early", "el": "Πιάσε το κύμα νωρίς"},
+      "explain": {
+        "en": "In 1994 Bezos was a rising star at the New York investment firm D. E. Shaw. He read that web use was growing by about 2,300 percent a year. He saw that anything growing that fast would create huge new businesses, and that the window to start would not stay open long. He chose to leave a safe, well-paid job to catch the wave early.",
+        "el": "Το 1994 ο Μπέζος ήταν ανερχόμενο αστέρι στην επενδυτική εταιρεία D. E. Shaw στη Νέα Υόρκη. Διάβασε ότι η χρήση του internet μεγάλωνε περίπου 2.300 τοις εκατό τον χρόνο. Κατάλαβε ότι κάτι που μεγαλώνει τόσο γρήγορα θα γεννήσει τεράστιες νέες επιχειρήσεις, και ότι το παράθυρο για να ξεκινήσεις δεν θα έμενε ανοιχτό για πολύ. Διάλεξε να αφήσει μια σίγουρη, καλοπληρωμένη δουλειά για να πιάσει το κύμα νωρίς."
+      },
+      "example": {
+        "en": "His boss, David Shaw, took him on a long walk in Central Park and said the idea was good, but better for someone without a great job already. Bezos asked himself which choice he would regret at 80, resigned, and drove west to Seattle with his wife MacKenzie while he typed revenue forecasts on a laptop.",
+        "el": "Το αφεντικό του, ο Ντέιβιντ Σο, τον πήρε για μια μεγάλη βόλτα στο Σέντραλ Παρκ και του είπε ότι η ιδέα ήταν καλή, αλλά ταίριαζε περισσότερο σε κάποιον που δεν είχε ήδη μια σπουδαία δουλειά. Ο Μπέζος αναρωτήθηκε ποια επιλογή θα μετάνιωνε στα 80, παραιτήθηκε και οδήγησε δυτικά προς το Σιάτλ με τη γυναίκα του τη ΜακΚένζι, ενώ εκείνος πληκτρολογούσε προβλέψεις εσόδων σε ένα laptop."
+      },
+      "apply": {
+        "en": "Name today's wave for your business: AI lets a tiny agency build in hours what used to take weeks. Use it now, while competitors hesitate. Write one service you can offer this month that was impossible two years ago, and pitch it to five existing clients.",
+        "el": "Δώσε όνομα στο σημερινό κύμα για τη δουλειά σου: το AI επιτρέπει σε ένα μικροσκοπικό γραφείο να φτιάχνει σε ώρες ό,τι ήθελε εβδομάδες. Χρησιμοποίησέ το τώρα, όσο οι ανταγωνιστές διστάζουν. Γράψε μία υπηρεσία που μπορείς να προσφέρεις αυτόν τον μήνα και ήταν αδύνατη πριν από δύο χρόνια, και πρότεινέ τη σε πέντε υπάρχοντες πελάτες."
+      },
+      "check": {
+        "q": {"en": "What made Bezos leave his safe job in 1994?", "el": "Τι έκανε τον Μπέζος να αφήσει τη σίγουρη δουλειά του το 1994;"},
+        "options": [
+          {"en": "His boss pushed him out", "el": "Τον έσπρωξε έξω το αφεντικό του"},
+          {"en": "He wanted to live in Seattle", "el": "Ήθελε να ζήσει στο Σιάτλ"},
+          {"en": "He saw a fast wave and a closing window", "el": "Είδε ένα γρήγορο κύμα και ένα παράθυρο που έκλεινε"}
+        ],
+        "answer": 2,
+        "why": {"en": "The web's explosive growth meant the chance to start would not last.", "el": "Η εκρηκτική ανάπτυξη του internet σήμαινε ότι η ευκαιρία για να ξεκινήσει δεν θα κρατούσε."}
+      }
+    },
+    {
+      "title": {"en": "Start narrow, name big", "el": "Ξεκίνα στενά, δώσε μεγάλο όνομα"},
+      "explain": {
+        "en": "Bezos wanted a store that would one day sell everything, but he started with books, which were easy to list in huge numbers. Still, he picked a name big enough for the future. The first name, Cadabra, was dropped quickly. Amazon suggested the largest river on Earth, and so a store with the biggest selection. The lesson: start narrow, but name where you are going.",
+        "el": "Ο Μπέζος ήθελε ένα κατάστημα που κάποτε θα πουλούσε τα πάντα, αλλά ξεκίνησε με βιβλία, που μπορούσες εύκολα να τα παρουσιάσεις σε τεράστιους αριθμούς. Παρ' όλα αυτά, διάλεξε όνομα αρκετά μεγάλο για το μέλλον. Το πρώτο όνομα, Cadabra, εγκαταλείφθηκε γρήγορα. Το Amazon παρέπεμπε στον μεγαλύτερο ποταμό της Γης, άρα σε ένα κατάστημα με τη μεγαλύτερη ποικιλία. Το μάθημα: ξεκίνα στενά, αλλά δώσε όνομα για εκεί που πας."
+      },
+      "example": {
+        "en": "A lawyer on the phone misheard Cadabra as «cadaver», a dead body, so Bezos changed it. He chose Amazon partly because it began with A, which put it near the top of the alphabetical web listings of the time. The early slogan was «Earth's Biggest Bookstore».",
+        "el": "Ένας δικηγόρος στο τηλέφωνο άκουσε το Cadabra σαν «cadaver», δηλαδή πτώμα, και ο Μπέζος το άλλαξε. Διάλεξε το Amazon και επειδή ξεκινούσε από A, κάτι που το έβαζε ψηλά στους αλφαβητικούς καταλόγους του internet της εποχής. Το πρώτο σλόγκαν ήταν «Το μεγαλύτερο βιβλιοπωλείο της Γης»."
+      },
+      "apply": {
+        "en": "Name your services and side projects for where they are going, not where they start. If a directory will one day cover all of Greece, do not name it after one city. Check that the name is easy to say on the phone, easy to spell and free as a domain.",
+        "el": "Δώσε στις υπηρεσίες και στα παράπλευρα projects σου όνομα για εκεί που πάνε, όχι για εκεί που ξεκινούν. Αν ένας κατάλογος κάποτε θα καλύπτει όλη την Ελλάδα, μην τον βαφτίσεις με το όνομα μίας πόλης. Έλεγξε ότι το όνομα λέγεται εύκολα στο τηλέφωνο, γράφεται εύκολα και είναι ελεύθερο ως domain."
+      },
+      "check": {
+        "q": {"en": "Why did Bezos choose the name Amazon?", "el": "Γιατί ο Μπέζος διάλεξε το όνομα Amazon;"},
+        "options": [
+          {"en": "It suggested the biggest selection on Earth", "el": "Παρέπεμπε στη μεγαλύτερη ποικιλία στη Γη"},
+          {"en": "It was the name of his grandfather's ranch", "el": "Ήταν το όνομα του ράντσου του παππού του"},
+          {"en": "A designer picked it at random", "el": "Το διάλεξε τυχαία ένας γραφίστας"}
+        ],
+        "answer": 0,
+        "why": {"en": "The biggest river stood for the biggest store, and the A helped in listings.", "el": "Ο μεγαλύτερος ποταμός συμβόλιζε το μεγαλύτερο κατάστημα, και το A βοηθούσε στους καταλόγους."}
+      }
+    },
+    {
+      "title": {"en": "Frugality breeds invention", "el": "Η λιτότητα γεννά εφευρέσεις"},
+      "explain": {
+        "en": "From day one Bezos spent as little as possible on anything customers do not see. He admired Sam Walton of Walmart and borrowed his love of thrift and quick action. Frugality was not about being cheap with people; it forced the team to find clever, simple solutions instead of throwing money at problems. Every saving could go into lower prices.",
+        "el": "Από την πρώτη μέρα ο Μπέζος ξόδευε όσο λιγότερα γινόταν σε ό,τι δεν βλέπει ο πελάτης. Θαύμαζε τον Σαμ Γουόλτον της Walmart και δανείστηκε την αγάπη του για την οικονομία και τη γρήγορη δράση. Η λιτότητα δεν ήταν τσιγκουνιά προς τους ανθρώπους· ανάγκαζε την ομάδα να βρίσκει έξυπνες, απλές λύσεις αντί να ρίχνει λεφτά στα προβλήματα. Κάθε οικονομία μπορούσε να γίνει χαμηλότερη τιμή."
+      },
+      "example": {
+        "en": "Amazon's first desks were wooden doors from a hardware store with legs screwed on. The door desk became a symbol of the company, and Amazon later created a Door Desk award for employees whose ideas saved money while helping customers.",
+        "el": "Τα πρώτα γραφεία της Amazon ήταν ξύλινες πόρτες από κατάστημα με είδη οικοδομής, με βιδωμένα πόδια. Το «γραφείο-πόρτα» έγινε σύμβολο της εταιρείας, και η Amazon καθιέρωσε αργότερα ένα βραβείο Door Desk για υπαλλήλους με ιδέες που γλίτωναν λεφτά και βοηθούσαν τους πελάτες."
+      },
+      "apply": {
+        "en": "Before any new cost, a paid tool, an office or a fancy logo, ask: will clients feel this? If not, find the cheap version: a free tool, a template, an AI script. Put what you save into things clients do see, like faster changes or better photos on their sites.",
+        "el": "Πριν από κάθε νέο έξοδο, ένα συνδρομητικό εργαλείο, ένα γραφείο ή ένα ακριβό λογότυπο, ρώτα: θα το νιώσουν οι πελάτες; Αν όχι, βρες τη φτηνή εκδοχή: ένα δωρεάν εργαλείο, ένα template, ένα script με AI. Ό,τι γλιτώνεις, βάλ' το σε πράγματα που βλέπουν οι πελάτες, όπως γρηγορότερες αλλαγές ή καλύτερες φωτογραφίες στις σελίδες τους."
+      },
+      "check": {
+        "q": {"en": "What was the real point of Amazon's frugality?", "el": "Ποιος ήταν ο πραγματικός σκοπός της λιτότητας της Amazon;"},
+        "options": [
+          {"en": "To pay staff as little as possible", "el": "Να πληρώνει το προσωπικό όσο λιγότερο γίνεται"},
+          {"en": "To force clever solutions and lower prices", "el": "Να αναγκάζει σε έξυπνες λύσεις και χαμηλότερες τιμές"},
+          {"en": "To impress investors in meetings", "el": "Να εντυπωσιάζει τους επενδυτές στις συναντήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Saving on what customers do not see pushed creativity and funded lower prices.", "el": "Η οικονομία σε ό,τι δεν βλέπει ο πελάτης έσπρωχνε τη δημιουργικότητα και χρηματοδοτούσε χαμηλότερες τιμές."}
+      }
+    },
+    {
+      "title": {"en": "Play the long game", "el": "Παίξε το μακρύ παιχνίδι"},
+      "explain": {
+        "en": "Bezos told investors openly that Amazon would put long-term growth ahead of short-term profit. He would keep investing in prices, warehouses and new businesses even if results looked bad for years. Wall Street often hated it. He kept explaining the plan and stuck to it. A clear long-term promise let him do things that quarter-to-quarter rivals could not.",
+        "el": "Ο Μπέζος είπε ανοιχτά στους επενδυτές ότι η Amazon θα βάζει την ανάπτυξη στο μακρινό μέλλον πάνω από το κέρδος του σήμερα. Θα συνέχιζε να επενδύει σε τιμές, αποθήκες και νέες δραστηριότητες ακόμα κι αν τα νούμερα έδειχναν άσχημα για χρόνια. Η Wall Street συχνά το μισούσε. Εκείνος συνέχιζε να εξηγεί το σχέδιο και να το τηρεί. Μια καθαρή μακροπρόθεσμη υπόσχεση τού επέτρεψε να κάνει πράγματα που οι ανταγωνιστές με το βλέμμα στο τρίμηνο δεν μπορούσαν."
+      },
+      "example": {
+        "en": "In his first letter to shareholders, in 1997, Bezos wrote that it is all about the long term and explained how Amazon would make decisions. He has attached that same letter to every yearly letter since. Amazon did not make a profit for a full year until 2003.",
+        "el": "Στο πρώτο του γράμμα προς τους μετόχους, το 1997, ο Μπέζος έγραψε ότι όλα είναι θέμα μακρού ορίζοντα και εξήγησε πώς θα αποφασίζει η Amazon. Από τότε επισυνάπτει το ίδιο γράμμα σε κάθε ετήσιο γράμμα του. Η Amazon δεν έβγαλε κέρδος για ολόκληρη χρονιά μέχρι το 2003."
+      },
+      "apply": {
+        "en": "Think of each client over ten years: a 0€ build plus about 130€ a year looks small today, but a client who stays ten years is worth over 1,300€ and sends friends. Measure success by how many clients renew each year, not only by this month's new sales.",
+        "el": "Σκέψου κάθε πελάτη σε ορίζοντα δεκαετίας: κατασκευή 0€ και περίπου 130€ τον χρόνο φαίνονται λίγα σήμερα, αλλά ένας πελάτης που μένει δέκα χρόνια αξίζει πάνω από 1.300€ και φέρνει και φίλους. Μέτρα την επιτυχία με το πόσοι πελάτες ανανεώνουν κάθε χρόνο, όχι μόνο με τις νέες πωλήσεις του μήνα."
+      },
+      "check": {
+        "q": {"en": "What did the 1997 shareholder letter promise?", "el": "Τι υποσχόταν το γράμμα προς τους μετόχους του 1997;"},
+        "options": [
+          {"en": "Long-term growth ahead of short-term profit", "el": "Ανάπτυξη για το μακρινό μέλλον πάνω από το άμεσο κέρδος"},
+          {"en": "Steady profits within two years", "el": "Σταθερά κέρδη μέσα σε δύο χρόνια"},
+          {"en": "A focus on selling only books", "el": "Εστίαση μόνο στην πώληση βιβλίων"}
+        ],
+        "answer": 0,
+        "why": {"en": "Bezos warned investors he would sacrifice near-term profit to build long-term value.", "el": "Ο Μπέζος προειδοποίησε τους επενδυτές ότι θα θυσιάζει το άμεσο κέρδος για να χτίσει αξία μακροπρόθεσμα."}
+      }
+    },
+    {
+      "title": {"en": "Help the customer decide", "el": "Βοήθα τον πελάτη να αποφασίσει"},
+      "explain": {
+        "en": "Early on, Amazon let customers write reviews, including harsh ones. Publishers were furious: why would a shop show bad reviews of what it sells? Bezos answered that Amazon does not make money when it sells things, but when it helps customers decide what to buy. Honest information builds trust, and trust brings people back.",
+        "el": "Από νωρίς η Amazon άφηνε τους πελάτες να γράφουν κριτικές, ακόμα και σκληρές. Οι εκδότες έγιναν έξω φρενών: γιατί ένα μαγαζί να δείχνει κακές κριτικές για όσα πουλάει; Ο Μπέζος απάντησε ότι η Amazon δεν βγάζει λεφτά όταν πουλάει πράγματα, αλλά όταν βοηθά τους πελάτες να αποφασίσουν τι θα αγοράσουν. Η ειλικρινής πληροφορία χτίζει εμπιστοσύνη, και η εμπιστοσύνη φέρνει τον κόσμο πίσω."
+      },
+      "example": {
+        "en": "Soon after the 1995 launch, customer reviews appeared on book pages. When publishers complained that negative reviews hurt sales, Bezos kept them. Reviews became one of the main reasons shoppers trusted Amazon over other stores, and the idea later spread across the web.",
+        "el": "Λίγο μετά το ξεκίνημα το 1995, εμφανίστηκαν κριτικές πελατών στις σελίδες των βιβλίων. Όταν οι εκδότες παραπονέθηκαν ότι οι αρνητικές κριτικές έριχναν τις πωλήσεις, ο Μπέζος τις κράτησε. Οι κριτικές έγιναν από τους βασικούς λόγους που οι αγοραστές εμπιστεύονταν την Amazon περισσότερο από άλλα καταστήματα, και η ιδέα απλώθηκε αργότερα σε όλο το internet."
+      },
+      "apply": {
+        "en": "On sales calls, help the doctor decide honestly, even if it costs you a sale: «If you only need one page with your phone and address, this is what that would look like.» Show real client sites and the real yearly price. Trust closes more deals than pressure.",
+        "el": "Στα τηλέφωνα πωλήσεων, βοήθα τον γιατρό να αποφασίσει με ειλικρίνεια, ακόμα κι αν χάσεις την πώληση: «Αν χρειάζεστε μόνο μία σελίδα με το τηλέφωνο και τη διεύθυνσή σας, δείτε πώς θα ήταν.» Δείξε αληθινές ιστοσελίδες πελατών και την πραγματική ετήσια τιμή. Η εμπιστοσύνη κλείνει περισσότερες συμφωνίες από την πίεση."
+      },
+      "check": {
+        "q": {"en": "Why did Bezos keep negative reviews?", "el": "Γιατί ο Μπέζος κράτησε τις αρνητικές κριτικές;"},
+        "options": [
+          {"en": "To punish difficult publishers", "el": "Για να τιμωρήσει τους δύσκολους εκδότες"},
+          {"en": "Because they were free content", "el": "Επειδή ήταν δωρεάν περιεχόμενο"},
+          {"en": "Because helping customers decide builds trust", "el": "Επειδή όταν βοηθάς τον πελάτη να αποφασίσει χτίζεις εμπιστοσύνη"}
+        ],
+        "answer": 2,
+        "why": {"en": "Amazon earns by helping customers choose well, and honest reviews make them return.", "el": "Η Amazon κερδίζει όταν βοηθά τους πελάτες να διαλέξουν σωστά, και οι ειλικρινείς κριτικές τους φέρνουν πίσω."}
+      }
+    },
+    {
+      "title": {"en": "The question mark email", "el": "Το email με το ερωτηματικό"},
+      "explain": {
+        "en": "Bezos kept his email address public and read customer complaints himself. When one caught his eye, he forwarded it to the responsible manager with a single character: a question mark. It meant: explain what went wrong and fix it, fast. One customer's story was treated as a sign of a bigger hidden problem in the system.",
+        "el": "Ο Μπέζος είχε δημόσιο το email του και διάβαζε ο ίδιος παράπονα πελατών. Όταν κάποιο του τραβούσε την προσοχή, το προωθούσε στον υπεύθυνο μάνατζερ με έναν μόνο χαρακτήρα: ένα ερωτηματικό. Σήμαινε: εξήγησε τι πήγε στραβά και διόρθωσέ το, γρήγορα. Η ιστορία ενός πελάτη αντιμετωπιζόταν σαν σημάδι για ένα μεγαλύτερο κρυφό πρόβλημα στο σύστημα."
+      },
+      "example": {
+        "en": "Managers dreaded these emails, which set off urgent investigations, often within hours. Teams had to find the root cause and tell Bezos what they had changed so it would not happen again, not just apologise to that one customer.",
+        "el": "Οι μάνατζερ έτρεμαν αυτά τα email, που ξεκινούσαν επείγουσες έρευνες, συχνά μέσα σε λίγες ώρες. Οι ομάδες έπρεπε να βρουν τη ρίζα του προβλήματος και να πουν στον Μπέζος τι άλλαξαν ώστε να μην ξανασυμβεί, όχι απλώς να ζητήσουν συγγνώμη από εκείνον τον πελάτη."
+      },
+      "apply": {
+        "en": "Treat each complaint in the client chat as a clue about your system. When a doctor says «the form didn't send», fix his site today, then check every site that uses that form. Keep a short log: complaint, root cause, what you changed for everyone.",
+        "el": "Αντιμετώπισε κάθε παράπονο στο chat των πελατών σαν στοιχείο για το σύστημά σου. Όταν ένας γιατρός πει «η φόρμα δεν έστειλε», φτιάξε τη σελίδα του σήμερα και μετά έλεγξε κάθε ιστοσελίδα που χρησιμοποιεί την ίδια φόρμα. Κράτα ένα μικρό αρχείο: παράπονο, αιτία, τι άλλαξες για όλους."
+      },
+      "check": {
+        "q": {"en": "What did Bezos's question mark mean?", "el": "Τι σήμαινε το ερωτηματικό του Μπέζος;"},
+        "options": [
+          {"en": "Ignore this if you are busy", "el": "Αγνόησέ το αν είσαι απασχολημένος"},
+          {"en": "Find the root cause and fix it fast", "el": "Βρες την αιτία και διόρθωσέ το γρήγορα"},
+          {"en": "Send the customer a discount", "el": "Στείλε στον πελάτη μια έκπτωση"}
+        ],
+        "answer": 1,
+        "why": {"en": "It demanded an explanation and a fix to the system, not just a reply.", "el": "Απαιτούσε εξήγηση και διόρθωση στο σύστημα, όχι απλώς μια απάντηση."}
+      }
+    },
+    {
+      "title": {"en": "Your margin is my opportunity", "el": "Το περιθώριό σου, η ευκαιρία μου"},
+      "explain": {
+        "en": "Bezos liked to say that a rival's fat profit margin is his opportunity. If others charge far more than things cost, a company willing to earn less on each sale can win their customers. Amazon kept cutting prices and shipping costs, accepting thin margins to grow volume and loyalty. Low prices became part of who Amazon was.",
+        "el": "Ο Μπέζος έλεγε συχνά ότι το παχύ περιθώριο κέρδους ενός ανταγωνιστή είναι η δική του ευκαιρία. Αν οι άλλοι χρεώνουν πολύ περισσότερα απ' όσο κοστίζουν τα πράγματα, μια εταιρεία που δέχεται να κερδίζει λιγότερα σε κάθε πώληση μπορεί να πάρει τους πελάτες τους. Η Amazon έκοβε συνεχώς τιμές και κόστη αποστολής, δεχόμενη μικρά περιθώρια για να μεγαλώσει όγκο και πιστότητα. Οι χαμηλές τιμές έγιναν κομμάτι της ταυτότητάς της."
+      },
+      "example": {
+        "en": "In 2002 Amazon introduced free shipping on larger orders, called Super Saver Shipping, and kept lowering the minimum order. Analysts worried it would destroy profits. Instead customers ordered more, and cheap, reliable shipping became one of Amazon's strongest advantages.",
+        "el": "Το 2002 η Amazon έβαλε δωρεάν αποστολή για μεγαλύτερες παραγγελίες, με το όνομα Super Saver Shipping, και συνέχισε να κατεβάζει το ελάχιστο ποσό. Οι αναλυτές φοβήθηκαν ότι θα διαλύσει τα κέρδη. Αντίθετα, οι πελάτες παρήγγελναν περισσότερα, και οι φτηνές, αξιόπιστες αποστολές έγιναν από τα ισχυρότερα πλεονεκτήματα της Amazon."
+      },
+      "apply": {
+        "en": "Your 0€ build is this idea: many agencies charge a big upfront fee, you do not. Say it plainly on calls: «Many agencies charge hundreds or thousands of euros to build a site; with us the build is 0€ and you pay only hosting, about 130€ a year.»",
+        "el": "Η κατασκευή με 0€ είναι ακριβώς αυτή η ιδέα: πολλά γραφεία χρεώνουν μεγάλο ποσό στην αρχή, εσύ όχι. Πες το καθαρά στα τηλέφωνα: «Πολλά γραφεία χρεώνουν εκατοντάδες ή και χιλιάδες ευρώ για την κατασκευή· σε εμάς η κατασκευή κοστίζει 0€ και πληρώνετε μόνο τη φιλοξενία, περίπου 130€ τον χρόνο.»"
+      },
+      "check": {
+        "q": {"en": "What does «your margin is my opportunity» mean?", "el": "Τι σημαίνει «το περιθώριό σου είναι η ευκαιρία μου»;"},
+        "options": [
+          {"en": "Rivals' high profits leave room to win with lower prices", "el": "Τα μεγάλα κέρδη των άλλων αφήνουν χώρο να κερδίσεις με χαμηλότερες τιμές"},
+          {"en": "Always copy rivals' prices exactly", "el": "Αντέγραφε πάντα ακριβώς τις τιμές των άλλων"},
+          {"en": "High margins always signal quality", "el": "Τα μεγάλα περιθώρια δείχνουν πάντα ποιότητα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Where rivals overcharge, a lower price can take their customers.", "el": "Όπου οι ανταγωνιστές χρεώνουν υπερβολικά, μια χαμηλότερη τιμή μπορεί να πάρει τους πελάτες τους."}
+      }
+    },
+    {
+      "title": {"en": "Build a flywheel", "el": "Στήσε έναν σφόνδυλο"},
+      "explain": {
+        "en": "In 2001, after talks with the author Jim Collins, Bezos and his team drew Amazon's flywheel: lower prices bring more customers, more customers attract outside sellers, more sellers bring wider selection, which brings even more customers, and the bigger volume lowers costs and so prices. Push any part and the whole wheel spins faster.",
+        "el": "Το 2001, μετά από συζητήσεις με τον συγγραφέα Τζιμ Κόλινς, ο Μπέζος και η ομάδα του σχεδίασαν τον σφόνδυλο της Amazon: χαμηλότερες τιμές φέρνουν περισσότερους πελάτες, περισσότεροι πελάτες τραβούν εξωτερικούς πωλητές, περισσότεροι πωλητές φέρνουν μεγαλύτερη ποικιλία, που φέρνει ακόμα περισσότερους πελάτες, και ο μεγαλύτερος όγκος ρίχνει τα κόστη και άρα τις τιμές. Σπρώξε οποιοδήποτε κομμάτι και όλος ο τροχός γυρίζει πιο γρήγορα."
+      },
+      "example": {
+        "en": "To feed the wheel, Amazon let outside sellers list products on the same page as its own, often at lower prices. Many inside thought this was madness: Amazon was helping rivals take its sales. Bezos accepted it because more choice served customers. Outside sellers grew into a huge share of everything sold on Amazon.",
+        "el": "Για να ταΐσει τον τροχό, η Amazon άφησε εξωτερικούς πωλητές να βάζουν προϊόντα στην ίδια σελίδα με τα δικά της, συχνά σε χαμηλότερη τιμή. Πολλοί μέσα στην εταιρεία το θεώρησαν τρέλα: η Amazon βοηθούσε ανταγωνιστές να της πάρουν πωλήσεις. Ο Μπέζος το δέχτηκε, γιατί η μεγαλύτερη επιλογή υπηρετούσε τον πελάτη. Οι εξωτερικοί πωλητές έφτασαν να κάνουν ένα τεράστιο μέρος όσων πουλιούνται στην Amazon."
+      },
+      "apply": {
+        "en": "Draw your own flywheel: great sites, happy clients, Google reviews and referrals, cheaper new clients, more money for design quality, even better sites. Each week pick one link to push, for example ask three happy clients for a referral.",
+        "el": "Ζωγράφισε τον δικό σου σφόνδυλο: εξαιρετικές ιστοσελίδες, ευχαριστημένοι πελάτες, κριτικές στο Google και συστάσεις, φτηνότεροι νέοι πελάτες, περισσότερα λεφτά για ποιότητα σχεδιασμού, ακόμα καλύτερες ιστοσελίδες. Κάθε εβδομάδα διάλεξε έναν κρίκο να σπρώξεις, για παράδειγμα ζήτα από τρεις ευχαριστημένους πελάτες μια σύσταση."
+      },
+      "check": {
+        "q": {"en": "Why did Amazon let rival sellers onto its own product pages?", "el": "Γιατί η Amazon άφησε ανταγωνιστές πωλητές στις δικές της σελίδες προϊόντων;"},
+        "options": [
+          {"en": "A law forced it to", "el": "Την υποχρέωσε ένας νόμος"},
+          {"en": "It planned to close its own store", "el": "Σχεδίαζε να κλείσει το δικό της κατάστημα"},
+          {"en": "More choice for customers spun the whole flywheel", "el": "Η μεγαλύτερη επιλογή για τον πελάτη γύριζε όλο τον τροχό"}
+        ],
+        "answer": 2,
+        "why": {"en": "More selection brought more customers, which fed every other part of the loop.", "el": "Η μεγαλύτερη ποικιλία έφερνε περισσότερους πελάτες, και αυτό τάιζε κάθε άλλο κομμάτι του κύκλου."}
+      }
+    },
+    {
+      "title": {"en": "Fail, learn, try again", "el": "Απότυχε, μάθε, ξαναδοκίμασε"},
+      "explain": {
+        "en": "Many of Amazon's experiments flopped, and Bezos treated that as the price of invention. The trick was to keep each failure small enough to survive and to carry its lessons into the next attempt. Big wins often grew straight out of earlier failures. A company that cannot fail cannot invent.",
+        "el": "Πολλά από τα πειράματα της Amazon απέτυχαν, και ο Μπέζος το έβλεπε σαν το τίμημα της εφεύρεσης. Το κόλπο ήταν κάθε αποτυχία να είναι αρκετά μικρή για να την αντέξεις, και τα μαθήματά της να περνούν στην επόμενη προσπάθεια. Οι μεγάλες επιτυχίες συχνά φύτρωσαν κατευθείαν από προηγούμενες αποτυχίες. Μια εταιρεία που δεν μπορεί να αποτύχει, δεν μπορεί να εφεύρει."
+      },
+      "example": {
+        "en": "In 1999 Amazon launched Auctions to fight eBay, then zShops, a space for small sellers. Both flopped. But they taught Amazon how to work with outside sellers, and the next attempt, Marketplace, with sellers listed right beside Amazon's own products, became a giant success.",
+        "el": "Το 1999 η Amazon έβγαλε τα Auctions για να χτυπήσει το eBay, και μετά τα zShops, έναν χώρο για μικρούς πωλητές. Και τα δύο απέτυχαν. Έμαθαν όμως στην Amazon πώς να δουλεύει με εξωτερικούς πωλητές, και η επόμενη προσπάθεια, το Marketplace, με τους πωλητές ακριβώς δίπλα στα προϊόντα της ίδιας της Amazon, έγινε τεράστια επιτυχία."
+      },
+      "apply": {
+        "en": "When a reel series, an ad or a new offer flops, write three lines: what you tried, what you learned, what you will try next. Keep the useful part. A failed campaign aimed at gyms may still teach you the right opening line for dentists.",
+        "el": "Όταν μια σειρά από reels, μια διαφήμιση ή μια νέα προσφορά αποτύχει, γράψε τρεις γραμμές: τι δοκίμασες, τι έμαθες, τι θα δοκιμάσεις μετά. Κράτα το χρήσιμο κομμάτι. Μια αποτυχημένη καμπάνια για γυμναστήρια μπορεί να σου μάθει τη σωστή πρώτη φράση για οδοντιάτρους."
+      },
+      "check": {
+        "q": {"en": "What came out of the failed Auctions and zShops?", "el": "Τι βγήκε από τα αποτυχημένα Auctions και zShops;"},
+        "options": [
+          {"en": "Nothing, they were total losses", "el": "Τίποτα, ήταν ολική απώλεια"},
+          {"en": "Lessons that led to the successful Marketplace", "el": "Μαθήματα που οδήγησαν στο πετυχημένο Marketplace"},
+          {"en": "A sale of both to eBay", "el": "Η πώληση και των δύο στο eBay"}
+        ],
+        "answer": 1,
+        "why": {"en": "The failures taught Amazon how to handle outside sellers, which made Marketplace work.", "el": "Οι αποτυχίες έμαθαν στην Amazon να δουλεύει με εξωτερικούς πωλητές, και αυτό έκανε το Marketplace να πετύχει."}
+      }
+    },
+    {
+      "title": {"en": "Cash is oxygen in a crash", "el": "Τα μετρητά είναι οξυγόνο στην κρίση"},
+      "explain": {
+        "en": "When the dot-com bubble burst in 2000, many internet companies died because they ran out of money. Amazon survived partly because it had raised a lot of cash just before the crash, and then cut costs hard. Critics predicted it would go bankrupt. The lesson: build cash when times are good, because you cannot when they turn bad.",
+        "el": "Όταν έσκασε η φούσκα του internet το 2000, πολλές εταιρείες πέθαναν επειδή έμειναν από λεφτά. Η Amazon επέζησε εν μέρει επειδή είχε μαζέψει πολλά μετρητά λίγο πριν από την κατάρρευση, και μετά έκοψε σκληρά τα κόστη. Οι επικριτές προέβλεπαν πτώχευση. Το μάθημα: μάζευε μετρητά όταν οι καιροί είναι καλοί, γιατί όταν χαλάσουν δεν μπορείς."
+      },
+      "example": {
+        "en": "In February 2000 Amazon raised 672 million dollars by selling bonds to investors in Europe, weeks before the market collapsed. A well-known analyst, Ravi Suria, still warned it could run out of money. In early 2001 Amazon closed a warehouse and a customer service centre and cut about 1,300 jobs, and came through.",
+        "el": "Τον Φεβρουάριο του 2000 η Amazon άντλησε 672 εκατομμύρια δολάρια πουλώντας ομόλογα σε επενδυτές στην Ευρώπη, λίγες εβδομάδες πριν καταρρεύσει η αγορά. Ένας γνωστός αναλυτής, ο Ράβι Σούρια, προειδοποιούσε ακόμα ότι μπορεί να μείνει από λεφτά. Στις αρχές του 2001 η Amazon έκλεισε μια αποθήκη και ένα κέντρο εξυπηρέτησης, έκοψε περίπου 1.300 θέσεις, και τα κατάφερε."
+      },
+      "apply": {
+        "en": "Build a cash cushion in good months: keep at least three months of costs in a separate account and do not touch it. When a strong month of renewals arrives, move a fixed share into that account before you spend on anything new.",
+        "el": "Χτίσε ένα μαξιλάρι μετρητών στους καλούς μήνες: κράτα τουλάχιστον τρεις μήνες εξόδων σε ξεχωριστό λογαριασμό και μην τον αγγίζεις. Όταν έρθει ένας δυνατός μήνας ανανεώσεων, βάλε ένα σταθερό ποσοστό σε αυτόν τον λογαριασμό πριν ξοδέψεις για οτιδήποτε καινούργιο."
+      },
+      "check": {
+        "q": {"en": "What helped Amazon survive the 2000 crash?", "el": "Τι βοήθησε την Amazon να επιβιώσει από την κρίση του 2000;"},
+        "options": [
+          {"en": "Cash raised just before it, plus hard cost cuts", "el": "Μετρητά που μάζεψε λίγο πριν, μαζί με σκληρές περικοπές"},
+          {"en": "A rescue from the government", "el": "Μια διάσωση από το κράτος"},
+          {"en": "Selling part of the company to Walmart", "el": "Η πώληση μέρους της εταιρείας στη Walmart"}
+        ],
+        "answer": 0,
+        "why": {"en": "It had money in the bank before the storm and spent less once it hit.", "el": "Είχε λεφτά στην τράπεζα πριν από τη θύελλα και ξόδεψε λιγότερα όταν ξέσπασε."}
+      }
+    },
+    {
+      "title": {"en": "Data beats opinion", "el": "Τα δεδομένα νικούν τη γνώμη"},
+      "explain": {
+        "en": "In the early years, a team of editors and writers chose and reviewed books for Amazon's pages. Bezos then let the data decide: personalised recommendations, built from what similar customers bought, were tested against the editors' picks. The automated suggestions sold more, so they won. More and more, decisions at Amazon were settled by tests and numbers, not by taste or rank.",
+        "el": "Τα πρώτα χρόνια μια ομάδα από επιμελητές και συντάκτες διάλεγε και παρουσίαζε βιβλία στις σελίδες της Amazon. Ο Μπέζος άφησε μετά τα δεδομένα να αποφασίσουν: οι εξατομικευμένες προτάσεις, φτιαγμένες από όσα αγόραζαν παρόμοιοι πελάτες, δοκιμάστηκαν απέναντι στις επιλογές των επιμελητών. Οι αυτόματες προτάσεις πουλούσαν περισσότερο, οπότε κέρδισαν. Όλο και περισσότερο, οι αποφάσεις στην Amazon κρίνονταν από δοκιμές και νούμερα, όχι από γούστο ή ιεραρχία."
+      },
+      "example": {
+        "en": "The automated system was nicknamed Amabot. As it replaced the editors' hand-made pages, the editorial team shrank. Some unhappy staff paid for an anonymous Valentine's Day ad in a Seattle paper mocking Amabot for having no heart.",
+        "el": "Το αυτόματο σύστημα πήρε το παρατσούκλι Amabot. Καθώς αντικαθιστούσε τις σελίδες που έφτιαχναν με το χέρι οι επιμελητές, η ομάδα τους μίκραινε. Κάποιοι δυσαρεστημένοι υπάλληλοι πλήρωσαν μια ανώνυμη αγγελία για τον Άγιο Βαλεντίνο σε εφημερίδα του Σιάτλ, που κορόιδευε το Amabot επειδή δεν είχε καρδιά."
+      },
+      "apply": {
+        "en": "Stop arguing about which hero or ad is better: test them. Run two versions of a Meta ad with the same budget for a week, or try two call openings on twenty calls each. Keep the one with more meetings booked, even if you liked the other more.",
+        "el": "Σταμάτα να συζητάς ποιο hero ή ποια διαφήμιση είναι καλύτερη: δοκίμασέ τα. Τρέξε δύο εκδοχές μιας διαφήμισης στο Meta με το ίδιο budget για μία εβδομάδα, ή δοκίμασε δύο διαφορετικές αρχές σε είκοσι τηλέφωνα η καθεμία. Κράτα αυτή που κλείνει περισσότερα ραντεβού, ακόμα κι αν σου άρεσε η άλλη."
+      },
+      "check": {
+        "q": {"en": "Why did Amabot win over the human editors?", "el": "Γιατί το Amabot κέρδισε τους ανθρώπους επιμελητές;"},
+        "options": [
+          {"en": "Bezos personally disliked the editors", "el": "Ο Μπέζος αντιπαθούσε προσωπικά τους επιμελητές"},
+          {"en": "It was cheaper to run", "el": "Κόστιζε λιγότερο στη λειτουργία"},
+          {"en": "Tests showed it sold more", "el": "Οι δοκιμές έδειξαν ότι πουλούσε περισσότερο"}
+        ],
+        "answer": 2,
+        "why": {"en": "The decision came from test results, not from anyone's taste.", "el": "Η απόφαση βγήκε από τα αποτελέσματα των δοκιμών, όχι από το γούστο κανενός."}
+      }
+    },
+    {
+      "title": {"en": "Two-pizza teams", "el": "Ομάδες των δύο πιτσών"},
+      "explain": {
+        "en": "As Amazon grew, Bezos worried that coordination would slow everything down. His answer was small, independent teams, small enough to be fed by two pizzas, each owning one clear goal and measured by its own numbers. Fewer meetings, fewer handoffs. A team should be able to act without asking many others for permission.",
+        "el": "Καθώς η Amazon μεγάλωνε, ο Μπέζος ανησυχούσε ότι ο συντονισμός θα έκανε τα πάντα αργά. Η απάντησή του ήταν μικρές, ανεξάρτητες ομάδες, τόσο μικρές που να χορταίνουν με δύο πίτσες, με έναν καθαρό στόχο η καθεμία και δικά της νούμερα για να μετριέται. Λιγότερες συσκέψεις, λιγότερα «πάσα» από χέρι σε χέρι. Μια ομάδα πρέπει να μπορεί να δράσει χωρίς να ζητά άδεια από πολλούς άλλους."
+      },
+      "example": {
+        "en": "At a management retreat in the early 2000s, some leaders proposed ways to improve communication between teams. Bezos stood up and declared that communication is terrible. He wanted teams so independent that they hardly needed to talk to each other. The two-pizza teams followed.",
+        "el": "Σε μια συνάντηση στελεχών στις αρχές της δεκαετίας του 2000, κάποιοι πρότειναν τρόπους να βελτιωθεί η επικοινωνία ανάμεσα στις ομάδες. Ο Μπέζος σηκώθηκε και δήλωσε ότι η επικοινωνία είναι φρικτή. Ήθελε ομάδες τόσο ανεξάρτητες που να μη χρειάζεται σχεδόν να μιλάνε μεταξύ τους. Από εκεί βγήκαν οι ομάδες των δύο πιτσών."
+      },
+      "apply": {
+        "en": "As you grow, give each person an area they fully own, for example one handles all client changes and one handles new builds, with one number each: changes done within 48 hours, sites delivered per week. Fewer group calls, more ownership.",
+        "el": "Καθώς μεγαλώνεις, δώσε σε κάθε άνθρωπο έναν τομέα που τον έχει εξ ολοκλήρου, για παράδειγμα ένας όλες τις αλλαγές πελατών και ένας τις νέες κατασκευές, με ένα νούμερο ο καθένας: αλλαγές που έγιναν μέσα σε 48 ώρες, ιστοσελίδες που παραδόθηκαν την εβδομάδα. Λιγότερες ομαδικές κλήσεις, περισσότερη ευθύνη."
+      },
+      "check": {
+        "q": {"en": "Why did Bezos want two-pizza teams?", "el": "Γιατί ο Μπέζος ήθελε ομάδες των δύο πιτσών;"},
+        "options": [
+          {"en": "To save money on office food", "el": "Για να γλιτώνει λεφτά στο φαγητό του γραφείου"},
+          {"en": "To cut coordination and let teams act fast", "el": "Για να κόψει τον συντονισμό και να δρουν γρήγορα οι ομάδες"},
+          {"en": "To hold more meetings between teams", "el": "Για να γίνονται περισσότερες συσκέψεις μεταξύ ομάδων"}
+        ],
+        "answer": 1,
+        "why": {"en": "Small teams that own a goal need fewer handoffs, so they move faster.", "el": "Οι μικρές ομάδες με δικό τους στόχο χρειάζονται λιγότερα «πάσα», άρα κινούνται πιο γρήγορα."}
+      }
+    },
+    {
+      "title": {"en": "Write it out in full", "el": "Γράψ' το ολόκληρο"},
+      "explain": {
+        "en": "Bezos banned slide presentations in senior meetings. Instead, whoever proposed an idea wrote a narrative of up to six pages in full sentences, and meetings began with everyone reading it in silence. Writing forces clear thinking: bullet points can hide weak logic, sentences cannot. For new products, teams also wrote a mock press release first, describing the finished thing from the customer's side.",
+        "el": "Ο Μπέζος απαγόρευσε τις παρουσιάσεις με διαφάνειες στις συσκέψεις της διοίκησης. Αντί γι' αυτές, όποιος πρότεινε μια ιδέα έγραφε ένα κείμενο έως έξι σελίδες με ολόκληρες προτάσεις, και η σύσκεψη ξεκινούσε με όλους να το διαβάζουν σιωπηλά. Το γράψιμο αναγκάζει σε καθαρή σκέψη: οι κουκκίδες κρύβουν αδύναμη λογική, οι ολόκληρες προτάσεις όχι. Για νέα προϊόντα, οι ομάδες έγραφαν επίσης πρώτα ένα φανταστικό δελτίο τύπου, που περιέγραφε το έτοιμο προϊόν από τη μεριά του πελάτη."
+      },
+      "example": {
+        "en": "From the mid-2000s, senior meetings began with a long silent reading of the six-page memo before any discussion. Bezos often read most carefully and asked the hardest questions. Proposals built on fuzzy thinking were exposed quickly and sent back to be rewritten.",
+        "el": "Από τα μέσα της δεκαετίας του 2000, οι συσκέψεις της διοίκησης ξεκινούσαν με μεγάλη σιωπηλή ανάγνωση του εξασέλιδου κειμένου πριν από κάθε συζήτηση. Ο Μπέζος διάβαζε συχνά πιο προσεκτικά από όλους και έκανε τις πιο δύσκολες ερωτήσεις. Οι προτάσεις με θολή σκέψη φαίνονταν γρήγορα και γύριζαν πίσω για ξαναγράψιμο."
+      },
+      "apply": {
+        "en": "Before any new service, write one page as if it were the announcement to clients: what it is, who it helps, the price, and three questions a doctor would ask. If you cannot write it clearly, the idea is not ready. Share the page with your team before building.",
+        "el": "Πριν από κάθε νέα υπηρεσία, γράψε μία σελίδα σαν να είναι η ανακοίνωση προς τους πελάτες: τι είναι, ποιον βοηθά, πόσο κοστίζει, και τρεις ερωτήσεις που θα έκανε ένας γιατρός. Αν δεν μπορείς να το γράψεις καθαρά, η ιδέα δεν είναι έτοιμη. Δείξε τη σελίδα στην ομάδα σου πριν αρχίσετε να φτιάχνετε."
+      },
+      "check": {
+        "q": {"en": "Why did Bezos replace slides with written memos?", "el": "Γιατί ο Μπέζος αντικατέστησε τις διαφάνειες με γραπτά κείμενα;"},
+        "options": [
+          {"en": "Full sentences force clear thinking", "el": "Οι ολόκληρες προτάσεις αναγκάζουν σε καθαρή σκέψη"},
+          {"en": "Slides cost too much to design", "el": "Οι διαφάνειες κόστιζαν πολύ στον σχεδιασμό"},
+          {"en": "Memos are quicker to prepare", "el": "Τα κείμενα ετοιμάζονται πιο γρήγορα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Writing a full argument exposes weak logic that bullet points can hide.", "el": "Όταν γράφεις ολόκληρο το επιχείρημα, φαίνεται η αδύναμη λογική που οι κουκκίδες κρύβουν."}
+      }
+    },
+    {
+      "title": {"en": "Replace yourself before others do", "el": "Αντικατάστησε τον εαυτό σου πριν το κάνουν άλλοι"},
+      "explain": {
+        "en": "Bezos knew digital books would one day threaten Amazon's huge printed-book business. Instead of protecting it, he decided Amazon should build the thing that would replace it, before Apple or anyone else did. Protecting an old business often hands the future to a new rival. It is better to compete with yourself.",
+        "el": "Ο Μπέζος ήξερε ότι τα ψηφιακά βιβλία κάποτε θα απειλούσαν την τεράστια δουλειά της Amazon με τα έντυπα. Αντί να την προστατέψει, αποφάσισε η Amazon να φτιάξει η ίδια αυτό που θα την αντικαθιστούσε, πριν το κάνει η Apple ή οποιοσδήποτε άλλος. Όταν προστατεύεις μια παλιά δουλειά, συχνά χαρίζεις το μέλλον σε έναν νέο αντίπαλο. Καλύτερα να ανταγωνίζεσαι τον εαυτό σου."
+      },
+      "example": {
+        "en": "In 2004 Bezos moved Steve Kessel, who ran the books business, to lead digital, and told him to act as if his job was to put everyone selling physical books out of work. The result was the Kindle, launched in November 2007, which sold out within hours.",
+        "el": "Το 2004 ο Μπέζος μετακίνησε τον Στιβ Κέσελ, που έτρεχε τα βιβλία, να ηγηθεί του ψηφιακού τομέα, και του είπε να δουλέψει σαν δουλειά του να ήταν να αφήσει χωρίς δουλειά όσους πουλούν έντυπα βιβλία. Το αποτέλεσμα ήταν το Kindle, που κυκλοφόρησε τον Νοέμβριο του 2007 και εξαντλήθηκε μέσα σε λίγες ώρες."
+      },
+      "apply": {
+        "en": "Ask what could make your service unnecessary: AI tools that let a doctor build a basic site alone in an hour? Build that answer yourself first, for example faster AI-assisted builds plus your care, support and hosting, before a rival does it to you.",
+        "el": "Ρώτα τι θα μπορούσε να κάνει την υπηρεσία σου περιττή: εργαλεία AI που επιτρέπουν σε έναν γιατρό να φτιάξει μόνος του μια βασική σελίδα σε μία ώρα; Φτιάξε πρώτος εσύ την απάντηση, για παράδειγμα πιο γρήγορες κατασκευές με AI μαζί με τη φροντίδα, την υποστήριξη και τη φιλοξενία σου, πριν σου το κάνει κάποιος αντίπαλος."
+      },
+      "check": {
+        "q": {"en": "What did Bezos do about the threat to printed books?", "el": "Τι έκανε ο Μπέζος για την απειλή στα έντυπα βιβλία;"},
+        "options": [
+          {"en": "Protected the book business from change", "el": "Προστάτεψε τη δουλειά των βιβλίων από την αλλαγή"},
+          {"en": "Sold the book business before it shrank", "el": "Πούλησε τη δουλειά των βιβλίων πριν συρρικνωθεί"},
+          {"en": "Built its replacement before rivals did", "el": "Έφτιαξε αυτό που θα την αντικαθιστούσε πριν τους αντιπάλους"}
+        ],
+        "answer": 2,
+        "why": {"en": "He chose to disrupt Amazon himself with the Kindle instead of waiting to be disrupted.", "el": "Διάλεξε να ανατρέψει ο ίδιος την Amazon με το Kindle, αντί να περιμένει να την ανατρέψουν άλλοι."}
+      }
+    },
+    {
+      "title": {"en": "Sell the tools you built", "el": "Πούλα τα εργαλεία που έφτιαξες"},
+      "explain": {
+        "en": "To run its huge store, Amazon had to build strong computing systems for itself. Bezos and his team saw that other companies needed the same thing: servers and storage they could rent by the hour instead of buying. What started as an internal cost became a new business, Amazon Web Services, which grew into a giant of its own.",
+        "el": "Για να λειτουργεί το τεράστιο κατάστημά της, η Amazon έπρεπε να φτιάξει δυνατά υπολογιστικά συστήματα για τον εαυτό της. Ο Μπέζος και η ομάδα του είδαν ότι και άλλες εταιρείες χρειάζονταν το ίδιο: servers και αποθηκευτικό χώρο που να νοικιάζουν με την ώρα αντί να τα αγοράζουν. Αυτό που ξεκίνησε ως εσωτερικό κόστος έγινε μια νέα επιχείρηση, η Amazon Web Services, που εξελίχθηκε σε κολοσσό από μόνη της."
+      },
+      "example": {
+        "en": "In 2006 Amazon launched S3, simple online storage, and EC2, computing power for rent, with Andy Jassy leading the effort. Start-ups loved paying only for what they used. Rivals were slow to react, because few believed an online bookseller could become a major technology supplier.",
+        "el": "Το 2006 η Amazon έβγαλε το S3, απλό online αποθηκευτικό χώρο, και το EC2, υπολογιστική ισχύ προς ενοικίαση, με επικεφαλής τον Άντι Τζάσι. Οι startups λάτρεψαν το ότι πληρώνουν μόνο όσα χρησιμοποιούν. Οι ανταγωνιστές άργησαν να αντιδράσουν, γιατί λίγοι πίστευαν ότι ένα online βιβλιοπωλείο μπορεί να γίνει μεγάλος προμηθευτής τεχνολογίας."
+      },
+      "apply": {
+        "en": "Look at what you built for yourself: templates, your CRM, your AI build process, your favicon and privacy tools. Some of it could help freelancers or small agencies. Pick one tool you could package, and ask five people if they would pay for it.",
+        "el": "Κοίτα τι έφτιαξες για τον εαυτό σου: templates, το CRM σου, τη διαδικασία κατασκευής με AI, τα εργαλεία για favicon και σελίδες απορρήτου. Κάποια από αυτά μπορεί να βοηθήσουν freelancers ή μικρά γραφεία. Διάλεξε ένα εργαλείο που θα μπορούσες να πακετάρεις και ρώτα πέντε ανθρώπους αν θα πλήρωναν γι' αυτό."
+      },
+      "check": {
+        "q": {"en": "How did Amazon Web Services begin?", "el": "Πώς ξεκίνησε η Amazon Web Services;"},
+        "options": [
+          {"en": "Amazon bought a cloud company", "el": "Η Amazon αγόρασε μια εταιρεία cloud"},
+          {"en": "Amazon turned its internal systems into a product", "el": "Η Amazon έκανε προϊόν τα εσωτερικά της συστήματα"},
+          {"en": "Amazon copied a rival's service", "el": "Η Amazon αντέγραψε την υπηρεσία ενός αντιπάλου"}
+        ],
+        "answer": 1,
+        "why": {"en": "Systems built for its own store became something other companies could rent.", "el": "Συστήματα φτιαγμένα για το δικό της κατάστημα έγιναν κάτι που μπορούσαν να νοικιάσουν άλλες εταιρείες."}
+      }
+    },
+    {
+      "title": {"en": "Make loyalty a habit", "el": "Κάνε την πίστη συνήθεια"},
+      "explain": {
+        "en": "Bezos wanted his best customers to make Amazon their first stop. Amazon Prime did it: one yearly fee for unlimited fast shipping. On paper it looked like a money loser, because heavy buyers would cost a lot to ship to. But once people had paid, they bought much more on Amazon to get value from the fee. A simple membership changed buying habits.",
+        "el": "Ο Μπέζος ήθελε οι καλύτεροι πελάτες του να κάνουν την Amazon πρώτη τους στάση. Το Amazon Prime το πέτυχε: μία ετήσια συνδρομή για απεριόριστες γρήγορες αποστολές. Στα χαρτιά έμοιαζε χασούρα, γιατί οι μεγάλοι αγοραστές θα κόστιζαν πολύ σε μεταφορικά. Όμως όταν ο κόσμος είχε πληρώσει, αγόραζε πολύ περισσότερα από την Amazon για να «βγάλει» τη συνδρομή. Μια απλή συνδρομή άλλαξε συνήθειες."
+      },
+      "example": {
+        "en": "Prime launched in February 2005 for 79 dollars a year, with free two-day shipping on a huge range of items. It was rushed out in a few weeks, to be announced with Amazon's yearly results. Finance staff worried about the costs, but Prime members became Amazon's most loyal and valuable customers.",
+        "el": "Το Prime ξεκίνησε τον Φεβρουάριο του 2005 με 79 δολάρια τον χρόνο, με δωρεάν αποστολή σε δύο μέρες για τεράστια γκάμα προϊόντων. Ετοιμάστηκε βιαστικά μέσα σε λίγες εβδομάδες, για να ανακοινωθεί μαζί με τα ετήσια αποτελέσματα. Οι οικονομικοί ανησυχούσαν για τα κόστη, αλλά τα μέλη του Prime έγιναν οι πιο πιστοί και πιο πολύτιμοι πελάτες της Amazon."
+      },
+      "apply": {
+        "en": "Your yearly hosting is a membership; make it feel like one. Write down what clients get every year, such as hosting, domain, security updates and quick answers in the chat, and show that list in your offer and on every renewal invoice.",
+        "el": "Η ετήσια φιλοξενία σου είναι συνδρομή· κάνε τη να μοιάζει με συνδρομή. Γράψε τι παίρνει ο πελάτης κάθε χρόνο, όπως φιλοξενία, domain, ενημερώσεις ασφαλείας και γρήγορες απαντήσεις στο chat, και δείξε αυτή τη λίστα στην προσφορά σου και σε κάθε τιμολόγιο ανανέωσης."
+      },
+      "check": {
+        "q": {"en": "Why did Prime pay off despite the shipping costs?", "el": "Γιατί το Prime απέδωσε παρά τα κόστη αποστολής;"},
+        "options": [
+          {"en": "Members bought much more to get value from the fee", "el": "Τα μέλη αγόραζαν πολύ περισσότερα για να «βγάλουν» τη συνδρομή"},
+          {"en": "Shipping became free for every customer", "el": "Η αποστολή έγινε δωρεάν για όλους"},
+          {"en": "It ended Amazon's shipping costs", "el": "Μηδένισε τα κόστη αποστολής της Amazon"}
+        ],
+        "answer": 0,
+        "why": {"en": "Paying once made Amazon the habit, so members spent far more there.", "el": "Η πληρωμή μία φορά έκανε την Amazon συνήθεια, οπότε τα μέλη ξόδευαν εκεί πολύ περισσότερα."}
+      }
+    },
+    {
+      "title": {"en": "Raise the bar with every hire", "el": "Ανέβαζε τον πήχη σε κάθε πρόσληψη"},
+      "explain": {
+        "en": "Bezos believed standards slip quietly as a company grows. So each new hire should be better than half the people already doing that job. Amazon trained special interviewers, called bar raisers, from outside the hiring team, who could block a candidate. The same high standards made the culture famously demanding.",
+        "el": "Ο Μπέζος πίστευε ότι τα standards πέφτουν αθόρυβα καθώς μια εταιρεία μεγαλώνει. Γι' αυτό κάθε νέα πρόσληψη έπρεπε να είναι καλύτερη από τους μισούς που ήδη κάνουν την ίδια δουλειά. Η Amazon εκπαίδευσε ειδικούς συνεντευκτές, τους «bar raisers», από έξω από την ομάδα που προσλάμβανε, που μπορούσαν να μπλοκάρουν έναν υποψήφιο. Τα ίδια υψηλά standards έκαναν την κουλτούρα διάσημα απαιτητική."
+      },
+      "example": {
+        "en": "Bezos himself was known for harsh lines in meetings, such as asking a manager whether he was lazy or just incompetent. Stone describes many talented people who thrived under that pressure, and many others who left exhausted.",
+        "el": "Ο ίδιος ο Μπέζος ήταν γνωστός για σκληρές ατάκες στις συσκέψεις, όπως να ρωτήσει έναν μάνατζερ αν είναι τεμπέλης ή απλώς ανίκανος. Ο Στόουν περιγράφει πολλούς ταλαντούχους που άνθισαν κάτω από αυτή την πίεση, και πολλούς άλλους που έφυγαν εξαντλημένοι."
+      },
+      "apply": {
+        "en": "Before hiring, write what excellent looks like for the role: speed, taste, Greek writing, tone with clients. Give every candidate the same small paid test, like redoing one hero section. Hire only someone who raises your level, and say no when unsure.",
+        "el": "Πριν προσλάβεις, γράψε πώς μοιάζει το «εξαιρετικό» για τη θέση: ταχύτητα, γούστο, ελληνικά κείμενα, ύφος με τους πελάτες. Δώσε σε κάθε υποψήφιο το ίδιο μικρό, πληρωμένο τεστ, για παράδειγμα να ξαναφτιάξει ένα hero. Πάρε μόνο κάποιον που ανεβάζει το επίπεδό σας, και πες όχι όταν έχεις αμφιβολία."
+      },
+      "check": {
+        "q": {"en": "What was the rule behind bar raisers?", "el": "Ποιος ήταν ο κανόνας πίσω από τους «bar raisers»;"},
+        "options": [
+          {"en": "Hire fast to keep up with growth", "el": "Προσλάμβανε γρήγορα για να προλαβαίνεις την ανάπτυξη"},
+          {"en": "Hire friends you already trust", "el": "Προσλάμβανε φίλους που ήδη εμπιστεύεσαι"},
+          {"en": "Every hire should raise the average level", "el": "Κάθε πρόσληψη πρέπει να ανεβάζει το μέσο επίπεδο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Each new person had to be better than half of those already in the role.", "el": "Κάθε νέος έπρεπε να είναι καλύτερος από τους μισούς που ήδη είχαν τον ίδιο ρόλο."}
+      }
+    },
+    {
+      "title": {"en": "Power has a price", "el": "Η δύναμη έχει τίμημα"},
+      "explain": {
+        "en": "As Amazon grew powerful, it used that power hard against suppliers and rivals. It pressed publishers for better terms and fought price wars to win markets. Stone shows this worked commercially, but it created fear and anger among partners and, later, legal and public trouble. Firmness in negotiation is useful; using power to crush partners costs trust.",
+        "el": "Καθώς η Amazon αποκτούσε δύναμη, τη χρησιμοποιούσε σκληρά απέναντι σε προμηθευτές και ανταγωνιστές. Πίεζε τους εκδότες για καλύτερους όρους και έκανε πολέμους τιμών για να κερδίσει αγορές. Ο Στόουν δείχνει ότι εμπορικά δούλεψε, αλλά γέννησε φόβο και θυμό στους συνεργάτες και, αργότερα, νομικά και δημόσια προβλήματα. Η σταθερότητα στη διαπραγμάτευση είναι χρήσιμη· η δύναμη για να συνθλίβεις συνεργάτες κοστίζει σε εμπιστοσύνη."
+      },
+      "example": {
+        "en": "In talks with small publishers, Bezos reportedly said Amazon should approach them the way a cheetah would pursue a sickly gazelle, and the effort was nicknamed the Gazelle Project. Later Amazon cut diaper prices sharply against Diapers.com, whose parent company Quidsi agreed in 2010 to sell to Amazon for 545 million dollars.",
+        "el": "Στις διαπραγματεύσεις με μικρούς εκδότες, ο Μπέζος φέρεται να είπε ότι η Amazon πρέπει να τους πλησιάζει όπως ένα τσίτα κυνηγά μια άρρωστη γαζέλα, και η προσπάθεια πήρε το παρατσούκλι «Gazelle Project». Αργότερα η Amazon έριξε απότομα τις τιμές στις πάνες απέναντι στο Diapers.com, του οποίου η μητρική, η Quidsi, δέχτηκε το 2010 να πουληθεί στην Amazon για 545 εκατομμύρια δολάρια."
+      },
+      "apply": {
+        "en": "Negotiate firmly with suppliers and clients, but never in a way you would be ashamed to see written down. With a late payer, be clear and calm: «Your renewal was due on the 10th; can we settle it by Friday?» Keep the relationship and collect the money.",
+        "el": "Διαπραγματεύσου σταθερά με προμηθευτές και πελάτες, αλλά ποτέ με τρόπο που θα ντρεπόσουν να δεις γραμμένο. Με κάποιον που καθυστερεί, να είσαι καθαρός και ήρεμος: «Η ανανέωση έληγε στις 10· μπορούμε να την τακτοποιήσουμε έως την Παρασκευή;» Κράτα τη σχέση και πάρε τα λεφτά σου."
+      },
+      "check": {
+        "q": {"en": "What does Stone show about Amazon's hardball tactics?", "el": "Τι δείχνει ο Στόουν για τις σκληρές τακτικές της Amazon;"},
+        "options": [
+          {"en": "Crushing partners has no downside", "el": "Το να συνθλίβεις συνεργάτες δεν έχει κανένα μειονέκτημα"},
+          {"en": "They worked, but cost trust and brought trouble", "el": "Δούλεψαν, αλλά κόστισαν εμπιστοσύνη και έφεραν μπελάδες"},
+          {"en": "Amazon never negotiated on price", "el": "Η Amazon δεν διαπραγματευόταν ποτέ τιμές"}
+        ],
+        "answer": 1,
+        "why": {"en": "The tactics won deals, but left angry partners and later legal and public problems.", "el": "Οι τακτικές κέρδισαν συμφωνίες, αλλά άφησαν θυμωμένους συνεργάτες και αργότερα νομικά και δημόσια προβλήματα."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A client tells you the messages from his contact form never arrived for two weeks. What do you do?", "el": "Ένας πελάτης σού λέει ότι τα μηνύματα από τη φόρμα επικοινωνίας του δεν έφταναν για δύο εβδομάδες. Τι κάνεις;"},
+      "options": [
+        {"en": "Apologise and fix only his site", "el": "Ζητάς συγγνώμη και φτιάχνεις μόνο τη δική του σελίδα"},
+        {"en": "Fix it, then check every site that uses that form", "el": "Το φτιάχνεις και μετά ελέγχεις κάθε σελίδα που έχει την ίδια φόρμα"},
+        {"en": "Tell him patients should just call instead", "el": "Του λες ότι οι ασθενείς καλύτερα να παίρνουν τηλέφωνο"}
+      ],
+      "answer": 1,
+      "why": {"en": "Like the question mark email, one complaint points to a system problem you fix for everyone.", "el": "Όπως το email με το ερωτηματικό, ένα παράπονο δείχνει πρόβλημα συστήματος που διορθώνεις για όλους."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "You and your designer disagree about which image will work better in a Meta ad. What do you do?", "el": "Εσύ και ο γραφίστας σου διαφωνείτε για το ποια εικόνα θα δουλέψει καλύτερα σε μια διαφήμιση στο Meta. Τι κάνεις;"},
+      "options": [
+        {"en": "You decide, since you are the boss", "el": "Αποφασίζεις εσύ, αφού είσαι το αφεντικό"},
+        {"en": "Let the designer decide to keep the peace", "el": "Αφήνεις τον γραφίστα να αποφασίσει για να μη χαλάσετε"},
+        {"en": "Run both for a week with the same budget and keep the winner", "el": "Τρέχεις και τις δύο για μία εβδομάδα με το ίδιο budget και κρατάς τη νικήτρια"}
+      ],
+      "answer": 2,
+      "why": {"en": "At Amazon, tests settled arguments, not rank or taste.", "el": "Στην Amazon οι δοκιμές έλυναν τις διαφωνίες, όχι η ιεραρχία ή το γούστο."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "Sales are slow this month. You are tempted to stop answering old clients' small requests to spend every hour chasing new ones. What do you do?", "el": "Οι πωλήσεις είναι αργές αυτόν τον μήνα. Σου έρχεται να σταματήσεις να απαντάς στα μικρά αιτήματα των παλιών πελατών για να κυνηγάς μόνο νέους. Τι κάνεις;"},
+      "options": [
+        {"en": "Keep serving old clients well, they are your long-term value", "el": "Συνεχίζεις να εξυπηρετείς καλά τους παλιούς, είναι η αξία σου στο βάθος του χρόνου"},
+        {"en": "Ignore them until sales recover", "el": "Τους αγνοείς μέχρι να ανέβουν οι πωλήσεις"},
+        {"en": "Charge them extra for every small request", "el": "Τους χρεώνεις επιπλέον για κάθε μικρό αίτημα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Bezos put the long term first; renewals and referrals from happy clients are your real growth.", "el": "Ο Μπέζος έβαζε πρώτα το μακρινό μέλλον· οι ανανεώσεις και οι συστάσεις από ευχαριστημένους πελάτες είναι η πραγματική σου ανάπτυξη."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "A strong renewal month brings in much more money than usual. What do you do first?", "el": "Ένας δυνατός μήνας ανανεώσεων φέρνει πολύ περισσότερα λεφτά απ' ό,τι συνήθως. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Buy new equipment and a paid tool right away", "el": "Αγοράζεις αμέσως νέο εξοπλισμό και ένα συνδρομητικό εργαλείο"},
+        {"en": "Move a fixed share into a cash cushion", "el": "Βάζεις ένα σταθερό ποσοστό σε ένα μαξιλάρι μετρητών"},
+        {"en": "Lower prices for everyone", "el": "Ρίχνεις τις τιμές για όλους"}
+      ],
+      "answer": 1,
+      "why": {"en": "Amazon survived 2000 because it built cash before the storm.", "el": "Η Amazon επέζησε το 2000 επειδή μάζεψε μετρητά πριν από τη θύελλα."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "You want to launch a yearly maintenance package, but your team is confused about what it includes. What do you do?", "el": "Θέλεις να βγάλεις ένα ετήσιο πακέτο συντήρησης, αλλά η ομάδα σου δεν έχει καταλάβει τι περιλαμβάνει. Τι κάνεις;"},
+      "options": [
+        {"en": "Start selling it and clarify later", "el": "Αρχίζεις να το πουλάς και το ξεκαθαρίζεις μετά"},
+        {"en": "Make a slide deck with bullet points", "el": "Φτιάχνεις μια παρουσίαση με κουκκίδες"},
+        {"en": "Write a one-page announcement with price and client questions first", "el": "Γράφεις πρώτα μια ανακοίνωση μίας σελίδας με τιμή και ερωτήσεις πελατών"}
+      ],
+      "answer": 2,
+      "why": {"en": "Writing it out in full sentences, from the client's side, forces clear thinking before you build.", "el": "Το γράψιμο με ολόκληρες προτάσεις, από τη μεριά του πελάτη, αναγκάζει σε καθαρή σκέψη πριν φτιάξεις οτιδήποτε."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "A new AI tool lets doctors build a basic site alone in an hour. What do you do?", "el": "Ένα νέο εργαλείο AI επιτρέπει στους γιατρούς να φτιάχνουν μόνοι τους μια βασική σελίδα σε μία ώρα. Τι κάνεις;"},
+      "options": [
+        {"en": "Use it yourself to deliver faster and add your care and support", "el": "Το χρησιμοποιείς εσύ για να παραδίδεις πιο γρήγορα και προσθέτεις φροντίδα και υποστήριξη"},
+        {"en": "Ignore it, doctors are too busy", "el": "Το αγνοείς, οι γιατροί είναι πολύ απασχολημένοι"},
+        {"en": "Warn clients that such tools are dangerous", "el": "Προειδοποιείς τους πελάτες ότι τέτοια εργαλεία είναι επικίνδυνα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Like the Kindle, build the thing that could replace you before a rival does.", "el": "Όπως με το Kindle, φτιάχνεις εσύ αυτό που θα μπορούσε να σε αντικαταστήσει πριν το κάνει ένας αντίπαλος."},
+      "idea": 14
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Amazon's first name was Cadabra.", "el": "Το πρώτο όνομα της Amazon ήταν Cadabra."}, "answer": true, "why": {"en": "It was dropped after a lawyer misheard it as «cadaver».", "el": "Εγκαταλείφθηκε όταν ένας δικηγόρος το άκουσε σαν «cadaver», πτώμα."}},
+    {"s": {"en": "Bezos removed negative reviews to keep publishers happy.", "el": "Ο Μπέζος έσβησε τις αρνητικές κριτικές για να είναι ευχαριστημένοι οι εκδότες."}, "answer": false, "why": {"en": "He kept them, because they helped customers decide.", "el": "Τις κράτησε, γιατί βοηθούσαν τους πελάτες να αποφασίσουν."}},
+    {"s": {"en": "Amazon made a profit for a full year as early as 1998.", "el": "Η Amazon έβγαλε κέρδος για ολόκληρη χρονιά ήδη από το 1998."}, "answer": false, "why": {"en": "Its first full-year profit came in 2003.", "el": "Το πρώτο κέρδος ολόκληρης χρονιάς ήρθε το 2003."}},
+    {"s": {"en": "A two-pizza team is a small team that owns one clear goal.", "el": "Η ομάδα των δύο πιτσών είναι μια μικρή ομάδα με έναν καθαρό στόχο."}, "answer": true, "why": {"en": "Small, independent teams need less coordination and move faster.", "el": "Οι μικρές, ανεξάρτητες ομάδες χρειάζονται λιγότερο συντονισμό και κινούνται πιο γρήγορα."}},
+    {"s": {"en": "Senior Amazon meetings started with a speaker presenting slides.", "el": "Οι συσκέψεις της διοίκησης της Amazon ξεκινούσαν με κάποιον να παρουσιάζει διαφάνειες."}, "answer": false, "why": {"en": "They started with silent reading of a written six-page memo.", "el": "Ξεκινούσαν με σιωπηλή ανάγνωση ενός γραπτού κειμένου έξι σελίδων."}},
+    {"s": {"en": "AWS began as computing systems Amazon built for its own store.", "el": "Η AWS ξεκίνησε από συστήματα που η Amazon έφτιαξε για το δικό της κατάστημα."}, "answer": true, "why": {"en": "Amazon turned its internal infrastructure into a product others could rent.", "el": "Η Amazon έκανε την εσωτερική της υποδομή προϊόν που μπορούσαν να νοικιάσουν άλλοι."}},
+    {"s": {"en": "Amazon Prime launched in 2005 at 79 dollars a year.", "el": "Το Amazon Prime ξεκίνησε το 2005 με 79 δολάρια τον χρόνο."}, "answer": true, "why": {"en": "It offered free two-day shipping for one yearly fee.", "el": "Πρόσφερε δωρεάν αποστολή σε δύο μέρες με μία ετήσια συνδρομή."}},
+    {"s": {"en": "Bezos authorised the book and approved every chapter.", "el": "Ο Μπέζος ενέκρινε το βιβλίο και κάθε του κεφάλαιο."}, "answer": false, "why": {"en": "It was not authorised by Bezos, and his then wife publicly criticised it.", "el": "Δεν είχε την έγκριση του Μπέζος, και η τότε σύζυγός του το επέκρινε δημόσια."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Door desk", "el": "Γραφείο-πόρτα"}, "b": {"en": "Cheap desk made from a door; symbol of frugality", "el": "Φτηνό γραφείο από πόρτα· σύμβολο λιτότητας"}},
+    {"a": {"en": "Question mark email", "el": "Email με ερωτηματικό"}, "b": {"en": "Forwarded complaint meaning: explain and fix it", "el": "Προωθημένο παράπονο που σημαίνει: εξήγησε και διόρθωσε"}},
+    {"a": {"en": "Flywheel", "el": "Σφόνδυλος"}, "b": {"en": "Loop where low prices and selection feed growth", "el": "Κύκλος όπου τιμές και ποικιλία τροφοδοτούν την ανάπτυξη"}},
+    {"a": {"en": "Two-pizza team", "el": "Ομάδα δύο πιτσών"}, "b": {"en": "Small team owning one clear goal", "el": "Μικρή ομάδα με έναν καθαρό στόχο"}},
+    {"a": {"en": "Six-page memo", "el": "Εξασέλιδο κείμενο"}, "b": {"en": "Written narrative read silently before discussion", "el": "Γραπτό κείμενο που διαβάζεται σιωπηλά πριν τη συζήτηση"}},
+    {"a": {"en": "Bar raiser", "el": "Bar raiser (ο «πήχης»)"}, "b": {"en": "Outside interviewer who can block a weak hire", "el": "Εξωτερικός συνεντευκτής που μπλοκάρει μια αδύναμη πρόσληψη"}}
+  ],
+  "missions": [
+    {"en": "Write a one-page announcement for one new service, as if it had already launched.", "el": "Γράψε μια ανακοίνωση μίας σελίδας για μία νέα υπηρεσία, σαν να έχει ήδη κυκλοφορήσει."},
+    {"en": "Take the last three client complaints and write the root cause and one fix for all sites.", "el": "Πάρε τα τρία τελευταία παράπονα πελατών και γράψε την αιτία και μία διόρθωση για όλες τις σελίδες."},
+    {"en": "Run two versions of one ad or call opening this week and keep the one that books more meetings.", "el": "Τρέξε δύο εκδοχές μιας διαφήμισης ή μιας αρχής στα τηλέφωνα αυτή την εβδομάδα και κράτα αυτή που κλείνει περισσότερα ραντεβού."},
+    {"en": "Open a separate savings pot and move a fixed share of this month's renewals into it.", "el": "Άνοιξε έναν ξεχωριστό κουμπαρά αποταμίευσης και βάλε μέσα ένα σταθερό ποσοστό από τις ανανεώσεις του μήνα."},
+    {"en": "Draw your business flywheel on paper and circle the one link you will push this week.", "el": "Ζωγράφισε σε χαρτί τον σφόνδυλο της δουλειάς σου και κύκλωσε τον έναν κρίκο που θα σπρώξεις αυτή την εβδομάδα."}
+  ],
+  "mantra": {"en": "Start narrow, think long term, obsess over the customer.", "el": "Ξεκίνα στενά, σκέψου μακριά, ζήσε για τον πελάτη."},
+  "careful": {
+    "en": "Bezos did not authorise the book; he let executives and family speak to Stone but did not fully cooperate, so much comes from former employees. MacKenzie Bezos publicly called it inaccurate in a one-star review. The book also reports criticism of Amazon: hard warehouse conditions, such as summer heat at a Pennsylvania warehouse in 2011, tough tactics with publishers and small rivals, and years of avoiding sales tax. It ends in 2013.",
+    "el": "Ο Μπέζος δεν ενέκρινε το βιβλίο· άφησε στελέχη και οικογένεια να μιλήσουν στον Στόουν, αλλά δεν συνεργάστηκε πλήρως, οπότε πολλά προέρχονται από πρώην υπαλλήλους. Η ΜακΚένζι Μπέζος το χαρακτήρισε δημόσια ανακριβές σε μια κριτική με ένα αστέρι. Το βιβλίο καταγράφει και επικρίσεις προς την Amazon: σκληρές συνθήκες στις αποθήκες, όπως η καλοκαιρινή ζέστη σε μια αποθήκη στην Πενσιλβάνια το 2011, σκληρές τακτικές απέναντι σε εκδότες και μικρούς ανταγωνιστές, και χρόνια αποφυγής του φόρου επί των πωλήσεων. Σταματά στο 2013."
+  },
+  "connects": [
+    {"book": "made-in-america", "note": {"en": "Bezos borrowed Sam Walton's frugality and bias for action; Walton's own book shows where those ideas came from.", "el": "Ο Μπέζος δανείστηκε από τον Σαμ Γουόλτον τη λιτότητα και την προτίμηση στη δράση· το βιβλίο του ίδιου του Γουόλτον δείχνει από πού ήρθαν αυτές οι ιδέες."}},
+    {"book": "be-2-0", "note": {"en": "Jim Collins, co-author of BE 2.0, helped inspire the flywheel that Bezos's team drew in 2001.", "el": "Ο Τζιμ Κόλινς, συν-συγγραφέας του BE 2.0, ενέπνευσε τον σφόνδυλο που σχεδίασε η ομάδα του Μπέζος το 2001."}},
+    {"book": "steve-jobs", "note": {"en": "Jobs and Bezos were both demanding perfectionists, but Jobs obsessed over the product's beauty and Bezos over the customer's price and convenience.", "el": "Ο Jobs και ο Μπέζος ήταν και οι δύο απαιτητικοί τελειομανείς, αλλά ο Jobs είχε εμμονή με την ομορφιά του προϊόντος και ο Μπέζος με την τιμή και την ευκολία του πελάτη."}}
+  ]
+}

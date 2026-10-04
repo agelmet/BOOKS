@@ -1,0 +1,576 @@
+{
+  "id": "shoe-dog",
+  "title": {"en": "Shoe Dog", "el": "Shoe Dog: Τα απομνημονεύματα του δημιουργού της Nike"},
+  "author": "Phil Knight",
+  "authorEl": "Φιλ Νάιτ",
+  "year": 2016,
+  "shelf": "founders",
+  "skills": {"leadership": 3, "strategy": 2, "mindset": 2},
+  "oneLine": {
+    "en": "Phil Knight's honest story of how a broke runner with a crazy idea built Nike, surviving cash crises, a supplier who turned against him and a huge government bill.",
+    "el": "Η ειλικρινής ιστορία του Φιλ Νάιτ: πώς ένας απένταρος δρομέας με μια τρελή ιδέα έχτισε τη Nike, περνώντας από κρίσεις ρευστότητας, έναν προμηθευτή που στράφηκε εναντίον του και έναν τεράστιο λογαριασμό από το κράτος."
+  },
+  "story": {
+    "en": "Phil Knight founded Nike and led it for decades, but he rarely talked in public about himself. In 2016, at 78, he published this memoir of the early years, from his 1962 trip to Japan to the company's stock market listing in 1980. It reads like a novel: funny, anxious and full of doubt. Founders love it because it shows how messy, scary and close to failure a famous success really was.",
+    "el": "Ο Φιλ Νάιτ ίδρυσε τη Nike και την οδήγησε για δεκαετίες, αλλά σπάνια μιλούσε δημόσια για τον εαυτό του. Το 2016, στα 78 του, έβγαλε αυτά τα απομνημονεύματα για τα πρώτα χρόνια, από το ταξίδι του στην Ιαπωνία το 1962 μέχρι την είσοδο της εταιρείας στο χρηματιστήριο το 1980. Διαβάζεται σαν μυθιστόρημα: αστείο, αγχωμένο, γεμάτο αμφιβολίες. Οι ιδρυτές το λατρεύουν γιατί δείχνει πόσο χαοτική, τρομακτική και κοντά στην αποτυχία ήταν μια διάσημη επιτυχία."
+  },
+  "forYou": {
+    "en": "You are where Knight was in the 1960s: a small team, little cash, big ambition, selling something you believe in to people who have never heard of you. Shoe Dog shows how to survive months when cash runs short, keep a team of misfits together, deal with suppliers and banks, and keep going when every month feels like the last.",
+    "el": "Είσαι εκεί που ήταν ο Νάιτ τη δεκαετία του '60: μικρή ομάδα, λίγα λεφτά, μεγάλη φιλοδοξία, και πουλάς κάτι που πιστεύεις σε ανθρώπους που δεν σε έχουν ξανακούσει. Το Shoe Dog σου δείχνει πώς βγαίνεις από μήνες που τα λεφτά δεν φτάνουν, πώς κρατάς ενωμένη μια ομάδα από «αταίριαστους», πώς χειρίζεσαι προμηθευτές και τράπεζες, και πώς συνεχίζεις όταν κάθε μήνας μοιάζει με τον τελευταίο."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Write down the crazy idea", "el": "Γράψε την τρελή ιδέα"},
+      "explain": {
+        "en": "At 24 Knight had a business degree from Stanford and no plan, except one odd belief: good, cheap Japanese running shoes could beat the German brands. He did not wait for the idea to look sensible or for anyone's permission. He decided he would rather fail at his own idea than live a life he had not chosen. The lesson: name your idea clearly, then commit before you feel ready.",
+        "el": "Στα 24 του ο Νάιτ είχε πτυχίο διοίκησης από το Stanford και κανένα σχέδιο, εκτός από μια παράξενη πεποίθηση: καλά και φτηνά ιαπωνικά παπούτσια τρεξίματος μπορούσαν να νικήσουν τις γερμανικές μάρκες. Δεν περίμενε να φανεί λογική η ιδέα ούτε να του δώσει κάποιος την άδεια. Αποφάσισε ότι προτιμά να αποτύχει με τη δική του ιδέα παρά να ζήσει μια ζωή που δεν διάλεξε. Το μάθημα: πες την ιδέα σου καθαρά και δεσμεύσου πριν νιώσεις έτοιμος."
+      },
+      "example": {
+        "en": "At Stanford Knight wrote a class paper asking whether Japanese sports shoes could do to German sports shoes what Japanese cameras had done to German cameras. He could not stop thinking about it. On a morning run in 1962 he decided to act on it and travel to Japan.",
+        "el": "Στο Stanford ο Νάιτ έγραψε μια εργασία για ένα μάθημα με το ερώτημα αν τα ιαπωνικά αθλητικά παπούτσια θα έκαναν στα γερμανικά ό,τι είχαν κάνει οι ιαπωνικές φωτογραφικές μηχανές στις γερμανικές. Δεν μπορούσε να το βγάλει από το μυαλό του. Ένα πρωί του 1962, ενώ έτρεχε, αποφάσισε να το κάνει πράξη και να ταξιδέψει στην Ιαπωνία."
+      },
+      "apply": {
+        "en": "Write your crazy idea for Advon in one sentence, for example: «Every Greek doctor can have a modern site, because the build costs 0€.» Stick it above your desk. When a day of cold calls goes badly, read it once and make the next call.",
+        "el": "Γράψε την τρελή σου ιδέα για την Advon σε μία πρόταση, για παράδειγμα: «Κάθε Έλληνας γιατρός μπορεί να έχει μοντέρνα ιστοσελίδα, γιατί η κατασκευή κοστίζει 0€.» Κόλλησέ την πάνω από το γραφείο σου. Όταν μια μέρα με cold calls πάει άσχημα, διάβασέ την μία φορά και κάνε το επόμενο τηλέφωνο."
+      },
+      "check": {
+        "q": {"en": "What did Knight do with his crazy idea?", "el": "Τι έκανε ο Νάιτ με την τρελή του ιδέα;"},
+        "options": [
+          {"en": "Waited until it looked safe and proven", "el": "Περίμενε να φανεί ασφαλής και δοκιμασμένη"},
+          {"en": "Stated it clearly and acted on it", "el": "Τη διατύπωσε καθαρά και την έκανε πράξη"},
+          {"en": "Sold it to a bigger shoe company", "el": "Την πούλησε σε μια μεγαλύτερη εταιρεία"}
+        ],
+        "answer": 1,
+        "why": {"en": "He put the idea into words and committed to it, long before it looked sensible to anyone else.", "el": "Έβαλε την ιδέα σε λέξεις και δεσμεύτηκε σε αυτή, πολύ πριν φανεί λογική σε οποιονδήποτε άλλο."}
+      }
+    },
+    {
+      "title": {"en": "Show up and ask", "el": "Πήγαινε και ζήτα το"},
+      "explain": {
+        "en": "Knight flew to Japan with little money and no company, walked into the shoe maker Onitsuka and asked to sell their Tiger shoes in America. He even invented a company name on the spot, a bluff the book admits. The bluff is not the lesson. The lesson is that he went in person and asked clearly for what he wanted, which most people never do.",
+        "el": "Ο Νάιτ πέταξε στην Ιαπωνία με λίγα λεφτά και χωρίς εταιρεία, μπήκε στα γραφεία της Onitsuka, που έφτιαχνε τα παπούτσια Tiger, και ζήτησε να τα πουλάει στην Αμερική. Επινόησε μάλιστα επί τόπου όνομα εταιρείας, μια μπλόφα που το βιβλίο παραδέχεται. Το μάθημα δεν είναι η μπλόφα. Είναι ότι πήγε ο ίδιος, από κοντά, και ζήτησε καθαρά αυτό που ήθελε, κάτι που οι περισσότεροι δεν κάνουν ποτέ."
+      },
+      "example": {
+        "en": "In Kobe, in late 1962, the Onitsuka managers asked which company he represented. Knight remembered the blue ribbons from his races on his bedroom wall and answered «Blue Ribbon Sports of Portland, Oregon». He left with a promise of sample shoes and a door open to the American market.",
+        "el": "Στο Κόμπε, στα τέλη του 1962, τα στελέχη της Onitsuka τον ρώτησαν ποια εταιρεία εκπροσωπεί. Ο Νάιτ θυμήθηκε τις μπλε κορδέλες από τους αγώνες του, κρεμασμένες στον τοίχο του δωματίου του, και απάντησε «Blue Ribbon Sports, από το Πόρτλαντ του Όρεγκον». Έφυγε με υπόσχεση για δείγματα και μια πόρτα ανοιχτή στην αμερικανική αγορά."
+      },
+      "apply": {
+        "en": "For the client you really want, a big clinic for example, stop sending emails. Call and say: «I'll be in your area on Thursday, can I stop by for ten minutes to show you what your site could look like?» Then go, show it on your laptop and ask clearly for the yes.",
+        "el": "Για τον πελάτη που θέλεις πραγματικά, μια μεγάλη κλινική για παράδειγμα, σταμάτα τα email. Πάρε τηλέφωνο και πες: «Θα είμαι στην περιοχή σας την Πέμπτη, μπορώ να περάσω δέκα λεπτά να σας δείξω πώς θα μπορούσε να είναι η ιστοσελίδα σας;» Μετά πήγαινε, δείξ' το στο laptop και ζήτα καθαρά το «ναι»."
+      },
+      "check": {
+        "q": {"en": "What is the real lesson of the Kobe meeting?", "el": "Ποιο είναι το πραγματικό μάθημα της συνάντησης στο Κόμπε;"},
+        "options": [
+          {"en": "Exaggerate your company's size", "el": "Να μεγαλοποιείς το μέγεθος της εταιρείας σου"},
+          {"en": "Always prepare a company name first", "el": "Να έχεις πάντα έτοιμο όνομα εταιρείας"},
+          {"en": "Go in person and ask clearly", "el": "Να πηγαίνεις ο ίδιος και να ζητάς καθαρά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Being in the room and asking directly opened the door; the bluff was luck, not method.", "el": "Το ότι ήταν εκεί και ζήτησε ευθέως άνοιξε την πόρτα· η μπλόφα ήταν τύχη, όχι μέθοδος."}
+      }
+    },
+    {
+      "title": {"en": "Sell only what you believe", "el": "Πούλα μόνο ό,τι πιστεύεις"},
+      "explain": {
+        "en": "Before shoes, Knight tried selling encyclopedias door to door and was bad at it. Selling investment funds felt just as empty. Shoes were different: he was a runner and truly believed running made people better. With Tigers he was not pushing anyone, he was sharing something he loved. Belief is not a sales trick. It is what makes your voice sound honest.",
+        "el": "Πριν από τα παπούτσια, ο Νάιτ δοκίμασε να πουλάει εγκυκλοπαίδειες πόρτα πόρτα και ήταν κακός σε αυτό. Και τα επενδυτικά προϊόντα που πούλησε τού φαίνονταν εξίσου άδεια. Τα παπούτσια ήταν άλλη ιστορία: ήταν δρομέας και πίστευε στ' αλήθεια ότι το τρέξιμο κάνει τους ανθρώπους καλύτερους. Με τα Tiger δεν πίεζε κανέναν, μοιραζόταν κάτι που αγαπούσε. Η πίστη δεν είναι κόλπο πωλήσεων. Είναι αυτό που κάνει τη φωνή σου να ακούγεται ειλικρινής."
+      },
+      "example": {
+        "en": "When the first samples arrived, Knight drove to track meets around the Pacific Northwest and sold shoes from the trunk of his car to runners and coaches. They bought because he talked to them as a fellow runner who knew what hurt their feet. His first shipment sold out quickly.",
+        "el": "Όταν έφτασαν τα πρώτα δείγματα, ο Νάιτ γύριζε με το αυτοκίνητο σε αγώνες στίβου στη βορειοδυτική Αμερική και πουλούσε παπούτσια από το πορτμπαγκάζ σε δρομείς και προπονητές. Αγόραζαν γιατί τους μιλούσε σαν συναθλητής που ήξερε τι πονάει στα πόδια τους. Η πρώτη του παραλαβή πουλήθηκε γρήγορα."
+      },
+      "apply": {
+        "en": "Before your next calls, write three reasons you truly believe a modern site helps a dentist, taken from results you have actually seen. Speak from those, not from a script. If you would not recommend an extra to your own family, do not offer it to a client.",
+        "el": "Πριν από τα επόμενα τηλέφωνα, γράψε τρεις λόγους για τους οποίους πιστεύεις αληθινά ότι μια μοντέρνα ιστοσελίδα βοηθά έναν οδοντίατρο, από αποτελέσματα που έχεις δει με τα μάτια σου. Μίλα από αυτούς, όχι από σενάριο. Αν δεν θα πρότεινες κάτι επιπλέον στην οικογένειά σου, μην το προτείνεις ούτε σε πελάτη."
+      },
+      "check": {
+        "q": {"en": "Why did Knight sell shoes well but encyclopedias badly?", "el": "Γιατί ο Νάιτ πουλούσε καλά παπούτσια αλλά άσχημα εγκυκλοπαίδειες;"},
+        "options": [
+          {"en": "He believed in running and in the shoes", "el": "Πίστευε στο τρέξιμο και στα παπούτσια"},
+          {"en": "Shoes were cheaper than books", "el": "Τα παπούτσια ήταν φτηνότερα από τα βιβλία"},
+          {"en": "He had learned a better sales script", "el": "Είχε μάθει ένα καλύτερο σενάριο πωλήσεων"}
+        ],
+        "answer": 0,
+        "why": {"en": "His real belief made him sound honest, so runners trusted him.", "el": "Η αληθινή του πίστη τον έκανε να ακούγεται ειλικρινής, γι' αυτό οι δρομείς τον εμπιστεύονταν."}
+      }
+    },
+    {
+      "title": {"en": "Partner with your opposite", "el": "Συνεργάσου με το αντίθετό σου"},
+      "explain": {
+        "en": "Knight was shy, good with numbers and full of business ideas. His old university running coach, Bill Bowerman, was gruff, inventive and obsessed with making his runners faster. Together they covered each other's gaps: Knight handled money and selling, Bowerman the product and the athletes. A good partner does not copy you. He brings what you lack, and you trust each other.",
+        "el": "Ο Νάιτ ήταν ντροπαλός, καλός με τους αριθμούς και γεμάτος επιχειρηματικές ιδέες. Ο παλιός του προπονητής στο πανεπιστήμιο, ο Μπιλ Μπάουερμαν, ήταν απότομος, εφευρετικός και είχε εμμονή να κάνει τους δρομείς του πιο γρήγορους. Μαζί κάλυπταν ο ένας τα κενά του άλλου: ο Νάιτ τα οικονομικά και τις πωλήσεις, ο Μπάουερμαν το προϊόν και τους αθλητές. Ένας καλός συνεργάτης δεν σε αντιγράφει. Φέρνει ό,τι σου λείπει, και εμπιστεύεστε ο ένας τον άλλον."
+      },
+      "example": {
+        "en": "Knight sent sample Tigers to Bowerman. Over lunch in 1964 Bowerman asked to become his partner. They shook hands and each put in 500 dollars. Bowerman then took shoes apart, rebuilt them and sent Onitsuka long notes on how to make them better for runners.",
+        "el": "Ο Νάιτ έστειλε δείγματα Tiger στον Μπάουερμαν. Σε ένα μεσημεριανό το 1964, ο Μπάουερμαν ζήτησε να γίνει συνέταιρός του. Έδωσαν τα χέρια και έβαλε ο καθένας 500 δολάρια. Από εκεί και πέρα ο Μπάουερμαν ξήλωνε παπούτσια, τα ξανάφτιαχνε και έστελνε στην Onitsuka σελίδες με σημειώσεις για το πώς να γίνουν καλύτερα για τους δρομείς."
+      },
+      "apply": {
+        "en": "List what you are weak at or avoid: maybe design details, bookkeeping or chasing payments. Look for one person who enjoys exactly that. Start small: one clear task, agreed in a short email, then let trust grow.",
+        "el": "Γράψε σε τι είσαι αδύναμος ή τι αποφεύγεις: ίσως τις λεπτομέρειες του σχεδιασμού, τα λογιστικά ή το κυνήγι πληρωμών. Ψάξε έναν άνθρωπο που του αρέσει ακριβώς αυτό. Ξεκίνα μικρά: μία καθαρή δουλειά, συμφωνημένη σε ένα σύντομο email, και άσε την εμπιστοσύνη να μεγαλώσει."
+      },
+      "check": {
+        "q": {"en": "What made the Knight and Bowerman partnership work?", "el": "Τι έκανε τη συνεργασία Νάιτ και Μπάουερμαν να λειτουργεί;"},
+        "options": [
+          {"en": "Each brought skills the other lacked", "el": "Ο καθένας έφερνε ό,τι έλειπε στον άλλον"},
+          {"en": "They had very similar personalities", "el": "Είχαν πολύ παρόμοιους χαρακτήρες"},
+          {"en": "Bowerman put in most of the money", "el": "Ο Μπάουερμαν έβαλε τα περισσότερα λεφτά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Knight ran money and sales, Bowerman the product and athletes; they filled each other's gaps.", "el": "Ο Νάιτ είχε τα οικονομικά και τις πωλήσεις, ο Μπάουερμαν το προϊόν και τους αθλητές· γέμιζαν ο ένας τα κενά του άλλου."}
+      }
+    },
+    {
+      "title": {"en": "Hire believers", "el": "Πάρε ανθρώπους που πιστεύουν"},
+      "explain": {
+        "en": "Knight's first full-time salesman, Jeff Johnson, was a runner who believed in the shoes like a missionary. He worked in his own odd way and flooded Knight with long letters, which Knight rarely answered. Knight learned that passion on the front line beats a perfect plan from the office. People who truly care about customers invent things you would never think of.",
+        "el": "Ο πρώτος πωλητής πλήρους απασχόλησης του Νάιτ, ο Τζεφ Τζόνσον, ήταν δρομέας και πίστευε στα παπούτσια σαν ιεραπόστολος. Δούλευε με τον δικό του παράξενο τρόπο και βομβάρδιζε τον Νάιτ με μακροσκελή γράμματα, που ο Νάιτ σπάνια απαντούσε. Ο Νάιτ έμαθε ότι το πάθος στην πρώτη γραμμή νικά ένα τέλειο σχέδιο από το γραφείο. Όσοι νοιάζονται αληθινά για τους πελάτες σκέφτονται πράγματα που εσύ δεν θα σκεφτόσουν ποτέ."
+      },
+      "example": {
+        "en": "Johnson kept a card for every customer with their shoe size and other details, and sent them birthday cards. In 1966 he opened Blue Ribbon's first store, in Santa Monica, and turned it into a meeting place for runners. Years later he also came up with the name Nike.",
+        "el": "Ο Τζόνσον κρατούσε μια καρτέλα για κάθε πελάτη με το νούμερο του παπουτσιού και άλλες λεπτομέρειες, και του έστελνε κάρτα στα γενέθλιά του. Το 1966 άνοιξε το πρώτο κατάστημα της Blue Ribbon, στη Σάντα Μόνικα, και το έκανε στέκι για δρομείς. Χρόνια αργότερα σκέφτηκε και το όνομα Nike."
+      },
+      "apply": {
+        "en": "When you hire your first salesperson or assistant, look first for someone who truly likes small businesses and talking to people. Give them a group of clients to look after, not a script, and let them try their own ideas for a month before you judge.",
+        "el": "Όταν πάρεις τον πρώτο σου πωλητή ή βοηθό, ψάξε πρώτα κάποιον που του αρέσουν αληθινά οι μικρές επιχειρήσεις και η κουβέντα με ανθρώπους. Δώσ' του μια ομάδα πελατών να φροντίζει, όχι σενάριο, και άφησέ τον να δοκιμάσει τις δικές του ιδέες για έναν μήνα πριν τον κρίνεις."
+      },
+      "check": {
+        "q": {"en": "What does Johnson's customer card file show?", "el": "Τι δείχνει το αρχείο με τις καρτέλες πελατών του Τζόνσον;"},
+        "options": [
+          {"en": "Paperwork wastes a salesman's time", "el": "Τα χαρτιά τρώνε τον χρόνο του πωλητή"},
+          {"en": "Real care for each customer drives sales", "el": "Η αληθινή φροντίδα για κάθε πελάτη φέρνει πωλήσεις"},
+          {"en": "Birthday cards are a cheap trick", "el": "Οι κάρτες γενεθλίων είναι φτηνό κόλπο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Johnson cared about each runner, and that care turned customers into loyal fans.", "el": "Ο Τζόνσον νοιαζόταν για κάθε δρομέα, και αυτή η φροντίδα έκανε τους πελάτες πιστούς οπαδούς."}
+      }
+    },
+    {
+      "title": {"en": "Tell them what, not how", "el": "Πες τι, όχι πώς"},
+      "explain": {
+        "en": "Knight was not a hands-on boss. He liked a line attributed to General Patton: tell people what to do, not how to do it, and let them surprise you with the results. He gave young people big jobs early, let them make mistakes and rarely praised or scolded. They grew because they had to. His own job was to set the goal and keep the cash coming.",
+        "el": "Ο Νάιτ δεν ήταν αφεντικό που ανακατευόταν σε όλα. Του άρεσε μια φράση που αποδίδεται στον στρατηγό Πάτον: πες στους ανθρώπους τι να κάνουν, όχι πώς, και άφησέ τους να σε εκπλήξουν με τα αποτελέσματα. Έδινε σε νέους ανθρώπους μεγάλες ευθύνες νωρίς, τους άφηνε να κάνουν λάθη και σπάνια επαινούσε ή μάλωνε. Μεγάλωναν γιατί έπρεπε. Η δική του δουλειά ήταν να βάζει τον στόχο και να φέρνει τα λεφτά."
+      },
+      "example": {
+        "en": "Bob Woodell, a young athlete who used a wheelchair after an accident, was hired to run a store, then trusted with the company's operations. Knight did not stand over him. Woodell grew into one of the key people who built the company in the 1970s.",
+        "el": "Ο Μπομπ Γούντελ, ένας νεαρός αθλητής που μετά από ένα ατύχημα κινούνταν με αναπηρικό αμαξίδιο, προσλήφθηκε για να τρέχει ένα κατάστημα και μετά ανέλαβε όλη τη λειτουργία της εταιρείας. Ο Νάιτ δεν στεκόταν από πάνω του. Ο Γούντελ έγινε ένας από τους βασικούς ανθρώπους που έχτισαν την εταιρεία τη δεκαετία του '70."
+      },
+      "apply": {
+        "en": "Next time you hand out a task, write only the result and the deadline: «Two hero options for the dentist's site by Thursday, checked on phone first.» Do not dictate fonts or colours. Review the result, give one clear comment, and let your team surprise you.",
+        "el": "Την επόμενη φορά που δίνεις μια δουλειά, γράψε μόνο το αποτέλεσμα και την προθεσμία: «Δύο προτάσεις για το hero του οδοντιάτρου μέχρι την Πέμπτη, ελεγμένες πρώτα στο κινητό.» Μην υπαγορεύεις γραμματοσειρές και χρώματα. Δες το αποτέλεσμα, δώσε ένα καθαρό σχόλιο και άφησε την ομάδα σου να σε εκπλήξει."
+      },
+      "check": {
+        "q": {"en": "How did Knight manage his people?", "el": "Πώς διοικούσε ο Νάιτ τους ανθρώπους του;"},
+        "options": [
+          {"en": "He checked every step they took", "el": "Έλεγχε κάθε βήμα τους"},
+          {"en": "He did the important tasks himself", "el": "Έκανε ο ίδιος τις σημαντικές δουλειές"},
+          {"en": "He set the goal and left the method to them", "el": "Έβαζε τον στόχο και τους άφηνε τον τρόπο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Following the Patton idea, he said what was needed and trusted people to find how.", "el": "Ακολουθώντας την ιδέα του Πάτον, έλεγε τι χρειάζεται και εμπιστευόταν τους ανθρώπους να βρουν το πώς."}
+      }
+    },
+    {
+      "title": {"en": "Keep a day job while you grow", "el": "Κράτα σταθερό εισόδημα όσο μεγαλώνεις"},
+      "explain": {
+        "en": "For years Knight did not live from Blue Ribbon. He worked as an accountant and then taught accounting at Portland State University, and ran the shoe business at night and on weekends. Every dollar of profit went back into more shoes. A steady income bought him time and calm. He left his job only when the business could carry him.",
+        "el": "Για χρόνια ο Νάιτ δεν ζούσε από την Blue Ribbon. Δούλευε λογιστής και μετά δίδασκε λογιστική στο Πανεπιστήμιο του Πόρτλαντ, και έτρεχε την εταιρεία με τα παπούτσια βράδια και Σαββατοκύριακα. Κάθε δολάριο κέρδους ξαναγινόταν παπούτσια. Το σταθερό εισόδημα τού αγόραζε χρόνο και ηρεμία. Άφησε τη δουλειά του μόνο όταν η εταιρεία μπορούσε πια να τον σηκώσει."
+      },
+      "example": {
+        "en": "Knight worked at accounting firms, including Price Waterhouse, before teaching at Portland State. There he met Penelope Parks, a student in his class, who later became his wife and helped in the company's early days. Teaching paid the rent while the shoes took every spare hour.",
+        "el": "Ο Νάιτ δούλεψε σε λογιστικές εταιρείες, ανάμεσά τους η Price Waterhouse, πριν διδάξει στο Πανεπιστήμιο του Πόρτλαντ. Εκεί γνώρισε την Πενέλοπι Παρκς, φοιτήτρια στο μάθημά του, που αργότερα έγινε γυναίκα του και βοήθησε στα πρώτα βήματα της εταιρείας. Η διδασκαλία πλήρωνε το νοίκι, τα παπούτσια έπαιρναν κάθε ελεύθερη ώρα."
+      },
+      "apply": {
+        "en": "Treat your yearly hosting renewals as your day job: protect them first. Fund new ideas, like a directory or an app, from that steady income, not from loans. Give each side project a fixed slot, for example two evenings a week, and never let it eat your sales hours.",
+        "el": "Αντιμετώπισε τις ετήσιες ανανεώσεις φιλοξενίας σαν τον μισθό σου: τις προστατεύεις πρώτα. Χρηματοδότησε τις νέες ιδέες, έναν κατάλογο ή μια εφαρμογή, από αυτό το σταθερό εισόδημα, όχι με δάνεια. Δώσε σε κάθε παράπλευρο project συγκεκριμένη ώρα, για παράδειγμα δύο βράδια την εβδομάδα, και μην το αφήνεις να τρώει τις ώρες των πωλήσεων."
+      },
+      "check": {
+        "q": {"en": "Why did Knight keep working as an accountant and teacher?", "el": "Γιατί ο Νάιτ συνέχισε να δουλεύει λογιστής και καθηγητής;"},
+        "options": [
+          {"en": "He enjoyed accounting more than shoes", "el": "Του άρεσε η λογιστική περισσότερο από τα παπούτσια"},
+          {"en": "It paid his life while all profit went into growth", "el": "Πλήρωνε τη ζωή του ενώ όλο το κέρδος πήγαινε στην ανάπτυξη"},
+          {"en": "His bank required it for any loan", "el": "Η τράπεζα το απαιτούσε για κάθε δάνειο"}
+        ],
+        "answer": 1,
+        "why": {"en": "A steady salary let him put every dollar back into the business without panic.", "el": "Ο σταθερός μισθός τού επέτρεπε να ξαναβάζει κάθε δολάριο στην εταιρεία χωρίς πανικό."}
+      }
+    },
+    {
+      "title": {"en": "Growth eats cash", "el": "Η ανάπτυξη τρώει μετρητά"},
+      "explain": {
+        "en": "Blue Ribbon's sales roughly doubled every year, yet Knight was always short of money. He had to pay for each new order of shoes before the last one was sold, so faster growth meant more money stuck in boxes. His bankers wanted him to slow down. Knight believed a company must grow or die. The lesson: profit on paper is not money in the bank.",
+        "el": "Οι πωλήσεις της Blue Ribbon σχεδόν διπλασιάζονταν κάθε χρόνο, κι όμως ο Νάιτ ήταν πάντα στο όριο. Έπρεπε να πληρώσει κάθε νέα παραγγελία παπουτσιών πριν πουληθεί η προηγούμενη, άρα όσο πιο γρήγορα μεγάλωνε, τόσο περισσότερα λεφτά έμεναν κλεισμένα σε κούτες. Οι τραπεζίτες του ήθελαν να κόψει ταχύτητα. Ο Νάιτ πίστευε ότι μια εταιρεία ή μεγαλώνει ή πεθαίνει. Το μάθημα: το κέρδος στα χαρτιά δεν είναι λεφτά στην τράπεζα."
+      },
+      "example": {
+        "en": "His bankers kept telling him to grow slower and keep more cash. He kept ordering bigger shipments from Japan anyway. In 1975 his bank stopped working with him and froze his accounts because he had promised payments he could not cover. The company came within days of dying.",
+        "el": "Οι τραπεζίτες του τού έλεγαν συνέχεια να μεγαλώνει πιο αργά και να κρατά περισσότερα μετρητά. Εκείνος παρήγγελνε όλο και μεγαλύτερα φορτία από την Ιαπωνία. Το 1975 η τράπεζά του σταμάτησε τη συνεργασία και πάγωσε τους λογαριασμούς του, γιατί είχε υποσχεθεί πληρωμές που δεν μπορούσε να καλύψει. Η εταιρεία βρέθηκε μια ανάσα από το τέλος."
+      },
+      "apply": {
+        "en": "Every Monday write three numbers: cash in the bank, money clients owe you, and costs due this month. Before you add a paid tool or a freelancer, check you can pay it for three months even if renewals come late. Chase every late payment the same week.",
+        "el": "Κάθε Δευτέρα γράψε τρία νούμερα: μετρητά στην τράπεζα, λεφτά που σου χρωστούν οι πελάτες, και έξοδα που λήγουν αυτόν τον μήνα. Πριν πάρεις ένα συνδρομητικό εργαλείο ή έναν freelancer, έλεγξε ότι μπορείς να τον πληρώνεις τρεις μήνες ακόμα κι αν οι ανανεώσεις αργήσουν. Κυνήγα κάθε καθυστερημένη πληρωμή την ίδια εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "Why was Blue Ribbon always short of cash?", "el": "Γιατί η Blue Ribbon ήταν πάντα στο όριο με τα μετρητά;"},
+        "options": [
+          {"en": "It paid for stock before selling it, and grew fast", "el": "Πλήρωνε το εμπόρευμα πριν το πουλήσει, και μεγάλωνε γρήγορα"},
+          {"en": "Its sales were falling every year", "el": "Οι πωλήσεις έπεφταν κάθε χρόνο"},
+          {"en": "Knight spent the profits on himself", "el": "Ο Νάιτ ξόδευε τα κέρδη για τον εαυτό του"}
+        ],
+        "answer": 0,
+        "why": {"en": "Fast growth tied more and more money up in shoes not yet sold.", "el": "Η γρήγορη ανάπτυξη κλείδωνε όλο και περισσότερα λεφτά σε παπούτσια που δεν είχαν πουληθεί ακόμα."}
+      }
+    },
+    {
+      "title": {"en": "Never let one partner own you", "el": "Μην κρέμεσαι από έναν"},
+      "explain": {
+        "en": "Blue Ribbon depended on one supplier, Onitsuka. When Onitsuka grew unhappy and started talking to other American distributors, Knight saw he could lose everything overnight. He quietly found other factories and prepared his own brand. The lesson: if one client, supplier or platform can switch you off, build a second path before you need it.",
+        "el": "Η Blue Ribbon εξαρτιόταν από έναν μόνο προμηθευτή, την Onitsuka. Όταν η Onitsuka άρχισε να δυσαρεστείται και να μιλά με άλλους διανομείς στην Αμερική, ο Νάιτ κατάλαβε ότι μπορούσε να χάσει τα πάντα από τη μια μέρα στην άλλη. Βρήκε αθόρυβα άλλα εργοστάσια και ετοίμασε δική του μάρκα. Το μάθημα: αν ένας πελάτης, προμηθευτής ή πλατφόρμα μπορεί να σε «σβήσει», φτιάξε δεύτερο δρόμο πριν τον χρειαστείς."
+      },
+      "example": {
+        "en": "In 1971 Knight peeked into the briefcase of a visiting Onitsuka manager and found a list of other American distributors the company was courting. With financing and help from the Japanese trading company Nissho Iwai, he arranged new factories. In 1972 the two companies split, and Blue Ribbon launched its own shoes: Nike.",
+        "el": "Το 1971 ο Νάιτ κοίταξε κρυφά στον χαρτοφύλακα ενός στελέχους της Onitsuka που τον επισκεπτόταν και βρήκε λίστα με άλλους Αμερικανούς διανομείς που η εταιρεία φλέρταρε. Με χρηματοδότηση και βοήθεια από την ιαπωνική εμπορική εταιρεία Nissho Iwai, κανόνισε νέα εργοστάσια. Το 1972 οι δύο εταιρείες χώρισαν και η Blue Ribbon έβγαλε τα δικά της παπούτσια: τα Nike."
+      },
+      "apply": {
+        "en": "Do not let one channel bring all your clients. If most come from Meta ads, keep a weekly cold-call block; if most come from calls, test one small ad. Keep every domain, repo and login in accounts you own, so no single tool or person can lock you out.",
+        "el": "Μην αφήνεις ένα κανάλι να φέρνει όλους τους πελάτες. Αν οι περισσότεροι έρχονται από τις διαφημίσεις στο Meta, κράτα κάθε εβδομάδα ένα μπλοκ για cold calls· αν έρχονται από τα τηλέφωνα, δοκίμασε μια μικρή διαφήμιση. Κράτα κάθε domain, repo και κωδικό σε λογαριασμούς δικούς σου, ώστε κανένα εργαλείο και κανένας άνθρωπος να μη μπορεί να σε κλειδώσει έξω."
+      },
+      "check": {
+        "q": {"en": "What did the Onitsuka split teach Knight?", "el": "Τι δίδαξε στον Νάιτ ο χωρισμός με την Onitsuka;"},
+        "options": [
+          {"en": "Always sign longer contracts", "el": "Να υπογράφεις πάντα μεγαλύτερα συμβόλαια"},
+          {"en": "Never work with foreign suppliers", "el": "Να μη δουλεύεις ποτέ με ξένους προμηθευτές"},
+          {"en": "Build a second path before one partner can sink you", "el": "Να φτιάχνεις δεύτερο δρόμο πριν σε βουλιάξει ένας συνεργάτης"}
+        ],
+        "answer": 2,
+        "why": {"en": "Depending on one supplier nearly killed him, so he built his own brand and factories.", "el": "Η εξάρτηση από έναν προμηθευτή παραλίγο να τον τελειώσει, γι' αυτό έφτιαξε δική του μάρκα και εργοστάσια."}
+      }
+    },
+    {
+      "title": {"en": "The name does not need love", "el": "Το όνομα δεν χρειάζεται έρωτα"},
+      "explain": {
+        "en": "The two symbols of the world's biggest sports brand were chosen in a hurry, and Knight did not like either at first. A deadline forced the choice. The brand gained its meaning later, from the shoes, the athletes and the years. Do not stall a launch waiting for the perfect name, logo or colour. Meaning comes from what you do with it.",
+        "el": "Τα δύο σύμβολα της μεγαλύτερης αθλητικής μάρκας του κόσμου διαλέχτηκαν βιαστικά, και στην αρχή ο Νάιτ δεν ενθουσιάστηκε με κανένα. Μια προθεσμία έκανε την επιλογή. Η μάρκα απέκτησε νόημα αργότερα, από τα παπούτσια, τους αθλητές και τα χρόνια. Μην παγώνεις ένα λανσάρισμα περιμένοντας το τέλειο όνομα, λογότυπο ή χρώμα. Το νόημα το δίνει αυτό που κάνεις."
+      },
+      "example": {
+        "en": "In 1971 Carolyn Davidson, a design student, drew the swoosh for 35 dollars. Knight said he did not love it, but maybe it would grow on him. Soon after, with a deadline to give the factory a name, Jeff Johnson suggested Nike, the Greek goddess of victory, after a dream. Knight's own idea had been Dimension Six.",
+        "el": "Το 1971 η Κάρολιν Ντέιβιντσον, φοιτήτρια γραφιστικής, σχεδίασε το swoosh για 35 δολάρια. Ο Νάιτ είπε ότι δεν το λατρεύει, αλλά ίσως να το συνηθίσει. Λίγο μετά, με προθεσμία να δώσουν όνομα στο εργοστάσιο, ο Τζεφ Τζόνσον πρότεινε τη Νίκη, τη θεά της νίκης, μετά από ένα όνειρο. Η ιδέα του ίδιου του Νάιτ ήταν «Dimension Six»."
+      },
+      "apply": {
+        "en": "When you start something new, like a reel series, a service page or a side project, give yourself one hour to pick the name and one day for the logo. Then launch. Judge it after three months of real use, not after three nights of doubt.",
+        "el": "Όταν ξεκινάς κάτι νέο, μια σειρά από reels, μια σελίδα υπηρεσίας ή ένα παράπλευρο project, δώσε στον εαυτό σου μία ώρα για το όνομα και μία μέρα για το λογότυπο. Μετά βγες στον αέρα. Κρίνε το μετά από τρεις μήνες πραγματικής χρήσης, όχι μετά από τρία βράδια αμφιβολίας."
+      },
+      "check": {
+        "q": {"en": "How were the Nike name and swoosh chosen?", "el": "Πώς διαλέχτηκαν το όνομα Nike και το swoosh;"},
+        "options": [
+          {"en": "After months of market research", "el": "Μετά από μήνες έρευνας αγοράς"},
+          {"en": "Fast, under a deadline, without much love", "el": "Γρήγορα, με προθεσμία, χωρίς μεγάλο ενθουσιασμό"},
+          {"en": "By a famous design agency", "el": "Από ένα διάσημο γραφείο σχεδιασμού"}
+        ],
+        "answer": 1,
+        "why": {"en": "Both were picked quickly and only gained meaning later through the company's work.", "el": "Και τα δύο διαλέχτηκαν γρήγορα και απέκτησαν νόημα αργότερα, μέσα από τη δουλειά της εταιρείας."}
+      }
+    },
+    {
+      "title": {"en": "Invent from the user's pain", "el": "Εφεύρεση από τον πόνο του χρήστη"},
+      "explain": {
+        "en": "Bowerman did not invent for fun. He watched his runners, saw what slowed them down or hurt them, and attacked that exact problem: weight, grip, support. He tested on real athletes week after week. The best products come from staying close to the people who use them and fixing their real problem, not from guessing in an office.",
+        "el": "Ο Μπάουερμαν δεν εφεύρισκε για πλάκα. Παρατηρούσε τους δρομείς του, έβλεπε τι τους καθυστερούσε ή τους πονούσε, και χτυπούσε ακριβώς αυτό το πρόβλημα: βάρος, κράτημα, στήριξη. Δοκίμαζε σε πραγματικούς αθλητές εβδομάδα με την εβδομάδα. Τα καλύτερα προϊόντα βγαίνουν όταν μένεις κοντά σε όσους τα χρησιμοποιούν και λύνεις το αληθινό τους πρόβλημα, όχι όταν μαντεύεις από ένα γραφείο."
+      },
+      "example": {
+        "en": "One Sunday in 1971, looking for a light sole with better grip, Bowerman poured liquid rubber into his wife's waffle iron and ruined it. The waffle-patterned sole he got from it led to the Waffle Trainer, which became one of the company's best sellers in the mid-1970s.",
+        "el": "Μια Κυριακή του 1971, ψάχνοντας μια ελαφριά σόλα με καλύτερο κράτημα, ο Μπάουερμαν έριξε υγρό λάστιχο στη βαφλιέρα της γυναίκας του και την κατέστρεψε. Η σόλα με το σχέδιο της βάφλας έφερε το Waffle Trainer, που έγινε από τα πιο πετυχημένα παπούτσια της εταιρείας στα μέσα της δεκαετίας του '70."
+      },
+      "apply": {
+        "en": "Each Friday, read the last ten requests clients sent in the chat. Write the problem behind each one: patients cannot find the phone number, the menu is too long on mobile. Fix that pattern in your template, so every new site solves it from day one.",
+        "el": "Κάθε Παρασκευή διάβασε τα τελευταία δέκα αιτήματα που έστειλαν οι πελάτες στο chat. Γράψε το πρόβλημα πίσω από το καθένα: οι ασθενείς δεν βρίσκουν το τηλέφωνο, το μενού είναι μεγάλο στο κινητό. Διόρθωσε αυτό το μοτίβο στο template σου, ώστε κάθε νέα ιστοσελίδα να το λύνει από την πρώτη μέρα."
+      },
+      "check": {
+        "q": {"en": "Where did Bowerman's best ideas come from?", "el": "Από πού έβγαιναν οι καλύτερες ιδέες του Μπάουερμαν;"},
+        "options": [
+          {"en": "Watching his runners' real problems", "el": "Από τα πραγματικά προβλήματα των δρομέων του"},
+          {"en": "Copying the German brands", "el": "Από την αντιγραφή των γερμανικών μαρκών"},
+          {"en": "Asking investors what would sell", "el": "Από ερωτήσεις σε επενδυτές για το τι πουλάει"}
+        ],
+        "answer": 0,
+        "why": {"en": "He stayed close to his athletes and solved the exact thing that hurt or slowed them.", "el": "Έμενε κοντά στους αθλητές του και έλυνε ακριβώς ό,τι τους πονούσε ή τους καθυστερούσε."}
+      }
+    },
+    {
+      "title": {"en": "Trust carries a shaky launch", "el": "Η εμπιστοσύνη σηκώνει ένα στραβό ξεκίνημα"},
+      "explain": {
+        "en": "The first Nike shoes were not great. The quality was uneven and the brand was unknown. Yet the sales reps who had worked with Blue Ribbon for years ordered them anyway. They were buying the people, not only the product. Years of honest dealing work like savings you can draw on when your new thing is still rough.",
+        "el": "Τα πρώτα Nike δεν ήταν σπουδαία. Η ποιότητα ήταν άνιση και η μάρκα άγνωστη. Κι όμως, οι αντιπρόσωποι που δούλευαν χρόνια με την Blue Ribbon τα παρήγγειλαν. Αγόραζαν τους ανθρώπους, όχι μόνο το προϊόν. Τα χρόνια τίμιας συνεργασίας είναι σαν αποταμίευση που τη χρησιμοποιείς όταν το καινούργιο σου πράγμα είναι ακόμα άγουρο."
+      },
+      "example": {
+        "en": "At a sporting goods trade show in Chicago in 1972, Knight's team nervously showed the first Nikes, which had visible flaws. To their surprise, the reps placed big orders. The reason they gave: Blue Ribbon had always told them the truth, so they were willing to bet on its new brand.",
+        "el": "Σε μια έκθεση αθλητικών ειδών στο Σικάγο το 1972, η ομάδα του Νάιτ έδειξε με άγχος τα πρώτα Nike, που είχαν εμφανή ελαττώματα. Προς έκπληξή τους, οι αντιπρόσωποι έκαναν μεγάλες παραγγελίες. Ο λόγος που είπαν: η Blue Ribbon τούς έλεγε πάντα την αλήθεια, άρα ήταν πρόθυμοι να ποντάρουν στη νέα της μάρκα."
+      },
+      "apply": {
+        "en": "Be painfully honest with clients now. Say «it will be ready on Wednesday», not «today», if Wednesday is the truth. Admit your own mistakes first. When you launch something new, like online booking on their site, they will try it because you have always told them the truth.",
+        "el": "Να είσαι σχολαστικά ειλικρινής με τους πελάτες από τώρα. Πες «θα είναι έτοιμο την Τετάρτη», όχι «σήμερα», αν η αλήθεια είναι Τετάρτη. Παραδέξου πρώτος τα δικά σου λάθη. Όταν βγάλεις κάτι νέο, όπως online ραντεβού στη σελίδα τους, θα το δοκιμάσουν γιατί πάντα τους έλεγες την αλήθεια."
+      },
+      "check": {
+        "q": {"en": "Why did the reps order the first, imperfect Nikes?", "el": "Γιατί οι αντιπρόσωποι παρήγγειλαν τα πρώτα, ατελή Nike;"},
+        "options": [
+          {"en": "They were offered huge discounts", "el": "Τους έδωσαν τεράστιες εκπτώσεις"},
+          {"en": "The shoes were the best on the market", "el": "Ήταν τα καλύτερα παπούτσια της αγοράς"},
+          {"en": "Blue Ribbon had always been honest with them", "el": "Η Blue Ribbon ήταν πάντα ειλικρινής μαζί τους"}
+        ],
+        "answer": 2,
+        "why": {"en": "Years of honesty had built trust, and that trust carried a rough product.", "el": "Τα χρόνια ειλικρίνειας είχαν χτίσει εμπιστοσύνη, και αυτή σήκωσε ένα άγουρο προϊόν."}
+      }
+    },
+    {
+      "title": {"en": "Fight for what is yours", "el": "Υπερασπίσου ό,τι είναι δικό σου"},
+      "explain": {
+        "en": "After the split, Onitsuka and Blue Ribbon sued each other, one in Japan and one in America. Knight was terrified and was a nervous witness. But his side had records, letters and a true story. A small company sometimes has to stand up to a much bigger one, with facts and good lawyers, instead of quietly giving in.",
+        "el": "Μετά τον χωρισμό, η Onitsuka και η Blue Ribbon έκαναν αγωγή η μία στην άλλη, η μία στην Ιαπωνία και η άλλη στην Αμερική. Ο Νάιτ ήταν τρομοκρατημένος και αγχωμένος μάρτυρας. Η πλευρά του όμως είχε αρχεία, επιστολές και μια αληθινή ιστορία. Μια μικρή εταιρεία πρέπει κάποιες φορές να σταθεί απέναντι σε μια πολύ μεγαλύτερη, με γεγονότα και καλούς δικηγόρους, αντί να υποχωρήσει σιωπηλά."
+      },
+      "example": {
+        "en": "In 1974 a judge in Portland ruled that Onitsuka had broken its agreement with Blue Ribbon, and Onitsuka then paid to settle. The money helped, but the bigger prize was freedom: Knight could now grow Nike without a legal cloud over it.",
+        "el": "Το 1974 ένας δικαστής στο Πόρτλαντ έκρινε ότι η Onitsuka είχε παραβιάσει τη συμφωνία της με την Blue Ribbon, και η Onitsuka πλήρωσε για να κλείσει η υπόθεση. Τα λεφτά βοήθησαν, αλλά το μεγαλύτερο κέρδος ήταν η ελευθερία: ο Νάιτ μπορούσε πια να μεγαλώσει τη Nike χωρίς δικαστικό σύννεφο από πάνω της."
+      },
+      "apply": {
+        "en": "Put every deal in writing: after each call, a short email with what is included, the yearly price and what happens if the client leaves. Keep the chat and invoices tidy. If a client refuses to pay a year of hosting, you answer calmly with facts, not with anger.",
+        "el": "Βάλε κάθε συμφωνία γραπτώς: μετά από κάθε τηλέφωνο, ένα σύντομο email με το τι περιλαμβάνεται, την ετήσια τιμή και τι γίνεται αν ο πελάτης φύγει. Κράτα τακτοποιημένα το chat και τα τιμολόγια. Αν ένας πελάτης αρνηθεί να πληρώσει τη φιλοξενία της χρονιάς, απαντάς ήρεμα με γεγονότα, όχι με θυμό."
+      },
+      "check": {
+        "q": {"en": "What helped Blue Ribbon beat a much bigger company in court?", "el": "Τι βοήθησε την Blue Ribbon να κερδίσει στο δικαστήριο μια πολύ μεγαλύτερη εταιρεία;"},
+        "options": [
+          {"en": "A true story backed by records", "el": "Μια αληθινή ιστορία με αρχεία πίσω της"},
+          {"en": "A louder, more aggressive lawyer", "el": "Ένας πιο φωνακλάς, επιθετικός δικηγόρος"},
+          {"en": "Public pressure from the press", "el": "Η πίεση από τον Τύπο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Facts and documents won the case, not volume or publicity.", "el": "Τα γεγονότα και τα έγγραφα κέρδισαν την υπόθεση, όχι οι φωνές ή η δημοσιότητα."}
+      }
+    },
+    {
+      "title": {"en": "Friends for the storm", "el": "Φίλοι για τις φουρτούνες"},
+      "explain": {
+        "en": "The company survived its worst cash crisis because a partner chose to stand behind it. Over the years Knight had built a real, honest relationship with the Japanese trading company Nissho Iwai, which financed his shoe orders. When the bank walked away, Nissho stepped in. Relationships built calmly in good years are what save you in bad ones.",
+        "el": "Η εταιρεία γλίτωσε από τη χειρότερη κρίση ρευστότητας επειδή ένας συνεργάτης διάλεξε να σταθεί δίπλα της. Με τα χρόνια ο Νάιτ είχε χτίσει μια αληθινή, τίμια σχέση με την ιαπωνική εμπορική εταιρεία Nissho Iwai, που χρηματοδοτούσε τις παραγγελίες του. Όταν η τράπεζα έφυγε, μπήκε μπροστά η Nissho. Οι σχέσεις που χτίζεις με ηρεμία στα καλά χρόνια είναι αυτές που σε σώζουν στα δύσκολα."
+      },
+      "example": {
+        "en": "In 1975, after the bank froze the accounts, Nissho executive Tadayuki Ito went to the bank with Knight and announced that Nissho would pay off Blue Ribbon's entire debt. The bankers were stunned. Blue Ribbon survived and kept growing.",
+        "el": "Το 1975, αφού η τράπεζα πάγωσε τους λογαριασμούς, το στέλεχος της Nissho Ταντάγιουκι Ίτο πήγε μαζί με τον Νάιτ στην τράπεζα και ανακοίνωσε ότι η Nissho θα εξοφλήσει όλο το χρέος της Blue Ribbon. Οι τραπεζίτες έμειναν άφωνοι. Η Blue Ribbon επέζησε και συνέχισε να μεγαλώνει."
+      },
+      "apply": {
+        "en": "Treat your accountant, your key suppliers and your oldest clients like long-term friends: pay on time, send a New Year thank-you, tell them early when something goes wrong. When a crisis comes, these are the people who will pick up the phone.",
+        "el": "Φέρσου στον λογιστή σου, στους βασικούς σου προμηθευτές και στους πιο παλιούς σου πελάτες σαν σε μακροχρόνιους φίλους: πλήρωνε στην ώρα σου, στείλε ένα ευχαριστώ για τη νέα χρονιά, ενημέρωσέ τους νωρίς όταν κάτι στραβώνει. Όταν έρθει η κρίση, αυτοί θα σηκώσουν το τηλέφωνο."
+      },
+      "check": {
+        "q": {"en": "Why did Nissho Iwai rescue Blue Ribbon?", "el": "Γιατί η Nissho Iwai έσωσε την Blue Ribbon;"},
+        "options": [
+          {"en": "It wanted to buy the company cheaply", "el": "Ήθελε να αγοράσει φτηνά την εταιρεία"},
+          {"en": "A court forced it to pay the debt", "el": "Ένα δικαστήριο την υποχρέωσε να πληρώσει"},
+          {"en": "It had a real, trusted relationship with Knight", "el": "Είχε αληθινή σχέση εμπιστοσύνης με τον Νάιτ"}
+        ],
+        "answer": 2,
+        "why": {"en": "Years of honest dealing made Nissho willing to stand behind him when the bank left.", "el": "Τα χρόνια τίμιας συνεργασίας έκαναν τη Nissho πρόθυμη να σταθεί δίπλα του όταν έφυγε η τράπεζα."}
+      }
+    },
+    {
+      "title": {"en": "Sell heroes, not just shoes", "el": "Πούλα ήρωες, όχι μόνο παπούτσια"},
+      "explain": {
+        "en": "Knight learned that people do not buy rubber and laces. They buy a feeling, a story, someone they want to be like. Nike tied itself to athletes with heart, especially rebels and underdogs, and supported them. Fans then wanted the shoes their heroes wore. Real people with real stories sell better than any slogan.",
+        "el": "Ο Νάιτ έμαθε ότι οι άνθρωποι δεν αγοράζουν λάστιχο και κορδόνια. Αγοράζουν ένα συναίσθημα, μια ιστορία, κάποιον που θέλουν να του μοιάσουν. Η Nike δέθηκε με αθλητές που είχαν καρδιά, ειδικά επαναστάτες και αουτσάιντερ, και τους στήριξε. Οι φίλαθλοι ήθελαν μετά τα παπούτσια που φορούσαν οι ήρωές τους. Αληθινοί άνθρωποι με αληθινές ιστορίες πουλάνε καλύτερα από κάθε σλόγκαν."
+      },
+      "example": {
+        "en": "Steve Prefontaine, the bold Oregon runner who liked to lead races from the front, became one of Nike's first famous athletes and the face of its rebel spirit. Knight was crushed when Prefontaine died in a car crash in 1975, at 24. His spirit stayed part of Nike's story.",
+        "el": "Ο Στιβ Πρεφοντέν, ο τολμηρός δρομέας του Όρεγκον που του άρεσε να τρέχει μπροστά από την αρχή του αγώνα, έγινε από τους πρώτους διάσημους αθλητές της Nike και το πρόσωπο του επαναστατικού της πνεύματος. Ο Νάιτ συντρίφτηκε όταν ο Πρεφοντέν σκοτώθηκε σε τροχαίο το 1975, στα 24 του. Το πνεύμα του έμεινε κομμάτι της ιστορίας της Nike."
+      },
+      "apply": {
+        "en": "In your reels and Meta ads, show real clients, with their permission: a dentist saying in his own words what changed after the new site, a psychologist showing her booking page. Twenty seconds of a real person beat a polished generic ad.",
+        "el": "Στα reels και στις διαφημίσεις σου στο Meta, δείξε αληθινούς πελάτες, με την άδειά τους: έναν οδοντίατρο που λέει με δικά του λόγια τι άλλαξε μετά τη νέα ιστοσελίδα, μια ψυχολόγο που δείχνει τη σελίδα για τα ραντεβού της. Είκοσι δευτερόλεπτα με αληθινό άνθρωπο νικούν μια γυαλισμένη γενική διαφήμιση."
+      },
+      "check": {
+        "q": {"en": "What did athletes give Nike that ads alone could not?", "el": "Τι έδωσαν οι αθλητές στη Nike που δεν θα έδιναν μόνο οι διαφημίσεις;"},
+        "options": [
+          {"en": "Cheap feedback on new models", "el": "Φτηνό feedback για νέα μοντέλα"},
+          {"en": "A real story and a feeling fans wanted", "el": "Μια αληθινή ιστορία και ένα συναίσθημα που ήθελαν οι φίλαθλοι"},
+          {"en": "Free advertising space in stores", "el": "Δωρεάν χώρο προβολής στα καταστήματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "People buy the story and the hero, and the shoe comes with it.", "el": "Οι άνθρωποι αγοράζουν την ιστορία και τον ήρωα, και το παπούτσι έρχεται μαζί."}
+      }
+    },
+    {
+      "title": {"en": "Misfits who tell the truth", "el": "«Αταίριαστοι» που λένε την αλήθεια"},
+      "explain": {
+        "en": "Knight's early leaders were not polished executives: an accountant, a lawyer, an operations man in a wheelchair, a restless salesman. They argued loudly, mocked each other and the boss, and said exactly what they thought. Nobody's ego was protected, so problems came out fast. What held them together was loyalty and the feeling that they all had something to prove.",
+        "el": "Τα πρώτα στελέχη του Νάιτ δεν ήταν γυαλισμένοι μάνατζερ: ένας λογιστής, ένας δικηγόρος, ένας άνθρωπος της λειτουργίας σε αναπηρικό αμαξίδιο, ένας ανήσυχος πωλητής. Μάλωναν δυνατά, κορόιδευαν ο ένας τον άλλον και το αφεντικό, και έλεγαν ακριβώς ό,τι σκέφτονταν. Κανενός ο εγωισμός δεν ήταν προστατευμένος, οπότε τα προβλήματα έβγαιναν γρήγορα στην επιφάνεια. Τους κρατούσε ενωμένους η αφοσίωση και η αίσθηση ότι όλοι είχαν κάτι να αποδείξουν."
+      },
+      "example": {
+        "en": "The core group met at regular weekend retreats they jokingly called Buttface. Anyone could shout down anyone, including Knight, and the jokes were brutal. In the book Knight credits these loud, honest sessions with surfacing problems that polite meetings would have hidden.",
+        "el": "Ο βασικός πυρήνας μαζευόταν τακτικά σε συναντήσεις Σαββατοκύριακου που τις έλεγαν για πλάκα με ένα αγγλικό χοντρό αστείο, «Buttface». Ο καθένας μπορούσε να τα βάλει με τον καθένα, και με τον Νάιτ, και τα πειράγματα ήταν άγρια. Στο βιβλίο ο Νάιτ λέει ότι αυτές οι θορυβώδεις, ειλικρινείς συναντήσεις έβγαζαν στη φόρα προβλήματα που οι ευγενικές συσκέψεις θα έκρυβαν."
+      },
+      "apply": {
+        "en": "Start a monthly one-hour meeting with your team where the only rule is honesty: each person names one thing that is not working, including in how you lead. Thank whoever brings the hardest truth. Laugh, but leave with one fix decided.",
+        "el": "Ξεκίνα μια μηνιαία συνάντηση μίας ώρας με την ομάδα σου με μόνο κανόνα την ειλικρίνεια: ο καθένας λέει ένα πράγμα που δεν δουλεύει, και στον τρόπο που ηγείσαι εσύ. Ευχαρίστησε όποιον φέρει την πιο δύσκολη αλήθεια. Γελάστε, αλλά φύγετε με μία διόρθωση αποφασισμένη."
+      },
+      "check": {
+        "q": {"en": "What made the Buttface meetings useful?", "el": "Τι έκανε χρήσιμες τις συναντήσεις «Buttface»;"},
+        "options": [
+          {"en": "Strict rules and a formal agenda", "el": "Αυστηροί κανόνες και επίσημη ατζέντα"},
+          {"en": "Only Knight was allowed to criticise", "el": "Μόνο ο Νάιτ είχε δικαίωμα να κριτικάρει"},
+          {"en": "Anyone could say the hard truth, even to the boss", "el": "Ο καθένας μπορούσε να πει τη σκληρή αλήθεια, ακόμα και στο αφεντικό"}
+        ],
+        "answer": 2,
+        "why": {"en": "With no ego protected, real problems surfaced quickly and got fixed.", "el": "Χωρίς προστατευμένους εγωισμούς, τα πραγματικά προβλήματα έβγαιναν γρήγορα και λύνονταν."}
+      }
+    },
+    {
+      "title": {"en": "Fight on every front", "el": "Πολέμα σε όλα τα μέτωπα"},
+      "explain": {
+        "en": "In 1977 the American customs service sent Nike a bill for about 25 million dollars in old import duties. American rivals had pushed for an old rule that taxed Nike's shoes as if they cost as much as similar American shoes. The bill could have killed the company. Knight did not panic into paying or quitting. He fought with lawyers, politicians and public opinion, and kept the business growing at the same time.",
+        "el": "Το 1977 το αμερικανικό τελωνείο έστειλε στη Nike λογαριασμό περίπου 25 εκατομμυρίων δολαρίων για παλιούς δασμούς εισαγωγής. Αμερικανοί ανταγωνιστές είχαν πιέσει να εφαρμοστεί ένας παλιός κανόνας που φορολογούσε τα παπούτσια της Nike σαν να κόστιζαν όσο παρόμοια αμερικανικά. Ο λογαριασμός μπορούσε να κλείσει την εταιρεία. Ο Νάιτ δεν πανικοβλήθηκε ούτε να πληρώσει ούτε να τα παρατήσει. Πολέμησε με δικηγόρους, πολιτικούς και κοινή γνώμη, και ταυτόχρονα συνέχισε να μεγαλώνει την επιχείρηση."
+      },
+      "example": {
+        "en": "Knight lobbied in Washington, his lawyers fought the customs case, and Nike made its fight public as a young company against an unfair system. In 1980 the case was settled for 9 million dollars. In December 1980 Nike listed its shares on the stock market, and the cash worries of eighteen years finally ended.",
+        "el": "Ο Νάιτ πίεσε πολιτικούς στην Ουάσιγκτον, οι δικηγόροι του πάλεψαν την υπόθεση με το τελωνείο και η Nike έκανε τη μάχη δημόσια, ως νέα εταιρεία απέναντι σε ένα άδικο σύστημα. Το 1980 η υπόθεση έκλεισε με συμβιβασμό στα 9 εκατομμύρια δολάρια. Τον Δεκέμβριο του 1980 η Nike μπήκε στο χρηματιστήριο, και οι έγνοιες για τα μετρητά δεκαοκτώ χρόνων τελείωσαν."
+      },
+      "apply": {
+        "en": "When a big threat hits, like a large unpaid bill or a tax problem, write a one-page plan the same day: who can help (accountant, lawyer), which facts you have, what you do this week. Then spend the rest of your hours keeping the sales calls going.",
+        "el": "Όταν σε χτυπήσει μια μεγάλη απειλή, ένα μεγάλο απλήρωτο ποσό ή ένα πρόβλημα με την εφορία, γράψε την ίδια μέρα ένα σχέδιο μίας σελίδας: ποιος μπορεί να βοηθήσει (λογιστής, δικηγόρος), ποια στοιχεία έχεις, τι κάνεις αυτή την εβδομάδα. Μετά δώσε τις υπόλοιπες ώρες σου στο να συνεχίσουν τα τηλέφωνα πωλήσεων."
+      },
+      "check": {
+        "q": {"en": "How did Knight respond to the huge customs bill?", "el": "Πώς αντέδρασε ο Νάιτ στον τεράστιο λογαριασμό του τελωνείου;"},
+        "options": [
+          {"en": "He paid quickly to end the stress", "el": "Πλήρωσε γρήγορα για να τελειώνει το άγχος"},
+          {"en": "He fought on several fronts while still growing", "el": "Πολέμησε σε πολλά μέτωπα και συνέχισε να μεγαλώνει"},
+          {"en": "He moved the whole company abroad", "el": "Μετέφερε όλη την εταιρεία στο εξωτερικό"}
+        ],
+        "answer": 1,
+        "why": {"en": "He fought through law, politics and public opinion, and did not let sales stop.", "el": "Πάλεψε με νομικά, πολιτικά μέσα και κοινή γνώμη, χωρίς να αφήσει τις πωλήσεις να σταματήσουν."}
+      }
+    },
+    {
+      "title": {"en": "Count the real cost", "el": "Μέτρα το πραγματικό κόστος"},
+      "explain": {
+        "en": "In the last pages Knight looks back with pride and with regret. The business took most of his time and attention for decades, and he wishes he had been more present for his two sons. He urges young people to seek a calling, not just a job, and to keep going. Success is worth chasing, but decide early what you will not sacrifice for it.",
+        "el": "Στις τελευταίες σελίδες ο Νάιτ κοιτάζει πίσω με περηφάνια αλλά και με μεταμέλεια. Η εταιρεία πήρε τον περισσότερο χρόνο και την προσοχή του για δεκαετίες, και εύχεται να ήταν πιο παρών για τους δύο γιους του. Συμβουλεύει τους νέους να ψάξουν ένα κάλεσμα, όχι απλώς μια δουλειά, και να μη σταματούν. Η επιτυχία αξίζει το κυνήγι, αλλά αποφάσισε νωρίς τι δεν θα θυσιάσεις γι' αυτήν."
+      },
+      "example": {
+        "en": "Knight writes about his son Matthew, who died in a diving accident in 2004, and about wishing he had spent more time with him and asked him more questions. The man who built a giant brand says the people in his life mattered more than the business.",
+        "el": "Ο Νάιτ γράφει για τον γιο του τον Μάθιου, που πέθανε σε ατύχημα κατά τη διάρκεια κατάδυσης το 2004, και για το πόσο θα ήθελε να είχε περάσει περισσότερο χρόνο μαζί του και να τον είχε ρωτήσει περισσότερα. Ο άνθρωπος που έχτισε μια γιγάντια μάρκα λέει ότι οι άνθρωποι της ζωής του μέτρησαν περισσότερο από την επιχείρηση."
+      },
+      "apply": {
+        "en": "Write three things you will not sacrifice for Advon, for example Sunday with family, sleep before midnight, training twice a week. Put them in your calendar first, before calls and builds. At the end of each month, check honestly if you kept them.",
+        "el": "Γράψε τρία πράγματα που δεν θα θυσιάσεις για την Advon, για παράδειγμα την Κυριακή με την οικογένεια, ύπνο πριν από τα μεσάνυχτα, προπόνηση δύο φορές την εβδομάδα. Βάλ' τα πρώτα στο ημερολόγιο, πριν από τηλέφωνα και κατασκευές. Στο τέλος κάθε μήνα, έλεγξε ειλικρινά αν τα κράτησες."
+      },
+      "check": {
+        "q": {"en": "What does Knight regret most when he looks back?", "el": "Τι μετανιώνει περισσότερο ο Νάιτ όταν κοιτάζει πίσω;"},
+        "options": [
+          {"en": "Not spending enough time with his sons", "el": "Ότι δεν πέρασε αρκετό χρόνο με τους γιους του"},
+          {"en": "Choosing shoes over cameras", "el": "Ότι διάλεξε παπούτσια αντί για φωτογραφικές μηχανές"},
+          {"en": "Listing Nike on the stock market", "el": "Ότι έβαλε τη Nike στο χρηματιστήριο"}
+        ],
+        "answer": 0,
+        "why": {"en": "He is proud of Nike but wishes he had been more present for his family.", "el": "Είναι περήφανος για τη Nike, αλλά εύχεται να ήταν πιο παρών για την οικογένειά του."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You signed five new clients this month, yet your bank account is lower than ever: you paid a new tool and a freelancer before the renewals came in. What do you do?", "el": "Αυτόν τον μήνα έκλεισες πέντε νέους πελάτες, κι όμως ο λογαριασμός σου είναι πιο χαμηλά από ποτέ: πλήρωσες ένα νέο εργαλείο και έναν freelancer πριν μπουν οι ανανεώσεις. Τι κάνεις;"},
+      "options": [
+        {"en": "Sign even more clients, it will sort itself out", "el": "Κλείνεις ακόμα περισσότερους, θα στρώσει μόνο του"},
+        {"en": "Track cash weekly and time costs to when money arrives", "el": "Παρακολουθείς τα μετρητά κάθε εβδομάδα και ταιριάζεις τα έξοδα με το πότε μπαίνουν λεφτά"},
+        {"en": "Stop selling until the account fills up again", "el": "Σταματάς τις πωλήσεις μέχρι να γεμίσει ξανά ο λογαριασμός"}
+      ],
+      "answer": 1,
+      "why": {"en": "Like Blue Ribbon, you can grow and still run dry; watching cash and timing costs keeps growth alive.", "el": "Όπως η Blue Ribbon, μπορείς να μεγαλώνεις και να στεγνώνεις· η παρακολούθηση των μετρητών και ο σωστός χρονισμός των εξόδων κρατούν την ανάπτυξη ζωντανή."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "Almost all your new clients now come from one Meta ad campaign, and it works great. What do you do?", "el": "Σχεδόν όλοι οι νέοι σου πελάτες έρχονται πια από μία καμπάνια στο Meta, και πάει πολύ καλά. Τι κάνεις;"},
+      "options": [
+        {"en": "Move your whole budget and time into Meta", "el": "Ρίχνεις όλο το budget και τον χρόνο σου στο Meta"},
+        {"en": "Stop the ads, platforms are too risky", "el": "Σταματάς τις διαφημίσεις, οι πλατφόρμες είναι ρίσκο"},
+        {"en": "Keep the ads and also keep a weekly cold-call block", "el": "Κρατάς τις διαφημίσεις και κρατάς και ένα εβδομαδιαίο μπλοκ για cold calls"}
+      ],
+      "answer": 2,
+      "why": {"en": "Knight learned with Onitsuka that one source can switch you off; build the second path while things are good.", "el": "Ο Νάιτ έμαθε με την Onitsuka ότι μία πηγή μπορεί να σε «σβήσει»· φτιάχνεις τον δεύτερο δρόμο όσο τα πράγματα πάνε καλά."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "You want to offer old clients a new online booking feature, but it is still a bit rough. What do you do?", "el": "Θέλεις να προτείνεις στους παλιούς πελάτες ένα νέο σύστημα online ραντεβού, αλλά είναι ακόμα λίγο άγουρο. Τι κάνεις;"},
+      "options": [
+        {"en": "Offer it honestly as a first version and fix it with their feedback", "el": "Το προτείνεις ειλικρινά ως πρώτη έκδοση και το διορθώνεις με το feedback τους"},
+        {"en": "Wait a year until it is perfect", "el": "Περιμένεις έναν χρόνο μέχρι να γίνει τέλειο"},
+        {"en": "Present it as finished and hope nobody notices", "el": "Το παρουσιάζεις ως τελειωμένο και ελπίζεις να μην το προσέξει κανείς"}
+      ],
+      "answer": 0,
+      "why": {"en": "Clients who trust your honesty will try a rough first version, just as the reps ordered the first Nikes.", "el": "Οι πελάτες που εμπιστεύονται την ειλικρίνειά σου θα δοκιμάσουν μια άγουρη πρώτη έκδοση, όπως οι αντιπρόσωποι παρήγγειλαν τα πρώτα Nike."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "Your new assistant will handle client change requests. How do you hand over the job?", "el": "Ο νέος σου βοηθός θα αναλάβει τα αιτήματα αλλαγών των πελατών. Πώς του παραδίδεις τη δουλειά;"},
+      "options": [
+        {"en": "Write a step-by-step rule for every possible case", "el": "Γράφεις κανόνα βήμα βήμα για κάθε πιθανή περίπτωση"},
+        {"en": "Keep doing the changes yourself, it is faster", "el": "Συνεχίζεις να κάνεις εσύ τις αλλαγές, είναι πιο γρήγορο"},
+        {"en": "Set the goal and quality bar, then let them find their way", "el": "Βάζεις τον στόχο και τον πήχη ποιότητας και τον αφήνεις να βρει τον τρόπο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Knight said what, not how, and his young people grew because they had real responsibility.", "el": "Ο Νάιτ έλεγε τι, όχι πώς, και οι νέοι του μεγάλωναν επειδή είχαν πραγματική ευθύνη."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "It is your father's name day dinner, and a client sends a non-urgent change request at 8 pm. What do you do?", "el": "Είναι το τραπέζι για τη γιορτή του πατέρα σου, και στις 8 το βράδυ ένας πελάτης στέλνει ένα μη επείγον αίτημα αλλαγής. Τι κάνεις;"},
+      "options": [
+        {"en": "Reply briefly that you will handle it tomorrow, and enjoy the dinner", "el": "Απαντάς σύντομα ότι θα το δεις αύριο και απολαμβάνεις το τραπέζι"},
+        {"en": "Leave the table and do the change right away", "el": "Σηκώνεσαι από το τραπέζι και κάνεις αμέσως την αλλαγή"},
+        {"en": "Skip the dinner, clients come first", "el": "Δεν πας στο τραπέζι, οι πελάτες προηγούνται"}
+      ],
+      "answer": 0,
+      "why": {"en": "Knight's deepest regret was time lost with family; protect what you decided not to sacrifice.", "el": "Η μεγαλύτερη μεταμέλεια του Νάιτ ήταν ο χαμένος χρόνος με την οικογένεια· προστάτευσε αυτό που αποφάσισες να μη θυσιάσεις."},
+      "idea": 17
+    },
+    {
+      "q": {"en": "A large private clinic would be your best client ever. Your two emails got no answer. What do you do?", "el": "Μια μεγάλη ιδιωτική κλινική θα ήταν ο καλύτερος πελάτης που είχες ποτέ. Τα δύο σου email έμειναν αναπάντητα. Τι κάνεις;"},
+      "options": [
+        {"en": "Send a third, longer email", "el": "Στέλνεις τρίτο, μεγαλύτερο email"},
+        {"en": "Call, ask for ten minutes in person, and go", "el": "Παίρνεις τηλέφωνο, ζητάς δέκα λεπτά από κοντά και πηγαίνεις"},
+        {"en": "Give up, they are too big for you", "el": "Τα παρατάς, είναι πολύ μεγάλοι για σένα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Knight's whole company started because he showed up in Kobe and asked clearly.", "el": "Όλη η εταιρεία του Νάιτ ξεκίνησε επειδή εμφανίστηκε στο Κόμπε και ζήτησε καθαρά."},
+      "idea": 1
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Knight's business idea first took shape in a class paper at Stanford.", "el": "Η επιχειρηματική ιδέα του Νάιτ πήρε πρώτη φορά μορφή σε μια εργασία μαθήματος στο Stanford."}, "answer": true, "why": {"en": "He wrote about Japanese shoes beating German shoes, as Japanese cameras had.", "el": "Έγραψε για ιαπωνικά παπούτσια που θα νικούσαν τα γερμανικά, όπως είχαν κάνει οι ιαπωνικές φωτογραφικές μηχανές."}},
+    {"s": {"en": "Bowerman joined Blue Ribbon as a salaried employee.", "el": "Ο Μπάουερμαν μπήκε στην Blue Ribbon ως μισθωτός υπάλληλος."}, "answer": false, "why": {"en": "He became Knight's partner with a handshake, each putting in 500 dollars.", "el": "Έγινε συνέταιρος του Νάιτ με μια χειραψία, βάζοντας ο καθένας 500 δολάρια."}},
+    {"s": {"en": "The swoosh was designed by a famous agency for a large fee.", "el": "Το swoosh το σχεδίασε ένα διάσημο γραφείο με μεγάλη αμοιβή."}, "answer": false, "why": {"en": "A design student drew it for 35 dollars.", "el": "Το σχεδίασε μια φοιτήτρια γραφιστικής για 35 δολάρια."}},
+    {"s": {"en": "Blue Ribbon was short of cash even while its sales kept doubling.", "el": "Η Blue Ribbon δεν είχε μετρητά ακόμα κι όταν οι πωλήσεις της διπλασιάζονταν."}, "answer": true, "why": {"en": "Fast growth tied money up in stock that was paid for before it was sold.", "el": "Η γρήγορη ανάπτυξη κλείδωνε λεφτά σε εμπόρευμα που πληρωνόταν πριν πουληθεί."}},
+    {"s": {"en": "Knight insisted that his managers follow his exact methods.", "el": "Ο Νάιτ επέμενε τα στελέχη του να ακολουθούν ακριβώς τις δικές του μεθόδους."}, "answer": false, "why": {"en": "He told people what to achieve and let them choose how.", "el": "Έλεγε στους ανθρώπους τι να πετύχουν και τους άφηνε να διαλέξουν πώς."}},
+    {"s": {"en": "A Japanese trading company helped save the company when its bank walked away.", "el": "Μια ιαπωνική εμπορική εταιρεία βοήθησε να σωθεί η εταιρεία όταν την εγκατέλειψε η τράπεζα."}, "answer": true, "why": {"en": "Nissho Iwai paid off the debt in 1975.", "el": "Η Nissho Iwai εξόφλησε το χρέος το 1975."}},
+    {"s": {"en": "The 1977 customs bill was paid in full, all 25 million dollars.", "el": "Ο λογαριασμός του τελωνείου του 1977 πληρώθηκε ολόκληρος, και τα 25 εκατομμύρια."}, "answer": false, "why": {"en": "Nike fought it and settled in 1980 for 9 million dollars.", "el": "Η Nike τον πολέμησε και συμβιβάστηκε το 1980 στα 9 εκατομμύρια."}},
+    {"s": {"en": "Knight writes openly about regrets in his family life.", "el": "Ο Νάιτ γράφει ανοιχτά για μεταμέλειες στην οικογενειακή του ζωή."}, "answer": true, "why": {"en": "He wishes he had spent more time with his sons.", "el": "Εύχεται να είχε περάσει περισσότερο χρόνο με τους γιους του."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Shoe dog", "el": "Σκυλί των παπουτσιών"}, "b": {"en": "Someone who lives for making and selling shoes", "el": "Κάποιος που ζει για να φτιάχνει και να πουλά παπούτσια"}},
+    {"a": {"en": "Blue Ribbon Sports", "el": "Η Blue Ribbon Sports"}, "b": {"en": "Knight's first company, named on the spot in Japan", "el": "Η πρώτη εταιρεία του Νάιτ, ονομασμένη επί τόπου στην Ιαπωνία"}},
+    {"a": {"en": "Onitsuka", "el": "Η Onitsuka"}, "b": {"en": "Japanese maker of Tiger shoes, the first supplier", "el": "Ιάπωνας κατασκευαστής των Tiger, ο πρώτος προμηθευτής"}},
+    {"a": {"en": "Nissho Iwai", "el": "Η Nissho Iwai"}, "b": {"en": "Trading company that financed and rescued them", "el": "Εμπορική εταιρεία που τους χρηματοδότησε και τους έσωσε"}},
+    {"a": {"en": "Waffle sole", "el": "Σόλα βάφλα"}, "b": {"en": "Grip sole Bowerman made in a waffle iron", "el": "Σόλα με κράτημα που έφτιαξε ο Μπάουερμαν σε βαφλιέρα"}},
+    {"a": {"en": "Swoosh", "el": "Το swoosh"}, "b": {"en": "Logo bought from a student for 35 dollars", "el": "Λογότυπο αγορασμένο από φοιτήτρια για 35 δολάρια"}}
+  ],
+  "missions": [
+    {"en": "Write your crazy idea for the business in one sentence and put it where you see it every morning.", "el": "Γράψε την τρελή σου ιδέα για την επιχείρηση σε μία πρόταση και βάλ' τη εκεί που τη βλέπεις κάθε πρωί."},
+    {"en": "Write down your cash, the money clients owe you and this month's costs, then message one late payer.", "el": "Γράψε τα μετρητά σου, τα λεφτά που σου χρωστούν οι πελάτες και τα έξοδα του μήνα, και μετά στείλε μήνυμα σε έναν που καθυστερεί."},
+    {"en": "Call one client who has been with you for over a year, only to ask how the site is working for them.", "el": "Πάρε τηλέφωνο έναν πελάτη που είναι μαζί σου πάνω από έναν χρόνο, μόνο για να ρωτήσεις πώς του δουλεύει η ιστοσελίδα."},
+    {"en": "Give one team task described only by the result and the deadline, and do not say how to do it.", "el": "Δώσε μία δουλειά στην ομάδα περιγράφοντας μόνο το αποτέλεσμα και την προθεσμία, χωρίς να πεις πώς να γίνει."},
+    {"en": "Block one evening this week for family or friends in your calendar, before any work goes in.", "el": "Κλείσε στο ημερολόγιο ένα βράδυ αυτής της εβδομάδας για οικογένεια ή φίλους, πριν μπει οποιαδήποτε δουλειά."}
+  ],
+  "mantra": {"en": "Let them call it crazy. Keep going. Don't stop.", "el": "Ας το λένε τρελό. Συνέχισε. Μη σταματάς."},
+  "careful": {
+    "en": "This is Knight's own memoir, so it gives his side of every fight: Onitsuka, the banks and rivals are seen through his eyes. He admits some grey moves, like reading a partner's private papers and secretly preparing his own brand. The story mostly ends in 1980, so later criticism of working conditions in Nike's Asian factories gets only a short reply. Take the courage, not every tactic.",
+    "el": "Είναι τα απομνημονεύματα του ίδιου του Νάιτ, άρα δίνουν τη δική του πλευρά σε κάθε σύγκρουση: η Onitsuka, οι τράπεζες και οι ανταγωνιστές φαίνονται μέσα από τα δικά του μάτια. Παραδέχεται και κάποιες γκρίζες κινήσεις, όπως ότι διάβασε κρυφά έγγραφα ενός συνεργάτη και ετοίμαζε στα κρυφά δική του μάρκα. Η ιστορία σταματά κυρίως στο 1980, οπότε η μεταγενέστερη κριτική για τις συνθήκες εργασίας στα εργοστάσια της Nike στην Ασία παίρνει μόνο μια σύντομη απάντηση. Κράτα το θάρρος, όχι κάθε τακτική."
+  },
+  "connects": [
+    {"book": "the-founders", "note": {"en": "Both books show founders who were nearly out of cash every month and survived because a small, loyal team refused to quit.", "el": "Και τα δύο βιβλία δείχνουν ιδρυτές που σχεδόν έμεναν από λεφτά κάθε μήνα και επέζησαν επειδή μια μικρή, πιστή ομάδα αρνήθηκε να τα παρατήσει."}},
+    {"book": "made-in-america", "note": {"en": "Sam Walton and Phil Knight both built giants from almost nothing, but Walton was a cheerful showman while Knight was shy and anxious.", "el": "Ο Σαμ Γουόλτον και ο Φιλ Νάιτ έχτισαν και οι δύο κολοσσούς σχεδόν από το τίποτα, αλλά ο Γουόλτον ήταν χαρούμενος σόουμαν ενώ ο Νάιτ ντροπαλός και αγχώδης."}},
+    {"book": "hard-thing-about-hard-things", "note": {"en": "Horowitz explains, like a manual, the cash crises and fear that Knight lived through and tells as a story.", "el": "Ο Χόροβιτς εξηγεί σαν εγχειρίδιο τις κρίσεις ρευστότητας και τον φόβο που ο Νάιτ έζησε και αφηγείται σαν ιστορία."}}
+  ]
+}

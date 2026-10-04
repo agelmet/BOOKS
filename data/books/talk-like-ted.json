@@ -1,0 +1,551 @@
+{
+  "id": "talk-like-ted",
+  "title": {"en": "Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds", "el": "Μίλα σαν στο TED: Τα 9 μυστικά δημόσιου λόγου των κορυφαίων μυαλών του κόσμου"},
+  "author": "Carmine Gallo",
+  "authorEl": "Κάρμαϊν Γκάλο",
+  "year": 2014,
+  "shelf": "talk",
+  "skills": {"communication": 3, "persuasion": 2, "leadership": 1},
+  "oneLine": {
+    "en": "The best talks are emotional, new and memorable: speak with passion and stories, teach something fresh with one surprise, and keep it short, visual and true to you.",
+    "el": "Οι καλύτερες ομιλίες συγκινούν, φέρνουν κάτι καινούργιο και μένουν στο μυαλό: μίλα με πάθος και ιστορίες, δίδαξε κάτι φρέσκο με μία έκπληξη και κράτα το σύντομο, οπτικό και αληθινό."
+  },
+  "story": {
+    "en": "Carmine Gallo worked as a TV news journalist before becoming a communication coach. He watched hundreds of the most popular TED talks, analysed them and interviewed many of the speakers. In 2014 he turned what he found into nine secrets, grouped in three: great talks are emotional, novel and memorable. People still read it because it turns the vague idea of «stage presence» into specific habits anyone can practise.",
+    "el": "Ο Κάρμαϊν Γκάλο δούλευε ως τηλεοπτικός δημοσιογράφος πριν γίνει σύμβουλος επικοινωνίας. Είδε εκατοντάδες από τις πιο δημοφιλείς ομιλίες TED, τις ανέλυσε και μίλησε με πολλούς από τους ομιλητές. Το 2014 έκανε όσα βρήκε εννέα μυστικά, σε τρεις ομάδες: οι σπουδαίες ομιλίες συγκινούν, φέρνουν κάτι καινούργιο και μένουν στη μνήμη. Το διαβάζουν ακόμα γιατί κάνει το αόριστο «έχει άνεση στη σκηνή» συγκεκριμένες συνήθειες που μπορεί να εξασκήσει ο καθένας."
+  },
+  "forYou": {
+    "en": "You talk for a living: to camera in Meta ads and reels, to a doctor in the first seconds of a cold call, to a client on a video call while you show a site. This book gives you one simple toolkit for all of them: a one-sentence headline, a short true story, one surprise, a picture instead of a list, and a voice that sounds like you.",
+    "el": "Η δουλειά σου είναι να μιλάς: στην κάμερα για τις διαφημίσεις και τα reels, στον γιατρό τα πρώτα δευτερόλεπτα ενός cold call, στον πελάτη σε βιντεοκλήση ενώ του δείχνεις μια σελίδα. Το βιβλίο σού δίνει ένα απλό σύνολο εργαλείων για όλα αυτά: την ιδέα σε μία πρόταση, μια σύντομη αληθινή ιστορία, μία έκπληξη, μια εικόνα αντί για λίστα και μια φωνή που ακούγεται σαν εσένα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Talk about what you love", "el": "Μίλα για ό,τι σε καίει"},
+      "explain": {
+        "en": "Gallo's first secret: you cannot inspire others unless you are inspired yourself. Passion is contagious; listeners catch your energy before they judge your arguments. Ask yourself «what makes my heart sing?» and find the part of your topic you truly care about. Often it is not the product itself but what it does for people. Speak from there and you will convince without forcing it.",
+        "el": "Το πρώτο μυστικό του Γκάλο: δεν μπορείς να εμπνεύσεις άλλους αν δεν είσαι ο ίδιος εμπνευσμένος. Το πάθος κολλάει· ο ακροατής πιάνει την ενέργειά σου πριν κρίνει τα επιχειρήματά σου. Ρώτα τον εαυτό σου «τι με ενθουσιάζει πραγματικά;» και βρες το κομμάτι του θέματος που σε νοιάζει αληθινά. Συχνά δεν είναι το ίδιο το προϊόν, αλλά αυτό που κάνει για τους ανθρώπους. Μίλα από εκεί και θα πείσεις χωρίς να το ζορίσεις."
+      },
+      "example": {
+        "en": "Aimee Mullins, a Paralympic sprinter whose legs were amputated below the knee when she was a baby, has spoken at TED about her collection of prosthetic legs. She did not talk about a limitation; she spoke with obvious joy about design, beauty and possibility. Audiences remember her energy as much as her facts.",
+        "el": "Η Έιμι Μάλινς, δρομέας των Παραολυμπιακών που ακρωτηριάστηκε κάτω από τα γόνατα όταν ήταν μωρό, έχει μιλήσει στο TED για τη συλλογή της από προσθετικά πόδια. Δεν μίλησε για έναν περιορισμό· μίλησε με φανερή χαρά για σχεδιασμό, ομορφιά και δυνατότητες. Το κοινό θυμάται την ενέργειά της όσο και όσα είπε."
+      },
+      "apply": {
+        "en": "Before you film a reel or start a round of calls, write one line: «What I love about this work is...». Maybe it is the moment a doctor sees his new site and smiles. Open your next ad with that true feeling instead of «we make websites», and let your face show it.",
+        "el": "Πριν γυρίσεις ένα reel ή ξεκινήσεις τα τηλεφωνήματα, γράψε μία γραμμή: «Αυτό που αγαπώ σε αυτή τη δουλειά είναι...». Ίσως είναι η στιγμή που ένας γιατρός βλέπει τη νέα του σελίδα και χαμογελά. Άνοιξε την επόμενη διαφήμιση με αυτό το αληθινό συναίσθημα αντί για «φτιάχνουμε ιστοσελίδες» και άφησε το πρόσωπό σου να το δείξει."
+      },
+      "check": {
+        "q": {"en": "Where does a convincing talk start, according to Gallo?", "el": "Από πού ξεκινά μια ομιλία που πείθει, κατά τον Γκάλο;"},
+        "options": [
+          {"en": "With the speaker's own real passion for the topic", "el": "Από το αληθινό πάθος του ομιλητή για το θέμα"},
+          {"en": "With a long list of strong arguments", "el": "Από μια μεγάλη λίστα με δυνατά επιχειρήματα"},
+          {"en": "With an expensive set of designed slides", "el": "Από μια σειρά ακριβές, σχεδιασμένες διαφάνειες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Passion is contagious: people feel your conviction before they weigh your points.", "el": "Το πάθος κολλάει: ο άλλος νιώθει τη σιγουριά σου πριν ζυγίσει τα επιχειρήματά σου."}
+      }
+    },
+    {
+      "title": {"en": "Stories connect brains", "el": "Οι ιστορίες συντονίζουν τα μυαλά"},
+      "explain": {
+        "en": "Secret two is storytelling. Facts alone rarely move people; stories do, because the listener lives them. Gallo shows that a good story makes the audience feel what the speaker felt, and that is the shortest road to trust. Stories also carry information: an idea wrapped in a story is easier to follow and remember than the same idea as a list of points.",
+        "el": "Το δεύτερο μυστικό είναι η αφήγηση. Τα σκέτα στοιχεία σπάνια συγκινούν· οι ιστορίες συγκινούν, γιατί ο ακροατής τις ζει. Ο Γκάλο δείχνει ότι μια καλή ιστορία κάνει το κοινό να νιώσει ό,τι ένιωσε ο ομιλητής, και αυτός είναι ο πιο σύντομος δρόμος προς την εμπιστοσύνη. Οι ιστορίες κουβαλούν και πληροφορία: μια ιδέα τυλιγμένη σε ιστορία παρακολουθείται και θυμάται πιο εύκολα από την ίδια ιδέα σε κουκκίδες."
+      },
+      "example": {
+        "en": "At Princeton, neuroscientist Uri Hasson recorded the brain of a woman telling a personal story and the brains of people listening to it. Their brain activity lined up: the listeners' brains followed the teller's, a moment behind. When the story was played in a language they did not understand, the match disappeared.",
+        "el": "Στο Πρίνστον, ο νευροεπιστήμονας Ούρι Χάσον κατέγραψε τον εγκέφαλο μιας γυναίκας που έλεγε μια προσωπική ιστορία και τους εγκεφάλους όσων την άκουγαν. Η δραστηριότητά τους συγχρονίστηκε: ο εγκέφαλος των ακροατών ακολουθούσε της αφηγήτριας, με μια μικρή καθυστέρηση. Όταν η ιστορία ακουγόταν σε γλώσσα που δεν καταλάβαιναν, ο συγχρονισμός χανόταν."
+      },
+      "apply": {
+        "en": "On a video call, before you show any site, tell a 30-second true story from your own work: what changed for a real client after her site went live, with no names and nothing exaggerated. Then share the screen. The doctor now sees the site through the story.",
+        "el": "Σε μια βιντεοκλήση, πριν δείξεις οποιαδήποτε σελίδα, πες μια αληθινή ιστορία 30 δευτερολέπτων από τη δουλειά σου: τι άλλαξε για μια πραγματική πελάτισσα όταν βγήκε live η σελίδα της, χωρίς ονόματα και χωρίς υπερβολές. Μετά μοιράσου την οθόνη. Ο γιατρός βλέπει πλέον τη σελίδα μέσα από την ιστορία."
+      },
+      "check": {
+        "q": {"en": "Why does a short story help a client understand your offer?", "el": "Γιατί μια σύντομη ιστορία βοηθά τον πελάτη να καταλάβει την προσφορά σου;"},
+        "options": [
+          {"en": "It fills the time while the page loads", "el": "Γεμίζει τον χρόνο όσο φορτώνει η σελίδα"},
+          {"en": "The listener's brain follows yours and lives the idea", "el": "Ο εγκέφαλος του ακροατή ακολουθεί τον δικό σου και ζει την ιδέα"},
+          {"en": "It proves that you have read a lot of books", "el": "Αποδεικνύει ότι έχεις διαβάσει πολλά βιβλία"}
+        ],
+        "answer": 1,
+        "why": {"en": "A story makes the listener experience what you describe, so understanding and trust come faster.", "el": "Η ιστορία κάνει τον ακροατή να ζήσει αυτό που περιγράφεις, άρα η κατανόηση και η εμπιστοσύνη έρχονται πιο γρήγορα."}
+      }
+    },
+    {
+      "title": {"en": "Three kinds of story", "el": "Τρία είδη ιστοριών"},
+      "explain": {
+        "en": "Gallo names three kinds of story that work on stage. One: personal stories about you, especially ones with a struggle. Two: stories about other people who learned a lesson or changed. Three: stories about a brand or product that succeeded or failed. Pick the kind that best supports your point, keep it short, and make sure it leads straight to your message.",
+        "el": "Ο Γκάλο ξεχωρίζει τρία είδη ιστοριών που δουλεύουν στη σκηνή. Πρώτο: προσωπικές ιστορίες για σένα, ειδικά όταν έχουν μια δυσκολία. Δεύτερο: ιστορίες για άλλους ανθρώπους που πήραν ένα μάθημα ή άλλαξαν. Τρίτο: ιστορίες για μια εταιρεία ή ένα προϊόν που πέτυχε ή απέτυχε. Διάλεξε το είδος που στηρίζει καλύτερα αυτό που θες να πεις, κράτα την ιστορία σύντομη και φρόντισε να οδηγεί κατευθείαν στο μήνυμά σου."
+      },
+      "example": {
+        "en": "Lawyer Bryan Stevenson opened his 2012 TED talk with a memory of his grandmother making him promise never to drink alcohol. Then he told stories of other people he had met in the justice system. The talk earned one of the longest standing ovations in TED's history.",
+        "el": "Ο δικηγόρος Μπράιαν Στίβενσον άνοιξε την ομιλία του στο TED το 2012 με μια ανάμνηση: η γιαγιά του τού ζήτησε να της υποσχεθεί ότι δεν θα πιει ποτέ αλκοόλ. Μετά είπε ιστορίες άλλων ανθρώπων που είχε γνωρίσει στο σύστημα δικαιοσύνης. Το κοινό σηκώθηκε όρθιο και τον χειροκροτούσε για πολλή ώρα· ήταν από τα μεγαλύτερα χειροκροτήματα στην ιστορία του TED."
+      },
+      "apply": {
+        "en": "Collect one story of each kind for your ads and talks: yours (why you started Advon), a client's (a real professional who doubted, then said yes, and why), and the brand's (what you learned from a site that did not work at first). Write each in five lines and keep them ready.",
+        "el": "Μάζεψε μία ιστορία από κάθε είδος για τις διαφημίσεις και τις ομιλίες σου: τη δική σου (γιατί ξεκίνησες την Advon), ενός πελάτη (ένας πραγματικός επαγγελματίας που δίσταζε, μετά είπε ναι, και γιατί) και της εταιρείας (τι έμαθες από μια σελίδα που στην αρχή δεν δούλεψε). Γράψε την καθεμία σε πέντε γραμμές και κράτα τες έτοιμες."
+      },
+      "check": {
+        "q": {"en": "Which is one of Gallo's three kinds of story?", "el": "Ποιο είναι ένα από τα τρία είδη ιστοριών του Γκάλο;"},
+        "options": [
+          {"en": "Stories invented to make a point", "el": "Ιστορίες που επινοείς για να περάσεις ένα μήνυμα"},
+          {"en": "Stories copied from famous speeches", "el": "Ιστορίες αντιγραμμένες από διάσημες ομιλίες"},
+          {"en": "Stories about other people who changed", "el": "Ιστορίες για άλλους ανθρώπους που άλλαξαν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Gallo's three are personal stories, stories about others, and stories about brands; all of them must be true.", "el": "Τα τρία του Γκάλο είναι οι προσωπικές ιστορίες, οι ιστορίες άλλων και οι ιστορίες εταιρειών· όλες πρέπει να είναι αληθινές."}
+      }
+    },
+    {
+      "title": {"en": "Mostly heart, then logic", "el": "Πρώτα καρδιά, μετά λογική"},
+      "explain": {
+        "en": "Aristotle said persuasion has three parts: ethos, why people should trust you; logos, facts and logic; and pathos, emotion. Gallo sorted the content of Bryan Stevenson's talk and found about 65% pathos, 25% logos and 10% ethos. It is not a formula, but it is a lesson: most speakers give all logic and no feeling. Give people reasons, but reach their hearts first.",
+        "el": "Ο Αριστοτέλης έλεγε ότι η πειθώ έχει τρία μέρη: το ήθος, γιατί να σε εμπιστευτούν· τον λόγο, δηλαδή στοιχεία και λογική· και το πάθος, το συναίσθημα. Ο Γκάλο χώρισε το περιεχόμενο της ομιλίας του Στίβενσον και βρήκε περίπου 65% πάθος, 25% λόγο και 10% ήθος. Δεν είναι συνταγή, είναι όμως μάθημα: οι περισσότεροι ομιλητές δίνουν μόνο λογική και καθόλου συναίσθημα. Δώσε επιχειρήματα, αλλά άγγιξε πρώτα την καρδιά."
+      },
+      "example": {
+        "en": "Steve Jobs's 2005 graduation speech at Stanford contains almost no data. It is three personal stories: connecting the dots, love and loss, and death. It became one of the most watched graduation speeches ever, because people felt it before they analysed it.",
+        "el": "Η ομιλία του Στιβ Τζομπς στην αποφοίτηση του Στάνφορντ το 2005 δεν έχει σχεδόν καθόλου νούμερα. Είναι τρεις προσωπικές ιστορίες: πώς ενώνονται οι τελείες, η αγάπη και η απώλεια, και ο θάνατος. Έγινε μία από τις πιο δημοφιλείς ομιλίες αποφοίτησης όλων των εποχών, γιατί ο κόσμος την ένιωσε πριν την αναλύσει."
+      },
+      "apply": {
+        "en": "Check your next ad script. If it is only features, «fast, mobile, Google», add one line of feeling first: the patient searching at night who finds a colleague instead of you. Then one line of trust: «over 200 sites for professionals». Then the facts and the 0€ build.",
+        "el": "Έλεγξε το σενάριο της επόμενης διαφήμισης. Αν έχει μόνο χαρακτηριστικά, «γρήγορη, για κινητό, Google», βάλε πρώτα μια γραμμή συναισθήματος: τον ασθενή που ψάχνει βράδυ και βρίσκει συνάδελφο αντί για σένα. Μετά μια γραμμή εμπιστοσύνης: «πάνω από 200 σελίδες για επαγγελματίες». Και στο τέλος τα στοιχεία και το 0€ κατασκευή."
+      },
+      "check": {
+        "q": {"en": "What did Gallo find in Bryan Stevenson's much-admired talk?", "el": "Τι βρήκε ο Γκάλο στην πολύ αγαπημένη ομιλία του Στίβενσον;"},
+        "options": [
+          {"en": "It was mostly statistics and charts", "el": "Ήταν κυρίως στατιστικά και γραφήματα"},
+          {"en": "It was mostly emotion, with some logic and credibility", "el": "Ήταν κυρίως συναίσθημα, με λίγη λογική και αξιοπιστία"},
+          {"en": "It avoided every kind of personal story", "el": "Απέφευγε κάθε είδους προσωπική ιστορία"}
+        ],
+        "answer": 1,
+        "why": {"en": "About two thirds was pathos: the emotional part carried the logic and the credibility.", "el": "Περίπου τα δύο τρίτα ήταν πάθος: το συναισθηματικό μέρος κουβαλούσε τη λογική και την αξιοπιστία."}
+      }
+    },
+    {
+      "title": {"en": "Rehearse until it sounds easy", "el": "Πρόβα μέχρι να ακούγεται αβίαστο"},
+      "explain": {
+        "en": "Secret three: have a conversation. The best TED talks feel like a chat with a friend, yet most are rehearsed many, many times. Practice is what lets you stop thinking about the words, so you can relax, look at people and be yourself. Gallo's method: rehearse out loud, record yourself on video, watch for filler words and nervous habits, fix them, and repeat.",
+        "el": "Τρίτο μυστικό: κάνε κουβέντα. Οι καλύτερες ομιλίες TED μοιάζουν με συζήτηση με έναν φίλο, κι όμως οι περισσότερες έχουν περάσει από αμέτρητες πρόβες. Η εξάσκηση είναι αυτό που σε απαλλάσσει από το να σκέφτεσαι τις λέξεις, ώστε να χαλαρώσεις, να κοιτάξεις τους ανθρώπους και να είσαι ο εαυτός σου. Η μέθοδος του Γκάλο: πρόβα φωναχτά, βίντεο του εαυτού σου, εντοπισμός των «εεε» και των νευρικών κινήσεων, διόρθωση, και ξανά από την αρχή."
+      },
+      "example": {
+        "en": "Jill Bolte Taylor, a brain scientist who described her own stroke at TED in 2008, says she rehearsed the talk about 200 times. On stage it looked spontaneous and deeply personal, and it went on to be watched by millions of people.",
+        "el": "Η Τζιλ Μπολτ Τέιλορ, ερευνήτρια του εγκεφάλου που περιέγραψε στο TED το 2008 το δικό της εγκεφαλικό, λέει ότι έκανε πρόβα την ομιλία περίπου 200 φορές. Στη σκηνή φαινόταν αυθόρμητη και βαθιά προσωπική, και την είδαν στη συνέχεια εκατομμύρια άνθρωποι."
+      },
+      "apply": {
+        "en": "Record your own cold-call opening and your site demo on your phone ten times this week. Listen for «εεε», rushing and a flat tone. You are not memorising a script; you are practising until the words come so easily that you can listen to the doctor instead of to yourself.",
+        "el": "Ηχογράφησε με το κινητό τη δική σου εισαγωγή στο cold call και την παρουσίαση μιας σελίδας δέκα φορές αυτή την εβδομάδα. Πρόσεξε τα «εεε», τη βιασύνη και τον επίπεδο τόνο. Δεν αποστηθίζεις κείμενο· εξασκείσαι μέχρι οι λέξεις να βγαίνουν τόσο εύκολα, που να ακούς τον γιατρό αντί για τον εαυτό σου."
+      },
+      "check": {
+        "q": {"en": "Why do great speakers rehearse so much?", "el": "Γιατί οι σπουδαίοι ομιλητές κάνουν τόσες πρόβες;"},
+        "options": [
+          {"en": "So the talk feels natural and they can focus on people", "el": "Για να βγαίνει φυσικά και να εστιάζουν στους ανθρώπους"},
+          {"en": "So they can read the script word for word", "el": "Για να διαβάζουν το κείμενο λέξη προς λέξη"},
+          {"en": "So that nobody dares to ask them questions", "el": "Για να μην τολμά κανείς να τους κάνει ερωτήσεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "Practice frees your mind from the words, so you can sound conversational and stay present.", "el": "Η εξάσκηση ελευθερώνει το μυαλό σου από τις λέξεις, ώστε να ακούγεσαι σαν να συζητάς και να είσαι παρών."}
+      }
+    },
+    {
+      "title": {"en": "Use your voice like music", "el": "Η φωνή σου είναι όργανο"},
+      "explain": {
+        "en": "How you say it matters as much as what you say. Gallo points to four tools: rate (speed), volume, pitch (high or low) and pauses. Speak at a natural conversation pace, slow down before important points, and lift or drop your voice to stress key words. Nerves make people speak fast and flat; a pause makes you sound calm and lets the idea land.",
+        "el": "Το πώς το λες μετράει όσο και το τι λες. Ο Γκάλο δείχνει τέσσερα εργαλεία: ρυθμό (ταχύτητα), ένταση, τόνο (ψηλά ή χαμηλά) και παύσεις. Μίλα με τον ρυθμό μιας φυσικής κουβέντας, κόψε ταχύτητα πριν από τα σημαντικά και ανέβασε ή χαμήλωσε τη φωνή για να τονίσεις τις λέξεις-κλειδιά. Το άγχος σε κάνει να μιλάς γρήγορα και μονότονα· μια παύση σε δείχνει ήρεμο και αφήνει την ιδέα να «κάτσει»."
+      },
+      "example": {
+        "en": "Gallo timed Bryan Stevenson's TED talk at roughly 190 words a minute: the pace of a relaxed conversation between friends, not a rushed sales pitch and not a slow reading. Many speakers, he notes, go much faster or much slower when they are nervous or reading slides.",
+        "el": "Ο Γκάλο μέτρησε ότι ο Στίβενσον μιλά στο TED με περίπου 190 λέξεις το λεπτό: είναι ο ρυθμός μιας χαλαρής κουβέντας ανάμεσα σε φίλους, ούτε βιαστικό πιτς πωλήσεων ούτε αργή ανάγνωση. Πολλοί ομιλητές, σημειώνει, πάνε πολύ πιο γρήγορα ή πολύ πιο αργά όταν αγχώνονται ή διαβάζουν διαφάνειες."
+      },
+      "apply": {
+        "en": "On your next call, after the opening, say «the build costs 0€» and then stop for two full seconds. Let the doctor react. In reels, slow down on the one phrase you want remembered and say it a little lower and stronger than the rest.",
+        "el": "Στο επόμενο τηλεφώνημα, μετά την εισαγωγή, πες «η κατασκευή κοστίζει 0€» και σταμάτα για δύο ολόκληρα δευτερόλεπτα. Άφησε τον γιατρό να αντιδράσει. Στα reels, κόψε ταχύτητα στη φράση που θες να θυμούνται και πες τη λίγο πιο χαμηλά και πιο σταθερά από τις υπόλοιπες."
+      },
+      "check": {
+        "q": {"en": "What is the best thing to do just before your key point?", "el": "Τι κάνεις καλύτερα ακριβώς πριν από το βασικό σου σημείο;"},
+        "options": [
+          {"en": "Speed up so it sounds exciting", "el": "Ανεβάζεις ταχύτητα για να ακουστεί συναρπαστικό"},
+          {"en": "Drop your voice to a whisper", "el": "Χαμηλώνεις τη φωνή σε ψίθυρο"},
+          {"en": "Slow down and leave a short pause", "el": "Κόβεις ταχύτητα και αφήνεις μια μικρή παύση"}
+        ],
+        "answer": 2,
+        "why": {"en": "Slowing down and pausing signals importance and gives the listener time to take it in.", "el": "Η επιβράδυνση και η παύση δείχνουν ότι κάτι είναι σημαντικό και δίνουν χρόνο στον ακροατή να το αφομοιώσει."}
+      }
+    },
+    {
+      "title": {"en": "Your body speaks first", "el": "Το σώμα σου μιλά πρώτο"},
+      "explain": {
+        "en": "People judge you by your body before your words. Gallo's advice: stand or sit tall, keep an open posture, look people in the eye and use your hands. Natural gestures help listeners follow and make you look confident; hands in pockets, crossed arms or fidgeting do the opposite. Keep gestures purposeful, mostly in the space in front of your chest, not frantic.",
+        "el": "Ο κόσμος σε κρίνει από το σώμα σου πριν ακούσει τις λέξεις σου. Η συμβουλή του Γκάλο: στάσου ή κάτσε ίσια, κράτα ανοιχτή στάση, κοίτα τους ανθρώπους στα μάτια και χρησιμοποίησε τα χέρια σου. Οι φυσικές κινήσεις βοηθούν τον ακροατή να σε ακολουθεί και σε δείχνουν σίγουρο· τα χέρια στις τσέπες, τα σταυρωμένα χέρια και η νευρικότητα κάνουν το αντίθετο. Κάνε κινήσεις με σκοπό, κυρίως μπροστά από το στήθος, όχι σπασμωδικές."
+      },
+      "example": {
+        "en": "Gallo cites psychologist Amy Cuddy, whose 2012 TED talk on body language became one of the most watched ever. She argued that holding open, expansive poses before a stressful event makes people feel more confident. The «feel more confident» part has some support; her claims about hormone changes did not hold up in later studies.",
+        "el": "Ο Γκάλο αναφέρει την ψυχολόγο Έιμι Κάντι, που η ομιλία της στο TED το 2012 για τη γλώσσα του σώματος έγινε από τις πιο δημοφιλείς όλων των εποχών. Υποστήριξε ότι αν κρατήσεις ανοιχτές, «μεγάλες» στάσεις πριν από μια αγχωτική στιγμή, νιώθεις πιο σίγουρος. Το κομμάτι «νιώθεις πιο σίγουρος» έχει κάποια στήριξη· οι ισχυρισμοί της για αλλαγές στις ορμόνες δεν επιβεβαιώθηκαν σε μεταγενέστερες έρευνες."
+      },
+      "apply": {
+        "en": "On video calls set the camera at eye level, sit up and keep your hands in the frame so you can gesture. Look at the lens, not at your own face, when you make your key point. Before filming a reel, stand up, roll your shoulders back and take three slow breaths.",
+        "el": "Στις βιντεοκλήσεις βάλε την κάμερα στο ύψος των ματιών, κάτσε ίσια και κράτα τα χέρια μέσα στο κάδρο για να κινείσαι φυσικά. Όταν λες το βασικό σου σημείο, κοίτα τον φακό, όχι το πρόσωπό σου στην οθόνη. Πριν γυρίσεις ένα reel, σήκω όρθιος, τράβα τους ώμους πίσω και πάρε τρεις αργές ανάσες."
+      },
+      "check": {
+        "q": {"en": "Which habit makes you look more confident on camera?", "el": "Ποια συνήθεια σε δείχνει πιο σίγουρο στην κάμερα;"},
+        "options": [
+          {"en": "Open posture and visible, natural gestures", "el": "Ανοιχτή στάση και ορατές, φυσικές κινήσεις των χεριών"},
+          {"en": "Crossed arms, so that you look serious", "el": "Σταυρωμένα χέρια, για να φαίνεσαι σοβαρός"},
+          {"en": "Hands kept completely out of the frame", "el": "Χέρια εντελώς έξω από το κάδρο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Open posture and natural gestures signal confidence and help people follow what you say.", "el": "Η ανοιχτή στάση και οι φυσικές κινήσεις δείχνουν σιγουριά και βοηθούν τον άλλον να σε ακολουθεί."}
+      }
+    },
+    {
+      "title": {"en": "Teach them something new", "el": "Μάθε τους κάτι καινούργιο"},
+      "explain": {
+        "en": "Secret four: the brain loves novelty. Something new or unexpected grabs attention because the brain is built to notice change; what it already knows, it ignores. A talk that only repeats familiar ideas gets tuned out. Give your audience new information, or a fresh angle on an old problem, so they leave knowing something they did not know before.",
+        "el": "Τέταρτο μυστικό: ο εγκέφαλος λατρεύει το καινούργιο. Κάτι νέο ή απρόσμενο τραβά την προσοχή, γιατί ο εγκέφαλος είναι φτιαγμένος να προσέχει την αλλαγή· ό,τι ήδη ξέρει, το αγνοεί. Μια ομιλία που απλώς επαναλαμβάνει γνωστά πράγματα περνά απαρατήρητη. Δώσε στο κοινό σου νέα πληροφορία ή μια φρέσκια ματιά σε ένα παλιό πρόβλημα, ώστε να φύγει ξέροντας κάτι που δεν ήξερε πριν."
+      },
+      "example": {
+        "en": "At TED in 2006, Hans Rosling turned dull health statistics into animated bubble charts, with countries racing across the screen as they grew richer and healthier. He showed that many ideas people had about «developing countries» were decades out of date, and the talk became a classic.",
+        "el": "Στο TED το 2006, ο Χανς Ρόσλινγκ έκανε τα βαρετά στατιστικά υγείας κινούμενα γραφήματα με φούσκες, όπου οι χώρες έτρεχαν πάνω στην οθόνη καθώς γίνονταν πλουσιότερες και υγιέστερες. Έδειξε ότι πολλά από όσα πίστευε ο κόσμος για τις «αναπτυσσόμενες χώρες» ήταν ξεπερασμένα εδώ και δεκαετίες, και η ομιλία έγινε κλασική."
+      },
+      "apply": {
+        "en": "Open a reel with one useful thing most doctors do not know and that you can prove, for example how a patient's Google search actually looks on a phone, shown live on screen. Teaching first makes you the expert in their eyes, not just another seller.",
+        "el": "Άνοιξε ένα reel με κάτι χρήσιμο που οι περισσότεροι γιατροί δεν ξέρουν και μπορείς να το αποδείξεις, για παράδειγμα πώς φαίνεται στην πραγματικότητα η αναζήτηση ενός ασθενή στο Google από το κινητό, ζωντανά στην οθόνη. Όταν πρώτα διδάσκεις, σε βλέπουν ως ειδικό και όχι ως άλλον έναν πωλητή."
+      },
+      "check": {
+        "q": {"en": "Why does new information hold attention?", "el": "Γιατί η καινούργια πληροφορία κρατά την προσοχή;"},
+        "options": [
+          {"en": "People mostly want to hear what they already believe", "el": "Ο κόσμος θέλει κυρίως να ακούει όσα ήδη πιστεύει"},
+          {"en": "The brain is built to notice novelty and change", "el": "Ο εγκέφαλος είναι φτιαγμένος να προσέχει το νέο και την αλλαγή"},
+          {"en": "Longer explanations always feel more serious", "el": "Οι μεγαλύτερες εξηγήσεις φαίνονται πάντα πιο σοβαρές"}
+        ],
+        "answer": 1,
+        "why": {"en": "Novelty switches the brain on; the familiar is filtered out as background.", "el": "Το καινούργιο «ανάβει» τον εγκέφαλο· το γνώριμο φιλτράρεται σαν φόντο."}
+      }
+    },
+    {
+      "title": {"en": "Your idea in one sentence", "el": "Η ιδέα σε μία πρόταση"},
+      "explain": {
+        "en": "Before you build a talk, Gallo says, write your main idea as a headline short enough for a single tweet: 140 characters or fewer. If you cannot say it that briefly, you do not yet know what you want to say. Every story, fact and slide should then support that one sentence. Clear in your head means clear in theirs.",
+        "el": "Πριν στήσεις μια ομιλία, λέει ο Γκάλο, γράψε την κεντρική σου ιδέα σαν τίτλο που χωράει σε ένα tweet: έως 140 χαρακτήρες. Αν δεν μπορείς να την πεις τόσο σύντομα, δεν ξέρεις ακόμα τι θέλεις να πεις. Κάθε ιστορία, κάθε στοιχείο και κάθε διαφάνεια πρέπει μετά να στηρίζει αυτή τη μία πρόταση. Καθαρό στο δικό σου μυαλό σημαίνει καθαρό και στο δικό τους."
+      },
+      "example": {
+        "en": "Simon Sinek's TED talk on how great leaders inspire action boils down to one line: people buy why you do something, not what you do. Everything in it, including his simple drawing of three circles, serves that single idea, and it became one of the most watched TED talks.",
+        "el": "Η ομιλία του Σάιμον Σίνεκ στο TED για το πώς εμπνέουν οι σπουδαίοι ηγέτες συμπυκνώνεται σε μία γραμμή: ο κόσμος αγοράζει το γιατί κάνεις κάτι, όχι το τι κάνεις. Όλα μέσα της, ακόμα και το απλό σχέδιο με τους τρεις κύκλους, υπηρετούν αυτή τη μία ιδέα, και έγινε από τις πιο δημοφιλείς ομιλίες TED."
+      },
+      "apply": {
+        "en": "Write the headline of advonmedia.com and of each client site as one sentence a stranger gets in five seconds. Before every video call, write yours: «Today I show you how your practice could look online, with 0€ build cost.» If it needs a second sentence, cut.",
+        "el": "Γράψε τον τίτλο του advonmedia.com και κάθε σελίδας πελάτη ως μία πρόταση που την πιάνει ένας άγνωστος σε πέντε δευτερόλεπτα. Πριν από κάθε βιντεοκλήση γράψε τη δική σου: «Σήμερα θα σας δείξω πώς μπορεί να φαίνεται το ιατρείο σας στο ίντερνετ, με 0€ κόστος κατασκευής». Αν χρειάζεται δεύτερη πρόταση, κόψε."
+      },
+      "check": {
+        "q": {"en": "What should you write before building a talk or a page?", "el": "Τι πρέπει να γράψεις πριν στήσεις μια ομιλία ή μια σελίδα;"},
+        "options": [
+          {"en": "The full list of your services", "el": "Την πλήρη λίστα με τις υπηρεσίες σου"},
+          {"en": "A long story that explains everything", "el": "Μια μεγάλη ιστορία που εξηγεί τα πάντα"},
+          {"en": "One short sentence that holds your main idea", "el": "Μία σύντομη πρόταση με την κεντρική σου ιδέα"}
+        ],
+        "answer": 2,
+        "why": {"en": "If you can say it in one short sentence, you know your message, and everything else can support it.", "el": "Αν το λες σε μία σύντομη πρόταση, ξέρεις το μήνυμά σου, και όλα τα υπόλοιπα μπορούν να το στηρίξουν."}
+      }
+    },
+    {
+      "title": {"en": "Plan one jaw-dropping moment", "el": "Σχεδίασε μια στιγμή που σοκάρει"},
+      "explain": {
+        "en": "Secret five: give your audience one shocking, moving or surprising moment they will talk about later. It can be a prop, a striking number, a photo, a demonstration or a short personal story. Strong emotion helps memory, so people keep that moment long after they forget the rest. Plan it on purpose, place it where your main idea is, and tie it to your message.",
+        "el": "Πέμπτο μυστικό: δώσε στο κοινό μία στιγμή που σοκάρει, συγκινεί ή εκπλήσσει, για την οποία θα μιλάνε μετά. Μπορεί να είναι ένα αντικείμενο, ένας εντυπωσιακός αριθμός, μια φωτογραφία, μια επίδειξη ή μια σύντομη προσωπική ιστορία. Το δυνατό συναίσθημα βοηθά τη μνήμη, οπότε ο κόσμος κρατά αυτή τη στιγμή πολύ αφού ξεχάσει τα υπόλοιπα. Σχεδίασέ τη σκόπιμα, βάλε τη εκεί που είναι η κεντρική σου ιδέα και δέσ' τη με το μήνυμά σου."
+      },
+      "example": {
+        "en": "Talking about malaria at TED in 2009, Bill Gates opened a jar of mosquitoes in the hall and said there was no reason only poor people should have the experience. The mosquitoes were not infected, but the audience gasped and the clip went around the world.",
+        "el": "Μιλώντας για την ελονοσία στο TED το 2009, ο Μπιλ Γκέιτς άνοιξε ένα βάζο με κουνούπια μέσα στην αίθουσα και είπε ότι δεν υπάρχει λόγος να το ζουν μόνο οι φτωχοί. Τα κουνούπια δεν ήταν μολυσμένα, αλλά το κοινό πάγωσε και το απόσπασμα έκανε τον γύρο του κόσμου."
+      },
+      "apply": {
+        "en": "In a video meeting, first show the doctor's current site or his Google result, then switch to the draft you prepared for him, full screen. That before-and-after reveal is your jaw-dropping moment. In ads, show the same switch within the first three seconds.",
+        "el": "Σε μια βιντεοκλήση, δείξε πρώτα την τωρινή σελίδα του γιατρού ή το αποτέλεσμά του στο Google και μετά γύρνα στο προσχέδιο που ετοίμασες για εκείνον, σε πλήρη οθόνη. Αυτή η αποκάλυψη «πριν και μετά» είναι η στιγμή που σοκάρει. Στις διαφημίσεις, δείξε την ίδια αλλαγή μέσα στα πρώτα τρία δευτερόλεπτα."
+      },
+      "check": {
+        "q": {"en": "What makes a jaw-dropping moment work?", "el": "Τι κάνει μια στιγμή-σοκ να πετυχαίνει;"},
+        "options": [
+          {"en": "It is surprising and tied to your main idea", "el": "Είναι απρόσμενη και δεμένη με την κεντρική σου ιδέα"},
+          {"en": "It is loud, even if it has no link to the topic", "el": "Είναι θορυβώδης, ακόμα κι αν δεν έχει σχέση με το θέμα"},
+          {"en": "It is saved as a joke for the very last second", "el": "Φυλάγεται ως αστείο για το τελευταίο δευτερόλεπτο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Surprise makes it memorable; the link to your idea makes the right thing memorable.", "el": "Η έκπληξη την κάνει αξέχαστη· η σύνδεση με την ιδέα σου κάνει αξέχαστο το σωστό πράγμα."}
+      }
+    },
+    {
+      "title": {"en": "Humor without jokes", "el": "Χιούμορ χωρίς ανέκδοτα"},
+      "explain": {
+        "en": "Secret six: lighten up. Humor lowers defences, makes you likeable and keeps attention. But Gallo warns against telling jokes, which often fall flat. Use natural humor instead: funny true anecdotes, honest observations about everyday life, playful analogies, a quote, or a funny photo or short video. Aim for a smile, not a big laugh, and never make fun of your audience.",
+        "el": "Έκτο μυστικό: χαλάρωσε. Το χιούμορ ρίχνει τις άμυνες, σε κάνει συμπαθή και κρατά την προσοχή. Ο Γκάλο όμως προειδοποιεί να μη λες ανέκδοτα, γιατί συχνά πέφτουν στο κενό. Χρησιμοποίησε φυσικό χιούμορ: αστεία αληθινά περιστατικά, ειλικρινείς παρατηρήσεις για την καθημερινότητα, παιχνιδιάρικες παρομοιώσεις, ένα απόφθεγμα ή μια αστεία φωτογραφία ή βίντεο. Στόχευσε σε χαμόγελο, όχι σε τρανταχτό γέλιο, και μη γελάς ποτέ με το κοινό σου."
+      },
+      "example": {
+        "en": "Sir Ken Robinson's 2006 talk «Do Schools Kill Creativity?» was for years TED's most watched. He told no formal jokes; he used gentle family stories and dry remarks, such as academics treating their bodies as a way to carry their heads to meetings. The laughter carried a serious message about education.",
+        "el": "Η ομιλία του σερ Κεν Ρόμπινσον το 2006, «Σκοτώνουν τα σχολεία τη δημιουργικότητα;», ήταν για χρόνια η πιο δημοφιλής του TED. Δεν είπε ούτε ένα κανονικό ανέκδοτο· χρησιμοποίησε τρυφερές οικογενειακές ιστορίες και ξερές παρατηρήσεις, όπως ότι οι πανεπιστημιακοί βλέπουν το σώμα τους ως τρόπο να μεταφέρουν το κεφάλι τους στις συσκέψεις. Το γέλιο κουβαλούσε ένα σοβαρό μήνυμα για την εκπαίδευση."
+      },
+      "apply": {
+        "en": "Use the real funny moments of your work, only if they happened: the old practice site with a visitor counter from 2009, or material sent in five different chats. One light line in a reel or a meeting makes you human. Never laugh at the prospect himself.",
+        "el": "Χρησιμοποίησε τις πραγματικά αστείες στιγμές της δουλειάς σου, μόνο αν συνέβησαν: την παλιά σελίδα ιατρείου με μετρητή επισκεπτών από το 2009 ή το υλικό που έρχεται σε πέντε διαφορετικά chat. Μια ελαφριά ατάκα σε ένα reel ή μια συνάντηση σε κάνει άνθρωπο. Μη γελάς ποτέ με τον ίδιο τον υποψήφιο πελάτη."
+      },
+      "check": {
+        "q": {"en": "What kind of humor does Gallo recommend?", "el": "Τι είδους χιούμορ προτείνει ο Γκάλο;"},
+        "options": [
+          {"en": "Rehearsed jokes found on the internet", "el": "Έτοιμα ανέκδοτα από το ίντερνετ"},
+          {"en": "Teasing people sitting in the audience", "el": "Πειράγματα σε ανθρώπους του κοινού"},
+          {"en": "True anecdotes and light observations", "el": "Αληθινά περιστατικά και ελαφριές παρατηρήσεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "Natural humor from real life feels authentic and rarely falls flat, unlike formal jokes.", "el": "Το φυσικό χιούμορ από την πραγματική ζωή φαίνεται αυθεντικό και σπάνια πέφτει στο κενό, σε αντίθεση με τα ανέκδοτα."}
+      }
+    },
+    {
+      "title": {"en": "The 18-minute rule", "el": "Ο κανόνας των 18 λεπτών"},
+      "explain": {
+        "en": "Secret seven: TED talks have an 18-minute limit. TED's curator Chris Anderson says it is long enough to be serious and short enough to hold attention. Listening is hard work for the brain; too much information piles up into a «cognitive backlog» and people stop taking things in. A shorter limit forces you to cut what is not essential, so the message gets clearer.",
+        "el": "Έβδομο μυστικό: οι ομιλίες TED έχουν όριο 18 λεπτά. Ο επικεφαλής του TED, Κρις Άντερσον, λέει ότι είναι αρκετά για να πεις κάτι σοβαρό και αρκετά λίγα για να κρατήσεις την προσοχή. Το να ακούς κουράζει τον εγκέφαλο· όταν η πληροφορία είναι πολλή, συσσωρεύεται ένα «γνωστικό φορτίο» και ο κόσμος σταματά να απορροφά. Το μικρότερο όριο σε αναγκάζει να κόψεις ό,τι δεν είναι απαραίτητο, και το μήνυμα γίνεται πιο καθαρό."
+      },
+      "example": {
+        "en": "John F. Kennedy's 1962 speech at Rice University, where he said America would go to the Moon within the decade, lasted about 18 minutes. Gallo uses it to show that a speech can change history without being long.",
+        "el": "Η ομιλία του Τζον Κένεντι στο Πανεπιστήμιο Ράις το 1962, όπου είπε ότι η Αμερική θα πάει στη Σελήνη μέσα στη δεκαετία, κράτησε περίπου 18 λεπτά. Ο Γκάλο τη χρησιμοποιεί για να δείξει ότι μια ομιλία μπορεί να αλλάξει την ιστορία χωρίς να είναι μεγάλη."
+      },
+      "apply": {
+        "en": "Cap your video meetings: about 15 minutes to show the site and the offer, then questions. Keep reels at 30 to 45 seconds with one idea each. If you speak at an event, prepare 15 minutes of content for an 18-minute slot so you never rush.",
+        "el": "Βάλε όριο στις βιντεοκλήσεις: περίπου 15 λεπτά για να δείξεις τη σελίδα και την προσφορά, και μετά ερωτήσεις. Κράτα τα reels στα 30 με 45 δευτερόλεπτα, με μία ιδέα το καθένα. Αν μιλήσεις σε εκδήλωση, ετοίμασε 15 λεπτά υλικό για χρόνο 18 λεπτών, ώστε να μη βιαστείς ποτέ."
+      },
+      "check": {
+        "q": {"en": "Why are shorter talks often better?", "el": "Γιατί οι πιο σύντομες ομιλίες είναι συχνά καλύτερες;"},
+        "options": [
+          {"en": "Audiences prefer speakers who seem busy", "el": "Το κοινό προτιμά ομιλητές που φαίνονται πολυάσχολοι"},
+          {"en": "Too much information overloads listeners, and limits force clarity", "el": "Η πολλή πληροφορία βαραίνει τον ακροατή και το όριο φέρνει καθαρότητα"},
+          {"en": "Short talks need much less preparation", "el": "Οι σύντομες ομιλίες θέλουν πολύ λιγότερη προετοιμασία"}
+        ],
+        "answer": 1,
+        "why": {"en": "The brain can only take in so much, and a limit makes you keep only the essential.", "el": "Ο εγκέφαλος χωράει συγκεκριμένη ποσότητα, και το όριο σε κάνει να κρατήσεις μόνο το ουσιώδες."}
+      }
+    },
+    {
+      "title": {"en": "The rule of three", "el": "Ο κανόνας του τρία"},
+      "explain": {
+        "en": "People easily remember three things; beyond that, recall drops fast. So group your message into three main points, three benefits or three steps. Three feels complete and is easy to follow. Gallo suggests building a talk as one headline supported by three key messages, each backed by its own story, fact or example.",
+        "el": "Ο κόσμος θυμάται εύκολα τρία πράγματα· από εκεί και πέρα, η μνήμη πέφτει γρήγορα. Γι' αυτό οργάνωσε το μήνυμά σου σε τρία βασικά σημεία, τρία οφέλη ή τρία βήματα. Το τρία μοιάζει ολοκληρωμένο και ακολουθείται εύκολα. Ο Γκάλο προτείνει να χτίζεις μια ομιλία ως έναν τίτλο που στηρίζεται σε τρία βασικά μηνύματα, το καθένα με τη δική του ιστορία, στοιχείο ή παράδειγμα."
+      },
+      "example": {
+        "en": "In January 2007 Steve Jobs announced that Apple was introducing three products: a widescreen iPod with touch controls, a revolutionary mobile phone and a breakthrough internet communicator. He repeated the three until the audience understood they were one device: the iPhone.",
+        "el": "Τον Ιανουάριο του 2007 ο Στιβ Τζομπς ανακοίνωσε ότι η Apple παρουσιάζει τρία προϊόντα: ένα iPod με μεγάλη οθόνη αφής, ένα επαναστατικό κινητό τηλέφωνο και μια πρωτοποριακή συσκευή επικοινωνίας μέσω ίντερνετ. Τα επανέλαβε μέχρι το κοινό να καταλάβει ότι ήταν μία συσκευή: το iPhone."
+      },
+      "apply": {
+        "en": "Give every pitch three reasons: «You pay 0€ to build it, you get unlimited changes until it goes live, and then you pay only hosting and domain, about 130€ a year.» Use three sections on client homepages, three steps on advonmedia.com and three points per reel.",
+        "el": "Δώσε σε κάθε παρουσίαση τρεις λόγους: «Η κατασκευή κοστίζει 0€, έχετε απεριόριστες αλλαγές μέχρι να βγει live, και μετά πληρώνετε μόνο φιλοξενία και domain, περίπου 130€ τον χρόνο». Βάλε τρεις ενότητες στις αρχικές σελίδες πελατών, τρία βήματα στο advonmedia.com και τρία σημεία σε κάθε reel."
+      },
+      "check": {
+        "q": {"en": "Why group your points in threes?", "el": "Γιατί να οργανώνεις τα σημεία σου ανά τρία;"},
+        "options": [
+          {"en": "Three is easy to remember and feels complete", "el": "Το τρία θυμάται εύκολα και μοιάζει ολοκληρωμένο"},
+          {"en": "Three points make any talk last longer", "el": "Τρία σημεία κάνουν κάθε ομιλία μεγαλύτερη"},
+          {"en": "Audiences always expect exactly ten points", "el": "Το κοινό περιμένει πάντα ακριβώς δέκα σημεία"}
+        ],
+        "answer": 0,
+        "why": {"en": "Short-term memory handles about three items well, and a group of three feels finished.", "el": "Η βραχυπρόθεσμη μνήμη χειρίζεται καλά περίπου τρία στοιχεία, και η τριάδα μοιάζει ολοκληρωμένη."}
+      }
+    },
+    {
+      "title": {"en": "Show it, don't list it", "el": "Δείξ' το, μην το απαριθμείς"},
+      "explain": {
+        "en": "Secret eight is to paint a mental picture. The brain remembers images far better than words, which psychologists call the picture superiority effect. So Gallo says to drop slides full of bullet points. Use one strong image, a short phrase or a single number per slide, and let your voice tell the rest. A listener cannot read a crowded slide and listen to you at the same time.",
+        "el": "Το όγδοο μυστικό είναι να ζωγραφίζεις εικόνες στο μυαλό. Ο εγκέφαλος θυμάται τις εικόνες πολύ καλύτερα από τις λέξεις· οι ψυχολόγοι το λένε «υπεροχή της εικόνας». Γι' αυτό ο Γκάλο λέει να πετάξεις τις διαφάνειες γεμάτες κουκκίδες. Βάλε μία δυνατή εικόνα, μια σύντομη φράση ή έναν αριθμό ανά διαφάνεια και άφησε τη φωνή σου να πει τα υπόλοιπα. Δεν μπορεί κανείς να διαβάζει μια φορτωμένη διαφάνεια και να σε ακούει ταυτόχρονα."
+      },
+      "example": {
+        "en": "Molecular biologist John Medina, whom Gallo quotes, writes that three days after hearing information people remember about 10% of it, but about 65% if a picture was added. Al Gore's climate slideshow, built on photos and charts rather than text, became the film «An Inconvenient Truth».",
+        "el": "Ο μοριακός βιολόγος Τζον Μεντίνα, που παραθέτει ο Γκάλο, γράφει ότι τρεις μέρες αφού ακούσουμε μια πληροφορία θυμόμαστε περίπου το 10%, αλλά περίπου το 65% αν συνοδευόταν από εικόνα. Η παρουσίαση του Αλ Γκορ για το κλίμα, χτισμένη σε φωτογραφίες και γραφήματα αντί για κείμενο, έγινε η ταινία «Μια άβολη αλήθεια»."
+      },
+      "apply": {
+        "en": "On advonmedia.com and client sites, replace long text blocks with real photos and one strong line each. In meetings, never share a slide of features; share the real site, sized like a phone. In reels, show the site on a phone in your hand while you talk.",
+        "el": "Στο advonmedia.com και στις σελίδες πελατών, αντικατέστησε τα μεγάλα κομμάτια κειμένου με αληθινές φωτογραφίες και μία δυνατή φράση η καθεμία. Στις συναντήσεις, μη δείχνεις ποτέ διαφάνεια με χαρακτηριστικά· δείξε την πραγματική σελίδα σε μέγεθος κινητού. Στα reels, δείξε τη σελίδα στο κινητό στο χέρι σου ενώ μιλάς."
+      },
+      "check": {
+        "q": {"en": "What should replace a slide full of bullet points?", "el": "Με τι αντικαθιστάς μια διαφάνεια γεμάτη κουκκίδες;"},
+        "options": [
+          {"en": "Smaller text, so that everything fits", "el": "Με μικρότερα γράμματα, για να χωράνε όλα"},
+          {"en": "One strong image or a short phrase", "el": "Με μία δυνατή εικόνα ή μια σύντομη φράση"},
+          {"en": "Reading every bullet out loud slowly", "el": "Με το να διαβάζεις αργά κάθε κουκκίδα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Pictures are remembered far better than text, and your voice can carry the details.", "el": "Οι εικόνες μένουν στη μνήμη πολύ περισσότερο από το κείμενο, και τις λεπτομέρειες τις λέει η φωνή σου."}
+      }
+    },
+    {
+      "title": {"en": "Reach more than the eyes", "el": "Μίλα σε περισσότερες αισθήσεις"},
+      "explain": {
+        "en": "Gallo adds that the most memorable talks touch more than one sense. Beyond what people see, think about what they hear and what they can touch or do. A prop, a sound, a short video, a live demonstration or a hands-on moment wakes up the audience. The more senses are involved, the richer the memory people take home.",
+        "el": "Ο Γκάλο προσθέτει ότι οι πιο αξέχαστες ομιλίες αγγίζουν περισσότερες από μία αισθήσεις. Πέρα από αυτό που βλέπει ο κόσμος, σκέψου τι ακούει και τι μπορεί να αγγίξει ή να κάνει. Ένα αντικείμενο, ένας ήχος, ένα μικρό βίντεο, μια ζωντανή επίδειξη ή μια στιγμή όπου το κοινό δοκιμάζει κάτι μόνο του το ξυπνούν. Όσο περισσότερες αισθήσεις συμμετέχουν, τόσο πιο πλούσια η ανάμνηση που παίρνει μαζί του."
+      },
+      "example": {
+        "en": "In her 2008 TED talk, Jill Bolte Taylor brought a real human brain onto the stage, with the spinal cord still attached, to show the two halves she was describing. The audience did not just hear about the brain; they saw exactly what she meant.",
+        "el": "Στην ομιλία της στο TED το 2008, η Τζιλ Μπολτ Τέιλορ ανέβασε στη σκηνή έναν πραγματικό ανθρώπινο εγκέφαλο, με τον νωτιαίο μυελό ακόμα πάνω του, για να δείξει τα δύο ημισφαίρια που περιέγραφε. Το κοινό δεν άκουσε απλώς για τον εγκέφαλο· είδε ακριβώς τι εννοούσε."
+      },
+      "apply": {
+        "en": "In meetings, send the draft link and ask the doctor to open it on his own phone while you talk, scroll and tap the «Call us» button himself. When he touches it, it starts to feel like his site. At an event, pass around a phone with a live demo.",
+        "el": "Στις συναντήσεις, στείλε το link του προσχεδίου και ζήτα από τον γιατρό να το ανοίξει στο δικό του κινητό ενώ μιλάς, να κάνει scroll και να πατήσει ο ίδιος το «Καλέστε μας». Όταν το αγγίζει, αρχίζει να το νιώθει δική του σελίδα. Σε εκδήλωση, δώσε να κυκλοφορήσει ένα κινητό με ζωντανή επίδειξη."
+      },
+      "check": {
+        "q": {"en": "How does a prop or a live demo help a talk?", "el": "Πώς βοηθά μια ομιλία ένα αντικείμενο ή μια ζωντανή επίδειξη;"},
+        "options": [
+          {"en": "It hides the fact that you have no story", "el": "Κρύβει ότι δεν έχεις ιστορία να πεις"},
+          {"en": "It replaces the need to rehearse", "el": "Σε απαλλάσσει από την ανάγκη για πρόβα"},
+          {"en": "It engages more senses, so people remember more", "el": "Βάζει στο παιχνίδι περισσότερες αισθήσεις, άρα θυμούνται περισσότερα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Seeing, hearing and touching together create a stronger memory than words alone.", "el": "Όταν βλέπεις, ακούς και αγγίζεις μαζί, η ανάμνηση είναι πιο δυνατή από ό,τι με σκέτες λέξεις."}
+      }
+    },
+    {
+      "title": {"en": "Limits spark creativity", "el": "Οι περιορισμοί γεννούν ιδέες"},
+      "explain": {
+        "en": "Gallo argues that constraints are a gift. A time limit, a word limit or a single slide forces you to choose the strongest material and say it in a fresh way. Without limits, people pile on everything they know. With them, they think harder. So set limits on purpose: fewer minutes, fewer words, fewer slides.",
+        "el": "Ο Γκάλο υποστηρίζει ότι οι περιορισμοί είναι δώρο. Ένα όριο χρόνου, ένα όριο λέξεων ή μία μόνο διαφάνεια σε αναγκάζουν να διαλέξεις το πιο δυνατό υλικό και να το πεις με φρέσκο τρόπο. Χωρίς όρια, ο κόσμος στοιβάζει ό,τι ξέρει. Με όρια, σκέφτεται πιο βαθιά. Βάλε λοιπόν όρια σκόπιμα: λιγότερα λεπτά, λιγότερες λέξεις, λιγότερες διαφάνειες."
+      },
+      "example": {
+        "en": "Dr. Seuss wrote «Green Eggs and Ham» after his publisher bet him he could not write a book using only 50 different words. He did it, and the book became one of the best-selling children's books of all time.",
+        "el": "Ο Δρ Σους έγραψε το «Πράσινα αυγά και ζαμπόν» αφού ο εκδότης του στοιχημάτισε ότι δεν μπορεί να γράψει βιβλίο με μόνο 50 διαφορετικές λέξεις. Τα κατάφερε, και το βιβλίο έγινε ένα από τα παιδικά βιβλία με τις μεγαλύτερες πωλήσεις όλων των εποχών."
+      },
+      "apply": {
+        "en": "Write your cold-call opener in 25 words, your homepage hero in 12, and your reel hook in 7. Then test them. The limit forces you to drop empty words like «quality, reliability, professionalism» and say one concrete thing a doctor cares about.",
+        "el": "Γράψε την εισαγωγή του cold call σε 25 λέξεις, τον τίτλο της αρχικής σελίδας σε 12 και το «άγκιστρο» του reel σε 7. Μετά δοκίμασέ τα. Το όριο σε αναγκάζει να πετάξεις κούφιες λέξεις όπως «ποιότητα, αξιοπιστία, επαγγελματισμός» και να πεις ένα συγκεκριμένο πράγμα που νοιάζει τον γιατρό."
+      },
+      "check": {
+        "q": {"en": "What does a strict word or time limit do to your message?", "el": "Τι κάνει στο μήνυμά σου ένα αυστηρό όριο λέξεων ή χρόνου;"},
+        "options": [
+          {"en": "It forces you to keep only the strongest material", "el": "Σε αναγκάζει να κρατήσεις μόνο το πιο δυνατό υλικό"},
+          {"en": "It always makes the message too shallow", "el": "Κάνει πάντα το μήνυμα πολύ ρηχό"},
+          {"en": "It only matters for written texts", "el": "Μετράει μόνο στα γραπτά κείμενα"}
+        ],
+        "answer": 0,
+        "why": {"en": "A limit makes you choose, and choosing makes the message sharper and more creative.", "el": "Το όριο σε κάνει να διαλέξεις, και η επιλογή κάνει το μήνυμα πιο κοφτερό και πιο δημιουργικό."}
+      }
+    },
+    {
+      "title": {"en": "Stay in your lane", "el": "Μείνε ο εαυτός σου"},
+      "explain": {
+        "en": "The last secret: stay in your lane. Be authentic, open and transparent. Audiences quickly sense a fake, whether it is a borrowed style, hype or a claim you cannot back up. Copy techniques, not personalities. Talk the way you talk, admit what you do not know, and share honest struggles. Trust grows when people feel they are seeing the real you.",
+        "el": "Το τελευταίο μυστικό: μείνε στη λωρίδα σου. Να είσαι αυθεντικός, ανοιχτός και διάφανος. Το κοινό καταλαβαίνει γρήγορα το ψεύτικο, είτε είναι δανεικό ύφος, είτε φούσκωμα, είτε ένας ισχυρισμός που δεν μπορείς να στηρίξεις. Αντέγραψε τεχνικές, όχι προσωπικότητες. Μίλα όπως μιλάς, παραδέξου όσα δεν ξέρεις και μοιράσου τις αληθινές σου δυσκολίες. Η εμπιστοσύνη μεγαλώνει όταν ο κόσμος νιώθει ότι βλέπει τον πραγματικό σου εαυτό."
+      },
+      "example": {
+        "en": "At TEDxHouston in 2010, researcher Brené Brown spoke openly about the personal «breakdown» her own research on vulnerability caused her. Instead of hiding behind data, she showed her struggle. «The Power of Vulnerability» became one of the most watched TED talks ever.",
+        "el": "Στο TEDxHouston το 2010, η ερευνήτρια Μπρενέ Μπράουν μίλησε ανοιχτά για την προσωπική «κατάρρευση» που της προκάλεσε η ίδια της η έρευνα για την ευαλωτότητα. Αντί να κρυφτεί πίσω από τα δεδομένα, έδειξε τη δυσκολία της. Η ομιλία «Η δύναμη της ευαλωτότητας» έγινε από τις πιο δημοφιλείς του TED."
+      },
+      "apply": {
+        "en": "Film reels as yourself, the founder who builds the sites with a small team and AI, not as a big-agency voiceover. If a doctor asks something you are not sure about, say «I will check and tell you today». Honest beats polished, especially on camera.",
+        "el": "Γύρισε τα reels ως ο εαυτός σου, ο ιδρυτής που φτιάχνει τις σελίδες με μια μικρή ομάδα και με AI, όχι με τη φωνή μιας μεγάλης εταιρείας. Αν ένας γιατρός ρωτήσει κάτι που δεν ξέρεις σίγουρα, πες «Θα το ελέγξω και θα σας πω σήμερα». Το ειλικρινές κερδίζει το γυαλισμένο, ειδικά στην κάμερα."
+      },
+      "check": {
+        "q": {"en": "What does «stay in your lane» mean for a speaker?", "el": "Τι σημαίνει «μείνε στη λωρίδα σου» για έναν ομιλητή;"},
+        "options": [
+          {"en": "Never speak about anything outside your industry", "el": "Μη μιλάς ποτέ για κάτι έξω από τον κλάδο σου"},
+          {"en": "Be authentic and never fake a style or a claim", "el": "Να είσαι αυθεντικός και να μην προσποιείσαι ύφος ή ισχυρισμούς"},
+          {"en": "Always use the same slides for every audience", "el": "Χρησιμοποίησε τις ίδιες διαφάνειες για κάθε κοινό"}
+        ],
+        "answer": 1,
+        "why": {"en": "Audiences detect fakes fast; being genuine is what builds lasting trust.", "el": "Το κοινό πιάνει γρήγορα το ψεύτικο· η αυθεντικότητα είναι αυτό που χτίζει διαρκή εμπιστοσύνη."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You have ten seconds on a cold call to a dentist before he decides to hang up. What do you say first?", "el": "Έχεις δέκα δευτερόλεπτα σε ένα cold call σε οδοντίατρο πριν αποφασίσει να κλείσει. Τι λες πρώτα;"},
+      "options": [
+        {"en": "The history of your agency and how many years you have worked", "el": "Την ιστορία της εταιρείας σου και πόσα χρόνια δουλεύεις"},
+        {"en": "One clear sentence on what you do for dentists, with the 0€ build", "el": "Μία καθαρή πρόταση για το τι κάνεις για οδοντιάτρους, με το 0€ κατασκευή"},
+        {"en": "A long list of technical features of your sites", "el": "Μια μεγάλη λίστα με τεχνικά χαρακτηριστικά των σελίδων σου"}
+      ],
+      "answer": 1,
+      "why": {"en": "Gallo's one-sentence headline: if he hears your whole idea in one line, he has a reason to keep listening.", "el": "Η ιδέα σε μία πρόταση του Γκάλο: αν ακούσει όλη την ιδέα σε μία γραμμή, έχει λόγο να συνεχίσει να ακούει."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "In a video meeting, a psychologist seems polite but unconvinced. You have a draft ready. What do you do?", "el": "Σε μια βιντεοκλήση, μια ψυχολόγος είναι ευγενική αλλά δεν έχει πειστεί. Έχεις έτοιμο προσχέδιο. Τι κάνεις;"},
+      "options": [
+        {"en": "Show her current page first, then reveal the new draft full screen", "el": "Δείχνεις πρώτα την τωρινή της σελίδα και μετά αποκαλύπτεις το νέο προσχέδιο σε πλήρη οθόνη"},
+        {"en": "Promise to email a PDF with the details later", "el": "Υπόσχεσαι να της στείλεις αργότερα ένα PDF με λεπτομέρειες"},
+        {"en": "Describe all the features before showing anything", "el": "Περιγράφεις όλα τα χαρακτηριστικά πριν δείξεις οτιδήποτε"}
+      ],
+      "answer": 0,
+      "why": {"en": "A planned before-and-after reveal is your jaw-dropping moment: it creates emotion and memory at once.", "el": "Μια σχεδιασμένη αποκάλυψη «πριν και μετά» είναι η στιγμή που σοκάρει: δημιουργεί ταυτόχρονα συναίσθημα και ανάμνηση."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "You are invited to speak at a local business event. Your draft has 40 slides full of bullet points. What do you do?", "el": "Σε καλούν να μιλήσεις σε μια τοπική επιχειρηματική εκδήλωση. Το προσχέδιό σου έχει 40 διαφάνειες γεμάτες κουκκίδες. Τι κάνεις;"},
+      "options": [
+        {"en": "Keep them and simply talk faster", "el": "Τις κρατάς και απλώς μιλάς πιο γρήγορα"},
+        {"en": "Print them and hand them out at the door", "el": "Τις τυπώνεις και τις μοιράζεις στην είσοδο"},
+        {"en": "Cut to a few slides, each one image or short phrase", "el": "Τις μειώνεις σε λίγες, η καθεμία με μία εικόνα ή μια σύντομη φράση"}
+      ],
+      "answer": 2,
+      "why": {"en": "Pictures beat bullet points, and nobody can read a crowded slide and listen to you at the same time.", "el": "Οι εικόνες κερδίζουν τις κουκκίδες, και κανείς δεν μπορεί να διαβάζει φορτωμένη διαφάνεια και να σε ακούει ταυτόχρονα."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "Your new reel script is a list: «fast, mobile-friendly, Google-ready, modern design». It feels flat. What do you change?", "el": "Το σενάριο του νέου σου reel είναι λίστα: «γρήγορη, για κινητό, έτοιμη για Google, μοντέρνος σχεδιασμός». Είναι επίπεδο. Τι αλλάζεις;"},
+      "options": [
+        {"en": "Add even more features so it sounds complete", "el": "Προσθέτεις κι άλλα χαρακτηριστικά για να ακούγεται πλήρες"},
+        {"en": "Open with the patient searching at night and finding a colleague instead", "el": "Ανοίγεις με τον ασθενή που ψάχνει βράδυ και βρίσκει συνάδελφο αντί για τον γιατρό"},
+        {"en": "Replace your voice with a neutral stock voiceover", "el": "Αντικαθιστάς τη φωνή σου με μια ουδέτερη έτοιμη φωνή"}
+      ],
+      "answer": 1,
+      "why": {"en": "Gallo's lesson from Aristotle: lead with pathos, then add logic and credibility.", "el": "Το μάθημα του Γκάλο από τον Αριστοτέλη: ξεκίνα με το πάθος και μετά πρόσθεσε λογική και αξιοπιστία."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "Watching your last ad, you notice you speak very fast and never stop. What do you do on the next take?", "el": "Βλέποντας την τελευταία σου διαφήμιση, προσέχεις ότι μιλάς πολύ γρήγορα και δεν σταματάς ποτέ. Τι κάνεις στην επόμενη λήψη;"},
+      "options": [
+        {"en": "Speak at a conversation pace and pause before the key line", "el": "Μιλάς με ρυθμό κουβέντας και κάνεις παύση πριν από τη βασική φράση"},
+        {"en": "Speak even faster to fit in more information", "el": "Μιλάς ακόμα πιο γρήγορα για να χωρέσουν περισσότερα"},
+        {"en": "Read the text from the screen word for word", "el": "Διαβάζεις το κείμενο από την οθόνη λέξη προς λέξη"}
+      ],
+      "answer": 0,
+      "why": {"en": "Rate and pauses are voice tools: a natural pace and a pause make you sound calm and let the idea land.", "el": "Ο ρυθμός και οι παύσεις είναι εργαλεία της φωνής: ο φυσικός ρυθμός και η παύση σε δείχνουν ήρεμο και αφήνουν την ιδέα να «κάτσει»."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "Your best friend asks you to give a short speech at his wedding next month. How do you prepare?", "el": "Ο κολλητός σου σού ζητά να πεις λίγα λόγια στον γάμο του τον επόμενο μήνα. Πώς προετοιμάζεσαι;"},
+      "options": [
+        {"en": "Improvise on the day so it sounds spontaneous", "el": "Αυτοσχεδιάζεις τη μέρα του γάμου για να ακουστεί αυθόρμητο"},
+        {"en": "Write a long text and read it from your phone", "el": "Γράφεις ένα μεγάλο κείμενο και το διαβάζεις από το κινητό"},
+        {"en": "Pick one story, rehearse out loud many times and record yourself", "el": "Διαλέγεις μία ιστορία, κάνεις πολλές πρόβες φωναχτά και ηχογραφείς τον εαυτό σου"}
+      ],
+      "answer": 2,
+      "why": {"en": "Talks that feel spontaneous are rehearsed; practice lets you look at the couple instead of a screen.", "el": "Οι ομιλίες που μοιάζουν αυθόρμητες έχουν περάσει από πρόβες· η εξάσκηση σε αφήνει να κοιτάς το ζευγάρι αντί για μια οθόνη."},
+      "idea": 4
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Gallo groups his nine secrets into talks that are emotional, novel and memorable.", "el": "Ο Γκάλο χωρίζει τα εννέα μυστικά του σε ομιλίες που συγκινούν, φέρνουν κάτι νέο και μένουν στη μνήμη."}, "answer": true, "why": {"en": "That is the structure of the whole book: three secrets in each group.", "el": "Αυτή είναι η δομή όλου του βιβλίου: τρία μυστικά σε κάθε ομάδα."}},
+    {"s": {"en": "Gallo recommends opening with a well-known joke to warm up the room.", "el": "Ο Γκάλο προτείνει να ανοίγεις με ένα γνωστό ανέκδοτο για να ζεσταθεί η αίθουσα."}, "answer": false, "why": {"en": "He advises against formal jokes; natural humor from true anecdotes and observations works better.", "el": "Συμβουλεύει να αποφεύγεις τα ανέκδοτα· το φυσικό χιούμορ από αληθινά περιστατικά και παρατηρήσεις δουλεύει καλύτερα."}},
+    {"s": {"en": "TED's 18-minute limit exists partly because too much information overloads listeners.", "el": "Το όριο των 18 λεπτών του TED υπάρχει εν μέρει επειδή η πολλή πληροφορία βαραίνει τους ακροατές."}, "answer": true, "why": {"en": "Listening is tiring; past a point people stop taking in new information.", "el": "Το να ακούς κουράζει· μετά από ένα σημείο ο κόσμος σταματά να απορροφά νέα πληροφορία."}},
+    {"s": {"en": "Slides packed with bullet points help an audience remember more.", "el": "Οι διαφάνειες γεμάτες κουκκίδες βοηθούν το κοινό να θυμάται περισσότερα."}, "answer": false, "why": {"en": "Images are remembered far better than text; bullet points compete with your voice.", "el": "Οι εικόνες μένουν στη μνήμη πολύ περισσότερο από το κείμενο· οι κουκκίδες ανταγωνίζονται τη φωνή σου."}},
+    {"s": {"en": "Rehearsing many times makes a talk sound less natural.", "el": "Οι πολλές πρόβες κάνουν μια ομιλία να ακούγεται λιγότερο φυσική."}, "answer": false, "why": {"en": "It is the opposite: practice frees you from the words so you can sound conversational.", "el": "Ισχύει το αντίθετο: η εξάσκηση σε απαλλάσσει από τις λέξεις, ώστε να ακούγεσαι σαν να συζητάς."}},
+    {"s": {"en": "In Aristotle's terms, pathos is the appeal to emotion.", "el": "Με τους όρους του Αριστοτέλη, πάθος είναι η απεύθυνση στο συναίσθημα."}, "answer": true, "why": {"en": "Ethos is credibility, logos is logic, pathos is emotion.", "el": "Το ήθος είναι η αξιοπιστία, ο λόγος η λογική, το πάθος το συναίσθημα."}},
+    {"s": {"en": "Copying a famous speaker's personality is the fastest way to win trust.", "el": "Το να αντιγράψεις την προσωπικότητα ενός διάσημου ομιλητή είναι ο πιο γρήγορος δρόμος για να κερδίσεις εμπιστοσύνη."}, "answer": false, "why": {"en": "Gallo says copy techniques, not personalities; audiences sense a fake quickly.", "el": "Ο Γκάλο λέει να αντιγράφεις τεχνικές, όχι προσωπικότητες· το κοινό καταλαβαίνει γρήγορα το ψεύτικο."}},
+    {"s": {"en": "A well-chosen prop or live demonstration can make a talk more memorable.", "el": "Ένα καλά διαλεγμένο αντικείμενο ή μια ζωντανή επίδειξη μπορεί να κάνει μια ομιλία πιο αξέχαστη."}, "answer": true, "why": {"en": "It engages more senses and can become the jaw-dropping moment people retell.", "el": "Βάζει στο παιχνίδι περισσότερες αισθήσεις και μπορεί να γίνει η στιγμή που ο κόσμος θα διηγείται."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Ethos", "el": "Ήθος"}, "b": {"en": "Credibility: why people should trust you", "el": "Αξιοπιστία: γιατί να σε εμπιστευτούν"}},
+    {"a": {"en": "Logos", "el": "Λόγος"}, "b": {"en": "Logic, facts and data", "el": "Λογική, στοιχεία και δεδομένα"}},
+    {"a": {"en": "Pathos", "el": "Πάθος"}, "b": {"en": "Emotion that reaches the heart", "el": "Συναίσθημα που αγγίζει την καρδιά"}},
+    {"a": {"en": "Jaw-dropping moment", "el": "Στιγμή-σοκ"}, "b": {"en": "A planned surprise people will retell later", "el": "Σχεδιασμένη έκπληξη που ο κόσμος θα διηγείται μετά"}},
+    {"a": {"en": "Rule of three", "el": "Κανόνας του τρία"}, "b": {"en": "Three points are easy to remember", "el": "Τρία σημεία θυμούνται εύκολα"}},
+    {"a": {"en": "Picture superiority", "el": "Υπεροχή της εικόνας"}, "b": {"en": "Images are remembered better than words", "el": "Οι εικόνες θυμούνται καλύτερα από τις λέξεις"}}
+  ],
+  "missions": [
+    {"en": "Write the main idea of advonmedia.com in one sentence under 140 characters and compare it with the current headline.", "el": "Γράψε την κεντρική ιδέα του advonmedia.com σε μία πρόταση κάτω από 140 χαρακτήρες και σύγκρινέ τη με τον τωρινό τίτλο."},
+    {"en": "Record your cold-call opener on your phone five times, then keep the version with the calmest pace and the clearest pause.", "el": "Ηχογράφησε την εισαγωγή του cold call στο κινητό πέντε φορές και κράτα την εκδοχή με τον πιο ήρεμο ρυθμό και την πιο καθαρή παύση."},
+    {"en": "Write three true stories in five lines each: yours, a client's and one about Advon.", "el": "Γράψε τρεις αληθινές ιστορίες σε πέντε γραμμές την καθεμία: τη δική σου, ενός πελάτη και μία για την Advon."},
+    {"en": "Film one 30-second reel with a single surprising, checkable fact and a before-and-after reveal of a real site.", "el": "Γύρισε ένα reel 30 δευτερολέπτων με ένα μόνο απρόσμενο στοιχείο που ελέγχεται και μια αποκάλυψη «πριν και μετά» μιας πραγματικής σελίδας."},
+    {"en": "Look at every screen you share in meetings and cut any list of features down to one image and one short line.", "el": "Κοίτα κάθε οθόνη που δείχνεις στις συναντήσεις και κόψε κάθε λίστα χαρακτηριστικών σε μία εικόνα και μία σύντομη φράση."}
+  ],
+  "mantra": {"en": "One clear idea, told with heart, short and true.", "el": "Μία καθαρή ιδέα, με καρδιά, σύντομα και αληθινά."},
+  "careful": {
+    "en": "The book studies popular TED talks, so it shows what spreads, not always what is true or what works in a sales meeting; popularity is not proof. Some research it leans on is shaky: Amy Cuddy's hormone claims about power poses failed to replicate, and figures like «65% remembered with pictures» are rough. The 65% pathos split comes from one talk, not a rule. Emotion without solid facts becomes manipulation.",
+    "el": "Το βιβλίο μελετά δημοφιλείς ομιλίες TED, άρα δείχνει τι διαδίδεται, όχι πάντα τι είναι αληθινό ή τι δουλεύει σε μια συνάντηση πώλησης· η δημοφιλία δεν είναι απόδειξη. Μέρος της έρευνας που επικαλείται είναι αμφίβολο: οι ισχυρισμοί της Κάντι για τις ορμόνες και τις «στάσεις δύναμης» δεν επιβεβαιώθηκαν, και νούμερα όπως το «65% με εικόνες» είναι χοντρικά. Το 65% πάθος προέρχεται από μία ομιλία, δεν είναι κανόνας. Συναίσθημα χωρίς γερά στοιχεία καταλήγει χειραγώγηση."
+  },
+  "connects": [
+    {"book": "steve-jobs", "note": {"en": "Gallo borrows many examples from Jobs's keynotes; the biography shows the obsession and endless rehearsal behind those famous launches.", "el": "Ο Γκάλο δανείζεται πολλά παραδείγματα από τις παρουσιάσεις του Τζομπς· η βιογραφία δείχνει την εμμονή και τις ατελείωτες πρόβες πίσω από αυτές τις διάσημες παρουσιάσεις."}},
+    {"book": "made-to-stick", "note": {"en": "Both preach simple, surprising, concrete messages told as stories; the Heaths explain why ideas stick, Gallo shows how to deliver them on a stage.", "el": "Και τα δύο κηρύττουν απλά, απρόσμενα, χειροπιαστά μηνύματα που λέγονται σαν ιστορίες· οι Χιθ εξηγούν γιατί οι ιδέες μένουν, ο Γκάλο δείχνει πώς τις παρουσιάζεις στη σκηνή."}},
+    {"book": "storybrand", "note": {"en": "Gallo makes you a better storyteller; Miller adds that in marketing the customer, not you, must be the hero of the story.", "el": "Ο Γκάλο σε κάνει καλύτερο αφηγητή· ο Μίλερ προσθέτει ότι στο μάρκετινγκ ήρωας της ιστορίας πρέπει να είναι ο πελάτης, όχι εσύ."}}
+  ]
+}

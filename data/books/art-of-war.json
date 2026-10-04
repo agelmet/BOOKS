@@ -1,0 +1,626 @@
+{
+  "id": "art-of-war",
+  "title": {"en": "The Art of War", "el": "Η τέχνη του πολέμου"},
+  "author": "Sun Tzu",
+  "authorEl": "Σουν Τζου",
+  "year": -500,
+  "shelf": "people",
+  "skills": {"strategy": 3, "leadership": 2, "wisdom": 1},
+  "oneLine": {
+    "en": "Win through preparation, knowledge and position before any fight begins, because the best victory is the one won without fighting at all.",
+    "el": "Νίκα με προετοιμασία, γνώση και σωστή θέση πριν ξεκινήσει οποιαδήποτε μάχη, γιατί η καλύτερη νίκη είναι αυτή που κερδίζεται χωρίς καθόλου μάχη."
+  },
+  "story": {
+    "en": "The Art of War is a short Chinese text of 13 chapters on strategy, attributed to Sun Tzu, a general said to have served the King of Wu around 500 BC. Historians are not sure he existed; the text was probably shaped over time, its date uncertain, around the 5th century BC. In 1972 an early copy was found on bamboo strips in a tomb at Yinqueshan. Generals, founders and coaches still read it because it teaches thinking before fighting.",
+    "el": "Η τέχνη του πολέμου είναι ένα σύντομο κινεζικό κείμενο 13 κεφαλαίων για τη στρατηγική, που αποδίδεται στον Σουν Τζου, έναν στρατηγό που λέγεται ότι υπηρέτησε τον βασιλιά του Γου γύρω στο 500 π.Χ. Οι ιστορικοί δεν είναι σίγουροι ότι υπήρξε· το κείμενο μάλλον διαμορφώθηκε σταδιακά και η χρονολογία του είναι αβέβαιη, γύρω στον 5ο αιώνα π.Χ. Το 1972 βρέθηκε ένα πρώιμο αντίγραφο γραμμένο σε μπαμπού, μέσα σε έναν τάφο στο Γιντσιουεσάν. Στρατηγοί, επιχειρηματίες και προπονητές το διαβάζουν ακόμα, γιατί διδάσκει να σκέφτεσαι πριν πολεμήσεις."
+  },
+  "forYou": {
+    "en": "Your market is crowded: big agencies, cheap freelancers, do-it-yourself builders and now AI tools. Sun Tzu teaches you to win without costly battles: know your clients and competitors better than they know you, pick ground where others are weak, prepare before you act, move fast and never decide in anger. Strategy beats price wars.",
+    "el": "Η αγορά σου είναι γεμάτη: μεγάλα γραφεία, φτηνοί freelancers, πλατφόρμες για να φτιάξεις μόνος σου σελίδα και τώρα εργαλεία AI. Ο Σουν Τζου σε μαθαίνει να νικάς χωρίς ακριβές μάχες: να ξέρεις τους πελάτες και τους ανταγωνιστές σου καλύτερα απ' ό,τι σε ξέρουν, να διαλέγεις έδαφος όπου οι άλλοι είναι αδύναμοι, να προετοιμάζεσαι πριν κινηθείς, να κινείσαι γρήγορα και να μην αποφασίζεις ποτέ με θυμό. Η στρατηγική νικά τους πολέμους τιμών."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Weigh the five factors", "el": "Ζύγισε τους πέντε παράγοντες"},
+      "explain": {
+        "en": "Sun Tzu opens by saying war is a matter of life and death and must be studied with care. He judges every campaign by five factors: the Way (whether the people are united with their leader), Heaven (weather and timing), Earth (terrain and distances), the Commander (wisdom, trust, care, courage, strictness) and Method (organisation and discipline). Miss one and you risk everything.",
+        "el": "Ο Σουν Τζου ξεκινά λέγοντας ότι ο πόλεμος είναι ζήτημα ζωής και θανάτου και πρέπει να μελετιέται προσεκτικά. Κρίνει κάθε εκστρατεία με πέντε παράγοντες: τον Δρόμο (αν ο λαός είναι ενωμένος με τον ηγέτη του), τον Ουρανό (καιρός και χρονισμός), τη Γη (έδαφος και αποστάσεις), τον Διοικητή (σοφία, αξιοπιστία, φροντίδα, θάρρος, αυστηρότητα) και τη Μέθοδο (οργάνωση και πειθαρχία). Αν σου ξεφύγει ένας, ρισκάρεις τα πάντα."
+      },
+      "example": {
+        "en": "In 1812 Napoleon invaded Russia with an army of around 600,000 men. He underestimated Earth, the huge distances, and Heaven, the brutal winter. Only a small part of the army made it back. A brilliant commander still lost, because two of the five factors were against him.",
+        "el": "Το 1812 ο Ναπολέων εισέβαλε στη Ρωσία με στρατό περίπου 600.000 ανδρών. Υποτίμησε τη Γη, τις τεράστιες αποστάσεις, και τον Ουρανό, τον σκληρό χειμώνα. Γύρισε πίσω μόνο ένα μικρό μέρος του στρατού. Ένας λαμπρός διοικητής έχασε, επειδή δύο από τους πέντε παράγοντες ήταν εναντίον του."
+      },
+      "apply": {
+        "en": "Before any new move, like a campaign aimed at lawyers or a new service, score five things from 1 to 5: Way (is your team behind it?), Heaven (is the timing right, for example not August?), Earth (how crowded is this niche?), Commander (do you have the skill?), Method (is the process written down?). Fix the lowest score first.",
+        "el": "Πριν από κάθε νέα κίνηση, όπως μια καμπάνια για δικηγόρους ή μια νέα υπηρεσία, βαθμολόγησε πέντε πράγματα από το 1 ως το 5: Δρόμος (είναι η ομάδα σου μαζί σου;), Ουρανός (είναι σωστή η στιγμή, για παράδειγμα όχι Αύγουστο;), Γη (πόσο γεμάτος είναι αυτός ο κλάδος;), Διοικητής (έχεις την ικανότητα;), Μέθοδος (είναι γραμμένη η διαδικασία;). Διόρθωσε πρώτα τον χαμηλότερο βαθμό."
+      },
+      "check": {
+        "q": {"en": "What does «Heaven» mean among Sun Tzu's five factors?", "el": "Τι σημαίνει ο «Ουρανός» στους πέντε παράγοντες του Σουν Τζου;"},
+        "options": [
+          {"en": "A religious blessing", "el": "Μια θρησκευτική ευλογία"},
+          {"en": "Weather, seasons and timing", "el": "Ο καιρός, οι εποχές και ο χρονισμός"},
+          {"en": "The ruler's palace", "el": "Το παλάτι του ηγεμόνα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Heaven covers conditions you cannot control but must time your moves around.", "el": "Ο Ουρανός είναι οι συνθήκες που δεν ελέγχεις, αλλά πρέπει να κανονίζεις τις κινήσεις σου με βάση αυτές."}
+      }
+    },
+    {
+      "title": {"en": "Count before you fight", "el": "Μέτρα πριν πολεμήσεις"},
+      "explain": {
+        "en": "Sun Tzu says the general who makes many calculations before the battle wins; the one who makes few loses, and the one who makes none surely loses. Compare yourself and the enemy on clear questions: whose leader is wiser, who has better ground and timing, whose rules are enforced, whose troops are stronger and better trained, whose rewards and punishments are fairer. The answers predict the outcome.",
+        "el": "Ο Σουν Τζου λέει ότι νικά ο στρατηγός που κάνει πολλούς υπολογισμούς πριν από τη μάχη· όποιος κάνει λίγους χάνει, και όποιος δεν κάνει κανέναν χάνει σίγουρα. Σύγκρινε τον εαυτό σου με τον αντίπαλο σε καθαρές ερωτήσεις: ποιου ο ηγέτης είναι σοφότερος, ποιος έχει καλύτερο έδαφος και χρόνο, ποιου οι κανόνες τηρούνται, ποιου τα στρατεύματα είναι δυνατότερα και καλύτερα εκπαιδευμένα, ποιου οι αμοιβές και οι τιμωρίες είναι πιο δίκαιες. Οι απαντήσεις προβλέπουν το αποτέλεσμα."
+      },
+      "example": {
+        "en": "In 1911 Roald Amundsen and Robert Scott raced to the South Pole. Amundsen had planned for years: dogs, skis, many well-marked supply depots and extra food. Scott relied more on ponies and motor sledges, which failed. Amundsen arrived first and returned safely; Scott and his four companions died on the way back.",
+        "el": "Το 1911 ο Ρόαλντ Άμουντσεν και ο Ρόμπερτ Σκοτ έτρεξαν σε αγώνα για τον Νότιο Πόλο. Ο Άμουντσεν σχεδίαζε για χρόνια: σκυλιά, σκι, πολλές καλά σημαδεμένες αποθήκες εφοδίων και επιπλέον τρόφιμα. Ο Σκοτ στηρίχτηκε περισσότερο σε πόνι και μηχανοκίνητα έλκηθρα, που απέτυχαν. Ο Άμουντσεν έφτασε πρώτος και γύρισε σώος· ο Σκοτ και οι τέσσερις σύντροφοί του πέθαναν στον δρόμο της επιστροφής."
+      },
+      "apply": {
+        "en": "Before you enter a new niche, compare yourself on paper with the two strongest agencies there: price, delivery speed, design quality, reviews, how clearly they explain their offer. Use only their public sites, ads and Google reviews. Enter only where you win at least three of the five lines.",
+        "el": "Πριν μπεις σε έναν νέο κλάδο, σύγκρινε τον εαυτό σου στο χαρτί με τα δύο πιο δυνατά γραφεία εκεί: τιμή, ταχύτητα παράδοσης, ποιότητα design, κριτικές, πόσο καθαρά εξηγούν την προσφορά τους. Χρησιμοποίησε μόνο τις δημόσιες σελίδες, τις διαφημίσεις και τις κριτικές τους στο Google. Μπες μόνο εκεί όπου κερδίζεις τουλάχιστον στις τρεις από τις πέντε γραμμές."
+      },
+      "check": {
+        "q": {"en": "Who wins, according to Sun Tzu?", "el": "Ποιος νικά, κατά τον Σουν Τζου;"},
+        "options": [
+          {"en": "The general who makes many calculations before battle", "el": "Ο στρατηγός που κάνει πολλούς υπολογισμούς πριν από τη μάχη"},
+          {"en": "The bravest general on the field", "el": "Ο πιο γενναίος στρατηγός στο πεδίο"},
+          {"en": "Whoever has the biggest army", "el": "Όποιος έχει τον μεγαλύτερο στρατό"}
+        ],
+        "answer": 0,
+        "why": {"en": "Victory is mostly decided by careful comparison and planning beforehand.", "el": "Η νίκη κρίνεται κυρίως από την προσεκτική σύγκριση και τον σχεδιασμό από πριν."}
+      }
+    },
+    {
+      "title": {"en": "All war is deception", "el": "Κάθε πόλεμος στηρίζεται στην παραπλάνηση"},
+      "explain": {
+        "en": "Sun Tzu writes that all warfare is based on deception. When able, seem unable; when near, seem far; offer bait to lure the enemy; attack where he is unprepared. Against an enemy in war this is fair play. In business with clients it is not: there, honesty is your strength. What carries over is discretion: do not reveal your plans to competitors before you act.",
+        "el": "Ο Σουν Τζου γράφει ότι κάθε πόλεμος στηρίζεται στην παραπλάνηση. Όταν μπορείς, δείξε ότι δεν μπορείς· όταν είσαι κοντά, δείξε ότι είσαι μακριά· δώσε δόλωμα για να παρασύρεις τον εχθρό· χτύπα εκεί που δεν είναι προετοιμασμένος. Απέναντι σε εχθρό στον πόλεμο αυτό είναι θεμιτό. Στη δουλειά με πελάτες δεν είναι: εκεί η ειλικρίνεια είναι η δύναμή σου. Αυτό που μεταφέρεται είναι η διακριτικότητα: μη φανερώνεις τα σχέδιά σου στους ανταγωνιστές πριν κινηθείς."
+      },
+      "example": {
+        "en": "Before D-Day in 1944 the Allies ran Operation Fortitude: a fake army under General Patton, with inflatable tanks and false radio traffic, convinced the Germans that the main landing would come at Calais. Many German divisions stayed there waiting while the Allies landed in Normandy.",
+        "el": "Πριν από την απόβαση στη Νορμανδία το 1944, οι Σύμμαχοι έστησαν την Επιχείρηση Fortitude: ένας ψεύτικος στρατός υπό τον στρατηγό Πάτον, με φουσκωτά τανκς και ψεύτικες ραδιοεπικοινωνίες, έπεισε τους Γερμανούς ότι η κύρια απόβαση θα γινόταν στο Καλαί. Πολλές γερμανικές μεραρχίες έμειναν εκεί να περιμένουν, ενώ οι Σύμμαχοι αποβιβάζονταν στη Νορμανδία."
+      },
+      "apply": {
+        "en": "Keep new plans quiet until they are ready: a new niche, price or service is announced when it is live, not while you are testing it in public groups. With clients, do the opposite: show every cost in writing and never fake demand or scarcity that does not exist.",
+        "el": "Κράτα τα νέα σχέδια ήσυχα μέχρι να είναι έτοιμα: ένας νέος κλάδος, μια νέα τιμή ή μια νέα υπηρεσία ανακοινώνεται όταν είναι live, όχι όσο τη δοκιμάζεις σε δημόσιες ομάδες. Με τους πελάτες κάνε το αντίθετο: δείξε γραπτώς κάθε κόστος και μην προσποιείσαι ποτέ ζήτηση ή έλλειψη που δεν υπάρχει."
+      },
+      "check": {
+        "q": {"en": "Which part of «deception» is right to use in business?", "el": "Ποιο κομμάτι της «παραπλάνησης» είναι σωστό να χρησιμοποιείς στη δουλειά;"},
+        "options": [
+          {"en": "Pretending many clients are waiting in line", "el": "Να προσποιείσαι ότι περιμένουν πολλοί πελάτες στη σειρά"},
+          {"en": "Hiding costs until the contract is signed", "el": "Να κρύβεις κόστη μέχρι να υπογραφεί η συμφωνία"},
+          {"en": "Not revealing your plans to competitors early", "el": "Να μη φανερώνεις νωρίς τα σχέδιά σου στους ανταγωνιστές"}
+        ],
+        "answer": 2,
+        "why": {"en": "Discretion with rivals is fair; deceiving clients breaks trust and is wrong.", "el": "Η διακριτικότητα απέναντι στους ανταγωνιστές είναι θεμιτή· η εξαπάτηση πελατών σπάει την εμπιστοσύνη και είναι λάθος."}
+      }
+    },
+    {
+      "title": {"en": "Speed, not long wars", "el": "Ταχύτητα, όχι μακροί πόλεμοι"},
+      "explain": {
+        "en": "Sun Tzu stresses the cost of war: a thousand chariots, supplies carried far, an emptying treasury. A long war exhausts the army and the state, and neighbours take advantage. He says no country has ever benefited from prolonged warfare. So aim for a quick, decisive result, and use what you take from the enemy instead of draining your own resources.",
+        "el": "Ο Σουν Τζου τονίζει το κόστος του πολέμου: χίλια άρματα, εφόδια που μεταφέρονται μακριά, ένα θησαυροφυλάκιο που αδειάζει. Ένας μακρύς πόλεμος εξαντλεί τον στρατό και το κράτος, και οι γείτονες το εκμεταλλεύονται. Λέει ότι καμία χώρα δεν ωφελήθηκε ποτέ από παρατεταμένο πόλεμο. Στόχευε λοιπόν σε γρήγορο, καθαρό αποτέλεσμα και χρησιμοποίησε ό,τι παίρνεις από τον εχθρό, αντί να στραγγίζεις τους δικούς σου πόρους."
+      },
+      "example": {
+        "en": "The Soviet Union invaded Afghanistan in 1979 expecting a short operation. It lasted almost ten years, cost the lives of around 15,000 Soviet soldiers and huge sums of money, and ended with full withdrawal in 1989. The long war drained an already weak economy.",
+        "el": "Η Σοβιετική Ένωση εισέβαλε στο Αφγανιστάν το 1979, περιμένοντας μια σύντομη επιχείρηση. Κράτησε σχεδόν δέκα χρόνια, κόστισε τη ζωή περίπου 15.000 Σοβιετικών στρατιωτών και τεράστια ποσά, και τελείωσε με πλήρη αποχώρηση το 1989. Ο μακρύς πόλεμος στράγγισε μια ήδη αδύναμη οικονομία."
+      },
+      "apply": {
+        "en": "Put a time limit on every project and every chase. A client site goes from first call to first draft in days, not weeks. A lead gets three follow-ups over two weeks, then you let go. A side project gets 30 days to show a first result; if it does not, stop and free the time.",
+        "el": "Βάλε χρονικό όριο σε κάθε έργο και σε κάθε κυνήγι. Μια σελίδα πελάτη περνά από το πρώτο τηλέφωνο στο πρώτο προσχέδιο σε μέρες, όχι σε εβδομάδες. Ένα lead παίρνει τρία follow-up μέσα σε δύο εβδομάδες και μετά το αφήνεις. Ένα side project έχει 30 μέρες να δείξει ένα πρώτο αποτέλεσμα· αν δεν το δείξει, σταματάς και ελευθερώνεις τον χρόνο."
+      },
+      "check": {
+        "q": {"en": "What does Sun Tzu say about long wars?", "el": "Τι λέει ο Σουν Τζου για τους μακρούς πολέμους;"},
+        "options": [
+          {"en": "They build stronger armies over time", "el": "Με τον καιρό φτιάχνουν δυνατότερους στρατούς"},
+          {"en": "No country has ever benefited from one", "el": "Καμία χώρα δεν ωφελήθηκε ποτέ από αυτούς"},
+          {"en": "They are needed to win completely", "el": "Χρειάζονται για να νικήσεις ολοκληρωτικά"}
+        ],
+        "answer": 1,
+        "why": {"en": "Long campaigns drain money and energy and invite others to attack.", "el": "Οι μακριές εκστρατείες στραγγίζουν χρήματα και ενέργεια και προσκαλούν άλλους να επιτεθούν."}
+      }
+    },
+    {
+      "title": {"en": "Win without fighting", "el": "Νίκη χωρίς μάχη"},
+      "explain": {
+        "en": "The most famous line of the book: winning a hundred battles is not the peak of skill; defeating the enemy without fighting is. Sun Tzu prefers to take a state whole rather than destroy it, because destruction ruins the prize too. Fighting is expensive for both sides. The best results come from strength, position and wise deals that make the battle unnecessary.",
+        "el": "Η πιο διάσημη φράση του βιβλίου: το να κερδίσεις εκατό μάχες δεν είναι η κορυφή της τέχνης· κορυφή είναι να νικήσεις τον εχθρό χωρίς να πολεμήσεις. Ο Σουν Τζου προτιμά να πάρει ένα κράτος ακέραιο παρά να το καταστρέψει, γιατί η καταστροφή χαλάει και το λάφυρο. Η μάχη κοστίζει και στις δύο πλευρές. Τα καλύτερα αποτελέσματα έρχονται από δύναμη, θέση και σοφές συμφωνίες που κάνουν τη μάχη περιττή."
+      },
+      "example": {
+        "en": "In 2012 Facebook faced a fast-growing rival for young mobile users: Instagram, a company of about 13 employees. Instead of a long, costly fight, Facebook bought it for about one billion dollars. Inside the company, Instagram later grew past a billion users.",
+        "el": "Το 2012 το Facebook είχε απέναντί του έναν ανταγωνιστή που μεγάλωνε γρήγορα στους νέους χρήστες κινητών: το Instagram, μια εταιρεία με περίπου 13 υπαλλήλους. Αντί για έναν μακρύ και ακριβό πόλεμο, το Facebook το αγόρασε για περίπου ένα δισεκατομμύριο δολάρια. Μέσα στην εταιρεία, το Instagram ξεπέρασε αργότερα το ένα δισεκατομμύριο χρήστες."
+      },
+      "apply": {
+        "en": "Avoid price wars with cheap freelancers: they bleed both sides. Make the fight unnecessary instead. Partner with a local accountant or print shop who refers clients to you, and offer what a freelancer cannot: a team, fast changes and care all year. When a doctor compares you with something cheaper, show value; do not cut the price.",
+        "el": "Απόφυγε τους πολέμους τιμών με φτηνούς freelancers: ματώνουν και τις δύο πλευρές. Κάνε καλύτερα τη μάχη περιττή. Συνεργάσου με έναν λογιστή ή ένα τυπογραφείο της περιοχής που σου στέλνει πελάτες, και πρόσφερε ό,τι δεν μπορεί να δώσει ένας freelancer: ομάδα, γρήγορες αλλαγές και φροντίδα όλο τον χρόνο. Όταν ένας γιατρός σε συγκρίνει με κάτι φτηνότερο, δείξε αξία· μην κόβεις την τιμή."
+      },
+      "check": {
+        "q": {"en": "What is the supreme skill, for Sun Tzu?", "el": "Ποια είναι η ύψιστη τέχνη, για τον Σουν Τζου;"},
+        "options": [
+          {"en": "Defeating the enemy without fighting", "el": "Να νικήσεις τον εχθρό χωρίς να πολεμήσεις"},
+          {"en": "Winning every single battle", "el": "Να κερδίζεις κάθε μάχη"},
+          {"en": "Destroying the enemy completely", "el": "Να καταστρέψεις ολοκληρωτικά τον εχθρό"}
+        ],
+        "answer": 0,
+        "why": {"en": "Victory without battle keeps your resources and the prize intact.", "el": "Η νίκη χωρίς μάχη κρατά ακέραιους και τους πόρους σου και το λάφυρο."}
+      }
+    },
+    {
+      "title": {"en": "Attack the plan first", "el": "Χτύπα πρώτα το σχέδιο"},
+      "explain": {
+        "en": "Sun Tzu ranks what to attack. Best is to break the enemy's strategy; next, his alliances; next, his army in the field; worst of all is to besiege walled cities, which costs months and many lives. In other words, win at the level of plans and partnerships before you reach costly head-on fights. The higher the level you win at, the cheaper the victory.",
+        "el": "Ο Σουν Τζου βάζει σε σειρά τι πρέπει να χτυπάς. Καλύτερο είναι να σπάσεις τη στρατηγική του αντιπάλου· μετά τις συμμαχίες του· μετά τον στρατό του στο πεδίο· και χειρότερο απ' όλα να πολιορκείς οχυρωμένες πόλεις, που κοστίζει μήνες και πολλές ζωές. Με άλλα λόγια, κέρδισε στο επίπεδο των σχεδίων και των συνεργασιών πριν φτάσεις σε ακριβές μετωπικές συγκρούσεις. Όσο ψηλότερα κερδίζεις, τόσο φτηνότερη η νίκη."
+      },
+      "example": {
+        "en": "In 1980 IBM needed an operating system for its first personal computer. Microsoft licensed it MS-DOS but kept the right to sell it to other computer makers. As cheaper IBM-compatible PCs spread, Microsoft won the market through that one deal, without fighting IBM head-on.",
+        "el": "Το 1980 η IBM χρειαζόταν λειτουργικό σύστημα για τον πρώτο της προσωπικό υπολογιστή. Η Microsoft της έδωσε άδεια χρήσης για το MS-DOS, αλλά κράτησε το δικαίωμα να το πουλά και σε άλλους κατασκευαστές. Καθώς εξαπλώνονταν οι φτηνότεροι υπολογιστές συμβατοί με την IBM, η Microsoft κέρδισε την αγορά με αυτή τη μία συμφωνία, χωρίς μετωπική σύγκρουση με την IBM."
+      },
+      "apply": {
+        "en": "Before fighting for each client one call at a time, look for the higher level: a medical association newsletter, a dental supplier who visits every practice, a group of psychologists who share a building. One partnership can bring the clients that 200 cold calls would. Keep the deal honest and in writing.",
+        "el": "Πριν παλέψεις για κάθε πελάτη με ένα τηλέφωνο τη φορά, ψάξε το ψηλότερο επίπεδο: το ενημερωτικό ενός ιατρικού συλλόγου, έναν προμηθευτή οδοντιατρικών που επισκέπτεται κάθε ιατρείο, μια ομάδα ψυχολόγων που μοιράζονται το ίδιο κτίριο. Μία συνεργασία μπορεί να φέρει όσους πελάτες θα έφερναν 200 cold calls. Κράτα τη συμφωνία τίμια και γραπτή."
+      },
+      "check": {
+        "q": {"en": "What does Sun Tzu rank as the worst thing to attack?", "el": "Ποιο βάζει ο Σουν Τζου ως το χειρότερο πράγμα για να επιτεθείς;"},
+        "options": [
+          {"en": "The enemy's alliances", "el": "Τις συμμαχίες του εχθρού"},
+          {"en": "The enemy's strategy", "el": "Τη στρατηγική του εχθρού"},
+          {"en": "Walled cities", "el": "Τις οχυρωμένες πόλεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "Sieges cost the most time and lives; winning on plans and alliances is cheaper.", "el": "Οι πολιορκίες κοστίζουν τον περισσότερο χρόνο και τις περισσότερες ζωές· η νίκη στα σχέδια και στις συμμαχίες είναι φτηνότερη."}
+      }
+    },
+    {
+      "title": {"en": "Know them and know yourself", "el": "Γνώρισε τον αντίπαλο και τον εαυτό σου"},
+      "explain": {
+        "en": "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory you will also suffer a defeat. If you know neither, you will lose every battle. Knowing both sides is the base of strategy; most failures come from ignoring one of the two.",
+        "el": "Αν γνωρίζεις τον εχθρό και γνωρίζεις τον εαυτό σου, δεν χρειάζεται να φοβάσαι το αποτέλεσμα εκατό μαχών. Αν γνωρίζεις τον εαυτό σου αλλά όχι τον εχθρό, για κάθε νίκη θα πάθεις και μια ήττα. Αν δεν γνωρίζεις κανέναν από τους δύο, θα χάνεις σε κάθε μάχη. Η γνώση και των δύο πλευρών είναι η βάση της στρατηγικής· οι περισσότερες αποτυχίες έρχονται όταν αγνοείς τη μία από τις δύο."
+      },
+      "example": {
+        "en": "In 2000 the founders of Netflix offered to sell their company to Blockbuster for 50 million dollars. Blockbuster's leaders, sure of their thousands of stores, turned it down. They knew their own strength but misread the new rival and how customers were changing. Blockbuster filed for bankruptcy in 2010.",
+        "el": "Το 2000 οι ιδρυτές του Netflix πρότειναν να πουλήσουν την εταιρεία τους στη Blockbuster για 50 εκατομμύρια δολάρια. Τα στελέχη της Blockbuster, σίγουρα για τα χιλιάδες καταστήματά τους, αρνήθηκαν. Ήξεραν τη δύναμή τους, αλλά διάβασαν λάθος τον νέο αντίπαλο και το πώς άλλαζαν οι πελάτες. Η Blockbuster κήρυξε πτώχευση το 2010."
+      },
+      "apply": {
+        "en": "Make two short lists. Yourself: your real strengths (speed, AI, the 0€ build) and weaknesses (tiny team, few big-name clients). Them: what doctors fear about websites and what competitors offer. Then write one call opening that sets your strength against their weak spot, and test it this week.",
+        "el": "Φτιάξε δύο σύντομες λίστες. Για σένα: τα πραγματικά σου δυνατά σημεία (ταχύτητα, AI, κατασκευή 0€) και τα αδύνατα (μικρή ομάδα, λίγοι γνωστοί πελάτες). Για αυτούς: τι φοβούνται οι γιατροί όταν σκέφτονται ιστοσελίδα και τι προσφέρουν οι ανταγωνιστές. Μετά γράψε μια πρώτη φράση για τις κλήσεις που βάζει τη δική σου δύναμη απέναντι στο δικό τους αδύνατο σημείο, και δοκίμασέ τη αυτή την εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What happens if you know yourself but not the enemy?", "el": "Τι γίνεται αν γνωρίζεις τον εαυτό σου αλλά όχι τον εχθρό;"},
+        "options": [
+          {"en": "You win every battle", "el": "Κερδίζεις κάθε μάχη"},
+          {"en": "For every victory you also suffer a defeat", "el": "Για κάθε νίκη παθαίνεις και μια ήττα"},
+          {"en": "You lose every battle", "el": "Χάνεις κάθε μάχη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Half the knowledge gives about half the results.", "el": "Η μισή γνώση φέρνει περίπου τα μισά αποτελέσματα."}
+      }
+    },
+    {
+      "title": {"en": "Let the capable lead", "el": "Άφησε τον ικανό να διοικήσει"},
+      "explain": {
+        "en": "Sun Tzu lists five signs of who will win: he who knows when to fight and when not; he who knows how to use large and small forces; he whose ranks share the same spirit; he who is prepared and waits for an unprepared enemy; and he whose general is capable and not interfered with by the ruler. A ruler who meddles from far away confuses the army.",
+        "el": "Ο Σουν Τζου απαριθμεί πέντε σημάδια για το ποιος θα νικήσει: όποιος ξέρει πότε να πολεμήσει και πότε όχι· όποιος ξέρει να χειρίζεται μεγάλες και μικρές δυνάμεις· όποιου οι τάξεις έχουν το ίδιο πνεύμα· όποιος είναι προετοιμασμένος και περιμένει έναν απροετοίμαστο εχθρό· και όποιου ο στρατηγός είναι ικανός και ο ηγεμόνας δεν ανακατεύεται. Ο ηγεμόνας που επεμβαίνει από μακριά μπερδεύει τον στρατό."
+      },
+      "example": {
+        "en": "At Stalingrad in late 1942, German generals asked to pull the trapped Sixth Army out while there was still a chance. Hitler, far away, forbade any breakout. The army was destroyed, and its commander surrendered in February 1943, one of the turning points of the war.",
+        "el": "Στο Στάλινγκραντ, στα τέλη του 1942, οι Γερμανοί στρατηγοί ζήτησαν να απεγκλωβίσουν την παγιδευμένη 6η Στρατιά όσο υπήρχε ακόμα ευκαιρία. Ο Χίτλερ, από μακριά, απαγόρευσε κάθε έξοδο. Η στρατιά διαλύθηκε και ο διοικητής της παραδόθηκε τον Φεβρουάριο του 1943, σε μια από τις καμπές του πολέμου."
+      },
+      "apply": {
+        "en": "When you hand over a task, like client changes or the cold-call list, agree the goal, the limits and the deadline, then stay out of the details. Check results once a week, not every message. Step in only when a limit is broken, so your people learn to decide.",
+        "el": "Όταν αναθέτεις μια δουλειά, όπως τις αλλαγές των πελατών ή τη λίστα με τα cold calls, συμφώνησε τον στόχο, τα όρια και την προθεσμία και μετά μείνε έξω από τις λεπτομέρειες. Έλεγχε τα αποτελέσματα μία φορά την εβδομάδα, όχι κάθε μήνυμα. Μπες μόνο όταν παραβιαστεί κάποιο όριο, ώστε οι άνθρωποί σου να μάθουν να αποφασίζουν."
+      },
+      "check": {
+        "q": {"en": "Which is one of Sun Tzu's signs of victory?", "el": "Ποιο είναι ένα από τα σημάδια νίκης του Σουν Τζου;"},
+        "options": [
+          {"en": "A capable general free from the ruler's meddling", "el": "Ένας ικανός στρατηγός χωρίς ανάμειξη του ηγεμόνα"},
+          {"en": "A ruler who gives orders on every detail", "el": "Ένας ηγεμόνας που δίνει εντολές για κάθε λεπτομέρεια"},
+          {"en": "An army with many generals", "el": "Ένας στρατός με πολλούς στρατηγούς"}
+        ],
+        "answer": 0,
+        "why": {"en": "The person at the front sees the situation; distant interference causes confusion.", "el": "Αυτός που είναι στο μέτωπο βλέπει την κατάσταση· η ανάμειξη από μακριά φέρνει σύγχυση."}
+      }
+    },
+    {
+      "title": {"en": "Win first, then fight", "el": "Πρώτα κέρδισε, μετά πολέμησε"},
+      "explain": {
+        "en": "Good fighters first make themselves impossible to defeat, then wait for a chance to defeat the enemy. Not losing depends on you; winning depends on the enemy's mistakes. Sun Tzu says victorious armies win first and then go to war, while defeated armies go to war first and then look for victory. Secure your base, then strike when the opening appears.",
+        "el": "Οι καλοί πολεμιστές πρώτα γίνονται ακατανίκητοι και μετά περιμένουν την ευκαιρία να νικήσουν τον εχθρό. Το να μη χάσεις εξαρτάται από σένα· το να κερδίσεις εξαρτάται από τα λάθη του αντιπάλου. Ο Σουν Τζου λέει ότι οι νικηφόροι στρατοί πρώτα κερδίζουν και μετά πάνε στον πόλεμο, ενώ οι ηττημένοι πρώτα πάνε στον πόλεμο και μετά ψάχνουν τη νίκη. Ασφάλισε τη βάση σου και χτύπα όταν φανεί το άνοιγμα."
+      },
+      "example": {
+        "en": "In 1810 Wellington had the Lines of Torres Vedras built in secret, a chain of forts and walls protecting Lisbon. When Marshal Masséna's French army arrived, it found them impossible to break. After months of hunger outside the lines, the French retreated from Portugal in 1811, having lost many thousands of men.",
+        "el": "Το 1810 ο Ουέλινγκτον έχτισε μυστικά τις Γραμμές του Τόρες Βέδρας, μια αλυσίδα από οχυρά και τείχη που προστάτευαν τη Λισαβόνα. Όταν έφτασε ο γαλλικός στρατός του στρατάρχη Μασενά, τις βρήκε απόρθητες. Μετά από μήνες πείνας έξω από τις γραμμές, οι Γάλλοι αποσύρθηκαν από την Πορτογαλία το 1811, έχοντας χάσει πολλές χιλιάδες άνδρες."
+      },
+      "apply": {
+        "en": "Before you spend on a big ad push, make the base unbeatable: your own site fast and beautiful, fresh real reviews, a tested call script, a two-day delivery process. Then launch. Ads amplify what is already there; on a weak base they only buy faster losses.",
+        "el": "Πριν ξοδέψεις σε μια μεγάλη καμπάνια, κάνε τη βάση ακατανίκητη: η δική σου σελίδα γρήγορη και όμορφη, φρέσκες αληθινές κριτικές, ένα δοκιμασμένο σενάριο κλήσεων, μια διαδικασία παράδοσης δύο ημερών. Μετά ξεκίνα. Οι διαφημίσεις μεγεθύνουν ό,τι ήδη υπάρχει· πάνω σε αδύναμη βάση απλώς αγοράζουν πιο γρήγορες απώλειες."
+      },
+      "check": {
+        "q": {"en": "According to Sun Tzu, what depends on you?", "el": "Κατά τον Σουν Τζου, τι εξαρτάται από σένα;"},
+        "options": [
+          {"en": "Whether the enemy makes mistakes", "el": "Αν ο εχθρός θα κάνει λάθη"},
+          {"en": "Making yourself impossible to defeat", "el": "Το να γίνεις ακατανίκητος"},
+          {"en": "The weather on the day of battle", "el": "Ο καιρός τη μέρα της μάχης"}
+        ],
+        "answer": 1,
+        "why": {"en": "Your own defence is in your hands; victory needs the enemy's opening.", "el": "Η άμυνά σου είναι στο χέρι σου· η νίκη χρειάζεται ένα άνοιγμα από τον εχθρό."}
+      }
+    },
+    {
+      "title": {"en": "Direct force and surprise", "el": "Το αναμενόμενο και το απρόσμενο"},
+      "explain": {
+        "en": "Sun Tzu describes two kinds of force: the direct, expected one that engages the enemy, and the indirect, surprising one that wins. You use the direct force to hold the enemy's attention and the surprise to strike. Just as five musical notes make endless melodies, these two combine in endless ways. A skilled leader always has a surprise ready.",
+        "el": "Ο Σουν Τζου περιγράφει δύο ειδών δυνάμεις: την άμεση, αναμενόμενη, που εμπλέκεται με τον εχθρό, και την έμμεση, απρόσμενη, που φέρνει τη νίκη. Με την άμεση κρατάς την προσοχή του αντιπάλου και με την απρόσμενη χτυπάς. Όπως πέντε μουσικές νότες φτιάχνουν άπειρες μελωδίες, έτσι κι αυτές οι δύο συνδυάζονται με άπειρους τρόπους. Ο ικανός ηγέτης έχει πάντα μια έκπληξη έτοιμη."
+      },
+      "example": {
+        "en": "In September 1950, during the Korean War, UN forces held the Pusan line in the south, the expected front. Meanwhile General MacArthur landed troops far behind enemy lines at Inchon, near Seoul. The surprise landing cut North Korean supply lines and turned the war within weeks.",
+        "el": "Τον Σεπτέμβριο του 1950, στον πόλεμο της Κορέας, οι δυνάμεις του ΟΗΕ κρατούσαν τη γραμμή του Πουσάν στον νότο, το αναμενόμενο μέτωπο. Την ίδια ώρα ο στρατηγός ΜακΆρθουρ αποβίβασε στρατό πολύ πίσω από τις εχθρικές γραμμές, στο Ίντσον κοντά στη Σεούλ. Η απρόσμενη απόβαση έκοψε τον ανεφοδιασμό των Βορειοκορεατών και άλλαξε την πορεία του πολέμου μέσα σε λίγες εβδομάδες."
+      },
+      "apply": {
+        "en": "Keep your direct force steady: daily cold calls and running Meta ads. Add one honest surprise that competitors do not offer, for example sending a doctor a short video with a first sketch of their own new homepage before the meeting. The routine brings leads; the surprise wins the deal.",
+        "el": "Κράτα σταθερή την άμεση δύναμή σου: καθημερινά cold calls και διαφημίσεις στο Meta. Πρόσθεσε μια τίμια έκπληξη που δεν προσφέρουν οι ανταγωνιστές, για παράδειγμα να στέλνεις σε έναν γιατρό πριν από το ραντεβού ένα σύντομο βίντεο με ένα πρώτο σχέδιο της δικής του αρχικής σελίδας. Η ρουτίνα φέρνει leads· η έκπληξη κλείνει τη συμφωνία."
+      },
+      "check": {
+        "q": {"en": "In Sun Tzu's view, which force usually wins the battle?", "el": "Κατά τον Σουν Τζου, ποια δύναμη συνήθως κερδίζει τη μάχη;"},
+        "options": [
+          {"en": "The direct force on its own", "el": "Η άμεση δύναμη μόνη της"},
+          {"en": "Simply the largest force", "el": "Απλώς η μεγαλύτερη δύναμη"},
+          {"en": "The surprising, indirect force", "el": "Η απρόσμενη, έμμεση δύναμη"}
+        ],
+        "answer": 2,
+        "why": {"en": "The direct force holds attention; the unexpected one delivers the decisive blow.", "el": "Η άμεση δύναμη κρατά την προσοχή· η απρόσμενη δίνει το αποφασιστικό χτύπημα."}
+      }
+    },
+    {
+      "title": {"en": "Ride the momentum", "el": "Εκμεταλλεύσου την ορμή"},
+      "explain": {
+        "en": "A rushing stream can carry boulders; logs and round stones roll unstoppably down a steep slope. Sun Tzu says a good leader creates that kind of momentum and times its release perfectly, like a crossbow drawn and then fired. He looks for force in the situation, not only in individual people, and places people where the situation carries them forward.",
+        "el": "Ένας ορμητικός χείμαρρος παρασέρνει βράχους· κορμοί και στρογγυλές πέτρες κυλούν ασταμάτητα σε μια απότομη πλαγιά. Ο Σουν Τζου λέει ότι ο καλός ηγέτης δημιουργεί αυτού του είδους την ορμή και διαλέγει τέλεια τη στιγμή που την απελευθερώνει, σαν τεντωμένη βαλλίστρα που ρίχνει. Ψάχνει τη δύναμη στην κατάσταση, όχι μόνο στους ανθρώπους, και βάζει τους ανθρώπους εκεί όπου η κατάσταση τους σπρώχνει μπροστά."
+      },
+      "example": {
+        "en": "In May 1940 German tank forces pushed through the Ardennes forest, which the French thought nearly impassable for armour. Once across the river Meuse, they kept moving without pause and reached the English Channel in about a week, cutting the Allied armies in two.",
+        "el": "Τον Μάιο του 1940 οι γερμανικές τεθωρακισμένες δυνάμεις πέρασαν από το δάσος των Αρδεννών, που οι Γάλλοι θεωρούσαν σχεδόν αδιάβατο για τανκς. Μόλις διέσχισαν τον ποταμό Μεύση, συνέχισαν χωρίς σταματημό και έφτασαν στη Μάγχη σε περίπου μία εβδομάδα, κόβοντας στα δύο τους συμμαχικούς στρατούς."
+      },
+      "apply": {
+        "en": "Stack your efforts so they push each other: post a new reel series, run ads on it and call the same niche the same week, so doctors who saw the reel hear your voice two days later. Do not spread small efforts over many weeks and many niches.",
+        "el": "Βάλε τις προσπάθειές σου να σπρώχνει η μία την άλλη: ανέβασε μια νέα σειρά reels, τρέξε διαφημίσεις πάνω της και πάρε τηλέφωνο τον ίδιο κλάδο την ίδια εβδομάδα, ώστε οι γιατροί που είδαν το reel να ακούσουν τη φωνή σου δύο μέρες μετά. Μη σκορπάς μικρές προσπάθειες σε πολλές εβδομάδες και πολλούς κλάδους."
+      },
+      "check": {
+        "q": {"en": "Where does Sun Tzu look for force first?", "el": "Πού ψάχνει πρώτα τη δύναμη ο Σουν Τζου;"},
+        "options": [
+          {"en": "In the situation and its momentum", "el": "Στην κατάσταση και στην ορμή της"},
+          {"en": "Only in the bravest soldiers", "el": "Μόνο στους πιο γενναίους στρατιώτες"},
+          {"en": "In the number of weapons", "el": "Στον αριθμό των όπλων"}
+        ],
+        "answer": 0,
+        "why": {"en": "A well-built situation makes ordinary people unstoppable, like stones on a slope.", "el": "Μια καλά στημένη κατάσταση κάνει τους συνηθισμένους ανθρώπους ασταμάτητους, σαν πέτρες σε πλαγιά."}
+      }
+    },
+    {
+      "title": {"en": "Strike where they are not", "el": "Χτύπα εκεί που δεν είναι"},
+      "explain": {
+        "en": "Whoever reaches the battlefield first and waits is fresh; whoever arrives late and rushes in is tired. Sun Tzu says: make the enemy come to you, appear where he must hurry to defend, and attack where he is weak or absent. An army should be like water, which flows away from high ground towards the low. Avoid strength, strike emptiness.",
+        "el": "Όποιος φτάνει πρώτος στο πεδίο της μάχης και περιμένει είναι ξεκούραστος· όποιος φτάνει αργά και βιάζεται είναι κουρασμένος. Ο Σουν Τζου λέει: κάνε τον αντίπαλο να έρθει σε σένα, εμφανίσου εκεί που πρέπει να τρέξει να αμυνθεί και χτύπα εκεί που είναι αδύναμος ή απών. Ο στρατός πρέπει να είναι σαν το νερό, που φεύγει από τα ψηλά και τρέχει προς τα χαμηλά. Απόφευγε τη δύναμη, χτύπα το κενό."
+      },
+      "example": {
+        "en": "In 2006 Sony and Microsoft were fighting over the most powerful games console. Nintendo avoided that fight. Its Wii used simple motion controls aimed at families and people who had never played games. It sold more than 100 million units, more than either rival's console of that generation.",
+        "el": "Το 2006 η Sony και η Microsoft πάλευαν για την πιο δυνατή κονσόλα. Η Nintendo απέφυγε αυτή τη μάχη. Το Wii της είχε απλά χειριστήρια κίνησης, για οικογένειες και ανθρώπους που δεν είχαν παίξει ποτέ βιντεοπαιχνίδια. Πούλησε πάνω από 100 εκατομμύρια κομμάτια, περισσότερα από την κονσόλα κάθε αντιπάλου εκείνης της γενιάς."
+      },
+      "apply": {
+        "en": "Find the empty ground in your market: professionals the big agencies ignore, such as physiotherapists in small towns or speech therapists with no site at all. Search Google Maps for one profession plus one town, list those without a website and call them first, before any competitor arrives.",
+        "el": "Βρες το άδειο έδαφος της αγοράς σου: επαγγελματίες που αγνοούν τα μεγάλα γραφεία, όπως φυσικοθεραπευτές σε μικρές πόλεις ή λογοθεραπευτές χωρίς καμία σελίδα. Ψάξε στο Google Maps ένα επάγγελμα μαζί με μια πόλη, κατέγραψε όσους δεν έχουν ιστοσελίδα και πάρ' τους πρώτος, πριν φτάσει κάποιος ανταγωνιστής."
+      },
+      "check": {
+        "q": {"en": "Where should you attack, according to Sun Tzu?", "el": "Πού πρέπει να επιτεθείς, κατά τον Σουν Τζου;"},
+        "options": [
+          {"en": "Where the enemy is strongest, to prove yourself", "el": "Εκεί που ο εχθρός είναι πιο δυνατός, για να αποδείξεις την αξία σου"},
+          {"en": "Where the enemy is weak or absent", "el": "Εκεί που ο εχθρός είναι αδύναμος ή απών"},
+          {"en": "Wherever is nearest to you", "el": "Όπου είναι πιο κοντά σου"}
+        ],
+        "answer": 1,
+        "why": {"en": "Avoiding strength and striking emptiness wins at the lowest cost.", "el": "Όταν αποφεύγεις τη δύναμη και χτυπάς το κενό, νικάς με το μικρότερο κόστος."}
+      }
+    },
+    {
+      "title": {"en": "Be like water", "el": "Γίνε σαν το νερό"},
+      "explain": {
+        "en": "Water has no fixed shape; it takes the shape of whatever holds it and finds its way around obstacles. Sun Tzu says an army should have no fixed form either, but change its tactics as the enemy changes. Do not repeat the tactic that won last time, because the enemy has learned it. Whoever adapts to each new situation, he says, can be called divine.",
+        "el": "Το νερό δεν έχει σταθερό σχήμα· παίρνει το σχήμα αυτού που το κρατά και βρίσκει δρόμο γύρω από τα εμπόδια. Ο Σουν Τζου λέει ότι ούτε ο στρατός πρέπει να έχει σταθερή μορφή, αλλά να αλλάζει τακτική καθώς αλλάζει ο αντίπαλος. Μην επαναλαμβάνεις την τακτική που κέρδισε την προηγούμενη φορά, γιατί ο αντίπαλος την έχει μάθει. Όποιος προσαρμόζεται σε κάθε νέα κατάσταση, λέει, μπορεί να λέγεται θεϊκός."
+      },
+      "example": {
+        "en": "Netflix started by mailing DVDs. In 2007 it launched streaming even though it hurt its own DVD business, and in 2013 it began making its own shows, starting with «House of Cards». Each time the market shifted, it changed shape before its rivals did.",
+        "el": "Το Netflix ξεκίνησε στέλνοντας DVD ταχυδρομικά. Το 2007 ξεκίνησε το streaming, παρότι αυτό έπληττε τη δική του δουλειά με τα DVD, και το 2013 άρχισε να φτιάχνει δικές του σειρές, ξεκινώντας με το «House of Cards». Κάθε φορά που άλλαζε η αγορά, άλλαζε σχήμα πριν από τους αντιπάλους του."
+      },
+      "apply": {
+        "en": "Every three months, review what worked last quarter: which niche, which ad, which call opening. Keep what still works, but assume competitors have copied it. Test one new channel or format each quarter, such as reels instead of static ads or a new profession, so you never get stuck in one shape.",
+        "el": "Κάθε τρεις μήνες ξανακοίτα τι δούλεψε το προηγούμενο τρίμηνο: ποιος κλάδος, ποια διαφήμιση, ποια πρώτη φράση στις κλήσεις. Κράτα ό,τι λειτουργεί ακόμα, αλλά υπόθεσε ότι οι ανταγωνιστές το έχουν αντιγράψει. Δοκίμασε κάθε τρίμηνο ένα νέο κανάλι ή μορφή, όπως reels αντί για στατικές διαφημίσεις ή ένα νέο επάγγελμα, ώστε να μην κολλάς ποτέ σε ένα σχήμα."
+      },
+      "check": {
+        "q": {"en": "Why should you not repeat a winning tactic forever?", "el": "Γιατί να μην επαναλαμβάνεις για πάντα μια τακτική που κέρδισε;"},
+        "options": [
+          {"en": "The enemy learns it and adapts", "el": "Ο αντίπαλος τη μαθαίνει και προσαρμόζεται"},
+          {"en": "Old tactics are always weak", "el": "Οι παλιές τακτικές είναι πάντα αδύναμες"},
+          {"en": "Repeating it bores the troops", "el": "Η επανάληψη κάνει τους στρατιώτες να βαριούνται"}
+        ],
+        "answer": 0,
+        "why": {"en": "What worked once becomes predictable; adapting keeps you ahead.", "el": "Ό,τι πέτυχε μία φορά γίνεται προβλέψιμο· η προσαρμογή σε κρατά μπροστά."}
+      }
+    },
+    {
+      "title": {"en": "Leave a way out", "el": "Άφησε μια διέξοδο"},
+      "explain": {
+        "en": "In chapter 7 Sun Tzu advises: when you surround an army, leave it a way out, and do not press a desperate enemy too hard. People with no escape fight to the death, and even a weaker force becomes dangerous. Give the other side a path to retreat with some dignity, and you win more cheaply than by crushing them.",
+        "el": "Στο 7ο κεφάλαιο ο Σουν Τζου συμβουλεύει: όταν περικυκλώνεις έναν στρατό, άφησέ του μια διέξοδο και μην πιέζεις υπερβολικά έναν απελπισμένο εχθρό. Όποιος δεν έχει πού να πάει πολεμά μέχρι θανάτου, και ακόμα και μια αδύναμη δύναμη γίνεται επικίνδυνη. Δώσε στην άλλη πλευρά έναν δρόμο να υποχωρήσει με κάποια αξιοπρέπεια και θα κερδίσεις πιο φτηνά απ' ό,τι αν τη συντρίψεις."
+      },
+      "example": {
+        "en": "In the Cuban Missile Crisis of 1962, President Kennedy combined a naval blockade with a way out for Khrushchev: a public promise not to invade Cuba and a secret promise to remove US missiles from Turkey. The Soviets withdrew their missiles, and nuclear war was avoided.",
+        "el": "Στην κρίση των πυραύλων της Κούβας το 1962, ο πρόεδρος Κένεντι συνδύασε έναν ναυτικό αποκλεισμό με μια διέξοδο για τον Χρουστσόφ: μια δημόσια δέσμευση ότι δεν θα εισβάλει στην Κούβα και μια μυστική δέσμευση να αποσύρει τους αμερικανικούς πυραύλους από την Τουρκία. Οι Σοβιετικοί απέσυραν τους πυραύλους τους και αποφεύχθηκε ο πυρηνικός πόλεμος."
+      },
+      "apply": {
+        "en": "When a client owes you money, do not corner them with threats. Offer an easy way out that saves face: «Shall we split it into two payments, this month and next?» or «If now is difficult, let us agree a date that suits you.» People pay more readily when they keep their dignity.",
+        "el": "Όταν ένας πελάτης σού χρωστά, μην τον στριμώχνεις με απειλές. Πρόσφερε μια εύκολη διέξοδο που σώζει την αξιοπρέπειά του: «Θέλετε να το χωρίσουμε σε δύο δόσεις, αυτόν και τον επόμενο μήνα;» ή «Αν τώρα σας δυσκολεύει, ας ορίσουμε μια ημερομηνία που σας βολεύει». Οι άνθρωποι πληρώνουν πιο πρόθυμα όταν κρατούν την αξιοπρέπειά τους."
+      },
+      "check": {
+        "q": {"en": "Why leave a surrounded enemy a way out?", "el": "Γιατί να αφήσεις μια διέξοδο σε έναν περικυκλωμένο εχθρό;"},
+        "options": [
+          {"en": "Because the law of war requires mercy", "el": "Γιατί ο νόμος του πολέμου απαιτεί έλεος"},
+          {"en": "Because cornered people fight to the death", "el": "Γιατί όποιος στριμωχτεί πολεμά μέχρι θανάτου"},
+          {"en": "Because you want them back as allies later", "el": "Γιατί θέλεις να γίνουν σύμμαχοί σου αργότερα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Without an escape even the weak fight desperately; a way out makes the win cheaper.", "el": "Χωρίς διέξοδο ακόμα και ο αδύναμος πολεμά απελπισμένα· η διέξοδος κάνει τη νίκη φτηνότερη."}
+      }
+    },
+    {
+      "title": {"en": "Five dangerous faults", "el": "Τα πέντε επικίνδυνα ελαττώματα"},
+      "explain": {
+        "en": "Sun Tzu warns of five faults in a leader: recklessness, which leads to destruction; cowardice, which leads to capture; a hot temper, which can be provoked by insults; a delicate sense of honour, which can be stung by shame; and too much worry for his men, which leaves him exhausted and harassed. Each quality, pushed too far, becomes a weakness the enemy can use.",
+        "el": "Ο Σουν Τζου προειδοποιεί για πέντε ελαττώματα του ηγέτη: την απερισκεψία, που οδηγεί στον αφανισμό· τη δειλία, που οδηγεί στην αιχμαλωσία· τον οξύθυμο χαρακτήρα, που τον προκαλεί κανείς με προσβολές· την ευαίσθητη φιλοτιμία, που την πληγώνει η ντροπή· και την υπερβολική έγνοια για τους ανθρώπους του, που τον αφήνει εξαντλημένο και διαρκώς ταραγμένο. Κάθε ιδιότητα, όταν παρατραβηχτεί, γίνεται αδυναμία που ο αντίπαλος μπορεί να εκμεταλλευτεί."
+      },
+      "example": {
+        "en": "In the American Civil War, General George McClellan built a strong, well-trained Union army but was too cautious to use it, constantly overestimating enemy numbers and asking for more troops. President Lincoln removed him from command in November 1862.",
+        "el": "Στον αμερικανικό Εμφύλιο, ο στρατηγός Τζορτζ ΜακΚλέλαν έφτιαξε έναν δυνατό, καλά εκπαιδευμένο στρατό της Ένωσης, αλλά ήταν υπερβολικά διστακτικός για να τον χρησιμοποιήσει: υπερεκτιμούσε συνεχώς τον αριθμό των εχθρών και ζητούσε κι άλλα στρατεύματα. Ο πρόεδρος Λίνκολν τον απομάκρυνε από τη διοίκηση τον Νοέμβριο του 1862."
+      },
+      "apply": {
+        "en": "Check yourself against the five faults once a month. Did you sign a risky deal on impulse? Did you avoid a needed call out of fear? Did a rude client make you reply in anger? Did a bad review hurt your pride? Did you do your team's work for them? Pick the worst one and set one rule against it.",
+        "el": "Έλεγξε τον εαυτό σου απέναντι στα πέντε ελαττώματα μία φορά τον μήνα. Υπέγραψες μια ριψοκίνδυνη συμφωνία παρορμητικά; Απέφυγες ένα αναγκαίο τηλέφωνο από φόβο; Ένας αγενής πελάτης σε έκανε να απαντήσεις θυμωμένα; Μια κακή κριτική πλήγωσε τον εγωισμό σου; Έκανες τη δουλειά της ομάδας σου στη θέση της; Διάλεξε το χειρότερο και βάλε έναν κανόνα απέναντί του."
+      },
+      "check": {
+        "q": {"en": "Which is one of the five dangerous faults of a leader?", "el": "Ποιο είναι ένα από τα πέντε επικίνδυνα ελαττώματα του ηγέτη;"},
+        "options": [
+          {"en": "Being easily provoked by insults", "el": "Το να τον προκαλούν εύκολα οι προσβολές"},
+          {"en": "Planning too carefully", "el": "Το να σχεδιάζει πολύ προσεκτικά"},
+          {"en": "Knowing the terrain well", "el": "Το να γνωρίζει καλά το έδαφος"}
+        ],
+        "answer": 0,
+        "why": {"en": "A hot temper lets the enemy control you just by insulting you.", "el": "Ο οξύθυμος χαρακτήρας επιτρέπει στον εχθρό να σε ελέγχει απλώς προσβάλλοντάς σε."}
+      }
+    },
+    {
+      "title": {"en": "Read the signs", "el": "Διάβασε τα σημάδια"},
+      "explain": {
+        "en": "Chapter 9 is full of signs to read. Birds rising suddenly mean an ambush; dust rising high and narrow means chariots are coming. When enemy envoys speak humbly while their army keeps preparing, they are about to attack; when they talk boldly and push forward, they may be about to retreat. Small details reveal the real situation if you watch for them.",
+        "el": "Το 9ο κεφάλαιο είναι γεμάτο σημάδια που πρέπει να διαβάζεις. Πουλιά που σηκώνονται ξαφνικά σημαίνουν ενέδρα· σκόνη που υψώνεται ψηλά και στενά σημαίνει ότι έρχονται άρματα. Όταν οι απεσταλμένοι του εχθρού μιλούν ταπεινά ενώ ο στρατός του συνεχίζει να προετοιμάζεται, ετοιμάζεται να επιτεθεί· όταν μιλούν με θράσος και πιέζουν, ίσως ετοιμάζονται να υποχωρήσουν. Οι μικρές λεπτομέρειες φανερώνουν την πραγματική κατάσταση, αν τις προσέχεις."
+      },
+      "example": {
+        "en": "On the morning of 7 December 1941, a US radar station on Oahu detected a large group of aircraft heading for Hawaii. The officer on duty assumed they were expected American bombers and told the operators not to worry. Less than an hour later, Japanese planes attacked Pearl Harbor.",
+        "el": "Το πρωί της 7ης Δεκεμβρίου 1941, ένας αμερικανικός σταθμός ραντάρ στο Οάχου εντόπισε μια μεγάλη ομάδα αεροσκαφών που πετούσε προς τη Χαβάη. Ο αξιωματικός υπηρεσίας υπέθεσε ότι ήταν αμερικανικά βομβαρδιστικά που περίμεναν και είπε στους χειριστές να μην ανησυχούν. Σε λιγότερο από μία ώρα, ιαπωνικά αεροπλάνα χτύπησαν το Περλ Χάρμπορ."
+      },
+      "apply": {
+        "en": "Learn the small signs in sales calls. «Send me something by email» usually means no; «How long does it take?» means interest. In the client chat, a client who suddenly stops sending material may be unhappy or overloaded. Write down the five signs you meet most and how you will respond to each.",
+        "el": "Μάθε τα μικρά σημάδια στις κλήσεις πωλήσεων. Το «στείλτε μου κάτι στο email» συνήθως σημαίνει όχι· το «πόσο καιρό παίρνει;» σημαίνει ενδιαφέρον. Στο chat, ένας πελάτης που σταματά ξαφνικά να στέλνει υλικό μπορεί να είναι δυσαρεστημένος ή πνιγμένος. Γράψε τα πέντε σημάδια που συναντάς πιο συχνά και πώς θα απαντάς στο καθένα."
+      },
+      "check": {
+        "q": {"en": "What do humble words from enemy envoys, while their army prepares, often mean?", "el": "Τι σημαίνουν συχνά τα ταπεινά λόγια των απεσταλμένων του εχθρού, ενώ ο στρατός του προετοιμάζεται;"},
+        "options": [
+          {"en": "They sincerely want peace", "el": "Θέλουν ειλικρινά ειρήνη"},
+          {"en": "They are about to retreat", "el": "Ετοιμάζονται να υποχωρήσουν"},
+          {"en": "They are about to attack", "el": "Ετοιμάζονται να επιτεθούν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Words can hide intentions; the preparations show the truth.", "el": "Τα λόγια μπορούν να κρύβουν προθέσεις· οι προετοιμασίες δείχνουν την αλήθεια."}
+      }
+    },
+    {
+      "title": {"en": "Care with discipline", "el": "Φροντίδα με πειθαρχία"},
+      "explain": {
+        "en": "Treat your soldiers as your beloved sons, says Sun Tzu, and they will follow you into the deepest valleys and stand by you even unto death. But if you are kind and cannot make your orders felt, they become like spoiled children, useless. Punish them before they are attached to you and they will resent it; fail to enforce discipline once they are, and they are useless too. Care and firmness go together.",
+        "el": "Φέρσου στους στρατιώτες σου σαν σε αγαπημένα σου παιδιά, λέει ο Σουν Τζου, και θα σε ακολουθήσουν στις πιο βαθιές κοιλάδες και θα μείνουν δίπλα σου μέχρι θανάτου. Αν όμως είσαι καλός και δεν μπορείς να επιβάλεις τις εντολές σου, γίνονται σαν κακομαθημένα παιδιά, άχρηστοι. Αν τους τιμωρείς πριν δεθούν μαζί σου, θα σε αντιπαθήσουν· αν δεν επιβάλλεις πειθαρχία όταν έχουν δεθεί, πάλι είναι άχρηστοι. Η φροντίδα και η σταθερότητα πάνε μαζί."
+      },
+      "example": {
+        "en": "When Antarctic ice crushed Ernest Shackleton's ship Endurance in 1915, he kept his 27 men to strict daily routines while sharing their hardships and looking after the weakest. After nearly two years of ordeal, every member of the ship's crew came home alive.",
+        "el": "Όταν ο πάγος της Ανταρκτικής συνέθλιψε το πλοίο του Έρνεστ Σάκλτον, το Endurance, το 1915, εκείνος κράτησε τους 27 άνδρες του σε αυστηρό καθημερινό πρόγραμμα, ενώ μοιραζόταν τις κακουχίες τους και φρόντιζε τους πιο αδύναμους. Μετά από σχεδόν δύο χρόνια δοκιμασίας, όλα τα μέλη του πληρώματος γύρισαν ζωντανά."
+      },
+      "apply": {
+        "en": "With your team, be both warm and clear. Pay well and on time, help when someone is overloaded, praise good work in public. Also write clear standards, like «client changes done within 48 hours», and when one is missed, talk about it the same day, calmly, every time.",
+        "el": "Με την ομάδα σου, να είσαι και ζεστός και ξεκάθαρος. Πλήρωνε καλά και στην ώρα σου, βοήθα όταν κάποιος είναι φορτωμένος, επαίνεσε δημόσια την καλή δουλειά. Γράψε όμως και καθαρούς κανόνες, όπως «οι αλλαγές των πελατών γίνονται μέσα σε 48 ώρες», και όταν δεν τηρείται ένας, συζήτησέ το την ίδια μέρα, ήρεμα, κάθε φορά."
+      },
+      "check": {
+        "q": {"en": "What happens to soldiers treated kindly but without discipline?", "el": "Τι γίνεται με στρατιώτες που τους φέρεσαι καλά αλλά χωρίς πειθαρχία;"},
+        "options": [
+          {"en": "They become loyal heroes", "el": "Γίνονται πιστοί ήρωες"},
+          {"en": "They become like spoiled children, useless", "el": "Γίνονται σαν κακομαθημένα παιδιά, άχρηστοι"},
+          {"en": "They fight better than all others", "el": "Πολεμούν καλύτερα από όλους"}
+        ],
+        "answer": 1,
+        "why": {"en": "Care without firmness creates people who will not follow orders when it matters.", "el": "Η φροντίδα χωρίς σταθερότητα φτιάχνει ανθρώπους που δεν ακολουθούν εντολές όταν μετράει."}
+      }
+    },
+    {
+      "title": {"en": "No way back", "el": "Χωρίς δρόμο επιστροφής"},
+      "explain": {
+        "en": "Sun Tzu describes nine kinds of ground. On «death ground», where there is no way back, soldiers fight with everything they have, because only fighting can save them. A general sometimes puts his army there on purpose: in desperate danger soldiers lose their fear. The modern lesson is commitment: when retreat is easy, effort stays half-hearted.",
+        "el": "Ο Σουν Τζου περιγράφει εννέα είδη εδάφους. Στο «έδαφος του θανάτου», όπου δεν υπάρχει δρόμος επιστροφής, οι στρατιώτες πολεμούν με όλες τους τις δυνάμεις, γιατί μόνο η μάχη μπορεί να τους σώσει. Ένας στρατηγός μερικές φορές βάζει επίτηδες τον στρατό του εκεί: σε απελπιστικό κίνδυνο οι στρατιώτες χάνουν τον φόβο τους. Το σύγχρονο μάθημα είναι η δέσμευση: όταν η υποχώρηση είναι εύκολη, η προσπάθεια μένει μισή."
+      },
+      "example": {
+        "en": "In 207 BC the Chinese general Xiang Yu crossed a river to fight a much larger Qin army at Julu. He ordered his men to sink the boats, smash the cooking pots and carry only three days of food. With no way back, they won. «Break the pots and sink the boats» is still a Chinese saying.",
+        "el": "Το 207 π.Χ. ο Κινέζος στρατηγός Σιανγκ Γιου πέρασε ένα ποτάμι για να πολεμήσει έναν πολύ μεγαλύτερο στρατό των Τσιν στο Τζιουλού. Διέταξε τους άνδρες του να βυθίσουν τις βάρκες, να σπάσουν τα καζάνια και να πάρουν τρόφιμα μόνο για τρεις μέρες. Χωρίς δρόμο επιστροφής, νίκησαν. Το «σπάσε τα καζάνια, βύθισε τις βάρκες» είναι ακόμα κινεζική παροιμία."
+      },
+      "apply": {
+        "en": "Choose one goal where you remove the easy exit: tell your team and a friend that you will make 50 calls every weekday this month, and block the time in your calendar. Do this only for goals that are worth it and safe; never bet money you cannot afford to lose.",
+        "el": "Διάλεξε έναν στόχο όπου θα κόψεις την εύκολη έξοδο: πες στην ομάδα σου και σε έναν φίλο ότι αυτόν τον μήνα θα κάνεις 50 κλήσεις κάθε εργάσιμη, και κλείδωσε τον χρόνο στο ημερολόγιο. Κάν' το μόνο για στόχους που αξίζουν και είναι ασφαλείς· μην ποντάρεις ποτέ χρήματα που δεν αντέχεις να χάσεις."
+      },
+      "check": {
+        "q": {"en": "Why do soldiers fight hardest on death ground?", "el": "Γιατί οι στρατιώτες πολεμούν πιο σκληρά στο έδαφος του θανάτου;"},
+        "options": [
+          {"en": "There is no way back, so only fighting can save them", "el": "Δεν υπάρχει δρόμος επιστροφής, άρα μόνο η μάχη μπορεί να τους σώσει"},
+          {"en": "They are paid more there", "el": "Πληρώνονται περισσότερο εκεί"},
+          {"en": "That ground is easier to defend", "el": "Εκείνο το έδαφος υπερασπίζεται πιο εύκολα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Without an escape route, half-hearted effort disappears.", "el": "Όταν δεν υπάρχει διαφυγή, η μισή προσπάθεια εξαφανίζεται."}
+      }
+    },
+    {
+      "title": {"en": "Never act from anger", "el": "Ποτέ από θυμό"},
+      "explain": {
+        "en": "A ruler should not send an army out of anger, and a general should not fight out of spite. Move only when there is an advantage; otherwise stay still. Sun Tzu explains why: anger can turn back into gladness and irritation into joy, but a kingdom once destroyed cannot come back, and the dead cannot be brought to life. Strong feelings fade; the damage done in them stays.",
+        "el": "Ένας ηγεμόνας δεν πρέπει να στέλνει στρατό από θυμό, ούτε ένας στρατηγός να πολεμά από πείσμα. Κινήσου μόνο όταν υπάρχει όφελος· αλλιώς μείνε ακίνητος. Ο Σουν Τζου εξηγεί γιατί: ο θυμός μπορεί να ξαναγίνει χαρά και ο εκνευρισμός ευχαρίστηση, αλλά ένα βασίλειο που καταστράφηκε δεν ξαναγυρίζει, και οι νεκροί δεν ξαναζωντανεύουν. Τα δυνατά συναισθήματα περνούν· η ζημιά που έκανες μέσα σε αυτά μένει."
+      },
+      "example": {
+        "en": "In 221 AD Liu Bei, ruler of Shu, launched a large campaign against the state of Wu, driven largely by rage over the killing of his sworn brother Guan Yu. At Xiaoting in 222 his army was routed by a fire attack, and he died the following year.",
+        "el": "Το 221 μ.Χ. ο Λιου Μπέι, ηγεμόνας του Σου, ξεκίνησε μια μεγάλη εκστρατεία κατά του κράτους του Γου, κυρίως από οργή για τον φόνο του αδελφοποιτού του Γκουάν Γιου. Στο Σιαοτίνγκ το 222 ο στρατός του διαλύθηκε από μια επίθεση με φωτιά, και ο ίδιος πέθανε τον επόμενο χρόνο."
+      },
+      "apply": {
+        "en": "Make a 24-hour rule: no reply to an insulting client message, no public answer to a bad review, no firing and no price decision while you are angry. Write your reply, save it as a draft and read it the next morning. Most of the time you will send a calmer one.",
+        "el": "Βάλε έναν κανόνα 24 ωρών: καμία απάντηση σε προσβλητικό μήνυμα πελάτη, καμία δημόσια απάντηση σε κακή κριτική, καμία απόλυση και καμία απόφαση για τιμές όσο είσαι θυμωμένος. Γράψε την απάντησή σου, κράτα την ως πρόχειρο και διάβασέ τη το επόμενο πρωί. Τις περισσότερες φορές θα στείλεις μια πιο ήρεμη."
+      },
+      "check": {
+        "q": {"en": "Why should a leader never act from anger, says Sun Tzu?", "el": "Γιατί ένας ηγέτης δεν πρέπει ποτέ να πράττει από θυμό, κατά τον Σουν Τζου;"},
+        "options": [
+          {"en": "Anger makes soldiers lazy", "el": "Ο θυμός κάνει τους στρατιώτες τεμπέληδες"},
+          {"en": "The enemy can sense it from afar", "el": "Ο εχθρός τον καταλαβαίνει από μακριά"},
+          {"en": "Anger passes, but its damage may be permanent", "el": "Ο θυμός περνά, αλλά η ζημιά του μπορεί να είναι μόνιμη"}
+        ],
+        "answer": 2,
+        "why": {"en": "Feelings change; a destroyed kingdom or a lost life does not come back.", "el": "Τα συναισθήματα αλλάζουν· ένα κατεστραμμένο βασίλειο ή μια χαμένη ζωή δεν γυρίζουν πίσω."}
+      }
+    },
+    {
+      "title": {"en": "Pay for information", "el": "Επένδυσε στην πληροφορία"},
+      "explain": {
+        "en": "The last chapter is about spies. A war costs a fortune every day, so it is foolish to save a little money on information and stay ignorant of the enemy. Sun Tzu says foreknowledge cannot come from spirits, from comparing past events or from reading the heavens; it must come from people who know the enemy's situation. Good information is the cheapest weapon you have.",
+        "el": "Το τελευταίο κεφάλαιο αφορά τους κατασκόπους. Ένας πόλεμος κοστίζει μια περιουσία κάθε μέρα, άρα είναι ανοησία να γλιτώνεις λίγα χρήματα στην πληροφόρηση και να μένεις στο σκοτάδι για τον εχθρό. Ο Σουν Τζου λέει ότι η πρόγνωση δεν έρχεται από πνεύματα, από συγκρίσεις με παλιά γεγονότα ούτε από τα άστρα· πρέπει να έρθει από ανθρώπους που ξέρουν την κατάσταση του αντιπάλου. Η καλή πληροφορία είναι το φτηνότερο όπλο σου."
+      },
+      "example": {
+        "en": "In the Second World War, codebreakers at Bletchley Park in England read many secret German messages encrypted with the Enigma machine. The work was costly and kept top secret, but some historians estimate it shortened the war in Europe by about two years.",
+        "el": "Στον Δεύτερο Παγκόσμιο Πόλεμο, οι κρυπτογράφοι του Μπλέτσλεϊ Παρκ στην Αγγλία διάβαζαν πολλά μυστικά γερμανικά μηνύματα, κρυπτογραφημένα με τη μηχανή Enigma. Η δουλειά ήταν δαπανηρή και άκρως απόρρητη, αλλά κάποιοι ιστορικοί υπολογίζουν ότι συντόμευσε τον πόλεμο στην Ευρώπη κατά περίπου δύο χρόνια."
+      },
+      "apply": {
+        "en": "Gather information legally and openly: ask every new client «How did you find us, and who else did you consider?», politely ask lost leads why they said no, and read competitors' public ads in the Meta Ad Library. Record the answers in your CRM. Never use fake identities or illegal methods.",
+        "el": "Μάζευε πληροφορίες νόμιμα και ανοιχτά: ρώτα κάθε νέο πελάτη «Πώς μας βρήκατε και ποιους άλλους σκεφτήκατε;», ρώτα ευγενικά όσους είπαν όχι γιατί το είπαν, και διάβαζε τις δημόσιες διαφημίσεις των ανταγωνιστών στη Βιβλιοθήκη Διαφημίσεων του Meta. Γράψε τις απαντήσεις στο CRM σου. Μη χρησιμοποιείς ποτέ ψεύτικες ταυτότητες ή παράνομες μεθόδους."
+      },
+      "check": {
+        "q": {"en": "Where must foreknowledge come from, says Sun Tzu?", "el": "Από πού πρέπει να έρθει η πρόγνωση, κατά τον Σουν Τζου;"},
+        "options": [
+          {"en": "From omens and signs in the sky", "el": "Από οιωνούς και σημάδια στον ουρανό"},
+          {"en": "From people who know the enemy's situation", "el": "Από ανθρώπους που ξέρουν την κατάσταση του εχθρού"},
+          {"en": "From past wars alone", "el": "Μόνο από παλιούς πολέμους"}
+        ],
+        "answer": 1,
+        "why": {"en": "Real knowledge of the other side comes from people with real information, not from guesses.", "el": "Η πραγματική γνώση για την άλλη πλευρά έρχεται από ανθρώπους με πραγματική πληροφορία, όχι από εικασίες."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A cheap freelancer offers websites for 150€ in your city and a dentist asks you to match that price. What does Sun Tzu suggest?", "el": "Ένας φτηνός freelancer προσφέρει ιστοσελίδες με 150€ στην πόλη σου και ένας οδοντίατρος σου ζητά να πέσεις στην ίδια τιμή. Τι προτείνει ο Σουν Τζου;"},
+      "options": [
+        {"en": "Cut your price below his", "el": "Ρίχνεις την τιμή σου κάτω από τη δική του"},
+        {"en": "Show what he gets that a freelancer cannot give: a team, fast changes, care all year", "el": "Δείχνεις τι παίρνει που δεν δίνει ένας freelancer: ομάδα, γρήγορες αλλαγές, φροντίδα όλο τον χρόνο"},
+        {"en": "Attack the freelancer's work in public", "el": "Επιτίθεσαι δημόσια στη δουλειά του freelancer"}
+      ],
+      "answer": 1,
+      "why": {"en": "A price war bleeds both sides. Win without fighting by standing on ground the other cannot hold.", "el": "Ο πόλεμος τιμών ματώνει και τις δύο πλευρές. Νίκα χωρίς μάχη, πατώντας σε έδαφος που ο άλλος δεν μπορεί να κρατήσει."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "A client calls your work «rubbish» in a late-night message. What do you do?", "el": "Ένας πελάτης αποκαλεί τη δουλειά σου «σκουπίδι» σε ένα μήνυμα αργά το βράδυ. Τι κάνεις;"},
+      "options": [
+        {"en": "Answer right away, just as hard", "el": "Απαντάς αμέσως, εξίσου σκληρά"},
+        {"en": "Take his site offline", "el": "Κατεβάζεις τη σελίδα του"},
+        {"en": "Write a draft, sleep on it and answer calmly in the morning", "el": "Γράφεις ένα πρόχειρο, το αφήνεις για το πρωί και απαντάς ήρεμα"}
+      ],
+      "answer": 2,
+      "why": {"en": "Anger passes; a lost client and a public fight do not. Never act from anger.", "el": "Ο θυμός περνά· ένας χαμένος πελάτης και ένας δημόσιος καβγάς όχι. Ποτέ από θυμό."},
+      "idea": 18
+    },
+    {
+      "q": {"en": "Every agency in Athens targets dentists with ads. Where do you go?", "el": "Όλα τα γραφεία της Αθήνας στοχεύουν οδοντιάτρους με διαφημίσεις. Πού πηγαίνεις εσύ;"},
+      "options": [
+        {"en": "Find professions or towns the big agencies ignore and call them first", "el": "Βρίσκεις επαγγέλματα ή πόλεις που αγνοούν τα μεγάλα γραφεία και τους παίρνεις πρώτος"},
+        {"en": "Outspend them all on dentist ads", "el": "Ξοδεύεις περισσότερα από όλους σε διαφημίσεις για οδοντιάτρους"},
+        {"en": "Copy their ads word for word", "el": "Αντιγράφεις τις διαφημίσεις τους λέξη προς λέξη"}
+      ],
+      "answer": 0,
+      "why": {"en": "Avoid strength, strike emptiness: the cheapest clients to win are where nobody is fighting.", "el": "Απόφυγε τη δύναμη, χτύπα το κενό: οι πιο φτηνοί πελάτες για να κερδίσεις είναι εκεί που δεν πολεμά κανείς."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "A psychologist owes you two years of hosting and feels embarrassed to talk about it. What is the best approach?", "el": "Ένας ψυχολόγος σου χρωστά δύο χρόνια φιλοξενίας και ντρέπεται να το συζητήσει. Ποια είναι η καλύτερη προσέγγιση;"},
+      "options": [
+        {"en": "Threaten legal action in your first message", "el": "Απειλείς με νομικά μέτρα από το πρώτο μήνυμα"},
+        {"en": "Offer a simple way out, like two payments, with no blame", "el": "Προσφέρεις μια απλή διέξοδο, όπως δύο δόσεις, χωρίς κατηγορίες"},
+        {"en": "Post about late payers on Instagram", "el": "Ανεβάζεις post στο Instagram για όσους δεν πληρώνουν"}
+      ],
+      "answer": 1,
+      "why": {"en": "Leave a way out: people who keep their dignity pay; people who are cornered fight.", "el": "Άφησε μια διέξοδο: όποιος κρατά την αξιοπρέπειά του πληρώνει· όποιος στριμώχνεται αντιστέκεται."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "You want to double your ad budget, but your own site is slow and you have no call script yet. What does Sun Tzu advise?", "el": "Θέλεις να διπλασιάσεις τον προϋπολογισμό των διαφημίσεων, αλλά η δική σου σελίδα είναι αργή και δεν έχεις ακόμα σενάριο κλήσεων. Τι συμβουλεύει ο Σουν Τζου;"},
+      "options": [
+        {"en": "Double the spend now and fix things later", "el": "Διπλασιάζεις τώρα τα έξοδα και τα διορθώνεις αργότερα"},
+        {"en": "Stop all ads for good", "el": "Σταματάς οριστικά όλες τις διαφημίσεις"},
+        {"en": "Fix the base first, site, script and delivery, then scale", "el": "Φτιάχνεις πρώτα τη βάση, σελίδα, σενάριο και παράδοση, και μετά μεγαλώνεις"}
+      ],
+      "answer": 2,
+      "why": {"en": "Victorious armies win first and then go to war: make yourself unbeatable before you attack.", "el": "Οι νικηφόροι στρατοί πρώτα κερδίζουν και μετά πολεμούν: γίνε ακατανίκητος πριν επιτεθείς."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "You handed client changes to a team member, but you keep redoing her work and overruling her decisions. What would Sun Tzu say?", "el": "Ανέθεσες τις αλλαγές των πελατών σε μια συνεργάτιδα, αλλά ξανακάνεις συνέχεια τη δουλειά της και ακυρώνεις τις αποφάσεις της. Τι θα έλεγε ο Σουν Τζου;"},
+      "options": [
+        {"en": "Agree goals and limits, then check results weekly, not every message", "el": "Συμφωνείς στόχους και όρια και μετά ελέγχεις τα αποτελέσματα κάθε εβδομάδα, όχι κάθε μήνυμα"},
+        {"en": "Take the whole job back yourself", "el": "Παίρνεις πίσω όλη τη δουλειά"},
+        {"en": "Give her no guidance at all", "el": "Δεν της δίνεις καμία καθοδήγηση"}
+      ],
+      "answer": 0,
+      "why": {"en": "A capable person who is not interfered with wins; meddling from above confuses the work.", "el": "Νικά ο ικανός άνθρωπος που δεν τον ενοχλούν· η ανάμειξη από πάνω μπερδεύει τη δουλειά."},
+      "idea": 7
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Historians are certain Sun Tzu wrote the whole book himself around 500 BC.", "el": "Οι ιστορικοί είναι βέβαιοι ότι ο Σουν Τζου έγραψε μόνος του όλο το βιβλίο γύρω στο 500 π.Χ."}, "answer": false, "why": {"en": "The book is attributed to him, but his existence and the exact date are uncertain.", "el": "Το βιβλίο του αποδίδεται, αλλά η ύπαρξή του και η ακριβής χρονολογία είναι αβέβαιες."}},
+    {"s": {"en": "Sun Tzu says the best victory is won without fighting.", "el": "Ο Σουν Τζου λέει ότι η καλύτερη νίκη κερδίζεται χωρίς μάχη."}, "answer": true, "why": {"en": "Defeating the enemy without battle is, for him, the peak of skill.", "el": "Το να νικήσεις τον εχθρό χωρίς μάχη είναι, για εκείνον, η κορυφή της τέχνης."}},
+    {"s": {"en": "Sun Tzu recommends long wars to wear the enemy down.", "el": "Ο Σουν Τζου προτείνει μακρούς πολέμους για να φθείρεις τον εχθρό."}, "answer": false, "why": {"en": "He says no country has ever benefited from a prolonged war.", "el": "Λέει ότι καμία χώρα δεν ωφελήθηκε ποτέ από παρατεταμένο πόλεμο."}},
+    {"s": {"en": "If you know neither yourself nor the enemy, you will lose every battle.", "el": "Αν δεν γνωρίζεις ούτε τον εαυτό σου ούτε τον εχθρό, θα χάνεις σε κάθε μάχη."}, "answer": true, "why": {"en": "This is the third part of his most quoted lesson on knowledge.", "el": "Αυτό είναι το τρίτο μέρος του πιο γνωστού του μαθήματος για τη γνώση."}},
+    {"s": {"en": "Besieging walled cities is Sun Tzu's favourite method.", "el": "Η πολιορκία οχυρωμένων πόλεων είναι η αγαπημένη μέθοδος του Σουν Τζου."}, "answer": false, "why": {"en": "He ranks it as the worst option, after attacking strategy, alliances and armies.", "el": "Τη βάζει ως τη χειρότερη επιλογή, μετά τη στρατηγική, τις συμμαχίες και τους στρατούς."}},
+    {"s": {"en": "Sun Tzu advises leaving a surrounded enemy a way out.", "el": "Ο Σουν Τζου συμβουλεύει να αφήνεις διέξοδο σε έναν περικυκλωμένο εχθρό."}, "answer": true, "why": {"en": "A desperate enemy with no escape fights to the death, so the win becomes costly.", "el": "Ένας απελπισμένος εχθρός χωρίς διαφυγή πολεμά μέχρι θανάτου, και η νίκη γίνεται ακριβή."}},
+    {"s": {"en": "Sun Tzu says a general may attack in anger if the insult is great enough.", "el": "Ο Σουν Τζου λέει ότι ένας στρατηγός μπορεί να επιτεθεί από θυμό αν η προσβολή είναι αρκετά μεγάλη."}, "answer": false, "why": {"en": "He says move only for advantage, never from anger, because the dead cannot return.", "el": "Λέει να κινείσαι μόνο για όφελος, ποτέ από θυμό, γιατί οι νεκροί δεν γυρίζουν."}},
+    {"s": {"en": "Sun Tzu says foreknowledge must come from people, not from spirits.", "el": "Ο Σουν Τζου λέει ότι η πρόγνωση πρέπει να έρθει από ανθρώπους, όχι από πνεύματα."}, "answer": true, "why": {"en": "That is why he values spies and pays well for information.", "el": "Γι' αυτό εκτιμά τους κατασκόπους και πληρώνει καλά την πληροφορία."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Death ground", "el": "Έδαφος του θανάτου"}, "b": {"en": "No retreat possible, so everyone fights hard", "el": "Καμία υποχώρηση, γι' αυτό όλοι πολεμούν σκληρά"}},
+    {"a": {"en": "Direct and surprise", "el": "Άμεσο και απρόσμενο"}, "b": {"en": "Expected force engages, surprise force wins", "el": "Η αναμενόμενη δύναμη εμπλέκεται, η απρόσμενη νικά"}},
+    {"a": {"en": "Win without fighting", "el": "Νίκη χωρίς μάχη"}, "b": {"en": "Supreme skill: victory with no battle", "el": "Η ύψιστη τέχνη: νίκη χωρίς σύγκρουση"}},
+    {"a": {"en": "Be like water", "el": "Σαν το νερό"}, "b": {"en": "No fixed form; adapt to the enemy", "el": "Χωρίς σταθερή μορφή· προσαρμογή στον αντίπαλο"}},
+    {"a": {"en": "Five factors", "el": "Πέντε παράγοντες"}, "b": {"en": "Way, Heaven, Earth, Commander, Method", "el": "Δρόμος, Ουρανός, Γη, Διοικητής, Μέθοδος"}},
+    {"a": {"en": "Foreknowledge", "el": "Πρόγνωση"}, "b": {"en": "Knowing the enemy's situation through people", "el": "Γνωρίζεις την κατάσταση του εχθρού μέσω ανθρώπων"}}
+  ],
+  "missions": [
+    {"en": "Score your next planned move on the five factors from 1 to 5 and write one step to fix the lowest score.", "el": "Βαθμολόγησε την επόμενη κίνηση που σχεδιάζεις στους πέντε παράγοντες από το 1 ως το 5 και γράψε ένα βήμα για να διορθώσεις τον χαμηλότερο βαθμό."},
+    {"en": "Search Google Maps for one profession in one small town and list five professionals without a website.", "el": "Ψάξε στο Google Maps ένα επάγγελμα σε μια μικρή πόλη και κατέγραψε πέντε επαγγελματίες χωρίς ιστοσελίδα."},
+    {"en": "Ask your last three new clients how they found you and who else they considered, and note the answers in your CRM.", "el": "Ρώτα τους τρεις τελευταίους νέους σου πελάτες πώς σε βρήκαν και ποιους άλλους σκέφτηκαν, και σημείωσε τις απαντήσεις στο CRM."},
+    {"en": "Write your 24-hour anger rule and pin it at the top of your client chat notes.", "el": "Γράψε τον κανόνα των 24 ωρών για τον θυμό και καρφίτσωσέ τον στην κορυφή των σημειώσεων για το chat των πελατών."},
+    {"en": "Write two short lists, your strengths and weaknesses and what doctors fear, and draft one new call opening from them.", "el": "Γράψε δύο σύντομες λίστες, τα δυνατά και τα αδύνατά σου και τι φοβούνται οι γιατροί, και φτιάξε από αυτές μια νέα πρώτη φράση για τις κλήσεις."}
+  ],
+  "mantra": {"en": "Know them, know myself, prepare first, win without fighting.", "el": "Ξέρω αυτούς, ξέρω εμένα, προετοιμάζομαι πρώτα, νικώ χωρίς μάχη."},
+  "careful": {
+    "en": "Nobody knows for sure who wrote The Art of War; it is attributed to Sun Tzu, but the text was probably shaped by several hands over time. It is a manual for real war, where deception and spying are normal; copied into business, they easily become lying to clients or illegal spying. Many business books quote it loosely or even invent lines. Use it as a way of thinking about strategy, not as a rulebook for treating clients, partners or your team.",
+    "el": "Κανείς δεν ξέρει με βεβαιότητα ποιος έγραψε την Τέχνη του πολέμου· αποδίδεται στον Σουν Τζου, αλλά το κείμενο μάλλον διαμορφώθηκε από πολλά χέρια με τον καιρό. Είναι εγχειρίδιο για πραγματικό πόλεμο, όπου η παραπλάνηση και η κατασκοπεία είναι κάτι φυσικό· αν τα μεταφέρεις στη δουλειά, γίνονται εύκολα ψέματα σε πελάτες ή παράνομη κατασκοπεία. Πολλά βιβλία για επιχειρήσεις το παραθέτουν πρόχειρα ή επινοούν ακόμα και φράσεις. Χρησιμοποίησέ το ως τρόπο σκέψης για τη στρατηγική, όχι ως κανονισμό για το πώς φέρεσαι σε πελάτες, συνεργάτες ή στην ομάδα σου."
+  },
+  "connects": [
+    {"book": "the-prince", "note": {"en": "Both are classic manuals of power; Machiavelli expects to fight and plans for it, while Sun Tzu tries first to win without fighting.", "el": "Και τα δύο είναι κλασικά εγχειρίδια εξουσίας· ο Μακιαβέλι περιμένει να πολεμήσει και σχεδιάζει γι' αυτό, ενώ ο Σουν Τζου προσπαθεί πρώτα να νικήσει χωρίς μάχη."}},
+    {"book": "zero-to-one", "note": {"en": "Thiel's warning against head-on competition echoes Sun Tzu: avoid costly battles and find ground nobody else holds.", "el": "Η προειδοποίηση του Τιλ κατά του μετωπικού ανταγωνισμού θυμίζει τον Σουν Τζου: απόφυγε τις ακριβές μάχες και βρες έδαφος που δεν το κρατά κανείς."}},
+    {"book": "your-next-five-moves", "note": {"en": "Patrick Bet-David's habit of planning several moves ahead applies Sun Tzu's rule of many calculations before battle.", "el": "Η συνήθεια του Πάτρικ Μπετ-Ντέιβιντ να σχεδιάζει πολλές κινήσεις μπροστά εφαρμόζει τον κανόνα του Σουν Τζου για πολλούς υπολογισμούς πριν από τη μάχη."}}
+  ]
+}

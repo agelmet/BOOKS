@@ -1,0 +1,576 @@
+{
+  "id": "spin-selling",
+  "title": {"en": "SPIN Selling", "el": "Η μέθοδος πωλήσεων SPIN"},
+  "author": "Neil Rackham",
+  "authorEl": "Νιλ Ράκαμ",
+  "year": 1988,
+  "shelf": "sales",
+  "skills": {"sales": 3, "communication": 3, "persuasion": 2},
+  "oneLine": {
+    "en": "In big sales you win by asking the right questions in the right order, Situation, Problem, Implication, Need-payoff, so the buyer sees the need himself, not by closing harder.",
+    "el": "Στις μεγάλες πωλήσεις κερδίζεις με τις σωστές ερωτήσεις στη σωστή σειρά, Κατάσταση, Πρόβλημα, Συνέπεια, Όφελος, ώστε ο αγοραστής να δει μόνος του την ανάγκη, όχι πιέζοντας περισσότερο στο κλείσιμο."
+  },
+  "story": {
+    "en": "Neil Rackham is a British research psychologist. In the 1970s his company, Huthwaite, studied real sales calls for about twelve years, sponsored by large firms such as Xerox and IBM, about 35,000 calls in many countries. Instead of asking salespeople what they did, his researchers sat in on calls and counted behaviours. SPIN Selling, published in 1988, reports what they found. It is still one of the most used books in business-to-business sales training.",
+    "el": "Ο Νιλ Ράκαμ είναι Βρετανός ερευνητής ψυχολόγος. Από τη δεκαετία του '70 η εταιρεία του, η Huthwaite, μελέτησε αληθινές συναντήσεις πωλήσεων για περίπου δώδεκα χρόνια, με χρηματοδότηση από μεγάλες εταιρείες όπως η Xerox και η IBM: γύρω στις 35.000 συναντήσεις σε πολλές χώρες. Αντί να ρωτούν τους πωλητές τι κάνουν, οι ερευνητές κάθονταν μέσα στις συναντήσεις και μετρούσαν συμπεριφορές. Το βιβλίο κυκλοφόρησε το 1988 και παρουσιάζει τα ευρήματα. Παραμένει από τα πιο διαδεδομένα βιβλία στην εκπαίδευση πωλητών μεταξύ επιχειρήσεων."
+  },
+  "forYou": {
+    "en": "Many doctors you call do not feel they need a website. Telling them louder does not help; the right questions do. SPIN teaches you to let the doctor discover the cost of his problem in his own words. Be honest about one thing: your 130-euro offer is a small sale, so keep SPIN light on cold calls and use it fully for bigger projects.",
+    "el": "Πολλοί γιατροί που καλείς δεν νιώθουν ότι χρειάζονται ιστοσελίδα. Δεν βοηθά να τους το λες πιο δυνατά. Βοηθούν οι σωστές ερωτήσεις. Το SPIN σού μαθαίνει να αφήνεις τον γιατρό να ανακαλύψει με δικά του λόγια τι του κοστίζει το πρόβλημα. Να είσαι ειλικρινής σε ένα σημείο: η προσφορά των 130 ευρώ είναι μικρή πώληση, άρα κράτα το SPIN ελαφρύ στα cold calls και χρησιμοποίησέ το πλήρως στα μεγαλύτερα έργα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Small sales and large sales", "el": "Μικρές και μεγάλες πωλήσεις"},
+      "explain": {
+        "en": "Rackham's first finding: what works in a small sale often fails in a large one. A small sale is cheap, low risk and decided in one meeting. A large sale is expensive, takes many meetings, involves several people and a lasting relationship, and a mistake is costly for the buyer. Most sales training came from small sales, so it taught habits that hurt sellers in big deals.",
+        "el": "Το πρώτο εύρημα του Ράκαμ: ό,τι πιάνει σε μια μικρή πώληση συχνά αποτυγχάνει σε μια μεγάλη. Η μικρή πώληση είναι φθηνή, με μικρό ρίσκο, και αποφασίζεται σε μία συνάντηση. Η μεγάλη είναι ακριβή, θέλει πολλές συναντήσεις, εμπλέκει πολλούς ανθρώπους και μια μακρόχρονη σχέση, και ένα λάθος κοστίζει ακριβά στον αγοραστή. Η περισσότερη εκπαίδευση πωλητών βγήκε από μικρές πωλήσεις, άρα δίδασκε συνήθειες που έβλαπταν τους πωλητές στις μεγάλες."
+      },
+      "example": {
+        "en": "Large companies such as Xerox and IBM paid for Rackham's research because their sellers handled expensive equipment deals over months. They wanted to know what really worked there. The answer, after years of watching real calls, was different from what their own training had been teaching.",
+        "el": "Μεγάλες εταιρείες όπως η Xerox και η IBM χρηματοδότησαν την έρευνα του Ράκαμ, επειδή οι πωλητές τους έκλειναν ακριβές συμφωνίες για εξοπλισμό μέσα σε μήνες. Ήθελαν να μάθουν τι πραγματικά πιάνει εκεί. Η απάντηση, μετά από χρόνια παρακολούθησης αληθινών συναντήσεων, ήταν διαφορετική από όσα δίδασκε η δική τους εκπαίδευση."
+      },
+      "apply": {
+        "en": "Sort your sales into two boxes. Website at about 130 euros a year: a small sale, one or two calls, a clear direct ask is fine. Eshops, automation or a premium yearly plan: a large sale, several meetings and people, so use full SPIN and do not push for a yes in the first call.",
+        "el": "Χώρισε τις πωλήσεις σου σε δύο κουτιά. Ιστοσελίδα με περίπου 130 ευρώ τον χρόνο: μικρή πώληση, ένα δυο τηλεφωνήματα, μια καθαρή και ευθεία πρόταση είναι μια χαρά. Eshop, αυτοματοποίηση ή ακριβότερο ετήσιο πακέτο: μεγάλη πώληση, πολλές συναντήσεις και άνθρωποι, άρα πλήρες SPIN και καμία πίεση για «ναι» στο πρώτο τηλεφώνημα."
+      },
+      "check": {
+        "q": {"en": "What was Rackham's first big finding?", "el": "Ποιο ήταν το πρώτο μεγάλο εύρημα του Ράκαμ;"},
+        "options": [
+          {"en": "Methods that work in small sales often fail in large ones", "el": "Μέθοδοι που πιάνουν στις μικρές πωλήσεις συχνά αποτυγχάνουν στις μεγάλες"},
+          {"en": "Large sales are simply many small sales added up", "el": "Οι μεγάλες πωλήσεις είναι απλώς πολλές μικρές μαζί"},
+          {"en": "Price is the only thing that matters in large sales", "el": "Στις μεγάλες πωλήσεις μετράει μόνο η τιμή"}
+        ],
+        "answer": 0,
+        "why": {"en": "Large sales have longer cycles, more people and more risk, so they need different behaviour.", "el": "Οι μεγάλες πωλήσεις έχουν μακρύτερο κύκλο, περισσότερους ανθρώπους και μεγαλύτερο ρίσκο, άρα θέλουν άλλη συμπεριφορά."}
+      }
+    },
+    {
+      "title": {"en": "Closing tricks backfire in big deals", "el": "Τα κόλπα κλεισίματος γυρίζουν μπούμερανγκ"},
+      "explain": {
+        "en": "Classic closing techniques, such as the alternative close or assuming the sale, helped in low-value sales in Rackham's studies. In high-value sales they were linked with less success. Professional buyers felt pushed, and pressure on a big, risky decision makes people defend themselves. In large sales, a good result comes from a well-built need, not from a clever final line.",
+        "el": "Οι κλασικές τεχνικές κλεισίματος, όπως η επιλογή ανάμεσα σε δύο ή το «θεωρώ δεδομένη την πώληση», βοηθούσαν στις φθηνές πωλήσεις στις μελέτες του Ράκαμ. Στις ακριβές συνδέονταν με λιγότερη επιτυχία. Οι επαγγελματίες αγοραστές ένιωθαν ότι τους σπρώχνουν, και η πίεση πάνω σε μια μεγάλη, ριψοκίνδυνη απόφαση κάνει τον άνθρωπο να αμυνθεί. Στις μεγάλες πωλήσεις το καλό αποτέλεσμα έρχεται από μια καλοχτισμένη ανάγκη, όχι από μια έξυπνη τελευταία ατάκα."
+      },
+      "example": {
+        "en": "Buying a car, one of the biggest purchases most families make, was famous for pressure and haggling. When General Motors launched Saturn in 1990, it sold with one fixed price and no-pressure sellers. Customers loved it, and Saturn became known for very high buyer satisfaction.",
+        "el": "Η αγορά αυτοκινήτου, από τις μεγαλύτερες αγορές μιας οικογένειας, ήταν διάσημη για την πίεση και τα παζάρια. Όταν η General Motors ξεκίνησε τη Saturn το 1990, πουλούσε με μία σταθερή τιμή και πωλητές χωρίς πίεση. Οι πελάτες το λάτρεψαν, και η Saturn έγινε γνωστή για την πολύ υψηλή ικανοποίηση των αγοραστών της."
+      },
+      "apply": {
+        "en": "In bigger projects drop the pressure closes. Ask instead: «What would you need to see to feel sure about this?» On small website calls, a simple, honest ask is still fine: «Shall I prepare the first draft so you can see it before deciding?»",
+        "el": "Στα μεγαλύτερα έργα άφησε τα πιεστικά κλεισίματα. Ρώτα αντί γι' αυτό: «Τι θα χρειαζόταν να δείτε για να νιώσετε σίγουρος γι' αυτό;». Στα μικρά τηλεφωνήματα για ιστοσελίδα, μια απλή και τίμια πρόταση στέκει μια χαρά: «Να σας ετοιμάσω το πρώτο σχέδιο, να το δείτε πριν αποφασίσετε;»."
+      },
+      "check": {
+        "q": {"en": "What did Rackham find about closing techniques in high-value sales?", "el": "Τι βρήκε ο Ράκαμ για τις τεχνικές κλεισίματος στις ακριβές πωλήσεις;"},
+        "options": [
+          {"en": "They doubled the success rate", "el": "Διπλασίαζαν το ποσοστό επιτυχίας"},
+          {"en": "They made no difference at all", "el": "Δεν έκαναν καμία απολύτως διαφορά"},
+          {"en": "They were linked with less success", "el": "Συνδέονταν με λιγότερη επιτυχία"}
+        ],
+        "answer": 2,
+        "why": {"en": "Pressure on a big decision makes buyers resist; closes helped only in small, cheap sales.", "el": "Η πίεση σε μια μεγάλη απόφαση κάνει τον αγοραστή να αντισταθεί. Τα κλεισίματα βοηθούσαν μόνο στις μικρές, φθηνές πωλήσεις."}
+      }
+    },
+    {
+      "title": {"en": "The four stages of a call", "el": "Τα τέσσερα στάδια μιας συνάντησης"},
+      "explain": {
+        "en": "Rackham sees every sales call in four stages. Preliminaries: the short opening. Investigating: asking questions to find needs. Demonstrating capability: showing how you can meet those needs. Obtaining commitment: agreeing on the next step. His research says the investigating stage decides most large sales, yet most sellers rush through it to get to their presentation.",
+        "el": "Ο Ράκαμ βλέπει κάθε συνάντηση πώλησης σε τέσσερα στάδια. Εισαγωγή: το σύντομο άνοιγμα. Διερεύνηση: ερωτήσεις για να βρεις τις ανάγκες. Απόδειξη ικανότητας: δείχνεις πώς καλύπτεις αυτές τις ανάγκες. Δέσμευση: συμφωνείτε το επόμενο βήμα. Η έρευνά του λέει ότι η διερεύνηση κρίνει τις περισσότερες μεγάλες πωλήσεις, κι όμως οι περισσότεροι πωλητές την περνούν βιαστικά για να φτάσουν στην παρουσίασή τους."
+      },
+      "example": {
+        "en": "A good doctor's visit follows the same shape. A greeting, then many questions and an examination, then the explanation of what is wrong and what can help, then an agreed plan. A doctor who prescribes before asking anything would lose your trust, however good the medicine.",
+        "el": "Μια καλή επίσκεψη στον γιατρό έχει το ίδιο σχήμα. Ένας χαιρετισμός, μετά πολλές ερωτήσεις και εξέταση, μετά η εξήγηση του τι συμβαίνει και τι μπορεί να βοηθήσει, και στο τέλος ένα κοινό σχέδιο. Ένας γιατρός που γράφει φάρμακο πριν ρωτήσει οτιδήποτε θα έχανε την εμπιστοσύνη σου, όσο καλό κι αν ήταν το φάρμακο."
+      },
+      "apply": {
+        "en": "Time your next five video meetings: opening under two minutes, questions at least ten, showing sites after that, next step at the end. If you start screen-sharing sites in the first three minutes, you skipped investigating. Write the four stage names on a card next to your screen.",
+        "el": "Χρονομέτρησε τις επόμενες πέντε βιντεοκλήσεις σου: άνοιγμα κάτω από δύο λεπτά, ερωτήσεις τουλάχιστον δέκα, μετά δείχνεις σελίδες, στο τέλος το επόμενο βήμα. Αν ανοίξεις κοινή χρήση οθόνης με σελίδες στα πρώτα τρία λεπτά, πήδηξες τη διερεύνηση. Γράψε τα τέσσερα στάδια σε μια κάρτα δίπλα στην οθόνη σου."
+      },
+      "check": {
+        "q": {"en": "Which stage decides most large sales, according to Rackham?", "el": "Ποιο στάδιο κρίνει τις περισσότερες μεγάλες πωλήσεις κατά τον Ράκαμ;"},
+        "options": [
+          {"en": "The opening", "el": "Το άνοιγμα"},
+          {"en": "Investigating", "el": "Η διερεύνηση"},
+          {"en": "The final close", "el": "Το τελικό κλείσιμο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Finding and building needs through questions is where big sales are won.", "el": "Οι μεγάλες πωλήσεις κερδίζονται εκεί όπου βρίσκεις και χτίζεις τις ανάγκες με ερωτήσεις."}
+      }
+    },
+    {
+      "title": {"en": "Keep the opening short", "el": "Κράτα το άνοιγμα σύντομο"},
+      "explain": {
+        "en": "Many trainings put great weight on the first minutes: a strong opening line, small talk, finding common interests. Rackham found the opening matters much less than the investigating that follows. A good opening simply says who you are, why you are there, and gets agreement that you can ask some questions. Then move on quickly.",
+        "el": "Πολλές εκπαιδεύσεις δίνουν τεράστια σημασία στα πρώτα λεπτά: δυνατή πρώτη ατάκα, κουβεντούλα, κοινά ενδιαφέροντα. Ο Ράκαμ βρήκε ότι το άνοιγμα μετράει πολύ λιγότερο από τη διερεύνηση που ακολουθεί. Ένα καλό άνοιγμα λέει απλώς ποιος είσαι, γιατί είσαι εκεί, και παίρνει τη συμφωνία ότι μπορείς να κάνεις κάποιες ερωτήσεις. Μετά προχωράς γρήγορα."
+      },
+      "example": {
+        "en": "Old sales manuals advised commenting on a photo, a trophy or a fishing rod in the buyer's office to build rapport. Rackham argues that busy professional buyers in large sales see through this, and his data did not link such openings with winning the sale.",
+        "el": "Παλιά εγχειρίδια πωλήσεων συμβούλευαν να σχολιάσεις μια φωτογραφία, ένα τρόπαιο ή ένα καλάμι ψαρέματος στο γραφείο του αγοραστή για να «δεθείτε». Ο Ράκαμ υποστηρίζει ότι οι πολυάσχολοι επαγγελματίες αγοραστές στις μεγάλες πωλήσεις το καταλαβαίνουν, και τα δεδομένα του δεν συνέδεσαν τέτοια ανοίγματα με την επιτυχία."
+      },
+      "apply": {
+        "en": "Open the video meeting in under a minute: «Thank you for your time. I would like to understand how new patients find you today, and then show you a few sites of colleagues. May I first ask you a few questions?» Then start asking.",
+        "el": "Άνοιξε τη βιντεοκλήση σε λιγότερο από ένα λεπτό: «Σας ευχαριστώ για τον χρόνο σας. Θα ήθελα να καταλάβω πώς σας βρίσκουν σήμερα οι νέοι ασθενείς και μετά να σας δείξω μερικές σελίδες συναδέλφων σας. Μπορώ πρώτα να σας κάνω μερικές ερωτήσεις;». Και ξεκίνα να ρωτάς."
+      },
+      "check": {
+        "q": {"en": "What is the main job of the opening in SPIN?", "el": "Ποια είναι η κύρια δουλειά του ανοίγματος στο SPIN;"},
+        "options": [
+          {"en": "Build friendship through long small talk", "el": "Να χτίσει φιλία με μακριά κουβεντούλα"},
+          {"en": "Win the right to ask questions, briefly", "el": "Να κερδίσει, σύντομα, το δικαίωμα να κάνεις ερωτήσεις"},
+          {"en": "Present your strongest product benefit", "el": "Να παρουσιάσει το πιο δυνατό όφελος του προϊόντος"}
+        ],
+        "answer": 1,
+        "why": {"en": "The opening only sets up the investigating stage, which is where large sales are won.", "el": "Το άνοιγμα απλώς στήνει τη διερεύνηση, εκεί όπου κερδίζονται οι μεγάλες πωλήσεις."}
+      }
+    },
+    {
+      "title": {"en": "Implied needs, explicit needs", "el": "Υπονοούμενες και ρητές ανάγκες"},
+      "explain": {
+        "en": "Rackham splits needs in two. Implied needs are complaints and dissatisfactions: «our system is slow». Explicit needs are clear wants: «we need a faster system». In small sales, implied needs already predict a sale. In large sales they do not; successful sellers turn implied needs into explicit ones before offering a solution. SPIN questions are the bridge between the two.",
+        "el": "Ο Ράκαμ χωρίζει τις ανάγκες στα δύο. Οι υπονοούμενες είναι παράπονα και δυσαρέσκειες: «το σύστημά μας είναι αργό». Οι ρητές είναι καθαρές επιθυμίες: «χρειαζόμαστε πιο γρήγορο σύστημα». Στις μικρές πωλήσεις οι υπονοούμενες ανάγκες ήδη προβλέπουν πώληση. Στις μεγάλες όχι: οι επιτυχημένοι πωλητές μετατρέπουν τις υπονοούμενες σε ρητές πριν προτείνουν λύση. Οι ερωτήσεις SPIN είναι η γέφυρα ανάμεσα στις δύο."
+      },
+      "example": {
+        "en": "A driver tells a mechanic, «the car makes a strange noise sometimes». That is implied. After the mechanic asks a few questions, the driver says, «I need a car I can trust on the motorway with my kids». That is explicit, and now a bigger repair makes sense to him.",
+        "el": "Ένας οδηγός λέει στον μηχανικό: «το αυτοκίνητο κάνει πού και πού έναν περίεργο θόρυβο». Αυτό είναι υπονοούμενη ανάγκη. Μετά από μερικές ερωτήσεις του μηχανικού, ο οδηγός λέει: «θέλω ένα αυτοκίνητο που να το εμπιστεύομαι στην εθνική με τα παιδιά». Αυτή είναι ρητή, και τώρα μια μεγαλύτερη επισκευή του φαίνεται λογική."
+      },
+      "apply": {
+        "en": "When a doctor says «patients sometimes can't find my address», do not pitch yet. That is implied. Keep asking until he says something like «I want new patients to find me easily». Write his exact explicit sentence in your notes and repeat it later when you show the site.",
+        "el": "Όταν ένας γιατρός λέει «οι ασθενείς καμιά φορά δεν βρίσκουν τη διεύθυνση», μην κάνεις ακόμη παρουσίαση. Είναι υπονοούμενη ανάγκη. Συνέχισε να ρωτάς μέχρι να πει κάτι σαν «θέλω να με βρίσκουν εύκολα οι νέοι ασθενείς». Γράψε αυτή την ακριβή ρητή φράση του στις σημειώσεις σου και επανάλαβέ την αργότερα όταν δείχνεις τη σελίδα."
+      },
+      "check": {
+        "q": {"en": "Which of these is an explicit need?", "el": "Ποιο από αυτά είναι ρητή ανάγκη;"},
+        "options": [
+          {"en": "«Our phone rings too much with the same questions»", "el": "«Το τηλέφωνο χτυπάει πολύ με τις ίδιες ερωτήσεις»"},
+          {"en": "«I'm not happy with my old site»", "el": "«Δεν είμαι ευχαριστημένος με την παλιά μου σελίδα»"},
+          {"en": "«I want patients to book online by themselves»", "el": "«Θέλω οι ασθενείς να κλείνουν ραντεβού μόνοι τους online»"}
+        ],
+        "answer": 2,
+        "why": {"en": "An explicit need is a clear want or desire; the others are complaints, which are implied needs.", "el": "Η ρητή ανάγκη είναι καθαρή επιθυμία. Τα άλλα δύο είναι παράπονα, δηλαδή υπονοούμενες ανάγκες."}
+      }
+    },
+    {
+      "title": {"en": "Situation questions: few", "el": "Ερωτήσεις κατάστασης: λίγες"},
+      "explain": {
+        "en": "Situation questions collect facts: how many staff, what system you use, how long you have been open. You need some, but Rackham found that unsuccessful sellers ask too many, and buyers find them boring because they give nothing back. Ask only the ones you cannot answer through homework before the call.",
+        "el": "Οι ερωτήσεις κατάστασης μαζεύουν στοιχεία: πόσους υπαλλήλους έχετε, ποιο σύστημα χρησιμοποιείτε, πόσα χρόνια λειτουργείτε. Χρειάζεσαι μερικές, αλλά ο Ράκαμ βρήκε ότι οι αποτυχημένοι πωλητές κάνουν πάρα πολλές, και ο αγοραστής βαριέται, γιατί δεν του δίνουν τίποτα πίσω. Κάνε μόνο όσες δεν μπορείς να απαντήσεις μόνος σου με προετοιμασία πριν από το τηλεφώνημα."
+      },
+      "example": {
+        "en": "Everyone knows the feeling: you call a company, give your details to the first person, get transferred, and are asked the same questions again. Each repeated question tells you they did not prepare and makes you less patient. Buyers feel the same about a seller's list of basic questions.",
+        "el": "Όλοι ξέρουμε το συναίσθημα: παίρνεις τηλέφωνο σε μια εταιρεία, δίνεις τα στοιχεία σου στον πρώτο υπάλληλο, σε μεταφέρουν, και σε ρωτούν πάλι τα ίδια. Κάθε επαναλαμβανόμενη ερώτηση σού λέει ότι δεν προετοιμάστηκαν και σου τρώει την υπομονή. Το ίδιο νιώθει ο αγοραστής με τη λίστα βασικών ερωτήσεων ενός πωλητή."
+      },
+      "apply": {
+        "en": "Before each call spend two minutes checking: does he have a site, a Google profile, reviews, which specialty and area. Then do not ask «Do you have a website?». Ask one smart situation question: «I saw you have a Google profile with good reviews. Where do most new patients come from today?»",
+        "el": "Πριν από κάθε τηλεφώνημα αφιέρωσε δύο λεπτά να δεις: έχει ιστοσελίδα, προφίλ στο Google, κριτικές, ποια ειδικότητα και περιοχή. Μετά μη ρωτήσεις «Έχετε ιστοσελίδα;». Κάνε μία έξυπνη ερώτηση κατάστασης: «Είδα ότι έχετε προφίλ στο Google με πολύ καλές κριτικές. Από πού έρχονται σήμερα οι περισσότεροι νέοι ασθενείς σας;»."
+      },
+      "check": {
+        "q": {"en": "What did Rackham find about situation questions?", "el": "Τι βρήκε ο Ράκαμ για τις ερωτήσεις κατάστασης;"},
+        "options": [
+          {"en": "Weaker sellers overuse them and buyers get bored", "el": "Οι πιο αδύναμοι πωλητές τις παρακάνουν και ο αγοραστής βαριέται"},
+          {"en": "They are the most powerful questions in large sales", "el": "Είναι οι πιο δυνατές ερωτήσεις στις μεγάλες πωλήσεις"},
+          {"en": "They should be avoided completely", "el": "Πρέπει να αποφεύγονται εντελώς"}
+        ],
+        "answer": 0,
+        "why": {"en": "Some are needed, but too many waste the buyer's time; homework replaces most of them.", "el": "Κάποιες χρειάζονται, αλλά οι πολλές τρώνε τον χρόνο του αγοραστή. Η προετοιμασία αντικαθιστά τις περισσότερες."}
+      }
+    },
+    {
+      "title": {"en": "Problem questions", "el": "Ερωτήσεις προβλήματος"},
+      "explain": {
+        "en": "Problem questions ask about difficulties, dissatisfactions and things that are not working: «Is it hard to...?», «Are you happy with...?». They uncover implied needs. Rackham found they are strongly linked with success in small sales and that experienced sellers ask more of them than beginners. In large sales they are necessary but not enough on their own.",
+        "el": "Οι ερωτήσεις προβλήματος ρωτούν για δυσκολίες, δυσαρέσκειες και πράγματα που δεν δουλεύουν: «Σας δυσκολεύει να...;», «Είστε ικανοποιημένος με...;». Φέρνουν στην επιφάνεια τις υπονοούμενες ανάγκες. Ο Ράκαμ βρήκε ότι συνδέονται έντονα με την επιτυχία στις μικρές πωλήσεις και ότι οι έμπειροι πωλητές κάνουν περισσότερες από τους αρχάριους. Στις μεγάλες πωλήσεις είναι απαραίτητες, αλλά δεν αρκούν μόνες τους."
+      },
+      "example": {
+        "en": "A good optician does not start by showing frames. She asks: «Do your eyes get tired when you read in the evening?», «Do you struggle with screens at work?». Each question brings out a difficulty the customer had half noticed, and gives her something real to solve.",
+        "el": "Μια καλή οπτικός δεν ξεκινά δείχνοντας σκελετούς. Ρωτά: «Κουράζονται τα μάτια σας όταν διαβάζετε το βράδυ;», «Σας δυσκολεύουν οι οθόνες στη δουλειά;». Κάθε ερώτηση βγάζει στο φως μια δυσκολία που ο πελάτης είχε μισοπροσέξει και της δίνει κάτι αληθινό να λύσει."
+      },
+      "apply": {
+        "en": "Prepare three problem questions for each niche. For a dentist: «Do new patients find you easily when they search online?», «Does the phone take a lot of your assistant's time with the same questions?», «Are you happy with how your work appears online?». Ask them before you mention your offer.",
+        "el": "Ετοίμασε τρεις ερωτήσεις προβλήματος για κάθε κλάδο. Για οδοντίατρο: «Σας βρίσκουν εύκολα οι νέοι ασθενείς όταν ψάχνουν στο ίντερνετ;», «Τρώει πολύ χρόνο της βοηθού σας το τηλέφωνο με τις ίδιες ερωτήσεις;», «Είστε ικανοποιημένος με το πώς φαίνεται η δουλειά σας στο ίντερνετ;». Κάν' τες πριν αναφέρεις την προσφορά σου."
+      },
+      "check": {
+        "q": {"en": "What do problem questions mainly uncover?", "el": "Τι φέρνουν κυρίως στην επιφάνεια οι ερωτήσεις προβλήματος;"},
+        "options": [
+          {"en": "Basic facts about the business", "el": "Βασικά στοιχεία για την επιχείρηση"},
+          {"en": "Implied needs: difficulties and dissatisfactions", "el": "Υπονοούμενες ανάγκες: δυσκολίες και δυσαρέσκειες"},
+          {"en": "The buyer's budget", "el": "Τον προϋπολογισμό του αγοραστή"}
+        ],
+        "answer": 1,
+        "why": {"en": "They find what is not working, which is the raw material of every need.", "el": "Βρίσκουν τι δεν δουλεύει, και αυτό είναι η πρώτη ύλη κάθε ανάγκης."}
+      }
+    },
+    {
+      "title": {"en": "Implication questions", "el": "Ερωτήσεις συνέπειας"},
+      "explain": {
+        "en": "Implication questions explore the consequences of a problem: what it causes, what it costs, what else it affects. They make a small problem feel as big as it really is. Rackham found they are the questions most strongly linked with success in large sales, and the hardest to ask well. Decision makers especially respond to them, because they think in consequences.",
+        "el": "Οι ερωτήσεις συνέπειας εξερευνούν τι προκαλεί ένα πρόβλημα: τι κοστίζει, τι άλλο επηρεάζει. Κάνουν ένα μικρό πρόβλημα να φανεί όσο μεγάλο είναι στην πραγματικότητα. Ο Ράκαμ βρήκε ότι είναι οι ερωτήσεις που συνδέονται πιο έντονα με την επιτυχία στις μεγάλες πωλήσεις, και οι πιο δύσκολες να γίνουν σωστά. Οι άνθρωποι που αποφασίζουν ανταποκρίνονται ιδιαίτερα σε αυτές, γιατί σκέφτονται με συνέπειες."
+      },
+      "example": {
+        "en": "A roofer hears «there's a small leak in one corner». He asks: «When it rains, does water reach the wall? Have you seen damp or mould inside? What would it cost to repaint or fix the ceiling?». The owner now sees a growing problem, not a small drip.",
+        "el": "Ένας μάστορας για στέγες ακούει «έχουμε μια μικρή διαρροή σε μια γωνία». Ρωτά: «Όταν βρέχει, φτάνει νερό στον τοίχο; Έχετε δει υγρασία ή μούχλα μέσα; Πόσο θα κόστιζε να βαφτεί ή να φτιαχτεί το ταβάνι;». Ο ιδιοκτήτης βλέπει πια ένα πρόβλημα που μεγαλώνει, όχι μια μικρή σταγόνα."
+      },
+      "apply": {
+        "en": "After a doctor admits a problem, ask about its effects, calmly and truthfully: «When someone searches for a psychologist in your area and does not find your page, where do you think he ends up?» «How many hours a week does your assistant spend answering the same questions?» Do not exaggerate; let him do the math.",
+        "el": "Αφού ο γιατρός παραδεχτεί ένα πρόβλημα, ρώτα για τις συνέπειές του, ήρεμα και με αλήθεια: «Όταν κάποιος ψάχνει ψυχολόγο στην περιοχή σας και δεν βρίσκει τη δική σας σελίδα, πού πιστεύετε ότι καταλήγει;», «Πόσες ώρες την εβδομάδα περνά η βοηθός σας απαντώντας τα ίδια πράγματα;». Μην υπερβάλλεις. Άφησέ τον να κάνει ο ίδιος τον λογαριασμό."
+      },
+      "check": {
+        "q": {"en": "What do implication questions do?", "el": "Τι κάνουν οι ερωτήσεις συνέπειας;"},
+        "options": [
+          {"en": "They reveal the consequences and real size of a problem", "el": "Αποκαλύπτουν τις συνέπειες και το πραγματικό μέγεθος ενός προβλήματος"},
+          {"en": "They check facts about the buyer's company", "el": "Ελέγχουν στοιχεία για την εταιρεία του αγοραστή"},
+          {"en": "They ask the buyer to sign now", "el": "Ζητούν από τον αγοραστή να υπογράψει τώρα"}
+        ],
+        "answer": 0,
+        "why": {"en": "By exploring effects, they make the problem feel worth solving.", "el": "Εξερευνώντας τις επιπτώσεις, κάνουν το πρόβλημα να αξίζει να λυθεί."}
+      }
+    },
+    {
+      "title": {"en": "Tip the balance of value", "el": "Γείρε τη ζυγαριά της αξίας"},
+      "explain": {
+        "en": "A buyer decides by weighing two things: how serious the problem feels, and how much the solution costs, in money, time and trouble. In a small sale a small problem is enough. In a large sale the problem must feel bigger than the cost. Implication questions add weight to the problem side, which is why they matter so much as the price grows.",
+        "el": "Ο αγοραστής αποφασίζει ζυγίζοντας δύο πράγματα: πόσο σοβαρό νιώθει το πρόβλημα και πόσο κοστίζει η λύση, σε χρήματα, χρόνο και μπελάδες. Σε μια μικρή πώληση φτάνει ένα μικρό πρόβλημα. Σε μια μεγάλη, το πρόβλημα πρέπει να φαίνεται μεγαλύτερο από το κόστος. Οι ερωτήσεις συνέπειας βάζουν βάρος στη μεριά του προβλήματος, γι' αυτό μετράνε τόσο όσο ανεβαίνει η τιμή."
+      },
+      "example": {
+        "en": "Many people live for months with a slightly sensitive tooth and do not book a dentist: the problem feels smaller than the cost and the fear. When the pain wakes them at night, the balance tips at once, and the same treatment suddenly feels urgent and worth it.",
+        "el": "Πολλοί ζουν μήνες με ένα δόντι λίγο ευαίσθητο και δεν κλείνουν ραντεβού στον οδοντίατρο: το πρόβλημα μοιάζει μικρότερο από το κόστος και τον φόβο. Όταν ο πόνος τους ξυπνήσει τη νύχτα, η ζυγαριά γέρνει αμέσως, και η ίδια θεραπεία ξαφνικά μοιάζει επείγουσα και άξια."
+      },
+      "apply": {
+        "en": "Before quoting a bigger project, check the balance: has the client himself named a cost of the problem bigger than your price? If not, ask more implication questions, or offer a smaller first step. For the website, compare honestly: about 130 euros a year against what one lost patient is worth to him.",
+        "el": "Πριν δώσεις τιμή για ένα μεγαλύτερο έργο, έλεγξε τη ζυγαριά: έχει πει ο ίδιος ο πελάτης ένα κόστος του προβλήματος μεγαλύτερο από την τιμή σου; Αν όχι, κάνε κι άλλες ερωτήσεις συνέπειας ή πρότεινε ένα μικρότερο πρώτο βήμα. Για την ιστοσελίδα, σύγκρινε τίμια: περίπου 130 ευρώ τον χρόνο απέναντι σε όσα του αξίζει ένας ασθενής που χάνει."
+      },
+      "check": {
+        "q": {"en": "When does a buyer agree to a large purchase?", "el": "Πότε δέχεται ένας αγοραστής μια μεγάλη αγορά;"},
+        "options": [
+          {"en": "When the seller lowers the price enough", "el": "Όταν ο πωλητής ρίξει αρκετά την τιμή"},
+          {"en": "When the problem feels bigger than the cost of solving it", "el": "Όταν το πρόβλημα φαίνεται μεγαλύτερο από το κόστος της λύσης"},
+          {"en": "When he likes the seller personally", "el": "Όταν του αρέσει προσωπικά ο πωλητής"}
+        ],
+        "answer": 1,
+        "why": {"en": "The decision is a balance; implication questions make the problem side heavier.", "el": "Η απόφαση είναι μια ζυγαριά. Οι ερωτήσεις συνέπειας κάνουν πιο βαριά τη μεριά του προβλήματος."}
+      }
+    },
+    {
+      "title": {"en": "Need-payoff questions", "el": "Ερωτήσεις οφέλους"},
+      "explain": {
+        "en": "Need-payoff questions ask about the value of solving the problem: «How would it help if...?», «What would it mean for you if...?». The buyer then tells you the benefits in his own words. Rackham found buyers like these questions, they focus on solutions instead of pain, and they prepare the buyer to explain the purchase to others who decide with him.",
+        "el": "Οι ερωτήσεις οφέλους ρωτούν για την αξία της λύσης: «Πώς θα σας βοηθούσε αν...;», «Τι θα σήμαινε για εσάς αν...;». Έτσι ο αγοραστής σού λέει ο ίδιος τα οφέλη, με δικά του λόγια. Ο Ράκαμ βρήκε ότι οι αγοραστές συμπαθούν αυτές τις ερωτήσεις, γιατί εστιάζουν στη λύση και όχι στον πόνο, και ότι προετοιμάζουν τον αγοραστή να εξηγήσει την αγορά στους άλλους που αποφασίζουν μαζί του."
+      },
+      "example": {
+        "en": "Rackham stresses a hidden effect: in large sales the person you meet often has to sell the idea to a boss or partner when you are not there. If he has already said the benefits aloud in his own words, he can repeat them convincingly. Your arguments, said by you, are easily forgotten.",
+        "el": "Ο Ράκαμ τονίζει ένα κρυφό αποτέλεσμα: στις μεγάλες πωλήσεις ο άνθρωπος που συναντάς συχνά πρέπει να «πουλήσει» την ιδέα στον προϊστάμενο ή τον συνεταίρο του, όταν εσύ δεν είσαι εκεί. Αν έχει ήδη πει τα οφέλη δυνατά με δικά του λόγια, μπορεί να τα επαναλάβει πειστικά. Τα δικά σου επιχειρήματα, ειπωμένα από σένα, ξεχνιούνται εύκολα."
+      },
+      "apply": {
+        "en": "After the implications, ask: «If new patients could see your reviews and hours before calling, how would that help you?» or «What would it mean for your practice if people could book even in the evening?». Then stay silent and write down his answer. Use his words in the follow-up email.",
+        "el": "Μετά τις συνέπειες, ρώτα: «Αν οι νέοι ασθενείς έβλεπαν τις κριτικές και το ωράριό σας πριν σας πάρουν τηλέφωνο, πώς θα σας βοηθούσε;» ή «Τι θα σήμαινε για το ιατρείο σας να κλείνουν ραντεβού ακόμη και το βράδυ;». Μετά σώπασε και γράψε την απάντησή του. Βάλε τα δικά του λόγια στο email που ακολουθεί."
+      },
+      "check": {
+        "q": {"en": "Why are need-payoff questions so useful?", "el": "Γιατί είναι τόσο χρήσιμες οι ερωτήσεις οφέλους;"},
+        "options": [
+          {"en": "They let the seller talk more about his product", "el": "Αφήνουν τον πωλητή να μιλήσει περισσότερο για το προϊόν του"},
+          {"en": "They get the price question out of the way", "el": "Ξεμπερδεύουν με το θέμα της τιμής"},
+          {"en": "The buyer states the benefits himself and can repeat them to others", "el": "Ο αγοραστής λέει ο ίδιος τα οφέλη και μπορεί να τα επαναλάβει σε άλλους"}
+        ],
+        "answer": 2,
+        "why": {"en": "Benefits he says himself convince him and travel with him to the other decision makers.", "el": "Τα οφέλη που λέει ο ίδιος τον πείθουν και ταξιδεύουν μαζί του στους άλλους που αποφασίζουν."}
+      }
+    },
+    {
+      "title": {"en": "Plan your questions", "el": "Σχεδίασε τις ερωτήσεις σου"},
+      "explain": {
+        "en": "SPIN is a natural flow, not a rigid script: you may go back and forth. But implication questions are hard to invent on the spot, so Rackham insists on planning. Before each call, write the problems the buyer probably has, then the implications of each, then the need-payoff questions. Good questions come from preparation, not talent.",
+        "el": "Το SPIN είναι μια φυσική ροή, όχι αυστηρό σενάριο: μπορείς να πας μπρος πίσω. Όμως οι ερωτήσεις συνέπειας δύσκολα σου έρχονται επιτόπου, γι' αυτό ο Ράκαμ επιμένει στον σχεδιασμό. Πριν από κάθε συνάντηση γράψε τα προβλήματα που πιθανότατα έχει ο αγοραστής, μετά τις συνέπειες του καθενός και μετά τις ερωτήσεις οφέλους. Οι καλές ερωτήσεις βγαίνουν από προετοιμασία, όχι από ταλέντο."
+      },
+      "example": {
+        "en": "Good trial lawyers write their cross-examination questions in advance. They know which answers they need and in what order, yet they still listen and adapt in the courtroom. The plan frees their attention to listen instead of thinking what to ask next.",
+        "el": "Οι καλοί δικηγόροι στα δικαστήρια γράφουν από πριν τις ερωτήσεις τους για την εξέταση μαρτύρων. Ξέρουν ποιες απαντήσεις χρειάζονται και με ποια σειρά, αλλά μέσα στην αίθουσα ακούνε και προσαρμόζονται. Το σχέδιο απελευθερώνει την προσοχή τους για να ακούνε, αντί να σκέφτονται τι θα ρωτήσουν μετά."
+      },
+      "apply": {
+        "en": "Make one page per niche with four columns: S, P, I, N. Fill two or three questions in each, in natural Greek. Keep it open during calls and meetings. After each week, cross out the questions that got flat answers and add the ones that made doctors talk.",
+        "el": "Φτιάξε μία σελίδα για κάθε κλάδο με τέσσερις στήλες: S, P, I, N. Γράψε δύο τρεις ερωτήσεις σε κάθε στήλη, σε φυσικά ελληνικά. Κράτα τη σελίδα ανοιχτή στα τηλεφωνήματα και στις συναντήσεις. Στο τέλος κάθε εβδομάδας σβήσε τις ερωτήσεις που πήραν ξερές απαντήσεις και πρόσθεσε όσες έκαναν τους γιατρούς να μιλήσουν."
+      },
+      "check": {
+        "q": {"en": "Why does Rackham insist on planning before a call?", "el": "Γιατί ο Ράκαμ επιμένει στον σχεδιασμό πριν από τη συνάντηση;"},
+        "options": [
+          {"en": "Because implication questions are hard to invent on the spot", "el": "Επειδή οι ερωτήσεις συνέπειας δύσκολα σκαρφίζονται επιτόπου"},
+          {"en": "Because SPIN must be read word for word", "el": "Επειδή το SPIN πρέπει να διαβάζεται λέξη προς λέξη"},
+          {"en": "Because buyers expect a printed agenda", "el": "Επειδή οι αγοραστές περιμένουν τυπωμένη ατζέντα"}
+        ],
+        "answer": 0,
+        "why": {"en": "The most powerful questions need thought in advance; the flow itself stays natural.", "el": "Οι πιο δυνατές ερωτήσεις θέλουν σκέψη από πριν. Η ίδια η ροή μένει φυσική."}
+      }
+    },
+    {
+      "title": {"en": "Features and advantages are weak", "el": "Χαρακτηριστικά και πλεονεκτήματα: αδύναμα"},
+      "explain": {
+        "en": "Rackham defines three ways to describe what you sell. Features are facts about the product. Advantages show how it can be used or help, in general. Benefits, in his strict sense, show how it meets an explicit need the buyer has stated. In large sales, features had little effect and advantages, which many trainings call benefits, helped much less than sellers expected.",
+        "el": "Ο Ράκαμ ορίζει τρεις τρόπους να περιγράψεις αυτό που πουλάς. Χαρακτηριστικά: γεγονότα για το προϊόν. Πλεονεκτήματα: πώς μπορεί να χρησιμοποιηθεί ή να βοηθήσει, γενικά. Οφέλη, με την αυστηρή του έννοια: πώς καλύπτει μια ρητή ανάγκη που έχει πει ο αγοραστής. Στις μεγάλες πωλήσεις τα χαρακτηριστικά είχαν μικρή επίδραση, και τα πλεονεκτήματα, που πολλές εκπαιδεύσεις τα λένε «οφέλη», βοηθούσαν πολύ λιγότερο απ' όσο περίμεναν οι πωλητές."
+      },
+      "example": {
+        "en": "A drill seller says: «It has a two-speed motor» (feature). «So it can drill both wood and metal» (advantage). Only if the buyer has said «I need to drill metal brackets» does «the second speed drills the metal brackets you mentioned» become a benefit in Rackham's sense.",
+        "el": "Ένας πωλητής τρυπανιών λέει: «Έχει μοτέρ δύο ταχυτήτων» (χαρακτηριστικό). «Άρα τρυπάει και ξύλο και μέταλλο» (πλεονέκτημα). Μόνο αν ο αγοραστής έχει πει «πρέπει να τρυπάω μεταλλικές βάσεις», το «η δεύτερη ταχύτητα τρυπάει τις μεταλλικές βάσεις που είπατε» γίνεται όφελος με την έννοια του Ράκαμ."
+      },
+      "apply": {
+        "en": "Listen to one of your own recorded pitches (only your voice) and mark each sentence F, A or B. «Mobile friendly, fast, modern design» are features and advantages. Rewrite your top three as benefits tied to what doctors actually tell you they want.",
+        "el": "Άκου μια ηχογραφημένη παρουσίασή σου (μόνο τη δική σου φωνή) και σημείωσε κάθε πρόταση με F, A ή B. Το «φιλική για κινητά, γρήγορη, μοντέρνος σχεδιασμός» είναι χαρακτηριστικά και πλεονεκτήματα. Ξαναγράψε τα τρία κυριότερα ως οφέλη δεμένα με όσα σου λένε στην πράξη οι γιατροί ότι θέλουν."
+      },
+      "check": {
+        "q": {"en": "In Rackham's terms, «the site loads fast» said without any stated need is...", "el": "Με τους όρους του Ράκαμ, το «η σελίδα φορτώνει γρήγορα», χωρίς να έχει ειπωθεί καμία ανάγκη, είναι..."},
+        "options": [
+          {"en": "A benefit", "el": "Όφελος"},
+          {"en": "An advantage or feature, not a benefit", "el": "Πλεονέκτημα ή χαρακτηριστικό, όχι όφελος"},
+          {"en": "An implication", "el": "Συνέπεια"}
+        ],
+        "answer": 1,
+        "why": {"en": "A benefit must meet an explicit need the buyer has expressed; otherwise it is a general advantage.", "el": "Όφελος είναι μόνο ό,τι καλύπτει μια ρητή ανάγκη που έχει εκφράσει ο αγοραστής. Αλλιώς είναι γενικό πλεονέκτημα."}
+      }
+    },
+    {
+      "title": {"en": "Benefits meet stated needs", "el": "Τα οφέλη απαντούν σε δηλωμένες ανάγκες"},
+      "explain": {
+        "en": "The descriptions that win large sales are benefits in Rackham's sense: you show how your offer meets a need the buyer has clearly stated. That is why investigating comes first: without explicit needs, you have nothing to attach benefits to. Fewer, targeted statements beat a long list of everything your product can do.",
+        "el": "Οι περιγραφές που κερδίζουν τις μεγάλες πωλήσεις είναι τα οφέλη με την έννοια του Ράκαμ: δείχνεις πώς η προσφορά σου καλύπτει μια ανάγκη που έχει πει καθαρά ο αγοραστής. Γι' αυτό η διερεύνηση έρχεται πρώτη: χωρίς ρητές ανάγκες, δεν έχεις πού να «δέσεις» τα οφέλη. Λίγες, στοχευμένες προτάσεις κερδίζουν μια μακριά λίστα με όλα όσα μπορεί να κάνει το προϊόν σου."
+      },
+      "example": {
+        "en": "A family tells an estate agent they need a short walk to school and a quiet room to work from home. A good agent then shows two flats and says, for each, how far the school is and which room could be the office. She skips the rooftop pool they never asked about.",
+        "el": "Μια οικογένεια λέει σε μια μεσίτρια ότι θέλει σχολείο σε απόσταση με τα πόδια και ένα ήσυχο δωμάτιο για δουλειά από το σπίτι. Μια καλή μεσίτρια δείχνει μετά δύο διαμερίσματα και λέει για το καθένα πόσο απέχει το σχολείο και ποιο δωμάτιο μπορεί να γίνει γραφείο. Παραλείπει την πισίνα στην ταράτσα που δεν ζήτησαν ποτέ."
+      },
+      "apply": {
+        "en": "When you share your screen, start from his words: «You said you want new patients to see your experience before calling. Here, on the first screen, your specialisation and your real Google reviews.» Show only the parts that answer what he said; skip the rest.",
+        "el": "Όταν μοιράζεσαι την οθόνη, ξεκίνα από τα δικά του λόγια: «Είπατε ότι θέλετε οι νέοι ασθενείς να βλέπουν την εμπειρία σας πριν σας πάρουν τηλέφωνο. Εδώ, στην πρώτη οθόνη, η εξειδίκευσή σας και οι πραγματικές κριτικές σας από το Google». Δείξε μόνο ό,τι απαντά σε όσα είπε. Τα υπόλοιπα άφησέ τα."
+      },
+      "check": {
+        "q": {"en": "What must exist before you can give a real benefit?", "el": "Τι πρέπει να υπάρχει πριν μπορέσεις να δώσεις ένα πραγματικό όφελος;"},
+        "options": [
+          {"en": "A discount ready to offer", "el": "Μια έτοιμη έκπτωση"},
+          {"en": "A full product demo", "el": "Μια πλήρης επίδειξη του προϊόντος"},
+          {"en": "An explicit need the buyer has stated", "el": "Μια ρητή ανάγκη που έχει πει ο αγοραστής"}
+        ],
+        "answer": 2,
+        "why": {"en": "Benefits are defined by linking your offer to a clearly stated need.", "el": "Το όφελος ορίζεται ως σύνδεση της προσφοράς σου με μια καθαρά δηλωμένη ανάγκη."}
+      }
+    },
+    {
+      "title": {"en": "Prevent objections, don't handle them", "el": "Πρόλαβε τις αντιρρήσεις"},
+      "explain": {
+        "en": "Many trainings teach clever ways to handle objections. Rackham found the best sellers received fewer objections in the first place. Most objections are created by the seller: offering solutions too early, or listing advantages the buyer never asked for, invites «too expensive» and «we don't need that». Build the need first, and many objections never appear.",
+        "el": "Πολλές εκπαιδεύσεις μαθαίνουν έξυπνους τρόπους να χειρίζεσαι αντιρρήσεις. Ο Ράκαμ βρήκε ότι οι καλύτεροι πωλητές δέχονταν εξαρχής λιγότερες. Τις περισσότερες αντιρρήσεις τις προκαλεί ο ίδιος ο πωλητής: αν δίνει λύσεις πολύ νωρίς ή απαριθμεί πλεονεκτήματα που ο αγοραστής δεν ζήτησε, φέρνει το «είναι ακριβό» και το «δεν το χρειαζόμαστε». Χτίσε πρώτα την ανάγκη, και πολλές αντιρρήσεις δεν θα εμφανιστούν ποτέ."
+      },
+      "example": {
+        "en": "In a phone shop, a seller lists every camera, chip and screen feature of the newest model to a customer who only came for a phone that lasts all day. The customer's answer is predictable: «that's too much for me». The features created the price objection.",
+        "el": "Σε ένα κατάστημα κινητών, ο πωλητής απαριθμεί κάθε κάμερα, επεξεργαστή και οθόνη του νεότερου μοντέλου σε έναν πελάτη που ήρθε μόνο για ένα κινητό με μπαταρία που να βγάζει τη μέρα. Η απάντηση του πελάτη είναι αναμενόμενη: «αυτό είναι πολύ για μένα». Τα χαρακτηριστικά γέννησαν την αντίρρηση για την τιμή."
+      },
+      "apply": {
+        "en": "For one week, write down every objection you hear and what you said just before it. If «I don't need a site» follows your feature list, move more problem and implication questions before the offer. Count objections per call; the number should fall.",
+        "el": "Για μία εβδομάδα γράψε κάθε αντίρρηση που ακούς και τι είχες πει ακριβώς πριν. Αν το «δεν χρειάζομαι ιστοσελίδα» έρχεται μετά τη λίστα με τα χαρακτηριστικά, βάλε περισσότερες ερωτήσεις προβλήματος και συνέπειας πριν από την προσφορά. Μέτρα τις αντιρρήσεις ανά τηλεφώνημα. Ο αριθμός πρέπει να πέφτει."
+      },
+      "check": {
+        "q": {"en": "According to Rackham, where do most objections come from?", "el": "Κατά τον Ράκαμ, από πού προέρχονται οι περισσότερες αντιρρήσεις;"},
+        "options": [
+          {"en": "From difficult, negative buyers", "el": "Από δύσκολους, αρνητικούς αγοραστές"},
+          {"en": "From the seller offering solutions before building needs", "el": "Από τον πωλητή που δίνει λύσεις πριν χτίσει ανάγκες"},
+          {"en": "From competitors talking to the buyer", "el": "Από ανταγωνιστές που μιλούν στον αγοραστή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Early solutions and unwanted advantages invite objections; good investigating prevents them.", "el": "Οι πρόωρες λύσεις και τα πλεονεκτήματα που δεν ζητήθηκαν προκαλούν αντιρρήσεις. Η καλή διερεύνηση τις προλαβαίνει."}
+      }
+    },
+    {
+      "title": {"en": "Don't show solutions too early", "el": "Μη δείχνεις λύσεις νωρίς"},
+      "explain": {
+        "en": "Sellers love their product and want to show it as soon as they hear a problem. Rackham found this hurts in large sales: an early demo meets a need that is still small, so the price looks too high. Wait until the buyer has stated explicit needs, then demonstrate capability only against those needs.",
+        "el": "Οι πωλητές αγαπούν το προϊόν τους και θέλουν να το δείξουν μόλις ακούσουν ένα πρόβλημα. Ο Ράκαμ βρήκε ότι αυτό βλάπτει στις μεγάλες πωλήσεις: μια πρόωρη παρουσίαση συναντά μια ανάγκη που είναι ακόμη μικρή, άρα η τιμή φαίνεται υπερβολική. Περίμενε να πει ο αγοραστής ρητές ανάγκες και μετά δείξε την ικανότητά σου μόνο απέναντι σε αυτές."
+      },
+      "example": {
+        "en": "A new car salesperson hears «we're thinking about a bigger car» and rushes the couple into the most expensive SUV for a test drive. They leave saying it is too much. A better seller first learns about the kids, the commute and the budget, then shows one car that fits.",
+        "el": "Ένας άπειρος πωλητής αυτοκινήτων ακούει «σκεφτόμαστε ένα μεγαλύτερο αυτοκίνητο» και βάζει αμέσως το ζευγάρι για δοκιμή στο ακριβότερο SUV. Φεύγουν λέγοντας ότι είναι πολύ. Ένας καλύτερος πωλητής μαθαίνει πρώτα για τα παιδιά, τη διαδρομή για τη δουλειά και τον προϋπολογισμό, και μετά δείχνει ένα αυτοκίνητο που ταιριάζει."
+      },
+      "apply": {
+        "en": "Set a simple rule for video meetings: no screen-sharing until the doctor has said at least one clear want in his own words. If he asks early, «Can I see an example?», say: «Of course, I'll show you in a moment. First, so I show you the right one, how do patients find you today?»",
+        "el": "Βάλε έναν απλό κανόνα στις βιντεοκλήσεις: καμία κοινή χρήση οθόνης μέχρι ο γιατρός να πει τουλάχιστον μία καθαρή επιθυμία με δικά του λόγια. Αν ρωτήσει νωρίς «Μπορώ να δω ένα παράδειγμα;», πες: «Βεβαίως, σε ένα λεπτό σας δείχνω. Πρώτα, για να σας δείξω το σωστό, πώς σας βρίσκουν σήμερα οι ασθενείς;»."
+      },
+      "check": {
+        "q": {"en": "Why does an early demo hurt a large sale?", "el": "Γιατί βλάπτει μια πρόωρη παρουσίαση σε μια μεγάλη πώληση;"},
+        "options": [
+          {"en": "The need is still small, so the price looks too high", "el": "Η ανάγκη είναι ακόμη μικρή, άρα η τιμή φαίνεται υπερβολική"},
+          {"en": "Buyers prefer to see nothing at all", "el": "Οι αγοραστές προτιμούν να μη βλέπουν τίποτα"},
+          {"en": "Demos always contain technical errors", "el": "Οι παρουσιάσεις έχουν πάντα τεχνικά λάθη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Value is weighed against the size of the need; show solutions after the need has grown.", "el": "Η αξία ζυγίζεται απέναντι στο μέγεθος της ανάγκης. Δείξε λύσεις αφού μεγαλώσει η ανάγκη."}
+      }
+    },
+    {
+      "title": {"en": "Earn the commitment", "el": "Κέρδισε τη δέσμευση"},
+      "explain": {
+        "en": "Rackham found successful sellers obtain commitment with four simple behaviours, not tricks. First, they spend most of the call investigating and demonstrating. Second, they check that the buyer's key concerns have been covered. Third, they summarise the benefits agreed. Fourth, they propose a realistic next step that the buyer can say yes to.",
+        "el": "Ο Ράκαμ βρήκε ότι οι επιτυχημένοι πωλητές παίρνουν δέσμευση με τέσσερις απλές συμπεριφορές, όχι με κόλπα. Πρώτον, περνούν το μεγαλύτερο μέρος της συνάντησης στη διερεύνηση και στην απόδειξη ικανότητας. Δεύτερον, ελέγχουν ότι καλύφθηκαν οι βασικές ανησυχίες του αγοραστή. Τρίτον, συνοψίζουν τα οφέλη που συμφωνήθηκαν. Τέταρτον, προτείνουν ένα ρεαλιστικό επόμενο βήμα στο οποίο μπορεί να πει ναι."
+      },
+      "example": {
+        "en": "A business software seller ends a good meeting: «Is there anything we have not covered that would worry you? So, you want fewer manual reports and one view for your managers. Shall we set up a two-week trial with your finance team starting Monday?» No trick, just a clear proposal.",
+        "el": "Ένας πωλητής επιχειρηματικού λογισμικού κλείνει μια καλή συνάντηση: «Υπάρχει κάτι που δεν καλύψαμε και θα σας ανησυχούσε; Άρα, θέλετε λιγότερες χειροκίνητες αναφορές και μία εικόνα για τους διευθυντές σας. Να στήσουμε μια δοκιμή δύο εβδομάδων με το λογιστήριό σας από Δευτέρα;». Κανένα κόλπο, μόνο μια καθαρή πρόταση."
+      },
+      "apply": {
+        "en": "End every meeting with the same three lines: «Is there anything that still concerns you?» Then: «So, you want new patients to find you and see your reviews, without spending your own time on it.» Then: «Shall I start the first draft, so you can see it on your phone by Friday?»",
+        "el": "Κλείσε κάθε συνάντηση με τις ίδιες τρεις φράσεις: «Υπάρχει κάτι που σας προβληματίζει ακόμη;». Μετά: «Άρα, θέλετε να σας βρίσκουν οι νέοι ασθενείς και να βλέπουν τις κριτικές σας, χωρίς να ξοδεύετε δικό σας χρόνο». Μετά: «Να ξεκινήσω το πρώτο σχέδιο, να το δείτε στο κινητό σας ως την Παρασκευή;»."
+      },
+      "check": {
+        "q": {"en": "Which is one of the four commitment behaviours Rackham found?", "el": "Ποια είναι μία από τις τέσσερις συμπεριφορές δέσμευσης που βρήκε ο Ράκαμ;"},
+        "options": [
+          {"en": "Telling the buyer the offer ends today", "el": "Λες στον αγοραστή ότι η προσφορά λήγει σήμερα"},
+          {"en": "Asking the same closing question three times", "el": "Κάνεις την ίδια ερώτηση κλεισίματος τρεις φορές"},
+          {"en": "Summarising the benefits that were agreed", "el": "Συνοψίζεις τα οφέλη που συμφωνήθηκαν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Check concerns, summarise benefits, propose a next step: plain, honest and effective.", "el": "Ελέγχεις τις ανησυχίες, συνοψίζεις τα οφέλη, προτείνεις επόμενο βήμα: απλό, τίμιο και αποτελεσματικό."}
+      }
+    },
+    {
+      "title": {"en": "Advances, not continuations", "el": "Πρόοδος, όχι απλή συνέχεια"},
+      "explain": {
+        "en": "A call can end four ways: an order, an advance, a continuation or no sale. An advance is a concrete step that moves the sale forward: a meeting with the partner, a trial, a visit. A continuation is a friendly «let's keep in touch» with no action agreed. Rackham warns that sellers count continuations as success. Plan each call to win a specific advance.",
+        "el": "Μια συνάντηση μπορεί να τελειώσει με τέσσερις τρόπους: παραγγελία, πρόοδο, απλή συνέχεια ή καμία πώληση. Πρόοδος είναι ένα συγκεκριμένο βήμα που πάει την πώληση μπροστά: συνάντηση με τον συνεταίρο, δοκιμή, επίσκεψη. Απλή συνέχεια είναι ένα φιλικό «τα λέμε», χωρίς συμφωνημένη ενέργεια. Ο Ράκαμ προειδοποιεί ότι οι πωλητές μετρούν τις απλές συνέχειες ως επιτυχία. Σχεδίασε κάθε συνάντηση για να κερδίσεις μια συγκεκριμένη πρόοδο."
+      },
+      "example": {
+        "en": "Two sellers leave the same company. One hears «Great presentation, send us something and we'll be in touch»: a continuation. The other leaves with «Come back on Tuesday at ten and show this to our director»: an advance. Only the second sale has actually moved.",
+        "el": "Δύο πωλητές φεύγουν από την ίδια εταιρεία. Ο ένας ακούει «Πολύ ωραία παρουσίαση, στείλτε μας κάτι και θα τα πούμε»: απλή συνέχεια. Ο άλλος φεύγει με «Ελάτε ξανά την Τρίτη στις δέκα να το δείξετε στον διευθυντή μας»: πρόοδος. Μόνο η δεύτερη πώληση κινήθηκε στην πράξη."
+      },
+      "apply": {
+        "en": "Before each call write the advance you want: a video meeting booked with day and time, or his photos sent today. In your CRM, mark every call as order, advance, continuation or no sale. If «send me an email» keeps appearing, ask for a small concrete step instead.",
+        "el": "Πριν από κάθε τηλεφώνημα γράψε την πρόοδο που θέλεις: κλεισμένη βιντεοκλήση με μέρα και ώρα ή τις φωτογραφίες του σταλμένες σήμερα. Στο CRM σημείωσε κάθε κλήση ως παραγγελία, πρόοδο, απλή συνέχεια ή καμία πώληση. Αν εμφανίζεται συνέχεια το «στείλτε μου ένα email», ζήτα αντί γι' αυτό ένα μικρό συγκεκριμένο βήμα."
+      },
+      "check": {
+        "q": {"en": "Which outcome is an advance?", "el": "Ποιο αποτέλεσμα είναι πρόοδος;"},
+        "options": [
+          {"en": "«Call me again sometime next month»", "el": "«Πάρτε με πάλι κάποια στιγμή τον άλλο μήνα»"},
+          {"en": "«Let's do a video call on Thursday at five»", "el": "«Ας κάνουμε βιντεοκλήση την Πέμπτη στις πέντε»"},
+          {"en": "«Very interesting, I'll think about it»", "el": "«Πολύ ενδιαφέρον, θα το σκεφτώ»"}
+        ],
+        "answer": 1,
+        "why": {"en": "An advance is a specific agreed action that moves the sale forward.", "el": "Πρόοδος είναι μια συγκεκριμένη, συμφωνημένη ενέργεια που πάει την πώληση μπροστά."}
+      }
+    },
+    {
+      "title": {"en": "Learn one behaviour at a time", "el": "Μάθε μία συμπεριφορά τη φορά"},
+      "explain": {
+        "en": "Rackham ends with how to actually learn SPIN. Practise one behaviour at a time, for example only implication questions this week. Try it at least three times before judging it, because it feels awkward at first. Practise first in safe calls, not your most important one. Focus on quantity first: ask many such questions, then improve their quality.",
+        "el": "Ο Ράκαμ κλείνει με το πώς μαθαίνεις στην πράξη το SPIN. Εξασκήσου σε μία συμπεριφορά τη φορά, για παράδειγμα μόνο στις ερωτήσεις συνέπειας αυτή την εβδομάδα. Δοκίμασέ τη τουλάχιστον τρεις φορές πριν την κρίνεις, γιατί στην αρχή σου βγαίνει αδέξια. Εξασκήσου πρώτα σε ασφαλείς συναντήσεις, όχι στη σημαντικότερη. Στην αρχή κοίτα την ποσότητα: κάνε πολλές τέτοιες ερωτήσεις, και μετά βελτίωσε την ποιότητά τους."
+      },
+      "example": {
+        "en": "Benjamin Franklin tried to build thirteen virtues, such as order and frugality. He did not work on all at once. In his autobiography he describes focusing on one virtue each week, tracking his slips in a small book, then moving to the next.",
+        "el": "Ο Βενιαμίν Φραγκλίνος προσπάθησε να καλλιεργήσει δεκατρείς αρετές, όπως την τάξη και τη λιτότητα. Δεν δούλεψε όλες μαζί. Στην αυτοβιογραφία του περιγράφει ότι εστίαζε σε μία αρετή κάθε εβδομάδα, σημείωνε τα παραπατήματά του σε ένα μικρό βιβλιαράκι και μετά περνούσε στην επόμενη."
+      },
+      "apply": {
+        "en": "Week one: only problem questions, at least two per call, counted with tally marks. Week two: implication questions. Week three: need-payoff. Practise on calls to niches you care less about before using it with your best leads. Review the tally every Friday.",
+        "el": "Πρώτη εβδομάδα: μόνο ερωτήσεις προβλήματος, τουλάχιστον δύο ανά τηλεφώνημα, μετρημένες με γραμμούλες σε ένα χαρτί. Δεύτερη εβδομάδα: ερωτήσεις συνέπειας. Τρίτη: ερωτήσεις οφέλους. Εξασκήσου σε κλήσεις προς κλάδους που σε ενδιαφέρουν λιγότερο πριν το εφαρμόσεις στις καλύτερες επαφές σου. Κάνε τον απολογισμό κάθε Παρασκευή."
+      },
+      "check": {
+        "q": {"en": "How does Rackham advise you to learn SPIN?", "el": "Πώς σε συμβουλεύει ο Ράκαμ να μάθεις το SPIN;"},
+        "options": [
+          {"en": "All four question types together from day one", "el": "Και τα τέσσερα είδη ερωτήσεων μαζί από την πρώτη μέρα"},
+          {"en": "One behaviour at a time, tried at least three times", "el": "Μία συμπεριφορά τη φορά, δοκιμασμένη τουλάχιστον τρεις φορές"},
+          {"en": "Only in your most important meetings", "el": "Μόνο στις πιο σημαντικές σου συναντήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Skills are built step by step, in safe settings, with enough tries to get past the awkward start.", "el": "Οι δεξιότητες χτίζονται βήμα βήμα, σε ασφαλείς συνθήκες, με αρκετές δοκιμές ώστε να ξεπεράσεις την αδέξια αρχή."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Two minutes into a video call, the dentist says «our old site is a bit outdated». What do you do?", "el": "Δύο λεπτά μετά την αρχή της βιντεοκλήσης, ο οδοντίατρος λέει «η παλιά μας σελίδα είναι λίγο ξεπερασμένη». Τι κάνεις;"},
+      "options": [
+        {"en": "Share your screen and show your best sites at once", "el": "Μοιράζεσαι αμέσως την οθόνη και δείχνεις τις καλύτερες σελίδες σου"},
+        {"en": "Ask what that outdated site causes for the practice", "el": "Ρωτάς τι προκαλεί αυτή η ξεπερασμένη σελίδα στο ιατρείο"},
+        {"en": "Agree and tell him your price", "el": "Συμφωνείς και του λες την τιμή σου"}
+      ],
+      "answer": 1,
+      "why": {"en": "That is an implied need; implication questions grow it before you show any solution.", "el": "Αυτή είναι υπονοούμενη ανάγκη. Οι ερωτήσεις συνέπειας τη μεγαλώνουν πριν δείξεις οποιαδήποτε λύση."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "A call ends with «Nice, send me something and we'll talk». How do you log it?", "el": "Ένα τηλεφώνημα τελειώνει με «Ωραία, στείλτε μου κάτι και τα λέμε». Πώς το καταγράφεις;"},
+      "options": [
+        {"en": "As a continuation, and next time you aim for a concrete step", "el": "Ως απλή συνέχεια, και την επόμενη φορά στοχεύεις σε συγκεκριμένο βήμα"},
+        {"en": "As a success, because he was friendly", "el": "Ως επιτυχία, επειδή ήταν φιλικός"},
+        {"en": "As a lost client, and delete him", "el": "Ως χαμένο πελάτη και τον διαγράφεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "No specific action was agreed, so the sale has not moved: it is a continuation.", "el": "Δεν συμφωνήθηκε καμία συγκεκριμένη ενέργεια, άρα η πώληση δεν κινήθηκε: είναι απλή συνέχεια."},
+      "idea": 16
+    },
+    {
+      "q": {"en": "A clinic owner asks for an eshop and automation worth several thousand euros. How do you sell it?", "el": "Ο ιδιοκτήτης μιας κλινικής ζητά eshop και αυτοματοποιήσεις αξίας μερικών χιλιάδων ευρώ. Πώς το πουλάς;"},
+      "options": [
+        {"en": "Same as a website: one call and an assumptive close", "el": "Όπως την ιστοσελίδα: ένα τηλεφώνημα και κλείσιμο σαν να είναι δεδομένο"},
+        {"en": "Send the price by email and wait", "el": "Στέλνεις την τιμή με email και περιμένεις"},
+        {"en": "Several meetings with full SPIN and clear advances each time", "el": "Πολλές συναντήσεις με πλήρες SPIN και καθαρή πρόοδο κάθε φορά"}
+      ],
+      "answer": 2,
+      "why": {"en": "It is a large sale: build explicit needs and move by advances, without pressure closes.", "el": "Είναι μεγάλη πώληση: χτίζεις ρητές ανάγκες και προχωράς με βήματα προόδου, χωρίς πιεστικά κλεισίματα."},
+      "idea": 0
+    },
+    {
+      "q": {"en": "Every third call, doctors say «I don't need a site». You usually say it right after listing features. What do you change?", "el": "Κάθε τρίτο τηλεφώνημα οι γιατροί λένε «δεν χρειάζομαι ιστοσελίδα». Συνήθως το λένε αμέσως μετά τη λίστα με τα χαρακτηριστικά. Τι αλλάζεις;"},
+      "options": [
+        {"en": "Learn three clever answers to that objection", "el": "Μαθαίνεις τρεις έξυπνες απαντήσεις σε αυτή την αντίρρηση"},
+        {"en": "Ask problem and implication questions before any features", "el": "Κάνεις ερωτήσεις προβλήματος και συνέπειας πριν από οποιοδήποτε χαρακτηριστικό"},
+        {"en": "Add more features to the list", "el": "Προσθέτεις κι άλλα χαρακτηριστικά στη λίστα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Rackham says prevent objections: the early feature list is creating them.", "el": "Ο Ράκαμ λέει να προλαβαίνεις τις αντιρρήσεις: τις προκαλεί η πρόωρη λίστα χαρακτηριστικών."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "A psychologist says she wants clients to understand her approach before the first session. What do you show?", "el": "Μια ψυχολόγος λέει ότι θέλει οι θεραπευόμενοι να καταλαβαίνουν την προσέγγισή της πριν από την πρώτη συνεδρία. Τι της δείχνεις;"},
+      "options": [
+        {"en": "The «My approach» section of a colleague's site, linked to her words", "el": "Την ενότητα «Η προσέγγισή μου» στη σελίδα μιας συναδέλφου, δεμένη με τα λόγια της"},
+        {"en": "Every page and animation you have ever built", "el": "Κάθε σελίδα και κάθε κίνηση που έχεις φτιάξει ποτέ"},
+        {"en": "The technical speed scores of your sites", "el": "Τις τεχνικές βαθμολογίες ταχύτητας των σελίδων σου"}
+      ],
+      "answer": 0,
+      "why": {"en": "She stated an explicit need; a benefit answers exactly that need.", "el": "Είπε μια ρητή ανάγκη. Το όφελος απαντά ακριβώς σε αυτή την ανάγκη."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "Your friend wants his father to finally see a cardiologist. His father says «I'm fine». What helps most?", "el": "Ο φίλος σου θέλει ο πατέρας του να πάει επιτέλους σε καρδιολόγο. Ο πατέρας λέει «είμαι μια χαρά». Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Tell him firmly that he must go this week", "el": "Να του πει αυστηρά ότι πρέπει να πάει αυτή την εβδομάδα"},
+        {"en": "List all the tests the cardiologist can do", "el": "Να του απαριθμήσει όλες τις εξετάσεις που μπορεί να κάνει ο καρδιολόγος"},
+        {"en": "Ask what a check-up would let him enjoy without worry, like the grandchildren", "el": "Να τον ρωτήσει τι θα απολάμβανε χωρίς έγνοια μετά από έναν έλεγχο, όπως τα εγγόνια"}
+      ],
+      "answer": 2,
+      "why": {"en": "A need-payoff question lets him say the value in his own words, which convinces more than pressure.", "el": "Μια ερώτηση οφέλους τον αφήνει να πει την αξία με δικά του λόγια, και αυτό πείθει περισσότερο από την πίεση."},
+      "idea": 9
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Rackham found closing techniques help most in high-value sales.", "el": "Ο Ράκαμ βρήκε ότι οι τεχνικές κλεισίματος βοηθούν περισσότερο στις ακριβές πωλήσεις."}, "answer": false, "why": {"en": "They helped in low-value sales and were linked with less success in high-value ones.", "el": "Βοηθούσαν στις φθηνές πωλήσεις και συνδέονταν με λιγότερη επιτυχία στις ακριβές."}},
+    {"s": {"en": "Implication questions are the ones most linked with success in large sales.", "el": "Οι ερωτήσεις συνέπειας είναι αυτές που συνδέονται περισσότερο με την επιτυχία στις μεγάλες πωλήσεις."}, "answer": true, "why": {"en": "They grow the size of the problem until it outweighs the cost.", "el": "Μεγαλώνουν το πρόβλημα μέχρι να ζυγίζει περισσότερο από το κόστος."}},
+    {"s": {"en": "A friendly «let's keep in touch» counts as an advance.", "el": "Ένα φιλικό «τα λέμε» μετράει ως πρόοδος."}, "answer": false, "why": {"en": "It is a continuation: no specific action was agreed.", "el": "Είναι απλή συνέχεια: δεν συμφωνήθηκε καμία συγκεκριμένη ενέργεια."}},
+    {"s": {"en": "In Rackham's sense, a benefit shows how you meet a need the buyer has stated.", "el": "Με την έννοια του Ράκαμ, όφελος είναι όταν δείχνεις πώς καλύπτεις μια ανάγκη που έχει πει ο αγοραστής."}, "answer": true, "why": {"en": "Without a stated, explicit need it is only an advantage.", "el": "Χωρίς δηλωμένη, ρητή ανάγκη είναι απλώς πλεονέκτημα."}},
+    {"s": {"en": "Successful sellers ask more situation questions than unsuccessful ones.", "el": "Οι επιτυχημένοι πωλητές κάνουν περισσότερες ερωτήσεις κατάστασης από τους αποτυχημένους."}, "answer": false, "why": {"en": "Unsuccessful sellers overuse them; good sellers do homework instead.", "el": "Τις παρακάνουν οι αποτυχημένοι. Οι καλοί κάνουν προετοιμασία αντί γι' αυτές."}},
+    {"s": {"en": "The best sellers receive fewer objections, because they prevent them.", "el": "Οι καλύτεροι πωλητές δέχονται λιγότερες αντιρρήσεις, γιατί τις προλαβαίνουν."}, "answer": true, "why": {"en": "Building needs before offering solutions stops many objections from appearing.", "el": "Όταν χτίζεις ανάγκες πριν δώσεις λύσεις, πολλές αντιρρήσεις δεν εμφανίζονται."}},
+    {"s": {"en": "SPIN is a rigid script that must be followed word for word.", "el": "Το SPIN είναι αυστηρό σενάριο που ακολουθείται λέξη προς λέξη."}, "answer": false, "why": {"en": "It is a natural flow that you plan for but adapt in the conversation.", "el": "Είναι μια φυσική ροή που την προετοιμάζεις αλλά την προσαρμόζεις μέσα στην κουβέντα."}},
+    {"s": {"en": "Need-payoff questions help the buyer explain the purchase to others.", "el": "Οι ερωτήσεις οφέλους βοηθούν τον αγοραστή να εξηγήσει την αγορά σε άλλους."}, "answer": true, "why": {"en": "He has already said the benefits in his own words and can repeat them.", "el": "Έχει ήδη πει τα οφέλη με δικά του λόγια και μπορεί να τα επαναλάβει."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Situation question", "el": "Ερώτηση κατάστασης"}, "b": {"en": "Collects basic facts; use few", "el": "Μαζεύει βασικά στοιχεία, κάνε λίγες"}},
+    {"a": {"en": "Problem question", "el": "Ερώτηση προβλήματος"}, "b": {"en": "Finds difficulties and dissatisfactions", "el": "Βρίσκει δυσκολίες και δυσαρέσκειες"}},
+    {"a": {"en": "Implication question", "el": "Ερώτηση συνέπειας"}, "b": {"en": "Explores what the problem causes and costs", "el": "Εξερευνά τι προκαλεί και τι κοστίζει το πρόβλημα"}},
+    {"a": {"en": "Need-payoff question", "el": "Ερώτηση οφέλους"}, "b": {"en": "Lets the buyer state the value of solving it", "el": "Αφήνει τον αγοραστή να πει την αξία της λύσης"}},
+    {"a": {"en": "Advance", "el": "Πρόοδος"}, "b": {"en": "A specific step that moves the sale forward", "el": "Συγκεκριμένο βήμα που πάει την πώληση μπροστά"}},
+    {"a": {"en": "Explicit need", "el": "Ρητή ανάγκη"}, "b": {"en": "A clear want the buyer says aloud", "el": "Καθαρή επιθυμία που λέει ο αγοραστής"}}
+  ],
+  "missions": [
+    {"en": "Write one SPIN page for dentists with two questions in each column, in natural Greek.", "el": "Γράψε μια σελίδα SPIN για οδοντιάτρους με δύο ερωτήσεις σε κάθε στήλη, σε φυσικά ελληνικά."},
+    {"en": "Mark your last twenty calls in the CRM as order, advance, continuation or no sale.", "el": "Σημείωσε στο CRM τα τελευταία είκοσι τηλεφωνήματα ως παραγγελία, πρόοδο, απλή συνέχεια ή καμία πώληση."},
+    {"en": "Ask at least two implication questions on every call today and count them with tally marks.", "el": "Κάνε τουλάχιστον δύο ερωτήσεις συνέπειας σε κάθε σημερινό τηλεφώνημα και μέτρησέ τες με γραμμούλες."},
+    {"en": "Rewrite your three main pitch sentences from features into benefits tied to what doctors say.", "el": "Ξαναγράψε τις τρεις κύριες προτάσεις της παρουσίασής σου από χαρακτηριστικά σε οφέλη δεμένα με όσα λένε οι γιατροί."},
+    {"en": "In your next video meeting, do not share your screen until the doctor states one clear want.", "el": "Στην επόμενη βιντεοκλήση σου, μη μοιραστείς την οθόνη μέχρι ο γιατρός να πει μία καθαρή επιθυμία."}
+  ],
+  "mantra": {"en": "Ask before I show. Let them say the need.", "el": "Ρωτάω πριν δείξω. Αφήνω τον άλλον να πει την ανάγκη."},
+  "careful": {
+    "en": "The research was paid for by companies and run by Rackham's own training firm, not published in independent journals or replicated by others. It studied 1970s and 1980s face-to-face business selling, before buyers could research everything online. Implication questions can turn into scaring people about problems they do not really have. And your website offer is a small sale, where Rackham himself says simpler methods work.",
+    "el": "Την έρευνα την πλήρωσαν εταιρείες και την έκανε η ίδια η εταιρεία εκπαίδευσης του Ράκαμ. Δεν δημοσιεύτηκε σε ανεξάρτητα επιστημονικά περιοδικά ούτε επαναλήφθηκε από άλλους. Μελέτησε πωλήσεις πρόσωπο με πρόσωπο μεταξύ επιχειρήσεων στις δεκαετίες του '70 και του '80, πριν ο αγοραστής μπορεί να ψάξει τα πάντα online. Οι ερωτήσεις συνέπειας μπορεί να καταλήξουν σε εκφοβισμό για προβλήματα που ο άλλος δεν έχει στ' αλήθεια. Και η προσφορά σου για ιστοσελίδα είναι μικρή πώληση, όπου ο ίδιος ο Ράκαμ λέει ότι πιάνουν απλούστερες μέθοδοι."
+  },
+  "connects": [
+    {"book": "secrets-of-closing", "note": {"en": "Ziglar teaches many closes; Rackham shows they help in small sales but backfire in large ones.", "el": "Ο Ζίγκλαρ διδάσκει πολλά κλεισίματα. Ο Ράκαμ δείχνει ότι βοηθούν στις μικρές πωλήσεις αλλά γυρίζουν μπούμερανγκ στις μεγάλες."}},
+    {"book": "never-split-the-difference", "note": {"en": "Both replace pushing with questions, Voss with calibrated how and what questions, Rackham with SPIN.", "el": "Και τα δύο αντικαθιστούν την πίεση με ερωτήσεις: ο Βος με ερωτήσεις «πώς» και «τι», ο Ράκαμ με το SPIN."}},
+    {"book": "fanatical-prospecting", "note": {"en": "Blount fills the calendar with meetings; Rackham shows what to ask once you are in them.", "el": "Ο Μπλάουντ γεμίζει το ημερολόγιο με ραντεβού. Ο Ράκαμ δείχνει τι να ρωτήσεις όταν βρεθείς σε αυτά."}}
+  ]
+}

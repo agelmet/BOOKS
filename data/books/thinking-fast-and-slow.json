@@ -1,0 +1,626 @@
+{
+  "id": "thinking-fast-and-slow",
+  "title": {"en": "Thinking, Fast and Slow", "el": "Σκέψη, αργή και γρήγορη"},
+  "author": "Daniel Kahneman",
+  "authorEl": "Ντάνιελ Κάνεμαν",
+  "year": 2011,
+  "shelf": "people",
+  "skills": {"wisdom": 3, "strategy": 2, "persuasion": 2},
+  "oneLine": {
+    "en": "Two systems run your mind: a fast, intuitive one that is usually right but makes predictable mistakes, and a slow, lazy one you must call in when the stakes are high.",
+    "el": "Δύο συστήματα κινούν το μυαλό σου: ένα γρήγορο και διαισθητικό, που συνήθως πετυχαίνει αλλά κάνει προβλέψιμα λάθη, κι ένα αργό και τεμπέλικο, που πρέπει να το καλείς όταν διακυβεύονται πολλά."
+  },
+  "story": {
+    "en": "Daniel Kahneman (1934 to 2024) was an Israeli-American psychologist who won the 2002 Nobel Prize in economics for work he did with his friend Amos Tversky, who died in 1996. This book sums up decades of their research on how people really judge and decide, told through two characters: fast System 1 and slow System 2. It changed economics, medicine and public policy, and is still the classic book on thinking errors.",
+    "el": "Ο Ντάνιελ Κάνεμαν (1934 με 2024) ήταν Ισραηλινοαμερικανός ψυχολόγος που πήρε το Νόμπελ Οικονομικών το 2002 για τη δουλειά που έκανε με τον φίλο του Άμος Τβέρσκι, ο οποίος πέθανε το 1996. Το βιβλίο συνοψίζει δεκαετίες έρευνας για το πώς πραγματικά κρίνουμε και αποφασίζουμε, μέσα από δύο χαρακτήρες: το γρήγορο Σύστημα 1 και το αργό Σύστημα 2. Άλλαξε την οικονομία, την ιατρική και τη δημόσια πολιτική, και παραμένει το κλασικό βιβλίο για τα λάθη της σκέψης."
+  },
+  "forYou": {
+    "en": "Every day you make fast calls: which lead to phone, what price to say, which ad to keep, whom to hire. Your prospects also decide fast, in the first seconds of your cold call. This book shows where fast thinking fails and when to slow down, so you price, plan and predict better, and present your offer in a way the mind can accept honestly.",
+    "el": "Κάθε μέρα παίρνεις γρήγορες αποφάσεις: ποιο lead θα πάρεις τηλέφωνο, ποια τιμή θα πεις, ποια διαφήμιση θα κρατήσεις, ποιον θα προσλάβεις. Και οι υποψήφιοι πελάτες σου αποφασίζουν γρήγορα, στα πρώτα δευτερόλεπτα του cold call. Το βιβλίο σού δείχνει πού σκοντάφτει η γρήγορη σκέψη και πότε να επιβραδύνεις, ώστε να τιμολογείς, να σχεδιάζεις και να προβλέπεις καλύτερα, και να παρουσιάζεις την προσφορά σου με τρόπο που το μυαλό του άλλου τη δέχεται τίμια."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Two systems in one head", "el": "Δύο συστήματα σε ένα κεφάλι"},
+      "explain": {
+        "en": "Kahneman describes two ways of thinking. System 1 is fast, automatic and effortless: it reads a face, finishes «bread and...», drives on an empty road. System 2 is slow, effortful and deliberate: it multiplies, compares offers, fills in a tax form. System 1 runs all the time and feeds impressions; System 2 thinks it is in charge but mostly just agrees. They are useful characters, not two parts of the brain.",
+        "el": "Ο Κάνεμαν περιγράφει δύο τρόπους σκέψης. Το Σύστημα 1 είναι γρήγορο, αυτόματο και χωρίς κόπο: διαβάζει ένα πρόσωπο, συμπληρώνει το «ψωμί και...», οδηγεί σε άδειο δρόμο. Το Σύστημα 2 είναι αργό, κοπιαστικό και συνειδητό: κάνει πολλαπλασιασμούς, συγκρίνει προσφορές, συμπληρώνει τη φορολογική δήλωση. Το Σύστημα 1 δουλεύει συνέχεια και δίνει εντυπώσεις. Το Σύστημα 2 νομίζει ότι κάνει κουμάντο, αλλά συνήθως απλώς συμφωνεί. Είναι χρήσιμοι χαρακτήρες, όχι δύο κομμάτια του εγκεφάλου."
+      },
+      "example": {
+        "en": "Look at 2 + 2 and the answer simply arrives: System 1. Now try 17 × 24 in your head. You feel the effort, you stop walking if you are walking, and Kahneman's lab found that the pupils of the eyes widen during hard mental work. That is System 2 switching on.",
+        "el": "Κοίτα το 2 + 2 και η απάντηση έρχεται μόνη της: Σύστημα 1. Τώρα δοκίμασε το 17 × 24 με το μυαλό. Νιώθεις την προσπάθεια, αν περπατάς σταματάς, και το εργαστήριο του Κάνεμαν βρήκε ότι οι κόρες των ματιών διαστέλλονται όσο το μυαλό κάνει δύσκολη δουλειά. Αυτό είναι το Σύστημα 2 που ανάβει."
+      },
+      "apply": {
+        "en": "On a cold call, the doctor's System 1 decides in the first seconds whether you sound like spam or like a professional. Make that first impression easy: calm voice, his name, your name, one clear reason for calling. Keep the details for when his System 2 is ready to listen.",
+        "el": "Σε ένα cold call, το Σύστημα 1 του γιατρού αποφασίζει στα πρώτα δευτερόλεπτα αν ακούγεσαι σαν spam ή σαν επαγγελματίας. Κάνε αυτή την πρώτη εντύπωση εύκολη: ήρεμη φωνή, το όνομά του, το όνομά σου, ένας καθαρός λόγος που καλείς. Τις λεπτομέρειες κράτα τες για όταν το Σύστημα 2 του θα είναι έτοιμο να ακούσει."
+      },
+      "check": {
+        "q": {"en": "Which is a System 2 task?", "el": "Ποια είναι δουλειά του Συστήματος 2;"},
+        "options": [
+          {"en": "Reading a big «STOP» sign", "el": "Να διαβάσεις μια μεγάλη πινακίδα «STOP»"},
+          {"en": "Comparing two hosting offers line by line", "el": "Να συγκρίνεις δύο προσφορές φιλοξενίας γραμμή γραμμή"},
+          {"en": "Hearing that someone's voice is angry", "el": "Να ακούσεις ότι η φωνή κάποιου είναι θυμωμένη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Careful comparison needs effort and attention; the other two happen automatically.", "el": "Η προσεκτική σύγκριση θέλει κόπο και προσοχή. Τα άλλα δύο γίνονται αυτόματα."}
+      }
+    },
+    {
+      "title": {"en": "The lazy controller", "el": "Ο τεμπέλης ελεγκτής"},
+      "explain": {
+        "en": "System 2 is lazy. It accepts the quick answer of System 1 unless something forces it to check. Its attention is limited, so when it is busy we miss even obvious things, and hard thinking and self-control use the same limited effort. Intelligent people are not safe: they also let a plausible answer through when they do not stop to check.",
+        "el": "Το Σύστημα 2 είναι τεμπέλικο. Δέχεται τη γρήγορη απάντηση του Συστήματος 1, εκτός αν κάτι το αναγκάσει να ελέγξει. Η προσοχή του είναι περιορισμένη, οπότε όταν είναι απασχολημένο χάνουμε ακόμα και τα προφανή, και η δύσκολη σκέψη με τον αυτοέλεγχο τραβούν από το ίδιο περιορισμένο απόθεμα προσπάθειας. Οι έξυπνοι δεν γλιτώνουν: κι αυτοί αφήνουν να περάσει μια πειστική απάντηση όταν δεν σταματούν να ελέγξουν."
+      },
+      "example": {
+        "en": "A bat and a ball cost 1.10 dollars together. The bat costs one dollar more than the ball. How much is the ball? «10 cents» jumps to mind, but the answer is 5 cents. Kahneman reports that more than half of the students tested at Harvard, MIT and Princeton gave the quick wrong answer.",
+        "el": "Ένα ρόπαλο κι ένα μπαλάκι κοστίζουν μαζί 1,10 δολάρια. Το ρόπαλο κοστίζει ένα δολάριο περισσότερο από το μπαλάκι. Πόσο κάνει το μπαλάκι; Στο μυαλό πετάγεται το «10 σεντς», αλλά η σωστή απάντηση είναι 5 σεντς. Ο Κάνεμαν αναφέρει ότι πάνω από τους μισούς φοιτητές που ρωτήθηκαν στο Χάρβαρντ, στο MIT και στο Πρίνστον έδωσαν τη γρήγορη λάθος απάντηση."
+      },
+      "apply": {
+        "en": "Before you send a quote, an invoice or a renewal reminder, force one slow check: read it out loud and recompute every number and date. The obvious answer arrives fast and feels right, and that is exactly when a «10 cents» mistake slips through to a client.",
+        "el": "Πριν στείλεις προσφορά, τιμολόγιο ή υπενθύμιση ανανέωσης, κάνε υποχρεωτικά έναν αργό έλεγχο: διάβασέ το φωναχτά και ξαναϋπολόγισε κάθε ποσό και κάθε ημερομηνία. Η προφανής απάντηση έρχεται γρήγορα και μοιάζει σωστή, κι ακριβώς τότε ένα λάθος «10 σεντς» φτάνει στον πελάτη."
+      },
+      "check": {
+        "q": {"en": "Why do smart people get the bat-and-ball question wrong?", "el": "Γιατί έξυπνοι άνθρωποι απαντούν λάθος στο ρόπαλο και το μπαλάκι;"},
+        "options": [
+          {"en": "System 2 accepts the quick answer without checking", "el": "Το Σύστημα 2 δέχεται τη γρήγορη απάντηση χωρίς έλεγχο"},
+          {"en": "The question is a trick with no real answer", "el": "Η ερώτηση είναι κόλπο χωρίς πραγματική απάντηση"},
+          {"en": "They are simply bad at maths", "el": "Απλώς είναι κακοί στα μαθηματικά"}
+        ],
+        "answer": 0,
+        "why": {"en": "The maths is easy; the failure is not stopping to check an answer that feels right.", "el": "Τα μαθηματικά είναι εύκολα. Η αποτυχία είναι ότι δεν σταματάς να ελέγξεις μια απάντηση που μοιάζει σωστή."}
+      }
+    },
+    {
+      "title": {"en": "Easy feels true", "el": "Ό,τι είναι εύκολο μοιάζει αληθινό"},
+      "explain": {
+        "en": "When something is easy to process, because it is familiar, repeated, clearly printed, in simple words or even rhymes, System 1 feels at ease and judges it true, good and familiar. When something is hard to read, we become more careful and critical. Repetition alone can make a claim feel true. This works for honest and dishonest messages alike, so use it only for true ones.",
+        "el": "Όταν κάτι επεξεργάζεται εύκολα, επειδή είναι γνώριμο, επαναλαμβάνεται, είναι γραμμένο καθαρά, με απλές λέξεις ή ακόμα και με ομοιοκαταληξία, το Σύστημα 1 νιώθει άνετα και το κρίνει αληθινό, καλό και οικείο. Όταν κάτι διαβάζεται δύσκολα, γινόμαστε πιο προσεκτικοί και επικριτικοί. Η επανάληψη από μόνη της μπορεί να κάνει έναν ισχυρισμό να μοιάζει αληθινός. Αυτό δουλεύει και για τίμια και για ψεύτικα μηνύματα, γι' αυτό χρησιμοποίησέ το μόνο για αληθινά."
+      },
+      "example": {
+        "en": "In a 2000 study by Matthew McGlone and Jessica Tofighbakhsh, people rated rhyming sayings such as «Woes unite foes» as more accurate than the same idea without the rhyme, such as «Woes unite enemies». The meaning was the same; only the ease of reading changed.",
+        "el": "Σε μια μελέτη του 2000 από τον Μάθιου ΜακΓκλόουν και την Τζέσικα Τοφιγκμπαχς, οι συμμετέχοντες έκριναν πιο αληθινά τα ρητά με ομοιοκαταληξία, όπως το αγγλικό «Woes unite foes», από την ίδια ιδέα χωρίς ρίμα, όπως το «Woes unite enemies». Το νόημα ήταν ίδιο. Άλλαζε μόνο η ευκολία στην ανάγνωση."
+      },
+      "apply": {
+        "en": "Make your true offer easy to process and say it the same way everywhere, in the ad, on the call and on your site: «Website build 0€, you only pay the yearly hosting.» Short words, big clear font, the same sentence every time. Never use repetition to push something that is not true.",
+        "el": "Κάνε την αληθινή σου προσφορά εύκολη στην επεξεργασία και πες την με τον ίδιο τρόπο παντού, στη διαφήμιση, στο τηλέφωνο, στο site: «Κατασκευή ιστοσελίδας 0€, πληρώνετε μόνο την ετήσια φιλοξενία.» Σύντομες λέξεις, μεγάλα καθαρά γράμματα, η ίδια φράση κάθε φορά. Ποτέ μη χρησιμοποιείς την επανάληψη για να σπρώξεις κάτι που δεν ισχύει."
+      },
+      "check": {
+        "q": {"en": "What does cognitive ease make people feel about a message?", "el": "Τι κάνει την ευκολία επεξεργασίας να νιώθουμε για ένα μήνυμα;"},
+        "options": [
+          {"en": "That it is suspicious", "el": "Ότι είναι ύποπτο"},
+          {"en": "That it is boring", "el": "Ότι είναι βαρετό"},
+          {"en": "That it is true and familiar", "el": "Ότι είναι αληθινό και οικείο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Ease of processing is read by System 1 as a sign of truth and familiarity.", "el": "Το Σύστημα 1 διαβάζει την ευκολία σαν σημάδι αλήθειας και οικειότητας."}
+      }
+    },
+    {
+      "title": {"en": "What you see is all there is", "el": "Ό,τι βλέπεις, αυτό υπάρχει"},
+      "explain": {
+        "en": "System 1 builds the best story it can from whatever information is in front of it, and does not ask what is missing. Kahneman calls this WYSIATI: what you see is all there is. Our confidence comes from how well the story hangs together, not from how much or how good the evidence is. Less information can even make a story easier to believe.",
+        "el": "Το Σύστημα 1 φτιάχνει την καλύτερη ιστορία που μπορεί με όσες πληροφορίες έχει μπροστά του, και δεν ρωτά τι λείπει. Ο Κάνεμαν το λέει WYSIATI, από το αγγλικό «what you see is all there is»: ό,τι βλέπεις, αυτό υπάρχει. Η σιγουριά μας βγαίνει από το πόσο δένει η ιστορία, όχι από το πόσα ή πόσο καλά είναι τα στοιχεία. Λιγότερες πληροφορίες μπορεί ακόμα και να κάνουν μια ιστορία πιο πιστευτή."
+      },
+      "example": {
+        "en": "In a study by Lyle Brenner, Derek Koehler and Amos Tversky, people read about a legal dispute. Some heard only one side's arguments. They knew perfectly well there was another side, yet they were more confident in their judgement than people who had heard both sides.",
+        "el": "Σε μια μελέτη των Λάιλ Μπρένερ, Ντέρεκ Κέλερ και Άμος Τβέρσκι, οι συμμετέχοντες διάβασαν για μια δικαστική διαφορά. Κάποιοι άκουσαν μόνο τα επιχειρήματα της μίας πλευράς. Ήξεραν πολύ καλά ότι υπήρχε και άλλη πλευρά, κι όμως ήταν πιο σίγουροι για την κρίση τους από όσους είχαν ακούσει και τις δύο."
+      },
+      "apply": {
+        "en": "Before you mark a lead «not interested» after one call with the secretary, ask: what do I not know? Maybe the doctor never heard the offer. Before you blame your helper for a missed deadline, ask for their side first. Write «what is missing?» on top of every decision note.",
+        "el": "Πριν βάλεις σε ένα lead την ένδειξη «δεν ενδιαφέρεται» μετά από ένα τηλεφώνημα με τη γραμματεία, ρώτα: τι δεν ξέρω; Ίσως ο γιατρός δεν άκουσε ποτέ την πρόταση. Πριν κατηγορήσεις τον βοηθό σου για μια χαμένη προθεσμία, ζήτα πρώτα τη δική του εκδοχή. Γράψε «τι λείπει;» πάνω σε κάθε σημείωση απόφασης."
+      },
+      "check": {
+        "q": {"en": "According to WYSIATI, what gives us confidence in a judgement?", "el": "Σύμφωνα με το WYSIATI, τι μας δίνει σιγουριά σε μια κρίση;"},
+        "options": [
+          {"en": "How well the story hangs together", "el": "Το πόσο δένει η ιστορία"},
+          {"en": "How much evidence we have checked", "el": "Το πόσα στοιχεία έχουμε ελέγξει"},
+          {"en": "How many experts agree with us", "el": "Το πόσοι ειδικοί συμφωνούν μαζί μας"}
+        ],
+        "answer": 0,
+        "why": {"en": "System 1 judges by coherence, and it does not notice the information that is missing.", "el": "Το Σύστημα 1 κρίνει από τη συνοχή και δεν προσέχει τις πληροφορίες που λείπουν."}
+      }
+    },
+    {
+      "title": {"en": "The halo effect", "el": "Το φαινόμενο της αύρας"},
+      "explain": {
+        "en": "If you like one thing about a person, you tend to like everything about them, even what you have not seen. First impressions spread to every later judgement, and the order of information matters: what comes first weighs more. Kahneman's fix is to judge each part separately, before you let the parts influence each other.",
+        "el": "Αν σου αρέσει ένα πράγμα σε κάποιον, τείνεις να σου αρέσουν όλα, ακόμα και όσα δεν έχεις δει. Η πρώτη εντύπωση απλώνεται σε κάθε επόμενη κρίση, και η σειρά των πληροφοριών μετράει: ό,τι έρχεται πρώτο βαραίνει περισσότερο. Η λύση του Κάνεμαν είναι να κρίνεις κάθε κομμάτι χωριστά, πριν αφήσεις τα κομμάτια να επηρεάσουν το ένα το άλλο."
+      },
+      "example": {
+        "en": "In Solomon Asch's classic study, Alan is «intelligent, hard-working, impulsive, critical, stubborn, envious»; Ben has the same words in reverse order. People like Alan far more. Kahneman caught it in himself while grading essays, so he started grading one question for all students at a time, hiding earlier scores.",
+        "el": "Στην κλασική μελέτη του Σόλομον Ας, ο Άλαν είναι «έξυπνος, εργατικός, παρορμητικός, επικριτικός, πεισματάρης, ζηλιάρης». Ο Μπεν έχει τις ίδιες λέξεις με ανάποδη σειρά. Ο κόσμος συμπαθεί πολύ περισσότερο τον Άλαν. Ο Κάνεμαν το έπιασε στον εαυτό του όταν διόρθωνε γραπτά, οπότε άρχισε να βαθμολογεί μία ερώτηση για όλους τους φοιτητές κάθε φορά, κρύβοντας τους προηγούμενους βαθμούς."
+      },
+      "apply": {
+        "en": "When you hire a helper, score each skill on its own before forming an overall view: a short copy test, a client email test, a reliability check. Score the tests before you look at the CV or the video call. A great smile on camera should not buy a high score in Greek spelling.",
+        "el": "Όταν προσλαμβάνεις βοηθό, βαθμολόγησε κάθε δεξιότητα χωριστά πριν σχηματίσεις συνολική εικόνα: ένα μικρό τεστ κειμένου, ένα τεστ email σε πελάτη, έναν έλεγχο συνέπειας. Βαθμολόγησε τα τεστ πριν δεις το βιογραφικό ή τη βιντεοκλήση. Ένα ωραίο χαμόγελο στην κάμερα δεν πρέπει να εξαγοράζει καλό βαθμό στην ορθογραφία."
+      },
+      "check": {
+        "q": {"en": "How did Kahneman reduce the halo effect when grading?", "el": "Πώς μείωσε ο Κάνεμαν το φαινόμενο της αύρας στη βαθμολόγηση;"},
+        "options": [
+          {"en": "He graded much faster, on instinct", "el": "Βαθμολογούσε πολύ πιο γρήγορα, με το ένστικτο"},
+          {"en": "He graded one question across all students, hiding earlier scores", "el": "Βαθμολογούσε μία ερώτηση για όλους, κρύβοντας τους προηγούμενους βαθμούς"},
+          {"en": "He asked students to grade each other", "el": "Έβαζε τους φοιτητές να βαθμολογούν ο ένας τον άλλον"}
+        ],
+        "answer": 1,
+        "why": {"en": "Judging each part independently stops the first impression from spreading to everything else.", "el": "Όταν κρίνεις κάθε κομμάτι ανεξάρτητα, η πρώτη εντύπωση δεν απλώνεται σε όλα τα υπόλοιπα."}
+      }
+    },
+    {
+      "title": {"en": "Answering an easier question", "el": "Απαντάμε σε πιο εύκολη ερώτηση"},
+      "explain": {
+        "en": "When a question is hard, System 1 quietly swaps it for an easier one and answers that instead, without us noticing. «Should I invest in this company?» becomes «Do I like its products?». «How happy am I with my life?» becomes «What is my mood right now?». The answer feels like a reply to the hard question, but it is not.",
+        "el": "Όταν μια ερώτηση είναι δύσκολη, το Σύστημα 1 την αλλάζει αθόρυβα με μια πιο εύκολη και απαντά σε αυτήν, χωρίς να το καταλάβουμε. Το «να επενδύσω σε αυτή την εταιρεία;» γίνεται «μου αρέσουν τα προϊόντα της;». Το «πόσο ευτυχισμένος είμαι με τη ζωή μου;» γίνεται «τι διάθεση έχω τώρα;». Η απάντηση μοιάζει να απαντά στη δύσκολη ερώτηση, αλλά δεν το κάνει."
+      },
+      "example": {
+        "en": "German students were asked «How happy are you these days?» and «How many dates did you have last month?». In that order, the answers were barely linked. When the dating question came first, the link became strong: students answered «how happy am I» with «how is my love life».",
+        "el": "Ρώτησαν Γερμανούς φοιτητές «πόσο ευτυχισμένος είσαι αυτό τον καιρό;» και «πόσα ραντεβού είχες τον περασμένο μήνα;». Με αυτή τη σειρά, οι απαντήσεις σχεδόν δεν είχαν σχέση. Όταν η ερώτηση για τα ραντεβού ήρθε πρώτη, η σχέση έγινε δυνατή: οι φοιτητές απαντούσαν στο «πόσο ευτυχισμένος είμαι» με το «πώς πάει η ερωτική μου ζωή»."
+      },
+      "apply": {
+        "en": "When a prospect says «I'll think about it», ask yourself which easier question he is really answering: «Do I trust this person?» or «Can I afford it?». Then answer that one directly: show live sites of his colleagues, or explain simply what the yearly 130€ covers.",
+        "el": "Όταν ένας υποψήφιος πελάτης λέει «θα το σκεφτώ», αναρωτήσου σε ποια πιο εύκολη ερώτηση απαντά στην πραγματικότητα: «τον εμπιστεύομαι αυτόν;» ή «μου βγαίνει οικονομικά;». Και απάντα ευθέως σε αυτήν: δείξε live ιστοσελίδες συναδέλφων του ή εξήγησε απλά τι καλύπτουν τα 130€ τον χρόνο."
+      },
+      "check": {
+        "q": {"en": "What does System 1 do with a hard question?", "el": "Τι κάνει το Σύστημα 1 με μια δύσκολη ερώτηση;"},
+        "options": [
+          {"en": "It refuses to answer it", "el": "Αρνείται να απαντήσει"},
+          {"en": "It passes it straight to System 2", "el": "Τη στέλνει κατευθείαν στο Σύστημα 2"},
+          {"en": "It swaps it for an easier one without telling you", "el": "Την αλλάζει με μια πιο εύκολη χωρίς να σου το πει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Substitution happens silently, so the easy answer feels like the answer to the hard question.", "el": "Η αντικατάσταση γίνεται αθόρυβα, οπότε η εύκολη απάντηση μοιάζει με απάντηση στη δύσκολη ερώτηση."}
+      }
+    },
+    {
+      "title": {"en": "Small samples lie", "el": "Τα μικρά δείγματα ξεγελούν"},
+      "explain": {
+        "en": "Small samples give extreme results much more often, by pure chance. System 1 still sees patterns and causes in them, because it loves stories more than statistics. Kahneman calls our blind trust in a few cases the «law of small numbers», a joke on the real law of large numbers. Before you believe a result, ask: how many cases is it based on?",
+        "el": "Τα μικρά δείγματα δίνουν ακραία αποτελέσματα πολύ πιο συχνά, από καθαρή τύχη. Το Σύστημα 1 βλέπει παρ' όλα αυτά μοτίβα και αιτίες, γιατί αγαπά τις ιστορίες περισσότερο από τη στατιστική. Ο Κάνεμαν λέει την τυφλή μας εμπιστοσύνη σε λίγες περιπτώσεις «νόμο των μικρών αριθμών», αστειευόμενος με τον πραγματικό νόμο των μεγάλων αριθμών. Πριν πιστέψεις ένα αποτέλεσμα, ρώτα: σε πόσες περιπτώσεις στηρίζεται;"
+      },
+      "example": {
+        "en": "In the United States, the counties with the lowest kidney cancer rates are mostly rural and thinly populated. You might think: clean country living. But the counties with the highest rates are also mostly rural and thinly populated. Small populations simply swing to extremes in both directions.",
+        "el": "Στις ΗΠΑ, οι κομητείες με τα χαμηλότερα ποσοστά καρκίνου των νεφρών είναι κυρίως αγροτικές και αραιοκατοικημένες. Θα σκεφτείς: καθαρή ζωή στην εξοχή. Όμως και οι κομητείες με τα υψηλότερα ποσοστά είναι κυρίως αγροτικές και αραιοκατοικημένες. Οι μικροί πληθυσμοί απλώς πάνε στα άκρα, και προς τις δύο μεριές."
+      },
+      "apply": {
+        "en": "Do not kill a new Meta ad after three days and two leads, and do not celebrate one after a lucky first week. Decide the sample in advance, for example 1,000 people reached per ad, or 30 cold calls per opening line, and only then compare.",
+        "el": "Μη σταματάς μια νέα διαφήμιση στο Meta μετά από τρεις μέρες και δύο leads, και μην πανηγυρίζεις για μια άλλη μετά από μια τυχερή πρώτη εβδομάδα. Αποφάσισε το δείγμα από πριν, για παράδειγμα 1.000 άτομα ανά διαφήμιση ή 30 cold calls για κάθε πρώτη φράση, και μόνο τότε σύγκρινε."
+      },
+      "check": {
+        "q": {"en": "Why do small groups show extreme results so often?", "el": "Γιατί οι μικρές ομάδες δείχνουν τόσο συχνά ακραία αποτελέσματα;"},
+        "options": [
+          {"en": "Chance swings are bigger in small samples", "el": "Οι διακυμάνσεις της τύχης είναι μεγαλύτερες στα μικρά δείγματα"},
+          {"en": "People in small groups behave differently", "el": "Οι άνθρωποι σε μικρές ομάδες φέρονται διαφορετικά"},
+          {"en": "Data from small groups is usually fake", "el": "Τα στοιχεία από μικρές ομάδες είναι συνήθως ψεύτικα"}
+        ],
+        "answer": 0,
+        "why": {"en": "With few cases, luck has a large effect; with many cases, it averages out.", "el": "Με λίγες περιπτώσεις η τύχη μετράει πολύ. Με πολλές, εξισορροπείται."}
+      }
+    },
+    {
+      "title": {"en": "Anchors pull your numbers", "el": "Η άγκυρα τραβά τους αριθμούς σου"},
+      "explain": {
+        "en": "Any number you see before making an estimate pulls your estimate toward it, even when the number is clearly random. Two forces are at work: System 2 starts from the anchor and adjusts, but stops too early; and System 1 brings to mind thoughts that fit the anchor. Experts are affected too. In a negotiation, the first number on the table shapes the rest.",
+        "el": "Όποιος αριθμός δεις πριν κάνεις μια εκτίμηση τραβά την εκτίμησή σου προς τα εκεί, ακόμα κι όταν είναι φανερά τυχαίος. Δουλεύουν δύο δυνάμεις: το Σύστημα 2 ξεκινά από την άγκυρα και διορθώνει, αλλά σταματά νωρίς. Και το Σύστημα 1 φέρνει στο μυαλό σκέψεις που ταιριάζουν με την άγκυρα. Επηρεάζονται και οι ειδικοί. Σε μια διαπραγμάτευση, ο πρώτος αριθμός στο τραπέζι διαμορφώνει όλα τα υπόλοιπα."
+      },
+      "example": {
+        "en": "Experienced German judges read about a woman caught shoplifting, then rolled a pair of dice secretly loaded to show 3 or 9. Those who rolled 9 said on average they would sentence her to 8 months; those who rolled 3 said 5 months. A dice roll moved a real legal judgement.",
+        "el": "Έμπειροι Γερμανοί δικαστές διάβασαν για μια γυναίκα που πιάστηκε να κλέβει από κατάστημα και μετά έριξαν ζάρια, πειραγμένα κρυφά ώστε να φέρνουν 3 ή 9. Όσοι έφεραν 9 είπαν κατά μέσο όρο ότι θα της έδιναν 8 μήνες. Όσοι έφεραν 3, 5 μήνες. Μια ζαριά μετακίνησε μια πραγματική δικαστική κρίση."
+      },
+      "apply": {
+        "en": "Set an honest anchor before the price: «A site like this usually costs several hundred euros to build; with us the build is 0€ and you pay only 130€ a year.» Use only true reference numbers, never a fake «original price». And when a client throws a low number first, list why it does not fit before you answer.",
+        "el": "Βάλε μια τίμια άγκυρα πριν από την τιμή: «Μια τέτοια ιστοσελίδα συνήθως κοστίζει αρκετές εκατοντάδες ευρώ για να φτιαχτεί· σε εμάς η κατασκευή είναι 0€ και πληρώνετε μόνο 130€ τον χρόνο.» Μόνο αληθινοί αριθμοί αναφοράς, ποτέ ψεύτικη «αρχική τιμή». Κι όταν ένας πελάτης πετάξει πρώτος έναν χαμηλό αριθμό, σκέψου γιατί δεν στέκει πριν απαντήσεις."
+      },
+      "check": {
+        "q": {"en": "In the judges' study, what changed the sentences?", "el": "Στη μελέτη με τους δικαστές, τι άλλαξε τις ποινές;"},
+        "options": [
+          {"en": "The age of the woman in the case", "el": "Η ηλικία της γυναίκας στην υπόθεση"},
+          {"en": "How many years the judges had served", "el": "Πόσα χρόνια υπηρεσίας είχαν οι δικαστές"},
+          {"en": "The number they had just rolled on the dice", "el": "Ο αριθμός που μόλις είχαν φέρει στα ζάρια"}
+        ],
+        "answer": 2,
+        "why": {"en": "A random anchor pulled their estimate, even though they knew it was meaningless.", "el": "Μια τυχαία άγκυρα τράβηξε την εκτίμησή τους, παρότι ήξεραν ότι δεν σήμαινε τίποτα."}
+      }
+    },
+    {
+      "title": {"en": "What comes to mind easily", "el": "Ό,τι έρχεται εύκολα στο μυαλό"},
+      "explain": {
+        "en": "We judge how common or likely something is by how easily examples come to mind. Recent, vivid, emotional and personal events come to mind easily, so we overrate them. A plane crash on the news makes flying feel dangerous for weeks. Kahneman calls this the availability heuristic: a shortcut that confuses «easy to remember» with «frequent».",
+        "el": "Κρίνουμε πόσο συχνό ή πιθανό είναι κάτι από το πόσο εύκολα μάς έρχονται παραδείγματα. Τα πρόσφατα, έντονα, συναισθηματικά και προσωπικά γεγονότα έρχονται εύκολα, οπότε τα υπερεκτιμάμε. Ένα αεροπορικό δυστύχημα στις ειδήσεις κάνει τις πτήσεις να μοιάζουν επικίνδυνες για εβδομάδες. Ο Κάνεμαν το λέει ευρετική της διαθεσιμότητας: μια συντόμευση που μπερδεύει το «θυμάμαι εύκολα» με το «συμβαίνει συχνά»."
+      },
+      "example": {
+        "en": "Michael Ross and Fiona Sicoly asked married partners what share of the housework each of them did. The two answers added up to more than 100%. Each partner remembered their own efforts much more easily than the other's. The same happens in work teams.",
+        "el": "Ο Μάικλ Ρος και η Φιόνα Σικόλι ρώτησαν παντρεμένα ζευγάρια τι ποσοστό των δουλειών του σπιτιού έκανε ο καθένας. Οι δύο απαντήσεις μαζί έβγαιναν πάνω από 100%. Ο καθένας θυμόταν πολύ πιο εύκολα τις δικές του προσπάθειες από του άλλου. Το ίδιο συμβαίνει και στις ομάδες δουλειάς."
+      },
+      "apply": {
+        "en": "In your team, assume you overrate your share and they overrate theirs. Before you think «I do everything», list what your helper did this week. In sales, judge which niche converts from your CRM numbers, not from the one dramatic call you still remember.",
+        "el": "Στην ομάδα σου, υπόθεσε ότι εσύ υπερεκτιμάς το μερίδιό σου κι εκείνοι το δικό τους. Πριν σκεφτείς «όλα εγώ τα κάνω», γράψε τι έκανε ο βοηθός σου αυτή την εβδομάδα. Στις πωλήσεις, κρίνε ποια ειδικότητα κλείνει από τους αριθμούς του CRM, όχι από το ένα δραματικό τηλεφώνημα που ακόμα θυμάσαι."
+      },
+      "check": {
+        "q": {"en": "Why did couples' housework shares add up to more than 100%?", "el": "Γιατί τα ποσοστά των ζευγαριών για τις δουλειές του σπιτιού ξεπερνούσαν το 100%;"},
+        "options": [
+          {"en": "The couples were lying on purpose", "el": "Τα ζευγάρια έλεγαν ψέματα επίτηδες"},
+          {"en": "Each partner remembered their own efforts more easily", "el": "Ο καθένας θυμόταν πιο εύκολα τις δικές του προσπάθειες"},
+          {"en": "They counted the same chores twice", "el": "Μετρούσαν τις ίδιες δουλειές δύο φορές"}
+        ],
+        "answer": 1,
+        "why": {"en": "Our own actions are more available in memory, so we overestimate them.", "el": "Οι δικές μας πράξεις είναι πιο διαθέσιμες στη μνήμη, γι' αυτό τις υπερεκτιμάμε."}
+      }
+    },
+    {
+      "title": {"en": "Stories beat statistics", "el": "Οι ιστορίες νικούν τη στατιστική"},
+      "explain": {
+        "en": "We judge probability by how well something matches a stereotype, and we ignore the base rate, how common it is in general. Adding vivid details makes a story more believable, yet every added detail makes it less probable. Kahneman's advice: start from the base rate, adjust only a little for the specific evidence, and question how reliable that evidence is.",
+        "el": "Κρίνουμε την πιθανότητα από το πόσο ταιριάζει κάτι σε ένα στερεότυπο, και αγνοούμε τη βασική συχνότητα, δηλαδή πόσο συχνό είναι γενικά. Οι ζωηρές λεπτομέρειες κάνουν μια ιστορία πιο πιστευτή, όμως κάθε λεπτομέρεια που προστίθεται την κάνει λιγότερο πιθανή. Η συμβουλή του Κάνεμαν: ξεκίνα από τη βασική συχνότητα, διόρθωσε λίγο μόνο για τα συγκεκριμένα στοιχεία, και αμφισβήτησε πόσο αξιόπιστα είναι."
+      },
+      "example": {
+        "en": "Linda is 31, single, outspoken and very bright. She studied philosophy and cared deeply about discrimination and social justice. Is it more likely that she is a bank teller, or a bank teller active in the feminist movement? About 85 to 90% of students at several top universities chose the second, which cannot be more likely than the first.",
+        "el": "Η Λίντα είναι 31 χρονών, ανύπαντρη, ντόμπρα και πολύ έξυπνη. Σπούδασε φιλοσοφία και την απασχολούσαν πολύ οι διακρίσεις και η κοινωνική δικαιοσύνη. Τι είναι πιθανότερο: ότι είναι υπάλληλος τράπεζας, ή υπάλληλος τράπεζας και ενεργή στο φεμινιστικό κίνημα; Περίπου το 85 με 90% των φοιτητών σε κορυφαία πανεπιστήμια διάλεξε το δεύτερο, που δεν γίνεται να είναι πιθανότερο από το πρώτο."
+      },
+      "apply": {
+        "en": "When a lead «feels» certain, a friendly dentist who loved the demo, remember the base rate: what share of your demos actually close, according to the CRM? Start your forecast from that number, not from the good vibe, and keep calling the rest of the list.",
+        "el": "Όταν ένα lead «μοιάζει» σίγουρο, ένας φιλικός οδοντίατρος που ενθουσιάστηκε στην παρουσίαση, θυμήσου τη βασική συχνότητα: τι ποσοστό των παρουσιάσεών σου κλείνει τελικά, σύμφωνα με το CRM; Ξεκίνα την πρόβλεψή σου από εκεί, όχι από την καλή αίσθηση, και συνέχισε να καλείς την υπόλοιπη λίστα."
+      },
+      "check": {
+        "q": {"en": "In the Linda problem, which answer is more probable?", "el": "Στο πρόβλημα της Λίντα, ποια απάντηση είναι πιθανότερη;"},
+        "options": [
+          {"en": "Linda is a bank teller", "el": "Η Λίντα είναι υπάλληλος τράπεζας"},
+          {"en": "Linda is a bank teller and a feminist", "el": "Η Λίντα είναι υπάλληλος τράπεζας και φεμινίστρια"},
+          {"en": "Both are exactly as probable", "el": "Και τα δύο είναι εξίσου πιθανά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Every feminist bank teller is also a bank teller, so adding a detail can only lower the probability.", "el": "Κάθε φεμινίστρια υπάλληλος τράπεζας είναι και υπάλληλος τράπεζας, άρα μια επιπλέον λεπτομέρεια μόνο μειώνει την πιθανότητα."}
+      }
+    },
+    {
+      "title": {"en": "Regression to the mean", "el": "Επιστροφή στον μέσο όρο"},
+      "explain": {
+        "en": "An extreme result is usually followed by a more ordinary one, simply because luck helped create the extreme. We invent causes for this pattern: praise «spoils» people, punishment «works». Kahneman's formula: success equals talent plus luck; great success equals a little more talent and a lot of luck. So the next result usually drifts back toward normal.",
+        "el": "Ένα ακραίο αποτέλεσμα συνήθως ακολουθείται από ένα πιο συνηθισμένο, απλώς επειδή η τύχη βοήθησε να γίνει ακραίο. Εμείς εφευρίσκουμε αιτίες: ο έπαινος «χαλάει» τον άλλον, η τιμωρία «πιάνει». Η φόρμουλα του Κάνεμαν: επιτυχία ίσον ταλέντο συν τύχη. Μεγάλη επιτυχία ίσον λίγο περισσότερο ταλέντο και πολλή τύχη. Γι' αυτό το επόμενο αποτέλεσμα συνήθως γυρίζει προς το κανονικό."
+      },
+      "example": {
+        "en": "Kahneman was teaching Israeli Air Force flight instructors that praise works better than punishment. One instructor disagreed: cadets praised for a great landing usually did worse the next time, and those shouted at for a bad one did better. Kahneman realised this was regression to the mean, not the effect of the shouting.",
+        "el": "Ο Κάνεμαν δίδασκε σε εκπαιδευτές της Ισραηλινής Πολεμικής Αεροπορίας ότι ο έπαινος δουλεύει καλύτερα από την τιμωρία. Ένας εκπαιδευτής διαφώνησε: οι δόκιμοι που επαινούσε για μια τέλεια προσγείωση συνήθως τα πήγαιναν χειρότερα την επόμενη φορά, κι όσους έβαζε τις φωνές για μια κακή, καλύτερα. Ο Κάνεμαν κατάλαβε ότι αυτό ήταν επιστροφή στον μέσο όρο, όχι αποτέλεσμα των φωνών."
+      },
+      "apply": {
+        "en": "After your best month ever, do not assume the next will match it; after your worst, do not panic and change everything. With a helper, never conclude that being harsh works because a bad week was followed by a better one. Judge people and campaigns on averages over several months.",
+        "el": "Μετά τον καλύτερο μήνα σου, μην υποθέσεις ότι ο επόμενος θα είναι ίδιος. Μετά τον χειρότερο, μην πανικοβληθείς και αλλάξεις τα πάντα. Με έναν βοηθό, μη συμπεράνεις ποτέ ότι η αυστηρότητα πιάνει επειδή μετά από μια κακή εβδομάδα ήρθε μια καλύτερη. Κρίνε ανθρώπους και καμπάνιες με μέσους όρους πολλών μηνών."
+      },
+      "check": {
+        "q": {"en": "A cadet's great landing is followed by an average one. What is the most likely reason?", "el": "Μια τέλεια προσγείωση ενός δόκιμου ακολουθείται από μια μέτρια. Ποιος είναι ο πιθανότερος λόγος;"},
+        "options": [
+          {"en": "The praise made him careless", "el": "Ο έπαινος τον έκανε απρόσεκτο"},
+          {"en": "The great landing was partly luck, so the next one drifts back to normal", "el": "Η τέλεια προσγείωση είχε και τύχη, οπότε η επόμενη γυρίζει στο κανονικό"},
+          {"en": "He was more tired on the second flight", "el": "Ήταν πιο κουρασμένος στη δεύτερη πτήση"}
+        ],
+        "answer": 1,
+        "why": {"en": "Extreme results contain luck; luck does not repeat on demand, so results move back toward the average.", "el": "Τα ακραία αποτελέσματα περιέχουν τύχη. Η τύχη δεν επαναλαμβάνεται κατά παραγγελία, οπότε τα αποτελέσματα γυρίζουν προς τον μέσο όρο."}
+      }
+    },
+    {
+      "title": {"en": "Tidy stories after the fact", "el": "Τακτοποιημένες ιστορίες εκ των υστέρων"},
+      "explain": {
+        "en": "After something happens, we build a neat story of why it had to happen and believe we «knew it all along». This is hindsight bias. It makes the world look more predictable than it is, makes us overrate skill and underrate luck, and makes us judge decisions by their outcome rather than by how good they were with the information available at the time.",
+        "el": "Αφού συμβεί κάτι, φτιάχνουμε μια τακτοποιημένη ιστορία για το γιατί έπρεπε να συμβεί και πιστεύουμε ότι «το ξέραμε από την αρχή». Αυτό λέγεται μεροληψία της εκ των υστέρων γνώσης. Κάνει τον κόσμο να φαίνεται πιο προβλέψιμος απ' ό,τι είναι, μας κάνει να υπερτιμάμε την ικανότητα και να υποτιμάμε την τύχη, και να κρίνουμε τις αποφάσεις από το αποτέλεσμα και όχι από το πόσο καλές ήταν με όσα ξέραμε τότε."
+      },
+      "example": {
+        "en": "Kahneman discusses business books that compare admired, successful companies with less successful ones, like Built to Last. In the years after such studies, the gap in profits and stock returns between the two groups shrank sharply. Much of the original difference had been luck, which the neat stories had explained as genius.",
+        "el": "Ο Κάνεμαν συζητά βιβλία επιχειρήσεων που συγκρίνουν θαυμαστές, πετυχημένες εταιρείες με λιγότερο πετυχημένες, όπως το Built to Last. Στα χρόνια μετά από τέτοιες μελέτες, η διαφορά σε κέρδη και αποδόσεις μετοχών ανάμεσα στις δύο ομάδες μίκρυνε πολύ. Μεγάλο μέρος της αρχικής διαφοράς ήταν τύχη, που οι τακτοποιημένες ιστορίες την είχαν εξηγήσει ως ιδιοφυΐα."
+      },
+      "apply": {
+        "en": "When a rival agency grows fast, do not copy its story blindly; ask how much was luck. Before a big decision, like a new ad budget or a hire, write down what you expect and why. Later, judge the decision by that note, not only by how it turned out.",
+        "el": "Όταν ένα άλλο γραφείο μεγαλώνει γρήγορα, μην αντιγράφεις τυφλά την ιστορία του. Ρώτα πόση ήταν η τύχη. Πριν από μια μεγάλη απόφαση, όπως νέο budget διαφήμισης ή μια πρόσληψη, γράψε τι περιμένεις και γιατί. Αργότερα, κρίνε την απόφαση με βάση αυτή τη σημείωση, όχι μόνο με το πώς βγήκε."
+      },
+      "check": {
+        "q": {"en": "What is hindsight bias?", "el": "Τι είναι η μεροληψία της εκ των υστέρων γνώσης;"},
+        "options": [
+          {"en": "Forgetting important past events", "el": "Να ξεχνάς σημαντικά γεγονότα του παρελθόντος"},
+          {"en": "Planning too far into the future", "el": "Να σχεδιάζεις υπερβολικά μακριά στο μέλλον"},
+          {"en": "Believing after an event that you knew it would happen", "el": "Να πιστεύεις μετά από ένα γεγονός ότι ήξερες πως θα συμβεί"}
+        ],
+        "answer": 2,
+        "why": {"en": "Once we know the outcome, our memory rewrites what we believed before.", "el": "Μόλις μάθουμε το αποτέλεσμα, η μνήμη ξαναγράφει τι πιστεύαμε πριν."}
+      }
+    },
+    {
+      "title": {"en": "Confidence is not accuracy", "el": "Σιγουριά δεν σημαίνει ακρίβεια"},
+      "explain": {
+        "en": "Feeling sure is not proof of being right. A coherent story produces strong confidence even when predictions keep failing. Kahneman calls this the illusion of validity. He shows it among professional investors too: in many fields, results barely repeat from year to year, which means luck plays a bigger role than skill, yet the experts feel skilled.",
+        "el": "Το ότι νιώθεις σίγουρος δεν αποδεικνύει ότι έχεις δίκιο. Μια ιστορία που δένει δίνει δυνατή σιγουριά ακόμα κι όταν οι προβλέψεις αποτυγχάνουν ξανά και ξανά. Ο Κάνεμαν το λέει ψευδαίσθηση εγκυρότητας. Το δείχνει και στους επαγγελματίες επενδυτές: σε πολλούς χώρους τα αποτελέσματα σχεδόν δεν επαναλαμβάνονται από χρονιά σε χρονιά, άρα η τύχη μετράει περισσότερο από την ικανότητα, κι όμως οι ειδικοί νιώθουν ικανοί."
+      },
+      "example": {
+        "en": "In the Israeli army, Kahneman assessed officer candidates in a task where a team had to get over a wall with a long log. He and his colleagues felt sure who would make great leaders. Reports from officer school showed their predictions were barely better than blind guesses. With the next group, they felt just as sure.",
+        "el": "Στον ισραηλινό στρατό, ο Κάνεμαν αξιολογούσε υποψήφιους αξιωματικούς σε μια δοκιμασία όπου η ομάδα έπρεπε να περάσει πάνω από έναν τοίχο με ένα μακρύ κούτσουρο. Αυτός και οι συνάδελφοί του ένιωθαν σίγουροι ποιοι θα γίνονταν καλοί ηγέτες. Οι αναφορές από τη σχολή αξιωματικών έδειξαν ότι οι προβλέψεις τους ήταν ελάχιστα καλύτερες από τυχαίες μαντεψιές. Με την επόμενη ομάδα, ένιωθαν το ίδιο σίγουροι."
+      },
+      "apply": {
+        "en": "When you «just know» a lead will close or a new niche will work, write the prediction down with a percentage. After a month, check. If your gut is right only half the time, let the CRM data lead and treat the feeling as a guess.",
+        "el": "Όταν «απλώς ξέρεις» ότι ένα lead θα κλείσει ή ότι μια νέα ειδικότητα θα δουλέψει, γράψε την πρόβλεψη με ένα ποσοστό. Σε έναν μήνα, έλεγξέ την. Αν το ένστικτό σου πετυχαίνει μόνο τις μισές φορές, άσε να οδηγούν τα στοιχεία του CRM και αντιμετώπισε το συναίσθημα σαν μια απλή εικασία."
+      },
+      "check": {
+        "q": {"en": "What did Kahneman learn from the army leadership test?", "el": "Τι έμαθε ο Κάνεμαν από τη δοκιμασία ηγεσίας στον στρατό;"},
+        "options": [
+          {"en": "Strong confidence can go with poor accuracy", "el": "Η δυνατή σιγουριά μπορεί να συνυπάρχει με κακή ακρίβεια"},
+          {"en": "Group tests predict leadership perfectly", "el": "Οι ομαδικές δοκιμασίες προβλέπουν τέλεια την ηγεσία"},
+          {"en": "Officers are better judges than psychologists", "el": "Οι αξιωματικοί κρίνουν καλύτερα από τους ψυχολόγους"}
+        ],
+        "answer": 0,
+        "why": {"en": "Their predictions failed, yet the feeling of certainty stayed; confidence comes from the story, not from the track record.", "el": "Οι προβλέψεις τους απέτυχαν, αλλά η αίσθηση βεβαιότητας έμεινε. Η σιγουριά έρχεται από την ιστορία, όχι από τα αποτελέσματα."}
+      }
+    },
+    {
+      "title": {"en": "Simple rules beat experts", "el": "Οι απλοί κανόνες νικούν τους ειδικούς"},
+      "explain": {
+        "en": "In 1954 the psychologist Paul Meehl showed that simple formulas often predict as well as trained experts, or better. Since then, studies in many fields have found the same. Experts get distracted by details and are inconsistent: the same case on a different day gets a different verdict. A short checklist of a few factors, scored the same way every time, often wins.",
+        "el": "Το 1954 ο ψυχολόγος Πολ Μιλ έδειξε ότι απλοί τύποι συχνά προβλέπουν το ίδιο καλά με εκπαιδευμένους ειδικούς, ή και καλύτερα. Από τότε, μελέτες σε πολλούς χώρους βρήκαν το ίδιο. Οι ειδικοί αποσπώνται από λεπτομέρειες και δεν είναι συνεπείς: η ίδια περίπτωση άλλη μέρα παίρνει άλλη κρίση. Μια σύντομη λίστα με λίγους παράγοντες, που βαθμολογούνται πάντα με τον ίδιο τρόπο, συχνά κερδίζει."
+      },
+      "example": {
+        "en": "In 1953 the anaesthesiologist Virginia Apgar published a simple score for newborns: five signs, such as heart rate, breathing and skin colour, each rated 0, 1 or 2, one minute after birth. It replaced varied personal judgements in delivery rooms and is credited with helping save many babies' lives.",
+        "el": "Το 1953 η αναισθησιολόγος Βιρτζίνια Άπγκαρ δημοσίευσε μια απλή βαθμολογία για τα νεογέννητα: πέντε ενδείξεις, όπως οι καρδιακοί παλμοί, η αναπνοή και το χρώμα του δέρματος, με 0, 1 ή 2 η καθεμία, ένα λεπτό μετά τη γέννα. Αντικατέστησε τις διαφορετικές προσωπικές εκτιμήσεις στις αίθουσες τοκετού και θεωρείται ότι βοήθησε να σωθούν πολλά μωρά."
+      },
+      "apply": {
+        "en": "Build a simple lead score in your CRM: no website (2 points), a specialty that converts (2), private practice (1), answered the phone himself (1). Call tomorrow's leads in score order instead of by gut. Use the same five-point checklist to review every site before the draft goes out.",
+        "el": "Φτιάξε μια απλή βαθμολογία leads στο CRM: δεν έχει ιστοσελίδα (2 πόντοι), ειδικότητα που κλείνει (2), ιδιωτικό ιατρείο (1), σήκωσε ο ίδιος το τηλέφωνο (1). Κάλεσε τα αυριανά leads με τη σειρά της βαθμολογίας, όχι με το ένστικτο. Με την ίδια λίστα πέντε σημείων έλεγξε κάθε site πριν φύγει το draft."
+      },
+      "check": {
+        "q": {"en": "Why do simple formulas often beat expert judgement?", "el": "Γιατί οι απλοί τύποι συχνά νικούν την κρίση των ειδικών;"},
+        "options": [
+          {"en": "Experts do not care about their work", "el": "Οι ειδικοί αδιαφορούν για τη δουλειά τους"},
+          {"en": "Formulas are consistent and ignore distracting details", "el": "Οι τύποι είναι συνεπείς και αγνοούν τις λεπτομέρειες που αποσπούν"},
+          {"en": "Formulas use secret data experts cannot see", "el": "Οι τύποι χρησιμοποιούν μυστικά στοιχεία που δεν βλέπουν οι ειδικοί"}
+        ],
+        "answer": 1,
+        "why": {"en": "A formula gives the same input the same score every time; humans do not.", "el": "Ένας τύπος δίνει στα ίδια δεδομένα πάντα τον ίδιο βαθμό. Οι άνθρωποι όχι."}
+      }
+    },
+    {
+      "title": {"en": "When to trust your gut", "el": "Πότε να εμπιστευτείς το ένστικτο"},
+      "explain": {
+        "en": "Kahneman and Gary Klein, a researcher who admires expert intuition, worked out when gut feelings can be trusted. Two conditions: the environment must be regular enough to learn, and the person must have had long practice with quick, clear feedback. Chess players and firefighters qualify; stock pickers and political forecasters do not. Intuition is simply recognition of something seen many times.",
+        "el": "Ο Κάνεμαν και ο Γκάρι Κλάιν, ένας ερευνητής που θαυμάζει τη διαίσθηση των ειδικών, βρήκαν μαζί πότε μπορείς να εμπιστευτείς το ένστικτο. Δύο προϋποθέσεις: το περιβάλλον πρέπει να έχει αρκετή κανονικότητα ώστε να μαθαίνεται, και ο άνθρωπος να έχει μακρά εξάσκηση με γρήγορη, καθαρή ανατροφοδότηση. Οι σκακιστές και οι πυροσβέστες πληρούν τις προϋποθέσεις. Όσοι διαλέγουν μετοχές και οι πολιτικοί αναλυτές όχι. Η διαίσθηση είναι απλώς αναγνώριση κάποιου πράγματος που έχεις δει πολλές φορές."
+      },
+      "example": {
+        "en": "Klein tells of a fire commander fighting what looked like a kitchen fire. It was not behaving normally, and he suddenly ordered his men out without knowing why. Soon after, the floor collapsed: the real fire was in the basement below. Years of experience had let him sense that something did not fit.",
+        "el": "Ο Κλάιν διηγείται για έναν διοικητή πυροσβεστών που έσβηνε κάτι που έμοιαζε με φωτιά σε κουζίνα. Η φωτιά δεν συμπεριφερόταν κανονικά, και ξαφνικά διέταξε τους άντρες του να βγουν, χωρίς να ξέρει γιατί. Λίγο μετά, το πάτωμα κατέρρευσε: η πραγματική φωτιά ήταν στο υπόγειο από κάτω. Χρόνια εμπειρίας τον έκαναν να νιώσει ότι κάτι δεν ταίριαζε."
+      },
+      "apply": {
+        "en": "Trust your gut on things you have done hundreds of times with quick feedback, like sensing whether a doctor on the phone will agree to a video call. Do not trust it on rare decisions with slow feedback, like whether a new side project will make money. There, use numbers and the record of similar projects.",
+        "el": "Εμπιστεύσου το ένστικτο σε ό,τι έχεις κάνει εκατοντάδες φορές με γρήγορη ανατροφοδότηση, όπως το αν ένας γιατρός στο τηλέφωνο θα δεχτεί βιντεοκλήση. Μην το εμπιστεύεσαι σε σπάνιες αποφάσεις με αργή ανατροφοδότηση, όπως το αν ένα νέο side project θα βγάλει λεφτά. Εκεί, χρησιμοποίησε αριθμούς και το τι έγινε σε παρόμοια project."
+      },
+      "check": {
+        "q": {"en": "When can you trust an expert's intuition?", "el": "Πότε μπορείς να εμπιστευτείς τη διαίσθηση ενός ειδικού;"},
+        "options": [
+          {"en": "When the expert feels very confident", "el": "Όταν ο ειδικός νιώθει πολύ σίγουρος"},
+          {"en": "When the decision must be made in a hurry", "el": "Όταν η απόφαση πρέπει να παρθεί βιαστικά"},
+          {"en": "When the field is regular and they had long practice with quick feedback", "el": "Όταν ο χώρος έχει κανονικότητα και έχει μακρά εξάσκηση με γρήγορη ανατροφοδότηση"}
+        ],
+        "answer": 2,
+        "why": {"en": "Intuition is learned recognition; without regular patterns and feedback there is nothing real to recognise.", "el": "Η διαίσθηση είναι αναγνώριση που μαθαίνεται. Χωρίς κανονικότητα και ανατροφοδότηση, δεν υπάρχει τίποτα πραγματικό να αναγνωρίσεις."}
+      }
+    },
+    {
+      "title": {"en": "The planning fallacy", "el": "Η πλάνη του σχεδιασμού"},
+      "explain": {
+        "en": "We plan from our best-case scenario (the inside view) and ignore how long similar projects really took for others (the outside view). So projects run late and over budget. The fix: find a group of similar projects, take their real results as your starting point, then adjust. Add a premortem: imagine it is a year later and the plan failed, and write down why.",
+        "el": "Σχεδιάζουμε με βάση το καλύτερο σενάριο (την εσωτερική ματιά) και αγνοούμε πόσο πραγματικά κράτησαν παρόμοια project άλλων (την εξωτερική ματιά). Γι' αυτό τα project αργούν και ξεπερνούν τον προϋπολογισμό. Η λύση: βρες μια ομάδα από παρόμοια project, πάρε τα πραγματικά τους αποτελέσματα ως αφετηρία και μετά διόρθωσε. Πρόσθεσε και μια προνεκροψία: φαντάσου ότι πέρασε ένας χρόνος και το σχέδιο απέτυχε, και γράψε γιατί."
+      },
+      "example": {
+        "en": "Kahneman's team was writing a school curriculum and textbook. Everyone guessed about two years. Asked how long similar teams had taken, their curriculum expert admitted that about 40% never finished, and the rest took seven to ten years. They carried on anyway. It took eight years, and the book was never used.",
+        "el": "Η ομάδα του Κάνεμαν έγραφε ένα σχολικό πρόγραμμα σπουδών κι ένα εγχειρίδιο. Όλοι υπολόγιζαν περίπου δύο χρόνια. Όταν ρώτησε πόσο είχαν κάνει παρόμοιες ομάδες, ο ειδικός τους παραδέχτηκε ότι περίπου το 40% δεν τελείωσε ποτέ και οι υπόλοιπες χρειάστηκαν επτά με δέκα χρόνια. Συνέχισαν παρ' όλα αυτά. Χρειάστηκαν οκτώ χρόνια, και το βιβλίο δεν χρησιμοποιήθηκε ποτέ."
+      },
+      "apply": {
+        "en": "Before you promise a go-live date, check the CRM: how long did your last 20 sites really take from first call to live, including waiting for the client's photos and texts? Quote that real number, not your best week. Before any side project, run a ten-minute premortem on paper.",
+        "el": "Πριν υποσχεθείς ημερομηνία για live, κοίτα το CRM: πόσο πραγματικά κράτησαν τα τελευταία 20 sites από το πρώτο τηλεφώνημα μέχρι το live, μαζί με την αναμονή για φωτογραφίες και κείμενα του πελάτη; Δώσε αυτόν τον πραγματικό αριθμό, όχι την καλύτερη εβδομάδα σου. Πριν από κάθε side project, κάνε στο χαρτί μια προνεκροψία δέκα λεπτών."
+      },
+      "check": {
+        "q": {"en": "What is the outside view?", "el": "Τι είναι η εξωτερική ματιά;"},
+        "options": [
+          {"en": "Asking your clients what they think", "el": "Να ρωτάς τους πελάτες τι πιστεύουν"},
+          {"en": "Looking at how similar projects really turned out", "el": "Να κοιτάς πώς πραγματικά εξελίχθηκαν παρόμοια project"},
+          {"en": "Planning carefully from your best case", "el": "Να σχεδιάζεις προσεκτικά με βάση το καλύτερο σενάριο"}
+        ],
+        "answer": 1,
+        "why": {"en": "The record of similar cases is a far better starting point than your hopeful inside story.", "el": "Το ιστορικό παρόμοιων περιπτώσεων είναι πολύ καλύτερη αφετηρία από την αισιόδοξη εσωτερική σου ιστορία."}
+      }
+    },
+    {
+      "title": {"en": "Losses loom larger", "el": "Οι απώλειες πονάνε περισσότερο"},
+      "explain": {
+        "en": "Prospect theory, Kahneman and Tversky's main work, says we judge outcomes as gains or losses from a reference point, usually where we are now, not by our total wealth. Losses hurt about twice as much as equal gains please. So we refuse fair bets, cling to what we own, and keep failing projects alive rather than accept the loss of what we already spent.",
+        "el": "Η θεωρία της προοπτικής, το κύριο έργο των Κάνεμαν και Τβέρσκι, λέει ότι κρίνουμε τα αποτελέσματα ως κέρδη ή απώλειες από ένα σημείο αναφοράς, συνήθως από εκεί που είμαστε τώρα, και όχι από τη συνολική μας περιουσία. Οι απώλειες πονάνε περίπου διπλάσια από όσο μας χαροποιούν ίσα κέρδη. Γι' αυτό αρνούμαστε δίκαια στοιχήματα, κρατάμε σφιχτά ό,τι έχουμε, και κρατάμε ζωντανά αποτυχημένα project για να μη δεχτούμε την απώλεια όσων ήδη ξοδέψαμε."
+      },
+      "example": {
+        "en": "Offered a coin toss where tails loses 100 dollars and heads wins 150, most people refuse, though the bet is in their favour. In experiments by Kahneman, Jack Knetsch and Richard Thaler, people given a coffee mug asked roughly twice as much to sell it as others were willing to pay for the same mug.",
+        "el": "Αν σου προτείνουν να ρίξετε ένα νόμισμα, όπου με γράμματα χάνεις 100 δολάρια και με κορόνα κερδίζεις 150, οι περισσότεροι αρνούνται, παρότι το στοίχημα τους συμφέρει. Σε πειράματα των Κάνεμαν, Τζακ Νέτς και Ρίτσαρντ Θέιλερ, όσοι είχαν πάρει δώρο μια κούπα ζητούσαν περίπου διπλάσια τιμή για να την πουλήσουν από όσα ήταν διατεθειμένοι να πληρώσουν άλλοι για την ίδια κούπα."
+      },
+      "apply": {
+        "en": "Describe honestly what the doctor is losing today, if it is true for his practice: «Patients who search for your specialty in your area find your colleagues' sites, not yours.» And check yourself: if a side project has failed for months, ask «would I start this today?» instead of counting the hours already spent.",
+        "el": "Περίγραψε τίμια τι χάνει σήμερα ο γιατρός, αν ισχύει για το ιατρείο του: «Οι ασθενείς που ψάχνουν την ειδικότητά σας στην περιοχή σας βρίσκουν τις ιστοσελίδες των συναδέλφων σας, όχι τη δική σας.» Και έλεγξε τον εαυτό σου: αν ένα side project αποτυγχάνει εδώ και μήνες, ρώτα «θα το ξεκινούσα σήμερα;» αντί να μετράς τις ώρες που ήδη έδωσες."
+      },
+      "check": {
+        "q": {"en": "Why do most people refuse a coin toss to lose 100 or win 150?", "el": "Γιατί οι περισσότεροι αρνούνται ένα στοίχημα με νόμισμα όπου χάνουν 100 ή κερδίζουν 150;"},
+        "options": [
+          {"en": "Losing 100 hurts more than winning 150 pleases", "el": "Η απώλεια των 100 πονάει περισσότερο απ' όσο χαροποιεί το κέρδος των 150"},
+          {"en": "They do not understand the odds of a coin", "el": "Δεν καταλαβαίνουν τις πιθανότητες ενός νομίσματος"},
+          {"en": "They think coin tosses are rigged", "el": "Νομίζουν ότι τα νομίσματα είναι πειραγμένα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Loss aversion: a loss weighs about twice as much as an equal gain, so the win must be about double.", "el": "Αποστροφή στην απώλεια: η απώλεια βαραίνει περίπου διπλάσια από ένα ίσο κέρδος, οπότε το κέρδος πρέπει να είναι περίπου διπλό."}
+      }
+    },
+    {
+      "title": {"en": "Certainty and tiny chances", "el": "Βεβαιότητα και μικρές πιθανότητες"},
+      "explain": {
+        "en": "We do not weigh chances in a straight line. Going from 0% to 5% (a possibility appears) or from 95% to 100% (certainty) feels huge, while 60% to 65% feels like nothing. Kahneman's fourfold pattern follows: we play lotteries and overpay for insurance against rare events, we lock in sure gains, and we gamble wildly to escape a loss that looks almost certain.",
+        "el": "Δεν ζυγίζουμε τις πιθανότητες σε ευθεία γραμμή. Το πέρασμα από το 0% στο 5% (εμφανίζεται μια δυνατότητα) ή από το 95% στο 100% (βεβαιότητα) μοιάζει τεράστιο, ενώ από το 60% στο 65% δεν μοιάζει με τίποτα. Από εδώ βγαίνει το «τετραπλό μοτίβο» του Κάνεμαν: παίζουμε λαχεία και πληρώνουμε ακριβά ασφάλειες για σπάνια γεγονότα, κλειδώνουμε τα σίγουρα κέρδη, και ρισκάρουμε άγρια για να ξεφύγουμε από μια απώλεια που φαίνεται σχεδόν σίγουρη."
+      },
+      "example": {
+        "en": "Kahneman shows that most people prefer a sure 900 dollars to a 90% chance of winning 1,000. But turn it into losses, a sure loss of 900 or a 90% chance of losing 1,000, and most people choose the gamble. Same numbers, opposite choices, because a sure loss feels unbearable.",
+        "el": "Ο Κάνεμαν δείχνει ότι οι περισσότεροι προτιμούν 900 δολάρια σίγουρα από 90% πιθανότητα να κερδίσουν 1.000. Αν όμως το κάνεις απώλειες, σίγουρη απώλεια 900 ή 90% πιθανότητα να χάσουν 1.000, οι περισσότεροι διαλέγουν το ρίσκο. Ίδιοι αριθμοί, αντίθετες επιλογές, επειδή μια σίγουρη απώλεια μοιάζει αβάσταχτη."
+      },
+      "apply": {
+        "en": "When a client owes you money and things look bad, do not gamble on long fights to «get it all back»; settle sensibly and move on. And when someone sells you an expensive add-on «just in case», ask what the real chance is and what it would actually cost you.",
+        "el": "Όταν ένας πελάτης σού χρωστά και τα πράγματα δεν πάνε καλά, μην ποντάρεις σε μακριές κόντρες για να «τα πάρεις όλα πίσω». Βρες μια λογική λύση και προχώρα. Κι όταν κάποιος σου πουλά ένα ακριβό πρόσθετο «για καλό και για κακό», ρώτα ποια είναι η πραγματική πιθανότητα και τι θα σου κόστιζε στην πράξη."
+      },
+      "check": {
+        "q": {"en": "Between a sure loss of 900 and a 90% chance to lose 1,000, what do most people choose?", "el": "Ανάμεσα σε σίγουρη απώλεια 900 και 90% πιθανότητα να χάσουν 1.000, τι διαλέγουν οι περισσότεροι;"},
+        "options": [
+          {"en": "The sure loss of 900", "el": "Τη σίγουρη απώλεια των 900"},
+          {"en": "They refuse to choose", "el": "Αρνούνται να διαλέξουν"},
+          {"en": "The 90% gamble", "el": "Το ρίσκο του 90%"}
+        ],
+        "answer": 2,
+        "why": {"en": "Facing losses, people become risk seekers, hoping the 10% chance saves them from any loss.", "el": "Μπροστά σε απώλειες γινόμαστε ριψοκίνδυνοι, ελπίζοντας ότι το 10% θα μας γλιτώσει από κάθε απώλεια."}
+      }
+    },
+    {
+      "title": {"en": "Frames change choices", "el": "Το πλαίσιο αλλάζει την επιλογή"},
+      "explain": {
+        "en": "The same facts, described in different words, lead to different choices. «90% survive» feels safer than «10% die», though they mean the same. A gain frame makes us careful; a loss frame makes us take risks. We rarely notice, because System 2 does not check whether two descriptions are equal. Kahneman also advises broad framing: see many similar decisions as one bundle, not one at a time.",
+        "el": "Τα ίδια γεγονότα, με άλλα λόγια, οδηγούν σε άλλες επιλογές. Το «επιβιώνει το 90%» ακούγεται πιο ασφαλές από το «πεθαίνει το 10%», παρότι σημαίνουν το ίδιο. Το πλαίσιο του κέρδους μάς κάνει προσεκτικούς. Το πλαίσιο της απώλειας μάς κάνει να ρισκάρουμε. Σπάνια το προσέχουμε, γιατί το Σύστημα 2 δεν ελέγχει αν δύο διατυπώσεις είναι ίδιες. Ο Κάνεμαν προτείνει επίσης ευρύ πλαίσιο: να βλέπεις πολλές παρόμοιες αποφάσεις μαζί, σαν πακέτο, και όχι μία μία."
+      },
+      "example": {
+        "en": "In a study by Barbara McNeil, Amos Tversky and colleagues, doctors chose between surgery and radiation for lung cancer. When surgery's short-term outcome was given as a 90% survival rate, far more chose it than when the same fact was given as a 10% death rate. Experienced doctors were swayed as much as anyone.",
+        "el": "Σε μια μελέτη της Μπάρμπαρα ΜακΝιλ, του Άμος Τβέρσκι και συνεργατών, γιατροί διάλεγαν ανάμεσα σε χειρουργείο και ακτινοθεραπεία για καρκίνο του πνεύμονα. Όταν το βραχυπρόθεσμο αποτέλεσμα του χειρουργείου δινόταν ως 90% επιβίωση, πολύ περισσότεροι το διάλεγαν από όταν το ίδιο γεγονός δινόταν ως 10% θνησιμότητα. Οι έμπειροι γιατροί επηρεάστηκαν όσο και οι υπόλοιποι."
+      },
+      "apply": {
+        "en": "Describe the price in a true frame that helps understanding: «130€ a year, about 11€ a month.» Both are true; the second is easier to picture. And read your own numbers in both frames: «80% of clients renewed» also means «one in five left», so ask why.",
+        "el": "Πες την τιμή σε ένα αληθινό πλαίσιο που βοηθά να την καταλάβει ο άλλος: «130€ τον χρόνο, δηλαδή περίπου 11€ τον μήνα.» Και τα δύο ισχύουν, το δεύτερο απλώς το φαντάζεσαι πιο εύκολα. Και διάβαζε τους δικούς σου αριθμούς και με τα δύο πλαίσια: το «ανανέωσε το 80% των πελατών» σημαίνει επίσης «έφυγε ένας στους πέντε», άρα ρώτα γιατί."
+      },
+      "check": {
+        "q": {"en": "What does the surgery study show?", "el": "Τι δείχνει η μελέτη με το χειρουργείο;"},
+        "options": [
+          {"en": "Doctors are immune to wording", "el": "Οι γιατροί δεν επηρεάζονται από τη διατύπωση"},
+          {"en": "The same fact in different words changes choices", "el": "Το ίδιο γεγονός με άλλα λόγια αλλάζει τις επιλογές"},
+          {"en": "Patients always prefer radiation", "el": "Οι ασθενείς προτιμούν πάντα την ακτινοθεραπεία"}
+        ],
+        "answer": 1,
+        "why": {"en": "Survival and death rates were the same information, yet the frame moved the decision.", "el": "Επιβίωση και θνησιμότητα ήταν η ίδια πληροφορία, κι όμως το πλαίσιο μετακίνησε την απόφαση."}
+      }
+    },
+    {
+      "title": {"en": "Two selves: peaks and endings", "el": "Δύο εαυτοί: κορυφές και τέλη"},
+      "explain": {
+        "en": "You have an experiencing self that lives each moment and a remembering self that keeps the story and makes the choices. Memory ignores how long something lasted and keeps mainly the peak, the most intense moment, and the end. Kahneman adds the focusing illusion: whatever you are thinking about at the moment seems more important to your happiness than it really is.",
+        "el": "Έχεις έναν εαυτό που βιώνει κάθε στιγμή κι έναν εαυτό που θυμάται, κρατά την ιστορία και παίρνει τις αποφάσεις. Η μνήμη αγνοεί πόσο κράτησε κάτι και κρατά κυρίως την κορυφή, την πιο έντονη στιγμή, και το τέλος. Ο Κάνεμαν προσθέτει και την ψευδαίσθηση της εστίασης: ό,τι σκέφτεσαι εκείνη τη στιγμή μοιάζει πιο σημαντικό για την ευτυχία σου απ' όσο πραγματικά είναι."
+      },
+      "example": {
+        "en": "Donald Redelmeier and Kahneman studied patients during painful colonoscopies. How bad patients remembered the procedure depended on the worst moment and the last minutes, not on its length. In a related cold-water experiment, people chose to repeat a longer trial that ended slightly less painfully.",
+        "el": "Ο Ντόναλντ Ρεντελμάιερ και ο Κάνεμαν μελέτησαν ασθενείς σε επώδυνες κολονοσκοπήσεις. Το πόσο άσχημα θυμούνταν οι ασθενείς την εξέταση εξαρτιόταν από τη χειρότερη στιγμή και τα τελευταία λεπτά, όχι από τη διάρκεια. Σε ένα συγγενικό πείραμα με κρύο νερό, οι άνθρωποι διάλεξαν να επαναλάβουν τη μεγαλύτερη δοκιμή, που τελείωνε λίγο λιγότερο επώδυνα."
+      },
+      "apply": {
+        "en": "Design the ending of every project: when a site goes live, send a short, warm message with the link, before and after screenshots and a thank you. A tough month of changes will be remembered by its peak and its end, so make the end the best moment. End every video demo on your strongest example.",
+        "el": "Σχεδίασε το τέλος κάθε project: όταν ένα site βγαίνει live, στείλε ένα σύντομο, ζεστό μήνυμα με το link, στιγμιότυπα πριν και μετά κι ένα ευχαριστώ. Ένας δύσκολος μήνας αλλαγών θα μείνει στη μνήμη από την κορυφή και το τέλος του, άρα κάνε το τέλος την καλύτερη στιγμή. Κλείνε κάθε παρουσίαση με το πιο δυνατό σου παράδειγμα."
+      },
+      "check": {
+        "q": {"en": "What mostly decides how we remember an experience?", "el": "Τι καθορίζει κυρίως πώς θυμόμαστε μια εμπειρία;"},
+        "options": [
+          {"en": "How long it lasted in total", "el": "Πόσο κράτησε συνολικά"},
+          {"en": "Its average quality minute by minute", "el": "Η μέση ποιότητά της λεπτό προς λεπτό"},
+          {"en": "Its most intense moment and its end", "el": "Η πιο έντονη στιγμή της και το τέλος της"}
+        ],
+        "answer": 2,
+        "why": {"en": "This is the peak-end rule; the remembering self neglects duration.", "el": "Είναι ο κανόνας κορυφής και τέλους. Ο εαυτός που θυμάται αγνοεί τη διάρκεια."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A prospect's first words on the call are «How much?». What do you do?", "el": "Τα πρώτα λόγια ενός υποψήφιου πελάτη στο τηλέφωνο είναι «πόσο κάνει;». Τι κάνεις;"},
+      "options": [
+        {"en": "Invent a high «normal price» so the real one looks like a discount", "el": "Εφευρίσκεις μια υψηλή «κανονική τιμή» για να μοιάζει έκπτωση η πραγματική"},
+        {"en": "Give a true reference for what such sites cost, then your 0€ build and 130€ a year", "el": "Δίνεις μια αληθινή αναφορά για το κόστος τέτοιων sites, και μετά την κατασκευή 0€ και τα 130€ τον χρόνο"},
+        {"en": "Refuse to talk about price until a meeting", "el": "Αρνείσαι να μιλήσεις για τιμή πριν από ραντεβού"}
+      ],
+      "answer": 1,
+      "why": {"en": "The first number anchors the talk; an honest anchor helps, a fake one is manipulation.", "el": "Ο πρώτος αριθμός γίνεται άγκυρα. Μια τίμια άγκυρα βοηθά, μια ψεύτικη είναι χειραγώγηση."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "A new client asks when the site will be live. What do you answer?", "el": "Ένας νέος πελάτης ρωτά πότε θα βγει live το site. Τι απαντάς;"},
+      "options": [
+        {"en": "«In three days, no problem», your best case", "el": "«Σε τρεις μέρες, κανένα πρόβλημα», το καλύτερο σενάριο"},
+        {"en": "«I cannot say, it depends»", "el": "«Δεν μπορώ να πω, εξαρτάται»"},
+        {"en": "The real average of your past projects, including waiting for material", "el": "Τον πραγματικό μέσο όρο των προηγούμενων project, μαζί με την αναμονή για υλικό"}
+      ],
+      "answer": 2,
+      "why": {"en": "The outside view, based on how similar projects really went, beats the hopeful inside view.", "el": "Η εξωτερική ματιά, με βάση το πώς πήγαν πραγματικά παρόμοια project, νικά την αισιόδοξη εσωτερική."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "Your best month ever is followed by an average one. What do you do?", "el": "Μετά τον καλύτερο μήνα σου έρχεται ένας μέτριος. Τι κάνεις;"},
+      "options": [
+        {"en": "Expect some drift back to normal and judge on several months", "el": "Περιμένεις κάποια επιστροφή στο κανονικό και κρίνεις με βάση πολλούς μήνες"},
+        {"en": "Blame your helper and tighten the rules", "el": "Φορτώνεις το φταίξιμο στον βοηθό και σφίγγεις τους κανόνες"},
+        {"en": "Throw out your whole ad strategy", "el": "Πετάς όλη τη στρατηγική διαφήμισης"}
+      ],
+      "answer": 0,
+      "why": {"en": "Extreme results include luck; the next period usually regresses toward the mean.", "el": "Τα ακραία αποτελέσματα έχουν τύχη. Η επόμενη περίοδος συνήθως επιστρέφει προς τον μέσο όρο."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A new ad brought 2 leads in 3 days; the old one brought 5. What do you do?", "el": "Μια νέα διαφήμιση έφερε 2 leads σε 3 μέρες, η παλιά 5. Τι κάνεις;"},
+      "options": [
+        {"en": "Switch off the new ad today", "el": "Κλείνεις σήμερα κιόλας τη νέα"},
+        {"en": "Double the budget of the old one at once", "el": "Διπλασιάζεις αμέσως το budget της παλιάς"},
+        {"en": "Let both run until the sample size you set in advance", "el": "Αφήνεις και τις δύο να τρέξουν μέχρι το δείγμα που όρισες από πριν"}
+      ],
+      "answer": 2,
+      "why": {"en": "Tiny samples swing wildly by chance; judge only on enough data.", "el": "Τα πολύ μικρά δείγματα κάνουν μεγάλες διακυμάνσεις από τύχη. Κρίνε μόνο με αρκετά στοιχεία."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "A job candidate was charming on video, but you have not checked the written test. What do you do?", "el": "Ένας υποψήφιος ήταν γοητευτικός στη βιντεοκλήση, αλλά δεν έχεις δει το γραπτό τεστ. Τι κάνεις;"},
+      "options": [
+        {"en": "Score the test on its own before deciding", "el": "Βαθμολογείς το τεστ μόνο του πριν αποφασίσεις"},
+        {"en": "Hire them, charm matters most with clients", "el": "Τον προσλαμβάνεις, η γοητεία μετράει πιο πολύ με τους πελάτες"},
+        {"en": "Reject them for being too smooth", "el": "Τον απορρίπτεις επειδή είναι πολύ «γλυκός»"}
+      ],
+      "answer": 0,
+      "why": {"en": "The halo of a good first impression spreads to everything; judge each part independently.", "el": "Η αύρα μιας καλής πρώτης εντύπωσης απλώνεται παντού. Κρίνε κάθε κομμάτι ανεξάρτητα."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "You have spent six months on a side project that is not working. What do you do?", "el": "Έχεις ρίξει έξι μήνες σε ένα side project που δεν πάει. Τι κάνεις;"},
+      "options": [
+        {"en": "Keep going because of all the time already spent", "el": "Συνεχίζεις λόγω όλου του χρόνου που έχεις ήδη δώσει"},
+        {"en": "Ask: would I start this today, knowing what I know?", "el": "Ρωτάς: θα το ξεκινούσα σήμερα, με όσα ξέρω;"},
+        {"en": "Double your hours on it to win it back", "el": "Διπλασιάζεις τις ώρες σου για να τα πάρεις πίσω"}
+      ],
+      "answer": 1,
+      "why": {"en": "Loss aversion makes us cling to sunk costs; judge from today, not from what is already spent.", "el": "Η αποστροφή στην απώλεια μάς κάνει να κρατιόμαστε από όσα ήδη ξοδέψαμε. Κρίνε από το σήμερα, όχι από τα χαμένα."},
+      "idea": 16
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "System 1 runs all the time, even when you do not want it to.", "el": "Το Σύστημα 1 δουλεύει συνέχεια, ακόμα κι όταν δεν το θέλεις."}, "answer": true, "why": {"en": "It cannot be switched off; you cannot, for example, see a word and not read it.", "el": "Δεν σβήνει. Για παράδειγμα, δεν μπορείς να δεις μια λέξη και να μην τη διαβάσεις."}},
+    {"s": {"en": "Kahneman says that knowing about biases makes you immune to them.", "el": "Ο Κάνεμαν λέει ότι όταν ξέρεις τις μεροληψίες, γίνεσαι απρόσβλητος."}, "answer": false, "why": {"en": "He admits he is still fooled; knowledge helps you spot risky situations and slow down, not escape the biases.", "el": "Παραδέχεται ότι κι ο ίδιος ξεγελιέται. Η γνώση βοηθά να εντοπίζεις τις επικίνδυνες στιγμές και να επιβραδύνεις, όχι να γλιτώνεις."}},
+    {"s": {"en": "A random number can change an expert's estimate.", "el": "Ένας τυχαίος αριθμός μπορεί να αλλάξει την εκτίμηση ενός ειδικού."}, "answer": true, "why": {"en": "The judges and the loaded dice showed that anchors work even on professionals.", "el": "Οι δικαστές με τα πειραγμένα ζάρια έδειξαν ότι οι άγκυρες πιάνουν και στους επαγγελματίες."}},
+    {"s": {"en": "A loss and a gain of the same size feel about the same.", "el": "Μια απώλεια κι ένα κέρδος ίδιου μεγέθους τα νιώθουμε περίπου το ίδιο."}, "answer": false, "why": {"en": "Losses weigh roughly twice as much as equal gains.", "el": "Οι απώλειες βαραίνουν περίπου διπλάσια από ίσα κέρδη."}},
+    {"s": {"en": "A detailed story can feel more likely while being less probable.", "el": "Μια ιστορία με λεπτομέρειες μπορεί να μοιάζει πιο πιθανή ενώ είναι λιγότερο πιθανή."}, "answer": true, "why": {"en": "Every added detail lowers the probability but raises how believable it sounds, as Linda shows.", "el": "Κάθε λεπτομέρεια μειώνει την πιθανότητα αλλά αυξάνει το πόσο πιστευτό ακούγεται, όπως δείχνει η Λίντα."}},
+    {"s": {"en": "Simple formulas almost never beat experienced professionals.", "el": "Οι απλοί τύποι σχεδόν ποτέ δεν νικούν τους έμπειρους επαγγελματίες."}, "answer": false, "why": {"en": "Since Meehl, many studies show simple rules match or beat experts in many fields.", "el": "Από τον Μιλ και μετά, πολλές μελέτες δείχνουν ότι οι απλοί κανόνες φτάνουν ή ξεπερνούν τους ειδικούς σε πολλούς χώρους."}},
+    {"s": {"en": "The remembering self pays little attention to how long an experience lasted.", "el": "Ο εαυτός που θυμάται δίνει ελάχιστη σημασία στη διάρκεια μιας εμπειρίας."}, "answer": true, "why": {"en": "Memory keeps the peak and the end and neglects duration.", "el": "Η μνήμη κρατά την κορυφή και το τέλος και αγνοεί τη διάρκεια."}},
+    {"s": {"en": "System 1 and System 2 are two separate areas of the brain.", "el": "Το Σύστημα 1 και το Σύστημα 2 είναι δύο ξεχωριστές περιοχές του εγκεφάλου."}, "answer": false, "why": {"en": "Kahneman uses them as characters to describe two modes of thinking, not as brain parts.", "el": "Ο Κάνεμαν τα χρησιμοποιεί ως χαρακτήρες για δύο τρόπους σκέψης, όχι ως κομμάτια του εγκεφάλου."}}
+  ],
+  "pairs": [
+    {"a": {"en": "System 1", "el": "Σύστημα 1"}, "b": {"en": "Fast, automatic, intuitive thinking", "el": "Γρήγορη, αυτόματη, διαισθητική σκέψη"}},
+    {"a": {"en": "System 2", "el": "Σύστημα 2"}, "b": {"en": "Slow, effortful, careful thinking", "el": "Αργή, κοπιαστική, προσεκτική σκέψη"}},
+    {"a": {"en": "Anchoring", "el": "Άγκυρα"}, "b": {"en": "An early number pulls your estimate", "el": "Ένας πρώτος αριθμός τραβά την εκτίμησή σου"}},
+    {"a": {"en": "Loss aversion", "el": "Αποστροφή στην απώλεια"}, "b": {"en": "Losses hurt about twice as much as gains", "el": "Οι απώλειες πονάνε περίπου διπλάσια από τα κέρδη"}},
+    {"a": {"en": "WYSIATI", "el": "Ό,τι βλέπεις, αυτό υπάρχει"}, "b": {"en": "Judging only from what is in front of you", "el": "Κρίνεις μόνο από όσα έχεις μπροστά σου"}},
+    {"a": {"en": "Planning fallacy", "el": "Πλάνη του σχεδιασμού"}, "b": {"en": "Underestimating the time and cost of plans", "el": "Υποτιμάς τον χρόνο και το κόστος των σχεδίων"}}
+  ],
+  "missions": [
+    {"en": "Write down three predictions (a lead, a payment, a go-live date) with a percentage, and check them in a month.", "el": "Γράψε τρεις προβλέψεις (ένα lead, μια πληρωμή, μια ημερομηνία live) με ποσοστό, και έλεγξέ τες σε έναν μήνα."},
+    {"en": "Check in your CRM how long your last ten sites took from first call to live, and use that average in your next promise.", "el": "Δες στο CRM πόσο κράτησαν τα τελευταία δέκα sites από το πρώτο τηλεφώνημα ως το live, και χρησιμοποίησε αυτόν τον μέσο όρο στην επόμενη υπόσχεσή σου."},
+    {"en": "Build a four-factor lead score and call tomorrow's leads in that order.", "el": "Φτιάξε μια βαθμολογία leads με τέσσερις παράγοντες και κάλεσε τα αυριανά leads με αυτή τη σειρά."},
+    {"en": "Before your next big decision, write a ten-minute premortem: «It is a year later and this failed. Why?»", "el": "Πριν από την επόμενη μεγάλη απόφαση, γράψε μια προνεκροψία δέκα λεπτών: «Πέρασε ένας χρόνος και απέτυχε. Γιατί;»"},
+    {"en": "Rewrite your price sentence so it has a true reference number and both frames, yearly and monthly.", "el": "Ξαναγράψε τη φράση της τιμής σου ώστε να έχει έναν αληθινό αριθμό αναφοράς και τα δύο πλαίσια, ετήσιο και μηνιαίο."}
+  ],
+  "mantra": {"en": "My first thought is fast; my best thought checks the numbers.", "el": "Η πρώτη μου σκέψη είναι γρήγορη. Η καλύτερη ελέγχει τους αριθμούς."},
+  "careful": {
+    "en": "Some studies in the book have not held up. Several famous results in the priming chapter failed to replicate, and Kahneman himself later admitted he had put too much faith in small studies. Ego depletion and the «hungry judges» parole study are also disputed. The core findings, such as anchoring, loss aversion and framing, have held up much better. And knowing the biases does not make you immune, as Kahneman said himself.",
+    "el": "Μερικές μελέτες του βιβλίου δεν άντεξαν. Αρκετά διάσημα αποτελέσματα στο κεφάλαιο για την προετοιμασία (priming) δεν επαναλήφθηκαν, και ο ίδιος ο Κάνεμαν παραδέχτηκε αργότερα ότι είχε εμπιστευτεί υπερβολικά μικρές μελέτες. Αμφισβητούνται επίσης η «εξάντληση της θέλησης» και η μελέτη με τους «πεινασμένους δικαστές» στις αποφυλακίσεις. Τα κεντρικά ευρήματα, όπως η άγκυρα, η αποστροφή στην απώλεια και το πλαίσιο, έχουν αντέξει πολύ καλύτερα. Και η γνώση των μεροληψιών δεν σε κάνει απρόσβλητο, όπως είπε κι ο ίδιος."
+  },
+  "connects": [
+    {"book": "influence", "note": {"en": "Cialdini's «click, whirr» shortcuts are System 1 at work; Kahneman explains the machinery behind why they succeed.", "el": "Οι αυτόματες αντιδράσεις «κλικ και παίζει» του Τσιαλντίνι είναι το Σύστημα 1 σε δράση. Ο Κάνεμαν εξηγεί τον μηχανισμό που τις κάνει να πετυχαίνουν."}},
+    {"book": "psychology-of-money", "note": {"en": "Housel applies the same truths, luck, loss aversion and the pull of stories, to everyday money decisions.", "el": "Ο Χάουζελ εφαρμόζει τις ίδιες αλήθειες, την τύχη, την αποστροφή στην απώλεια και τη δύναμη των ιστοριών, στις καθημερινές αποφάσεις για τα χρήματα."}},
+    {"book": "poor-charlies-almanack", "note": {"en": "Munger's talk on the psychology of human misjudgement is a practical, investor's list of many of the same biases.", "el": "Η ομιλία του Μάνγκερ για την ψυχολογία της ανθρώπινης κακοκρισίας είναι ένας πρακτικός κατάλογος, από τη ματιά ενός επενδυτή, για πολλές από τις ίδιες μεροληψίες."}}
+  ]
+}

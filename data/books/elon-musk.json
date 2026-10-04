@@ -1,0 +1,576 @@
+{
+  "id": "elon-musk",
+  "title": {"en": "Elon Musk", "el": "Έλον Μασκ"},
+  "author": "Walter Isaacson",
+  "authorEl": "Γουόλτερ Άιζακσον",
+  "year": 2023,
+  "shelf": "founders",
+  "skills": {"strategy": 3, "leadership": 2, "mindset": 2},
+  "oneLine": {
+    "en": "Walter Isaacson's close-up portrait of Elon Musk: a relentless, risk-loving engineer whose methods build rockets and cars at record speed, and whose demons hurt people along the way.",
+    "el": "Το κοντινό πορτρέτο του Έλον Μασκ από τον Γουόλτερ Άιζακσον: ένας ακούραστος μηχανικός που λατρεύει το ρίσκο, με μεθόδους που φτιάχνουν πυραύλους και αυτοκίνητα σε χρόνο ρεκόρ και δαίμονες που πληγώνουν ανθρώπους στην πορεία."
+  },
+  "story": {
+    "en": "Walter Isaacson, who wrote the biographies of Steve Jobs, Einstein and Leonardo da Vinci, followed Elon Musk for two years, sitting in his meetings, walking his factories and interviewing family, friends, colleagues and critics. The book came out in September 2023. It covers Musk's harsh childhood in South Africa, PayPal, SpaceX, Tesla, Starlink and the Twitter takeover. People read it to understand how he works: the brilliant methods and the damage alike.",
+    "el": "Ο Γουόλτερ Άιζακσον, που έγραψε τις βιογραφίες του Steve Jobs, του Αϊνστάιν και του Λεονάρντο ντα Βίντσι, ακολούθησε τον Έλον Μασκ για δύο χρόνια: καθόταν στις συσκέψεις του, γύριζε στα εργοστάσιά του και μίλησε με οικογένεια, φίλους, συνεργάτες και επικριτές. Το βιβλίο βγήκε τον Σεπτέμβριο του 2023. Καλύπτει τα σκληρά παιδικά του χρόνια στη Νότια Αφρική, την PayPal, τη SpaceX, την Tesla, το Starlink και την εξαγορά του Twitter. Το διαβάζουν για να καταλάβουν πώς δουλεύει: και τις λαμπρές μεθόδους και τη ζημιά."
+  },
+  "forYou": {
+    "en": "You run a small company that wants to move fast and cheap with AI. Musk's methods, like questioning every requirement, deleting steps and acting with urgency, apply directly to how you build sites and run your process. The book also shows clearly what harsh, impulsive leadership costs, so you can take the method and leave the damage.",
+    "el": "Τρέχεις μια μικρή εταιρεία που θέλει να κινείται γρήγορα και φτηνά με τη βοήθεια του AI. Οι μέθοδοι του Μασκ, να αμφισβητείς κάθε απαίτηση, να σβήνεις βήματα και να κινείσαι με αίσθηση του επείγοντος, ταιριάζουν ακριβώς στο πώς φτιάχνεις ιστοσελίδες και στήνεις τη διαδικασία σου. Το βιβλίο δείχνει καθαρά και πόσο κοστίζει μια σκληρή, παρορμητική ηγεσία, ώστε να κρατήσεις τη μέθοδο και να αφήσεις τη ζημιά."
+  },
+  "ideas": [
+    {
+      "title": {"en": "The wounds that drive him", "el": "Οι πληγές που τον σπρώχνουν"},
+      "explain": {
+        "en": "Isaacson starts with Musk's childhood in South Africa. He was a bookish, awkward boy, badly bullied at school, and his father often belittled him for hours. Isaacson's thesis is that this pain made him tough and fearless, but also left dark moods, a hunger for drama and limited empathy. The lesson: what hurt you can fuel you, but it can also steer you if you do not see it.",
+        "el": "Ο Άιζακσον ξεκινά από τα παιδικά χρόνια του Μασκ στη Νότια Αφρική. Ήταν ένα αγόρι χωμένο στα βιβλία, αμήχανο, που έπεφτε θύμα άγριου bullying στο σχολείο, και ο πατέρας του συχνά τον υποτιμούσε για ώρες. Η θέση του Άιζακσον είναι ότι αυτός ο πόνος τον έκανε σκληρό και άφοβο, αλλά του άφησε και σκοτεινές διαθέσεις, δίψα για δράμα και λίγη ενσυναίσθηση. Το μάθημα: ό,τι σε πλήγωσε μπορεί να σε τροφοδοτεί, αλλά μπορεί και να σε κατευθύνει χωρίς να το βλέπεις."
+      },
+      "example": {
+        "en": "Around age twelve he was sent to a wilderness survival camp, a veldskool, where children fought over food and he was beaten. Later a group of boys threw him down some stairs and beat him so badly that he ended up in hospital. Afterwards, his father took the other side and berated him.",
+        "el": "Γύρω στα δώδεκα τον έστειλαν σε μια κατασκήνωση επιβίωσης στην ύπαιθρο, ένα veldskool, όπου τα παιδιά πάλευαν για το φαγητό και τον έδειραν. Αργότερα μια παρέα αγοριών τον έριξε από κάτι σκάλες και τον χτύπησε τόσο άσχημα που κατέληξε στο νοσοκομείο. Μετά, ο πατέρας του πήρε το μέρος των άλλων και τον κατσάδιασε."
+      },
+      "apply": {
+        "en": "Notice when an old pain makes you over-react: a small client complaint that feels like an insult, or a «no» on a cold call that ruins your whole day. Pause, name it to yourself, and answer the client calmly the next morning instead of in the moment.",
+        "el": "Πρόσεξε πότε ένας παλιός πόνος σε κάνει να αντιδράς υπερβολικά: ένα μικρό παράπονο πελάτη που το νιώθεις σαν προσβολή, ή ένα «όχι» σε cold call που σου χαλάει όλη τη μέρα. Σταμάτα, πες στον εαυτό σου τι συμβαίνει, και απάντησε στον πελάτη ήρεμα το επόμενο πρωί αντί για εκείνη τη στιγμή."
+      },
+      "check": {
+        "q": {"en": "What is Isaacson's main point about Musk's childhood?", "el": "Ποιο είναι το βασικό σημείο του Άιζακσον για τα παιδικά χρόνια του Μασκ;"},
+        "options": [
+          {"en": "It was easy and gave him confidence", "el": "Ήταν εύκολα και του έδωσαν αυτοπεποίθηση"},
+          {"en": "Its pain made him tough but left dark sides", "el": "Ο πόνος τους τον σκλήρυνε αλλά άφησε σκοτεινές πλευρές"},
+          {"en": "It had no effect on his later life", "el": "Δεν επηρέασαν καθόλου την υπόλοιπη ζωή του"}
+        ],
+        "answer": 1,
+        "why": {"en": "Isaacson argues the same pain gave him toughness and also his darker traits.", "el": "Ο Άιζακσον υποστηρίζει ότι ο ίδιος πόνος τού έδωσε σκληράδα αλλά και τα πιο σκοτεινά του χαρακτηριστικά."}
+      }
+    },
+    {
+      "title": {"en": "A mission bigger than money", "el": "Μια αποστολή πάνω από τα λεφτά"},
+      "explain": {
+        "en": "As a teenager Musk went through a dark period of asking what life is for. Science fiction, especially The Hitchhiker's Guide to the Galaxy, taught him that asking the right questions is the hard part. He came to see his job as helping humanity understand and survive. That became his missions: make humans a multiplanetary species, move the world to sustainable energy, and keep AI safe.",
+        "el": "Ως έφηβος ο Μασκ πέρασε μια σκοτεινή περίοδο όπου αναρωτιόταν ποιο είναι το νόημα της ζωής. Η επιστημονική φαντασία, κυρίως το «Γυρίστε τον γαλαξία με ωτοστόπ», τον έμαθε ότι το δύσκολο είναι να κάνεις τις σωστές ερωτήσεις. Κατέληξε ότι δουλειά του είναι να βοηθήσει την ανθρωπότητα να καταλάβει και να επιβιώσει. Από εκεί βγήκαν οι αποστολές του: οι άνθρωποι να ζουν σε περισσότερους από έναν πλανήτες, ο κόσμος να περάσει σε βιώσιμη ενέργεια, και το AI να μείνει ασφαλές."
+      },
+      "example": {
+        "en": "SpaceX was founded in 2002 to make life multiplanetary, starting with Mars, not to earn money from launches. When Musk argues for a risky choice, he often goes back to that mission. It helps him recruit engineers who want to be part of something historic, and to keep going after failures.",
+        "el": "Η SpaceX ιδρύθηκε το 2002 για να μπορεί η ζωή να υπάρχει σε περισσότερους πλανήτες, ξεκινώντας από τον Άρη, όχι για να βγάλει λεφτά από εκτοξεύσεις. Όταν ο Μασκ υποστηρίζει μια ριψοκίνδυνη επιλογή, γυρίζει συχνά σε αυτή την αποστολή. Τον βοηθά να τραβά μηχανικούς που θέλουν να γίνουν μέρος κάτι ιστορικού, και να συνεχίζει μετά από αποτυχίες."
+      },
+      "apply": {
+        "en": "Write Advon's mission in one line that is bigger than revenue, for example: «Every serious Greek professional deserves a website as good as their work.» Put it in your job ads and on your about page. Use it to attract people who care, and to decide what you say no to.",
+        "el": "Γράψε την αποστολή της Advon σε μία γραμμή που να είναι μεγαλύτερη από τον τζίρο, για παράδειγμα: «Κάθε σοβαρός Έλληνας επαγγελματίας αξίζει μια ιστοσελίδα τόσο καλή όσο η δουλειά του.» Βάλ' τη στις αγγελίες για προσλήψεις και στη σελίδα «Ποιοι είμαστε». Χρησιμοποίησέ τη για να τραβάς ανθρώπους που νοιάζονται και για να αποφασίζεις σε τι λες όχι."
+      },
+      "check": {
+        "q": {"en": "How do Musk's missions help his companies?", "el": "Πώς βοηθούν οι αποστολές του Μασκ τις εταιρείες του;"},
+        "options": [
+          {"en": "They attract believers and guide hard choices", "el": "Τραβούν ανθρώπους που πιστεύουν και καθοδηγούν δύσκολες επιλογές"},
+          {"en": "They replace the need for any profit", "el": "Αντικαθιστούν την ανάγκη για κέρδος"},
+          {"en": "They exist mainly for the press", "el": "Υπάρχουν κυρίως για τον Τύπο"}
+        ],
+        "answer": 0,
+        "why": {"en": "A big mission draws committed people and gives a reason to keep going after failure.", "el": "Μια μεγάλη αποστολή τραβά αφοσιωμένους ανθρώπους και δίνει λόγο να συνεχίσεις μετά την αποτυχία."}
+      }
+    },
+    {
+      "title": {"en": "A huge appetite for risk", "el": "Τεράστια όρεξη για ρίσκο"},
+      "explain": {
+        "en": "Musk rarely keeps a safety net. After selling PayPal he put most of his money into SpaceX and Tesla, two businesses most experts expected to fail. Isaacson shows that he seems to need risk and drama; calm makes him restless. This led to giant wins and near disasters. The lesson for you is not to copy the size of his bets, but to know which risks could wipe you out.",
+        "el": "Ο Μασκ σπάνια κρατά δίχτυ ασφαλείας. Μετά την πώληση της PayPal έβαλε τα περισσότερα λεφτά του στη SpaceX και στην Tesla, δύο εταιρείες που οι περισσότεροι ειδικοί περίμεναν να αποτύχουν. Ο Άιζακσον δείχνει ότι μοιάζει να χρειάζεται το ρίσκο και το δράμα· η ηρεμία τον κάνει ανήσυχο. Αυτό έφερε τεράστιες νίκες αλλά και παρ' ολίγον καταστροφές. Το μάθημα για σένα δεν είναι να αντιγράψεις το μέγεθος των στοιχημάτων του, αλλά να ξέρεις ποια ρίσκα μπορούν να σε αφανίσουν."
+      },
+      "example": {
+        "en": "By late 2008 SpaceX had lost three rockets, Tesla was close to running out of money and Musk was going through a divorce. He split his remaining money between the two companies instead of saving just one. In December a NASA contract and a last-minute Tesla funding round saved both.",
+        "el": "Στα τέλη του 2008 η SpaceX είχε χάσει τρεις πυραύλους, η Tesla κόντευε να μείνει από λεφτά και ο Μασκ περνούσε διαζύγιο. Μοίρασε ό,τι του είχε μείνει στις δύο εταιρείες αντί να σώσει μόνο τη μία. Τον Δεκέμβριο, ένα συμβόλαιο με τη NASA και μια χρηματοδότηση της τελευταίας στιγμής για την Tesla έσωσαν και τις δύο."
+      },
+      "apply": {
+        "en": "Before a big bet, like an ad budget, a hire or a new product, write the worst case in euros and in months. Take risks you can survive even if they fail completely. Never bet the hosting income that keeps the lights on.",
+        "el": "Πριν από ένα μεγάλο στοίχημα, ένα budget διαφήμισης, μια πρόσληψη ή ένα νέο προϊόν, γράψε το χειρότερο σενάριο σε ευρώ και σε μήνες. Πάρε ρίσκα που αντέχεις ακόμα κι αν αποτύχουν εντελώς. Ποτέ μην ποντάρεις το εισόδημα από τη φιλοξενία που κρατά τα φώτα αναμμένα."
+      },
+      "check": {
+        "q": {"en": "What is the lesson for you from Musk's risk taking?", "el": "Ποιο είναι το μάθημα για σένα από τα ρίσκα του Μασκ;"},
+        "options": [
+          {"en": "Always bet everything you have", "el": "Να ποντάρεις πάντα ό,τι έχεις"},
+          {"en": "Never take any business risk", "el": "Να μην παίρνεις ποτέ επιχειρηματικό ρίσκο"},
+          {"en": "Take risks, but only ones you can survive", "el": "Να παίρνεις ρίσκα, αλλά μόνο όσα αντέχεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "His bets nearly ruined him in 2008; a small agency must avoid risks that can wipe it out.", "el": "Τα στοιχήματά του σχεδόν τον κατέστρεψαν το 2008· ένα μικρό γραφείο πρέπει να αποφεύγει ρίσκα που μπορούν να το αφανίσουν."}
+      }
+    },
+    {
+      "title": {"en": "Physics is the only rulebook", "el": "Μόνος κανόνας η φυσική"},
+      "explain": {
+        "en": "Musk tries to think from first principles: break a problem down to the basic facts of physics and cost, then rebuild it, instead of copying what the industry does. He likes to say the only fixed rules are the laws of physics; everything else is a recommendation. This lets him see solutions that experts dismiss because it has always been done another way.",
+        "el": "Ο Μασκ προσπαθεί να σκέφτεται από τις πρώτες αρχές: σπάει ένα πρόβλημα στα βασικά γεγονότα της φυσικής και του κόστους και το ξαναχτίζει από εκεί, αντί να αντιγράφει ό,τι κάνει ο κλάδος. Του αρέσει να λέει ότι οι μόνοι σταθεροί κανόνες είναι οι νόμοι της φυσικής· όλα τα άλλα είναι συστάσεις. Έτσι βλέπει λύσεις που οι ειδικοί απορρίπτουν επειδή «πάντα γινόταν αλλιώς»."
+      },
+      "example": {
+        "en": "Starship was first planned in expensive carbon fibre, like many modern rockets. Around 2018 Musk switched to stainless steel. Steel cost far less, could be welded quickly in tents in Texas, gets stronger at very low temperatures and handles heat better. Experts were surprised, but the change made fast prototype building possible.",
+        "el": "Το Starship σχεδιάστηκε αρχικά από ακριβές ίνες άνθρακα, όπως πολλοί σύγχρονοι πύραυλοι. Γύρω στο 2018 ο Μασκ γύρισε σε ανοξείδωτο ατσάλι. Το ατσάλι κόστιζε πολύ λιγότερο, συγκολλιόταν γρήγορα μέσα σε σκηνές στο Τέξας, γίνεται πιο ανθεκτικό σε πολύ χαμηλές θερμοκρασίες και αντέχει καλύτερα τη ζέστη. Οι ειδικοί ξαφνιάστηκαν, αλλά η αλλαγή έκανε δυνατή τη γρήγορη κατασκευή πρωτοτύπων."
+      },
+      "apply": {
+        "en": "Ask what a professional's website really needs at its core: loads fast, phone easy to find, builds trust, easy to book. Then question every habit you copied, like sliders, long about pages or heavy plugins. Keep what serves those basics and drop the rest.",
+        "el": "Ρώτα τι χρειάζεται στην ουσία της η ιστοσελίδα ενός επαγγελματία: να φορτώνει γρήγορα, να βρίσκεται εύκολα το τηλέφωνο, να χτίζει εμπιστοσύνη, να κλείνεις εύκολα ραντεβού. Μετά αμφισβήτησε κάθε συνήθεια που αντέγραψες, όπως sliders, μεγάλες σελίδες «σχετικά με εμάς» ή βαριά plugins. Κράτα ό,τι υπηρετεί αυτά τα βασικά και πέτα τα υπόλοιπα."
+      },
+      "check": {
+        "q": {"en": "What does thinking from first principles mean?", "el": "Τι σημαίνει να σκέφτεσαι από τις πρώτες αρχές;"},
+        "options": [
+          {"en": "Rebuilding a problem from its basic facts", "el": "Να ξαναχτίζεις ένα πρόβλημα από τα βασικά του γεγονότα"},
+          {"en": "Copying what the market leaders do", "el": "Να αντιγράφεις ό,τι κάνουν οι πρώτοι της αγοράς"},
+          {"en": "Following the oldest rules strictly", "el": "Να ακολουθείς αυστηρά τους πιο παλιούς κανόνες"}
+        ],
+        "answer": 0,
+        "why": {"en": "You strip a problem down to physics and cost, then rebuild it without copied assumptions.", "el": "Γδύνεις το πρόβλημα μέχρι τη φυσική και το κόστος, και το ξαναχτίζεις χωρίς δανεικές παραδοχές."}
+      }
+    },
+    {
+      "title": {"en": "The idiot index", "el": "Ο «δείκτης βλακείας»"},
+      "explain": {
+        "en": "Musk uses what he calls the idiot index: the total cost of a part divided by the cost of its raw materials. If a part costs a hundred times more than the metal inside it, something in the design or the process is silly. A high index points straight to where money is wasted. It turns vague talk about costs into one hard number.",
+        "el": "Ο Μασκ χρησιμοποιεί αυτό που ονομάζει «δείκτη βλακείας»: το συνολικό κόστος ενός εξαρτήματος διαιρεμένο με το κόστος των πρώτων υλών του. Αν ένα κομμάτι κοστίζει εκατό φορές περισσότερο από το μέταλλο που έχει μέσα, κάτι στον σχεδιασμό ή στη διαδικασία είναι ανόητο. Ένας υψηλός δείκτης δείχνει κατευθείαν πού χάνονται λεφτά. Κάνει τη θολή κουβέντα για το κόστος έναν σκληρό αριθμό."
+      },
+      "example": {
+        "en": "At SpaceX Musk would ask engineers what the raw material in a part cost and compare it with the supplier's price. Parts with a high index were often redesigned or made in-house. This habit is a big reason SpaceX could launch for much less than older rocket companies.",
+        "el": "Στη SpaceX ο Μασκ ρωτούσε τους μηχανικούς πόσο κοστίζει η πρώτη ύλη ενός εξαρτήματος και τη σύγκρινε με την τιμή του προμηθευτή. Τα κομμάτια με υψηλό δείκτη συχνά ξανασχεδιάζονταν ή φτιάχνονταν μέσα στην εταιρεία. Αυτή η συνήθεια είναι μεγάλος λόγος που η SpaceX μπορούσε να εκτοξεύει πολύ φτηνότερα από τις παλιές εταιρείες πυραύλων."
+      },
+      "apply": {
+        "en": "Make your own idiot index: for each repeated task, compare how long it takes now with how long it would take done in the simplest way. Where the gap is ten times, like resizing photos or writing privacy pages by hand, turn it into a template or an AI step.",
+        "el": "Φτιάξε τον δικό σου δείκτη: για κάθε δουλειά που επαναλαμβάνεται, σύγκρινε πόσο χρόνο παίρνει τώρα με πόσο θα έπαιρνε με τον πιο απλό τρόπο. Όπου η διαφορά είναι δεκαπλάσια, όπως η αλλαγή μεγέθους στις φωτογραφίες ή οι σελίδες απορρήτου γραμμένες με το χέρι, κάν' την template ή βήμα με AI."
+      },
+      "check": {
+        "q": {"en": "What does a high idiot index tell you?", "el": "Τι σου λέει ένας υψηλός «δείκτης βλακείας»;"},
+        "options": [
+          {"en": "The part uses rare, costly materials", "el": "Το κομμάτι έχει σπάνια, ακριβά υλικά"},
+          {"en": "The supplier is very reliable", "el": "Ο προμηθευτής είναι πολύ αξιόπιστος"},
+          {"en": "The design or process wastes money", "el": "Ο σχεδιασμός ή η διαδικασία πετάει λεφτά"}
+        ],
+        "answer": 2,
+        "why": {"en": "When the price is far above the materials, the waste is in how it is designed or made.", "el": "Όταν η τιμή είναι πολύ πάνω από τα υλικά, η σπατάλη βρίσκεται στο πώς σχεδιάζεται ή φτιάχνεται."}
+      }
+    },
+    {
+      "title": {"en": "Question, then delete", "el": "Αμφισβήτησε, μετά σβήσε"},
+      "explain": {
+        "en": "These are the first two steps of what Musk calls the algorithm. First, question every requirement, and make sure each one comes with the name of a real person, not a department, so you can ask them why. Second, delete every part or step you can. If you do not end up adding back at least ten percent of what you deleted, you did not delete enough.",
+        "el": "Αυτά είναι τα δύο πρώτα βήματα αυτού που ο Μασκ λέει «ο αλγόριθμος». Πρώτο, αμφισβήτησε κάθε απαίτηση, και φρόντισε η καθεμία να έχει το όνομα ενός πραγματικού ανθρώπου, όχι ενός τμήματος, για να μπορείς να τον ρωτήσεις γιατί. Δεύτερο, σβήσε κάθε εξάρτημα ή βήμα που μπορείς. Αν στο τέλος δεν χρειαστεί να ξαναβάλεις τουλάχιστον το δέκα τοις εκατό από όσα έσβησες, δεν έσβησες αρκετά."
+      },
+      "example": {
+        "en": "In 2018, during the Model 3 production crisis, a Tesla line slowed at a station that glued fibreglass mats onto battery packs. The battery team said the mats were for noise; the noise team said they were for fire safety. Neither really needed them. A test showed no difference without them, so the step was deleted.",
+        "el": "Το 2018, στην κρίση παραγωγής του Model 3, μια γραμμή της Tesla καθυστερούσε σε ένα σημείο όπου κολλούσαν στρώματα υαλοβάμβακα πάνω στις μπαταρίες. Η ομάδα των μπαταριών είπε ότι ήταν για τον θόρυβο· η ομάδα του θορύβου είπε ότι ήταν για την πυρασφάλεια. Στην ουσία δεν τα χρειαζόταν κανείς. Μια δοκιμή χωρίς αυτά δεν έδειξε καμία διαφορά, και το βήμα σβήστηκε."
+      },
+      "apply": {
+        "en": "List every step from «client says yes» to «site is live». Next to each, write who asked for it and why. Delete three steps, for example a second approval email or a document nobody reads. Add one back only if something actually breaks.",
+        "el": "Γράψε κάθε βήμα από το «ο πελάτης είπε ναι» μέχρι το «η ιστοσελίδα βγήκε στον αέρα». Δίπλα σε καθένα, γράψε ποιος το ζήτησε και γιατί. Σβήσε τρία βήματα, για παράδειγμα ένα δεύτερο email έγκρισης ή ένα έγγραφο που δεν διαβάζει κανείς. Ξαναβάλε κάποιο μόνο αν κάτι χαλάσει στ' αλήθεια."
+      },
+      "check": {
+        "q": {"en": "Why must every requirement carry a person's name?", "el": "Γιατί κάθε απαίτηση πρέπει να έχει το όνομα ενός ανθρώπου;"},
+        "options": [
+          {"en": "So someone can be blamed later", "el": "Για να υπάρχει κάποιος να φορτωθεί την ευθύνη"},
+          {"en": "So you can ask that person why it exists", "el": "Για να ρωτήσεις αυτόν τον άνθρωπο γιατί υπάρχει"},
+          {"en": "So the department gets the credit", "el": "Για να πάρει το τμήμα τα εύσημα"}
+        ],
+        "answer": 1,
+        "why": {"en": "A name lets you challenge the requirement; a department can never explain itself.", "el": "Ένα όνομα σου επιτρέπει να αμφισβητήσεις την απαίτηση· ένα τμήμα δεν μπορεί ποτέ να εξηγήσει τον εαυτό του."}
+      }
+    },
+    {
+      "title": {"en": "Simplify, speed up, automate last", "el": "Απλοποίησε, επιτάχυνε, αυτοματοποίησε στο τέλος"},
+      "explain": {
+        "en": "The last three steps of the algorithm. Step three: simplify and optimise, but only after deleting, because a common mistake is perfecting something that should not exist. Step four: speed up the cycle. Step five, and only then: automate. Musk says he learned this order the hard way, by doing the steps backwards himself.",
+        "el": "Τα τρία τελευταία βήματα του αλγόριθμου. Τρίτο: απλοποίησε και βελτίωσε, αλλά μόνο αφού σβήσεις, γιατί ένα συνηθισμένο λάθος είναι να τελειοποιείς κάτι που δεν θα έπρεπε να υπάρχει. Τέταρτο: επιτάχυνε τον κύκλο. Πέμπτο, και μόνο τότε: αυτοματοποίησε. Ο Μασκ λέει ότι έμαθε αυτή τη σειρά με τον δύσκολο τρόπο, κάνοντας ο ίδιος τα βήματα ανάποδα."
+      },
+      "example": {
+        "en": "For the Model 3, Musk pushed for a hugely automated factory. Robots kept failing at simple jobs, and production stalled in 2018. He admitted publicly that too much automation had been a mistake, removed some robots and put people back on parts of the line.",
+        "el": "Για το Model 3, ο Μασκ πίεσε για ένα υπερβολικά αυτοματοποιημένο εργοστάσιο. Τα ρομπότ αποτύγχαναν σε απλές δουλειές και η παραγωγή κόλλησε το 2018. Παραδέχτηκε δημόσια ότι η υπερβολική αυτοματοποίηση ήταν λάθος, έβγαλε κάποια ρομπότ και ξανάβαλε ανθρώπους σε κομμάτια της γραμμής."
+      },
+      "apply": {
+        "en": "Before you automate a process with AI or scripts, first delete the useless steps, then simplify what is left, then make it fast by hand. Only when the process is clean and stable, write the script. Never automate a mess.",
+        "el": "Πριν αυτοματοποιήσεις μια διαδικασία με AI ή scripts, σβήσε πρώτα τα άχρηστα βήματα, μετά απλοποίησε ό,τι έμεινε, μετά κάν' το γρήγορο με το χέρι. Μόνο όταν η διαδικασία είναι καθαρή και σταθερή, γράψε το script. Ποτέ μην αυτοματοποιείς ένα χάος."
+      },
+      "check": {
+        "q": {"en": "What did Musk learn from the Model 3 robots?", "el": "Τι έμαθε ο Μασκ από τα ρομπότ του Model 3;"},
+        "options": [
+          {"en": "Automate only after deleting and simplifying", "el": "Να αυτοματοποιείς μόνο αφού σβήσεις και απλοποιήσεις"},
+          {"en": "Robots always beat people", "el": "Τα ρομπότ νικούν πάντα τους ανθρώπους"},
+          {"en": "Automation should come first", "el": "Η αυτοματοποίηση πρέπει να έρχεται πρώτη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Automating too early locked in waste; the order is delete, simplify, speed up, then automate.", "el": "Η πρόωρη αυτοματοποίηση κλείδωσε τη σπατάλη· η σειρά είναι σβήσε, απλοποίησε, επιτάχυνε, και μετά αυτοματοποίησε."}
+      }
+    },
+    {
+      "title": {"en": "A maniacal sense of urgency", "el": "Μανιακή αίσθηση του επείγοντος"},
+      "explain": {
+        "en": "Musk treats speed as a weapon. He sets very short deadlines, calls surges where everyone drops everything to break one bottleneck, and sleeps at the factory when things are bad. One of his rules is that a maniacal sense of urgency is the operating principle. Speed shortens learning cycles, and more cycles beat a slower, smarter rival.",
+        "el": "Ο Μασκ χρησιμοποιεί την ταχύτητα σαν όπλο. Βάζει πολύ σύντομες προθεσμίες, κηρύσσει «surges», όπου όλοι αφήνουν τα πάντα για να σπάσουν ένα μπλόκο, και κοιμάται στο εργοστάσιο όταν τα πράγματα είναι άσχημα. Ένας από τους κανόνες του είναι ότι η μανιακή αίσθηση του επείγοντος είναι η βασική αρχή λειτουργίας. Η ταχύτητα κονταίνει τους κύκλους μάθησης, και περισσότεροι κύκλοι νικούν έναν πιο αργό, πιο έξυπνο αντίπαλο."
+      },
+      "example": {
+        "en": "In 2018, unable to reach 5,000 Model 3 cars a week, Musk had a new assembly line built in a few weeks inside a giant tent in the Fremont factory's parking lot. He slept on the factory floor at times. By the end of June 2018 Tesla hit the target.",
+        "el": "Το 2018, μη μπορώντας να φτάσει τα 5.000 Model 3 την εβδομάδα, ο Μασκ έβαλε να στηθεί σε λίγες εβδομάδες μια νέα γραμμή συναρμολόγησης μέσα σε μια τεράστια σκηνή στο πάρκινγκ του εργοστασίου στο Φρίμοντ. Κάποιες νύχτες κοιμόταν στο πάτωμα του εργοστασίου. Στο τέλος Ιουνίου του 2018 η Tesla έπιασε τον στόχο."
+      },
+      "apply": {
+        "en": "When one bottleneck blocks you, like ten sites waiting for client photos, declare a two-day surge: call each client, collect the material, finish the drafts. Then return to a normal pace. Short surges on one bottleneck, not permanent panic.",
+        "el": "Όταν ένα μπλόκο σε κρατά, όπως δέκα ιστοσελίδες που περιμένουν φωτογραφίες από πελάτες, κήρυξε ένα διήμερο «surge»: πάρε τηλέφωνο κάθε πελάτη, μάζεψε το υλικό, τελείωσε τα drafts. Μετά γύρνα σε κανονικό ρυθμό. Σύντομες εφόδους σε ένα μπλόκο, όχι μόνιμο πανικό."
+      },
+      "check": {
+        "q": {"en": "What is a surge in Musk's companies?", "el": "Τι είναι ένα «surge» στις εταιρείες του Μασκ;"},
+        "options": [
+          {"en": "A yearly bonus for top staff", "el": "Ένα ετήσιο μπόνους για τους καλύτερους"},
+          {"en": "An all-out push on one bottleneck", "el": "Μια ολική έφοδος σε ένα μπλόκο"},
+          {"en": "A big product launch event", "el": "Μια μεγάλη εκδήλωση παρουσίασης προϊόντος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Everyone drops other work for a short time to break the one thing slowing everything.", "el": "Όλοι αφήνουν για λίγο τις άλλες δουλειές για να σπάσουν το ένα πράγμα που καθυστερεί τα πάντα."}
+      }
+    },
+    {
+      "title": {"en": "Lead from the factory floor", "el": "Ηγήσου από την πρώτη γραμμή"},
+      "explain": {
+        "en": "Musk spends much of his time on production lines and in engineering reviews, not in boardrooms. His rules for managers include: technical managers must have hands-on experience, and when there is a problem, skip the layers of managers and talk directly to the people doing the work. He believes you cannot fix what you do not see.",
+        "el": "Ο Μασκ περνά μεγάλο μέρος του χρόνου του στις γραμμές παραγωγής και στις τεχνικές συσκέψεις, όχι σε αίθουσες συμβουλίων. Οι κανόνες του για τα στελέχη λένε, μεταξύ άλλων, ότι οι τεχνικοί προϊστάμενοι πρέπει να έχουν δουλέψει οι ίδιοι με τα χέρια, και ότι όταν υπάρχει πρόβλημα παρακάμπτεις τα κλιμάκια και μιλάς απευθείας με όσους κάνουν τη δουλειά. Πιστεύει ότι δεν διορθώνεις αυτό που δεν βλέπεις."
+      },
+      "example": {
+        "en": "Isaacson follows Musk late at night along factory lines and around Starbase in Texas, walking the production area, asking workers why a step is slow and making decisions on the spot. Engineers often sat close to production, so design and manufacturing could not drift apart.",
+        "el": "Ο Άιζακσον ακολουθεί τον Μασκ αργά τη νύχτα στις γραμμές των εργοστασίων και στη Starbase στο Τέξας: περπατά στον χώρο παραγωγής, ρωτά τους εργάτες γιατί ένα βήμα αργεί και αποφασίζει επί τόπου. Οι μηχανικοί κάθονταν συχνά κοντά στην παραγωγή, ώστε ο σχεδιασμός και η κατασκευή να μην απομακρύνονται."
+      },
+      "apply": {
+        "en": "Once a month, do your team's full job for one day: handle the client chat, make the changes, chase late payers. You will see which steps are slow or confusing. Fix them with your team the next day.",
+        "el": "Μία φορά τον μήνα, κάνε για μία μέρα ολόκληρη τη δουλειά της ομάδας σου: πάρε το chat με τους πελάτες, κάνε τις αλλαγές, κυνήγα τις καθυστερημένες πληρωμές. Θα δεις ποια βήματα είναι αργά ή μπερδεμένα. Διόρθωσέ τα με την ομάδα σου την επόμενη μέρα."
+      },
+      "check": {
+        "q": {"en": "Why does Musk skip layers of managers?", "el": "Γιατί ο Μασκ παρακάμπτει τα κλιμάκια των στελεχών;"},
+        "options": [
+          {"en": "To save on salaries", "el": "Για να γλιτώσει μισθούς"},
+          {"en": "To avoid hard conversations", "el": "Για να αποφύγει δύσκολες κουβέντες"},
+          {"en": "To hear the truth from people doing the work", "el": "Για να ακούσει την αλήθεια από όσους κάνουν τη δουλειά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Problems are clearest where the work happens, not in reports passed upward.", "el": "Τα προβλήματα φαίνονται καθαρότερα εκεί που γίνεται η δουλειά, όχι σε αναφορές που ανεβαίνουν προς τα πάνω."}
+      }
+    },
+    {
+      "title": {"en": "Reuse what others throw away", "el": "Ξαναχρησιμοποίησε ό,τι πετούν οι άλλοι"},
+      "explain": {
+        "en": "For decades, rockets were used once and dropped into the sea, like throwing away a plane after every flight. Musk saw that waste as the true barrier to space. He pushed SpaceX to land and reuse the booster, the most expensive part. Many experts doubted it would ever pay off; it became a main reason SpaceX now dominates launches.",
+        "el": "Για δεκαετίες οι πύραυλοι χρησιμοποιούνταν μία φορά και έπεφταν στη θάλασσα, σαν να πετάς ένα αεροπλάνο μετά από κάθε πτήση. Ο Μασκ είδε αυτή τη σπατάλη ως το πραγματικό εμπόδιο για το διάστημα. Έσπρωξε τη SpaceX να προσγειώνει και να ξαναχρησιμοποιεί το πρώτο στάδιο, το πιο ακριβό κομμάτι. Πολλοί ειδικοί αμφέβαλλαν ότι θα συνέφερε ποτέ· έγινε βασικός λόγος που η SpaceX κυριαρχεί σήμερα στις εκτοξεύσεις."
+      },
+      "example": {
+        "en": "In December 2015 a Falcon 9 booster landed upright back at Cape Canaveral for the first time. Landing and reflying boosters then became routine, with some boosters flying many times. The cost of reaching orbit dropped sharply.",
+        "el": "Τον Δεκέμβριο του 2015 ένα πρώτο στάδιο Falcon 9 προσγειώθηκε όρθιο στο Κέιπ Κανάβεραλ για πρώτη φορά. Από εκεί και πέρα η προσγείωση και η επαναχρησιμοποίηση έγιναν ρουτίνα, με κάποια στάδια να πετούν πολλές φορές. Το κόστος για να φτάσεις σε τροχιά έπεσε κατακόρυφα."
+      },
+      "apply": {
+        "en": "Stop building each site from zero. Turn your best sections, like heroes, review blocks, contact forms and privacy pages, into tested building blocks you reuse and adapt. Each new site then starts most of the way to the finish line.",
+        "el": "Σταμάτα να φτιάχνεις κάθε ιστοσελίδα από το μηδέν. Κάνε τα καλύτερα κομμάτια σου, heroes, ενότητες κριτικών, φόρμες επικοινωνίας και σελίδες απορρήτου, δοκιμασμένα δομικά στοιχεία που ξαναχρησιμοποιείς και προσαρμόζεις. Έτσι κάθε νέα ιστοσελίδα ξεκινά ήδη κοντά στη γραμμή του τερματισμού."
+      },
+      "check": {
+        "q": {"en": "Why was reusing boosters so important?", "el": "Γιατί ήταν τόσο σημαντική η επαναχρησιμοποίηση των σταδίων;"},
+        "options": [
+          {"en": "It made launches look more impressive", "el": "Έκανε τις εκτοξεύσεις πιο εντυπωσιακές"},
+          {"en": "Throwing away the costliest part kept launches expensive", "el": "Το πέταμα του πιο ακριβού κομματιού κρατούσε τις εκτοξεύσεις ακριβές"},
+          {"en": "NASA required it in every contract", "el": "Η NASA το απαιτούσε σε κάθε συμβόλαιο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Reusing the most expensive part attacked the real cost of getting to space.", "el": "Η επαναχρησιμοποίηση του πιο ακριβού κομματιού χτύπησε το πραγματικό κόστος για να φτάσεις στο διάστημα."}
+      }
+    },
+    {
+      "title": {"en": "Build, blow up, learn", "el": "Φτιάξε, ανατίναξε, μάθε"},
+      "explain": {
+        "en": "SpaceX tests real hardware early and accepts that it will often explode. Each failure gives data that years of simulation would not. Musk weighs the cost of a lost prototype against the cost of a slow program, and usually picks speed. The key is that the failures are planned tests with lessons, not careless accidents.",
+        "el": "Η SpaceX δοκιμάζει νωρίς πραγματικό υλικό και δέχεται ότι συχνά θα ανατιναχτεί. Κάθε αποτυχία δίνει δεδομένα που χρόνια προσομοιώσεων δεν θα έδιναν. Ο Μασκ ζυγίζει το κόστος ενός χαμένου πρωτοτύπου απέναντι στο κόστος ενός αργού προγράμματος, και συνήθως διαλέγει την ταχύτητα. Το κλειδί είναι ότι οι αποτυχίες είναι σχεδιασμένες δοκιμές με μαθήματα, όχι ατυχήματα από αμέλεια."
+      },
+      "example": {
+        "en": "On 20 April 2023 the first full Starship launched from Texas. Several engines failed, it tumbled and was destroyed about four minutes into the flight, and the launch pad was badly damaged. Musk and his team still counted it as a step forward: it cleared the tower and gave data for the next flight.",
+        "el": "Στις 20 Απριλίου 2023 εκτοξεύτηκε από το Τέξας το πρώτο πλήρες Starship. Αρκετοί κινητήρες έσβησαν, άρχισε να στριφογυρίζει και καταστράφηκε περίπου τέσσερα λεπτά μετά την απογείωση, ενώ η εξέδρα υπέστη μεγάλη ζημιά. Ο Μασκ και η ομάδα του το μέτρησαν ως βήμα μπροστά: ξεπέρασε τον πύργο και έδωσε δεδομένα για την επόμενη πτήση."
+      },
+      "apply": {
+        "en": "Run a small test this week instead of planning for a month: one new ad, one reel format or one new call opening, with a limit like 50€ or 30 calls. Write what you learned, change one thing, and run the next test.",
+        "el": "Κάνε ένα μικρό τεστ αυτή την εβδομάδα αντί να σχεδιάζεις για έναν μήνα: μία νέα διαφήμιση, ένα νέο format για reel ή μια νέα αρχή στα τηλέφωνα, με όριο όπως 50€ ή 30 κλήσεις. Γράψε τι έμαθες, άλλαξε ένα πράγμα και τρέξε το επόμενο τεστ."
+      },
+      "check": {
+        "q": {"en": "What makes a failure useful in Musk's approach?", "el": "Τι κάνει μια αποτυχία χρήσιμη στη λογική του Μασκ;"},
+        "options": [
+          {"en": "It is a planned test that produces lessons", "el": "Είναι σχεδιασμένη δοκιμή που βγάζει μαθήματα"},
+          {"en": "It is hidden from investors", "el": "Κρύβεται από τους επενδυτές"},
+          {"en": "It never happens twice in a row", "el": "Δεν συμβαίνει ποτέ δύο φορές στη σειρά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Fast, planned tests turn each failure into data for the next try.", "el": "Οι γρήγορες, σχεδιασμένες δοκιμές κάνουν κάθε αποτυχία δεδομένα για την επόμενη προσπάθεια."}
+      }
+    },
+    {
+      "title": {"en": "Put the weight on the ground", "el": "Βάλε το βάρος στο έδαφος"},
+      "explain": {
+        "en": "A rocket must carry every kilo on board, so every extra part costs performance. Musk asked why the Super Heavy booster should carry heavy landing legs at all. His answer: let the launch tower catch it. Moving complexity off the flying vehicle and onto the ground saves weight and makes reuse faster. The bigger lesson: put complexity where it is cheapest to carry.",
+        "el": "Ένας πύραυλος κουβαλά κάθε κιλό που έχει πάνω του, άρα κάθε επιπλέον κομμάτι του κοστίζει σε επιδόσεις. Ο Μασκ ρώτησε γιατί το πρώτο στάδιο Super Heavy να κουβαλά καθόλου βαριά πόδια προσγείωσης. Η απάντησή του: να το πιάνει ο πύργος εκτόξευσης. Μεταφέροντας την πολυπλοκότητα από το όχημα που πετά στο έδαφος, κερδίζεις βάρος και κάνεις την επαναχρησιμοποίηση πιο γρήγορη. Το μεγαλύτερο μάθημα: βάλε την πολυπλοκότητα εκεί που κοστίζει λιγότερο."
+      },
+      "example": {
+        "en": "In late 2020 Musk decided the booster would have no landing legs. Instead, two huge arms on the launch tower, nicknamed chopsticks, would catch it as it came back down. Engineers were sceptical, but the decision cut weight and opened the way to much faster reuse.",
+        "el": "Στα τέλη του 2020 ο Μασκ αποφάσισε ότι το πρώτο στάδιο δεν θα έχει πόδια προσγείωσης. Αντί γι' αυτά, δύο τεράστιοι βραχίονες στον πύργο, με το παρατσούκλι «chopsticks», δηλαδή ξυλάκια, θα το έπιαναν καθώς επέστρεφε. Οι μηχανικοί ήταν δύσπιστοι, αλλά η απόφαση έκοψε βάρος και άνοιξε τον δρόμο για πολύ πιο γρήγορη επαναχρησιμοποίηση."
+      },
+      "apply": {
+        "en": "Move complexity away from the client. Instead of asking a busy doctor to fill a long form, do a ten-minute call and let your template and AI do the heavy lifting. The client's side should feel light; the weight should sit in your system.",
+        "el": "Πάρε την πολυπλοκότητα μακριά από τον πελάτη. Αντί να ζητάς από έναν πολυάσχολο γιατρό να συμπληρώσει μια μεγάλη φόρμα, κάνε ένα τηλέφωνο δέκα λεπτών και άφησε το template σου και το AI να σηκώσουν το βάρος. Από την πλευρά του πελάτη όλα πρέπει να είναι ελαφριά· το βάρος να κάθεται στο δικό σου σύστημα."
+      },
+      "check": {
+        "q": {"en": "What is the lesson behind the chopsticks?", "el": "Ποιο είναι το μάθημα πίσω από τα «chopsticks»;"},
+        "options": [
+          {"en": "Make every part as complex as possible", "el": "Κάνε κάθε κομμάτι όσο πιο περίπλοκο γίνεται"},
+          {"en": "Put complexity where it costs least", "el": "Βάλε την πολυπλοκότητα εκεί που κοστίζει λιγότερο"},
+          {"en": "Always copy the competitor's design", "el": "Αντέγραφε πάντα τον σχεδιασμό του ανταγωνιστή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Weight on a flying rocket is costly; weight on a tower on the ground is cheap.", "el": "Το βάρος πάνω σε πύραυλο που πετά κοστίζει ακριβά· το βάρος σε έναν πύργο στο έδαφος είναι φτηνό."}
+      }
+    },
+    {
+      "title": {"en": "Elon time", "el": "Η «ώρα του Έλον»"},
+      "explain": {
+        "en": "Musk sets deadlines that are often impossible on purpose. He believes a crazy deadline forces teams to drop old assumptions and find faster ways. It works often enough: things happen faster than anyone else expected, even if later than he promised. But missed promises cost him trust, and people inside his companies joke about «Elon time».",
+        "el": "Ο Μασκ βάζει συχνά σκόπιμα προθεσμίες που είναι αδύνατες. Πιστεύει ότι μια τρελή προθεσμία αναγκάζει τις ομάδες να πετάξουν παλιές παραδοχές και να βρουν γρηγορότερους δρόμους. Δουλεύει αρκετά συχνά: τα πράγματα γίνονται πιο γρήγορα απ' ό,τι περίμενε οποιοσδήποτε άλλος, ακόμα κι αν αργότερα απ' ό,τι υποσχέθηκε. Οι χαμένες υποσχέσεις όμως του κοστίζουν σε εμπιστοσύνη, και μέσα στις εταιρείες του αστειεύονται για την «ώρα του Έλον»."
+      },
+      "example": {
+        "en": "For years Musk said fully self-driving Teslas were about a year away. Each year the date slipped. The pressure pushed the work forward, but critics and customers used the missed promises to question his other claims.",
+        "el": "Για χρόνια ο Μασκ έλεγε ότι τα πλήρως αυτόνομα Tesla ήταν περίπου έναν χρόνο μακριά. Κάθε χρόνο η ημερομηνία μετατοπιζόταν. Η πίεση έσπρωχνε τη δουλειά μπροστά, αλλά επικριτές και πελάτες χρησιμοποιούσαν τις χαμένες υποσχέσεις για να αμφισβητήσουν και άλλους ισχυρισμούς του."
+      },
+      "apply": {
+        "en": "Use stretch deadlines inside the team, never with clients. Tell the team «draft in 48 hours» to push speed, but tell the dentist a date you are sure of, like «Monday». Promise clients less than you can do, push hard internally.",
+        "el": "Χρησιμοποίησε φιλόδοξες προθεσμίες μέσα στην ομάδα, ποτέ με τους πελάτες. Πες στην ομάδα «draft σε 48 ώρες» για να ανεβάσεις ταχύτητα, αλλά στον οδοντίατρο πες μια ημερομηνία που είσαι σίγουρος: «Τη Δευτέρα θα την έχετε.» Υπόσχεσαι στους πελάτες λιγότερα απ' όσα μπορείς, πιέζεις δυνατά εσωτερικά."
+      },
+      "check": {
+        "q": {"en": "What is the hidden cost of «Elon time»?", "el": "Ποιο είναι το κρυφό κόστος της «ώρας του Έλον»;"},
+        "options": [
+          {"en": "Lost trust when promises are missed", "el": "Χαμένη εμπιστοσύνη όταν οι υποσχέσεις δεν τηρούνται"},
+          {"en": "Teams start working too slowly", "el": "Οι ομάδες αρχίζουν να δουλεύουν πολύ αργά"},
+          {"en": "Products become far too cheap", "el": "Τα προϊόντα γίνονται υπερβολικά φτηνά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Crazy deadlines speed teams up, but broken public promises damage credibility.", "el": "Οι τρελές προθεσμίες επιταχύνουν τις ομάδες, αλλά οι δημόσιες υποσχέσεις που δεν τηρούνται χαλάνε την αξιοπιστία."}
+      }
+    },
+    {
+      "title": {"en": "Extremely hardcore", "el": "Όλοι μέσα, στο έπακρο"},
+      "explain": {
+        "en": "Musk wants teams of people who are all in. He sees comfort and large headcounts as enemies of great work, and prefers a small team of very committed people working long hours over a large team working normal ones. This creates fierce focus and speed. The book shows it also burns people out and drives many good people away.",
+        "el": "Ο Μασκ θέλει ομάδες από ανθρώπους που δίνουν τα πάντα. Θεωρεί την άνεση και τα πολλά άτομα εχθρούς της σπουδαίας δουλειάς, και προτιμά μια μικρή ομάδα πολύ αφοσιωμένων που δουλεύουν πολλές ώρες από μια μεγάλη που δουλεύει κανονικό ωράριο. Αυτό φέρνει άγρια συγκέντρωση και ταχύτητα. Το βιβλίο δείχνει ότι επίσης εξαντλεί τους ανθρώπους και διώχνει πολλούς καλούς."
+      },
+      "example": {
+        "en": "In November 2022, weeks after buying Twitter, Musk emailed all staff that the company would be extremely hardcore, with long hours at high intensity. Anyone who wanted to stay had to click yes by the next day. Those who did not click were treated as having resigned, and many left.",
+        "el": "Τον Νοέμβριο του 2022, λίγες εβδομάδες αφού αγόρασε το Twitter, ο Μασκ έστειλε email σε όλο το προσωπικό ότι η εταιρεία θα γίνει «extremely hardcore», με πολλές ώρες σε μεγάλη ένταση. Όποιος ήθελε να μείνει έπρεπε να πατήσει «ναι» μέχρι την επόμενη μέρα. Όσοι δεν πάτησαν θεωρήθηκαν παραιτημένοι, και πολλοί έφυγαν."
+      },
+      "apply": {
+        "en": "Be clear about what you expect before people join: response times, hours, quality. Let them choose. Reward those who go all in with real responsibility and fair pay, but never demand round-the-clock work from a freelancer you pay part time.",
+        "el": "Πες καθαρά τι περιμένεις πριν μπει κάποιος στην ομάδα: χρόνους απάντησης, ώρες, ποιότητα. Άφησέ τον να διαλέξει. Επιβράβευσε όσους δίνουν τα πάντα με πραγματική ευθύνη και δίκαιη αμοιβή, αλλά ποτέ μη ζητάς δουλειά όλο το εικοσιτετράωρο από έναν freelancer που πληρώνεις για λίγες ώρες."
+      },
+      "check": {
+        "q": {"en": "What does the book show about the hardcore approach?", "el": "Τι δείχνει το βιβλίο για τη «hardcore» λογική;"},
+        "options": [
+          {"en": "It brings speed but also burnout and departures", "el": "Φέρνει ταχύτητα αλλά και εξάντληση και αποχωρήσεις"},
+          {"en": "It has no downside at all", "el": "Δεν έχει κανένα μειονέκτημα"},
+          {"en": "It works only in very large teams", "el": "Δουλεύει μόνο σε πολύ μεγάλες ομάδες"}
+        ],
+        "answer": 0,
+        "why": {"en": "The book shows both sides: intense focus, and many people exhausted or leaving.", "el": "Το βιβλίο δείχνει και τις δύο πλευρές: έντονη συγκέντρωση, αλλά και πολλούς εξαντλημένους ή να φεύγουν."}
+      }
+    },
+    {
+      "title": {"en": "Buying Twitter on impulse", "el": "Η αγορά του Twitter με παρόρμηση"},
+      "explain": {
+        "en": "Isaacson shows how the Twitter deal grew from a mood more than a plan. Musk started buying shares, then offered to buy the whole company, then tried to back out, and was finally pushed to complete the purchase at the high price he had offered. He then fired most of the staff and rebuilt it his way. Big, sudden decisions made in a mood are expensive.",
+        "el": "Ο Άιζακσον δείχνει πώς η συμφωνία για το Twitter φύτρωσε περισσότερο από μια διάθεση παρά από ένα σχέδιο. Ο Μασκ άρχισε να αγοράζει μετοχές, μετά πρότεινε να αγοράσει όλη την εταιρεία, μετά προσπάθησε να κάνει πίσω, και τελικά αναγκάστηκε να ολοκληρώσει την αγορά στην υψηλή τιμή που είχε προτείνει. Ύστερα απέλυσε το μεγαλύτερο μέρος του προσωπικού και την ξανάστησε με τον δικό του τρόπο. Οι μεγάλες, ξαφνικές αποφάσεις πάνω σε μια διάθεση κοστίζουν ακριβά."
+      },
+      "example": {
+        "en": "In April 2022 Musk offered about 44 billion dollars for Twitter. When he tried to withdraw, Twitter sued, and he closed the deal in October 2022. He walked into headquarters carrying a sink, fired top executives on the first day and, in the months after, cut about three quarters of the staff. Many advertisers left.",
+        "el": "Τον Απρίλιο του 2022 ο Μασκ πρότεινε περίπου 44 δισεκατομμύρια δολάρια για το Twitter. Όταν προσπάθησε να αποσυρθεί, το Twitter τον έσυρε στα δικαστήρια, και έκλεισε τη συμφωνία τον Οκτώβριο του 2022. Μπήκε στα κεντρικά γραφεία κρατώντας έναν νεροχύτη, απέλυσε τα κορυφαία στελέχη την πρώτη μέρα και τους επόμενους μήνες έκοψε περίπου τα τρία τέταρτα του προσωπικού. Πολλοί διαφημιζόμενοι έφυγαν."
+      },
+      "apply": {
+        "en": "Never decide a big thing, like a new partner, a price change or a large purchase, on the day you feel the urge. Write it down, sleep two nights on it, and ask one person you trust to argue against it. Then decide.",
+        "el": "Μην αποφασίζεις ποτέ κάτι μεγάλο, έναν νέο συνεργάτη, μια αλλαγή τιμής ή μια μεγάλη αγορά, την ίδια μέρα που σε πιάνει η όρεξη. Γράψ' το, κοιμήσου δύο νύχτες πάνω του και ζήτα από έναν άνθρωπο που εμπιστεύεσαι να σου πει τα επιχειρήματα εναντίον. Μετά αποφάσισε."
+      },
+      "check": {
+        "q": {"en": "What does the Twitter story warn about?", "el": "Για τι προειδοποιεί η ιστορία του Twitter;"},
+        "options": [
+          {"en": "Thinking too long before acting", "el": "Να σκέφτεσαι υπερβολικά πριν δράσεις"},
+          {"en": "Buying companies too cheaply", "el": "Να αγοράζεις εταιρείες πολύ φτηνά"},
+          {"en": "Making huge decisions in the heat of a mood", "el": "Να παίρνεις τεράστιες αποφάσεις στη ζέστη μιας διάθεσης"}
+        ],
+        "answer": 2,
+        "why": {"en": "The deal started on impulse, and backing out proved impossible and costly.", "el": "Η συμφωνία ξεκίνησε από παρόρμηση, και η υπαναχώρηση αποδείχτηκε αδύνατη και ακριβή."}
+      }
+    },
+    {
+      "title": {"en": "Demon mode", "el": "Η «δαιμονική» κατάσταση"},
+      "explain": {
+        "en": "People close to Musk describe a dark state they call demon mode, a phrase from his former partner Grimes. In it he turns cold, harsh and fixed on one goal, sometimes humiliating people in meetings. Isaacson notes it can drive results and also does real damage, and those around him learn to wait it out. The lesson: notice your own dark modes and keep them away from people.",
+        "el": "Οι κοντινοί του Μασκ περιγράφουν μια σκοτεινή κατάσταση που τη λένε «demon mode», έκφραση της πρώην συντρόφου του, της Grimes. Σε αυτήν γίνεται ψυχρός, σκληρός και καρφωμένος σε έναν στόχο, και καμιά φορά ταπεινώνει ανθρώπους σε συσκέψεις. Ο Άιζακσον σημειώνει ότι μπορεί να φέρνει αποτελέσματα αλλά κάνει και πραγματική ζημιά, και όσοι είναι γύρω του μαθαίνουν να περιμένουν να περάσει. Το μάθημα: πρόσεξε τις δικές σου σκοτεινές καταστάσεις και κράτα τες μακριά από τους ανθρώπους."
+      },
+      "example": {
+        "en": "Isaacson describes meetings where Musk went silent, then tore into an engineer's work in front of others or fired someone on the spot. Hours later he could be cheerful and joking as if nothing had happened, while the people affected were still shaken.",
+        "el": "Ο Άιζακσον περιγράφει συσκέψεις όπου ο Μασκ σώπαινε, μετά κατακεραύνωνε τη δουλειά ενός μηχανικού μπροστά σε όλους ή απέλυε κάποιον επί τόπου. Λίγες ώρες αργότερα μπορούσε να είναι χαρούμενος και να αστειεύεται σαν να μην είχε γίνει τίποτα, ενώ όσοι είχαν δεχτεί την επίθεση έμεναν ακόμα ταραγμένοι."
+      },
+      "apply": {
+        "en": "When you feel anger rising at a team member or a slow client, do not send that message. Write it in your notes, wait an hour, then criticise the work, not the person: «This hero does not work on mobile, let's fix it like this.»",
+        "el": "Όταν νιώθεις τον θυμό να ανεβαίνει με κάποιον από την ομάδα ή με έναν πελάτη που αργεί, μη στείλεις εκείνο το μήνυμα. Γράψ' το στις σημειώσεις σου, περίμενε μία ώρα, και μετά κριτίκαρε τη δουλειά, όχι τον άνθρωπο: «Αυτό το hero δεν δουλεύει στο κινητό, ας το φτιάξουμε έτσι.»"
+      },
+      "check": {
+        "q": {"en": "What does Musk's demon mode teach a leader?", "el": "Τι διδάσκει σε έναν ηγέτη η «δαιμονική» κατάσταση του Μασκ;"},
+        "options": [
+          {"en": "Keep your dark moods away from people", "el": "Να κρατάς τις σκοτεινές σου διαθέσεις μακριά από τους ανθρώπους"},
+          {"en": "Harsh moods are the secret of results", "el": "Οι σκληρές διαθέσεις είναι το μυστικό των αποτελεσμάτων"},
+          {"en": "Always hide every feeling completely", "el": "Να κρύβεις πάντα εντελώς κάθε συναίσθημα"}
+        ],
+        "answer": 0,
+        "why": {"en": "The book shows the damage those moods do to people; notice yours and do not unload them.", "el": "Το βιβλίο δείχνει τη ζημιά που κάνουν αυτές οι διαθέσεις στους ανθρώπους· πρόσεξε τις δικές σου και μην τις ξεφορτώνεις πάνω τους."}
+      }
+    },
+    {
+      "title": {"en": "Think before you post", "el": "Σκέψου πριν δημοσιεύσεις"},
+      "explain": {
+        "en": "Many of Musk's worst troubles came from a single impulsive post or snap public decision. A few words written late at night have cost him money, legal trouble and trust. Isaacson shows the pattern again and again: a sudden idea, posted at once, then days of damage control. Public words are permanent, so give them a pause.",
+        "el": "Πολλά από τα χειρότερα μπλεξίματα του Μασκ ήρθαν από μία παρορμητική ανάρτηση ή μια βιαστική δημόσια απόφαση. Λίγες λέξεις γραμμένες αργά τη νύχτα τού κόστισαν λεφτά, νομικά προβλήματα και εμπιστοσύνη. Ο Άιζακσον δείχνει το ίδιο μοτίβο ξανά και ξανά: μια ξαφνική ιδέα, ανεβασμένη αμέσως, και μετά μέρες για να μαζευτεί η ζημιά. Τα δημόσια λόγια μένουν για πάντα, γι' αυτό δώσ' τους μια παύση."
+      },
+      "example": {
+        "en": "In August 2018 Musk tweeted that he was considering taking Tesla private and that funding was secured. It was not truly secured. The US market regulator, the SEC, sued. He and Tesla each paid 20 million dollars, and he had to step down as Tesla's chairman.",
+        "el": "Τον Αύγουστο του 2018 ο Μασκ έγραψε στο Twitter ότι σκέφτεται να αποσύρει την Tesla από το χρηματιστήριο και ότι η χρηματοδότηση είναι εξασφαλισμένη. Δεν ήταν πραγματικά εξασφαλισμένη. Η αμερικανική επιτροπή κεφαλαιαγοράς, η SEC, του έκανε αγωγή. Εκείνος και η Tesla πλήρωσαν από 20 εκατομμύρια δολάρια, και αναγκάστηκε να παραιτηθεί από πρόεδρος του διοικητικού συμβουλίου της Tesla."
+      },
+      "apply": {
+        "en": "Before you post a reel, answer a review or reply to a public comment while annoyed, wait until the next morning. Read it as a potential client would. For prices and promises in ads, double-check every number before it goes live.",
+        "el": "Πριν ανεβάσεις ένα reel, απαντήσεις σε μια κριτική ή γράψεις σε ένα δημόσιο σχόλιο ενώ είσαι εκνευρισμένος, περίμενε μέχρι το επόμενο πρωί. Διάβασέ το σαν να είσαι υποψήφιος πελάτης. Για τιμές και υποσχέσεις στις διαφημίσεις, έλεγξε δύο φορές κάθε νούμερο πριν βγει στον αέρα."
+      },
+      "check": {
+        "q": {"en": "What did the «funding secured» tweet cost Musk?", "el": "Τι κόστισε στον Μασκ το tweet για την «εξασφαλισμένη χρηματοδότηση»;"},
+        "options": [
+          {"en": "Nothing, it was taken as a joke", "el": "Τίποτα, το πήραν για αστείο"},
+          {"en": "A large fine and his chairman role", "el": "Ένα μεγάλο πρόστιμο και τη θέση του προέδρου"},
+          {"en": "His job running SpaceX", "el": "Τη θέση του στη SpaceX"}
+        ],
+        "answer": 1,
+        "why": {"en": "The SEC case ended with 20 million dollar fines each and him stepping down as chairman.", "el": "Η υπόθεση με την SEC έκλεισε με πρόστιμο 20 εκατομμυρίων στον καθένα και την παραίτησή του από πρόεδρος."}
+      }
+    },
+    {
+      "title": {"en": "The whole package", "el": "Όλο το πακέτο"},
+      "explain": {
+        "en": "Isaacson ends with a hard question: could Musk's drive exist without his demons? The same traits that let him bet everything, ignore experts and push teams to the limit also make him reckless, harsh and impulsive. Isaacson does not give a neat answer. Your task is different: take the methods that work, like the algorithm and urgency, and leave the cruelty behind.",
+        "el": "Ο Άιζακσον κλείνει με μια δύσκολη ερώτηση: θα μπορούσε να υπάρχει η ορμή του Μασκ χωρίς τους δαίμονές του; Τα ίδια χαρακτηριστικά που τον αφήνουν να ποντάρει τα πάντα, να αγνοεί τους ειδικούς και να πιέζει τις ομάδες στο όριο, τον κάνουν και απερίσκεπτο, σκληρό και παρορμητικό. Ο Άιζακσον δεν δίνει μια καθαρή απάντηση. Η δική σου δουλειά είναι άλλη: κράτα τις μεθόδους που δουλεύουν, όπως τον αλγόριθμο και την ταχύτητα, και άφησε πίσω τη σκληρότητα."
+      },
+      "example": {
+        "en": "The book's last chapters run side by side: Starship's first full launch in April 2023, a historic step, and the turmoil at Twitter, with advertisers leaving and staff burned out. Isaacson places them together to show that both come from the same man and the same methods.",
+        "el": "Τα τελευταία κεφάλαια του βιβλίου τρέχουν παράλληλα: η πρώτη πλήρης εκτόξευση του Starship τον Απρίλιο του 2023, ένα ιστορικό βήμα, και η αναστάτωση στο Twitter, με διαφημιζόμενους να φεύγουν και προσωπικό εξαντλημένο. Ο Άιζακσον τα βάζει δίπλα δίπλα για να δείξει ότι και τα δύο βγαίνουν από τον ίδιο άνθρωπο και τις ίδιες μεθόδους."
+      },
+      "apply": {
+        "en": "Make two short lists: Musk habits you will use, like deleting steps, urgency and first principles, and ones you refuse, like public anger and impulsive decisions. Show the second list to someone close and ask them to tell you when you slip.",
+        "el": "Φτιάξε δύο μικρές λίστες: συνήθειες του Μασκ που θα κρατήσεις, όπως το σβήσιμο βημάτων, την ταχύτητα και τις πρώτες αρχές, και συνήθειες που αρνείσαι, όπως τον δημόσιο θυμό και τις παρορμητικές αποφάσεις. Δείξε τη δεύτερη λίστα σε κάποιον δικό σου και ζήτα του να σου λέει όταν γλιστράς."
+      },
+      "check": {
+        "q": {"en": "What is the best way to learn from Musk's story?", "el": "Ποιος είναι ο καλύτερος τρόπος να μάθεις από την ιστορία του Μασκ;"},
+        "options": [
+          {"en": "Copy everything, harshness included", "el": "Αντέγραψε τα πάντα, μαζί και τη σκληρότητα"},
+          {"en": "Ignore it, he is too extreme", "el": "Αγνόησέ την, είναι πολύ ακραίος"},
+          {"en": "Take the methods, leave the cruelty", "el": "Κράτα τις μεθόδους, άφησε τη σκληρότητα"}
+        ],
+        "answer": 2,
+        "why": {"en": "The methods can be learned and used without the damage his style causes.", "el": "Οι μέθοδοι μαθαίνονται και εφαρμόζονται χωρίς τη ζημιά που κάνει το στιλ του."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Your onboarding has eight steps, including a long questionnaire most clients never finish. Sites get delayed waiting for it. What do you do?", "el": "Η διαδικασία που ξεκινάς με νέο πελάτη έχει οκτώ βήματα, μαζί κι ένα μεγάλο ερωτηματολόγιο που οι περισσότεροι δεν τελειώνουν ποτέ. Οι ιστοσελίδες καθυστερούν περιμένοντάς το. Τι κάνεις;"},
+      "options": [
+        {"en": "Make the questionnaire prettier and send reminders", "el": "Κάνεις το ερωτηματολόγιο πιο όμορφο και στέλνεις υπενθυμίσεις"},
+        {"en": "Automate the reminders with a script", "el": "Αυτοματοποιείς τις υπενθυμίσεις με ένα script"},
+        {"en": "Ask why each step exists and delete the ones nobody needs", "el": "Ρωτάς γιατί υπάρχει κάθε βήμα και σβήνεις όσα δεν χρειάζεται κανείς"}
+      ],
+      "answer": 2,
+      "why": {"en": "The algorithm starts with questioning and deleting, before you polish or automate anything.", "el": "Ο αλγόριθμος ξεκινά με αμφισβήτηση και σβήσιμο, πριν γυαλίσεις ή αυτοματοποιήσεις οτιδήποτε."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "You want a script that builds client sites automatically, but your build process still changes every week. What do you do?", "el": "Θέλεις ένα script που να φτιάχνει αυτόματα τις ιστοσελίδες των πελατών, αλλά η διαδικασία σου αλλάζει ακόμα κάθε εβδομάδα. Τι κάνεις;"},
+      "options": [
+        {"en": "First clean and stabilise the process, then automate", "el": "Πρώτα καθαρίζεις και σταθεροποιείς τη διαδικασία, μετά αυτοματοποιείς"},
+        {"en": "Write the script now and fix it as you go", "el": "Γράφεις τώρα το script και το διορθώνεις στην πορεία"},
+        {"en": "Drop automation, it never works", "el": "Ξεχνάς την αυτοματοποίηση, δεν δουλεύει ποτέ"}
+      ],
+      "answer": 0,
+      "why": {"en": "Automation is the last step; automating a moving mess repeats Musk's Model 3 mistake.", "el": "Η αυτοματοποίηση είναι το τελευταίο βήμα· αν αυτοματοποιήσεις ένα χάος που αλλάζει, επαναλαμβάνεις το λάθος του Μασκ με το Model 3."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "A dentist asks when his site will be ready. If everything goes perfectly, your team can do it in three days. What do you tell him?", "el": "Ένας οδοντίατρος ρωτά πότε θα είναι έτοιμη η ιστοσελίδα του. Αν όλα πάνε τέλεια, η ομάδα σου μπορεί να την κάνει σε τρεις μέρες. Τι του λες;"},
+      "options": [
+        {"en": "«In three days», to impress him", "el": "«Σε τρεις μέρες», για να τον εντυπωσιάσεις"},
+        {"en": "A date you are sure of, and push the team for three days", "el": "Μια ημερομηνία που είσαι σίγουρος, και πιέζεις την ομάδα για τρεις μέρες"},
+        {"en": "«Tomorrow», then explain the delay later", "el": "«Αύριο», και εξηγείς μετά την καθυστέρηση"}
+      ],
+      "answer": 1,
+      "why": {"en": "Stretch deadlines belong inside the team; clients get promises you can keep.", "el": "Οι φιλόδοξες προθεσμίες ανήκουν μέσα στην ομάδα· στους πελάτες δίνεις υποσχέσεις που μπορείς να κρατήσεις."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "At midnight a client writes an unfair, angry comment under your Instagram reel. You feel like answering sharply. What do you do?", "el": "Μεσάνυχτα, ένας πελάτης γράφει ένα άδικο, θυμωμένο σχόλιο κάτω από το reel σου στο Instagram. Σου έρχεται να απαντήσεις απότομα. Τι κάνεις;"},
+      "options": [
+        {"en": "Reply right away to defend yourself", "el": "Απαντάς αμέσως για να υπερασπιστείς τον εαυτό σου"},
+        {"en": "Delete the comment and block him", "el": "Σβήνεις το σχόλιο και τον μπλοκάρεις"},
+        {"en": "Wait until morning, then reply calmly or call him", "el": "Περιμένεις ως το πρωί και μετά απαντάς ήρεμα ή τον παίρνεις τηλέφωνο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Musk's late-night posts cost him dearly; public words need a pause.", "el": "Οι νυχτερινές αναρτήσεις του Μασκ τού κόστισαν ακριβά· τα δημόσια λόγια θέλουν παύση."},
+      "idea": 16
+    },
+    {
+      "q": {"en": "A friend suggests you put all your savings into a big ad campaign for a new service you have not tested. What do you do?", "el": "Ένας φίλος σού προτείνει να ρίξεις όλες σου τις οικονομίες σε μια μεγάλη διαφημιστική καμπάνια για μια νέα υπηρεσία που δεν έχεις δοκιμάσει. Τι κάνεις;"},
+      "options": [
+        {"en": "Go all in, like Musk in 2008", "el": "Τα ποντάρεις όλα, όπως ο Μασκ το 2008"},
+        {"en": "Run a small test with money you can afford to lose", "el": "Κάνεις ένα μικρό τεστ με λεφτά που αντέχεις να χάσεις"},
+        {"en": "Refuse to ever try new services", "el": "Αρνείσαι να δοκιμάσεις ποτέ νέες υπηρεσίες"}
+      ],
+      "answer": 1,
+      "why": {"en": "Take risks you can survive; Musk's all-in bets nearly ruined him.", "el": "Παίρνεις ρίσκα που αντέχεις· τα «όλα ή τίποτα» στοιχήματα του Μασκ σχεδόν τον κατέστρεψαν."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "You are exhausted, and a team member makes the same mistake on a client site for the third time. What do you do?", "el": "Είσαι εξαντλημένος και κάποιος από την ομάδα κάνει το ίδιο λάθος σε ιστοσελίδα πελάτη για τρίτη φορά. Τι κάνεις;"},
+      "options": [
+        {"en": "Wait to calm down, then fix the cause with him", "el": "Περιμένεις να ηρεμήσεις και μετά διορθώνεις την αιτία μαζί του"},
+        {"en": "Tell him off in the team chat right away", "el": "Τον κατσαδιάζεις αμέσως στο chat της ομάδας"},
+        {"en": "Say nothing and redo it yourself forever", "el": "Δεν λες τίποτα και το ξανακάνεις εσύ για πάντα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Demon mode damages people; criticise the work calmly and fix the system.", "el": "Η «δαιμονική» κατάσταση πληγώνει ανθρώπους· κριτικάρεις ήρεμα τη δουλειά και διορθώνεις το σύστημα."},
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Isaacson followed Musk for about two years, including sitting in his meetings.", "el": "Ο Άιζακσον ακολούθησε τον Μασκ για περίπου δύο χρόνια, καθισμένος και στις συσκέψεις του."}, "answer": true, "why": {"en": "He had close access to Musk's daily work in that period.", "el": "Είχε κοντινή πρόσβαση στην καθημερινή δουλειά του Μασκ εκείνη την περίοδο."}},
+    {"s": {"en": "In Musk's algorithm, automation is the first step.", "el": "Στον αλγόριθμο του Μασκ, η αυτοματοποίηση είναι το πρώτο βήμα."}, "answer": false, "why": {"en": "It is the last step, after questioning, deleting, simplifying and speeding up.", "el": "Είναι το τελευταίο βήμα, μετά την αμφισβήτηση, το σβήσιμο, την απλοποίηση και την επιτάχυνση."}},
+    {"s": {"en": "Musk wants every requirement to come with the name of a person, not a department.", "el": "Ο Μασκ θέλει κάθε απαίτηση να έχει όνομα ανθρώπου, όχι τμήματος."}, "answer": true, "why": {"en": "That way you can ask someone why the requirement exists.", "el": "Έτσι μπορείς να ρωτήσεις κάποιον γιατί υπάρχει η απαίτηση."}},
+    {"s": {"en": "Starship ended up in carbon fibre because steel was too expensive.", "el": "Το Starship έγινε τελικά από ίνες άνθρακα επειδή το ατσάλι ήταν πολύ ακριβό."}, "answer": false, "why": {"en": "Musk switched to stainless steel, which was much cheaper.", "el": "Ο Μασκ γύρισε σε ανοξείδωτο ατσάλι, που ήταν πολύ φτηνότερο."}},
+    {"s": {"en": "The first full Starship flight in April 2023 reached orbit without problems.", "el": "Η πρώτη πλήρης πτήση του Starship τον Απρίλιο του 2023 έφτασε σε τροχιά χωρίς προβλήματα."}, "answer": false, "why": {"en": "It was destroyed about four minutes after launch, though it gave useful data.", "el": "Καταστράφηκε περίπου τέσσερα λεπτά μετά την εκτόξευση, αν και έδωσε χρήσιμα δεδομένα."}},
+    {"s": {"en": "The «funding secured» tweet ended in a settlement with the SEC that included fines.", "el": "Το tweet για την «εξασφαλισμένη χρηματοδότηση» κατέληξε σε συμβιβασμό με την SEC που περιλάμβανε πρόστιμα."}, "answer": true, "why": {"en": "Musk and Tesla each paid 20 million dollars and he left the chairman role.", "el": "Ο Μασκ και η Tesla πλήρωσαν από 20 εκατομμύρια και εκείνος άφησε τη θέση του προέδρου."}},
+    {"s": {"en": "Musk offered to buy Twitter and later tried to back out of the deal.", "el": "Ο Μασκ πρότεινε να αγοράσει το Twitter και αργότερα προσπάθησε να αποσυρθεί από τη συμφωνία."}, "answer": true, "why": {"en": "Twitter sued and he completed the purchase in October 2022.", "el": "Το Twitter προσέφυγε στη δικαιοσύνη και εκείνος ολοκλήρωσε την αγορά τον Οκτώβριο του 2022."}},
+    {"s": {"en": "Isaacson presents Musk's harsh style as having no real cost.", "el": "Ο Άιζακσον παρουσιάζει το σκληρό στιλ του Μασκ σαν να μην έχει πραγματικό κόστος."}, "answer": false, "why": {"en": "The book shows burnout, firings, lost trust and people leaving.", "el": "Το βιβλίο δείχνει εξάντληση, απολύσεις, χαμένη εμπιστοσύνη και ανθρώπους να φεύγουν."}}
+  ],
+  "pairs": [
+    {"a": {"en": "The algorithm", "el": "Ο αλγόριθμος"}, "b": {"en": "Question, delete, simplify, speed up, then automate", "el": "Αμφισβήτησε, σβήσε, απλοποίησε, επιτάχυνε, μετά αυτοματοποίησε"}},
+    {"a": {"en": "Idiot index", "el": "Δείκτης βλακείας"}, "b": {"en": "Part cost divided by raw material cost", "el": "Κόστος εξαρτήματος διά κόστος πρώτων υλών"}},
+    {"a": {"en": "First principles", "el": "Πρώτες αρχές"}, "b": {"en": "Reasoning up from basic physical facts", "el": "Σκέψη που ξεκινά από βασικά γεγονότα της φυσικής"}},
+    {"a": {"en": "Surge", "el": "Έφοδος (surge)"}, "b": {"en": "All-out push on one bottleneck", "el": "Ολική προσπάθεια πάνω σε ένα μπλόκο"}},
+    {"a": {"en": "Demon mode", "el": "Δαιμονική κατάσταση"}, "b": {"en": "Musk's cold, harsh dark state", "el": "Η ψυχρή, σκληρή, σκοτεινή κατάσταση του Μασκ"}},
+    {"a": {"en": "Chopsticks", "el": "Ξυλάκια (chopsticks)"}, "b": {"en": "Tower arms that catch the returning booster", "el": "Βραχίονες του πύργου που πιάνουν το στάδιο"}}
+  ],
+  "missions": [
+    {"en": "List every step from «yes» to «live» and delete at least two that nobody really needs.", "el": "Γράψε κάθε βήμα από το «ναι» μέχρι το «στον αέρα» και σβήσε τουλάχιστον δύο που δεν τα χρειάζεται κανείς."},
+    {"en": "Pick your slowest repeated task, time it once, and write how you could cut it in half.", "el": "Διάλεξε την πιο αργή δουλειά που επαναλαμβάνεις, χρονομέτρησέ τη μία φορά και γράψε πώς θα την έκοβες στο μισό."},
+    {"en": "Before your next big decision, write the worst case in euros and months.", "el": "Πριν από την επόμενη μεγάλη σου απόφαση, γράψε το χειρότερο σενάριο σε ευρώ και σε μήνες."},
+    {"en": "Run one small test this week, like a new reel or call opening, and write one lesson.", "el": "Κάνε ένα μικρό τεστ αυτή την εβδομάδα, όπως ένα νέο reel ή μια νέα αρχή στα τηλέφωνα, και γράψε ένα μάθημα."},
+    {"en": "Before posting anything while annoyed, wait until the next morning and reread it.", "el": "Πριν δημοσιεύσεις οτιδήποτε ενώ είσαι εκνευρισμένος, περίμενε ως το επόμενο πρωί και ξαναδιάβασέ το."}
+  ],
+  "mantra": {"en": "Question it, delete it, simplify it, then speed it up.", "el": "Αμφισβήτησέ το, σβήσ' το, απλοποίησέ το, μετά επιτάχυνέ το."},
+  "careful": {
+    "en": "Isaacson had rare access, which also means he saw Musk largely from inside Musk's world; some critics found the book too sympathetic, others too quick to explain behaviour through childhood. The costs of his style are real in the book: burnout, sudden firings, public humiliation, impulsive decisions and broken trust. Musk also had a fortune and investors behind him, so his size of risk would sink a small agency. Take the method, not the style.",
+    "el": "Ο Άιζακσον είχε σπάνια πρόσβαση, που σημαίνει όμως ότι είδε τον Μασκ κυρίως μέσα από τον δικό του κόσμο· κάποιοι κριτικοί βρήκαν το βιβλίο υπερβολικά συμπαθητικό, άλλοι βιαστικό στο να εξηγεί τη συμπεριφορά του με τα παιδικά του χρόνια. Το κόστος του στιλ του είναι πραγματικό μέσα στο βιβλίο: εξάντληση, ξαφνικές απολύσεις, δημόσιες ταπεινώσεις, παρορμητικές αποφάσεις και χαμένη εμπιστοσύνη. Ο Μασκ είχε επίσης περιουσία και επενδυτές πίσω του, οπότε ρίσκα στο δικό του μέγεθος θα βούλιαζαν ένα μικρό γραφείο. Κράτα τη μέθοδο, όχι το στιλ."
+  },
+  "connects": [
+    {"book": "liftoff", "note": {"en": "Liftoff tells the early SpaceX years in detail; Isaacson shows how the same habits grew into Starship, Tesla and Twitter.", "el": "Το Liftoff αφηγείται αναλυτικά τα πρώτα χρόνια της SpaceX· ο Άιζακσον δείχνει πώς οι ίδιες συνήθειες μεγάλωσαν και έγιναν Starship, Tesla και Twitter."}},
+    {"book": "steve-jobs", "note": {"en": "Isaacson wrote both books and finds a similar pattern: demanding, difficult founders whose hard edges came together with their genius.", "el": "Ο Άιζακσον έγραψε και τα δύο βιβλία και βρίσκει παρόμοιο μοτίβο: απαιτητικοί, δύσκολοι ιδρυτές, που οι αιχμές τους έρχονταν μαζί με την ιδιοφυΐα τους."}},
+    {"book": "zero-to-one", "note": {"en": "Peter Thiel, Musk's partner at PayPal, argues for building new things from scratch, the same spirit as Musk's first-principles thinking.", "el": "Ο Πίτερ Θιλ, συνεργάτης του Μασκ στην PayPal, υποστηρίζει ότι πρέπει να χτίζεις κάτι εντελώς νέο από το μηδέν, το ίδιο πνεύμα με τη σκέψη του Μασκ από τις πρώτες αρχές."}}
+  ]
+}

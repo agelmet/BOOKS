@@ -1,0 +1,576 @@
+{
+  "id": "mans-search-for-meaning",
+  "title": {"en": "Man's Search for Meaning", "el": "Αναζητώντας νόημα ζωής"},
+  "author": "Viktor E. Frankl",
+  "authorEl": "Βίκτορ Φρανκλ",
+  "year": 1946,
+  "shelf": "mind",
+  "skills": {"mindset": 3, "wisdom": 3, "leadership": 1},
+  "oneLine": {
+    "en": "Even in the worst suffering a person keeps the freedom to choose an attitude, and finding meaning in work, love and unavoidable pain is what keeps us human.",
+    "el": "Ακόμα και μέσα στον χειρότερο πόνο ο άνθρωπος κρατά την ελευθερία να διαλέξει τη στάση του, και το νόημα που βρίσκει στη δουλειά, στην αγάπη και στον αναπόφευκτο πόνο είναι αυτό που τον κρατά άνθρωπο."
+  },
+  "story": {
+    "en": "Viktor Frankl was a psychiatrist in Vienna. In 1942 the Nazis deported him with his family. He survived Theresienstadt, Auschwitz and two subcamps of Dachau, but lost his wife, his parents and his brother. In 1946 he wrote this short book in nine days: first what the camps did to the human mind, then logotherapy, his therapy built on meaning. It has sold more than ten million copies.",
+    "el": "Ο Βίκτορ Φρανκλ ήταν ψυχίατρος στη Βιέννη. Το 1942 οι Ναζί τον εκτόπισαν μαζί με την οικογένειά του. Επέζησε από το Τερεζίν, το Άουσβιτς και δύο παραρτήματα του Νταχάου, αλλά έχασε τη γυναίκα του, τους γονείς του και τον αδελφό του. Το 1946 έγραψε αυτό το μικρό βιβλίο σε εννιά μέρες: πρώτα τι έκαναν τα στρατόπεδα στον ανθρώπινο νου και μετά τη λογοθεραπεία, τη θεραπεία του που στηρίζεται στο νόημα. Έχει πουλήσει πάνω από δέκα εκατομμύρια αντίτυπα."
+  },
+  "forYou": {
+    "en": "You work long hours, carry a growing business and push yourself hard. This book asks the question underneath all of it: what is it for? Frankl shows that people can carry almost anything when they have a reason, that you always keep the freedom to choose your attitude, and that success comes as a side effect of serving something bigger than yourself.",
+    "el": "Δουλεύεις πολλές ώρες, σηκώνεις μια επιχείρηση που μεγαλώνει και πιέζεις πολύ τον εαυτό σου. Αυτό το βιβλίο κάνει την ερώτηση που κρύβεται κάτω από όλα αυτά: για ποιο λόγο; Ο Φρανκλ δείχνει ότι ο άνθρωπος αντέχει σχεδόν τα πάντα όταν έχει έναν λόγο, ότι κρατάς πάντα την ελευθερία να διαλέξεις τη στάση σου, και ότι η επιτυχία έρχεται ως παρενέργεια όταν υπηρετείς κάτι μεγαλύτερο από τον εαυτό σου."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Shock and the last illusion", "el": "Το σοκ και η τελευταία ψευδαίσθηση"},
+      "explain": {
+        "en": "Frankl describes three phases in the prisoner's mind. The first is shock on arrival. Many held on to what psychiatry calls the «delusion of reprieve»: the hope, until the very last moment, that somehow it would not be so bad. Then that hope collapsed, and the person was stripped of everything: belongings, name, past work. Strangely, what followed was often a cold curiosity and even grim humour.",
+        "el": "Ο Φρανκλ περιγράφει τρεις φάσεις στον νου του κρατούμενου. Η πρώτη είναι το σοκ της άφιξης. Πολλοί κρατιούνταν από αυτό που η ψυχιατρική λέει «αυταπάτη της χάρης»: την ελπίδα, μέχρι την τελευταία στιγμή, ότι κάπως δεν θα είναι τόσο άσχημα. Μετά η ελπίδα κατέρρεε και ο άνθρωπος έχανε τα πάντα: πράγματα, όνομα, τη δουλειά μιας ζωής. Παράξενα, αυτό που ακολουθούσε ήταν συχνά μια ψυχρή περιέργεια και ένα μαύρο χιούμορ."
+      },
+      "example": {
+        "en": "On arrival at Auschwitz, Frankl tried to keep the manuscript of his first book hidden in his coat. He begged an older prisoner to help him save it. The man slowly grinned and answered with one crude word. Frankl writes that at that moment he struck out his whole former life.",
+        "el": "Φτάνοντας στο Άουσβιτς, ο Φρανκλ προσπάθησε να κρατήσει το χειρόγραφο του πρώτου του βιβλίου, κρυμμένο στο παλτό του. Παρακάλεσε έναν παλαιότερο κρατούμενο να τον βοηθήσει να το σώσει. Εκείνος χαμογέλασε αργά και του απάντησε με μία χυδαία λέξη. Ο Φρανκλ γράφει ότι εκείνη τη στιγμή έσβησε ολόκληρη την προηγούμενη ζωή του."
+      },
+      "apply": {
+        "en": "Remember these reactions when someone close to you gets terrible news, like a serious diagnosis or a death in the family. Shock, false hope and strange calm are normal. Don't push them to «be positive». Stay near, help with practical things, and let them take in the truth at their own pace.",
+        "el": "Θυμήσου αυτές τις αντιδράσεις όταν κάποιος δικός σου μαθαίνει κάτι τρομερό, μια βαριά διάγνωση ή έναν θάνατο στην οικογένεια. Το σοκ, η ψεύτικη ελπίδα και η παράξενη ηρεμία είναι φυσιολογικά. Μην τον πιέζεις να «είναι θετικός». Μείνε κοντά, βοήθα στα πρακτικά και άφησέ τον να δεχτεί την αλήθεια με τον δικό του ρυθμό."
+      },
+      "check": {
+        "q": {"en": "What is the «delusion of reprieve»?", "el": "Τι είναι η «αυταπάτη της χάρης»;"},
+        "options": [
+          {"en": "Hoping until the last moment that it won't be so bad", "el": "Η ελπίδα μέχρι την τελευταία στιγμή ότι δεν θα είναι τόσο άσχημα"},
+          {"en": "Believing you deserve to be punished", "el": "Η πεποίθηση ότι σου αξίζει τιμωρία"},
+          {"en": "Pretending to others that you are fine", "el": "Το να κάνεις στους άλλους ότι είσαι καλά"}
+        ],
+        "answer": 0,
+        "why": {"en": "It is the mind's last attempt to avoid a terrible reality, just before it has to face it.", "el": "Είναι η τελευταία προσπάθεια του νου να αποφύγει μια τρομερή πραγματικότητα, λίγο πριν αναγκαστεί να την αντικρίσει."}
+      }
+    },
+    {
+      "title": {"en": "Apathy as a shield", "el": "Η απάθεια ως ασπίδα"},
+      "explain": {
+        "en": "The second phase was apathy, a kind of emotional death. After some weeks, disgust, horror and pity faded. Prisoners stopped reacting to the suffering around them. Frankl explains this numbness as a protective shell: the mind shut down everything not needed to survive the day. Inner life shrank to the basics, and even dreams were about food, warmth and a bath.",
+        "el": "Η δεύτερη φάση ήταν η απάθεια, ένα είδος συναισθηματικού θανάτου. Μετά από μερικές εβδομάδες, η αηδία, ο τρόμος και ο οίκτος έσβηναν. Οι κρατούμενοι έπαυαν να αντιδρούν στον πόνο γύρω τους. Ο Φρανκλ εξηγεί αυτό το μούδιασμα ως προστατευτικό κέλυφος: ο νους έκλεινε ό,τι δεν χρειαζόταν για να βγει η μέρα. Η εσωτερική ζωή μίκραινε στα βασικά, και ακόμα και τα όνειρα ήταν για φαγητό, ζέστη και ένα μπάνιο."
+      },
+      "example": {
+        "en": "Frankl notes that a newcomer could not bear to watch a fellow prisoner being punished and looked away. A few weeks later the same man watched such scenes without turning his head, feeling almost nothing. Prisoners' dreams were mostly of bread, cake, cigarettes and a warm bath.",
+        "el": "Ο Φρανκλ σημειώνει ότι ένας νεοφερμένος δεν άντεχε να βλέπει έναν συγκρατούμενο να τιμωρείται και γύριζε αλλού το βλέμμα. Λίγες εβδομάδες αργότερα, ο ίδιος άνθρωπος έβλεπε τέτοιες σκηνές χωρίς να γυρίσει το κεφάλι, νιώθοντας σχεδόν τίποτα. Τα όνειρα των κρατουμένων ήταν κυρίως ψωμί, γλυκά, τσιγάρα και ένα ζεστό μπάνιο."
+      },
+      "apply": {
+        "en": "Notice when you go numb under long stress: no joy, no anger, just getting through the day. Treat it as a signal, not a weakness. Take one real rest day, talk to someone you trust, and reconnect with one thing that matters to you beyond work.",
+        "el": "Πρόσεξε πότε μουδιάζεις κάτω από παρατεταμένο άγχος: ούτε χαρά ούτε θυμός, μόνο να βγει η μέρα. Δες το ως σήμα, όχι ως αδυναμία. Πάρε μία πραγματική μέρα ξεκούρασης, μίλα με κάποιον που εμπιστεύεσαι και ξαναβρές ένα πράγμα που σου έχει σημασία πέρα από τη δουλειά."
+      },
+      "check": {
+        "q": {"en": "How does Frankl explain the prisoners' apathy?", "el": "Πώς εξηγεί ο Φρανκλ την απάθεια των κρατουμένων;"},
+        "options": [
+          {"en": "As a sign they had become cruel people", "el": "Ως σημάδι ότι είχαν γίνει σκληροί άνθρωποι"},
+          {"en": "As a protective shell for bare survival", "el": "Ως προστατευτικό κέλυφος για τη γυμνή επιβίωση"},
+          {"en": "As a choice to stop caring about others", "el": "Ως επιλογή να πάψουν να νοιάζονται για τους άλλους"}
+        ],
+        "answer": 1,
+        "why": {"en": "The mind shut down feelings it could not afford, to save its strength for the next day.", "el": "Ο νους έκλεινε τα συναισθήματα που δεν άντεχε, για να κρατήσει δυνάμεις για την επόμενη μέρα."}
+      }
+    },
+    {
+      "title": {"en": "Love reaches beyond", "el": "Η αγάπη φτάνει πιο μακριά"},
+      "explain": {
+        "en": "Even in the camp, Frankl found that a person stripped of everything can still find comfort by holding someone they love in their mind. Love, he concluded, is the highest goal a person can aim for. It does not depend on the loved one being present, or even alive. Its meaning reaches past the physical person to who they truly are.",
+        "el": "Ακόμα και στο στρατόπεδο, ο Φρανκλ ανακάλυψε ότι ένας άνθρωπος που τα έχει χάσει όλα μπορεί να βρει παρηγοριά κρατώντας στο μυαλό του κάποιον που αγαπά. Η αγάπη, κατέληξε, είναι ο υψηλότερος στόχος που μπορεί να έχει ο άνθρωπος. Δεν εξαρτάται από το αν ο αγαπημένος είναι παρών, ούτε καν από το αν ζει. Το νόημά της ξεπερνά το σώμα και φτάνει σε αυτό που ο άλλος πραγματικά είναι."
+      },
+      "example": {
+        "en": "Marching to a work site in the icy dark, a prisoner next to Frankl whispered that he hoped their wives could not see them now. Frankl began to picture his wife, hear her answer, see her smile. He did not know if she was alive. She had in fact died in Bergen-Belsen, but in that moment the image held him up.",
+        "el": "Καθώς βάδιζαν στο παγωμένο σκοτάδι προς τη δουλειά, ένας κρατούμενος δίπλα στον Φρανκλ ψιθύρισε ότι ελπίζει οι γυναίκες τους να μην μπορούν να τους δουν τώρα. Ο Φρανκλ άρχισε να φαντάζεται τη γυναίκα του, να ακούει την απάντησή της, να βλέπει το χαμόγελό της. Δεν ήξερε αν ζούσε. Είχε στην πραγματικότητα πεθάνει στο Μπέργκεν-Μπέλζεν, αλλά εκείνη τη στιγμή η εικόνα της τον κρατούσε όρθιο."
+      },
+      "apply": {
+        "en": "Write a short message today to someone you love and tell them one specific thing they mean to you. Then name the people your work is really for, family, team, the clients you help, and put their names on the first page of your planner, where you see them every morning.",
+        "el": "Γράψε σήμερα ένα σύντομο μήνυμα σε κάποιον που αγαπάς και πες του ένα συγκεκριμένο πράγμα που σημαίνει για σένα. Μετά γράψε για ποιους είναι στην ουσία η δουλειά σου, οικογένεια, ομάδα, οι πελάτες που βοηθάς, και βάλε τα ονόματά τους στην πρώτη σελίδα του ημερολογίου σου, εκεί που τα βλέπεις κάθε πρωί."
+      },
+      "check": {
+        "q": {"en": "What did Frankl learn about love in the camp?", "el": "Τι έμαθε ο Φρανκλ για την αγάπη στο στρατόπεδο;"},
+        "options": [
+          {"en": "It only helps when the loved one is near", "el": "Βοηθά μόνο όταν ο αγαπημένος είναι κοντά"},
+          {"en": "It is a weakness in a hard situation", "el": "Είναι αδυναμία σε μια δύσκολη κατάσταση"},
+          {"en": "It can give strength even when the loved one is absent", "el": "Μπορεί να δώσει δύναμη ακόμα κι όταν ο αγαπημένος λείπει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Holding his wife in his mind gave him strength, though he did not even know if she was alive.", "el": "Κρατώντας τη γυναίκα του στο μυαλό του έβρισκε δύναμη, παρόλο που δεν ήξερε καν αν ζούσε."}
+      }
+    },
+    {
+      "title": {"en": "Beauty and humour", "el": "Ομορφιά και χιούμορ"},
+      "explain": {
+        "en": "Some prisoners kept a rich inner life, and Frankl noticed that sensitive people sometimes endured better than physically stronger ones. They could still be moved by a sunset, a memory, a piece of music. Humour, too, was a weapon of the soul: it let a person rise above the situation, even for seconds. Both kept a small space inside that the camp could not reach.",
+        "el": "Κάποιοι κρατούμενοι κρατούσαν μια πλούσια εσωτερική ζωή, και ο Φρανκλ πρόσεξε ότι οι ευαίσθητοι άνθρωποι άντεχαν μερικές φορές καλύτερα από τους σωματικά δυνατότερους. Μπορούσαν ακόμα να συγκινηθούν από ένα ηλιοβασίλεμα, μια ανάμνηση, μια μουσική. Και το χιούμορ ήταν όπλο της ψυχής: άφηνε τον άνθρωπο να σταθεί πάνω από την κατάσταση, έστω για λίγα δευτερόλεπτα. Και τα δύο κρατούσαν μέσα του έναν μικρό χώρο που το στρατόπεδο δεν μπορούσε να αγγίξει."
+      },
+      "example": {
+        "en": "One evening, exhausted prisoners were called outside to see the sunset over the Bavarian woods. After minutes of silence, one said how beautiful the world could be. Frankl also made a pact with a friend: each would invent at least one funny story a day about something that might happen after their liberation.",
+        "el": "Ένα βράδυ, εξαντλημένοι κρατούμενοι φωνάχτηκαν έξω για να δουν το ηλιοβασίλεμα πάνω από τα δάση της Βαυαρίας. Μετά από λεπτά σιωπής, ένας είπε πόσο όμορφος θα μπορούσε να είναι ο κόσμος. Ο Φρανκλ έκανε και μια συμφωνία με έναν φίλο: κάθε μέρα ο καθένας θα επινοούσε τουλάχιστον μία αστεία ιστορία για κάτι που θα μπορούσε να συμβεί μετά την απελευθέρωσή τους."
+      },
+      "apply": {
+        "en": "Build a small inner space into hard weeks. Each evening write one beautiful or funny thing you noticed that day, even a tiny one. In a stressful week with the team, keep some light humour in the chat; laughing together is not a waste of time.",
+        "el": "Φτιάξε έναν μικρό εσωτερικό χώρο μέσα στις δύσκολες εβδομάδες. Κάθε βράδυ γράψε ένα όμορφο ή αστείο πράγμα που πρόσεξες μέσα στη μέρα, ακόμα και κάτι μικροσκοπικό. Σε μια πιεσμένη εβδομάδα με την ομάδα, κράτα λίγο ελαφρύ χιούμορ στο chat· το να γελάτε μαζί δεν είναι χαμένος χρόνος."
+      },
+      "check": {
+        "q": {"en": "Why did humour matter, according to Frankl?", "el": "Γιατί είχε σημασία το χιούμορ, κατά τον Φρανκλ;"},
+        "options": [
+          {"en": "It made the guards treat prisoners better", "el": "Έκανε τους φρουρούς να φέρονται καλύτερα"},
+          {"en": "It let a person rise above the situation for a moment", "el": "Άφηνε τον άνθρωπο να σταθεί για λίγο πάνω από την κατάσταση"},
+          {"en": "It helped prisoners forget their past lives", "el": "Βοηθούσε τους κρατούμενους να ξεχάσουν το παρελθόν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Frankl calls humour a weapon of the soul: it creates distance from what is happening.", "el": "Ο Φρανκλ λέει το χιούμορ όπλο της ψυχής: δημιουργεί απόσταση από αυτό που συμβαίνει."}
+      }
+    },
+    {
+      "title": {"en": "The last human freedom", "el": "Η τελευταία ανθρώπινη ελευθερία"},
+      "explain": {
+        "en": "Frankl's central claim: everything can be taken from a person except one thing, the freedom to choose one's attitude in any given circumstances. The camp shaped people, but it did not fully decide what they became. Each person, even there, made inner decisions every day. That is why Frankl says suffering can be borne with dignity, and that the inner choice belongs to you.",
+        "el": "Η κεντρική θέση του Φρανκλ: όλα μπορούν να σου τα πάρουν εκτός από ένα, την ελευθερία να διαλέξεις τη στάση σου σε όποιες συνθήκες κι αν βρεθείς. Το στρατόπεδο διαμόρφωνε τους ανθρώπους, αλλά δεν όριζε απόλυτα τι θα γίνουν. Ο καθένας, ακόμα κι εκεί, έπαιρνε κάθε μέρα εσωτερικές αποφάσεις. Γι' αυτό ο Φρανκλ λέει ότι ο πόνος μπορεί να κουβαληθεί με αξιοπρέπεια, και ότι η εσωτερική επιλογή είναι δική σου."
+      },
+      "example": {
+        "en": "Frankl remembers men who walked through the huts comforting others and giving away their last piece of bread. They were few, he writes, but they were enough to prove that the last freedom, choosing your own way, cannot be taken away.",
+        "el": "Ο Φρανκλ θυμάται ανθρώπους που γύριζαν στα παραπήγματα παρηγορώντας τους άλλους και χαρίζοντας το τελευταίο τους κομμάτι ψωμί. Ήταν λίγοι, γράφει, αλλά αρκετοί για να αποδείξουν ότι η τελευταία ελευθερία, να διαλέγεις τον δικό σου δρόμο, δεν σου αφαιρείται."
+      },
+      "apply": {
+        "en": "When a client is rude on the phone or in the chat, wait before you answer. Ask yourself: «What answer would I be proud of tomorrow?» Then reply calmly, for example: «I understand you're frustrated. Let's fix it together. What matters most to you right now?»",
+        "el": "Όταν ένας πελάτης είναι αγενής στο τηλέφωνο ή στο chat, περίμενε πριν απαντήσεις. Ρώτα τον εαυτό σου: «Ποια απάντηση θα με έκανε περήφανο αύριο;» Μετά απάντησε ήρεμα, για παράδειγμα: «Καταλαβαίνω ότι είστε εκνευρισμένος. Ας το λύσουμε μαζί. Τι σας ενδιαφέρει περισσότερο αυτή τη στιγμή;»"
+      },
+      "check": {
+        "q": {"en": "What freedom does Frankl say can never be taken?", "el": "Ποια ελευθερία λέει ο Φρανκλ ότι δεν αφαιρείται ποτέ;"},
+        "options": [
+          {"en": "The freedom to change your circumstances", "el": "Η ελευθερία να αλλάξεις τις συνθήκες σου"},
+          {"en": "The freedom to avoid all suffering", "el": "Η ελευθερία να αποφύγεις κάθε πόνο"},
+          {"en": "The freedom to choose your attitude", "el": "Η ελευθερία να διαλέξεις τη στάση σου"}
+        ],
+        "answer": 2,
+        "why": {"en": "Outer conditions can be taken over by others; the inner response stays yours.", "el": "Τις εξωτερικές συνθήκες μπορούν να τις ορίσουν άλλοι· η εσωτερική απάντηση μένει δική σου."}
+      }
+    },
+    {
+      "title": {"en": "A future to live toward", "el": "Ένα μέλλον για να ζεις"},
+      "explain": {
+        "en": "A prisoner did not know when, or if, his suffering would end. Frankl calls this a «provisional existence» with no end in sight, and it made life feel pointless. The ones who held on best had something in the future to look toward: a person waiting, a task to finish. Looking forward gave the present a purpose, even when the present was unbearable.",
+        "el": "Ο κρατούμενος δεν ήξερε πότε, ή αν, θα τελείωνε ο πόνος του. Ο Φρανκλ το λέει «προσωρινή ύπαρξη» χωρίς ορατό τέλος, και αυτό έκανε τη ζωή να μοιάζει άσκοπη. Όσοι άντεχαν καλύτερα είχαν κάτι μπροστά τους να κοιτάζουν: έναν άνθρωπο που τους περίμενε, μια δουλειά να τελειώσουν. Το βλέμμα στο μέλλον έδινε σκοπό στο παρόν, ακόμα κι όταν το παρόν ήταν αβάσταχτο."
+      },
+      "example": {
+        "en": "Limping in pain to a work site in the cold, Frankl forced his mind elsewhere. He pictured himself in a warm, bright lecture hall, giving a talk on the psychology of the camps. By observing his suffering as if for a future lecture, he gained distance from it. After the war, he gave that lecture many times.",
+        "el": "Κουτσαίνοντας από τον πόνο προς τη δουλειά μέσα στο κρύο, ο Φρανκλ ανάγκασε το μυαλό του να πάει αλλού. Φαντάστηκε τον εαυτό του σε μια ζεστή, φωτεινή αίθουσα να δίνει διάλεξη για την ψυχολογία των στρατοπέδων. Παρατηρώντας τον πόνο του σαν υλικό για μια μελλοντική διάλεξη, πήρε απόσταση από αυτόν. Μετά τον πόλεμο έδωσε αυτή τη διάλεξη πολλές φορές."
+      },
+      "apply": {
+        "en": "Write one clear picture of your future that pulls you forward: not a number, but a scene, like the day your team runs a full build without you and you speak at a business event about it. Read it before the hardest task of your week.",
+        "el": "Γράψε μια καθαρή εικόνα του μέλλοντός σου που σε τραβάει μπροστά: όχι έναν αριθμό, αλλά μια σκηνή, όπως τη μέρα που η ομάδα σου βγάζει ολόκληρη ιστοσελίδα χωρίς εσένα κι εσύ μιλάς γι' αυτό σε μια εκδήλωση επιχειρηματιών. Διάβασέ την πριν από την πιο δύσκολη δουλειά της εβδομάδας."
+      },
+      "check": {
+        "q": {"en": "How did picturing a future lecture help Frankl?", "el": "Πώς βοήθησε τον Φρανκλ η εικόνα μιας μελλοντικής διάλεξης;"},
+        "options": [
+          {"en": "It made him forget the camp completely", "el": "Τον έκανε να ξεχάσει εντελώς το στρατόπεδο"},
+          {"en": "It promised him an early release", "el": "Του υποσχόταν πρόωρη αποφυλάκιση"},
+          {"en": "It gave his suffering a purpose and some distance", "el": "Έδωσε στον πόνο του σκοπό και κάποια απόσταση"}
+        ],
+        "answer": 2,
+        "why": {"en": "A goal in the future turned the present into something to observe and learn from.", "el": "Ένας στόχος στο μέλλον έκανε το παρόν κάτι που παρατηρείς και μαθαίνεις από αυτό."}
+      }
+    },
+    {
+      "title": {"en": "When hope collapses", "el": "Όταν καταρρέει η ελπίδα"},
+      "explain": {
+        "en": "Frankl saw how closely the mind and body were linked. A prisoner who lost faith in the future often gave up quickly: he stopped getting up, stopped caring, and died soon after. The loss of hope could break the body's last resistance. This is not a judgment on anyone who died; it is an observation about how much hope and meaning matter to the body.",
+        "el": "Ο Φρανκλ είδε πόσο δεμένα είναι ο νους και το σώμα. Ο κρατούμενος που έχανε την πίστη στο μέλλον συχνά τα παρατούσε γρήγορα: δεν σηκωνόταν, δεν νοιαζόταν για τίποτα, και πέθαινε σύντομα. Η απώλεια της ελπίδας μπορούσε να σπάσει την τελευταία αντίσταση του σώματος. Δεν είναι κρίση για όσους πέθαναν· είναι παρατήρηση για το πόσο μετράνε η ελπίδα και το νόημα στο ίδιο το σώμα."
+      },
+      "example": {
+        "en": "A fellow prisoner told Frankl he had dreamed the war would end on 30 March 1945. As the date came with no liberation, he fell ill. He died on 31 March, officially of typhus. The camp doctor also noticed that more prisoners died between Christmas 1944 and New Year than ever before, after hopes of being home by Christmas faded.",
+        "el": "Ένας συγκρατούμενος είπε στον Φρανκλ ότι είδε σε όνειρο πως ο πόλεμος θα τελείωνε στις 30 Μαρτίου 1945. Καθώς η μέρα πλησίαζε χωρίς απελευθέρωση, αρρώστησε. Πέθανε στις 31 Μαρτίου, επίσημα από τύφο. Ο γιατρός του στρατοπέδου πρόσεξε επίσης ότι ανάμεσα στα Χριστούγεννα του 1944 και την Πρωτοχρονιά πέθαναν περισσότεροι κρατούμενοι από ποτέ, όταν έσβησε η ελπίδα ότι θα γύριζαν σπίτι ως τα Χριστούγεννα."
+      },
+      "apply": {
+        "en": "When someone you love is going through a long illness or a hard time, help them hold on to a reason, not a date: a person who needs them, a project waiting, a place they want to see. Ask them gently: «What are you looking forward to?» and help make it real.",
+        "el": "Όταν ένας άνθρωπός σου περνά μια μακριά αρρώστια ή μια δύσκολη περίοδο, βοήθησέ τον να κρατηθεί από έναν λόγο, όχι από μια ημερομηνία: έναν άνθρωπο που τον χρειάζεται, ένα σχέδιο που περιμένει, ένα μέρος που θέλει να δει. Ρώτα τον απαλά: «Τι περιμένεις με χαρά;» και βοήθησε να γίνει πραγματικότητα."
+      },
+      "check": {
+        "q": {"en": "What did the deaths after 30 March and Christmas 1944 show Frankl?", "el": "Τι έδειξαν στον Φρανκλ οι θάνατοι μετά τις 30 Μαρτίου και τα Χριστούγεννα του 1944;"},
+        "options": [
+          {"en": "That losing hope can break the body's resistance", "el": "Ότι η απώλεια ελπίδας μπορεί να σπάσει την αντίσταση του σώματος"},
+          {"en": "That illness had nothing to do with the mind", "el": "Ότι η αρρώστια δεν είχε καμία σχέση με τον νου"},
+          {"en": "That dreams can predict the future", "el": "Ότι τα όνειρα μπορούν να προβλέψουν το μέλλον"}
+        ],
+        "answer": 0,
+        "why": {"en": "When a hoped-for date passed, many lost the will that had kept their weakened bodies going.", "el": "Όταν περνούσε η ημερομηνία που ήλπιζαν, πολλοί έχαναν τη θέληση που κρατούσε όρθιο το εξαντλημένο σώμα τους."}
+      }
+    },
+    {
+      "title": {"en": "Life is asking you", "el": "Η ζωή σε ρωτάει"},
+      "explain": {
+        "en": "Frankl turned the usual question around. It does not really matter what we expect from life; what matters is what life expects from us. We should stop asking about the meaning of life in general and see ourselves as the ones being asked, daily and hourly. The answer is not talk but right action, and it is different for every person and every moment.",
+        "el": "Ο Φρανκλ γύρισε ανάποδα τη συνηθισμένη ερώτηση. Δεν έχει στην ουσία σημασία τι περιμένουμε εμείς από τη ζωή· σημασία έχει τι περιμένει η ζωή από εμάς. Πρέπει να σταματήσουμε να ρωτάμε γενικά για το νόημα της ζωής και να δούμε τον εαυτό μας ως αυτόν που ρωτιέται, κάθε μέρα και κάθε ώρα. Η απάντηση δεν είναι λόγια αλλά σωστή πράξη, και είναι διαφορετική για κάθε άνθρωπο και κάθε στιγμή."
+      },
+      "example": {
+        "en": "Two prisoners told Frankl they expected nothing more from life. He helped each see what life still expected of him. One had a child he adored waiting for him in another country. The other was a scientist with a series of books only he could finish. Each found he was irreplaceable, and their thoughts of ending it faded.",
+        "el": "Δύο κρατούμενοι είπαν στον Φρανκλ ότι δεν περίμεναν πια τίποτα από τη ζωή. Τους βοήθησε να δει ο καθένας τι περίμενε ακόμα η ζωή από αυτόν. Ο ένας είχε ένα παιδί που λάτρευε και τον περίμενε σε άλλη χώρα. Ο άλλος ήταν επιστήμονας με μια σειρά βιβλίων που μόνο εκείνος μπορούσε να τελειώσει. Ο καθένας κατάλαβε ότι είναι αναντικατάστατος, και οι σκέψεις του να τα τελειώσει έσβησαν."
+      },
+      "apply": {
+        "en": "On a heavy day, replace «why is this happening to me?» with «what is this day asking of me?» Write the answer as one or two actions: «Finish the two client sites I promised, then be fully present at dinner.» Then do exactly that.",
+        "el": "Σε μια βαριά μέρα, άλλαξε το «γιατί μου συμβαίνει αυτό;» με το «τι μου ζητάει αυτή η μέρα;». Γράψε την απάντηση σε μία ή δύο πράξεις: «Να τελειώσω τις δύο ιστοσελίδες που υποσχέθηκα και μετά να είμαι ολόκληρος παρών στο τραπέζι». Και κάνε ακριβώς αυτό."
+      },
+      "check": {
+        "q": {"en": "How did Frankl turn the question of meaning around?", "el": "Πώς γύρισε ανάποδα ο Φρανκλ την ερώτηση για το νόημα;"},
+        "options": [
+          {"en": "By saying life has no meaning at all", "el": "Λέγοντας ότι η ζωή δεν έχει κανένα νόημα"},
+          {"en": "By asking what life expects from us", "el": "Ρωτώντας τι περιμένει η ζωή από εμάς"},
+          {"en": "By saying each of us invents any meaning we like", "el": "Λέγοντας ότι ο καθένας εφευρίσκει όποιο νόημα θέλει"}
+        ],
+        "answer": 1,
+        "why": {"en": "We are the ones being questioned, and we answer by taking responsibility in action.", "el": "Εμείς είμαστε αυτοί που ρωτιούνται, και απαντάμε αναλαμβάνοντας ευθύνη με πράξεις."}
+      }
+    },
+    {
+      "title": {"en": "Decent and indecent people", "el": "Αξιοπρεπείς και ανάξιοι άνθρωποι"},
+      "explain": {
+        "en": "Frankl refused to divide people simply by group. He concluded there are two «races» of people: the decent and the indecent. Both are found everywhere, among guards and among prisoners. Some prisoners who were put in charge of others were crueller than the guards. Some guards quietly helped. A person's decency is decided by his own choices, not by the side he stands on.",
+        "el": "Ο Φρανκλ αρνήθηκε να χωρίσει τους ανθρώπους απλώς σε ομάδες. Κατέληξε ότι υπάρχουν δύο «φυλές» ανθρώπων: οι αξιοπρεπείς και οι ανάξιοι. Και οι δύο βρίσκονται παντού, και στους φρουρούς και στους κρατούμενους. Κάποιοι κρατούμενοι που έγιναν επιστάτες των άλλων ήταν πιο σκληροί από τους φρουρούς. Κάποιοι φρουροί βοηθούσαν στα κρυφά. Την αξιοπρέπεια ενός ανθρώπου την κρίνουν οι δικές του επιλογές, όχι η πλευρά στην οποία στέκεται."
+      },
+      "example": {
+        "en": "The SS commander of the camp where Frankl was liberated had secretly paid out of his own pocket for medicines for the prisoners. After liberation, Jewish prisoners hid him from the American troops and only handed him over once his safety was promised.",
+        "el": "Ο διοικητής των SS στο στρατόπεδο όπου απελευθερώθηκε ο Φρανκλ είχε αγοράσει κρυφά, με δικά του χρήματα, φάρμακα για τους κρατούμενους. Μετά την απελευθέρωση, Εβραίοι κρατούμενοι τον έκρυψαν από τα αμερικανικά στρατεύματα και τον παρέδωσαν μόνο όταν τους υποσχέθηκαν ότι δεν θα πάθει κακό."
+      },
+      "apply": {
+        "en": "Judge people by what they do, not by their title or group. When you hire, ask for a real example of how they treated a difficult customer. And keep your own decency in small things: answer every client honestly, and never let a supplier wait for money you owe.",
+        "el": "Κρίνε τους ανθρώπους από αυτά που κάνουν, όχι από τον τίτλο ή την ομάδα τους. Όταν προσλαμβάνεις, ζήτα ένα πραγματικό παράδειγμα για το πώς φέρθηκαν σε έναν δύσκολο πελάτη. Και κράτα τη δική σου αξιοπρέπεια στα μικρά: απάντα τίμια σε κάθε πελάτη και μην αφήνεις ποτέ συνεργάτη να περιμένει χρήματα που του χρωστάς."
+      },
+      "check": {
+        "q": {"en": "What did Frankl conclude about decency?", "el": "Τι συμπέρανε ο Φρανκλ για την αξιοπρέπεια;"},
+        "options": [
+          {"en": "It depends on which group you belong to", "el": "Εξαρτάται από την ομάδα στην οποία ανήκεις"},
+          {"en": "It disappears completely under pressure", "el": "Χάνεται εντελώς κάτω από πίεση"},
+          {"en": "It is found in every group, by personal choice", "el": "Υπάρχει σε κάθε ομάδα, ως προσωπική επιλογή"}
+        ],
+        "answer": 2,
+        "why": {"en": "He found decent and indecent people on both sides, so decency comes from choice.", "el": "Βρήκε αξιοπρεπείς και ανάξιους και στις δύο πλευρές, άρα η αξιοπρέπεια βγαίνει από την επιλογή."}
+      }
+    },
+    {
+      "title": {"en": "Learning to feel again", "el": "Μαθαίνοντας ξανά να νιώθεις"},
+      "explain": {
+        "en": "The third phase came after liberation. Many could not feel joy at first: freedom seemed unreal, like a dream. Some felt bitter when people at home met them with a shrug, or disillusioned when the loved ones they had lived for were gone. Some felt that, having suffered so much, they now had the right to do wrong. Healing meant slowly learning to feel again.",
+        "el": "Η τρίτη φάση ήρθε μετά την απελευθέρωση. Πολλοί δεν μπορούσαν αρχικά να νιώσουν χαρά: η ελευθερία έμοιαζε εξωπραγματική, σαν όνειρο. Κάποιοι πίκραιναν όταν οι άνθρωποι στον τόπο τους τους υποδέχονταν με αδιαφορία, ή απογοητεύονταν όταν οι αγαπημένοι για τους οποίους ζούσαν δεν υπήρχαν πια. Κάποιοι ένιωθαν ότι, αφού υπέφεραν τόσο, είχαν πια δικαίωμα να κάνουν το κακό. Η θεραπεία σήμαινε να μάθουν σιγά σιγά ξανά να νιώθουν."
+      },
+      "example": {
+        "en": "After liberation, prisoners walked out into the meadows full of flowers and felt nothing; they had lost the ability to feel glad. Days later, Frankl knelt alone in an open field and repeated one line from the Psalms about calling from a narrow prison and being answered in freedom. From there, he writes, a new life began.",
+        "el": "Μετά την απελευθέρωση, οι κρατούμενοι βγήκαν στα λιβάδια με τα λουλούδια και δεν ένιωσαν τίποτα· είχαν χάσει την ικανότητα να χαίρονται. Μέρες αργότερα, ο Φρανκλ γονάτισε μόνος σε ένα ανοιχτό χωράφι και επαναλάμβανε έναν στίχο από τους Ψαλμούς, για κάποιον που φωνάζει από τη στενή φυλακή του και παίρνει απάντηση μέσα στην ελευθερία. Από εκεί, γράφει, άρχισε μια καινούργια ζωή."
+      },
+      "apply": {
+        "en": "After any long period of strain, like a heavy season of work, don't expect joy to switch back on at once. Plan small real pleasures on purpose: a walk by the sea, a dinner with friends. And watch that tiredness never becomes an excuse to be harsh with your team.",
+        "el": "Μετά από κάθε μεγάλη περίοδο πίεσης, όπως μια βαριά σεζόν δουλειάς, μην περιμένεις η χαρά να ανάψει αμέσως. Οργάνωσε επίτηδες μικρές αληθινές χαρές: μια βόλτα δίπλα στη θάλασσα, ένα τραπέζι με φίλους. Και πρόσεξε η κούραση να μη γίνει ποτέ δικαιολογία για να φέρεσαι σκληρά στην ομάδα σου."
+      },
+      "check": {
+        "q": {"en": "What did many prisoners feel right after liberation?", "el": "Τι ένιωσαν πολλοί κρατούμενοι αμέσως μετά την απελευθέρωση;"},
+        "options": [
+          {"en": "They could not feel joy at first", "el": "Δεν μπορούσαν αρχικά να νιώσουν χαρά"},
+          {"en": "Instant and overwhelming happiness", "el": "Άμεση και συντριπτική ευτυχία"},
+          {"en": "A wish to go back to their camp routine", "el": "Επιθυμία να γυρίσουν στη ρουτίνα του στρατοπέδου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Freedom felt unreal; the ability to feel had to come back slowly.", "el": "Η ελευθερία έμοιαζε εξωπραγματική· η ικανότητα να νιώθουν έπρεπε να επιστρέψει σιγά σιγά."}
+      }
+    },
+    {
+      "title": {"en": "The will to meaning", "el": "Η βούληση για νόημα"},
+      "explain": {
+        "en": "In the second part Frankl explains logotherapy, from the Greek «logos», meaning. It is often called the third Viennese school of psychotherapy. Freud saw people driven by a will to pleasure, Adler by a will to power. Frankl argues that our deepest drive is the will to meaning. Meaning is not invented by us at will; it is discovered in the world, and it is unique to each person.",
+        "el": "Στο δεύτερο μέρος ο Φρανκλ εξηγεί τη λογοθεραπεία, από τον «λόγο», με την έννοια του νοήματος. Συχνά τη λένε τρίτη βιεννέζικη σχολή ψυχοθεραπείας. Ο Φρόιντ έβλεπε τον άνθρωπο να κινείται από τη βούληση για ηδονή, ο Άντλερ από τη βούληση για δύναμη. Ο Φρανκλ υποστηρίζει ότι η βαθύτερη ορμή μας είναι η βούληση για νόημα. Το νόημα δεν το εφευρίσκουμε όπως θέλουμε· το ανακαλύπτουμε στον κόσμο, και είναι μοναδικό για τον καθένα."
+      },
+      "example": {
+        "en": "Frankl cites a Johns Hopkins University survey of nearly 8,000 students at 48 colleges. Only 16% said their first goal was making a lot of money. 78% said it was finding a purpose and meaning to their lives.",
+        "el": "Ο Φρανκλ αναφέρει μια έρευνα του Πανεπιστημίου Johns Hopkins σε σχεδόν 8.000 φοιτητές από 48 κολέγια. Μόνο το 16% είπε ότι πρώτος στόχος του ήταν να βγάλει πολλά χρήματα. Το 78% είπε ότι ήταν να βρει σκοπό και νόημα στη ζωή του."
+      },
+      "apply": {
+        "en": "Give your team the meaning of their work, not just tasks. When you hand over a new site, say who it helps: «This psychologist works alone in a small town; this site is how new people will find her.» Share real thank-you messages from clients in the team chat.",
+        "el": "Δώσε στην ομάδα σου το νόημα της δουλειάς της, όχι μόνο εργασίες. Όταν αναθέτεις μια νέα ιστοσελίδα, πες ποιον βοηθά: «Αυτή η ψυχολόγος δουλεύει μόνη σε μια μικρή πόλη· από αυτή την ιστοσελίδα θα τη βρίσκουν οι καινούργιοι άνθρωποι». Μοιράσου στο chat της ομάδας τα αληθινά ευχαριστώ των πελατών."
+      },
+      "check": {
+        "q": {"en": "According to Frankl, what is our deepest drive?", "el": "Ποια είναι, κατά τον Φρανκλ, η βαθύτερη ορμή μας;"},
+        "options": [
+          {"en": "The will to pleasure", "el": "Η βούληση για ηδονή"},
+          {"en": "The will to meaning", "el": "Η βούληση για νόημα"},
+          {"en": "The will to power", "el": "Η βούληση για δύναμη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Pleasure is Freud's answer and power is Adler's; Frankl puts meaning first.", "el": "Η ηδονή είναι η απάντηση του Φρόιντ και η δύναμη του Άντλερ· ο Φρανκλ βάζει πρώτο το νόημα."}
+      }
+    },
+    {
+      "title": {"en": "A why carries any how", "el": "Ένα «γιατί» σηκώνει κάθε «πώς»"},
+      "explain": {
+        "en": "Frankl often quotes Nietzsche: «He who has a why to live for can bear almost any how.» When people know what they are living or working for, they can carry great hardship. Logotherapy tries to help each person find that «why» and take responsibility for it. Frankl adds that a healthy tension between what you are and what you should become is good for you.",
+        "el": "Ο Φρανκλ παραθέτει συχνά τον Νίτσε: «Όποιος έχει ένα γιατί για να ζει, μπορεί να αντέξει σχεδόν κάθε πώς». Όταν ξέρεις για τι ζεις ή για τι δουλεύεις, μπορείς να σηκώσεις μεγάλο βάρος. Η λογοθεραπεία προσπαθεί να βοηθήσει τον καθένα να βρει αυτό το «γιατί» και να αναλάβει την ευθύνη του. Ο Φρανκλ προσθέτει ότι μια υγιής ένταση ανάμεσα σε αυτό που είσαι και σε αυτό που πρέπει να γίνεις σου κάνει καλό."
+      },
+      "example": {
+        "en": "Frankl lost the manuscript of his first book on arrival. Later, sick with typhus in a Bavarian camp, he wrote key words on scraps of paper to rebuild it. He believed his deep wish to write it again helped him survive. The book was published after the war as «The Doctor and the Soul».",
+        "el": "Ο Φρανκλ έχασε το χειρόγραφο του πρώτου του βιβλίου με την άφιξή του. Αργότερα, άρρωστος με τύφο σε ένα στρατόπεδο της Βαυαρίας, έγραφε λέξεις-κλειδιά σε κομματάκια χαρτί για να το ξαναφτιάξει. Πίστευε ότι η βαθιά του επιθυμία να το ξαναγράψει τον βοήθησε να επιζήσει. Το βιβλίο εκδόθηκε μετά τον πόλεμο με τίτλο «Ο γιατρός και η ψυχή»."
+      },
+      "apply": {
+        "en": "Write your «why» for Advon in one sentence you truly believe, for example: «I help good professionals who are invisible online to be found by the people who need them.» Put it above your desk and read it before your first cold call of the day.",
+        "el": "Γράψε το «γιατί» σου για την Advon σε μία πρόταση που πιστεύεις πραγματικά, για παράδειγμα: «Βοηθάω καλούς επαγγελματίες που είναι αόρατοι στο ίντερνετ να τους βρίσκουν όσοι τους χρειάζονται». Κόλλησέ την πάνω από το γραφείο και διάβασέ την πριν από το πρώτο cold call της μέρας."
+      },
+      "check": {
+        "q": {"en": "What does Nietzsche's line say?", "el": "Τι λέει η φράση του Νίτσε;"},
+        "options": [
+          {"en": "With a reason to live, you can bear almost anything", "el": "Με έναν λόγο να ζεις, αντέχεις σχεδόν τα πάντα"},
+          {"en": "With the right method, every problem is easy", "el": "Με τη σωστή μέθοδο, κάθε πρόβλημα είναι εύκολο"},
+          {"en": "With enough strength, you need no reason", "el": "Με αρκετή δύναμη, δεν χρειάζεσαι λόγο"}
+        ],
+        "answer": 0,
+        "why": {"en": "The «why» is the reason; the «how» is the hardship. A strong reason makes the hardship bearable.", "el": "Το «γιατί» είναι ο λόγος· το «πώς» είναι η δυσκολία. Ένας δυνατός λόγος κάνει τη δυσκολία υποφερτή."}
+      }
+    },
+    {
+      "title": {"en": "The existential vacuum", "el": "Το υπαρξιακό κενό"},
+      "explain": {
+        "en": "Frankl saw a modern sickness: the existential vacuum, a feeling of inner emptiness and boredom. Instinct no longer tells us what to do, and tradition no longer tells us what we should do. So people do what others do, or what others want. They often fill the gap with money, power, pleasure or constant busyness. It shows clearly when the busy week stops.",
+        "el": "Ο Φρανκλ είδε μια σύγχρονη αρρώστια: το υπαρξιακό κενό, ένα αίσθημα εσωτερικής άδειας και βαρεμάρας. Το ένστικτο δεν μας λέει πια τι να κάνουμε και η παράδοση δεν μας λέει πια τι πρέπει να κάνουμε. Έτσι κάνουμε ό,τι κάνουν οι άλλοι ή ό,τι θέλουν οι άλλοι. Συχνά γεμίζουμε το κενό με χρήμα, εξουσία, ηδονή ή ατελείωτη απασχόληση. Φαίνεται καθαρά όταν σταματά η πολυάσχολη εβδομάδα."
+      },
+      "example": {
+        "en": "Frankl described the «Sunday neurosis»: people who feel low and empty when the rush of the working week ends and they face themselves. He also saw young unemployed people in 1930s Vienna fall into depression; when they took on unpaid useful work, the depression lifted, though they were still poor.",
+        "el": "Ο Φρανκλ περιέγραψε τη «νεύρωση της Κυριακής»: ανθρώπους που νιώθουν πεσμένοι και άδειοι όταν τελειώνει το τρέξιμο της εβδομάδας και μένουν με τον εαυτό τους. Είδε επίσης νέους ανέργους στη Βιέννη της δεκαετίας του '30 να πέφτουν σε κατάθλιψη· όταν ανέλαβαν απλήρωτη αλλά χρήσιμη δουλειά, η κατάθλιψη υποχώρησε, παρότι ήταν ακόμα φτωχοί."
+      },
+      "apply": {
+        "en": "Notice how you feel on a free Sunday. If you feel empty or restless, don't fill it with scrolling or extra work. Do one thing that means something: teach a friend a skill, help a family member, or plan a small project that serves people beyond your business.",
+        "el": "Πρόσεξε πώς νιώθεις μια ελεύθερη Κυριακή. Αν νιώθεις άδειος ή ανήσυχος, μην τη γεμίσεις με scrolling ή με παραπάνω δουλειά. Κάνε ένα πράγμα που έχει νόημα: μάθε σε έναν φίλο κάτι που ξέρεις, βοήθησε έναν δικό σου άνθρωπο ή σχεδίασε ένα μικρό έργο που ωφελεί κόσμο πέρα από την επιχείρησή σου."
+      },
+      "check": {
+        "q": {"en": "What is the «Sunday neurosis»?", "el": "Τι είναι η «νεύρωση της Κυριακής»;"},
+        "options": [
+          {"en": "Anxiety about Monday's meetings", "el": "Άγχος για τα ραντεβού της Δευτέρας"},
+          {"en": "Too much rest making you lazy", "el": "Υπερβολική ξεκούραση που σε κάνει τεμπέλη"},
+          {"en": "Emptiness that appears when the busy week stops", "el": "Άδεια που εμφανίζεται όταν σταματά η πολυάσχολη εβδομάδα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Busyness can hide a lack of meaning; when it stops, the vacuum shows.", "el": "Η απασχόληση μπορεί να κρύβει την έλλειψη νοήματος· όταν σταματά, φαίνεται το κενό."}
+      }
+    },
+    {
+      "title": {"en": "Three roads to meaning", "el": "Τρεις δρόμοι προς το νόημα"},
+      "explain": {
+        "en": "Logotherapy names three ways to find meaning. First, by creating a work or doing a deed. Second, by experiencing something, like beauty, truth or nature, or by loving another person. Third, by the attitude you take toward suffering you cannot avoid. So meaning is not only for the successful; it is open to every person, in every situation.",
+        "el": "Η λογοθεραπεία ονομάζει τρεις τρόπους να βρεις νόημα. Πρώτον, δημιουργώντας ένα έργο ή κάνοντας μια πράξη. Δεύτερον, ζώντας κάτι, όπως την ομορφιά, την αλήθεια ή τη φύση, ή αγαπώντας έναν άνθρωπο. Τρίτον, με τη στάση που παίρνεις απέναντι σε έναν πόνο που δεν μπορείς να αποφύγεις. Άρα το νόημα δεν είναι μόνο για τους πετυχημένους· είναι ανοιχτό σε κάθε άνθρωπο, σε κάθε κατάσταση."
+      },
+      "example": {
+        "en": "Frankl's own life shows all three. He found meaning in his work, rebuilding his book and later heading the neurology department of a Vienna hospital for 25 years. He found it in love, for his wife and later his second wife, Eleonore. And he found it in the attitude he chose while suffering in the camps.",
+        "el": "Η ζωή του ίδιου του Φρανκλ δείχνει και τους τρεις. Βρήκε νόημα στη δουλειά του, ξαναφτιάχνοντας το βιβλίο του και αργότερα διευθύνοντας για 25 χρόνια τη νευρολογική κλινική ενός νοσοκομείου της Βιέννης. Το βρήκε στην αγάπη, για τη γυναίκα του και αργότερα για τη δεύτερη σύζυγό του, την Ελεονόρε. Και το βρήκε στη στάση που διάλεξε μέσα στον πόνο των στρατοπέδων."
+      },
+      "apply": {
+        "en": "Draw three columns: Work, Love, Attitude. Under Work, write what you build that helps people. Under Love, write the people and experiences you live for. Under Attitude, write one hard thing you can't change and how you want to carry it. Keep the page and add to it.",
+        "el": "Φτιάξε τρεις στήλες: Δουλειά, Αγάπη, Στάση. Κάτω από τη Δουλειά γράψε τι χτίζεις που βοηθά ανθρώπους. Κάτω από την Αγάπη γράψε τους ανθρώπους και τις εμπειρίες για τις οποίες ζεις. Κάτω από τη Στάση γράψε ένα δύσκολο πράγμα που δεν αλλάζει και πώς θέλεις να το κουβαλάς. Κράτα τη σελίδα και συμπλήρωνέ τη."
+      },
+      "check": {
+        "q": {"en": "Which is one of Frankl's three roads to meaning?", "el": "Ποιος είναι ένας από τους τρεις δρόμους του Φρανκλ προς το νόημα;"},
+        "options": [
+          {"en": "Your attitude toward unavoidable suffering", "el": "Η στάση σου απέναντι στον αναπόφευκτο πόνο"},
+          {"en": "Becoming richer than the people around you", "el": "Να γίνεις πλουσιότερος από όσους είναι γύρω σου"},
+          {"en": "Avoiding every difficult situation", "el": "Να αποφεύγεις κάθε δύσκολη κατάσταση"}
+        ],
+        "answer": 0,
+        "why": {"en": "The three roads are a deed or work, love or experience, and attitude toward suffering.", "el": "Οι τρεις δρόμοι είναι το έργο ή η πράξη, η αγάπη ή η εμπειρία, και η στάση απέναντι στον πόνο."}
+      }
+    },
+    {
+      "title": {"en": "Suffering that cannot be avoided", "el": "Ο πόνος που δεν αποφεύγεται"},
+      "explain": {
+        "en": "Frankl is clear: if suffering can be avoided or its cause removed, do that. Seeking pain that isn't needed is not heroic. But when suffering truly cannot be changed, like an incurable illness or a death, it can still gain meaning through how we bear it. Suffering stops being only suffering at the moment it finds a meaning.",
+        "el": "Ο Φρανκλ είναι σαφής: αν ο πόνος μπορεί να αποφευχθεί ή να αρθεί η αιτία του, κάν' το. Το να ψάχνεις πόνο που δεν χρειάζεται δεν είναι ηρωισμός. Όταν όμως ο πόνος πραγματικά δεν αλλάζει, όπως μια ανίατη αρρώστια ή ένας θάνατος, μπορεί και πάλι να αποκτήσει νόημα από τον τρόπο που τον σηκώνουμε. Ο πόνος παύει να είναι μόνο πόνος τη στιγμή που βρίσκει νόημα."
+      },
+      "example": {
+        "en": "An elderly doctor came to Frankl, unable to overcome his grief two years after his wife's death. Frankl asked what would have happened if he had died first. «She would have suffered terribly,» the man said. Frankl answered that he had spared her that pain, at the price of mourning her. The man shook his hand and left calmer.",
+        "el": "Ένας ηλικιωμένος γιατρός πήγε στον Φρανκλ, χωρίς να μπορεί να ξεπεράσει το πένθος του δύο χρόνια μετά τον θάνατο της γυναίκας του. Ο Φρανκλ τον ρώτησε τι θα γινόταν αν είχε πεθάνει πρώτος εκείνος. «Θα υπέφερε φοβερά», είπε ο άνθρωπος. Ο Φρανκλ απάντησε ότι της γλίτωσε αυτόν τον πόνο, με τίμημα το δικό του πένθος. Ο άνθρωπος του έσφιξε το χέρι και έφυγε πιο ήρεμος."
+      },
+      "apply": {
+        "en": "Sort every pain into two piles. Pile one, things you can change: an unfair client contract, an exhausting schedule, an unpaid invoice. Act on them this week. Pile two, things you cannot change, like a loss. For those, ask: «What can carrying this well make possible?»",
+        "el": "Χώρισε κάθε πόνο σε δύο σωρούς. Στον πρώτο, όσα αλλάζουν: ένα άδικο συμβόλαιο με πελάτη, ένα εξοντωτικό πρόγραμμα, ένα απλήρωτο τιμολόγιο. Κινήσου γι' αυτά μέσα στην εβδομάδα. Στον δεύτερο, όσα δεν αλλάζουν, όπως μια απώλεια. Γι' αυτά ρώτα: «Τι μπορεί να γίνει δυνατό αν το κουβαλήσω καλά;»"
+      },
+      "check": {
+        "q": {"en": "What does Frankl say about suffering you can avoid?", "el": "Τι λέει ο Φρανκλ για τον πόνο που μπορείς να αποφύγεις;"},
+        "options": [
+          {"en": "Accept it, because all suffering builds character", "el": "Αποδέξου τον, γιατί κάθε πόνος χτίζει χαρακτήρα"},
+          {"en": "Remove its cause; only unavoidable suffering has this meaning", "el": "Άρε την αιτία του· αυτό το νόημα το έχει μόνο ο αναπόφευκτος πόνος"},
+          {"en": "Ignore it until it goes away", "el": "Αγνόησέ τον μέχρι να φύγει"}
+        ],
+        "answer": 1,
+        "why": {"en": "Bearing needless pain is not heroism; meaning in suffering applies when it cannot be changed.", "el": "Το να σηκώνεις άσκοπο πόνο δεν είναι ηρωισμός· το νόημα του πόνου ισχύει όταν δεν αλλάζει."}
+      }
+    },
+    {
+      "title": {"en": "Wish for what you fear", "el": "Εύξου αυτό που φοβάσαι"},
+      "explain": {
+        "en": "Frankl's technique of paradoxical intention: fear tends to bring about the very thing you fear, and trying hard to avoid it makes it worse. So he asked patients to do the opposite: to wish, even jokingly, for exactly what they feared. Humour creates distance from the fear, and the vicious circle breaks. It works best with anxiety about specific situations.",
+        "el": "Η τεχνική της «παράδοξης πρόθεσης» του Φρανκλ: ο φόβος τείνει να φέρνει ακριβώς αυτό που φοβάσαι, και η μεγάλη προσπάθεια να το αποφύγεις το χειροτερεύει. Γι' αυτό ζητούσε από τους ασθενείς το αντίθετο: να ευχηθούν, ακόμα και για πλάκα, ακριβώς αυτό που φοβούνταν. Το χιούμορ βάζει απόσταση από τον φόβο και ο φαύλος κύκλος σπάει. Δουλεύει καλύτερα στο άγχος για συγκεκριμένες καταστάσεις."
+      },
+      "example": {
+        "en": "A young doctor was afraid of sweating whenever he met people, and the fear made him sweat even more. Frankl told him that next time he should decide to show people how much he could really sweat: a little before, now buckets. Within a week, according to Frankl, the problem that had troubled him for years was gone.",
+        "el": "Ένας νέος γιατρός φοβόταν ότι θα ιδρώσει όποτε συναντούσε κόσμο, και ο φόβος τον έκανε να ιδρώνει ακόμα περισσότερο. Ο Φρανκλ του είπε την επόμενη φορά να αποφασίσει να δείξει στους άλλους πόσο πολύ μπορεί πραγματικά να ιδρώσει: πριν λίγο, τώρα κουβάδες. Μέσα σε μία εβδομάδα, κατά τον Φρανκλ, το πρόβλημα που τον βασάνιζε χρόνια είχε φύγει."
+      },
+      "apply": {
+        "en": "If you fear stumbling over words on a cold call or in a reel, say to yourself with a smile before you start: «Let's see how many times I can stumble on this one.» The pressure drops, and you usually speak better. Try it on your next five calls.",
+        "el": "Αν φοβάσαι ότι θα μπερδέψεις τα λόγια σου σε ένα cold call ή σε ένα reel, πες στον εαυτό σου χαμογελώντας πριν ξεκινήσεις: «Για να δούμε πόσες φορές θα τα μπερδέψω σε αυτό». Η πίεση πέφτει και συνήθως μιλάς καλύτερα. Δοκίμασέ το στα επόμενα πέντε τηλέφωνα."
+      },
+      "check": {
+        "q": {"en": "How does paradoxical intention work?", "el": "Πώς δουλεύει η παράδοξη πρόθεση;"},
+        "options": [
+          {"en": "You avoid the feared situation completely", "el": "Αποφεύγεις εντελώς την κατάσταση που φοβάσαι"},
+          {"en": "You think about something else very hard", "el": "Σκέφτεσαι πολύ έντονα κάτι άλλο"},
+          {"en": "You wish, with humour, for what you fear", "el": "Εύχεσαι, με χιούμορ, αυτό που φοβάσαι"}
+        ],
+        "answer": 2,
+        "why": {"en": "Wishing for the feared thing removes the fear that was feeding it, and humour adds distance.", "el": "Όταν εύχεσαι αυτό που φοβάσαι, φεύγει ο φόβος που το τροφοδοτούσε, και το χιούμορ βάζει απόσταση."}
+      }
+    },
+    {
+      "title": {"en": "Success must follow, not be chased", "el": "Η επιτυχία έρχεται, δεν κυνηγιέται"},
+      "explain": {
+        "en": "Frankl warns that happiness and success cannot be pursued directly. The more you aim at them, the more you miss them. They come as a side effect of dedicating yourself to a cause bigger than you or to a person you love. He also notes that too much attention on yourself, constantly watching your own feelings or performance, can block the very thing you want.",
+        "el": "Ο Φρανκλ προειδοποιεί ότι η ευτυχία και η επιτυχία δεν κυνηγιούνται απευθείας. Όσο πιο πολύ τις σημαδεύεις, τόσο πιο πολύ τις χάνεις. Έρχονται ως παρενέργεια όταν αφοσιώνεσαι σε κάτι μεγαλύτερο από σένα ή σε έναν άνθρωπο που αγαπάς. Σημειώνει επίσης ότι η υπερβολική προσοχή στον εαυτό σου, να παρακολουθείς συνέχεια τα συναισθήματα ή την απόδοσή σου, μπορεί να μπλοκάρει ακριβώς αυτό που θέλεις."
+      },
+      "example": {
+        "en": "In the 1984 preface Frankl told readers not to aim at success. He wrote that he never meant the book to be a bestseller; it was first meant to be published anonymously. Its huge success, he said, came precisely because he had not aimed at it, but at saying something useful.",
+        "el": "Στον πρόλογο του 1984 ο Φρανκλ συμβούλευε τους αναγνώστες να μη σημαδεύουν την επιτυχία. Έγραψε ότι ποτέ δεν σκόπευε το βιβλίο να γίνει μπεστ σέλερ· αρχικά ήθελε μάλιστα να εκδοθεί ανώνυμα. Η τεράστια επιτυχία του, είπε, ήρθε ακριβώς επειδή δεν τη σημάδευε, αλλά ήθελε να πει κάτι χρήσιμο."
+      },
+      "apply": {
+        "en": "Stop measuring every call by «did I close?». Aim each call at one thing: understanding what this doctor really needs and whether you can help. Before you dial, say to yourself: «My job is to help, not to win.» Count the people you truly helped this month.",
+        "el": "Σταμάτα να μετράς κάθε τηλέφωνο με το «έκλεισα ή όχι;». Στόχευσε κάθε κλήση σε ένα πράγμα: να καταλάβεις τι χρειάζεται πραγματικά αυτός ο γιατρός και αν μπορείς να βοηθήσεις. Πριν πάρεις, πες στον εαυτό σου: «Δουλειά μου είναι να βοηθήσω, όχι να κερδίσω». Μέτρα πόσους ανθρώπους βοήθησες πραγματικά μέσα στον μήνα."
+      },
+      "check": {
+        "q": {"en": "How does success come, according to Frankl?", "el": "Πώς έρχεται η επιτυχία, κατά τον Φρανκλ;"},
+        "options": [
+          {"en": "As a side effect of serving something bigger", "el": "Ως παρενέργεια όταν υπηρετείς κάτι μεγαλύτερο"},
+          {"en": "By aiming at it harder than anyone else", "el": "Σημαδεύοντάς την πιο σκληρά από όλους"},
+          {"en": "By watching your own performance constantly", "el": "Παρακολουθώντας συνέχεια την απόδοσή σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Like happiness, success ensues from dedication to a cause or person; chasing it backfires.", "el": "Όπως η ευτυχία, η επιτυχία προκύπτει από την αφοσίωση σε έναν σκοπό ή άνθρωπο· όταν την κυνηγάς, σου ξεφεύγει."}
+      }
+    },
+    {
+      "title": {"en": "Tragic optimism", "el": "Τραγική αισιοδοξία"},
+      "explain": {
+        "en": "In a later essay Frankl names the «tragic triad»: pain, guilt and death. Nobody escapes them. Tragic optimism means saying yes to life anyway: turning suffering into achievement, guilt into change for the better, and the shortness of life into a reason to act responsibly now. What you have done and loved is stored safely in the past, like grain in a barn; nothing can undo it.",
+        "el": "Σε ένα μεταγενέστερο δοκίμιο ο Φρανκλ ονομάζει την «τραγική τριάδα»: πόνος, ενοχή και θάνατος. Κανείς δεν τους γλιτώνει. Τραγική αισιοδοξία σημαίνει να λες ναι στη ζωή παρ' όλα αυτά: να κάνεις τον πόνο επίτευγμα, την ενοχή αλλαγή προς το καλύτερο και τη συντομία της ζωής λόγο να πράττεις υπεύθυνα τώρα. Όσα έκανες και αγάπησες είναι φυλαγμένα στο παρελθόν, σαν σιτάρι στην αποθήκη· τίποτα δεν μπορεί να τα σβήσει."
+      },
+      "example": {
+        "en": "On a day when 2,500 prisoners chose to go hungry rather than hand over a starving man who had stolen potatoes, Frankl was asked to speak in the dark hut. He told them that what they had lived, done and loved could not be taken away by any power on earth. It was safe in the past.",
+        "el": "Μια μέρα που 2.500 κρατούμενοι προτίμησαν να μείνουν νηστικοί παρά να παραδώσουν έναν πεινασμένο άνθρωπο που είχε κλέψει πατάτες, ζήτησαν από τον Φρανκλ να μιλήσει μέσα στο σκοτεινό παράπηγμα. Τους είπε ότι όσα έζησαν, έκαναν και αγάπησαν δεν μπορεί να τα πάρει καμία δύναμη στη γη. Ήταν ασφαλή στο παρελθόν."
+      },
+      "apply": {
+        "en": "Use Frankl's test before an important decision: imagine you are living this moment for the second time, and the first time you chose wrongly. What do you do now? Use it before you answer an angry client, decide on a hire or skip a promise to family.",
+        "el": "Χρησιμοποίησε το τεστ του Φρανκλ πριν από μια σημαντική απόφαση: φαντάσου ότι ζεις αυτή τη στιγμή για δεύτερη φορά και ότι την πρώτη φορά διάλεξες λάθος. Τι κάνεις τώρα; Κάν' το πριν απαντήσεις σε θυμωμένο πελάτη, πριν αποφασίσεις μια πρόσληψη ή πριν ακυρώσεις μια υπόσχεση στην οικογένειά σου."
+      },
+      "check": {
+        "q": {"en": "What does «tragic optimism» mean?", "el": "Τι σημαίνει «τραγική αισιοδοξία»;"},
+        "options": [
+          {"en": "Pretending that pain, guilt and death don't exist", "el": "Να κάνεις ότι ο πόνος, η ενοχή και ο θάνατος δεν υπάρχουν"},
+          {"en": "Saying yes to life despite pain, guilt and death", "el": "Να λες ναι στη ζωή παρά τον πόνο, την ενοχή και τον θάνατο"},
+          {"en": "Expecting the worst so you are never disappointed", "el": "Να περιμένεις το χειρότερο για να μην απογοητεύεσαι ποτέ"}
+        ],
+        "answer": 1,
+        "why": {"en": "It faces the tragic triad honestly and still turns each part into something meaningful.", "el": "Κοιτάζει τίμια την τραγική τριάδα και παρ' όλα αυτά κάνει κάθε κομμάτι της κάτι με νόημα."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A client sends you an insulting message about a small delay. What do you do?", "el": "Ένας πελάτης σού στέλνει προσβλητικό μήνυμα για μια μικρή καθυστέρηση. Τι κάνεις;"},
+      "options": [
+        {"en": "Reply at once in the same tone", "el": "Απαντάς αμέσως στον ίδιο τόνο"},
+        {"en": "Pause, then answer calmly with a clear solution", "el": "Κάνεις παύση και απαντάς ήρεμα με καθαρή λύση"},
+        {"en": "Ignore him for a few days", "el": "Τον αγνοείς για μερικές μέρες"}
+      ],
+      "answer": 1,
+      "why": {"en": "Between what happens and your response lies your freedom to choose your attitude.", "el": "Ανάμεσα σε αυτό που συμβαίνει και στην απάντησή σου βρίσκεται η ελευθερία να διαλέξεις τη στάση σου."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "You fear sounding nervous on cold calls, and the fear makes it worse. What do you try?", "el": "Φοβάσαι ότι θα ακουστείς αγχωμένος στα cold calls, και ο φόβος το χειροτερεύει. Τι δοκιμάζεις;"},
+      "options": [
+        {"en": "Tell yourself with a smile: «Let's see how nervous I can sound»", "el": "Λες χαμογελώντας: «Για να δούμε πόσο αγχωμένος μπορώ να ακουστώ»"},
+        {"en": "Stop calling until the fear goes away", "el": "Σταματάς τα τηλέφωνα μέχρι να φύγει ο φόβος"},
+        {"en": "Force yourself to sound perfectly calm", "el": "Πιέζεις τον εαυτό σου να ακούγεται απόλυτα ήρεμος"}
+      ],
+      "answer": 0,
+      "why": {"en": "Paradoxical intention: wishing for the feared thing with humour breaks the fear loop.", "el": "Παράδοξη πρόθεση: όταν εύχεσαι με χιούμορ αυτό που φοβάσαι, σπάει ο κύκλος του φόβου."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "A teammate says his work feels pointless, «just another site». What do you do?", "el": "Ένας συνεργάτης λέει ότι η δουλειά του μοιάζει άσκοπη, «άλλη μια ιστοσελίδα». Τι κάνεις;"},
+      "options": [
+        {"en": "Offer him a small bonus per site", "el": "Του δίνεις ένα μικρό μπόνους ανά ιστοσελίδα"},
+        {"en": "Tell him every job is boring sometimes", "el": "Του λες ότι κάθε δουλειά βαριέται καμιά φορά"},
+        {"en": "Show him who each site helps and share client thank-yous", "el": "Του δείχνεις ποιον βοηθά κάθε ιστοσελίδα και του μοιράζεσαι τα ευχαριστώ των πελατών"}
+      ],
+      "answer": 2,
+      "why": {"en": "The will to meaning is stronger than the will to pleasure; people need to see why their work matters.", "el": "Η βούληση για νόημα είναι πιο δυνατή από τη βούληση για ηδονή· ο άνθρωπος θέλει να βλέπει γιατί μετράει η δουλειά του."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "You are focused only on monthly sales numbers and feel more and more anxious. What does Frankl suggest?", "el": "Κοιτάς μόνο τους μηνιαίους αριθμούς πωλήσεων και αγχώνεσαι όλο και περισσότερο. Τι προτείνει ο Φρανκλ;"},
+      "options": [
+        {"en": "Aim at helping each client well; let success follow", "el": "Στόχευσε στο να βοηθάς σωστά κάθε πελάτη· άσε την επιτυχία να ακολουθήσει"},
+        {"en": "Check the numbers even more often", "el": "Να ελέγχεις τους αριθμούς ακόμα πιο συχνά"},
+        {"en": "Set a much higher target to motivate yourself", "el": "Να βάλεις πολύ μεγαλύτερο στόχο για κίνητρο"}
+      ],
+      "answer": 0,
+      "why": {"en": "Success, like happiness, ensues from dedication to a cause; aiming at it directly backfires.", "el": "Η επιτυχία, όπως η ευτυχία, προκύπτει από την αφοσίωση σε έναν σκοπό· όταν τη σημαδεύεις απευθείας, σου ξεφεύγει."},
+      "idea": 16
+    },
+    {
+      "q": {"en": "A friend lost a parent months ago and says nothing makes sense any more. What helps most?", "el": "Ένας φίλος έχασε τον γονιό του πριν από μήνες και λέει ότι τίποτα δεν έχει πια νόημα. Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Tell him to stay busy and stop thinking about it", "el": "Του λες να απασχολείται και να μην το σκέφτεται"},
+        {"en": "Listen, and gently explore what his love and memories still mean", "el": "Τον ακούς και ψάχνεις μαζί του απαλά τι σημαίνουν ακόμα η αγάπη και οι αναμνήσεις του"},
+        {"en": "Tell him it happens to everyone, so it's not a big deal", "el": "Του λες ότι συμβαίνει σε όλους, άρα δεν είναι κάτι σπουδαίο"}
+      ],
+      "answer": 1,
+      "why": {"en": "Unavoidable suffering can find meaning, as with the grieving doctor, but it needs listening, not dismissal.", "el": "Ο αναπόφευκτος πόνος μπορεί να βρει νόημα, όπως με τον γιατρό που πενθούσε, αλλά χρειάζεται ακρόαση, όχι υποτίμηση."},
+      "idea": 14
+    },
+    {
+      "q": {"en": "After a tiring month you ask: «What's the point of all this work?» What is Frankl's answer?", "el": "Μετά από έναν κουραστικό μήνα αναρωτιέσαι: «Τι νόημα έχει όλη αυτή η δουλειά;» Ποια είναι η απάντηση του Φρανκλ;"},
+      "options": [
+        {"en": "Wait until you feel inspired again", "el": "Περίμενε μέχρι να νιώσεις ξανά έμπνευση"},
+        {"en": "Life has no meaning, so just enjoy yourself", "el": "Η ζωή δεν έχει νόημα, άρα απλώς διασκέδασε"},
+        {"en": "Ask what life is asking of you now and answer with action", "el": "Ρώτα τι σου ζητάει τώρα η ζωή και απάντησε με πράξη"}
+      ],
+      "answer": 2,
+      "why": {"en": "Frankl turns the question around: we are the ones asked, and we answer by responsible action.", "el": "Ο Φρανκλ γυρίζει ανάποδα την ερώτηση: εμάς ρωτούν, και απαντάμε με υπεύθυνη πράξη."},
+      "idea": 7
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Frankl says that prisoners with a strong sense of meaning always survived.", "el": "Ο Φρανκλ λέει ότι οι κρατούμενοι με δυνατό αίσθημα νοήματος επιζούσαν πάντα."}, "answer": false, "why": {"en": "He stresses that survival depended mostly on luck, and that many of the best did not return.", "el": "Τονίζει ότι η επιβίωση εξαρτιόταν κυρίως από την τύχη και ότι πολλοί από τους καλύτερους δεν γύρισαν."}},
+    {"s": {"en": "Frankl tried to rebuild his lost manuscript on scraps of paper while in the camps.", "el": "Ο Φρανκλ προσπάθησε να ξαναφτιάξει το χαμένο του χειρόγραφο σε κομματάκια χαρτί μέσα στα στρατόπεδα."}, "answer": true, "why": {"en": "Sick with typhus, he noted key words on scraps, and the wish to finish it helped him hold on.", "el": "Άρρωστος με τύφο, σημείωνε λέξεις-κλειδιά σε χαρτάκια, και η επιθυμία να το τελειώσει τον βοήθησε να αντέξει."}},
+    {"s": {"en": "Logotherapy holds that our main drive is the will to meaning.", "el": "Η λογοθεραπεία υποστηρίζει ότι η βασική μας ορμή είναι η βούληση για νόημα."}, "answer": true, "why": {"en": "Frankl puts meaning first, against Freud's pleasure and Adler's power.", "el": "Ο Φρανκλ βάζει πρώτο το νόημα, απέναντι στην ηδονή του Φρόιντ και στη δύναμη του Άντλερ."}},
+    {"s": {"en": "Frankl teaches that all suffering is good and should be accepted.", "el": "Ο Φρανκλ διδάσκει ότι κάθε πόνος είναι καλός και πρέπει να γίνεται αποδεκτός."}, "answer": false, "why": {"en": "Avoidable suffering should be removed; only unavoidable suffering is to be borne with meaning.", "el": "Ο πόνος που αποφεύγεται πρέπει να αποφεύγεται· μόνο ο αναπόφευκτος σηκώνεται με νόημα."}},
+    {"s": {"en": "Frankl found both decent and cruel people among guards and prisoners alike.", "el": "Ο Φρανκλ βρήκε και αξιοπρεπείς και σκληρούς ανθρώπους τόσο στους φρουρούς όσο και στους κρατούμενους."}, "answer": true, "why": {"en": "He concluded that decency is a personal choice found in every group.", "el": "Κατέληξε ότι η αξιοπρέπεια είναι προσωπική επιλογή που βρίσκεται σε κάθε ομάδα."}},
+    {"s": {"en": "Frankl advises making happiness your direct, main goal.", "el": "Ο Φρανκλ συμβουλεύει να κάνεις την ευτυχία άμεσο και κύριο στόχο σου."}, "answer": false, "why": {"en": "He says happiness cannot be pursued; it ensues from meaning and dedication.", "el": "Λέει ότι η ευτυχία δεν κυνηγιέται· προκύπτει από το νόημα και την αφοσίωση."}},
+    {"s": {"en": "Paradoxical intention asks you to wish for the very thing you fear.", "el": "Η παράδοξη πρόθεση σού ζητά να ευχηθείς ακριβώς αυτό που φοβάσαι."}, "answer": true, "why": {"en": "Like the doctor who decided to «sweat buckets», humour breaks the fear's power.", "el": "Όπως ο γιατρός που αποφάσισε να «ιδρώσει κουβάδες», το χιούμορ σπάει τη δύναμη του φόβου."}},
+    {"s": {"en": "Right after liberation, most prisoners felt overwhelming joy.", "el": "Αμέσως μετά την απελευθέρωση, οι περισσότεροι κρατούμενοι ένιωσαν συντριπτική χαρά."}, "answer": false, "why": {"en": "Many could not feel joy at first; freedom felt unreal and feeling had to return slowly.", "el": "Πολλοί δεν μπορούσαν αρχικά να χαρούν· η ελευθερία έμοιαζε εξωπραγματική και το συναίσθημα γύρισε σιγά σιγά."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Logotherapy", "el": "Λογοθεραπεία"}, "b": {"en": "Therapy built on the search for meaning", "el": "Θεραπεία που στηρίζεται στην αναζήτηση νοήματος"}},
+    {"a": {"en": "Will to meaning", "el": "Βούληση για νόημα"}, "b": {"en": "Our deepest drive, according to Frankl", "el": "Η βαθύτερη ορμή μας, κατά τον Φρανκλ"}},
+    {"a": {"en": "Existential vacuum", "el": "Υπαρξιακό κενό"}, "b": {"en": "Inner emptiness when life feels meaningless", "el": "Εσωτερική άδεια όταν η ζωή μοιάζει χωρίς νόημα"}},
+    {"a": {"en": "Paradoxical intention", "el": "Παράδοξη πρόθεση"}, "b": {"en": "Wishing, with humour, for what you fear", "el": "Να εύχεσαι, με χιούμορ, αυτό που φοβάσαι"}},
+    {"a": {"en": "Tragic optimism", "el": "Τραγική αισιοδοξία"}, "b": {"en": "Yes to life despite pain, guilt and death", "el": "Ναι στη ζωή παρά πόνο, ενοχή και θάνατο"}},
+    {"a": {"en": "The last freedom", "el": "Η τελευταία ελευθερία"}, "b": {"en": "Choosing your attitude in any situation", "el": "Να διαλέγεις τη στάση σου σε κάθε κατάσταση"}}
+  ],
+  "missions": [
+    {"en": "Write your «why» for your work in one sentence and stick it where you see it before your first call.", "el": "Γράψε το «γιατί» της δουλειάς σου σε μία πρόταση και κόλλησέ το εκεί που το βλέπεις πριν από το πρώτο τηλέφωνο."},
+    {"en": "Send one person you love a message naming one specific thing they mean to you.", "el": "Στείλε σε έναν άνθρωπο που αγαπάς ένα μήνυμα με ένα συγκεκριμένο πράγμα που σημαίνει για σένα."},
+    {"en": "Fill the three columns Work, Love and Attitude with at least two lines each.", "el": "Συμπλήρωσε τις τρεις στήλες Δουλειά, Αγάπη και Στάση με τουλάχιστον δύο γραμμές η καθεμία."},
+    {"en": "Before five cold calls, use paradoxical intention: jokingly wish to stumble, then notice how you actually sound.", "el": "Πριν από πέντε cold calls, χρησιμοποίησε την παράδοξη πρόθεση: εύξου για πλάκα να τα μπερδέψεις και πρόσεξε πώς ακούγεσαι στην πραγματικότητα."},
+    {"en": "List ten things already safe in your «granary»: people you helped, work you built, moments you loved.", "el": "Γράψε δέκα πράγματα που είναι ήδη φυλαγμένα στην «αποθήκη» σου: ανθρώπους που βοήθησες, έργα που έχτισες, στιγμές που αγάπησες."}
+  ],
+  "mantra": {"en": "I can't choose everything that happens. I can always choose my answer.", "el": "Δεν διαλέγω ό,τι μου συμβαίνει. Διαλέγω πάντα την απάντησή μου."},
+  "careful": {
+    "en": "This is a memoir written in nine days, soon after the war. Frankl himself says survival depended mostly on luck: never read it as saying that those who died lacked meaning or courage. Historians note the book compresses his path, as he spent only days in Auschwitz and most of his time in Dachau subcamps. Logotherapy has far less research behind it than mainstream therapies, and its idea of an ultimate meaning is a philosophical belief, not science.",
+    "el": "Είναι μια προσωπική αφήγηση γραμμένη σε εννιά μέρες, αμέσως μετά τον πόλεμο. Ο ίδιος ο Φρανκλ λέει ότι η επιβίωση εξαρτιόταν κυρίως από την τύχη: μην τη διαβάσεις ποτέ σαν να λέει ότι όσοι πέθαναν δεν είχαν νόημα ή θάρρος. Οι ιστορικοί σημειώνουν ότι το βιβλίο συμπυκνώνει τη διαδρομή του, αφού έμεινε στο Άουσβιτς μόνο λίγες μέρες και τον περισσότερο χρόνο σε παραρτήματα του Νταχάου. Η λογοθεραπεία έχει πολύ λιγότερη έρευνα πίσω της από τις κύριες ψυχοθεραπείες, και η ιδέα ενός απόλυτου νοήματος είναι φιλοσοφική πεποίθηση, όχι επιστήμη."
+  },
+  "connects": [
+    {"book": "meditations", "note": {"en": "Marcus and Frankl both place freedom in your judgement and attitude; Frankl tested that Stoic idea in the worst conditions imaginable.", "el": "Ο Μάρκος και ο Φρανκλ βάζουν και οι δύο την ελευθερία στην κρίση και τη στάση σου· ο Φρανκλ δοκίμασε αυτή τη στωική ιδέα στις χειρότερες συνθήκες που μπορεί να φανταστεί κανείς."}},
+    {"book": "obstacle-is-the-way", "note": {"en": "Holiday turns the choice of attitude into a practical method for everyday setbacks, while Frankl shows its deepest, most serious form.", "el": "Ο Χόλιντεϊ κάνει την επιλογή στάσης πρακτική μέθοδο για τις καθημερινές αναποδιές, ενώ ο Φρανκλ δείχνει τη βαθύτερη, πιο σοβαρή της μορφή."}},
+    {"book": "four-agreements", "note": {"en": "Ruiz says «don't take anything personally»; Frankl goes deeper: even what is done to you leaves the choice of your answer to you.", "el": "Ο Ρουίς λέει «μην παίρνεις τίποτα προσωπικά»· ο Φρανκλ πάει πιο βαθιά: ακόμα κι όσα σου κάνουν σού αφήνουν την επιλογή της απάντησης."}}
+  ]
+}

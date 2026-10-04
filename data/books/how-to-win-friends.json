@@ -1,0 +1,626 @@
+{
+  "id": "how-to-win-friends",
+  "title": {"en": "How to Win Friends and Influence People", "el": "Πώς να κερδίζετε φίλους και να επηρεάζετε τους ανθρώπους"},
+  "author": "Dale Carnegie",
+  "authorEl": "Ντέιλ Κάρνεγκι",
+  "year": 1936,
+  "shelf": "sales",
+  "skills": {"communication": 3, "persuasion": 2, "leadership": 2},
+  "oneLine": {
+    "en": "People act from feelings and pride, so stop criticising, become honestly interested in them, and help them feel important; they will like you and follow you.",
+    "el": "Οι άνθρωποι κινούνται από συναισθήματα και φιλότιμο: σταμάτα να κατακρίνεις, ενδιαφέρσου ειλικρινά γι' αυτούς και κάν' τους να νιώσουν σημαντικοί, και θα σε συμπαθήσουν και θα σε ακολουθήσουν."
+  },
+  "story": {
+    "en": "Dale Carnegie grew up poor on a Missouri farm, sold bacon and soap, failed as an actor, then started teaching public speaking to adults at a New York YMCA in 1912. His classes turned into a course on dealing with people, and in 1936 into this book. It has sold tens of millions of copies and is still the most read book on getting along with others, because its rules are simple and work.",
+    "el": "Ο Ντέιλ Κάρνεγκι μεγάλωσε φτωχός σε μια φάρμα στο Μιζούρι, πούλησε μπέικον και σαπούνια, απέτυχε ως ηθοποιός και το 1912 άρχισε να διδάσκει δημόσιο λόγο σε ενήλικες στη YMCA της Νέας Υόρκης. Τα μαθήματά του έγιναν σεμινάριο για το πώς φερόμαστε στους ανθρώπους και το 1936 έγιναν αυτό το βιβλίο. Έχει πουλήσει δεκάδες εκατομμύρια αντίτυπα και παραμένει το πιο διαβασμένο βιβλίο για τις ανθρώπινες σχέσεις, γιατί οι κανόνες του είναι απλοί και δουλεύουν."
+  },
+  "forYou": {
+    "en": "Your business runs on people liking and trusting you: doctors on the phone, clients in the chat, a small team you want to grow. Carnegie gives thirty simple rules for exactly this. They help you open cold calls warmly, handle difficult clients without fights, correct a team member without hurting him, and get people to want what you offer.",
+    "el": "Η δουλειά σου στηρίζεται στο να σε συμπαθούν και να σε εμπιστεύονται οι άνθρωποι: οι γιατροί στο τηλέφωνο, οι πελάτες στο chat, η μικρή ομάδα που θέλεις να μεγαλώσεις. Ο Κάρνεγκι δίνει τριάντα απλούς κανόνες ακριβώς γι' αυτό. Σε βοηθούν να ανοίγεις τα cold calls ζεστά, να χειρίζεσαι δύσκολους πελάτες χωρίς καβγάδες, να διορθώνεις έναν συνεργάτη χωρίς να τον πληγώνεις και να κάνεις τον κόσμο να θέλει αυτό που προσφέρεις."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Don't criticise, condemn or complain", "el": "Μην κατακρίνεις, μην καταδικάζεις, μη γκρινιάζεις"},
+      "explain": {
+        "en": "Criticism almost never changes people. It hurts their pride, makes them defend themselves and leaves resentment. Even criminals, Carnegie notes, usually see themselves as good people. So instead of blaming, try to understand why someone did what they did. That is harder than criticising, and it is what makes people willing to change.",
+        "el": "Η κριτική σχεδόν ποτέ δεν αλλάζει κανέναν. Πληγώνει τον εγωισμό του, τον βάζει να αμυνθεί και αφήνει πίκρα. Ακόμα και οι εγκληματίες, παρατηρεί ο Κάρνεγκι, συνήθως θεωρούν τον εαυτό τους καλό άνθρωπο. Άρα, αντί να κατηγορείς, προσπάθησε να καταλάβεις γιατί ο άλλος έκανε αυτό που έκανε. Είναι πιο δύσκολο από την κριτική, και είναι αυτό που κάνει τον άλλον πρόθυμο να αλλάξει."
+      },
+      "example": {
+        "en": "Test pilot Bob Hoover nearly crashed when both engines died: a young mechanic had filled his propeller plane with jet fuel. Back on the ground, instead of shouting, Hoover told him he wanted him to service his plane again the next day, to show he trusted him never to repeat the mistake.",
+        "el": "Ο πιλότος δοκιμών Μπομπ Χούβερ παραλίγο να συντριβεί όταν έσβησαν και οι δύο κινητήρες: ένας νεαρός μηχανικός είχε βάλει καύσιμο τζετ στο ελικοφόρο αεροπλάνο του. Στο έδαφος, αντί να φωνάξει, ο Χούβερ τού είπε ότι ήθελε εκείνος να ετοιμάσει ξανά το αεροπλάνο του την επόμενη μέρα, για να δείξει ότι τον εμπιστευόταν πως δεν θα το ξανάκανε."
+      },
+      "apply": {
+        "en": "When a team member makes a mistake on a client site, don't write «How did you miss this?» Ask: «What happened here? Let's see how we stop it happening again.» Then give him the next similar task, to show you still trust him.",
+        "el": "Όταν ένας συνεργάτης κάνει λάθος σε ένα site πελάτη, μη γράψεις «Πώς σου ξέφυγε αυτό;» Ρώτα: «Τι έγινε εδώ; Ας δούμε πώς δεν θα ξανασυμβεί». Και δώσ' του την επόμενη παρόμοια δουλειά, για να δει ότι συνεχίζεις να τον εμπιστεύεσαι."
+      },
+      "check": {
+        "q": {"en": "Why does Carnegie say criticism rarely works?", "el": "Γιατί ο Κάρνεγκι λέει ότι η κριτική σπάνια πιάνει;"},
+        "options": [
+          {"en": "People are too busy to listen to it", "el": "Ο κόσμος είναι πολύ απασχολημένος για να την ακούσει"},
+          {"en": "It is usually based on wrong facts", "el": "Συνήθως στηρίζεται σε λάθος στοιχεία"},
+          {"en": "It hurts pride and makes people defend themselves", "el": "Πληγώνει τον εγωισμό και βάζει τον άλλον σε άμυνα"}
+        ],
+        "answer": 2,
+        "why": {"en": "A person defending his pride is not open to changing.", "el": "Όποιος υπερασπίζεται τον εγωισμό του δεν είναι ανοιχτός στο να αλλάξει."}
+      }
+    },
+    {
+      "title": {"en": "Honest appreciation, not flattery", "el": "Ειλικρινής εκτίμηση, όχι κολακεία"},
+      "explain": {
+        "en": "One of the deepest human needs, Carnegie says, is the wish to feel important and appreciated. Most people are starved of it. Give honest, specific appreciation and people will work hard to deserve it. But flattery, praise that is cheap and untrue, is easy to spot and backfires. The difference: appreciation is sincere and about something real; flattery is about getting something.",
+        "el": "Μία από τις βαθύτερες ανθρώπινες ανάγκες, λέει ο Κάρνεγκι, είναι η επιθυμία να νιώθεις σημαντικός και να σε εκτιμούν. Οι περισσότεροι πεινάνε γι' αυτό. Δώσε ειλικρινή, συγκεκριμένη εκτίμηση και ο άλλος θα δουλέψει σκληρά για να την αξίζει. Η κολακεία όμως, ο φθηνός και ψεύτικος έπαινος, φαίνεται εύκολα και γυρίζει μπούμερανγκ. Η διαφορά: η εκτίμηση είναι ειλικρινής και αφορά κάτι αληθινό. Η κολακεία έχει σκοπό να πάρεις κάτι."
+      },
+      "example": {
+        "en": "The book says Andrew Carnegie paid Charles Schwab, the head of his steel company, a famous salary. Schwab said his greatest asset was not knowing steel, but arousing enthusiasm in people, and that he did it through appreciation and encouragement, never criticism.",
+        "el": "Το βιβλίο λέει ότι ο Άντριου Κάρνεγκι πλήρωνε τον Τσαρλς Σουόμπ, επικεφαλής της χαλυβουργίας του, έναν μυθικό μισθό. Ο Σουόμπ έλεγε ότι το μεγαλύτερο προσόν του δεν ήταν ότι ήξερε από ατσάλι, αλλά ότι ενθουσίαζε τους ανθρώπους, και ότι το πετύχαινε με εκτίμηση και ενθάρρυνση, ποτέ με κριτική."
+      },
+      "apply": {
+        "en": "When a client sends good material, say so specifically: «Your photos of the practice are excellent, the light is perfect, they'll make the site.» To a team member: «The animation on the dentist's hero was really smart.» Specific and true, never generic.",
+        "el": "Όταν ένας πελάτης στέλνει καλό υλικό, πες το συγκεκριμένα: «Οι φωτογραφίες σας από το ιατρείο είναι εξαιρετικές, το φως είναι τέλειο, θα απογειώσουν το site». Σε συνεργάτη: «Το animation στην πρώτη οθόνη του οδοντιάτρου ήταν πολύ έξυπνο». Συγκεκριμένα και αληθινά, ποτέ γενικόλογα."
+      },
+      "check": {
+        "q": {"en": "What separates appreciation from flattery?", "el": "Τι ξεχωρίζει την εκτίμηση από την κολακεία;"},
+        "options": [
+          {"en": "Appreciation is sincere and about something real", "el": "Η εκτίμηση είναι ειλικρινής και αφορά κάτι αληθινό"},
+          {"en": "Flattery is always said in public", "el": "Η κολακεία λέγεται πάντα δημόσια"},
+          {"en": "Appreciation uses fewer words", "el": "Η εκτίμηση έχει λιγότερες λέξεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "Flattery is fake and self-serving; appreciation is true and specific.", "el": "Η κολακεία είναι ψεύτικη και ιδιοτελής. Η εκτίμηση είναι αληθινή και συγκεκριμένη."}
+      }
+    },
+    {
+      "title": {"en": "Talk about what they want", "el": "Μίλα για αυτό που θέλει εκείνος"},
+      "explain": {
+        "en": "Carnegie loved strawberries and cream, but when he went fishing he put worms on the hook, because that is what fish want. People are the same. Nobody cares what you want; they care what they want. So the only way to move someone is to talk about their wants and show how to get them. Arouse an eager want in the other person.",
+        "el": "Ο Κάρνεγκι λάτρευε τις φράουλες με κρέμα, αλλά όταν πήγαινε για ψάρεμα έβαζε σκουλήκια στο αγκίστρι, γιατί αυτά θέλουν τα ψάρια. Το ίδιο και οι άνθρωποι. Κανείς δεν νοιάζεται τι θέλεις εσύ. Νοιάζεται τι θέλει ο ίδιος. Άρα ο μόνος τρόπος να κινήσεις κάποιον είναι να μιλήσεις για τις δικές του επιθυμίες και να του δείξεις πώς θα τις πετύχει. Ξύπνα μέσα του μια έντονη επιθυμία."
+      },
+      "example": {
+        "en": "Andrew Carnegie's nephews at Yale never answered their mother's letters. He bet he could get a reply without asking. He wrote them a chatty letter, adding that he was sending each five dollars, and did not enclose the money. They replied at once to thank «dear Uncle Andrew».",
+        "el": "Οι ανιψιοί του Άντριου Κάρνεγκι στο Γέιλ δεν απαντούσαν ποτέ στα γράμματα της μητέρας τους. Εκείνος έβαλε στοίχημα ότι θα έπαιρνε απάντηση χωρίς να τη ζητήσει. Τους έγραψε ένα κουβεντιαστό γράμμα και πρόσθεσε ότι στέλνει στον καθένα πέντε δολάρια, χωρίς να βάλει τα χρήματα μέσα. Απάντησαν αμέσως για να ευχαριστήσουν τον «αγαπημένο θείο Άντριου»."
+      },
+      "apply": {
+        "en": "Remove «we», «our team», «our technology» from your ad and script. Replace with what the doctor wants: «New patients find you on Google, see your practice, and book. You pay nothing for the build.» Ask yourself before every message: «How does this help him get what he wants?»",
+        "el": "Βγάλε από τη διαφήμιση και το σενάριο το «εμείς», «η ομάδα μας», «η τεχνολογία μας». Βάλε αυτό που θέλει ο γιατρός: «Οι νέοι ασθενείς σάς βρίσκουν στο Google, βλέπουν το ιατρείο σας και κλείνουν ραντεβού. Για την κατασκευή δεν πληρώνετε τίποτα». Πριν από κάθε μήνυμα ρώτα τον εαυτό σου: «Πώς τον βοηθά αυτό να πάρει αυτό που θέλει;»"
+      },
+      "check": {
+        "q": {"en": "What does the worm on the hook teach?", "el": "Τι διδάσκει το σκουλήκι στο αγκίστρι;"},
+        "options": [
+          {"en": "Always offer the cheapest option", "el": "Πάντα να προσφέρεις την πιο φθηνή επιλογή"},
+          {"en": "Offer what the other wants, not what you like", "el": "Πρόσφερε αυτό που θέλει ο άλλος, όχι αυτό που σου αρέσει"},
+          {"en": "Patience matters more than skill", "el": "Η υπομονή μετράει περισσότερο από την ικανότητα"}
+        ],
+        "answer": 1,
+        "why": {"en": "You may love strawberries, but fish want worms: start from their wants.", "el": "Μπορεί να λατρεύεις τις φράουλες, αλλά τα ψάρια θέλουν σκουλήκια: ξεκίνα από τις δικές τους επιθυμίες."}
+      }
+    },
+    {
+      "title": {"en": "Be genuinely interested", "el": "Ενδιαφέρσου ειλικρινά"},
+      "explain": {
+        "en": "You make more friends in two months by being interested in other people than in two years trying to get them interested in you. Most people think about themselves all day. When you show real curiosity about their life, their work and their worries, they notice and open up. It must be genuine: people can feel when interest is only a technique.",
+        "el": "Κάνεις περισσότερους φίλους σε δύο μήνες ενδιαφερόμενος για τους άλλους απ' όσους σε δύο χρόνια προσπαθώντας να τους κάνεις να ενδιαφερθούν για σένα. Οι περισσότεροι σκέφτονται τον εαυτό τους όλη μέρα. Όταν δείχνεις πραγματική περιέργεια για τη ζωή τους, τη δουλειά τους και τις έγνοιες τους, το προσέχουν και ανοίγονται. Πρέπει όμως να είναι αληθινό: ο κόσμος καταλαβαίνει όταν το ενδιαφέρον είναι απλώς τεχνική."
+      },
+      "example": {
+        "en": "Theodore Roosevelt's valet, James Amos, told how his wife once asked the President what a bobwhite bird looked like. Later Roosevelt phoned their small cottage himself to tell her one was sitting outside her window. Staff adored him for such small acts of real interest.",
+        "el": "Ο υπηρέτης του Θίοντορ Ρούζβελτ, ο Τζέιμς Έιμος, διηγήθηκε ότι η γυναίκα του ρώτησε κάποτε τον Πρόεδρο πώς είναι ένα πουλί που λέγεται «μπόμπγουάιτ». Αργότερα ο Ρούζβελτ πήρε ο ίδιος τηλέφωνο στο σπιτάκι τους για να της πει ότι ένα τέτοιο πουλί καθόταν έξω από το παράθυρό της. Το προσωπικό τον λάτρευε για τέτοιες μικρές πράξεις αληθινού ενδιαφέροντος."
+      },
+      "apply": {
+        "en": "Before a video meeting, read the doctor's current site and reviews for two minutes. Open with a real question: «I saw you specialise in children's orthodontics. What made you choose that?» Listen fully before you mention the website.",
+        "el": "Πριν από μια βιντεοκλήση, διάβασε για δύο λεπτά το τωρινό site του γιατρού και τις κριτικές του. Άνοιξε με μια αληθινή ερώτηση: «Είδα ότι ειδικεύεστε στην παιδική ορθοδοντική. Τι σας έκανε να διαλέξετε αυτόν τον τομέα;» Άκου μέχρι τέλους πριν αναφέρεις την ιστοσελίδα."
+      },
+      "check": {
+        "q": {"en": "What is the fastest way to make friends, according to Carnegie?", "el": "Ποιος είναι ο πιο γρήγορος τρόπος να κάνεις φίλους, κατά τον Κάρνεγκι;"},
+        "options": [
+          {"en": "Impress people with your achievements", "el": "Να εντυπωσιάζεις τον κόσμο με τα επιτεύγματά σου"},
+          {"en": "Be genuinely interested in them", "el": "Να ενδιαφέρεσαι ειλικρινά γι' αυτούς"},
+          {"en": "Agree with everything they say", "el": "Να συμφωνείς με ό,τι λένε"}
+        ],
+        "answer": 1,
+        "why": {"en": "Interest in others wins more friends than trying to make them interested in you.", "el": "Το ενδιαφέρον για τους άλλους κερδίζει περισσότερους φίλους από την προσπάθεια να ενδιαφερθούν εκείνοι για σένα."}
+      }
+    },
+    {
+      "title": {"en": "Smile", "el": "Χαμογέλα"},
+      "explain": {
+        "en": "A smile says, without words: «I like you, you make me happy, I'm glad to see you.» A real smile, not a forced grin, makes people relax and warm to you. Carnegie says it works even on the phone, because people can hear it in your voice. If you don't feel like smiling, act as if you do; feelings often follow actions.",
+        "el": "Ένα χαμόγελο λέει χωρίς λόγια: «Μου αρέσεις, με κάνεις χαρούμενο, χαίρομαι που σε βλέπω». Ένα αληθινό χαμόγελο, όχι ένα ψεύτικο μορφασμό, κάνει τον άλλον να χαλαρώσει και να σε συμπαθήσει. Ο Κάρνεγκι λέει ότι δουλεύει ακόμα και στο τηλέφωνο, γιατί ακούγεται στη φωνή σου. Αν δεν έχεις διάθεση να χαμογελάσεις, κάνε σαν να έχεις. Τα συναισθήματα συχνά ακολουθούν τις πράξεις."
+      },
+      "example": {
+        "en": "A New York stockbroker in Carnegie's class rarely smiled, even at his wife. He decided to try it for a week: at breakfast, with the doorman, with the cashier. He reported more happiness at home and better results at work than in years.",
+        "el": "Ένας χρηματιστής από τη Νέα Υόρκη στο σεμινάριο του Κάρνεγκι σπάνια χαμογελούσε, ακόμα και στη γυναίκα του. Αποφάσισε να το δοκιμάσει για μια εβδομάδα: στο πρωινό, στον θυρωρό, στην ταμία. Είπε ότι είχε περισσότερη χαρά στο σπίτι και καλύτερα αποτελέσματα στη δουλειά απ' ό,τι για χρόνια."
+      },
+      "apply": {
+        "en": "Put a small mirror next to your phone and check you are smiling as the doctor answers. Say your name and Advon Media slowly, with a smile, as if greeting a friend. Start every video meeting with your camera on and a real smile before any word.",
+        "el": "Βάλε έναν μικρό καθρέφτη δίπλα στο τηλέφωνο και δες ότι χαμογελάς τη στιγμή που απαντά ο γιατρός. Πες το όνομά σου και την Advon Media αργά και χαμογελαστά, σαν να χαιρετάς φίλο. Ξεκίνα κάθε βιντεοκλήση με ανοιχτή κάμερα και ένα αληθινό χαμόγελο πριν από οποιαδήποτε λέξη."
+      },
+      "check": {
+        "q": {"en": "Why smile on a phone call no one can see?", "el": "Γιατί να χαμογελάς σε ένα τηλεφώνημα που δεν σε βλέπει κανείς;"},
+        "options": [
+          {"en": "Because the smile can be heard in your voice", "el": "Γιατί το χαμόγελο ακούγεται στη φωνή σου"},
+          {"en": "Because it helps you breathe faster", "el": "Γιατί σε βοηθά να αναπνέεις πιο γρήγορα"},
+          {"en": "It makes no difference on the phone", "el": "Στο τηλέφωνο δεν κάνει καμία διαφορά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Your tone carries your smile, and people respond to that warmth.", "el": "Ο τόνος σου μεταφέρει το χαμόγελο, και ο άλλος ανταποκρίνεται σε αυτή τη ζεστασιά."}
+      }
+    },
+    {
+      "title": {"en": "A name is the sweetest sound", "el": "Το όνομα είναι ο πιο γλυκός ήχος"},
+      "explain": {
+        "en": "To most people, their own name is the sweetest sound in any language. Remembering it and using it makes them feel noticed and respected. Forgetting it or getting it wrong does the opposite. Carnegie's advice: make an effort, repeat the name when you hear it, write it down, and connect it with something about the person.",
+        "el": "Για τους περισσότερους ανθρώπους, το δικό τους όνομα είναι ο πιο γλυκός ήχος σε κάθε γλώσσα. Όταν το θυμάσαι και το χρησιμοποιείς, νιώθουν ότι τους προσέχεις και τους σέβεσαι. Όταν το ξεχνάς ή το λες λάθος, γίνεται το αντίθετο. Η συμβουλή του Κάρνεγκι: κάνε προσπάθεια, επανάλαβε το όνομα όταν το ακούς, γράψ' το, και σύνδεσέ το με κάτι που αφορά τον άνθρωπο."
+      },
+      "example": {
+        "en": "To sell steel rails to the Pennsylvania Railroad, Andrew Carnegie named his new steel mill near Pittsburgh after the railroad's president: the Edgar Thomson Steel Works. Thomson's railroad became a customer.",
+        "el": "Για να πουλήσει ράγες στον σιδηρόδρομο της Πενσιλβάνια, ο Άντριου Κάρνεγκι έδωσε στη νέα του χαλυβουργία κοντά στο Πίτσμπουργκ το όνομα του προέδρου της σιδηροδρομικής εταιρείας: Edgar Thomson Steel Works. Ο σιδηρόδρομος του Τόμσον έγινε πελάτης."
+      },
+      "apply": {
+        "en": "Before every call, check the doctor's exact name and title on his listing. Use it naturally twice: «Dr Papadopoulou, good morning» and at the end «Thank you, Dr Papadopoulou.» In the client chat, open every reply with the client's name, spelled correctly, accents and all.",
+        "el": "Πριν από κάθε τηλεφώνημα, έλεγξε το ακριβές όνομα και τον τίτλο του γιατρού στην καταχώρισή του. Χρησιμοποίησέ το φυσικά δύο φορές: «Καλημέρα σας, κυρία Παπαδοπούλου» και στο τέλος «Σας ευχαριστώ πολύ, κυρία Παπαδοπούλου». Στο chat των πελατών, ξεκίνα κάθε απάντηση με το όνομα του πελάτη, γραμμένο σωστά, με τόνους και όλα."
+      },
+      "check": {
+        "q": {"en": "Why did Andrew Carnegie name his steel mill after Edgar Thomson?", "el": "Γιατί ο Άντριου Κάρνεγκι έδωσε στη χαλυβουργία του το όνομα του Έντγκαρ Τόμσον;"},
+        "options": [
+          {"en": "Thomson had paid for the building", "el": "Ο Τόμσον είχε πληρώσει το κτίριο"},
+          {"en": "It was the law to name factories after clients", "el": "Ήταν νόμος να παίρνουν τα εργοστάσια ονόματα πελατών"},
+          {"en": "Honouring his name won him as a customer", "el": "Τιμώντας το όνομά του τον κέρδισε για πελάτη"}
+        ],
+        "answer": 2,
+        "why": {"en": "People value their own name deeply; honouring it builds goodwill.", "el": "Ο καθένας εκτιμά βαθιά το όνομά του. Όταν το τιμάς, χτίζεις καλή διάθεση."}
+      }
+    },
+    {
+      "title": {"en": "Be a good listener", "el": "Να ακούς καλά"},
+      "explain": {
+        "en": "Most people want to be heard more than they want to hear you. If you want to be seen as a great conversationalist, be a great listener: ask questions they enjoy answering and encourage them to talk about themselves and their achievements. Give them full attention, don't interrupt, and don't wait just for your turn to speak.",
+        "el": "Οι περισσότεροι θέλουν να τους ακούσουν περισσότερο απ' όσο θέλουν να ακούσουν εσένα. Αν θέλεις να σε θεωρούν εξαιρετικό συνομιλητή, γίνε εξαιρετικός ακροατής: κάνε ερωτήσεις που χαίρονται να απαντούν και ενθάρρυνέ τους να μιλήσουν για τον εαυτό τους και για όσα πέτυχαν. Δώσε πλήρη προσοχή, μη διακόπτεις και μην περιμένεις απλώς τη σειρά σου να μιλήσεις."
+      },
+      "example": {
+        "en": "At a dinner party Carnegie met a famous botanist and listened to him for hours, asking about plants and gardens, saying almost nothing himself. At the end the botanist told the host that Carnegie was «a most interesting conversationalist».",
+        "el": "Σε ένα δείπνο ο Κάρνεγκι γνώρισε έναν διάσημο βοτανολόγο και τον άκουγε για ώρες, ρωτώντας για φυτά και κήπους, χωρίς να πει σχεδόν τίποτα ο ίδιος. Στο τέλος ο βοτανολόγος είπε στον οικοδεσπότη ότι ο Κάρνεγκι ήταν «εξαιρετικά ενδιαφέρων συνομιλητής»."
+      },
+      "apply": {
+        "en": "In the first ten minutes of a meeting, talk less than a third of the time. Ask: «How do most new patients find you today?» and «What would you like a new patient to feel when they see your site?» Take notes and repeat back what you heard.",
+        "el": "Στα πρώτα δέκα λεπτά ενός ραντεβού, μίλα λιγότερο από το ένα τρίτο του χρόνου. Ρώτα: «Πώς σας βρίσκουν σήμερα οι περισσότεροι νέοι ασθενείς;» και «Τι θα θέλατε να νιώσει ένας νέος ασθενής όταν δει το site σας;» Κράτα σημειώσεις και επανάλαβε όσα άκουσες."
+      },
+      "check": {
+        "q": {"en": "Why did the botanist call Carnegie a great conversationalist?", "el": "Γιατί ο βοτανολόγος είπε τον Κάρνεγκι εξαιρετικό συνομιλητή;"},
+        "options": [
+          {"en": "Carnegie knew a lot about plants", "el": "Ο Κάρνεγκι ήξερε πολλά για τα φυτά"},
+          {"en": "Carnegie told very funny stories", "el": "Ο Κάρνεγκι έλεγε πολύ αστείες ιστορίες"},
+          {"en": "Carnegie listened with real interest", "el": "Ο Κάρνεγκι άκουγε με αληθινό ενδιαφέρον"}
+        ],
+        "answer": 2,
+        "why": {"en": "Being truly listened to feels like a great conversation to the speaker.", "el": "Όταν σε ακούνε πραγματικά, σου φαίνεται ότι έκανες μια υπέροχη κουβέντα."}
+      }
+    },
+    {
+      "title": {"en": "Speak about their interests", "el": "Μίλα για ό,τι τον ενδιαφέρει"},
+      "explain": {
+        "en": "The royal road to a person's heart is to talk about the things they treasure most. Find out what they care about, their work, their hobby, their children, and talk about that. It shows respect and makes the conversation enjoyable for them. It also benefits you: you learn about new subjects and the person relaxes.",
+        "el": "Ο βασιλικός δρόμος για την καρδιά κάποιου είναι να μιλήσεις για όσα αγαπά περισσότερο. Μάθε τι τον ενδιαφέρει, τη δουλειά του, το χόμπι του, τα παιδιά του, και μίλα γι' αυτό. Δείχνει σεβασμό και κάνει την κουβέντα ευχάριστη γι' αυτόν. Ωφελεί κι εσένα: μαθαίνεις καινούργια πράγματα και ο άλλος χαλαρώνει."
+      },
+      "example": {
+        "en": "Visitors were amazed by how much Theodore Roosevelt knew about their fields. Whether you were a cowboy, a politician or a diplomat, he knew what to talk about. The reason: the night before a visit, he read up on the subject his guest cared about most.",
+        "el": "Οι επισκέπτες του Θίοντορ Ρούζβελτ έμεναν έκπληκτοι με το πόσα ήξερε για τον τομέα τους. Είτε ήσουν καουμπόι, είτε πολιτικός, είτε διπλωμάτης, ήξερε τι να συζητήσει μαζί σου. Ο λόγος: το προηγούμενο βράδυ διάβαζε για το θέμα που ενδιέφερε περισσότερο τον καλεσμένο του."
+      },
+      "apply": {
+        "en": "Before calling a psychologist, look at her specialty: couples, children, anxiety. Open with it: «I saw you work a lot with couples. Do most of them find you online or by recommendation?» Talk about her practice and patients, not your design tools.",
+        "el": "Πριν πάρεις μια ψυχολόγο, δες την ειδίκευσή της: ζευγάρια, παιδιά, άγχος. Άνοιξε με αυτό: «Είδα ότι δουλεύετε πολύ με ζευγάρια. Οι περισσότεροι σας βρίσκουν στο ίντερνετ ή από σύσταση;» Μίλα για το γραφείο της και τους θεραπευόμενούς της, όχι για τα εργαλεία σχεδίασης που χρησιμοποιείς."
+      },
+      "check": {
+        "q": {"en": "What did Roosevelt do the night before a visit?", "el": "Τι έκανε ο Ρούζβελτ το βράδυ πριν από μια επίσκεψη;"},
+        "options": [
+          {"en": "Read about what his visitor cared about", "el": "Διάβαζε για ό,τι ενδιέφερε τον επισκέπτη του"},
+          {"en": "Wrote a speech about his own plans", "el": "Έγραφε έναν λόγο για τα δικά του σχέδια"},
+          {"en": "Asked advisers to handle the meeting", "el": "Ζητούσε από συμβούλους να αναλάβουν τη συνάντηση"}
+        ],
+        "answer": 0,
+        "why": {"en": "He prepared to talk about the guest's interests, which made people love meeting him.", "el": "Προετοιμαζόταν να μιλήσει για τα ενδιαφέροντα του καλεσμένου, και γι' αυτό ο κόσμος λάτρευε να τον συναντά."}
+      }
+    },
+    {
+      "title": {"en": "Make them feel important, sincerely", "el": "Κάν' τον να νιώσει σημαντικός, ειλικρινά"},
+      "explain": {
+        "en": "Everyone you meet feels superior to you in some way. Find that way and honestly let them know you see it. Carnegie calls this the most important rule of human relations: always make the other person feel important, and mean it. Small courtesies count too: «I'm sorry to trouble you», «Would you mind...?», «Thank you».",
+        "el": "Κάθε άνθρωπος που συναντάς νιώθει ότι σε ξεπερνά σε κάτι. Βρες σε τι, και δείξ' του ειλικρινά ότι το βλέπεις. Ο Κάρνεγκι το λέει τον πιο σημαντικό κανόνα των ανθρώπινων σχέσεων: κάνε πάντα τον άλλον να νιώθει σημαντικός, και να το εννοείς. Μετράνε και οι μικρές ευγένειες: «Συγγνώμη για την ενόχληση», «Θα σας πείραζε να...;», «Σας ευχαριστώ»."
+      },
+      "example": {
+        "en": "Waiting in a slow post office queue, Carnegie watched a bored, grumpy clerk. He decided to find something to honestly admire. When his turn came he said, «I certainly wish I had your head of hair.» The clerk lit up, chatted happily, and Carnegie left with a smile on both faces.",
+        "el": "Περιμένοντας σε μια αργή ουρά ταχυδρομείου, ο Κάρνεγκι παρατηρούσε έναν βαριεστημένο, κακόκεφο υπάλληλο. Αποφάσισε να βρει κάτι να θαυμάσει ειλικρινά. Όταν ήρθε η σειρά του, του είπε: «Πόσο θα ήθελα να είχα τα μαλλιά σας». Ο υπάλληλος φωτίστηκε, έπιασε ευχάριστη κουβέντα, και έφυγαν και οι δύο χαμογελαστοί."
+      },
+      "apply": {
+        "en": "Find what each doctor is truly proud of: twenty years of practice, a specialty, great reviews. Say it: «You have dozens of excellent reviews, your patients clearly trust you. The site should show that.» It's true, it's about them, and it opens the door.",
+        "el": "Βρες για τι είναι πραγματικά περήφανος κάθε γιατρός: είκοσι χρόνια ιατρείο, μια εξειδίκευση, εξαιρετικές κριτικές. Πες το: «Έχετε δεκάδες εξαιρετικές κριτικές, φαίνεται ότι οι ασθενείς σας σας εμπιστεύονται. Αυτό πρέπει να το δείχνει και το site». Είναι αληθινό, αφορά εκείνον, και ανοίγει την πόρτα."
+      },
+      "check": {
+        "q": {"en": "What does Carnegie call the most important rule of human relations?", "el": "Ποιον κανόνα ο Κάρνεγκι θεωρεί τον πιο σημαντικό στις ανθρώπινες σχέσεις;"},
+        "options": [
+          {"en": "Always make the other person feel important, sincerely", "el": "Κάνε πάντα τον άλλον να νιώθει σημαντικός, ειλικρινά"},
+          {"en": "Always tell people the hard truth", "el": "Λέγε πάντα στους ανθρώπους τη σκληρή αλήθεια"},
+          {"en": "Never talk about yourself at all", "el": "Ποτέ μη μιλάς καθόλου για τον εαυτό σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "The deepest wish people have is to feel important; meeting it sincerely wins them.", "el": "Η βαθύτερη επιθυμία του ανθρώπου είναι να νιώθει σημαντικός. Όταν την ικανοποιείς ειλικρινά, τον κερδίζεις."}
+      }
+    },
+    {
+      "title": {"en": "You can't win an argument", "el": "Έναν καβγά δεν τον κερδίζεις ποτέ"},
+      "explain": {
+        "en": "The only way to get the best of an argument is to avoid it. If you lose, you lose. If you win, the other person feels humiliated and resents you, so you still lose. Never say «You're wrong». Show respect for the other person's opinion, look for points of agreement, and if you must disagree, ask questions instead of attacking.",
+        "el": "Ο μόνος τρόπος να βγεις κερδισμένος από έναν καβγά είναι να τον αποφύγεις. Αν χάσεις, έχασες. Αν κερδίσεις, ο άλλος νιώθει ταπεινωμένος και σου κρατάει κακία, άρα πάλι έχασες. Μη λες ποτέ «Κάνετε λάθος». Δείξε σεβασμό στη γνώμη του άλλου, ψάξε σημεία που συμφωνείτε, και αν πρέπει να διαφωνήσεις, κάνε ερωτήσεις αντί να επιτεθείς."
+      },
+      "example": {
+        "en": "At a London dinner, a guest said a famous quote came from the Bible. Carnegie corrected him: it was Shakespeare. His friend, a Shakespeare expert, kicked him under the table and said the guest was right. Later he explained: «Why prove to a man he is wrong? Always avoid the acute angle.»",
+        "el": "Σε ένα δείπνο στο Λονδίνο, ένας καλεσμένος είπε ότι ένα γνωστό ρητό ήταν από τη Βίβλο. Ο Κάρνεγκι τον διόρθωσε: ήταν από τον Σαίξπηρ. Ο φίλος του, ειδικός στον Σαίξπηρ, τον κλότσησε κάτω από το τραπέζι και είπε ότι ο καλεσμένος είχε δίκιο. Αργότερα του εξήγησε: «Γιατί να αποδείξεις σε κάποιον ότι κάνει λάθος; Απόφευγε πάντα τις αιχμηρές γωνίες»."
+      },
+      "apply": {
+        "en": "When a client insists on a huge yellow banner you know will hurt the site, don't say «That's a mistake». Say: «I see why you want people to notice the offer. Can I show you two ways and you choose which feels better?»",
+        "el": "Όταν ένας πελάτης επιμένει σε ένα τεράστιο κίτρινο banner που ξέρεις ότι θα χαλάσει το site, μην πεις «Αυτό είναι λάθος». Πες: «Καταλαβαίνω γιατί θέλετε να προσέξει ο κόσμος την προσφορά. Να σας δείξω δύο τρόπους και να διαλέξετε ποιος σας αρέσει περισσότερο;»"
+      },
+      "check": {
+        "q": {"en": "Why can't you «win» an argument, according to Carnegie?", "el": "Γιατί, κατά τον Κάρνεγκι, έναν καβγά δεν τον «κερδίζεις»;"},
+        "options": [
+          {"en": "Because the other person is usually right", "el": "Γιατί ο άλλος συνήθως έχει δίκιο"},
+          {"en": "Because even if you win, he resents you", "el": "Γιατί ακόμα κι αν κερδίσεις, σου κρατάει κακία"},
+          {"en": "Because arguments always last too long", "el": "Γιατί οι καβγάδες κρατάνε πάντα πολύ"}
+        ],
+        "answer": 1,
+        "why": {"en": "A humiliated person is not persuaded; he just dislikes you.", "el": "Όποιος ταπεινώνεται δεν πείθεται. Απλώς σε αντιπαθεί."}
+      }
+    },
+    {
+      "title": {"en": "Admit mistakes fast", "el": "Παραδέξου γρήγορα το λάθος σου"},
+      "explain": {
+        "en": "If you are wrong, admit it quickly and clearly, before the other person can say it. Saying the critical things about yourself first takes away their need to attack, and they usually become generous. It also takes courage, so it earns respect. Defending a mistake turns a small problem into a fight.",
+        "el": "Αν έκανες λάθος, παραδέξου το γρήγορα και καθαρά, πριν προλάβει να το πει ο άλλος. Όταν λες πρώτος τα αρνητικά για τον εαυτό σου, του αφαιρείς την ανάγκη να επιτεθεί, και συνήθως γίνεται γενναιόδωρος. Θέλει και θάρρος, γι' αυτό κερδίζει σεβασμό. Όταν υπερασπίζεσαι ένα λάθος, ένα μικρό πρόβλημα γίνεται καβγάς."
+      },
+      "example": {
+        "en": "Carnegie often walked his small dog without a muzzle or leash in a park, against the rules. One day a policeman caught him. Carnegie spoke first: «Officer, you've caught me red-handed. I'm guilty.» The officer softened, said a small dog was harmless, and let him go.",
+        "el": "Ο Κάρνεγκι έβγαζε συχνά βόλτα το σκυλάκι του σε ένα πάρκο χωρίς φίμωτρο και λουρί, παρά τους κανόνες. Μια μέρα τον έπιασε ένας αστυνομικός. Ο Κάρνεγκι μίλησε πρώτος: «Κύριε αστυφύλακα, με πιάσατε στα πράσα. Είμαι ένοχος». Ο αστυνομικός μαλάκωσε, είπε ότι ένα σκυλάκι δεν πειράζει κανέναν, και τον άφησε να φύγει."
+      },
+      "apply": {
+        "en": "If a client's site had the wrong phone number for two days, call before he notices: «I owe you an apology. Your phone number was wrong on the site for two days. It's fixed, and I've added a check so it can't happen again.»",
+        "el": "Αν το site ενός πελάτη είχε λάθος τηλέφωνο για δύο μέρες, πάρ' τον πριν το καταλάβει: «Σας οφείλω μια συγγνώμη. Το τηλέφωνό σας ήταν λάθος στο site για δύο μέρες. Το διόρθωσα, και έβαλα έναν έλεγχο ώστε να μην ξανασυμβεί»."
+      },
+      "check": {
+        "q": {"en": "What happened when Carnegie admitted his fault first?", "el": "Τι έγινε όταν ο Κάρνεγκι παραδέχτηκε πρώτος το λάθος του;"},
+        "options": [
+          {"en": "The policeman gave him a bigger fine", "el": "Ο αστυνομικός τού έβαλε μεγαλύτερο πρόστιμο"},
+          {"en": "The policeman became kind and let him go", "el": "Ο αστυνομικός έγινε καλοσυνάτος και τον άφησε"},
+          {"en": "The policeman ignored what he said", "el": "Ο αστυνομικός αγνόησε όσα είπε"}
+        ],
+        "answer": 1,
+        "why": {"en": "Admitting first removed the need to attack, so the other side became generous.", "el": "Η παραδοχή πρώτα αφαίρεσε την ανάγκη για επίθεση, και η άλλη πλευρά έγινε γενναιόδωρη."}
+      }
+    },
+    {
+      "title": {"en": "Start friendly, get early yeses", "el": "Ξεκίνα φιλικά, μάζεψε «ναι» από νωρίς"},
+      "explain": {
+        "en": "If you begin a hard conversation with anger, you lose the other person immediately. Begin in a friendly way, and start with points you both agree on. Socrates did this: he asked questions his opponents had to say «yes» to, step by step, until they agreed with a conclusion they would have rejected at the start. Once someone says «no», pride makes them defend it.",
+        "el": "Αν αρχίσεις μια δύσκολη κουβέντα με θυμό, χάνεις αμέσως τον άλλον. Ξεκίνα φιλικά και πιάσε πρώτα τα σημεία που συμφωνείτε. Έτσι έκανε ο Σωκράτης: έκανε ερωτήσεις στις οποίες ο συνομιλητής του έπρεπε να πει «ναι», βήμα βήμα, μέχρι να συμφωνήσει σε ένα συμπέρασμα που στην αρχή θα απέρριπτε. Μόλις κάποιος πει «όχι», ο εγωισμός τον κάνει να το υπερασπιστεί."
+      },
+      "example": {
+        "en": "During a bitter, bloody coal strike in Colorado, John D. Rockefeller Jr. was hated by the miners. He visited their homes, then spoke to their representatives in a warm, friendly way, as a friend glad to meet them. The book says he won much of their goodwill.",
+        "el": "Σε μια σκληρή, αιματηρή απεργία ανθρακωρύχων στο Κολοράντο, τον Τζον Ντ. Ροκφέλερ τον Νεότερο τον μισούσαν οι εργάτες. Επισκέφθηκε τα σπίτια τους και μετά μίλησε στους εκπροσώπους τους ζεστά και φιλικά, σαν φίλος που χαίρεται να τους γνωρίσει. Το βιβλίο λέει ότι κέρδισε μεγάλο μέρος της καλής τους διάθεσης."
+      },
+      "apply": {
+        "en": "With a client who pays late, start with what you agree on: «We both want your site to stay online and keep bringing patients, right?» «And you were happy with the changes this year?» Then: «So let's settle the renewal so nothing stops.»",
+        "el": "Με πελάτη που καθυστερεί την πληρωμή, ξεκίνα από όσα συμφωνείτε: «Και οι δύο θέλουμε το site σας να μείνει online και να συνεχίσει να φέρνει ασθενείς, σωστά;» «Και ήσασταν ικανοποιημένος με τις αλλαγές φέτος;» Και μετά: «Ας τακτοποιήσουμε λοιπόν την ανανέωση, για να μη σταματήσει τίποτα»."
+      },
+      "check": {
+        "q": {"en": "Why avoid getting a «no» early in a conversation?", "el": "Γιατί να αποφεύγεις ένα «όχι» νωρίς στην κουβέντα, κατά τον Κάρνεγκι;"},
+        "options": [
+          {"en": "Because «no» is impolite in most cultures", "el": "Γιατί το «όχι» είναι αγένεια στις περισσότερες κουλτούρες"},
+          {"en": "Because pride makes people stick to their «no»", "el": "Γιατί ο εγωισμός κάνει τον άλλον να μένει στο «όχι» του"},
+          {"en": "Because it wastes the other person's time", "el": "Γιατί χάνει τον χρόνο του άλλου"}
+        ],
+        "answer": 1,
+        "why": {"en": "Once said, a «no» becomes something to defend. (Voss later argues the opposite for cold openings.)", "el": "Μόλις ειπωθεί, το «όχι» γίνεται κάτι που πρέπει να υπερασπιστεί. (Ο Βος αργότερα υποστηρίζει το αντίθετο για τα πρώτα δευτερόλεπτα.)"}
+      }
+    },
+    {
+      "title": {"en": "Let them talk, let it be their idea", "el": "Άφησέ τον να μιλήσει, να είναι δική του ιδέα"},
+      "explain": {
+        "en": "Most people talk too much when trying to persuade. Let the other person do most of the talking; they know their business better than you. And people like ideas they think are their own far more than ideas handed to them. So suggest, ask, and let them reach the conclusion themselves. Don't fight for credit.",
+        "el": "Οι περισσότεροι μιλάνε πολύ όταν προσπαθούν να πείσουν. Άφησε τον άλλον να μιλήσει τον περισσότερο χρόνο. Ξέρει τη δουλειά του καλύτερα από σένα. Και οι άνθρωποι αγαπούν πολύ περισσότερο τις ιδέες που νομίζουν δικές τους από όσες τους σερβίρουν έτοιμες. Άρα πρότεινε, ρώτα, και άφησέ τον να φτάσει μόνος του στο συμπέρασμα. Μην παλεύεις για τα εύσημα."
+      },
+      "example": {
+        "en": "Colonel Edward House was one of President Woodrow Wilson's most trusted advisers. He learned that the best way to change Wilson's mind was to plant an idea casually so that Wilson became interested and thought about it himself. Weeks later Wilson would present it as his own, and House let him.",
+        "el": "Ο συνταγματάρχης Έντουαρντ Χάουζ ήταν από τους πιο έμπιστους συμβούλους του Προέδρου Γούντροου Ουίλσον. Έμαθε ότι ο καλύτερος τρόπος να αλλάξει γνώμη ο Ουίλσον ήταν να του «φυτέψει» μια ιδέα στο πέρασμα, ώστε να τον ενδιαφέρει και να τη σκεφτεί ο ίδιος. Εβδομάδες μετά ο Ουίλσον την παρουσίαζε ως δική του, και ο Χάουζ τον άφηνε."
+      },
+      "apply": {
+        "en": "Instead of telling a doctor «You need online booking», ask: «How many calls a day does your secretary get just to book appointments?» Let him say «Too many, we need online booking.» Then: «Great idea, we can add that.»",
+        "el": "Αντί να πεις στον γιατρό «Χρειάζεστε online ραντεβού», ρώτα: «Πόσα τηλέφωνα την ημέρα δέχεται η γραμματέας σας μόνο για ραντεβού;» Άφησέ τον να πει «Πάρα πολλά, θέλουμε online κλείσιμο ραντεβού». Και μετά: «Πολύ καλή ιδέα, μπορούμε να το προσθέσουμε»."
+      },
+      "check": {
+        "q": {"en": "Why did Colonel House let Wilson take credit for his ideas?", "el": "Γιατί ο Χάουζ άφηνε τον Ουίλσον να παίρνει τα εύσημα για τις ιδέες του;"},
+        "options": [
+          {"en": "He was afraid of the President", "el": "Φοβόταν τον Πρόεδρο"},
+          {"en": "His ideas were not very good", "el": "Οι ιδέες του δεν ήταν πολύ καλές"},
+          {"en": "People act on ideas they feel are their own", "el": "Ο κόσμος εφαρμόζει τις ιδέες που νιώθει δικές του"}
+        ],
+        "answer": 2,
+        "why": {"en": "An idea the other person owns gets done; the credit matters less than the result.", "el": "Μια ιδέα που ο άλλος νιώθει δική του γίνεται πράξη. Τα εύσημα μετράνε λιγότερο από το αποτέλεσμα."}
+      }
+    },
+    {
+      "title": {"en": "See it from their side", "el": "Δες το από τη δική του πλευρά"},
+      "explain": {
+        "en": "There is always a reason why people think and act as they do. Find it, and you understand them. Try honestly to see things from the other person's point of view, and be sympathetic to their ideas and wishes. Carnegie suggests a magic phrase: «I don't blame you for feeling as you do. If I were you, I'd feel the same.»",
+        "el": "Υπάρχει πάντα ένας λόγος που οι άνθρωποι σκέφτονται και φέρονται όπως φέρονται. Βρες τον, και θα τους καταλάβεις. Προσπάθησε ειλικρινά να δεις τα πράγματα από τη δική τους σκοπιά και δείξε κατανόηση στις ιδέες και στις επιθυμίες τους. Ο Κάρνεγκι προτείνει μια μαγική φράση: «Δεν σας κατηγορώ που νιώθετε έτσι. Αν ήμουν στη θέση σας, θα ένιωθα το ίδιο»."
+      },
+      "example": {
+        "en": "Impresario Sol Hurok managed the great Russian bass Feodor Chaliapin, who often said on concert day that his throat felt terrible. Hurok never argued. He sympathised: «What a pity, you mustn't sing, I'll cancel.» Feeling understood, Chaliapin usually asked him to come back later, and often sang.",
+        "el": "Ο ιμπρεσάριος Σολ Χιούροκ είχε υπό την ευθύνη του τον μεγάλο Ρώσο βαθύφωνο Φιόντορ Σαλιάπιν, που συχνά έλεγε τη μέρα της συναυλίας ότι ο λαιμός του είναι χάλια. Ο Χιούροκ ποτέ δεν διαφωνούσε. Έδειχνε κατανόηση: «Τι κρίμα, δεν πρέπει να τραγουδήσεις, θα την ακυρώσω». Νιώθοντας ότι τον καταλαβαίνουν, ο Σαλιάπιν συνήθως τον ζητούσε να ξαναπεράσει αργότερα, και συχνά τραγουδούσε."
+      },
+      "apply": {
+        "en": "When a client says «130 euros a year is a lot for something I barely use», answer: «I understand you feeling that way; if I didn't see results, I'd feel the same. Can I show you how many people visited your site this month?»",
+        "el": "Όταν ένας πελάτης λέει «130 ευρώ τον χρόνο είναι πολλά για κάτι που σχεδόν δεν χρησιμοποιώ», απάντησε: «Καταλαβαίνω απόλυτα γιατί το νιώθετε έτσι. Αν δεν έβλεπα αποτελέσματα, θα ένιωθα το ίδιο. Να σας δείξω πόσοι επισκέφθηκαν το site σας αυτόν τον μήνα;»"
+      },
+      "check": {
+        "q": {"en": "What did Sol Hurok do when Chaliapin said he couldn't sing?", "el": "Τι έκανε ο Σολ Χιούροκ όταν ο Σαλιάπιν έλεγε ότι δεν μπορεί να τραγουδήσει;"},
+        "options": [
+          {"en": "He reminded him of his contract", "el": "Του θύμιζε το συμβόλαιό του"},
+          {"en": "He found another singer at once", "el": "Έβρισκε αμέσως άλλον τραγουδιστή"},
+          {"en": "He sympathised and offered to cancel", "el": "Έδειχνε κατανόηση και πρότεινε να ακυρώσει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Sympathy calmed the singer; arguing would only have made him defend his position.", "el": "Η κατανόηση ηρεμούσε τον τραγουδιστή. Η διαφωνία θα τον έκανε απλώς να υπερασπιστεί τη θέση του."}
+      }
+    },
+    {
+      "title": {"en": "Appeal to nobler motives, make it vivid", "el": "Μίλα στο καλύτερο κομμάτι του, κάν' το ζωντανό"},
+      "explain": {
+        "en": "People usually have two reasons for what they do: one that sounds good and the real one. Everyone likes to see themselves as honest and fair, so appeal to that nobler side. And don't just state ideas; dramatise them. In a busy world, plain facts are not enough: make them visible, concrete and a little theatrical, the way films and adverts do.",
+        "el": "Οι άνθρωποι έχουν συνήθως δύο λόγους για ό,τι κάνουν: έναν που ακούγεται ωραία και τον πραγματικό. Όλοι θέλουν να βλέπουν τον εαυτό τους τίμιο και δίκαιο, άρα μίλα σε αυτή την ευγενέστερη πλευρά. Και μην παρουσιάζεις απλώς τις ιδέες σου. Δραματοποίησέ τες. Σε έναν βιαστικό κόσμο, τα σκέτα γεγονότα δεν φτάνουν: κάν' τα ορατά, συγκεκριμένα και λίγο θεατρικά, όπως κάνουν οι ταινίες και οι διαφημίσεις."
+      },
+      "example": {
+        "en": "Magazine publisher Cyrus Curtis could not afford the fees of famous writers when he started. To win the novelist Louisa May Alcott, he offered to pay one hundred dollars, not to her, but to her favourite charity. Appealing to her generosity worked.",
+        "el": "Ο εκδότης περιοδικών Σάιρους Κέρτις, όταν ξεκινούσε, δεν μπορούσε να πληρώσει τις αμοιβές των διάσημων συγγραφέων. Για να κερδίσει τη μυθιστοριογράφο Λουίζα Μέι Άλκοτ, προσφέρθηκε να δώσει εκατό δολάρια όχι σε εκείνη, αλλά στη φιλανθρωπική οργάνωση που αγαπούσε. Η έκκληση στη γενναιοδωρία της έπιασε."
+      },
+      "apply": {
+        "en": "In a video meeting, don't say «Your site is slow and old.» Dramatise: open his current site and a colleague's new one side by side on the phone screen, and let him tap both. For late payers, appeal to fairness: «I know you're someone who keeps his word.»",
+        "el": "Σε βιντεοκλήση, μην πεις «Το site σας είναι αργό και παλιό». Δραματοποίησε: άνοιξε το τωρινό του site και το καινούργιο ενός συναδέλφου δίπλα δίπλα σε οθόνη κινητού και άφησέ τον να πατήσει και τα δύο. Σε όσους αργούν να πληρώσουν, μίλα στη δικαιοσύνη τους: «Ξέρω ότι είστε άνθρωπος που κρατάει τον λόγο του»."
+      },
+      "check": {
+        "q": {"en": "What does «dramatise your ideas» mean?", "el": "Τι σημαίνει «δραματοποίησε τις ιδέες σου»;"},
+        "options": [
+          {"en": "Exaggerate the facts to scare people", "el": "Μεγάλωσε τα γεγονότα για να τρομάξει ο κόσμος"},
+          {"en": "Make the truth visible and vivid, not just stated", "el": "Κάνε την αλήθεια ορατή και ζωντανή, όχι απλώς ειπωμένη"},
+          {"en": "Speak loudly and with emotion", "el": "Μίλα δυνατά και με συναίσθημα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Showing beats telling, as long as what you show is true.", "el": "Το να δείχνεις νικά το να λες, αρκεί αυτό που δείχνεις να είναι αληθινό."}
+      }
+    },
+    {
+      "title": {"en": "Throw down a challenge", "el": "Βάλε μια πρόκληση"},
+      "explain": {
+        "en": "Money alone does not make people give their best. What does is the game: the chance to excel, to prove their worth, to beat a record. Carnegie says the desire to compete, in a friendly way, is a strong motivator. When nothing else works, give people a fair challenge and let them rise to it.",
+        "el": "Τα χρήματα από μόνα τους δεν κάνουν τους ανθρώπους να δώσουν τον καλύτερό τους εαυτό. Αυτό το κάνει το «παιχνίδι»: η ευκαιρία να διακριθούν, να αποδείξουν την αξία τους, να σπάσουν ένα ρεκόρ. Ο Κάρνεγκι λέει ότι η επιθυμία για φιλικό ανταγωνισμό είναι ισχυρό κίνητρο. Όταν τίποτε άλλο δεν πιάνει, δώσε στους ανθρώπους μια δίκαιη πρόκληση και άφησέ τους να ανέβουν στο ύψος της."
+      },
+      "example": {
+        "en": "Charles Schwab had a steel mill that never hit its targets. He asked the day shift how many batches they had made: six. He chalked a big «6» on the floor and left. The night shift saw it, made seven and wrote «7». Next morning the day shift wrote «10».",
+        "el": "Ο Τσαρλς Σουόμπ είχε μια χαλυβουργία που δεν έπιανε ποτέ τους στόχους της. Ρώτησε τη βάρδια της ημέρας πόσες χυτεύσεις είχαν κάνει: έξι. Έγραψε με κιμωλία ένα μεγάλο «6» στο πάτωμα και έφυγε. Η νυχτερινή βάρδια το είδε, έκανε επτά και έγραψε «7». Το επόμενο πρωί η βάρδια της ημέρας έγραψε «10»."
+      },
+      "apply": {
+        "en": "Write on your board each Monday last week's number of booked video meetings. Challenge yourself and your team to beat it, not with punishment, but as a game. Celebrate when the number rises: «Last week 8, this week 11. Who beats 11?»",
+        "el": "Γράψε κάθε Δευτέρα στον πίνακά σου πόσες βιντεοκλήσεις κλείσατε την προηγούμενη εβδομάδα. Βάλε στον εαυτό σου και στην ομάδα την πρόκληση να το ξεπεράσετε, όχι με τιμωρίες, αλλά σαν παιχνίδι. Γιόρτασε όταν ανεβαίνει ο αριθμός: «Την περασμένη εβδομάδα 8, αυτή 11. Ποιος θα σπάσει το 11;»"
+      },
+      "check": {
+        "q": {"en": "Why did Schwab's chalk «6» work?", "el": "Γιατί δούλεψε το «6» του Σουόμπ με την κιμωλία;"},
+        "options": [
+          {"en": "It started a friendly competition between shifts", "el": "Άναψε έναν φιλικό ανταγωνισμό ανάμεσα στις βάρδιες"},
+          {"en": "It was a threat to fire the slowest shift", "el": "Ήταν απειλή ότι θα απολύσει την πιο αργή βάρδια"},
+          {"en": "It promised a bonus for each batch", "el": "Υποσχόταν μπόνους για κάθε χύτευση"}
+        ],
+        "answer": 0,
+        "why": {"en": "No threats, no money: just the wish to excel and win a fair game.", "el": "Ούτε απειλές ούτε χρήματα: μόνο η επιθυμία να διακριθούν και να κερδίσουν ένα δίκαιο παιχνίδι."}
+      }
+    },
+    {
+      "title": {"en": "Correct gently and indirectly", "el": "Διόρθωνε με μαλακό τρόπο"},
+      "explain": {
+        "en": "When you must point out a problem, begin with honest praise, like a barber who lathers before he shaves. Then draw attention to the mistake indirectly. A small trick: replace «but» with «and». «Great work, but the mobile view is broken» cancels the praise. «Great work, and if we fix the mobile view it will be perfect» keeps it.",
+        "el": "Όταν πρέπει να επισημάνεις ένα πρόβλημα, ξεκίνα με ειλικρινή έπαινο, όπως ο κουρέας βάζει αφρό πριν ξυρίσει. Μετά δείξε το λάθος έμμεσα. Ένα μικρό κόλπο: άλλαξε το «αλλά» σε «και». Το «Τέλεια δουλειά, αλλά η εμφάνιση στο κινητό είναι χαλασμένη» ακυρώνει τον έπαινο. Το «Τέλεια δουλειά, και αν φτιάξουμε την εμφάνιση στο κινητό θα είναι άψογη» τον κρατά."
+      },
+      "example": {
+        "en": "Charles Schwab once found workers smoking under a «No Smoking» sign. He didn't point at the sign. He handed each man a cigar and said he'd appreciate it if they smoked them outside. They knew they were wrong, and they admired him for not shaming them.",
+        "el": "Ο Τσαρλς Σουόμπ βρήκε κάποτε εργάτες να καπνίζουν κάτω από μια πινακίδα «Απαγορεύεται το κάπνισμα». Δεν τους έδειξε την πινακίδα. Έδωσε στον καθένα ένα πούρο και είπε ότι θα το εκτιμούσε αν τα κάπνιζαν έξω. Ήξεραν ότι είχαν άδικο, και τον θαύμασαν που δεν τους ντρόπιασε."
+      },
+      "apply": {
+        "en": "To a team member: «The new hero is beautiful, and the client will love it even more once the phone number is clickable on mobile.» No «but», no public correction, one clear next step.",
+        "el": "Σε συνεργάτη: «Η νέα πρώτη οθόνη είναι πανέμορφη, και ο πελάτης θα τη λατρέψει ακόμα περισσότερο όταν το τηλέφωνο γίνει κλικαριστό στο κινητό». Χωρίς «αλλά», χωρίς δημόσια διόρθωση, με ένα καθαρό επόμενο βήμα."
+      },
+      "check": {
+        "q": {"en": "Why replace «but» with «and» after praise?", "el": "Γιατί να αλλάζεις το «αλλά» σε «και» μετά από έπαινο;"},
+        "options": [
+          {"en": "It is shorter to write", "el": "Γράφεται πιο γρήγορα"},
+          {"en": "«But» erases the praise that came before", "el": "Το «αλλά» σβήνει τον έπαινο που προηγήθηκε"},
+          {"en": "«And» hides the problem completely", "el": "Το «και» κρύβει εντελώς το πρόβλημα"}
+        ],
+        "answer": 1,
+        "why": {"en": "After «but», people hear only the criticism; «and» keeps praise and correction together.", "el": "Μετά το «αλλά» ο άλλος ακούει μόνο την κριτική. Το «και» κρατά μαζί τον έπαινο και τη διόρθωση."}
+      }
+    },
+    {
+      "title": {"en": "Ask, don't order", "el": "Ρώτα, μη διατάζεις"},
+      "explain": {
+        "en": "Before correcting someone, talk about your own mistakes; it shows you are not judging from above. Then, instead of giving orders, ask questions: «Do you think this might work?», «What if we tried...?» Questions make people think, keep their pride intact and give them a part in the decision, so they cooperate rather than resist.",
+        "el": "Πριν διορθώσεις κάποιον, μίλα για τα δικά σου λάθη. Δείχνει ότι δεν κρίνεις από ψηλά. Μετά, αντί να δίνεις διαταγές, κάνε ερωτήσεις: «Λες να δουλέψει αυτό;», «Τι θα γινόταν αν δοκιμάζαμε...;» Οι ερωτήσεις κάνουν τον άλλον να σκεφτεί, κρατούν ακέραιη την αξιοπρέπειά του και του δίνουν μερίδιο στην απόφαση, οπότε συνεργάζεται αντί να αντιστέκεται."
+      },
+      "example": {
+        "en": "Journalist Ida Tarbell, who wrote a biography of business leader Owen D. Young, noted that she never heard him give a direct order. He offered suggestions: «You might consider this» or «Do you think this would work?» People did the work as if it were their own idea.",
+        "el": "Η δημοσιογράφος Άιντα Τάρμπελ, που έγραψε τη βιογραφία του επιχειρηματία Όουεν Ντ. Γιανγκ, παρατήρησε ότι δεν τον άκουσε ποτέ να δίνει ευθεία διαταγή. Έκανε προτάσεις: «Ίσως θα μπορούσατε να σκεφτείτε αυτό» ή «Λέτε να δουλέψει αυτό;» Οι άλλοι έκαναν τη δουλειά σαν να ήταν δική τους ιδέα."
+      },
+      "apply": {
+        "en": "To a new team member who wrote a cold email that is too long: «My first emails were twice as long, I learned the hard way. What would you cut if the doctor reads it in ten seconds between patients?»",
+        "el": "Σε νέο συνεργάτη που έγραψε πολύ μεγάλο cold email: «Τα πρώτα μου emails ήταν διπλάσια, το έμαθα με τον δύσκολο τρόπο. Τι θα έκοβες αν ο γιατρός το διαβάζει σε δέκα δευτερόλεπτα ανάμεσα σε δύο ασθενείς;»"
+      },
+      "check": {
+        "q": {"en": "Why ask questions instead of giving orders?", "el": "Γιατί να κάνεις ερωτήσεις αντί να δίνεις διαταγές;"},
+        "options": [
+          {"en": "People cooperate more with decisions they took part in", "el": "Ο κόσμος συνεργάζεται περισσότερο σε αποφάσεις που συμμετείχε"},
+          {"en": "It avoids responsibility if things go wrong", "el": "Αποφεύγεις την ευθύνη αν κάτι πάει στραβά"},
+          {"en": "Orders are illegal in small teams", "el": "Οι διαταγές απαγορεύονται στις μικρές ομάδες"}
+        ],
+        "answer": 0,
+        "why": {"en": "A question gives ownership and keeps dignity; an order invites resistance.", "el": "Η ερώτηση δίνει αίσθηση ιδιοκτησίας και κρατά την αξιοπρέπεια. Η διαταγή φέρνει αντίσταση."}
+      }
+    },
+    {
+      "title": {"en": "Let them save face", "el": "Άφησέ τον να σώσει την αξιοπρέπειά του"},
+      "explain": {
+        "en": "Even when you are completely right and the other person is wrong, humiliating them destroys their self-respect and your relationship. A few kind words, an understanding of their side, a way out that protects their dignity, all make a huge difference. Carnegie says few of us think about this, and it is one of the most important rules.",
+        "el": "Ακόμα κι όταν έχεις απόλυτο δίκιο και ο άλλος κάνει λάθος, αν τον ταπεινώσεις καταστρέφεις την αυτοεκτίμησή του και τη σχέση σας. Λίγα καλά λόγια, κατανόηση για τη δική του πλευρά, μια έξοδος που προστατεύει την αξιοπρέπειά του, κάνουν τεράστια διαφορά. Ο Κάρνεγκι λέει ότι λίγοι το σκεφτόμαστε, κι όμως είναι από τους πιο σημαντικούς κανόνες."
+      },
+      "example": {
+        "en": "General Electric needed to remove the brilliant engineer Charles Steinmetz as head of a department he managed badly, without hurting him. They gave him a new title, «Consulting Engineer of General Electric», which suited his genius, and gave the department to someone else. Steinmetz was happy.",
+        "el": "Η General Electric έπρεπε να απομακρύνει τον ιδιοφυή μηχανικό Τσαρλς Στάινμετς από τη διεύθυνση ενός τμήματος που διοικούσε άσχημα, χωρίς να τον πληγώσει. Του έδωσε νέο τίτλο, «Σύμβουλος Μηχανικός της General Electric», που ταίριαζε στην ιδιοφυΐα του, και έδωσε το τμήμα σε άλλον. Ο Στάινμετς ήταν ευχαριστημένος."
+      },
+      "apply": {
+        "en": "When a client blames you for a typo that was in the text he sent, don't prove it. Say: «Texts change so many times, it's easy to lose track. I've fixed it now.» You keep the client; proving you were right wins nothing.",
+        "el": "Όταν ένας πελάτης σε κατηγορεί για ένα ορθογραφικό λάθος που υπήρχε στο κείμενο που σου έστειλε ο ίδιος, μην το αποδείξεις. Πες: «Τα κείμενα αλλάζουν τόσες φορές που είναι εύκολο να χαθεί κάτι. Το διόρθωσα ήδη». Κρατάς τον πελάτη. Το να αποδείξεις ότι είχες δίκιο δεν σου δίνει τίποτα."
+      },
+      "check": {
+        "q": {"en": "What did General Electric do with Steinmetz?", "el": "Τι έκανε η General Electric με τον Στάινμετς;"},
+        "options": [
+          {"en": "Fired him publicly as a warning", "el": "Τον απέλυσε δημόσια για παράδειγμα"},
+          {"en": "Cut his salary but kept his title", "el": "Του έκοψε τον μισθό αλλά του κράτησε τον τίτλο"},
+          {"en": "Gave him a fitting new title and moved the job", "el": "Του έδωσε έναν νέο τίτλο που του ταίριαζε και άλλαξε τη θέση"}
+        ],
+        "answer": 2,
+        "why": {"en": "They solved the problem and protected his dignity at the same time.", "el": "Έλυσαν το πρόβλημα και ταυτόχρονα προστάτεψαν την αξιοπρέπειά του."}
+      }
+    },
+    {
+      "title": {"en": "Praise every improvement", "el": "Επαίνεσε κάθε βελτίωση"},
+      "explain": {
+        "en": "Praise even the smallest step forward, and be warm and generous about it. People grow towards what is noticed. Give them a fine reputation to live up to («You're always so careful with details»), make faults seem easy to fix, and make them glad to do what you suggest. Encouragement builds; harsh correction makes people give up.",
+        "el": "Επαίνεσε και το πιο μικρό βήμα προς τα εμπρός, ζεστά και απλόχερα. Οι άνθρωποι μεγαλώνουν προς ό,τι τους αναγνωρίζεται. Δώσ' τους μια καλή φήμη να την αξίζουν («Είσαι πάντα τόσο προσεκτικός στις λεπτομέρειες»), κάνε τα λάθη να φαίνονται εύκολα να διορθωθούν, και κάν' τους να χαίρονται που κάνουν αυτό που προτείνεις. Η ενθάρρυνση χτίζει. Η σκληρή διόρθωση κάνει τον κόσμο να τα παρατάει."
+      },
+      "example": {
+        "en": "Pete Barlow, an animal trainer Carnegie knew, taught dogs tricks by praising and rewarding them the moment they showed even a slight improvement. Carnegie asks: if this works on dogs, why don't we use the same idea with people, instead of waiting for perfection to praise?",
+        "el": "Ο Πιτ Μπάρλοου, ένας εκπαιδευτής ζώων που γνώριζε ο Κάρνεγκι, μάθαινε κόλπα στα σκυλιά επαινώντας τα και ανταμείβοντάς τα τη στιγμή που έδειχναν έστω και την παραμικρή βελτίωση. Ο Κάρνεγκι ρωτά: αν αυτό πιάνει στα σκυλιά, γιατί δεν κάνουμε το ίδιο και με τους ανθρώπους, αντί να περιμένουμε την τελειότητα για να επαινέσουμε;"
+      },
+      "apply": {
+        "en": "Your new assistant's first site still needs work. Name the progress first: «The mobile version is much cleaner than last week.» Then: «You have a great eye for spacing; the footer just needs the same care.» Make the fix sound easy.",
+        "el": "Το πρώτο site του νέου βοηθού σου θέλει ακόμα δουλειά. Πες πρώτα την πρόοδο: «Η έκδοση για κινητό είναι πολύ πιο καθαρή από την περασμένη εβδομάδα». Και μετά: «Έχεις πολύ καλό μάτι στις αποστάσεις. Το footer θέλει απλώς την ίδια φροντίδα». Κάνε τη διόρθωση να ακούγεται εύκολη."
+      },
+      "check": {
+        "q": {"en": "What does «give them a fine reputation to live up to» mean?", "el": "Τι σημαίνει «δώσ' τους μια καλή φήμη να την αξίζουν»;"},
+        "options": [
+          {"en": "Tell everyone they are the best in the company", "el": "Να λες σε όλους ότι είναι οι καλύτεροι της εταιρείας"},
+          {"en": "Praise a good trait so they want to keep living up to it", "el": "Να επαινείς ένα καλό χαρακτηριστικό ώστε να θέλουν να το αξίζουν"},
+          {"en": "Hide their mistakes from clients", "el": "Να κρύβεις τα λάθη τους από τους πελάτες"}
+        ],
+        "answer": 1,
+        "why": {"en": "People try to match the good image you honestly hold of them.", "el": "Ο κόσμος προσπαθεί να ταιριάξει με την καλή εικόνα που έχεις ειλικρινά γι' αυτόν."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A team member uploaded a client site with a broken contact form. What do you do first?", "el": "Ένας συνεργάτης ανέβασε site πελάτη με χαλασμένη φόρμα επικοινωνίας. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Write in the team chat that this is unacceptable", "el": "Γράφεις στο chat της ομάδας ότι αυτό είναι απαράδεκτο"},
+        {"en": "Mention a similar mistake you once made, then ask how to prevent it", "el": "Αναφέρεις ένα παρόμοιο λάθος που έκανες κι εσύ και ρωτάς πώς θα το προλαβαίνετε"},
+        {"en": "Fix it yourself and say nothing", "el": "Το φτιάχνεις μόνος σου και δεν λες τίποτα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Talk about your own mistakes first, then ask questions: he learns without being humiliated.", "el": "Μίλα πρώτα για τα δικά σου λάθη και μετά κάνε ερωτήσεις: μαθαίνει χωρίς να ταπεινωθεί."},
+      "idea": 17
+    },
+    {
+      "q": {"en": "A client insists the old orange logo must stay huge on the new site. What do you do?", "el": "Ένας πελάτης επιμένει ότι το παλιό πορτοκαλί λογότυπο πρέπει να μείνει τεράστιο στο νέο site. Τι κάνεις;"},
+      "options": [
+        {"en": "Explain firmly why he is wrong about design", "el": "Του εξηγείς σταθερά γιατί κάνει λάθος στο design"},
+        {"en": "Do it, but complain about it to your team", "el": "Το κάνεις, αλλά γκρινιάζεις στην ομάδα σου"},
+        {"en": "Ask what the logo means to him, then show two versions to choose from", "el": "Ρωτάς τι σημαίνει το λογότυπο γι' αυτόν και του δείχνεις δύο εκδοχές να διαλέξει"}
+      ],
+      "answer": 2,
+      "why": {"en": "Avoid the argument, respect his view, and let the better choice become his idea.", "el": "Απόφυγε τον καβγά, σεβάσου τη γνώμη του και άφησε την καλύτερη επιλογή να γίνει δική του ιδέα."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "You call a dentist you have never spoken to. How do you open?", "el": "Παίρνεις έναν οδοντίατρο που δεν έχεις μιλήσει ποτέ. Πώς ανοίγεις;"},
+      "options": [
+        {"en": "With his name, a smile and a real detail about his practice", "el": "Με το όνομά του, ένα χαμόγελο και μια αληθινή λεπτομέρεια για το ιατρείο του"},
+        {"en": "With your company's history and number of clients", "el": "Με την ιστορία της εταιρείας σου και τον αριθμό των πελατών σου"},
+        {"en": "With the price, to save his time", "el": "Με την τιμή, για να μη χάσει χρόνο"}
+      ],
+      "answer": 0,
+      "why": {"en": "His name, your smile and interest in his world open the door; your story can wait.", "el": "Το όνομά του, το χαμόγελό σου και το ενδιαφέρον για τον κόσμο του ανοίγουν την πόρτα. Η δική σου ιστορία μπορεί να περιμένει."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "You put the wrong opening hours on a client's site. He hasn't noticed. What do you do?", "el": "Έβαλες λάθος ωράριο στο site ενός πελάτη. Δεν το έχει προσέξει. Τι κάνεις;"},
+      "options": [
+        {"en": "Fix it quietly and hope he never finds out", "el": "Το διορθώνεις αθόρυβα και ελπίζεις να μην το μάθει"},
+        {"en": "Call him, admit it clearly and say it's fixed", "el": "Τον παίρνεις, το παραδέχεσαι καθαρά και λες ότι διορθώθηκε"},
+        {"en": "Wait to see if a patient complains first", "el": "Περιμένεις να δεις αν θα παραπονεθεί πρώτα κάποιος ασθενής"}
+      ],
+      "answer": 1,
+      "why": {"en": "Admitting quickly builds trust and respect; hiding it risks a much bigger problem.", "el": "Η γρήγορη παραδοχή χτίζει εμπιστοσύνη και σεβασμό. Αν το κρύψεις, ρισκάρεις ένα πολύ μεγαλύτερο πρόβλημα."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "Your team is slow at answering the client chat. What does Carnegie suggest?", "el": "Η ομάδα σου αργεί να απαντά στο chat των πελατών. Τι θα πρότεινε ο Κάρνεγκι;"},
+      "options": [
+        {"en": "Threaten to cut pay for slow replies", "el": "Να απειλήσεις με περικοπές για τις αργές απαντήσεις"},
+        {"en": "Send a long email listing every delay", "el": "Να στείλεις ένα μεγάλο email με κάθε καθυστέρηση"},
+        {"en": "Post this week's average reply time and challenge them to beat it", "el": "Να δείξεις τον μέσο χρόνο απάντησης της εβδομάδας και να τους βάλεις πρόκληση να τον ξεπεράσουν"}
+      ],
+      "answer": 2,
+      "why": {"en": "Like Schwab's chalked «6», a fair challenge turns work into a game people want to win.", "el": "Όπως το «6» του Σουόμπ, μια δίκαιη πρόκληση κάνει τη δουλειά παιχνίδι που θέλουν να κερδίσουν."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "At a family dinner your uncle says something you know is factually wrong. What would Carnegie do?", "el": "Σε ένα οικογενειακό τραπέζι ο θείος σου λέει κάτι που ξέρεις ότι είναι λάθος. Τι θα έκανε ο Κάρνεγκι;"},
+      "options": [
+        {"en": "Let it go; proving him wrong in public wins nothing", "el": "Θα το άφηνε. Το να του αποδείξει δημόσια ότι κάνει λάθος δεν κερδίζει τίποτα"},
+        {"en": "Look it up on the phone and show everyone", "el": "Θα το έψαχνε στο κινητό και θα το έδειχνε σε όλους"},
+        {"en": "Correct him firmly so others learn the truth", "el": "Θα τον διόρθωνε αυστηρά για να μάθουν όλοι την αλήθεια"}
+      ],
+      "answer": 0,
+      "why": {"en": "Like the Shakespeare dinner: avoid the acute angle when nothing important is at stake.", "el": "Όπως στο δείπνο με τον Σαίξπηρ: απόφευγε τις αιχμηρές γωνίες όταν δεν διακυβεύεται κάτι σημαντικό."},
+      "idea": 9
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Carnegie says criticism is a good way to make people change.", "el": "Ο Κάρνεγκι λέει ότι η κριτική είναι καλός τρόπος να αλλάξει κάποιος."}, "answer": false, "why": {"en": "Criticism hurts pride and creates resentment, not change.", "el": "Η κριτική πληγώνει τον εγωισμό και φέρνει πίκρα, όχι αλλαγή."}},
+    {"s": {"en": "Honest appreciation and flattery are not the same thing.", "el": "Η ειλικρινής εκτίμηση και η κολακεία δεν είναι το ίδιο πράγμα."}, "answer": true, "why": {"en": "Appreciation is sincere and specific; flattery is fake and self-serving.", "el": "Η εκτίμηση είναι ειλικρινής και συγκεκριμένη. Η κολακεία ψεύτικη και ιδιοτελής."}},
+    {"s": {"en": "The best way to win an argument is to prepare stronger facts.", "el": "Ο καλύτερος τρόπος να κερδίσεις έναν καβγά είναι να έχεις πιο δυνατά στοιχεία."}, "answer": false, "why": {"en": "The only way to get the best of an argument is to avoid it.", "el": "Ο μόνος τρόπος να βγεις κερδισμένος από έναν καβγά είναι να τον αποφύγεις."}},
+    {"s": {"en": "A person's name is, to them, one of the sweetest sounds.", "el": "Για κάθε άνθρωπο το όνομά του είναι από τους πιο γλυκούς ήχους."}, "answer": true, "why": {"en": "Using it correctly makes people feel noticed and respected.", "el": "Όταν το χρησιμοποιείς σωστά, ο άλλος νιώθει ότι τον προσέχεις και τον σέβεσαι."}},
+    {"s": {"en": "Carnegie advises letting other people believe a good idea is theirs.", "el": "Ο Κάρνεγκι συμβουλεύει να αφήνεις τον άλλον να πιστέψει ότι μια καλή ιδέα είναι δική του."}, "answer": true, "why": {"en": "People act on ideas they feel they own.", "el": "Ο κόσμος εφαρμόζει τις ιδέες που νιώθει δικές του."}},
+    {"s": {"en": "When you are wrong, it is smarter to defend yourself until the other side gives up.", "el": "Όταν κάνεις λάθος, είναι πιο έξυπνο να αμύνεσαι μέχρι να τα παρατήσει ο άλλος."}, "answer": false, "why": {"en": "Admit it quickly and emphatically; it disarms the other side.", "el": "Παραδέξου το γρήγορα και καθαρά. Αφοπλίζει τον άλλον."}},
+    {"s": {"en": "Asking questions instead of giving orders helps people cooperate.", "el": "Οι ερωτήσεις αντί για διαταγές βοηθούν τον κόσμο να συνεργαστεί."}, "answer": true, "why": {"en": "Questions give people a part in the decision and keep their pride.", "el": "Οι ερωτήσεις δίνουν μερίδιο στην απόφαση και κρατούν την αξιοπρέπεια."}},
+    {"s": {"en": "Carnegie says you should praise people only when the work is perfect.", "el": "Ο Κάρνεγκι λέει να επαινείς μόνο όταν η δουλειά είναι τέλεια."}, "answer": false, "why": {"en": "He says praise the slightest improvement and every improvement.", "el": "Λέει να επαινείς και την παραμικρή βελτίωση, και κάθε βελτίωση."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Worm on the hook", "el": "Σκουλήκι στο αγκίστρι"}, "b": {"en": "Offer what they want, not what you like", "el": "Πρόσφερε αυτό που θέλει, όχι αυτό που σου αρέσει"}},
+    {"a": {"en": "Flattery", "el": "Κολακεία"}, "b": {"en": "Cheap, untrue praise meant to get something", "el": "Φθηνός, ψεύτικος έπαινος για να πάρεις κάτι"}},
+    {"a": {"en": "Save face", "el": "Σώζω την αξιοπρέπεια"}, "b": {"en": "Correct someone without humiliating them", "el": "Διορθώνεις χωρίς να ταπεινώσεις"}},
+    {"a": {"en": "Chalked «6»", "el": "Το «6» με κιμωλία"}, "b": {"en": "A friendly challenge that drives effort", "el": "Μια φιλική πρόκληση που φέρνει προσπάθεια"}},
+    {"a": {"en": "«And» not «but»", "el": "«Και» αντί για «αλλά»"}, "b": {"en": "Correction that keeps the praise alive", "el": "Διόρθωση που κρατά ζωντανό τον έπαινο"}},
+    {"a": {"en": "Fine reputation", "el": "Καλή φήμη"}, "b": {"en": "A good trait they'll want to live up to", "el": "Ένα καλό γνώρισμα που θέλουν να αξίζουν"}}
+  ],
+  "missions": [
+    {"en": "For one full day, criticise no one, not even in your head about a client. Each time you catch yourself, ask «Why did he do that?»", "el": "Για μία ολόκληρη μέρα μην κατακρίνεις κανέναν, ούτε από μέσα σου για κάποιον πελάτη. Κάθε φορά που πιάνεις τον εαυτό σου, ρώτα «Γιατί το έκανε αυτό;»"},
+    {"en": "Send three clients or team members a short, specific, true message of appreciation about something they did this month.", "el": "Στείλε σε τρεις πελάτες ή συνεργάτες ένα σύντομο, συγκεκριμένο και αληθινό μήνυμα εκτίμησης για κάτι που έκαναν αυτόν τον μήνα."},
+    {"en": "In your next three video meetings, ask two questions about the doctor's work before you mention websites at all.", "el": "Στις επόμενες τρεις βιντεοκλήσεις, κάνε δύο ερωτήσεις για τη δουλειά του γιατρού πριν αναφέρεις καν ιστοσελίδες."},
+    {"en": "Rewrite one ad or cold email so every sentence is about what the doctor wants. Delete every «we» that isn't needed.", "el": "Ξαναγράψε μια διαφήμιση ή ένα cold email ώστε κάθε πρόταση να αφορά αυτό που θέλει ο γιατρός. Σβήσε κάθε «εμείς» που δεν χρειάζεται."},
+    {"en": "Find one mistake you made with a client recently and admit it to them clearly today, with the fix.", "el": "Βρες ένα λάθος που έκανες πρόσφατα με κάποιον πελάτη και παραδέξου το σήμερα καθαρά, μαζί με τη λύση."}
+  ],
+  "mantra": {"en": "Less criticism, more interest: make every person feel important, sincerely.", "el": "Λιγότερη κριτική, περισσότερο ενδιαφέρον: κάνε κάθε άνθρωπο να νιώθει σημαντικός, ειλικρινά."},
+  "careful": {
+    "en": "The book is from 1936. Most stories are told by Carnegie or his students and can't be checked, and some feel old-fashioned. Used without sincerity, its rules turn into flattery and manipulation, which Carnegie himself warns against. «Never say you're wrong» and «avoid arguments» can become avoiding honest feedback; sometimes a team or a client needs a clear, kind «no». Combine Carnegie's warmth with honesty.",
+    "el": "Το βιβλίο είναι του 1936. Οι περισσότερες ιστορίες τις λένε ο Κάρνεγκι ή οι μαθητές του και δεν μπορούν να ελεγχθούν, και κάποιες μοιάζουν παλιομοδίτικες. Χωρίς ειλικρίνεια, οι κανόνες του γίνονται κολακεία και χειραγώγηση, κάτι για το οποίο προειδοποιεί κι ο ίδιος. Το «μη λες ποτέ σε κάποιον ότι κάνει λάθος» και το «απόφευγε τους καβγάδες» μπορούν να γίνουν αποφυγή του ειλικρινούς feedback. Καμιά φορά η ομάδα ή ένας πελάτης χρειάζεται ένα καθαρό, ευγενικό «όχι». Συνδύασε τη ζεστασιά του Κάρνεγκι με ειλικρίνεια."
+  },
+  "connects": [
+    {"book": "laws-of-human-nature", "note": {"en": "Greene digs into the darker side of human nature; Carnegie works with the same need for self-esteem, but warmly.", "el": "Ο Γκριν σκάβει στη σκοτεινή πλευρά της ανθρώπινης φύσης. Ο Κάρνεγκι δουλεύει με την ίδια ανάγκη για αυτοεκτίμηση, αλλά με ζεστασιά."}},
+    {"book": "never-split-the-difference", "note": {"en": "Carnegie wants early yeses; Voss argues that inviting «no» makes people feel safer. Both agree: listen first.", "el": "Ο Κάρνεγκι θέλει «ναι» από νωρίς. Ο Βος υποστηρίζει ότι όταν καλείς το «όχι» ο άλλος νιώθει πιο ασφαλής. Συμφωνούν ότι πρώτα ακούς."}},
+    {"book": "crucial-conversations", "note": {"en": "Carnegie teaches you to avoid arguments; Crucial Conversations teaches how to face the ones you can't avoid.", "el": "Ο Κάρνεγκι σού μαθαίνει να αποφεύγεις τους καβγάδες. Το Crucial Conversations σού μαθαίνει πώς να αντιμετωπίζεις όσους δεν αποφεύγονται."}}
+  ]
+}

@@ -1,0 +1,1210 @@
+{
+  "id": "poor-charlies-almanack",
+  "title": {
+    "en": "Poor Charlie's Almanack",
+    "el": "Το Αλμανάκ του φτωχού Τσάρλι"
+  },
+  "author": "Charles T. Munger (ed. Peter D. Kaufman)",
+  "authorEl": "Τσάρλι Μάνγκερ (επιμέλεια Πίτερ Κάουφμαν)",
+  "year": 2005,
+  "shelf": "wisdom",
+  "skills": {
+    "wisdom": 3,
+    "strategy": 3,
+    "mindset": 2
+  },
+  "oneLine": {
+    "en": "Think with the big ideas of many fields, turn problems upside down, respect incentives and your own biases, stay inside what you know, and wait patiently for the few great chances.",
+    "el": "Σκέψου με τις μεγάλες ιδέες πολλών επιστημών, γύρνα τα προβλήματα ανάποδα, σεβάσου τα κίνητρα και τις δικές σου παγίδες, μείνε σε ό,τι ξέρεις και περίμενε υπομονετικά τις λίγες μεγάλες ευκαιρίες."
+  },
+  "story": {
+    "en": "Charlie Munger (1924-2023) was Warren Buffett's partner and vice chairman of Berkshire Hathaway for decades. This book, put together in 2005 by his friend Peter Kaufman, collects his famous talks, his sharp sayings and the story of his life. The title nods to Benjamin Franklin's Poor Richard's Almanack, Munger's hero. Investors and founders still read it as a manual for clear thinking and avoiding stupid mistakes.",
+    "el": "Ο Τσάρλι Μάνγκερ (1924-2023) ήταν για δεκαετίες ο συνέταιρος του Γουόρεν Μπάφετ και αντιπρόεδρος της Berkshire Hathaway. Αυτό το βιβλίο, που το έφτιαξε το 2005 ο φίλος του Πίτερ Κάουφμαν, μαζεύει τις διάσημες ομιλίες του, τις καυστικές του ατάκες και την ιστορία της ζωής του. Ο τίτλος παραπέμπει στο Αλμανάκ του φτωχού Ριχάρδου του Βενιαμίν Φραγκλίνου, του ήρωα του Μάνγκερ. Επενδυτές και ιδρυτές το διαβάζουν ακόμη ως εγχειρίδιο καθαρής σκέψης."
+  },
+  "forYou": {
+    "en": "You make dozens of decisions a week: which niche to call, which ad to run, whom to hire, which side project to drop. Munger gives you a toolbox to make fewer dumb ones. His list of human misjudgments also explains why clients say yes or no, why payments come late, and why you sometimes fool yourself. This is the book for the thinking part of your business.",
+    "el": "Παίρνεις δεκάδες αποφάσεις την εβδομάδα: ποια ειδικότητα θα πάρεις τηλέφωνο, ποια διαφήμιση θα τρέξεις, ποιον θα προσλάβεις, ποιο side project θα αφήσεις. Ο Μάνγκερ σου δίνει εργαλεία για να κάνεις λιγότερες χαζές επιλογές. Η λίστα του με τα ανθρώπινα λάθη κρίσης εξηγεί επίσης γιατί οι πελάτες λένε ναι ή όχι, γιατί οι πληρωμές αργούν και γιατί κάποιες φορές ξεγελάς τον εαυτό σου."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "A latticework of mental models",
+        "el": "Ένα πλέγμα από νοητικά μοντέλα"
+      },
+      "explain": {
+        "en": "A mental model is a simple big idea that explains how part of the world works, like compound interest or supply and demand. Munger says wisdom is not a pile of facts. It is having the key models from many fields in your head, connected like a latticework, so you can look at any problem from several sides. About 80 or 90 models, he says, do most of the work.",
+        "el": "Νοητικό μοντέλο είναι μια απλή μεγάλη ιδέα που εξηγεί πώς δουλεύει ένα κομμάτι του κόσμου, όπως ο ανατοκισμός ή η προσφορά και η ζήτηση. Ο Μάνγκερ λέει ότι η σοφία δεν είναι ένας σωρός από γεγονότα. Είναι να έχεις στο μυαλό σου τα βασικά μοντέλα από πολλές επιστήμες, δεμένα μεταξύ τους σαν πλέγμα, ώστε να βλέπεις κάθε πρόβλημα από πολλές πλευρές. Γύρω στα 80 με 90 μοντέλα, λέει, κάνουν το μεγαλύτερο μέρος της δουλειάς."
+      },
+      "example": {
+        "en": "In a 1996 talk Munger imagines turning 2 million dollars in 1884 Atlanta into a 2 trillion dollar soft-drink business. He solves it with many models together: psychology (habits, associations, social proof), math (compounding), economics (scale) and chemistry (a taste people never tire of). The answer looks a lot like Coca-Cola.",
+        "el": "Σε μια ομιλία του 1996 ο Μάνγκερ φαντάζεται πώς θα έκανε 2 εκατομμύρια δολάρια, στην Ατλάντα του 1884, μια επιχείρηση αναψυκτικών αξίας 2 τρισεκατομμυρίων. Το λύνει με πολλά μοντέλα μαζί: ψυχολογία (συνήθειες, συνειρμοί, κοινωνική απόδειξη), μαθηματικά (ανατοκισμός), οικονομία (κλίμακα) και χημεία (μια γεύση που δεν βαριέσαι ποτέ). Η απάντηση μοιάζει πολύ με την Coca-Cola."
+      },
+      "apply": {
+        "en": "Before a big decision, like launching a new service for lawyers, ask four quick questions: what does psychology say about how they buy, what do the numbers say, what does competition look like, and what could break? Write one line for each before you decide.",
+        "el": "Πριν από μια μεγάλη απόφαση, όπως μια νέα υπηρεσία για δικηγόρους, κάνε τέσσερις γρήγορες ερωτήσεις: τι λέει η ψυχολογία για το πώς αγοράζουν, τι λένε οι αριθμοί, πώς είναι ο ανταγωνισμός και τι μπορεί να χαλάσει; Γράψε μία γραμμή για την καθεμιά πριν αποφασίσεις."
+      },
+      "check": {
+        "q": {
+          "en": "What is Munger's latticework?",
+          "el": "Τι είναι το «πλέγμα» του Μάνγκερ;"
+        },
+        "options": [
+          {
+            "en": "A long list of facts learned by heart",
+            "el": "Μια μακριά λίστα γεγονότων μαθημένων απέξω"
+          },
+          {
+            "en": "Key ideas from many fields used together",
+            "el": "Βασικές ιδέες από πολλές επιστήμες που χρησιμοποιούνται μαζί"
+          },
+          {
+            "en": "A single theory that explains every market",
+            "el": "Μία μόνο θεωρία που εξηγεί κάθε αγορά"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Wisdom comes from connecting big models from different disciplines, not from isolated facts.",
+          "el": "Η σοφία έρχεται από το δέσιμο μεγάλων μοντέλων από διαφορετικές επιστήμες, όχι από μεμονωμένα γεγονότα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The man with a hammer",
+        "el": "Ο άνθρωπος με το σφυρί"
+      },
+      "explain": {
+        "en": "Munger loves the old saying: to a man with a hammer, every problem looks like a nail. If you know only one field, you twist every problem to fit it, and you get it wrong. Specialists do this all the time. The cure is to carry many tools, so you pick the right one for the job instead of the one you happen to hold.",
+        "el": "Ο Μάνγκερ αγαπά το παλιό ρητό: για όποιον κρατά σφυρί, κάθε πρόβλημα μοιάζει με καρφί. Αν ξέρεις μόνο ένα πεδίο, στραβώνεις κάθε πρόβλημα για να χωρέσει σε αυτό, και κάνεις λάθος. Οι ειδικοί το κάνουν συνέχεια. Η θεραπεία είναι να κουβαλάς πολλά εργαλεία, ώστε να διαλέγεις το σωστό για τη δουλειά και όχι αυτό που τυχαίνει να κρατάς."
+      },
+      "example": {
+        "en": "In a 2003 talk Munger criticised academic economics for exactly this. Economists, he said, loved neat math models and ignored psychology, so they could not explain real human behaviour like manias, panics and the power of habit.",
+        "el": "Σε μια ομιλία του 2003 ο Μάνγκερ κατηγόρησε ακριβώς γι' αυτό τα πανεπιστημιακά οικονομικά. Οι οικονομολόγοι, είπε, αγαπούσαν τα κομψά μαθηματικά μοντέλα και αγνοούσαν την ψυχολογία, γι' αυτό δεν μπορούσαν να εξηγήσουν την πραγματική ανθρώπινη συμπεριφορά, όπως τις μανίες, τους πανικούς και τη δύναμη της συνήθειας."
+      },
+      "apply": {
+        "en": "When sales drop, your hammer is probably «run more ads». Before you spend, check two other tools: is the offer clear on the call, and are clients leaving because of slow changes? Fix the real cause, not the one you are used to fixing.",
+        "el": "Όταν πέφτουν οι πωλήσεις, το σφυρί σου είναι μάλλον «τρέξε περισσότερες διαφημίσεις». Πριν ξοδέψεις, έλεγξε δύο άλλα εργαλεία: είναι σαφής η προσφορά στο τηλέφωνο, και μήπως φεύγουν πελάτες επειδή οι αλλαγές αργούν; Διόρθωσε την πραγματική αιτία, όχι αυτήν που έχεις συνηθίσει να διορθώνεις."
+      },
+      "check": {
+        "q": {
+          "en": "What goes wrong with the man with a hammer?",
+          "el": "Τι πάει στραβά με τον άνθρωπο με το σφυρί;"
+        },
+        "options": [
+          {
+            "en": "He uses too many tools and gets confused",
+            "el": "Χρησιμοποιεί πάρα πολλά εργαλεία και μπερδεύεται"
+          },
+          {
+            "en": "He refuses to work on hard problems",
+            "el": "Αρνείται να ασχοληθεί με δύσκολα προβλήματα"
+          },
+          {
+            "en": "He forces every problem to fit his one tool",
+            "el": "Στριμώχνει κάθε πρόβλημα στο ένα του εργαλείο"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Knowing only one model makes you see every problem through it, even when it does not fit.",
+          "el": "Όταν ξέρεις ένα μόνο μοντέλο, βλέπεις κάθε πρόβλημα μέσα από αυτό, ακόμη κι όταν δεν ταιριάζει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Borrow the big ideas",
+        "el": "Δανείσου τις μεγάλες ιδέες"
+      },
+      "explain": {
+        "en": "Which models? Munger names some favourites. From math: compound interest and simple probability. From engineering: backup systems and a margin of safety. From physics: breakpoints and critical mass, where small changes suddenly cause big effects. From biology: evolution and adaptation. From accounting: knowing what the numbers hide. You do not need to be an expert, only to know the basic idea well.",
+        "el": "Ποια μοντέλα; Ο Μάνγκερ αναφέρει τα αγαπημένα του. Από τα μαθηματικά: τον ανατοκισμό και τις απλές πιθανότητες. Από τη μηχανική: τα εφεδρικά συστήματα και το περιθώριο ασφαλείας. Από τη φυσική: τα σημεία καμπής και την κρίσιμη μάζα, όπου μικρές αλλαγές φέρνουν ξαφνικά μεγάλα αποτελέσματα. Από τη βιολογία: την εξέλιξη και την προσαρμογή. Από τη λογιστική: τι κρύβουν οι αριθμοί. Δεν χρειάζεται να είσαι ειδικός, μόνο να ξέρεις καλά τη βασική ιδέα."
+      },
+      "example": {
+        "en": "Munger's hero Benjamin Franklin left 1,000 pounds each to Boston and Philadelphia in 1790, to be lent out and grow for 200 years. Thanks to compounding, by 1990 the funds had grown to several million dollars. Small sums plus time make big ones.",
+        "el": "Ο ήρωας του Μάνγκερ, ο Βενιαμίν Φραγκλίνος, άφησε το 1790 από 1.000 λίρες στη Βοστόνη και στη Φιλαδέλφεια, για να δανείζονται και να μεγαλώνουν για 200 χρόνια. Χάρη στον ανατοκισμό, ως το 1990 τα ταμεία είχαν φτάσει σε αρκετά εκατομμύρια δολάρια. Μικρά ποσά συν χρόνος κάνουν μεγάλα."
+      },
+      "apply": {
+        "en": "Use compounding on your renewals: if 90 percent of clients renew each year and you add new ones, your hosting income keeps stacking. Put that math in a simple sheet and watch the renewal rate as your most important number.",
+        "el": "Χρησιμοποίησε τον ανατοκισμό στις ανανεώσεις: αν το 90 τοις εκατό των πελατών ανανεώνει κάθε χρόνο και προσθέτεις καινούργιους, το έσοδο από φιλοξενία στοιβάζεται συνέχεια. Βάλε αυτά τα μαθηματικά σε ένα απλό φύλλο και παρακολούθα το ποσοστό ανανέωσης ως τον πιο σημαντικό σου αριθμό."
+      },
+      "check": {
+        "q": {
+          "en": "What level of knowledge of each big idea does Munger ask for?",
+          "el": "Πόσο καλά ζητά ο Μάνγκερ να ξέρεις κάθε μεγάλη ιδέα;"
+        },
+        "options": [
+          {
+            "en": "Know the basic idea well enough to use it",
+            "el": "Να ξέρεις τη βασική ιδέα αρκετά καλά για να τη χρησιμοποιείς"
+          },
+          {
+            "en": "Become a certified expert in each field",
+            "el": "Να γίνεις πιστοποιημένος ειδικός σε κάθε πεδίο"
+          },
+          {
+            "en": "Only memorise the famous names",
+            "el": "Να αποστηθίσεις μόνο τα διάσημα ονόματα"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The goal is practical use of the core ideas, not expertise in every discipline.",
+          "el": "Ο στόχος είναι η πρακτική χρήση των βασικών ιδεών, όχι η ειδίκευση σε κάθε επιστήμη."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Invert, always invert",
+        "el": "Αντίστρεψε, πάντα αντίστρεψε"
+      },
+      "explain": {
+        "en": "Munger borrows a rule from the mathematician Carl Jacobi: invert, always invert. Many problems are easier backwards. Instead of asking how to succeed, ask what would make you fail for sure, and avoid it. He likes the joke about the man who only wanted to know where he was going to die, so he would never go there.",
+        "el": "Ο Μάνγκερ δανείζεται έναν κανόνα από τον μαθηματικό Καρλ Γιακόμπι: αντίστρεψε, πάντα αντίστρεψε. Πολλά προβλήματα λύνονται πιο εύκολα ανάποδα. Αντί να ρωτάς πώς θα πετύχεις, ρώτα τι θα σε έκανε σίγουρα να αποτύχεις, και απόφυγέ το. Του αρέσει το αστείο για τον άνθρωπο που ήθελε να μάθει μόνο πού θα πεθάνει, για να μην πάει ποτέ εκεί."
+      },
+      "example": {
+        "en": "At a 1986 school graduation in Los Angeles, Munger did not tell students how to be happy. He gave them prescriptions for a guaranteed miserable life: be unreliable, feel envy and resentment, learn only from your own mistakes, and give up after your first failure. Avoid these, he said, and much good follows.",
+        "el": "Σε μια τελετή αποφοίτησης σχολείου στο Λος Άντζελες το 1986, ο Μάνγκερ δεν είπε στους μαθητές πώς να είναι ευτυχισμένοι. Τους έδωσε «συνταγές» για μια σίγουρα δυστυχισμένη ζωή: να είσαι αναξιόπιστος, να ζηλεύεις και να κρατάς κακία, να μαθαίνεις μόνο από τα δικά σου λάθη και να τα παρατάς στην πρώτη αποτυχία. Απόφυγέ τα, είπε, και πολλά καλά ακολουθούν."
+      },
+      "apply": {
+        "en": "Write the list «how to lose clients for sure»: ignore messages for three days, miss the promised date, send a site with typos, surprise them with a bill. Then check each item against your process and block it with a rule.",
+        "el": "Γράψε τη λίστα «πώς να χάσεις σίγουρα πελάτες»: αγνόησε τα μηνύματα για τρεις μέρες, χάσε την ημερομηνία που υποσχέθηκες, στείλε σελίδα με ορθογραφικά, αιφνιδίασέ τους με λογαριασμό. Μετά έλεγξε κάθε σημείο στη διαδικασία σου και κλείσ' το με έναν κανόνα."
+      },
+      "check": {
+        "q": {
+          "en": "What does inversion ask you to do?",
+          "el": "Τι σου ζητά η αντιστροφή;"
+        },
+        "options": [
+          {
+            "en": "Copy the exact opposite of your competitors",
+            "el": "Να κάνεις ακριβώς το αντίθετο από τους ανταγωνιστές"
+          },
+          {
+            "en": "Ask what would surely cause failure, and avoid it",
+            "el": "Να ρωτήσεις τι θα έφερνε σίγουρα αποτυχία και να το αποφύγεις"
+          },
+          {
+            "en": "Start every project from the last step",
+            "el": "Να ξεκινάς κάθε έργο από το τελευταίο βήμα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Thinking backwards from failure shows you clearly what to avoid.",
+          "el": "Η σκέψη ανάποδα, από την αποτυχία, σου δείχνει καθαρά τι να αποφύγεις."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Just avoid being stupid",
+        "el": "Απλώς μην είσαι ανόητος"
+      },
+      "explain": {
+        "en": "Munger says he and Buffett gained a huge long-term advantage by trying to be consistently not stupid, instead of trying to be very clever. Brilliant moves are rare and hard. Avoiding big, permanent errors is easier, and it lets compounding do its work. The worst errors are the ones you cannot recover from, like heavy debt that wipes you out.",
+        "el": "Ο Μάνγκερ λέει ότι αυτός και ο Μπάφετ κέρδισαν τεράστιο μακροπρόθεσμο πλεονέκτημα προσπαθώντας να μην είναι ποτέ ανόητοι, αντί να προσπαθούν να είναι πολύ έξυπνοι. Οι λαμπρές κινήσεις είναι σπάνιες και δύσκολες. Το να αποφεύγεις μεγάλα, μόνιμα λάθη είναι πιο εύκολο, και αφήνει τον ανατοκισμό να κάνει τη δουλειά του. Τα χειρότερα λάθη είναι αυτά που δεν διορθώνονται, όπως ένα βαρύ χρέος που σε αφανίζει."
+      },
+      "example": {
+        "en": "In 1998 the hedge fund Long-Term Capital Management, run by star traders and two Nobel prize economists, collapsed after betting with enormous borrowed money. Munger and Buffett often used it as the classic case of very smart people doing something very stupid.",
+        "el": "Το 1998 το hedge fund Long-Term Capital Management, με διάσημους traders και δύο οικονομολόγους με Νόμπελ, κατέρρευσε αφού στοιχημάτισε με τεράστια δανεικά χρήματα. Ο Μάνγκερ και ο Μπάφετ το ανέφεραν συχνά ως κλασική περίπτωση πολύ έξυπνων ανθρώπων που κάνουν κάτι πολύ ανόητο."
+      },
+      "apply": {
+        "en": "Write your three «never» rules for the agency, for example: never take a loan to pay for ads, never let one client be more than 10 percent of income, never publish a site that has not passed the final check. Read them before any big move.",
+        "el": "Γράψε τους τρεις κανόνες «ποτέ» της επιχείρησης, για παράδειγμα: ποτέ δάνειο για να πληρώσεις διαφημίσεις, ποτέ ένας πελάτης πάνω από το 10 τοις εκατό του εσόδου, ποτέ σελίδα live χωρίς τον τελικό έλεγχο. Διάβασέ τους πριν από κάθε μεγάλη κίνηση."
+      },
+      "check": {
+        "q": {
+          "en": "According to Munger, where did much of Berkshire's edge come from?",
+          "el": "Κατά τον Μάνγκερ, από πού ήρθε μεγάλο μέρος του πλεονεκτήματος της Berkshire;"
+        },
+        "options": [
+          {
+            "en": "From constant brilliant trades every week",
+            "el": "Από συνεχείς λαμπρές συναλλαγές κάθε εβδομάδα"
+          },
+          {
+            "en": "From secret information other investors lacked",
+            "el": "Από μυστικές πληροφορίες που δεν είχαν οι άλλοι"
+          },
+          {
+            "en": "From consistently avoiding stupid, permanent mistakes",
+            "el": "Από το ότι απέφευγαν σταθερά τα ανόητα, μόνιμα λάθη"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Avoiding ruin and big errors let their gains compound for decades.",
+          "el": "Η αποφυγή της καταστροφής και των μεγάλων λαθών άφησε τα κέρδη τους να ανατοκίζονται για δεκαετίες."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Stay inside your circle",
+        "el": "Μείνε μέσα στον κύκλο σου"
+      },
+      "explain": {
+        "en": "Everyone has a circle of competence: areas where you really know what you are doing. Munger says the size of the circle matters less than knowing exactly where its edge is. Inside it, you can act with confidence. Outside it, you are a beginner who thinks he is an expert. Play only the games where you have a real edge.",
+        "el": "Ο καθένας έχει έναν «κύκλο ικανότητας»: τα πεδία όπου ξέρει πραγματικά τι κάνει. Ο Μάνγκερ λέει ότι το μέγεθος του κύκλου μετρά λιγότερο από το να ξέρεις ακριβώς πού είναι το όριό του. Μέσα σε αυτόν μπορείς να δρας με σιγουριά. Έξω από αυτόν είσαι αρχάριος που νομίζει ότι είναι ειδικός. Παίξε μόνο τα παιχνίδια όπου έχεις πραγματικό πλεονέκτημα."
+      },
+      "example": {
+        "en": "Munger liked to quote Tom Watson Sr., the builder of IBM, who said he was no genius but was smart in spots, and stayed around those spots. Berkshire for decades avoided businesses it did not understand, even when they were fashionable.",
+        "el": "Ο Μάνγκερ αγαπούσε να παραθέτει τον Τομ Γουότσον τον πρεσβύτερο, που έχτισε την IBM: έλεγε ότι δεν ήταν ιδιοφυΐα, αλλά ήταν έξυπνος σε κάποια σημεία και έμενε κοντά σε αυτά. Η Berkshire απέφευγε για δεκαετίες επιχειρήσεις που δεν καταλάβαινε, ακόμη κι όταν ήταν της μόδας."
+      },
+      "apply": {
+        "en": "Draw your circle: websites for Greek professionals, cold calling, AI-built sites. When a client asks for a big eshop or an app, either refer it, or take it as a clearly labelled learning project with a lower promise.",
+        "el": "Ζωγράφισε τον κύκλο σου: ιστοσελίδες για Έλληνες επαγγελματίες, cold calling, σελίδες χτισμένες με AI. Όταν ένας πελάτης ζητά μεγάλο eshop ή εφαρμογή, ή παράπεμψέ το αλλού ή πάρ' το ως ξεκάθαρο έργο μάθησης, με μικρότερη υπόσχεση."
+      },
+      "check": {
+        "q": {
+          "en": "What matters most about your circle of competence?",
+          "el": "Τι μετρά περισσότερο στον κύκλο ικανότητάς σου;"
+        },
+        "options": [
+          {
+            "en": "Knowing exactly where its edge is",
+            "el": "Να ξέρεις ακριβώς πού είναι το όριό του"
+          },
+          {
+            "en": "Making it as big as possible quickly",
+            "el": "Να τον κάνεις όσο πιο μεγάλο γίνεται, γρήγορα"
+          },
+          {
+            "en": "Hiding its limits from your clients",
+            "el": "Να κρύβεις τα όριά του από τους πελάτες"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "A small circle is fine; danger comes from not knowing where it ends.",
+          "el": "Ένας μικρός κύκλος είναι εντάξει· ο κίνδυνος έρχεται όταν δεν ξέρεις πού τελειώνει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The superpower of incentives",
+        "el": "Η υπερδύναμη των κινήτρων"
+      },
+      "explain": {
+        "en": "The first tendency in Munger's famous talk on human misjudgment is the power of reward and punishment. He says he underrated it his whole life, even though he knew it was huge. People do what they are rewarded for, not what you ask. If behaviour looks crazy, look at the incentives first. And watch your own: they bend your judgment too.",
+        "el": "Η πρώτη τάση στη διάσημη ομιλία του Μάνγκερ για τα ανθρώπινα λάθη κρίσης είναι η δύναμη της ανταμοιβής και της τιμωρίας. Λέει ότι την υποτιμούσε όλη του τη ζωή, παρότι ήξερε ότι είναι τεράστια. Οι άνθρωποι κάνουν αυτό για το οποίο ανταμείβονται, όχι αυτό που τους ζητάς. Αν μια συμπεριφορά μοιάζει τρελή, κοίτα πρώτα τα κίνητρα. Και πρόσεχε και τα δικά σου: στραβώνουν κι εσένα την κρίση."
+      },
+      "example": {
+        "en": "FedEx's night shift kept failing to move all the packages on time. Managers tried pep talks and pressure. What worked was changing pay from per hour to per shift, letting workers go home once the job was done. Delays nearly vanished overnight.",
+        "el": "Η νυχτερινή βάρδια της FedEx δεν προλάβαινε να διακινήσει όλα τα δέματα στην ώρα τους. Οι διευθυντές δοκίμασαν ενθαρρυντικά λόγια και πίεση. Αυτό που έπιασε ήταν να αλλάξει η πληρωμή από ανά ώρα σε ανά βάρδια, ώστε οι εργάτες να φεύγουν μόλις τελειώνει η δουλειά. Οι καθυστερήσεις σχεδόν εξαφανίστηκαν αμέσως."
+      },
+      "apply": {
+        "en": "If you pay a salesperson only per site built, they will bring clients who never pay. Pay them when the first hosting fee is collected. And for late payers, offer a simple reason to act: the site goes live the day the payment arrives.",
+        "el": "Αν πληρώνεις έναν πωλητή μόνο ανά σελίδα που φτιάχνεται, θα σου φέρνει πελάτες που δεν πληρώνουν ποτέ. Πλήρωνέ τον όταν εισπραχθεί η πρώτη φιλοξενία. Και στους αργοπορημένους δώσε έναν απλό λόγο να κινηθούν: η σελίδα βγαίνει live τη μέρα που μπαίνει η πληρωμή."
+      },
+      "check": {
+        "q": {
+          "en": "What fixed FedEx's late night shift?",
+          "el": "Τι έλυσε το πρόβλημα της νυχτερινής βάρδιας της FedEx;"
+        },
+        "options": [
+          {
+            "en": "Longer motivational speeches from managers",
+            "el": "Μεγαλύτερες ομιλίες εμψύχωσης από τους διευθυντές"
+          },
+          {
+            "en": "Paying per shift so finishing early paid off",
+            "el": "Πληρωμή ανά βάρδια, ώστε να συμφέρει να τελειώνουν νωρίς"
+          },
+          {
+            "en": "Hiring twice as many night workers",
+            "el": "Πρόσληψη διπλάσιων εργατών για τη νύχτα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Per-hour pay rewarded slowness; per-shift pay rewarded speed.",
+          "el": "Η πληρωμή ανά ώρα αντάμειβε την αργοπορία· η πληρωμή ανά βάρδια αντάμειβε την ταχύτητα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Liking, hating and envy",
+        "el": "Συμπάθεια, αντιπάθεια και φθόνος"
+      },
+      "explain": {
+        "en": "Three more tendencies from his list. When we like someone, we ignore their faults and favour what they offer. When we dislike someone, we distort facts against them and their ideas. And envy, comparing ourselves with people close to us, drives far more behaviour than people admit. Munger calls envy a really stupid sin, the only one with no fun in it.",
+        "el": "Τρεις ακόμη τάσεις από τη λίστα του. Όταν συμπαθούμε κάποιον, αγνοούμε τα ελαττώματά του και ευνοούμε ό,τι προσφέρει. Όταν αντιπαθούμε κάποιον, στρεβλώνουμε τα γεγονότα εναντίον του και των ιδεών του. Και ο φθόνος, η σύγκριση με όσους είναι κοντά μας, κινεί πολύ περισσότερη συμπεριφορά απ' όσο παραδεχόμαστε. Ο Μάνγκερ λέει τον φθόνο πολύ ανόητη αμαρτία, τη μόνη χωρίς καμία απόλαυση."
+      },
+      "example": {
+        "en": "Munger points out that the Ten Commandments already forbid coveting your neighbour's house or ox: envy was a problem three thousand years ago. Buffett has often said that it is not greed that drives the world, but envy.",
+        "el": "Ο Μάνγκερ επισημαίνει ότι οι Δέκα Εντολές απαγορεύουν ήδη να επιθυμείς το σπίτι ή το βόδι του πλησίον σου: ο φθόνος ήταν πρόβλημα πριν από τρεις χιλιάδες χρόνια. Και ο Μπάφετ έχει πει πολλές φορές ότι τον κόσμο δεν τον κινεί η απληστία, αλλά ο φθόνος."
+      },
+      "apply": {
+        "en": "When you like a freelancer, ask: would I accept this work from a stranger? When a competitor annoys you, judge their idea on its own. And mute the Instagram accounts that make you envious instead of making you better.",
+        "el": "Όταν συμπαθείς έναν freelancer, ρώτα: θα δεχόμουν αυτή τη δουλειά από έναν άγνωστο; Όταν σε εκνευρίζει ένας ανταγωνιστής, κρίνε την ιδέα του χωριστά από εκείνον. Και κάνε σίγαση στους λογαριασμούς στο Instagram που σε κάνουν να ζηλεύεις αντί να σε κάνουν καλύτερο."
+      },
+      "check": {
+        "q": {
+          "en": "Why does Munger call envy especially stupid?",
+          "el": "Γιατί ο Μάνγκερ λέει τον φθόνο ιδιαίτερα ανόητο;"
+        },
+        "options": [
+          {
+            "en": "Because it is illegal in most countries",
+            "el": "Επειδή είναι παράνομος στις περισσότερες χώρες"
+          },
+          {
+            "en": "Because only rich people feel it",
+            "el": "Επειδή τον νιώθουν μόνο οι πλούσιοι"
+          },
+          {
+            "en": "Because it hurts you and gives no pleasure at all",
+            "el": "Επειδή σε πληγώνει χωρίς να σου δίνει καμία απόλαυση"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Other sins at least bring some pleasure; envy only makes you miserable.",
+          "el": "Οι άλλες αμαρτίες φέρνουν τουλάχιστον κάποια απόλαυση· ο φθόνος μόνο σε κάνει δυστυχισμένο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Quick to decide, slow to change",
+        "el": "Γρήγοροι στην απόφαση, αργοί στην αλλαγή"
+      },
+      "explain": {
+        "en": "Two tendencies work together. Doubt-avoidance: the brain hates uncertainty, so it rushes to a conclusion, especially under stress. Inconsistency-avoidance: once we have decided, we defend our view and resist new evidence, like an egg that lets in one sperm and then shuts. The result is that early ideas, even bad ones, stick for years.",
+        "el": "Δύο τάσεις δουλεύουν μαζί. Η αποφυγή της αμφιβολίας: ο εγκέφαλος μισεί την αβεβαιότητα, γι' αυτό βιάζεται να βγάλει συμπέρασμα, ειδικά όταν πιέζεται. Η αποφυγή της ασυνέπειας: μόλις αποφασίσουμε, υπερασπιζόμαστε την άποψή μας και αντιστεκόμαστε στα νέα στοιχεία, σαν ωάριο που δέχεται ένα σπερματοζωάριο και κλείνει. Έτσι οι πρώτες ιδέες, ακόμη και οι κακές, κολλάνε για χρόνια."
+      },
+      "example": {
+        "en": "Munger admired Charles Darwin, who made a golden rule for himself: whenever he met a fact that went against his theory, he wrote it down at once, because he knew such facts slip from memory far faster than the ones we like.",
+        "el": "Ο Μάνγκερ θαύμαζε τον Κάρολο Δαρβίνο, που είχε βάλει στον εαυτό του έναν χρυσό κανόνα: όποτε συναντούσε ένα γεγονός αντίθετο στη θεωρία του, το έγραφε αμέσως, γιατί ήξερε ότι τέτοια γεγονότα ξεχνιούνται πολύ πιο γρήγορα από όσα μας αρέσουν."
+      },
+      "apply": {
+        "en": "Keep a «Darwin note» in your CRM: every time a niche, an ad or a script does worse than you believed, write it down that same day. Review the note monthly before you decide where to put your time and money.",
+        "el": "Κράτα ένα «σημείωμα Δαρβίνου» στο CRM: κάθε φορά που μια ειδικότητα, μια διαφήμιση ή ένα σενάριο κλήσης πάει χειρότερα απ' ό,τι πίστευες, γράψ' το την ίδια μέρα. Δες το σημείωμα κάθε μήνα πριν αποφασίσεις πού θα βάλεις χρόνο και χρήμα."
+      },
+      "check": {
+        "q": {
+          "en": "Why did Darwin write down facts against his theory at once?",
+          "el": "Γιατί ο Δαρβίνος έγραφε αμέσως τα γεγονότα που ήταν αντίθετα στη θεωρία του;"
+        },
+        "options": [
+          {
+            "en": "Because we forget unwelcome facts much faster",
+            "el": "Επειδή ξεχνάμε πολύ πιο γρήγορα τα δυσάρεστα γεγονότα"
+          },
+          {
+            "en": "Because he wanted to prove critics right",
+            "el": "Επειδή ήθελε να δικαιώσει τους επικριτές του"
+          },
+          {
+            "en": "Because his publisher required it",
+            "el": "Επειδή το απαιτούσε ο εκδότης του"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The mind protects its conclusions; writing down disconfirming facts fights that.",
+          "el": "Το μυαλό προστατεύει τα συμπεράσματά του· η καταγραφή των αντίθετων στοιχείων το αντιμετωπίζει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Fooling yourself",
+        "el": "Ξεγελάς τον εαυτό σου"
+      },
+      "explain": {
+        "en": "Three tendencies make us lie to ourselves. Denial: when reality is too painful, we refuse to see it. Excessive self-regard: we overrate ourselves, our things and our choices. Over-optimism: we expect things to go better than they will. Munger quotes the Greek orator Demosthenes: what a man wishes, he also believes to be true.",
+        "el": "Τρεις τάσεις μας κάνουν να λέμε ψέματα στον εαυτό μας. Η άρνηση: όταν η πραγματικότητα πονά πολύ, αρνούμαστε να τη δούμε. Η υπερβολική αυτοεκτίμηση: υπερτιμούμε τον εαυτό μας, τα πράγματά μας και τις επιλογές μας. Η υπεραισιοδοξία: περιμένουμε τα πράγματα να πάνε καλύτερα απ' ό,τι θα πάνε. Ο Μάνγκερ παραθέτει τον Δημοσθένη: ό,τι επιθυμεί κανείς, αυτό και πιστεύει ότι είναι αληθινό."
+      },
+      "example": {
+        "en": "In a 1975 study by Ellen Langer, office workers bought lottery tickets for one dollar. Those who had picked their own ticket asked several times more money to sell it back than those who were simply handed one. Same odds, but «mine» felt more valuable.",
+        "el": "Σε μια μελέτη της Έλεν Λάνγκερ το 1975, υπάλληλοι γραφείου αγόρασαν λαχεία με ένα δολάριο. Όσοι είχαν διαλέξει μόνοι τους το λαχείο ζητούσαν πολλαπλάσια χρήματα για να το πουλήσουν πίσω από όσους απλώς το είχαν πάρει στο χέρι. Ίδιες πιθανότητες, αλλά το «δικό μου» φαινόταν πιο πολύτιμο."
+      },
+      "apply": {
+        "en": "Before you start a new side project, write your honest guess of hours and income, then double the hours and halve the income. If it still looks worth it, go. Ask one blunt friend to judge your plan, not your effort.",
+        "el": "Πριν ξεκινήσεις ένα νέο side project, γράψε την ειλικρινή σου εκτίμηση για ώρες και έσοδα, μετά διπλασίασε τις ώρες και κόψε στη μέση τα έσοδα. Αν ακόμη αξίζει, προχώρα. Ζήτα από έναν ευθύ φίλο να κρίνει το σχέδιό σου, όχι την προσπάθειά σου."
+      },
+      "check": {
+        "q": {
+          "en": "What did the lottery ticket study show?",
+          "el": "Τι έδειξε η μελέτη με τα λαχεία;"
+        },
+        "options": [
+          {
+            "en": "People who choose tickets win more often",
+            "el": "Όσοι διαλέγουν λαχείο κερδίζουν πιο συχνά"
+          },
+          {
+            "en": "We overvalue what we chose ourselves",
+            "el": "Υπερτιμούμε ό,τι διαλέξαμε μόνοι μας"
+          },
+          {
+            "en": "Lottery players are better at math",
+            "el": "Όσοι παίζουν λαχεία είναι καλύτεροι στα μαθηματικά"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "The odds were identical; only self-regard made their own pick feel worth more.",
+          "el": "Οι πιθανότητες ήταν ίδιες· μόνο η αυτοεκτίμηση έκανε τη δική τους επιλογή να φαίνεται πιο ακριβή."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Loss and contrast",
+        "el": "Απώλεια και αντίθεση"
+      },
+      "explain": {
+        "en": "Deprival super-reaction: losing something, or almost getting it and missing, hurts far more than gaining the same thing pleases. People fight wildly to keep what they have. Contrast misreaction: we judge things by comparison, not by their real size, so small steps add up unnoticed and a price looks cheap next to a bigger one.",
+        "el": "Υπερβολική αντίδραση στη στέρηση: όταν χάνεις κάτι, ή κόντεψες να το πάρεις και το έχασες, πονάς πολύ περισσότερο απ' όσο χαίρεσαι όταν κερδίζεις το ίδιο. Οι άνθρωποι παλεύουν μανιωδώς για να κρατήσουν ό,τι έχουν. Λάθος από αντίθεση: κρίνουμε τα πράγματα με σύγκριση, όχι με το πραγματικό τους μέγεθος, οπότε τα μικρά βήματα αθροίζονται χωρίς να το καταλάβουμε και μια τιμή μοιάζει φθηνή δίπλα σε μια μεγαλύτερη."
+      },
+      "example": {
+        "en": "In his 1996 talk Munger said Coca-Cola's 1985 change to New Coke was a classic deprival mistake. Taste tests liked the new formula, but millions felt the old one was being taken away, and the company had to bring it back within three months.",
+        "el": "Στην ομιλία του 1996 ο Μάνγκερ είπε ότι η αλλαγή της Coca-Cola σε New Coke το 1985 ήταν κλασικό λάθος στέρησης. Στα τεστ γεύσης η νέα συνταγή άρεσε, αλλά εκατομμύρια ένιωσαν ότι τους έπαιρναν την παλιά, και η εταιρεία αναγκάστηκε να τη φέρει πίσω μέσα σε τρεις μήνες."
+      },
+      "apply": {
+        "en": "Never remove something clients already have without warning, like a feature or free changes. If you must change terms, give time and a reason. And watch contrast on yourself: check the yearly total of small tool subscriptions, not the monthly price.",
+        "el": "Μην αφαιρείς ποτέ χωρίς προειδοποίηση κάτι που οι πελάτες ήδη έχουν, όπως μια λειτουργία ή τις δωρεάν αλλαγές. Αν πρέπει να αλλάξεις όρους, δώσε χρόνο και εξήγηση. Και πρόσεχε την αντίθεση και σε σένα: κοίτα το ετήσιο σύνολο των μικρών συνδρομών σε εργαλεία, όχι τη μηνιαία τιμή."
+      },
+      "check": {
+        "q": {
+          "en": "Why did New Coke fail, in Munger's view?",
+          "el": "Γιατί απέτυχε η New Coke, κατά τον Μάνγκερ;"
+        },
+        "options": [
+          {
+            "en": "People reacted hard to losing the old Coke",
+            "el": "Ο κόσμος αντέδρασε έντονα στην απώλεια της παλιάς Coca-Cola"
+          },
+          {
+            "en": "The new taste lost every blind test",
+            "el": "Η νέα γεύση έχασε σε όλα τα τυφλά τεστ"
+          },
+          {
+            "en": "It was priced much higher than before",
+            "el": "Είχε πολύ ψηλότερη τιμή από πριν"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The taste was not the problem; taking away something people had triggered deprival super-reaction.",
+          "el": "Το πρόβλημα δεν ήταν η γεύση· η αφαίρεση κάτι που είχαν προκάλεσε υπερβολική αντίδραση στη στέρηση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Following the crowd and the boss",
+        "el": "Πίσω από το πλήθος και το αφεντικό"
+      },
+      "explain": {
+        "en": "Social proof: when unsure, we copy what others around us do, even when they are wrong, and crowds of investors or companies can run together off a cliff. Authority misinfluence: we obey people with titles, even when they are clearly mistaken. Munger notes that in flight simulators copilots sometimes let the captain make an obvious, deadly error rather than challenge him.",
+        "el": "Κοινωνική απόδειξη: όταν δεν είμαστε σίγουροι, αντιγράφουμε τι κάνουν οι γύρω μας, ακόμη κι αν κάνουν λάθος, και πλήθη επενδυτών ή εταιρειών μπορούν να τρέξουν μαζί στον γκρεμό. Λάθος από αυθεντία: υπακούμε σε ανθρώπους με τίτλους, ακόμη κι όταν κάνουν προφανές λάθος. Ο Μάνγκερ σημειώνει ότι σε προσομοιωτές πτήσης οι συγκυβερνήτες καμιά φορά αφήνουν τον κυβερνήτη να κάνει ένα ολοφάνερο, θανάσιμο λάθος αντί να του φέρουν αντίρρηση."
+      },
+      "example": {
+        "en": "In late 1999 almost everyone was buying internet stocks, and Barron's ran a cover asking what was wrong with Warren Buffett. He and Munger refused to follow the crowd. From 2000 the Nasdaq fell by about three quarters, and Berkshire came through fine.",
+        "el": "Στα τέλη του 1999 σχεδόν όλοι αγόραζαν μετοχές εταιρειών του internet, και το περιοδικό Barron's έβγαλε εξώφυλλο που ρωτούσε τι έπαθε ο Γουόρεν Μπάφετ. Εκείνος και ο Μάνγκερ αρνήθηκαν να ακολουθήσουν το πλήθος. Από το 2000 ο Nasdaq έπεσε περίπου κατά τρία τέταρτα, και η Berkshire βγήκε αλώβητη."
+      },
+      "apply": {
+        "en": "When every agency rushes to a new trend, ask what evidence exists for your clients, not theirs. And tell your team clearly: «If you see me making a mistake, say it right away.» Thank the first person who does.",
+        "el": "Όταν όλα τα γραφεία τρέχουν σε μια νέα μόδα, ρώτα τι στοιχεία υπάρχουν για τους δικούς σου πελάτες, όχι για τους δικούς τους. Και πες καθαρά στην ομάδα σου: «Αν δεις ότι κάνω λάθος, πες το αμέσως». Ευχαρίστησε τον πρώτο που θα το κάνει."
+      },
+      "check": {
+        "q": {
+          "en": "What protected Buffett and Munger in the 1999 internet bubble?",
+          "el": "Τι προστάτευσε τον Μπάφετ και τον Μάνγκερ στη φούσκα του internet το 1999;"
+        },
+        "options": [
+          {
+            "en": "They bought internet stocks earlier than others",
+            "el": "Αγόρασαν μετοχές internet νωρίτερα από τους άλλους"
+          },
+          {
+            "en": "They followed the advice of famous analysts",
+            "el": "Ακολούθησαν τις συμβουλές διάσημων αναλυτών"
+          },
+          {
+            "en": "They resisted social proof and stuck to what they understood",
+            "el": "Αντιστάθηκαν στην κοινωνική απόδειξη και έμειναν σε ό,τι καταλάβαιναν"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Ignoring the crowd, even while mocked, kept them out of the crash.",
+          "el": "Το ότι αγνόησαν το πλήθος, ακόμη και όταν τους κορόιδευαν, τους κράτησε έξω από την κατάρρευση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Always give the reason why",
+        "el": "Λέγε πάντα το γιατί"
+      },
+      "explain": {
+        "en": "Reason-respecting tendency: people cooperate much more when you tell them why. Munger also warns about twaddle, the human habit of filling meetings and messages with empty noise, and the opposite tendency to repay favours. His advice is simple: explain the reason behind every request, keep it short, and remember that a small favour given creates a wish to give back.",
+        "el": "Η τάση του σεβασμού στη λογική: οι άνθρωποι συνεργάζονται πολύ περισσότερο όταν τους λες γιατί. Ο Μάνγκερ προειδοποιεί και για την «φλυαρία», τη συνήθεια να γεμίζουμε συναντήσεις και μηνύματα με άδειο θόρυβο, και θυμίζει την τάση να ανταποδίδουμε τις χάρες. Η συμβουλή του είναι απλή: εξήγα τον λόγο πίσω από κάθε αίτημα, κράτα το σύντομο και θυμήσου ότι μια μικρή χάρη γεννά την επιθυμία να ανταποδοθεί."
+      },
+      "example": {
+        "en": "Munger tells of Carl Braun, founder of a big engineering firm, who had a strict rule: every message must say who is to do what, where, when and why. An employee who left out the why could get into serious trouble, because Braun knew people work better when they understand.",
+        "el": "Ο Μάνγκερ διηγείται για τον Καρλ Μπράουν, ιδρυτή μιας μεγάλης εταιρείας μηχανικών, που είχε αυστηρό κανόνα: κάθε μήνυμα πρέπει να λέει ποιος θα κάνει τι, πού, πότε και γιατί. Όποιος υπάλληλος παρέλειπε το γιατί έμπαινε σε σοβαρό μπελά, επειδή ο Μπράουν ήξερε ότι οι άνθρωποι δουλεύουν καλύτερα όταν καταλαβαίνουν."
+      },
+      "apply": {
+        "en": "In the client chat, add the why to every request: «We need the photos by Friday, because on Monday we build the first draft.» Do the same with your team. Short, clear, with a reason.",
+        "el": "Στο chat με τους πελάτες, πρόσθεσε το γιατί σε κάθε αίτημα: «Χρειαζόμαστε τις φωτογραφίες ως την Παρασκευή, γιατί τη Δευτέρα στήνουμε το πρώτο σχέδιο». Κάνε το ίδιο και με την ομάδα σου. Σύντομα, καθαρά, με αιτιολογία."
+      },
+      "check": {
+        "q": {
+          "en": "What was Carl Braun's communication rule?",
+          "el": "Ποιος ήταν ο κανόνας επικοινωνίας του Καρλ Μπράουν;"
+        },
+        "options": [
+          {
+            "en": "Who, what, where, when, and always why",
+            "el": "Ποιος, τι, πού, πότε, και πάντα γιατί"
+          },
+          {
+            "en": "Only the boss may explain decisions",
+            "el": "Μόνο το αφεντικό εξηγεί τις αποφάσεις"
+          },
+          {
+            "en": "Keep reasons secret to avoid arguments",
+            "el": "Κράτα τους λόγους κρυφούς για να μη γίνονται συζητήσεις"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Giving the reason makes people understand and cooperate better.",
+          "el": "Όταν λες τον λόγο, οι άνθρωποι καταλαβαίνουν και συνεργάζονται καλύτερα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The lollapalooza effect",
+        "el": "Το φαινόμενο «λολαπαλούζα»"
+      },
+      "explain": {
+        "en": "Munger's most important point about psychology: when several tendencies push in the same direction at once, the result is not a little bigger, it is extreme. He calls this a lollapalooza. Most big human disasters and most huge successes come from such combinations. So do not study the tendencies one by one only; look for where they stack.",
+        "el": "Το πιο σημαντικό σημείο του Μάνγκερ για την ψυχολογία: όταν πολλές τάσεις σπρώχνουν μαζί προς την ίδια κατεύθυνση, το αποτέλεσμα δεν είναι λίγο μεγαλύτερο, είναι ακραίο. Αυτό το λέει «λολαπαλούζα». Οι περισσότερες μεγάλες ανθρώπινες καταστροφές και οι περισσότερες τεράστιες επιτυχίες έρχονται από τέτοιους συνδυασμούς. Γι' αυτό μη μελετάς τις τάσεις μόνο μία μία· ψάξε πού στοιβάζονται."
+      },
+      "example": {
+        "en": "Munger points to Tupperware parties. A friend hosts you, so you feel you owe her (reciprocation). You like her (liking). Everyone around you is buying (social proof). And you said you would come (consistency). Together they sell far more plastic boxes than any shop shelf could.",
+        "el": "Ο Μάνγκερ δείχνει τα πάρτι της Tupperware. Μια φίλη σε φιλοξενεί, άρα νιώθεις ότι της χρωστάς (ανταπόδοση). Τη συμπαθείς (συμπάθεια). Όλοι γύρω σου αγοράζουν (κοινωνική απόδειξη). Και είχες πει ότι θα έρθεις (συνέπεια). Όλα μαζί πουλούν πολύ περισσότερα πλαστικά δοχεία από οποιοδήποτε ράφι καταστήματος."
+      },
+      "apply": {
+        "en": "Stack honest forces in your offer: show real sites of colleagues in the same city (social proof), give a free first draft (reciprocation), ask a small yes first, like a video call (consistency). Never stack false ones like fake deadlines.",
+        "el": "Στοίβαξε τίμιες δυνάμεις στην προσφορά σου: δείξε πραγματικές σελίδες συναδέλφων στην ίδια πόλη (κοινωνική απόδειξη), δώσε δωρεάν πρώτο σχέδιο (ανταπόδοση), ζήτα πρώτα ένα μικρό ναι, όπως μια βιντεοκλήση (συνέπεια). Ποτέ ψεύτικες, όπως πλαστές προθεσμίες."
+      },
+      "check": {
+        "q": {
+          "en": "What is a lollapalooza effect?",
+          "el": "Τι είναι το φαινόμενο «λολαπαλούζα»;"
+        },
+        "options": [
+          {
+            "en": "A single strong bias acting alone",
+            "el": "Μία δυνατή προκατάληψη που δρα μόνη της"
+          },
+          {
+            "en": "Several tendencies combining into an extreme result",
+            "el": "Πολλές τάσεις μαζί που φέρνουν ακραίο αποτέλεσμα"
+          },
+          {
+            "en": "A lucky event nobody could predict",
+            "el": "Ένα τυχερό γεγονός που κανείς δεν προέβλεπε"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "When forces stack in one direction, the effect is far bigger than their sum.",
+          "el": "Όταν οι δυνάμεις στοιβάζονται προς μία κατεύθυνση, το αποτέλεσμα είναι πολύ μεγαλύτερο από το άθροισμά τους."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Few big bets, lots of waiting",
+        "el": "Λίγα μεγάλα στοιχήματα, πολλή αναμονή"
+      },
+      "explain": {
+        "en": "Munger compares investing to betting on horses in a pari-mutuel system, where the crowd sets the odds. Usually the odds are fair, so there is no edge. Once in a while the crowd misprices something. The wise person waits, does little, and bets big only then. The big money, he says, is not in buying and selling but in the waiting.",
+        "el": "Ο Μάνγκερ συγκρίνει την επένδυση με το στοίχημα στις ιπποδρομίες, όπου τις αποδόσεις τις ορίζει το πλήθος. Συνήθως οι αποδόσεις είναι δίκαιες, άρα δεν υπάρχει πλεονέκτημα. Πότε πότε όμως το πλήθος κοστολογεί κάτι λάθος. Ο σοφός περιμένει, κάνει λίγα και ποντάρει μεγάλα μόνο τότε. Τα πολλά λεφτά, λέει, δεν είναι στο αγόρασε-πούλησε αλλά στην αναμονή."
+      },
+      "example": {
+        "en": "In 1988 Berkshire began buying Coca-Cola stock, about 1 billion dollars, a huge bet for it at the time. It then simply held on for decades, while the value of the stake and its dividends grew many times over.",
+        "el": "Το 1988 η Berkshire άρχισε να αγοράζει μετοχές της Coca-Cola, περίπου 1 δισεκατομμύριο δολάρια, τεράστιο στοίχημα για τα δεδομένα της. Μετά απλώς τις κράτησε για δεκαετίες, ενώ η αξία του μεριδίου και τα μερίσματα πολλαπλασιάστηκαν."
+      },
+      "apply": {
+        "en": "Do not spread yourself over ten side projects. Run small tests, and when one niche clearly converts, like a profession that books meetings easily, bet big there: more calls, a dedicated ad, a page of examples for that profession.",
+        "el": "Μη σκορπίζεσαι σε δέκα side projects. Κάνε μικρές δοκιμές, και όταν μια ειδικότητα δείξει καθαρά ότι κλείνει, όπως ένα επάγγελμα που κλείνει εύκολα ραντεβού, πόνταρε μεγάλα εκεί: περισσότερα τηλεφωνήματα, ξεχωριστή διαφήμιση, μια σελίδα με παραδείγματα για αυτό το επάγγελμα."
+      },
+      "check": {
+        "q": {
+          "en": "When does Munger say to bet big?",
+          "el": "Πότε λέει ο Μάνγκερ να ποντάρεις μεγάλα;"
+        },
+        "options": [
+          {
+            "en": "As often as possible, to spread risk",
+            "el": "Όσο πιο συχνά γίνεται, για να μοιράζεις το ρίσκο"
+          },
+          {
+            "en": "Whenever the crowd is very excited",
+            "el": "Όποτε το πλήθος είναι πολύ ενθουσιασμένο"
+          },
+          {
+            "en": "Rarely, when the odds are clearly in your favour",
+            "el": "Σπάνια, όταν οι πιθανότητες είναι καθαρά υπέρ σου"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Most of the time there is no edge; wait patiently for the rare mispriced chance.",
+          "el": "Τις περισσότερες φορές δεν υπάρχει πλεονέκτημα· περίμενε υπομονετικά τη σπάνια λάθος τιμολογημένη ευκαιρία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Pay up for quality",
+        "el": "Πλήρωσε για την ποιότητα"
+      },
+      "explain": {
+        "en": "Buffett started by buying poor businesses very cheaply. Munger pushed him toward great businesses at fair prices: companies with a durable advantage, a «moat», like a loved brand, that can raise prices without losing customers. Munger also saw that in commodity businesses, new efficiency often goes to the customers, not the owners, because everyone has to cut prices.",
+        "el": "Ο Μπάφετ ξεκίνησε αγοράζοντας κακές επιχειρήσεις πολύ φθηνά. Ο Μάνγκερ τον έσπρωξε σε εξαιρετικές επιχειρήσεις σε λογικές τιμές: εταιρείες με διαρκές πλεονέκτημα, μια «τάφρο» γύρω τους, όπως μια αγαπημένη μάρκα, που μπορούν να ανεβάζουν τιμές χωρίς να χάνουν πελάτες. Ο Μάνγκερ είδε επίσης ότι στις επιχειρήσεις χωρίς διαφοροποίηση, κάθε νέα αποδοτικότητα πηγαίνει συνήθως στους πελάτες, όχι στους ιδιοκτήτες, γιατί όλοι αναγκάζονται να ρίξουν τιμές."
+      },
+      "example": {
+        "en": "In 1972 Berkshire bought See's Candies, a loved Californian chocolate brand, for 25 million dollars, more than its book value. It raised prices a little every year without losing customers, and over the decades sent Berkshire well over a billion dollars in profit.",
+        "el": "Το 1972 η Berkshire αγόρασε τη See's Candies, μια αγαπημένη μάρκα σοκολάτας από την Καλιφόρνια, για 25 εκατομμύρια δολάρια, πάνω από τη λογιστική της αξία. Ανέβαζε λίγο τις τιμές κάθε χρόνο χωρίς να χάνει πελάτες, και μέσα στις δεκαετίες έφερε στη Berkshire πάνω από ένα δισεκατομμύριο δολάρια κέρδος."
+      },
+      "apply": {
+        "en": "Do not become a commodity web shop that competes only on price. Build your moat: speed, beautiful sites, fast changes, a strong name among Greek doctors. Then a small yearly price rise for new clients will not drive them away.",
+        "el": "Μη γίνεις άλλο ένα γραφείο που ανταγωνίζεται μόνο στην τιμή. Χτίσε την τάφρο σου: ταχύτητα, πανέμορφες σελίδες, γρήγορες αλλαγές, δυνατό όνομα στους Έλληνες γιατρούς. Τότε μια μικρή ετήσια αύξηση για τους νέους πελάτες δεν θα τους διώξει."
+      },
+      "check": {
+        "q": {
+          "en": "What made See's Candies such a good buy?",
+          "el": "Τι έκανε τη See's Candies τόσο καλή αγορά;"
+        },
+        "options": [
+          {
+            "en": "A loved brand that could raise prices",
+            "el": "Μια αγαπημένη μάρκα που μπορούσε να ανεβάζει τιμές"
+          },
+          {
+            "en": "It was the cheapest company on the market",
+            "el": "Ήταν η φθηνότερη εταιρεία της αγοράς"
+          },
+          {
+            "en": "It had the newest machines in the industry",
+            "el": "Είχε τα πιο σύγχρονα μηχανήματα του κλάδου"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Its moat was customer love, so price rises turned into profit year after year.",
+          "el": "Η τάφρος της ήταν η αγάπη των πελατών, οπότε οι αυξήσεις γίνονταν κέρδος χρόνο με τον χρόνο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Use checklists for decisions",
+        "el": "Λίστες ελέγχου για τις αποφάσεις"
+      },
+      "explain": {
+        "en": "Munger is a big fan of the pilot's checklist. Smart people still forget things, especially under pressure, so he runs through a mental list of models and misjudgment tendencies before an important decision. A checklist does not make you clever; it stops you from missing the obvious, which is where most damage comes from.",
+        "el": "Ο Μάνγκερ είναι μεγάλος οπαδός της λίστας ελέγχου των πιλότων. Και οι έξυπνοι ξεχνούν, ειδικά υπό πίεση, γι' αυτό περνά μια νοητή λίστα με μοντέλα και τάσεις λάθους κρίσης πριν από κάθε σημαντική απόφαση. Η λίστα δεν σε κάνει έξυπνο· σε εμποδίζει να χάσεις το προφανές, απ' όπου έρχεται η περισσότερη ζημιά."
+      },
+      "example": {
+        "en": "In 1935 Boeing's new bomber prototype, the Model 299, crashed on a test flight because an expert pilot forgot to release a control lock. The plane was not too hard to fly; it had too many steps to remember. Pilots then wrote a short checklist, and the aircraft went on to fly safely.",
+        "el": "Το 1935 το νέο πρωτότυπο βομβαρδιστικό της Boeing, το Model 299, συνετρίβη σε δοκιμαστική πτήση επειδή ένας έμπειρος πιλότος ξέχασε να απελευθερώσει μια ασφάλεια των πηδαλίων. Το αεροπλάνο δεν ήταν δύσκολο· είχε απλώς πάρα πολλά βήματα να θυμάσαι. Οι πιλότοι έγραψαν τότε μια σύντομη λίστα, και το αεροσκάφος πέταξε με ασφάλεια από εκεί και πέρα."
+      },
+      "apply": {
+        "en": "Make a five-line checklist for taking on a new client or project: is it in my circle, what are the incentives, what could make it fail, am I liking the person more than the deal, and can I walk away? Use it every time.",
+        "el": "Φτιάξε μια λίστα πέντε γραμμών για να δέχεσαι νέο πελάτη ή έργο: είναι μέσα στον κύκλο μου, ποια είναι τα κίνητρα, τι θα το έκανε να αποτύχει, μήπως συμπαθώ τον άνθρωπο περισσότερο από τη συμφωνία, και μπορώ να πω όχι; Χρησιμοποίησέ τη κάθε φορά."
+      },
+      "check": {
+        "q": {
+          "en": "What does a decision checklist mainly do, for Munger?",
+          "el": "Τι κάνει κυρίως μια λίστα αποφάσεων, για τον Μάνγκερ;"
+        },
+        "options": [
+          {
+            "en": "Makes you more creative and original",
+            "el": "Σε κάνει πιο δημιουργικό και πρωτότυπο"
+          },
+          {
+            "en": "Stops you from missing obvious things",
+            "el": "Σε εμποδίζει να χάνεις τα προφανή"
+          },
+          {
+            "en": "Lets you skip thinking altogether",
+            "el": "Σου επιτρέπει να μη σκέφτεσαι καθόλου"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Most damage comes from forgetting the basics, and a checklist guards against that.",
+          "el": "Η περισσότερη ζημιά έρχεται όταν ξεχνάς τα βασικά, και η λίστα σε προφυλάσσει από αυτό."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Become a learning machine",
+        "el": "Γίνε μηχανή μάθησης"
+      },
+      "explain": {
+        "en": "Munger says he constantly saw people rise who were not the smartest, sometimes not even the hardest working, but who were learning machines. They went to bed each night a little wiser than when they got up. Self-education, mostly from reading and from other people's mistakes, was his main tool, and he kept at it into his nineties.",
+        "el": "Ο Μάνγκερ λέει ότι έβλεπε συνέχεια να ανεβαίνουν άνθρωποι που δεν ήταν οι πιο έξυπνοι, μερικές φορές ούτε οι πιο εργατικοί, αλλά ήταν μηχανές μάθησης. Πήγαιναν για ύπνο κάθε βράδυ λίγο σοφότεροι απ' ό,τι ξύπνησαν. Η αυτομόρφωση, κυρίως από διάβασμα και από τα λάθη των άλλων, ήταν το βασικό του εργαλείο, και συνέχισε έτσι μέχρι τα ενενήντα του."
+      },
+      "example": {
+        "en": "Munger never finished a first university degree. He studied a mix of subjects, including meteorology in the army during the war, and still got into Harvard Law School. He then taught himself investing, mostly by reading, and became one of the most respected investors alive.",
+        "el": "Ο Μάνγκερ δεν τελείωσε ποτέ πρώτο πτυχίο. Σπούδασε διάφορα, ανάμεσά τους μετεωρολογία στον στρατό την εποχή του πολέμου, και παρ' όλα αυτά μπήκε στη Νομική του Χάρβαρντ. Μετά έμαθε μόνος του να επενδύει, κυρίως διαβάζοντας, και έγινε από τους πιο σεβαστούς επενδυτές του καιρού του."
+      },
+      "apply": {
+        "en": "Like you, Munger had no formal training in his main game. Keep 30 minutes a day for learning, and at night write one line: «What did I learn today?» Also learn from others' mistakes: when a peer's agency fails, find out why.",
+        "el": "Όπως εσύ, ο Μάνγκερ δεν είχε τυπική εκπαίδευση στο βασικό του παιχνίδι. Κράτα 30 λεπτά τη μέρα για μάθηση, και το βράδυ γράψε μία γραμμή: «Τι έμαθα σήμερα;» Μάθαινε και από τα λάθη των άλλων: όταν κλείνει το γραφείο ενός συναδέλφου, βρες γιατί."
+      },
+      "check": {
+        "q": {
+          "en": "Who rises in life, according to Munger?",
+          "el": "Ποιοι ανεβαίνουν στη ζωή, κατά τον Μάνγκερ;"
+        },
+        "options": [
+          {
+            "en": "Those with the best university degrees",
+            "el": "Όσοι έχουν τα καλύτερα πτυχία"
+          },
+          {
+            "en": "Those born smartest",
+            "el": "Όσοι γεννήθηκαν οι πιο έξυπνοι"
+          },
+          {
+            "en": "Learning machines who get a bit wiser every day",
+            "el": "Οι μηχανές μάθησης που γίνονται λίγο σοφότεροι κάθε μέρα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Steady daily learning compounds, like money, and beats raw talent over time.",
+          "el": "Η σταθερή καθημερινή μάθηση ανατοκίζεται, σαν τα χρήματα, και νικά το σκέτο ταλέντο με τον καιρό."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Deserve it, and skip self-pity",
+        "el": "Άξιζέ το, και άσε τη μιζέρια"
+      },
+      "explain": {
+        "en": "Munger's life advice is old-fashioned. The best way to get what you want is to deserve what you want. Be reliable, keep your word, do your job well. And refuse envy, resentment and self-pity, which only poison you. When bad things happen, and they will, deal with them and move on.",
+        "el": "Οι συμβουλές ζωής του Μάνγκερ είναι παλιομοδίτικες. Ο καλύτερος τρόπος να πάρεις αυτό που θέλεις είναι να το αξίζεις. Να είσαι αξιόπιστος, να κρατάς τον λόγο σου, να κάνεις καλά τη δουλειά σου. Και να αρνείσαι τον φθόνο, την κακία και τη λύπηση του εαυτού σου, που μόνο σε δηλητηριάζουν. Όταν συμβαίνουν άσχημα πράγματα, και θα συμβούν, αντιμετώπισέ τα και προχώρα."
+      },
+      "example": {
+        "en": "Munger told of a friend who carried a stack of cards. When someone complained too much, he handed one over; it said, roughly, that never had he heard of anyone with such misfortunes. A joke, but a cure. Munger himself lost a young son to leukemia, went through a divorce and lost an eye, and still refused self-pity.",
+        "el": "Ο Μάνγκερ διηγούνταν για έναν φίλο του που κουβαλούσε μια στοίβα κάρτες. Όταν κάποιος παραπονιόταν πολύ, του έδινε μία· έγραφε περίπου ότι ποτέ δεν είχε ακούσει για άνθρωπο με τόσες ατυχίες. Αστείο, αλλά και φάρμακο. Ο ίδιος ο Μάνγκερ έχασε μικρό τον γιο του από λευχαιμία, πέρασε διαζύγιο και έχασε το ένα του μάτι, και πάλι αρνήθηκε τη μιζέρια."
+      },
+      "apply": {
+        "en": "When a client ghosts you or a month is bad, give yourself ten minutes to complain, then write one action. Be the agency that always delivers on the promised date; that reliability is the reputation you want clients to repeat.",
+        "el": "Όταν ένας πελάτης εξαφανίζεται ή ένας μήνας πάει άσχημα, δώσε στον εαυτό σου δέκα λεπτά για παράπονα και μετά γράψε μία ενέργεια. Γίνε το γραφείο που παραδίδει πάντα στην ημερομηνία που υποσχέθηκε· αυτή η αξιοπιστία είναι η φήμη που θέλεις να λένε οι πελάτες."
+      },
+      "check": {
+        "q": {
+          "en": "What is Munger's best way to get what you want?",
+          "el": "Ποιος είναι ο καλύτερος τρόπος, κατά τον Μάνγκερ, να πάρεις αυτό που θέλεις;"
+        },
+        "options": [
+          {
+            "en": "To deserve it through reliable, honest work",
+            "el": "Να το αξίζεις με αξιόπιστη, τίμια δουλειά"
+          },
+          {
+            "en": "To complain until people give it to you",
+            "el": "Να παραπονιέσαι μέχρι να σου το δώσουν"
+          },
+          {
+            "en": "To copy whoever already has it",
+            "el": "Να αντιγράψεις όποιον το έχει ήδη"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Reliability and merit attract what you want; self-pity only drags you down.",
+          "el": "Η αξιοπιστία και η αξία φέρνουν αυτό που θέλεις· η μιζέρια μόνο σε τραβά κάτω."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "Your new salesperson brings many sign-ups, but half never pay hosting. What do you check first?",
+        "el": "Ο νέος σου πωλητής φέρνει πολλές εγγραφές, αλλά οι μισοί δεν πληρώνουν ποτέ φιλοξενία. Τι ελέγχεις πρώτα;"
+      },
+      "options": [
+        {
+          "en": "His personality and attitude",
+          "el": "Τον χαρακτήρα και τη στάση του"
+        },
+        {
+          "en": "What his pay actually rewards",
+          "el": "Τι ανταμείβει στην πράξη η αμοιβή του"
+        },
+        {
+          "en": "Whether your ads need more budget",
+          "el": "Αν οι διαφημίσεις χρειάζονται μεγαλύτερο budget"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Incentives first: if he is paid per sign-up, he will bring sign-ups, not paying clients.",
+        "el": "Πρώτα τα κίνητρα: αν πληρώνεται ανά εγγραφή, θα φέρνει εγγραφές, όχι πελάτες που πληρώνουν."
+      },
+      "idea": 6
+    },
+    {
+      "q": {
+        "en": "A client asks you to build a complex booking app with payments. You have never done one. What do you do?",
+        "el": "Ένας πελάτης σου ζητά μια σύνθετη εφαρμογή κρατήσεων με πληρωμές. Δεν έχεις φτιάξει ποτέ κάτι τέτοιο. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Say yes and promise it in two weeks",
+          "el": "Λες ναι και το υπόσχεσαι σε δύο εβδομάδες"
+        },
+        {
+          "en": "Refuse and stop talking to the client",
+          "el": "Αρνείσαι και σταματάς να μιλάς με τον πελάτη"
+        },
+        {
+          "en": "Admit it is outside your circle and offer what you do well",
+          "el": "Παραδέχεσαι ότι είναι έξω από τον κύκλο σου και προτείνεις ό,τι κάνεις καλά"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Know the edge of your circle of competence and be honest about it.",
+        "el": "Να ξέρεις το όριο του κύκλου ικανότητάς σου και να είσαι ειλικρινής γι' αυτό."
+      },
+      "idea": 5
+    },
+    {
+      "q": {
+        "en": "You want fewer unhappy clients. How do you start, Munger-style?",
+        "el": "Θέλεις λιγότερους δυσαρεστημένους πελάτες. Πώς ξεκινάς, όπως ο Μάνγκερ;"
+      },
+      "options": [
+        {
+          "en": "List what would surely make clients unhappy, then block each",
+          "el": "Γράφεις τι θα δυσαρεστούσε σίγουρα τους πελάτες και το μπλοκάρεις"
+        },
+        {
+          "en": "Send everyone a gift and hope for the best",
+          "el": "Στέλνεις σε όλους ένα δώρο και ελπίζεις"
+        },
+        {
+          "en": "Wait for complaints and react to each one",
+          "el": "Περιμένεις τα παράπονα και αντιδράς σε καθένα"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Invert: find the sure ways to fail and remove them.",
+        "el": "Αντιστροφή: βρες τους σίγουρους τρόπους να αποτύχεις και αφαίρεσέ τους."
+      },
+      "idea": 3
+    },
+    {
+      "q": {
+        "en": "You decide to stop offering free changes after launch, starting tomorrow, for all current clients. What does Munger warn?",
+        "el": "Αποφασίζεις να σταματήσεις από αύριο τις δωρεάν αλλαγές μετά το live για όλους τους πελάτες. Τι σε προειδοποιεί ο Μάνγκερ;"
+      },
+      "options": [
+        {
+          "en": "Clients will not notice small changes",
+          "el": "Οι πελάτες δεν θα προσέξουν μικρές αλλαγές"
+        },
+        {
+          "en": "Taking away what people have triggers a strong reaction",
+          "el": "Όταν παίρνεις κάτι που έχουν, προκαλείς έντονη αντίδραση"
+        },
+        {
+          "en": "Clients prefer paying for every change",
+          "el": "Οι πελάτες προτιμούν να πληρώνουν κάθε αλλαγή"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Deprival super-reaction: losses hurt much more than gains please; warn, explain and give time.",
+        "el": "Υπερβολική αντίδραση στη στέρηση: οι απώλειες πονούν πολύ περισσότερο· προειδοποίησε, εξήγησε και δώσε χρόνο."
+      },
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "Every agency you follow is switching to a new trendy tool. What do you do?",
+        "el": "Όλα τα γραφεία που παρακολουθείς περνούν σε ένα νέο εργαλείο της μόδας. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Switch at once so you are not left behind",
+          "el": "Αλλάζεις αμέσως για να μη μείνεις πίσω"
+        },
+        {
+          "en": "Mock it publicly on Instagram",
+          "el": "Το κοροϊδεύεις δημόσια στο Instagram"
+        },
+        {
+          "en": "Test it on one site and judge by your own results",
+          "el": "Το δοκιμάζεις σε μία σελίδα και κρίνεις από τα δικά σου αποτελέσματα"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Social proof is not evidence; test it in your own circle before you follow.",
+        "el": "Η κοινωνική απόδειξη δεν είναι απόδειξη· δοκίμασέ το στον δικό σου κύκλο πριν ακολουθήσεις."
+      },
+      "idea": 11
+    },
+    {
+      "q": {
+        "en": "A friend from school now earns much more than you, and it bothers you at night. What helps?",
+        "el": "Ένας συμμαθητής σου βγάζει τώρα πολύ περισσότερα από σένα και αυτό σε τρώει τα βράδια. Τι βοηθά;"
+      },
+      "options": [
+        {
+          "en": "Name it as envy, drop it, and compare with your own past self",
+          "el": "Το ονομάζεις φθόνο, το αφήνεις και συγκρίνεσαι με τον παλιό σου εαυτό"
+        },
+        {
+          "en": "Check his Instagram daily for motivation",
+          "el": "Κοιτάς καθημερινά το Instagram του για κίνητρο"
+        },
+        {
+          "en": "Copy his career move without thinking",
+          "el": "Αντιγράφεις την επαγγελματική του κίνηση χωρίς σκέψη"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Envy is the sin with no fun in it; it only poisons you.",
+        "el": "Ο φθόνος είναι η αμαρτία χωρίς καμία απόλαυση· μόνο σε δηλητηριάζει."
+      },
+      "idea": 7
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "Munger said a few dozen big models from many fields do most of the work.",
+        "el": "Ο Μάνγκερ έλεγε ότι μερικές δεκάδες μεγάλα μοντέλα από πολλές επιστήμες κάνουν το μεγαλύτερο μέρος της δουλειάς."
+      },
+      "answer": true,
+      "why": {
+        "en": "He spoke of about 80 or 90 important models carrying most of the weight.",
+        "el": "Μιλούσε για περίπου 80 με 90 σημαντικά μοντέλα που σηκώνουν το μεγαλύτερο βάρος."
+      }
+    },
+    {
+      "s": {
+        "en": "Munger believed being brilliant matters more than avoiding stupid mistakes.",
+        "el": "Ο Μάνγκερ πίστευε ότι η ευφυΐα μετρά περισσότερο από την αποφυγή ανόητων λαθών."
+      },
+      "answer": false,
+      "why": {
+        "en": "He said trying to be consistently not stupid gave them a huge edge.",
+        "el": "Έλεγε ότι η προσπάθεια να μην είναι ποτέ ανόητοι τους έδωσε τεράστιο πλεονέκτημα."
+      }
+    },
+    {
+      "s": {
+        "en": "«Invert, always invert» means thinking about how to fail in order to avoid it.",
+        "el": "Το «αντίστρεψε, πάντα αντίστρεψε» σημαίνει να σκέφτεσαι πώς θα αποτύχεις για να το αποφύγεις."
+      },
+      "answer": true,
+      "why": {
+        "en": "Working backwards from failure shows what to avoid.",
+        "el": "Η σκέψη ανάποδα, από την αποτυχία, δείχνει τι να αποφύγεις."
+      }
+    },
+    {
+      "s": {
+        "en": "For Munger, a bigger circle of competence is always better than a small one.",
+        "el": "Για τον Μάνγκερ, ένας μεγαλύτερος κύκλος ικανότητας είναι πάντα καλύτερος από έναν μικρό."
+      },
+      "answer": false,
+      "why": {
+        "en": "Size matters less than knowing exactly where the edge is.",
+        "el": "Το μέγεθος μετρά λιγότερο από το να ξέρεις ακριβώς πού είναι το όριο."
+      }
+    },
+    {
+      "s": {
+        "en": "Munger said he underrated the power of incentives all his life.",
+        "el": "Ο Μάνγκερ είπε ότι υποτιμούσε όλη του τη ζωή τη δύναμη των κινήτρων."
+      },
+      "answer": true,
+      "why": {
+        "en": "He said this even though he already considered incentives enormously important.",
+        "el": "Το είπε, παρότι ήδη θεωρούσε τα κίνητρα εξαιρετικά σημαντικά."
+      }
+    },
+    {
+      "s": {
+        "en": "A lollapalooza is one bias acting alone very strongly.",
+        "el": "Η «λολαπαλούζα» είναι μία προκατάληψη που δρα μόνη της πολύ δυνατά."
+      },
+      "answer": false,
+      "why": {
+        "en": "It is several tendencies combining in one direction for an extreme result.",
+        "el": "Είναι πολλές τάσεις μαζί προς μία κατεύθυνση, με ακραίο αποτέλεσμα."
+      }
+    },
+    {
+      "s": {
+        "en": "Munger pushed Buffett toward great businesses at fair prices.",
+        "el": "Ο Μάνγκερ έσπρωξε τον Μπάφετ σε εξαιρετικές επιχειρήσεις σε λογικές τιμές."
+      },
+      "answer": true,
+      "why": {
+        "en": "See's Candies was the turning point away from cheap, poor businesses.",
+        "el": "Η See's Candies ήταν η στροφή μακριά από τις φθηνές, κακές επιχειρήσεις."
+      }
+    },
+    {
+      "s": {
+        "en": "Munger advised trading often to catch every small opportunity.",
+        "el": "Ο Μάνγκερ συμβούλευε συχνές συναλλαγές για να πιάνεις κάθε μικρή ευκαιρία."
+      },
+      "answer": false,
+      "why": {
+        "en": "He said the big money is in waiting and in a few big bets.",
+        "el": "Έλεγε ότι τα πολλά λεφτά είναι στην αναμονή και σε λίγα μεγάλα στοιχήματα."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "Latticework",
+        "el": "Πλέγμα μοντέλων"
+      },
+      "b": {
+        "en": "Big ideas from many fields, connected",
+        "el": "Μεγάλες ιδέες από πολλές επιστήμες, δεμένες μαζί"
+      }
+    },
+    {
+      "a": {
+        "en": "Inversion",
+        "el": "Αντιστροφή"
+      },
+      "b": {
+        "en": "Ask how to fail, then avoid it",
+        "el": "Ρώτα πώς θα αποτύχεις και απόφυγέ το"
+      }
+    },
+    {
+      "a": {
+        "en": "Circle of competence",
+        "el": "Κύκλος ικανότητας"
+      },
+      "b": {
+        "en": "The areas you truly understand",
+        "el": "Τα πεδία που καταλαβαίνεις πραγματικά"
+      }
+    },
+    {
+      "a": {
+        "en": "Lollapalooza",
+        "el": "Λολαπαλούζα"
+      },
+      "b": {
+        "en": "Several tendencies combining into an extreme result",
+        "el": "Πολλές τάσεις μαζί με ακραίο αποτέλεσμα"
+      }
+    },
+    {
+      "a": {
+        "en": "Moat",
+        "el": "Τάφρος"
+      },
+      "b": {
+        "en": "A durable advantage that protects a business",
+        "el": "Διαρκές πλεονέκτημα που προστατεύει μια επιχείρηση"
+      }
+    },
+    {
+      "a": {
+        "en": "Deprival super-reaction",
+        "el": "Αντίδραση στη στέρηση"
+      },
+      "b": {
+        "en": "Losing hurts far more than gaining pleases",
+        "el": "Η απώλεια πονά πολύ περισσότερο απ' όσο χαροποιεί το κέρδος"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Write the list «how to make Advon fail for sure» with ten items, then pick the two you are closest to and fix one.",
+      "el": "Γράψε τη λίστα «πώς να αποτύχει σίγουρα η Advon» με δέκα σημεία, διάλεξε τα δύο που σε απειλούν περισσότερο και διόρθωσε ένα."
+    },
+    {
+      "en": "Draw your circle of competence on paper: inside, on the edge, outside. Decide one thing you will stop offering.",
+      "el": "Ζωγράφισε σε χαρτί τον κύκλο ικανότητάς σου: μέσα, στο όριο, έξω. Αποφάσισε ένα πράγμα που θα σταματήσεις να προσφέρεις."
+    },
+    {
+      "en": "Review how you pay every helper or freelancer, and ask what behaviour each payment really rewards.",
+      "el": "Δες πώς πληρώνεις κάθε βοηθό ή freelancer και ρώτα ποια συμπεριφορά ανταμείβει στην πράξη κάθε πληρωμή."
+    },
+    {
+      "en": "Start a «Darwin note» and write down today one belief about your business that the numbers contradict.",
+      "el": "Ξεκίνα ένα «σημείωμα Δαρβίνου» και γράψε σήμερα μία πεποίθηση για τη δουλειά σου που τη διαψεύδουν οι αριθμοί."
+    },
+    {
+      "en": "Rewrite three standard client messages so each one says who, what, when and why.",
+      "el": "Ξαναγράψε τρία τυποποιημένα μηνύματα προς πελάτες ώστε το καθένα να λέει ποιος, τι, πότε και γιατί."
+    }
+  ],
+  "mantra": {
+    "en": "Invert, stay in my circle, watch the incentives, and do not be stupid.",
+    "el": "Αντίστρεψε, μείνε στον κύκλο σου, κοίτα τα κίνητρα και μην είσαι ανόητος."
+  },
+  "careful": {
+    "en": "Munger's list of misjudgment tendencies is his own practical synthesis, not tested science, and a few studies he relied on, like the Kitty Genovese «38 witnesses» story, were later shown to be exaggerated. His success also has survivorship bias: many investors who waited patiently for big bets did not win. The book is a fan-made collection, so it repeats itself and rarely shows his mistakes. Use it as a thinking toolbox, not as gospel.",
+    "el": "Η λίστα του Μάνγκερ με τις τάσεις λάθους κρίσης είναι δική του πρακτική σύνθεση, όχι ελεγμένη επιστήμη, και κάποιες μελέτες στις οποίες στηρίχτηκε, όπως η ιστορία της Κίτι Τζενοβέζε με τους «38 μάρτυρες», αποδείχτηκαν αργότερα υπερβολικές. Η επιτυχία του έχει και μεροληψία επιβίωσης: πολλοί επενδυτές που περίμεναν υπομονετικά τα μεγάλα στοιχήματα δεν κέρδισαν. Το βιβλίο είναι συλλογή φτιαγμένη από θαυμαστές, άρα επαναλαμβάνεται και σπάνια δείχνει τα λάθη του. Χρησιμοποίησέ το ως εργαλειοθήκη σκέψης, όχι ως ευαγγέλιο."
+  },
+  "connects": [
+    {
+      "book": "influence",
+      "note": {
+        "en": "Munger admired Cialdini's Influence so much that he gave him a share of Berkshire stock; many of his misjudgment tendencies come straight from it.",
+        "el": "Ο Μάνγκερ θαύμαζε τόσο την «Επιρροή» του Τσιαλντίνι, που του χάρισε μια μετοχή της Berkshire· πολλές από τις τάσεις λάθους κρίσης του προέρχονται ευθέως από εκεί."
+      }
+    },
+    {
+      "book": "thinking-fast-and-slow",
+      "note": {
+        "en": "Kahneman tests in the lab many of the biases Munger listed from life experience, such as loss aversion and overconfidence.",
+        "el": "Ο Κάνεμαν ελέγχει στο εργαστήριο πολλές από τις προκαταλήψεις που ο Μάνγκερ κατέγραψε από την εμπειρία, όπως την αποστροφή στην απώλεια και την υπερβολική αυτοπεποίθηση."
+      }
+    },
+    {
+      "book": "psychology-of-money",
+      "note": {
+        "en": "Housel builds on Munger's ideas: compounding, patience, avoiding ruin and knowing your own behaviour matter more than being clever.",
+        "el": "Ο Χάουζελ χτίζει πάνω στις ιδέες του Μάνγκερ: ο ανατοκισμός, η υπομονή, η αποφυγή της καταστροφής και η γνώση της συμπεριφοράς σου μετρούν περισσότερο από την εξυπνάδα."
+      }
+    }
+  ]
+}

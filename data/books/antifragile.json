@@ -1,0 +1,1167 @@
+{
+  "id": "antifragile",
+  "title": {
+    "en": "Antifragile: Things That Gain from Disorder",
+    "el": "Αντιεύθραυστος: Πράγματα που ωφελούνται από την αταξία"
+  },
+  "author": "Nassim Nicholas Taleb",
+  "authorEl": "Νασίμ Νίκολας Ταλέμπ",
+  "year": 2012,
+  "shelf": "wisdom",
+  "skills": {
+    "strategy": 3,
+    "wisdom": 3,
+    "mindset": 2
+  },
+  "oneLine": {
+    "en": "Stop trying to predict shocks; build a life and business that are not broken by them, and even grow stronger from them.",
+    "el": "Σταμάτα να προσπαθείς να προβλέψεις τα χτυπήματα· χτίσε μια ζωή και μια δουλειά που δεν σπάνε από αυτά, αλλά δυναμώνουν κιόλας."
+  },
+  "story": {
+    "en": "Nassim Nicholas Taleb, a Lebanese-born former options trader, became famous with The Black Swan in 2007, a book about rare, huge events that the 2008 crash seemed to confirm. Antifragile goes one step further: if we cannot predict shocks, how do we gain from them? Full of Greek myths, Seneca, traders and street wisdom, it gave the world a new word that people still use.",
+    "el": "Ο Νασίμ Νίκολας Ταλέμπ, πρώην trader παραγώγων με καταγωγή από τον Λίβανο, έγινε διάσημος με τον «Μαύρο Κύκνο» το 2007, ένα βιβλίο για τα σπάνια, τεράστια γεγονότα που το κραχ του 2008 έμοιαζε να επιβεβαιώνει. Ο «Αντιεύθραυστος» πάει ένα βήμα παραπέρα: αφού δεν μπορούμε να προβλέψουμε τα χτυπήματα, πώς κερδίζουμε από αυτά; Γεμάτο ελληνικούς μύθους, Σενέκα, traders και σοφία του δρόμου, χάρισε στον κόσμο μια νέα λέξη που χρησιμοποιείται ακόμη."
+  },
+  "forYou": {
+    "en": "Your agency lives in a world of shocks: Meta changes its ad rules, AI tools change every month, clients leave, competitors appear. You cannot predict them. This book shows you how to set things up so surprises cost you little and can even help you: many small clients, cash reserves, cheap experiments, no big debts, and honest risk sharing with clients.",
+    "el": "Η εταιρεία σου ζει σε έναν κόσμο από χτυπήματα: η Meta αλλάζει κανόνες διαφήμισης, τα εργαλεία AI αλλάζουν κάθε μήνα, πελάτες φεύγουν, ανταγωνιστές εμφανίζονται. Δεν μπορείς να τα προβλέψεις. Το βιβλίο σού δείχνει πώς να στήσεις τα πράγματα ώστε οι εκπλήξεις να σου κοστίζουν λίγο και να σε βοηθούν κιόλας: πολλοί μικροί πελάτες, αποθεματικό, φτηνά πειράματα, χωρίς μεγάλα χρέη, και τίμιο μοίρασμα του ρίσκου με τους πελάτες."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "Fragile, robust, antifragile",
+        "el": "Εύθραυστο, ανθεκτικό, αντιεύθραυστο"
+      },
+      "explain": {
+        "en": "Some things break under shocks, like a glass or a company with huge debt: they are fragile. Some things resist shocks and stay the same, like a rock: they are robust. Taleb invented a word for things that get better from shocks, disorder and stress: antifragile. Robust only survives; antifragile improves. The goal is a life and business that gain from the unexpected.",
+        "el": "Κάποια πράγματα σπάνε με τα χτυπήματα, όπως ένα ποτήρι ή μια εταιρεία με τεράστια χρέη: είναι εύθραυστα. Κάποια αντέχουν και μένουν ίδια, όπως ένας βράχος: είναι ανθεκτικά. Ο Ταλέμπ έφτιαξε μια λέξη για όσα γίνονται καλύτερα με τα χτυπήματα, την αταξία και την πίεση: αντιεύθραυστα. Το ανθεκτικό απλώς επιβιώνει· το αντιεύθραυστο βελτιώνεται. Ο στόχος είναι μια ζωή και μια δουλειά που κερδίζουν από το απρόοπτο."
+      },
+      "example": {
+        "en": "Taleb uses Greek myths. The sword of Damocles, hanging by a single hair, is fragile: one shock and it falls. The Phoenix, reborn from its ashes the same as before, is robust. The Hydra, which grows two heads for every one cut off, is antifragile: each attack makes it stronger.",
+        "el": "Ο Ταλέμπ χρησιμοποιεί ελληνικούς μύθους. Η σπάθη του Δαμοκλή, κρεμασμένη από μια τρίχα, είναι εύθραυστη: ένα χτύπημα και πέφτει. Ο Φοίνικας, που ξαναγεννιέται από τις στάχτες του ίδιος όπως πριν, είναι ανθεκτικός. Η Λερναία Ύδρα, που βγάζει δύο κεφάλια για κάθε ένα που κόβεται, είναι αντιεύθραυστη: κάθε επίθεση τη δυναμώνει."
+      },
+      "apply": {
+        "en": "Draw three columns: fragile, robust, antifragile. Place parts of your agency in them: one single ad account is fragile; 200 small clients paying yearly is robust; a cold-call script you improve after every «no» is antifragile. This month, move one item one column to the right.",
+        "el": "Φτιάξε τρεις στήλες: εύθραυστο, ανθεκτικό, αντιεύθραυστο. Βάλε μέσα κομμάτια της εταιρείας σου: ένας μόνο διαφημιστικός λογαριασμός είναι εύθραυστος· 200 μικροί πελάτες που πληρώνουν κάθε χρόνο είναι ανθεκτικό· ένα σενάριο για cold calls που το βελτιώνεις μετά από κάθε «όχι» είναι αντιεύθραυστο. Αυτόν τον μήνα, μετακίνησε ένα στοιχείο μία στήλη δεξιά."
+      },
+      "check": {
+        "q": {
+          "en": "What is the difference between robust and antifragile?",
+          "el": "Ποια είναι η διαφορά ανάμεσα στο ανθεκτικό και στο αντιεύθραυστο;"
+        },
+        "options": [
+          {
+            "en": "None; they are two words for the same thing",
+            "el": "Καμία· είναι δύο λέξεις για το ίδιο πράγμα"
+          },
+          {
+            "en": "Robust survives shocks; antifragile gets better from them",
+            "el": "Το ανθεκτικό αντέχει τα χτυπήματα· το αντιεύθραυστο βελτιώνεται από αυτά"
+          },
+          {
+            "en": "Antifragile means never facing any shock",
+            "el": "Αντιεύθραυστο σημαίνει να μην αντιμετωπίζεις ποτέ χτυπήματα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "The Phoenix stays the same; the Hydra comes back stronger.",
+          "el": "Ο Φοίνικας μένει ίδιος· η Ύδρα γυρίζει πιο δυνατή."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Stress, then recovery",
+        "el": "Πίεση και μετά ξεκούραση"
+      },
+      "explain": {
+        "en": "Living things need stress to grow. Lift weights and your muscles get stronger; walk and your bones get denser. A small dose of something harmful can trigger a strong, healthy response, an effect called hormesis. But Taleb is careful: the stress must be short and followed by recovery. Constant low stress with no rest, like a bad commute every day, wears you down instead.",
+        "el": "Οι ζωντανοί οργανισμοί χρειάζονται πίεση για να μεγαλώσουν. Σήκωσε βάρη και οι μύες σου δυναμώνουν· περπάτα και τα κόκαλά σου γίνονται πιο πυκνά. Μια μικρή δόση από κάτι βλαβερό μπορεί να προκαλέσει μια δυνατή, υγιή αντίδραση, φαινόμενο που λέγεται ορμησία (hormesis). Ο Ταλέμπ όμως είναι προσεκτικός: η πίεση πρέπει να είναι σύντομη και να ακολουθείται από ξεκούραση. Η συνεχής, χαμηλή πίεση χωρίς ανάσα, όπως μια κουραστική καθημερινή διαδρομή, σε φθείρει αντί να σε δυναμώνει."
+      },
+      "example": {
+        "en": "Legend says King Mithridates of Pontus took small doses of poison so his body would learn to resist it. Taleb also notes that bones need load: astronauts in zero gravity lose bone mass because nothing stresses their skeleton, and they must exercise hard in space to slow it.",
+        "el": "Ο θρύλος λέει ότι ο βασιλιάς Μιθριδάτης του Πόντου έπαιρνε μικρές δόσεις δηλητηρίου για να μάθει ο οργανισμός του να το αντέχει. Ο Ταλέμπ σημειώνει επίσης ότι τα κόκαλα χρειάζονται φορτίο: οι αστροναύτες στην έλλειψη βαρύτητας χάνουν οστική μάζα, γιατί τίποτα δεν πιέζει τον σκελετό τους, και πρέπει να γυμνάζονται σκληρά στο διάστημα για να το επιβραδύνουν."
+      },
+      "apply": {
+        "en": "Plan short, hard sprints with real rest: two hours of cold calls with full focus, then a break away from the phone, instead of half-calling all day. Give a helper a challenging task, a first site alone, then review it together. And protect your evenings: no client chat after 9 pm.",
+        "el": "Οργάνωσε σύντομα, έντονα σπριντ με πραγματική ξεκούραση: δύο ώρες cold calls με απόλυτη συγκέντρωση και μετά διάλειμμα μακριά από το τηλέφωνο, αντί για μισά τηλεφωνήματα όλη μέρα. Δώσε σε έναν συνεργάτη μια απαιτητική εργασία, ένα πρώτο site μόνος του, και μετά ελέγξτε το μαζί. Και προστάτεψε τα βράδια σου: όχι chat με πελάτες μετά τις 9."
+      },
+      "check": {
+        "q": {
+          "en": "What kind of stress makes you stronger, according to Taleb?",
+          "el": "Τι είδους πίεση σε δυναμώνει, κατά τον Ταλέμπ;"
+        },
+        "options": [
+          {
+            "en": "Short, sharp stress followed by recovery",
+            "el": "Σύντομη, έντονη πίεση που ακολουθείται από ξεκούραση"
+          },
+          {
+            "en": "Constant low stress with no breaks",
+            "el": "Συνεχής χαμηλή πίεση χωρίς διαλείμματα"
+          },
+          {
+            "en": "No stress at all, ever",
+            "el": "Καθόλου πίεση, ποτέ"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The body and mind grow from acute stress plus rest, and wear out from chronic stress.",
+          "el": "Το σώμα και το μυαλό μεγαλώνουν με την έντονη πίεση συν την ξεκούραση, και φθείρονται με τη χρόνια πίεση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Hidden volatility grows",
+        "el": "Η κρυμμένη αστάθεια μεγαλώνει"
+      },
+      "explain": {
+        "en": "When you remove all small ups and downs, you do not remove risk; you hide it and let it grow. Small, frequent shocks clear out weakness and teach a system how to adapt. Remove them, and problems pile up quietly until one huge shock breaks everything. Taleb warns that perfect calm on the surface can be the most dangerous state of all.",
+        "el": "Όταν εξαφανίζεις όλα τα μικρά σκαμπανεβάσματα, δεν εξαφανίζεις το ρίσκο· το κρύβεις και το αφήνεις να μεγαλώσει. Τα μικρά, συχνά χτυπήματα καθαρίζουν τις αδυναμίες και μαθαίνουν σε ένα σύστημα να προσαρμόζεται. Αν τα βγάλεις, τα προβλήματα μαζεύονται αθόρυβα ώσπου ένα τεράστιο χτύπημα να τα σπάσει όλα. Ο Ταλέμπ προειδοποιεί ότι η τέλεια ηρεμία στην επιφάνεια μπορεί να είναι η πιο επικίνδυνη κατάσταση."
+      },
+      "example": {
+        "en": "For decades foresters put out every small forest fire. Dry wood and brush piled up, so when a fire did start it became huge and uncontrollable. Today many parks let small fires burn, or start controlled ones on purpose, to prevent the giant ones.",
+        "el": "Για δεκαετίες οι δασολόγοι έσβηναν κάθε μικρή φωτιά στα δάση. Τα ξερά ξύλα και τα χαμόκλαδα μαζεύονταν, οπότε όταν τελικά ξεσπούσε φωτιά γινόταν τεράστια κι ανεξέλεγκτη. Σήμερα πολλά πάρκα αφήνουν τις μικρές φωτιές να καούν ή ανάβουν επίτηδες ελεγχόμενες, για να προλάβουν τις γιγάντιες."
+      },
+      "apply": {
+        "en": "Do not avoid small tests and small conflicts. Ask clients for honest feedback after every launch, even when it stings. Try a small change in your offer with a few clients instead of never changing anything. Small shocks now prevent one big shock that could cost you many clients at once.",
+        "el": "Μην αποφεύγεις τις μικρές δοκιμές και τις μικρές συγκρούσεις. Ζήτα ειλικρινές feedback από τους πελάτες μετά από κάθε παράδοση, ακόμη κι όταν τσούζει. Δοκίμασε μια μικρή αλλαγή στην πρότασή σου με λίγους πελάτες αντί να μην αλλάζεις ποτέ τίποτα. Τα μικρά χτυπήματα τώρα προλαβαίνουν ένα μεγάλο που μπορεί να σου κοστίσει πολλούς πελάτες μαζί."
+      },
+      "check": {
+        "q": {
+          "en": "Why can suppressing every small shock be dangerous?",
+          "el": "Γιατί μπορεί να είναι επικίνδυνο να καταπνίγεις κάθε μικρό χτύπημα;"
+        },
+        "options": [
+          {
+            "en": "Small shocks are always worse than big ones",
+            "el": "Τα μικρά χτυπήματα είναι πάντα χειρότερα από τα μεγάλα"
+          },
+          {
+            "en": "It makes the system far too strong",
+            "el": "Κάνει το σύστημα υπερβολικά δυνατό"
+          },
+          {
+            "en": "Hidden problems pile up until one big shock breaks it",
+            "el": "Τα κρυμμένα προβλήματα μαζεύονται ώσπου ένα μεγάλο χτύπημα να το σπάσει"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Like dry wood in a forest, unreleased risk builds up.",
+          "el": "Όπως τα ξερά ξύλα στο δάσος, το ρίσκο που δεν εκτονώνεται συσσωρεύεται."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The banker and the taxi driver",
+        "el": "Ο τραπεζικός και ο ταξιτζής"
+      },
+      "explain": {
+        "en": "Taleb compares two brothers. John works at a big bank with a steady monthly salary and looks safe. George is a London taxi driver whose income goes up and down every day and looks risky. But when the bank lets John go in a crisis, his income drops to zero. George's small daily swings keep him adapting, and no single event takes everything. Visible small swings can be safer than hidden big ones.",
+        "el": "Ο Ταλέμπ συγκρίνει δύο αδέρφια. Ο Τζον δουλεύει σε μια μεγάλη τράπεζα με σταθερό μηνιαίο μισθό και μοιάζει ασφαλής. Ο Τζορτζ είναι ταξιτζής στο Λονδίνο, με εισόδημα που ανεβοκατεβαίνει κάθε μέρα, και μοιάζει ριψοκίνδυνος. Όταν όμως η τράπεζα απολύσει τον Τζον σε μια κρίση, το εισόδημά του πέφτει στο μηδέν. Τα μικρά καθημερινά σκαμπανεβάσματα κρατούν τον Τζορτζ σε προσαρμογή, και κανένα γεγονός μόνο του δεν του τα παίρνει όλα. Τα ορατά μικρά σκαμπανεβάσματα μπορεί να είναι πιο ασφαλή από τα κρυμμένα μεγάλα."
+      },
+      "example": {
+        "en": "In 2008 thousands of employees with steady salaries lost their jobs almost overnight when Lehman Brothers collapsed, and many other banks cut staff in the following months. Plumbers, taxi drivers and small traders had bad months, but most of them kept working.",
+        "el": "Το 2008 χιλιάδες υπάλληλοι με σταθερό μισθό έχασαν τη δουλειά τους σχεδόν από τη μια μέρα στην άλλη όταν κατέρρευσε η Lehman Brothers, και πολλές άλλες τράπεζες έκοψαν προσωπικό τους επόμενους μήνες. Υδραυλικοί, ταξιτζήδες και μικροέμποροι είχαν κακούς μήνες, αλλά οι περισσότεροι συνέχισαν να δουλεύουν."
+      },
+      "apply": {
+        "en": "Keep your income spread over many small sources: hundreds of hosting renewals, new builds, small add-ons. Do not trade that for one big contract that could vanish in a day. If someone offers you a «safe» job that means dropping your client base, remember John the banker.",
+        "el": "Κράτα το εισόδημά σου μοιρασμένο σε πολλές μικρές πηγές: εκατοντάδες ανανεώσεις φιλοξενίας, νέες κατασκευές, μικρές πρόσθετες υπηρεσίες. Μην τα ανταλλάξεις με ένα μεγάλο συμβόλαιο που μπορεί να χαθεί σε μια μέρα. Αν σου προτείνουν μια «σίγουρη» δουλειά που σημαίνει να αφήσεις τους πελάτες σου, θυμήσου τον Τζον τον τραπεζικό."
+      },
+      "check": {
+        "q": {
+          "en": "Why is George's income less fragile than John's?",
+          "el": "Γιατί το εισόδημα του Τζορτζ είναι λιγότερο εύθραυστο από του Τζον;"
+        },
+        "options": [
+          {
+            "en": "George earns more money in total",
+            "el": "Ο Τζορτζ βγάζει συνολικά περισσότερα χρήματα"
+          },
+          {
+            "en": "Taxis are always a safer industry than banking",
+            "el": "Τα ταξί είναι πάντα πιο ασφαλής κλάδος από τις τράπεζες"
+          },
+          {
+            "en": "Small daily swings keep him adapting and no single event wipes him out",
+            "el": "Τα μικρά καθημερινά σκαμπανεβάσματα τον κρατούν σε προσαρμογή και κανένα γεγονός δεν τον αφανίζει"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Many small sources of income cannot all disappear at once.",
+          "el": "Πολλές μικρές πηγές εισοδήματος δεν μπορούν να χαθούν όλες μαζί."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Systems learn from failures",
+        "el": "Τα συστήματα μαθαίνουν από τις αποτυχίες"
+      },
+      "explain": {
+        "en": "Some systems get stronger because their parts fail. Every restaurant that closes teaches the restaurant world something, so the whole sector improves. The single part may be fragile while the system is antifragile, as long as failures stay small, separate and are studied. The real danger is a system where one failure brings down everything at once.",
+        "el": "Κάποια συστήματα δυναμώνουν επειδή τα κομμάτια τους αποτυγχάνουν. Κάθε εστιατόριο που κλείνει μαθαίνει κάτι στον κόσμο της εστίασης, κι έτσι ο κλάδος βελτιώνεται. Το μεμονωμένο κομμάτι μπορεί να είναι εύθραυστο ενώ το σύστημα είναι αντιεύθραυστο, αρκεί οι αποτυχίες να μένουν μικρές, χωριστές και να μελετιούνται. Ο πραγματικός κίνδυνος είναι ένα σύστημα όπου μία αποτυχία ρίχνει τα πάντα μαζί."
+      },
+      "example": {
+        "en": "Every serious air accident is investigated in detail, and the lessons are shared across the whole industry. That is a big reason commercial flying became one of the safest ways to travel, even though each single crash is a tragedy.",
+        "el": "Κάθε σοβαρό αεροπορικό δυστύχημα ερευνάται λεπτομερώς και τα συμπεράσματα μοιράζονται σε όλο τον κλάδο. Αυτός είναι ένας βασικός λόγος που οι εμπορικές πτήσεις έγιναν από τους πιο ασφαλείς τρόπους μετακίνησης, παρότι κάθε δυστύχημα χωριστά είναι τραγωδία."
+      },
+      "apply": {
+        "en": "Turn every lost client or failed ad into a lesson for the whole agency: a short shared note with what happened and what you changed. Run many small experiments, one niche, one reel style, one script, so each failure is cheap and teaches you something.",
+        "el": "Κάνε κάθε πελάτη που χάνεις ή κάθε διαφήμιση που αποτυγχάνει μάθημα για όλη την εταιρεία: ένα σύντομο κοινό σημείωμα με το τι έγινε και τι άλλαξες. Τρέχε πολλά μικρά πειράματα, μία κατηγορία πελατών, ένα στυλ reel, ένα σενάριο, ώστε κάθε αποτυχία να είναι φτηνή και να σε διδάσκει κάτι."
+      },
+      "check": {
+        "q": {
+          "en": "What makes air travel antifragile as a system?",
+          "el": "Τι κάνει τις αερομεταφορές αντιεύθραυστες ως σύστημα;"
+        },
+        "options": [
+          {
+            "en": "Planes never fail",
+            "el": "Τα αεροπλάνα δεν παθαίνουν ποτέ βλάβη"
+          },
+          {
+            "en": "Each failure is studied and the lessons are shared",
+            "el": "Κάθε αποτυχία μελετιέται και τα μαθήματα μοιράζονται"
+          },
+          {
+            "en": "Airlines keep accidents secret",
+            "el": "Οι αεροπορικές κρατούν μυστικά τα δυστυχήματα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Small, studied failures make the whole system better.",
+          "el": "Οι μικρές αποτυχίες που μελετιούνται κάνουν όλο το σύστημα καλύτερο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The turkey problem",
+        "el": "Το πρόβλημα της γαλοπούλας"
+      },
+      "explain": {
+        "en": "A turkey is fed every day for 1,000 days. Each day it grows more certain that humans love it. On day 1,001, just before Thanksgiving, it is killed. Its confidence was highest exactly when the danger was greatest. Taleb's lesson: a long, calm record does not prove safety. What matters is what could happen, not only what has happened so far.",
+        "el": "Μια γαλοπούλα ταΐζεται κάθε μέρα για 1.000 μέρες. Κάθε μέρα γίνεται όλο και πιο σίγουρη ότι οι άνθρωποι την αγαπούν. Την 1.001η μέρα, λίγο πριν από την Ημέρα των Ευχαριστιών, τη σφάζουν. Η σιγουριά της ήταν στο μέγιστο ακριβώς όταν ο κίνδυνος ήταν στο μέγιστο. Το μάθημα του Ταλέμπ: ένα μακρύ, ήρεμο ιστορικό δεν αποδεικνύει ασφάλεια. Μετράει τι μπορεί να συμβεί, όχι μόνο τι έχει συμβεί ως τώρα."
+      },
+      "example": {
+        "en": "Before 2008 many banks and rating agencies treated US mortgage securities as very safe, because they had performed well for years. The past record looked perfect, until house prices fell across the country and the products collapsed, taking Lehman Brothers with them.",
+        "el": "Πριν από το 2008 πολλές τράπεζες και οίκοι αξιολόγησης θεωρούσαν πολύ ασφαλή τα αμερικανικά στεγαστικά ομόλογα, γιατί είχαν πάει καλά για χρόνια. Το ιστορικό έμοιαζε τέλειο, ώσπου οι τιμές των σπιτιών έπεσαν σε όλη τη χώρα και τα προϊόντα κατέρρευσαν, παίρνοντας μαζί τους και τη Lehman Brothers."
+      },
+      "apply": {
+        "en": "Ask «what could break us?» instead of «what has happened so far?» For example: if Meta blocked your ad account tomorrow, or your hosting costs doubled, what would you do? Write a plan B for the two biggest risks this week.",
+        "el": "Ρώτα «τι θα μπορούσε να μας σπάσει;» αντί για «τι έχει συμβεί ως τώρα;» Για παράδειγμα: αν η Meta μπλόκαρε αύριο τον διαφημιστικό σου λογαριασμό ή αν διπλασιαζόταν το κόστος φιλοξενίας, τι θα έκανες; Γράψε αυτή την εβδομάδα ένα σχέδιο Β για τους δύο μεγαλύτερους κινδύνους."
+      },
+      "check": {
+        "q": {
+          "en": "What does the turkey teach?",
+          "el": "Τι διδάσκει η γαλοπούλα;"
+        },
+        "options": [
+          {
+            "en": "A long, calm history does not prove you are safe",
+            "el": "Ένα μακρύ, ήρεμο ιστορικό δεν αποδεικνύει ότι είσαι ασφαλής"
+          },
+          {
+            "en": "Feeding animals well always protects them",
+            "el": "Όταν ταΐζεις καλά τα ζώα, τα προστατεύεις πάντα"
+          },
+          {
+            "en": "Confidence always grows with real safety",
+            "el": "Η σιγουριά μεγαλώνει πάντα μαζί με την πραγματική ασφάλεια"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The past can look perfect right up to the moment it breaks.",
+          "el": "Το παρελθόν μπορεί να μοιάζει τέλειο ως τη στιγμή που σπάει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Iatrogenics: harm from helping",
+        "el": "Ιατρογένεση: η βλάβη από τη βοήθεια"
+      },
+      "explain": {
+        "en": "Iatrogenics, from the Greek iatros, healer, means harm caused by the healer. Taleb says we often intervene too much, in medicine, economics and management, and every action has hidden side effects. When a problem is small, intervening can do more harm than good. Act strongly when the benefit is large and clear; otherwise wait and let natural recovery work.",
+        "el": "Η ιατρογένεση, από το «ιατρός», σημαίνει τη βλάβη που προκαλεί αυτός που θεραπεύει. Ο Ταλέμπ λέει ότι συχνά παρεμβαίνουμε υπερβολικά, στην ιατρική, στην οικονομία, στη διοίκηση, και κάθε πράξη έχει κρυφές παρενέργειες. Όταν το πρόβλημα είναι μικρό, η παρέμβαση μπορεί να κάνει περισσότερο κακό παρά καλό. Δράσε δυναμικά όταν το όφελος είναι μεγάλο και ξεκάθαρο· αλλιώς περίμενε και άφησε τη φυσική αποκατάσταση να δουλέψει."
+      },
+      "example": {
+        "en": "In the 1840s the doctor Ignaz Semmelweis noticed that in a Vienna hospital mothers died of fever far more often in the ward where doctors, coming straight from autopsies, delivered babies than in the midwives' ward. The doctors themselves were spreading the disease. Handwashing cut deaths sharply.",
+        "el": "Τη δεκαετία του 1840 ο γιατρός Ίγκνατς Ζέμελβαϊς παρατήρησε ότι σε ένα νοσοκομείο της Βιέννης οι λεχώνες πέθαιναν από πυρετό πολύ συχνότερα στην πτέρυγα όπου ξεγεννούσαν γιατροί που έρχονταν κατευθείαν από νεκροψίες, παρά στην πτέρυγα των μαιών. Οι ίδιοι οι γιατροί μετέδιδαν την ασθένεια. Το πλύσιμο των χεριών μείωσε δραστικά τους θανάτους."
+      },
+      "apply": {
+        "en": "Do not over-fix. If a client's site works and they are happy, do not redesign it just because you can; every change risks new bugs. Before changing a working process in your agency, ask: what exactly is the problem, and what could my fix break?",
+        "el": "Μη διορθώνεις υπερβολικά. Αν το site ενός πελάτη δουλεύει κι εκείνος είναι ευχαριστημένος, μην το ξανασχεδιάζεις μόνο επειδή μπορείς· κάθε αλλαγή φέρνει κίνδυνο για νέα λάθη. Πριν αλλάξεις μια διαδικασία που δουλεύει στην εταιρεία σου, ρώτα: ποιο ακριβώς είναι το πρόβλημα και τι μπορεί να χαλάσει η διόρθωσή μου;"
+      },
+      "check": {
+        "q": {
+          "en": "What is iatrogenics?",
+          "el": "Τι είναι η ιατρογένεση;"
+        },
+        "options": [
+          {
+            "en": "Harm caused by the one trying to help",
+            "el": "Βλάβη που προκαλεί αυτός που προσπαθεί να βοηθήσει"
+          },
+          {
+            "en": "An ancient Greek type of medicine",
+            "el": "Ένα είδος αρχαίας ελληνικής ιατρικής"
+          },
+          {
+            "en": "Healing by always doing nothing",
+            "el": "Θεραπεία με το να μην κάνεις ποτέ τίποτα"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Interventions have side effects; for small problems they can do more harm than good.",
+          "el": "Οι παρεμβάσεις έχουν παρενέργειες· στα μικρά προβλήματα μπορεί να κάνουν περισσότερο κακό παρά καλό."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Optionality: the Thales trick",
+        "el": "Οι επιλογές: το κόλπο του Θαλή"
+      },
+      "explain": {
+        "en": "An option is the right, but not the obligation, to do something. If things go well, you use it; if not, you walk away and lose only a little. Taleb says options let you benefit from uncertainty without predicting it. You do not need to be clever if you hold options; you only need to recognise the good outcome when it appears and take it.",
+        "el": "Επιλογή (option) είναι το δικαίωμα, όχι η υποχρέωση, να κάνεις κάτι. Αν τα πράγματα πάνε καλά, το χρησιμοποιείς· αν όχι, φεύγεις και χάνεις λίγα. Ο Ταλέμπ λέει ότι οι επιλογές σε αφήνουν να κερδίζεις από την αβεβαιότητα χωρίς να την προβλέπεις. Δεν χρειάζεται να είσαι πανέξυπνος αν έχεις επιλογές· αρκεί να αναγνωρίσεις το καλό αποτέλεσμα όταν εμφανιστεί και να το πάρεις."
+      },
+      "example": {
+        "en": "Aristotle tells of Thales of Miletus, mocked because philosophy made no money. One winter Thales paid small deposits for the right to use all the olive presses around Miletus and Chios. When a big harvest came, everyone needed presses, and he rented them out at his own price.",
+        "el": "Ο Αριστοτέλης διηγείται ότι τον Θαλή τον Μιλήσιο τον κορόιδευαν γιατί η φιλοσοφία δεν έβγαζε λεφτά. Έναν χειμώνα ο Θαλής έδωσε μικρές προκαταβολές για το δικαίωμα να χρησιμοποιήσει όλα τα ελαιοτριβεία γύρω από τη Μίλητο και τη Χίο. Όταν ήρθε μεγάλη σοδειά, όλοι χρειάζονταν ελαιοτριβεία, κι εκείνος τα νοίκιασε στην τιμή που ήθελε."
+      },
+      "apply": {
+        "en": "Collect cheap options: keep in touch with past prospects who said «not now», buy the domain for a side-project idea for a few euros, test a new niche with one small ad. Each costs little; if one takes off, you are already in position.",
+        "el": "Μάζευε φτηνές επιλογές: κράτα επαφή με παλιούς υποψήφιους πελάτες που είπαν «όχι τώρα», αγόρασε με λίγα ευρώ το domain για μια ιδέα side project, δοκίμασε μια νέα κατηγορία πελατών με μία μικρή διαφήμιση. Το καθένα κοστίζει λίγο· αν κάποιο απογειωθεί, είσαι ήδη στη θέση σου."
+      },
+      "check": {
+        "q": {
+          "en": "Why was Thales's deal an option?",
+          "el": "Γιατί η συμφωνία του Θαλή ήταν επιλογή (option);"
+        },
+        "options": [
+          {
+            "en": "He had to use every press whatever happened",
+            "el": "Ήταν υποχρεωμένος να χρησιμοποιήσει κάθε ελαιοτριβείο ό,τι κι αν γινόταν"
+          },
+          {
+            "en": "He predicted the size of the harvest exactly",
+            "el": "Είχε προβλέψει με ακρίβεια το μέγεθος της σοδειάς"
+          },
+          {
+            "en": "He paid a little for the right, with big upside if the harvest was good",
+            "el": "Πλήρωσε λίγα για το δικαίωμα, με μεγάλο κέρδος αν η σοδειά ήταν καλή"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Small, known cost; large possible gain: that is the shape of an option.",
+          "el": "Μικρό, γνωστό κόστος· μεγάλο πιθανό κέρδος: αυτό είναι το σχήμα μιας επιλογής."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Tinkering beats grand plans",
+        "el": "Ο πειραματισμός νικά τα μεγάλα σχέδια"
+      },
+      "explain": {
+        "en": "We like to believe that theory produces inventions and practice follows. Taleb says it is often the reverse: tinkerers try things, keep what works, and theory explains it later. He calls the opposite belief «lecturing birds how to fly». Trial and error with small, cheap mistakes usually beats big plans drawn up in an office.",
+        "el": "Μας αρέσει να πιστεύουμε ότι η θεωρία γεννά τις εφευρέσεις κι η πράξη ακολουθεί. Ο Ταλέμπ λέει ότι συχνά συμβαίνει το αντίθετο: όσοι πειραματίζονται δοκιμάζουν πράγματα, κρατούν ό,τι δουλεύει, κι η θεωρία το εξηγεί αργότερα. Την αντίθετη πεποίθηση την ονομάζει «να κάνεις μάθημα στα πουλιά πώς να πετούν». Η δοκιμή και το λάθος, με μικρά, φτηνά λάθη, συνήθως νικά τα μεγάλα σχέδια που φτιάχνονται σε ένα γραφείο."
+      },
+      "example": {
+        "en": "Wheeled suitcases only became common after Bernard Sadow put wheels on a suitcase in 1970, long after both wheels and luggage existed, and a year after humans walked on the Moon. The obvious idea needed no theory; it needed someone to try it.",
+        "el": "Οι βαλίτσες με ρόδες έγιναν συνηθισμένες μόνο αφού ο Μπέρναρντ Σάντοου έβαλε ρόδες σε μια βαλίτσα το 1970, πολύ αφότου υπήρχαν και οι ρόδες και οι βαλίτσες, και έναν χρόνο αφότου ο άνθρωπος πάτησε στη Σελήνη. Η προφανής ιδέα δεν χρειαζόταν θεωρία· χρειαζόταν κάποιον να τη δοκιμάσει."
+      },
+      "apply": {
+        "en": "Instead of planning a perfect new service for months, tinker: offer a small add-on, such as setting up a Google Business Profile, to five clients this month, ask what they think, and keep what works. Let real results, not theory, decide your next step.",
+        "el": "Αντί να σχεδιάζεις για μήνες μια τέλεια νέα υπηρεσία, πειραματίσου: πρότεινε μια μικρή πρόσθετη υπηρεσία, όπως το στήσιμο του Google Business Profile, σε πέντε πελάτες αυτόν τον μήνα, ρώτα τη γνώμη τους και κράτα ό,τι δουλεύει. Άσε τα πραγματικά αποτελέσματα, όχι τη θεωρία, να αποφασίσουν το επόμενο βήμα σου."
+      },
+      "check": {
+        "q": {
+          "en": "What does «lecturing birds how to fly» mean?",
+          "el": "Τι σημαίνει «κάνεις μάθημα στα πουλιά πώς να πετούν»;"
+        },
+        "options": [
+          {
+            "en": "Teaching practical skills is pointless",
+            "el": "Το να διδάσκεις πρακτικές δεξιότητες είναι άσκοπο"
+          },
+          {
+            "en": "Believing theory created what trial and error really found",
+            "el": "Να πιστεύεις ότι η θεωρία δημιούργησε ό,τι στην πραγματικότητα βρήκε η δοκιμή και το λάθος"
+          },
+          {
+            "en": "Birds are a good model for business",
+            "el": "Τα πουλιά είναι καλό πρότυπο για τις επιχειρήσεις"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Practice often comes first; theory takes the credit afterwards.",
+          "el": "Η πράξη συχνά έρχεται πρώτη· η θεωρία παίρνει τα εύσημα μετά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The green lumber fallacy",
+        "el": "Η πλάνη της «πράσινης ξυλείας»"
+      },
+      "explain": {
+        "en": "Taleb calls it the green lumber fallacy: mistaking the knowledge that sounds important for the knowledge that actually makes things work. Many successful people cannot explain the theory of their field, but they know exactly what matters in practice. Experts with degrees often know a lot about the wrong things. Respect hands-on know-how, and test what you learn in real life.",
+        "el": "Ο Ταλέμπ το λέει πλάνη της «πράσινης ξυλείας»: να μπερδεύεις τη γνώση που ακούγεται σημαντική με τη γνώση που πραγματικά κάνει τα πράγματα να δουλεύουν. Πολλοί πετυχημένοι δεν μπορούν να εξηγήσουν τη θεωρία του χώρου τους, αλλά ξέρουν ακριβώς τι μετράει στην πράξη. Οι ειδικοί με πτυχία συχνά ξέρουν πολλά για τα λάθος πράγματα. Σεβάσου την πρακτική τεχνογνωσία και δοκίμαζε ό,τι μαθαίνεις στην πραγματική ζωή."
+      },
+      "example": {
+        "en": "Taleb tells of Joe Siegel, one of the most successful traders of «green lumber», who believed it was wood painted green. It actually means freshly cut, still wet wood. His success came from understanding how orders and prices moved, not from knowing the product.",
+        "el": "Ο Ταλέμπ διηγείται τον Τζο Σίγκελ, έναν από τους πιο πετυχημένους εμπόρους «πράσινης ξυλείας», που πίστευε ότι ήταν ξύλο βαμμένο πράσινο. Στην πραγματικότητα σημαίνει φρεσκοκομμένο, ακόμη υγρό ξύλο. Η επιτυχία του ήρθε από το ότι καταλάβαινε πώς κινούνταν οι παραγγελίες και οι τιμές, όχι από το ότι ήξερε το προϊόν."
+      },
+      "apply": {
+        "en": "Learn from people who do the work, not only from those who explain it: a dentist can tell you more about what patients want than a marketing course. Before you buy a course or tool, ask: will this help me close more calls or deliver better sites?",
+        "el": "Μάθαινε από όσους κάνουν τη δουλειά, όχι μόνο από όσους την εξηγούν: ένας οδοντίατρος μπορεί να σου πει περισσότερα για το τι θέλουν οι ασθενείς από ένα σεμινάριο μάρκετινγκ. Πριν αγοράσεις ένα σεμινάριο ή ένα εργαλείο, ρώτα: θα με βοηθήσει να κλείνω περισσότερα τηλεφωνήματα ή να παραδίδω καλύτερα site;"
+      },
+      "check": {
+        "q": {
+          "en": "What is the green lumber fallacy?",
+          "el": "Τι είναι η πλάνη της «πράσινης ξυλείας»;"
+        },
+        "options": [
+          {
+            "en": "Believing only experts with degrees can succeed",
+            "el": "Να πιστεύεις ότι μόνο οι ειδικοί με πτυχία πετυχαίνουν"
+          },
+          {
+            "en": "Confusing knowledge that sounds important with what actually makes things work",
+            "el": "Να μπερδεύεις τη γνώση που ακούγεται σημαντική με αυτή που πραγματικά δουλεύει"
+          },
+          {
+            "en": "Selling wood that is painted green",
+            "el": "Να πουλάς ξύλο βαμμένο πράσινο"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Siegel succeeded with practical knowledge while missing the textbook fact.",
+          "el": "Ο Σίγκελ πέτυχε με πρακτική γνώση, ενώ του διέφευγε η «σχολική» πληροφορία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The barbell",
+        "el": "Η στρατηγική της μπάρας"
+      },
+      "explain": {
+        "en": "The barbell strategy combines two extremes and avoids the middle. Put most of your resources, say 85 to 90 percent, in something very safe, and the rest in small, very risky bets with big upside. Your worst case is limited; your best case is open. Taleb says the «medium risk» middle often hides dangers you cannot see.",
+        "el": "Η στρατηγική της μπάρας συνδυάζει δύο άκρα και αποφεύγει τη μέση, όπως τα βάρη στις δύο άκρες μιας μπάρας. Βάζεις το μεγαλύτερο μέρος των πόρων σου, ας πούμε 85 με 90 τοις εκατό, σε κάτι πολύ ασφαλές, και το υπόλοιπο σε μικρά, πολύ ριψοκίνδυνα στοιχήματα με μεγάλο πιθανό κέρδος. Η χειρότερη περίπτωση είναι περιορισμένη· η καλύτερη μένει ανοιχτή. Ο Ταλέμπ λέει ότι η μέση του «μέτριου ρίσκου» συχνά κρύβει κινδύνους που δεν βλέπεις."
+      },
+      "example": {
+        "en": "Taleb points to writers who kept a safe, dull day job and wrote freely in their spare time, with nothing to lose. Franz Kafka worked in an insurance institute in Prague while writing the stories that made him famous after his death.",
+        "el": "Ο Ταλέμπ αναφέρει συγγραφείς που κρατούσαν μια ασφαλή, βαρετή δουλειά και έγραφαν ελεύθερα στον ελεύθερο χρόνο τους, χωρίς να έχουν τίποτα να χάσουν. Ο Φραντς Κάφκα δούλευε σε ένα ασφαλιστικό ίδρυμα στην Πράγα ενώ έγραφε τα διηγήματα που τον έκαναν διάσημο μετά τον θάνατό του."
+      },
+      "apply": {
+        "en": "Keep the agency as your safe side: steady clients, yearly renewals, a cash reserve. Give a small, fixed share of time and money, for example one day a week, to risky side projects with big upside. Never bet the agency itself on one of them.",
+        "el": "Κράτα την εταιρεία ως την ασφαλή σου πλευρά: σταθεροί πελάτες, ετήσιες ανανεώσεις, αποθεματικό. Δώσε ένα μικρό, σταθερό κομμάτι χρόνου και χρημάτων, για παράδειγμα μία μέρα την εβδομάδα, σε ριψοκίνδυνα side projects με μεγάλο πιθανό κέρδος. Μη βάλεις ποτέ την ίδια την εταιρεία στοίχημα σε κάποιο από αυτά."
+      },
+      "check": {
+        "q": {
+          "en": "What does a barbell strategy look like?",
+          "el": "Πώς μοιάζει η στρατηγική της μπάρας;"
+        },
+        "options": [
+          {
+            "en": "Everything in medium-risk choices",
+            "el": "Τα πάντα σε επιλογές μέτριου ρίσκου"
+          },
+          {
+            "en": "Everything in the riskiest bet you can find",
+            "el": "Τα πάντα στο πιο ριψοκίνδυνο στοίχημα που βρίσκεις"
+          },
+          {
+            "en": "Mostly very safe, plus small, very risky bets",
+            "el": "Κυρίως πολύ ασφαλή, συν μικρά, πολύ ριψοκίνδυνα στοιχήματα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The safe side limits losses; the small risky side keeps big gains possible.",
+          "el": "Η ασφαλής πλευρά περιορίζει τις απώλειες· η μικρή ριψοκίνδυνη κρατά ανοιχτά τα μεγάλα κέρδη."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "More upside than downside",
+        "el": "Περισσότερο κέρδος παρά ζημιά"
+      },
+      "explain": {
+        "en": "Taleb's simple test for antifragility: do you have more to gain than to lose from surprises? If a shock can hurt you a little but help you a lot, you are antifragile. If it can help you a little but hurt you a lot, you are fragile. Look at the shape of the possible outcomes, not at predictions, and choose situations where mistakes are small and wins can be big.",
+        "el": "Το απλό τεστ του Ταλέμπ για την αντιευθραυστότητα: έχεις περισσότερα να κερδίσεις παρά να χάσεις από τις εκπλήξεις; Αν ένα χτύπημα μπορεί να σε βλάψει λίγο αλλά να σε ωφελήσει πολύ, είσαι αντιεύθραυστος. Αν μπορεί να σε ωφελήσει λίγο αλλά να σε βλάψει πολύ, είσαι εύθραυστος. Κοίτα το σχήμα των πιθανών αποτελεσμάτων, όχι τις προβλέψεις, και διάλεγε καταστάσεις όπου τα λάθη είναι μικρά και τα κέρδη μπορεί να είναι μεγάλα."
+      },
+      "example": {
+        "en": "Book publishing lives on this shape. Bloomsbury paid a small advance, about 2,500 pounds, for J. K. Rowling's first Harry Potter book. Most books earn modestly, but that one bet returned many hundreds of times its cost and paid for countless small losses.",
+        "el": "Οι εκδόσεις βιβλίων ζουν από αυτό το σχήμα. Η Bloomsbury πλήρωσε μια μικρή προκαταβολή, περίπου 2.500 λίρες, για το πρώτο βιβλίο του Χάρι Πότερ της Τζ. Κ. Ρόουλινγκ. Τα περισσότερα βιβλία βγάζουν λίγα, αλλά εκείνο το στοίχημα απέδωσε εκατοντάδες φορές το κόστος του και πλήρωσε αμέτρητες μικρές απώλειες."
+      },
+      "apply": {
+        "en": "Before a decision, write the worst and best case. A free first draft for a doctor costs you a few hours; a yes brings years of renewals and referrals. Good shape. A large loan for a fancy office has the opposite shape: small gain, big possible loss. Avoid it.",
+        "el": "Πριν από μια απόφαση, γράψε τη χειρότερη και την καλύτερη περίπτωση. Ένα δωρεάν πρώτο σχέδιο για έναν γιατρό σού κοστίζει λίγες ώρες· ένα «ναι» φέρνει χρόνια ανανεώσεων και συστάσεων. Καλό σχήμα. Ένα μεγάλο δάνειο για ένα εντυπωσιακό γραφείο έχει το αντίθετο σχήμα: μικρό κέρδος, μεγάλη πιθανή ζημιά. Απόφυγέ το."
+      },
+      "check": {
+        "q": {
+          "en": "By Taleb's test, when are you antifragile?",
+          "el": "Με το τεστ του Ταλέμπ, πότε είσαι αντιεύθραυστος;"
+        },
+        "options": [
+          {
+            "en": "When surprises can help you more than they can hurt you",
+            "el": "Όταν οι εκπλήξεις μπορούν να σε ωφελήσουν περισσότερο απ' όσο να σε βλάψουν"
+          },
+          {
+            "en": "When you can predict every surprise",
+            "el": "Όταν μπορείς να προβλέψεις κάθε έκπληξη"
+          },
+          {
+            "en": "When nothing in your business ever changes",
+            "el": "Όταν τίποτα στη δουλειά σου δεν αλλάζει ποτέ"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "What matters is the asymmetry between possible gains and losses.",
+          "el": "Μετράει η ασυμμετρία ανάμεσα στα πιθανά κέρδη και στις πιθανές απώλειες."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Big is fragile",
+        "el": "Το μεγάλο είναι εύθραυστο"
+      },
+      "explain": {
+        "en": "Bigger is often more fragile. The same mistake that costs a small firm a little can crush a large one, because everything is multiplied. Harm also grows faster than size: a few extra cars on an almost full road cause a huge jam. Taleb prefers small, local, independent units, like city-states, which fail alone instead of taking everyone down with them.",
+        "el": "Το μεγαλύτερο είναι συχνά πιο εύθραυστο. Το ίδιο λάθος που κοστίζει λίγο σε μια μικρή εταιρεία μπορεί να συντρίψει μια μεγάλη, γιατί όλα πολλαπλασιάζονται. Η ζημιά μεγαλώνει και πιο γρήγορα από το μέγεθος: λίγα ακόμη αυτοκίνητα σε έναν σχεδόν γεμάτο δρόμο φέρνουν τεράστιο μποτιλιάρισμα. Ο Ταλέμπ προτιμά μικρές, τοπικές, ανεξάρτητες μονάδες, όπως οι πόλεις-κράτη, που αποτυγχάνουν μόνες τους αντί να παρασύρουν όλους μαζί τους."
+      },
+      "example": {
+        "en": "In January 2008 Société Générale discovered huge unauthorised bets by the trader Jérôme Kerviel, worth around 50 billion euros. Selling them quickly in a falling market cost the bank about 4.9 billion euros. Taleb stresses that the sheer size of the position, not only the error, made the loss so large.",
+        "el": "Τον Ιανουάριο του 2008 η Société Générale ανακάλυψε τεράστιες μη εγκεκριμένες θέσεις του trader Ζερόμ Κερβιέλ, αξίας περίπου 50 δισ. ευρώ. Η βιαστική πώλησή τους σε μια αγορά που έπεφτε κόστισε στην τράπεζα περίπου 4,9 δισ. ευρώ. Ο Ταλέμπ τονίζει ότι το τεράστιο μέγεθος της θέσης, κι όχι μόνο το λάθος, έκανε τη ζημιά τόσο μεγάλη."
+      },
+      "apply": {
+        "en": "Grow in small, independent pieces: a team that keeps working if one person is away, work split so no single project can sink you. Avoid one giant project that needs all your people for months. Many small clients beat one huge one.",
+        "el": "Μεγάλωνε σε μικρά, ανεξάρτητα κομμάτια: μια ομάδα που συνεχίζει να δουλεύει αν λείπει ένας, δουλειά μοιρασμένη ώστε κανένα έργο μόνο του να μη σε βουλιάξει. Απόφευγε ένα γιγάντιο έργο που χρειάζεται όλους σου τους ανθρώπους για μήνες. Πολλοί μικροί πελάτες νικούν έναν τεράστιο."
+      },
+      "check": {
+        "q": {
+          "en": "Why does Taleb say size brings fragility?",
+          "el": "Γιατί ο Ταλέμπ λέει ότι το μέγεθος φέρνει ευθραυστότητα;"
+        },
+        "options": [
+          {
+            "en": "Big firms always have bad managers",
+            "el": "Οι μεγάλες εταιρείες έχουν πάντα κακά στελέχη"
+          },
+          {
+            "en": "Small firms never make mistakes",
+            "el": "Οι μικρές εταιρείες δεν κάνουν ποτέ λάθη"
+          },
+          {
+            "en": "The same error costs far more when everything is bigger",
+            "el": "Το ίδιο λάθος κοστίζει πολύ περισσότερο όταν όλα είναι μεγαλύτερα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Harm grows faster than size, so big mistakes become disasters.",
+          "el": "Η ζημιά μεγαλώνει πιο γρήγορα από το μέγεθος, οπότε τα μεγάλα λάθη γίνονται καταστροφές."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Spare parts, not debt",
+        "el": "Ανταλλακτικά, όχι χρέη"
+      },
+      "explain": {
+        "en": "Nature keeps spare parts: we have two kidneys and two lungs. This redundancy looks wasteful in good times and saves you in bad ones. Debt is the opposite: it removes your margin and turns small shocks into disasters. Taleb says a company with savings and no debt can even profit from a crisis, while an indebted one is forced to sell or close.",
+        "el": "Η φύση κρατά ανταλλακτικά: έχουμε δύο νεφρά και δύο πνεύμονες. Αυτή η πλεονάζουσα ασφάλεια μοιάζει σπατάλη στις καλές εποχές και σε σώζει στις κακές. Το χρέος είναι το αντίθετο: σου αφαιρεί το περιθώριο και κάνει τα μικρά χτυπήματα καταστροφές. Ο Ταλέμπ λέει ότι μια εταιρεία με αποθεματικό και χωρίς χρέη μπορεί ακόμη και να κερδίσει από μια κρίση, ενώ μια χρεωμένη αναγκάζεται να πουλήσει ή να κλείσει."
+      },
+      "example": {
+        "en": "Before its fall, Lehman Brothers had borrowed about 30 times its own capital. So when the value of its assets fell by just a few percent in 2008, its capital was wiped out and it went bankrupt. Small shocks plus heavy debt equal fragility.",
+        "el": "Πριν από την πτώση της, η Lehman Brothers είχε δανειστεί περίπου 30 φορές τα ίδια κεφάλαιά της. Έτσι, όταν η αξία των περιουσιακών της στοιχείων έπεσε μόλις λίγες μονάδες τοις εκατό το 2008, τα κεφάλαιά της εξαφανίστηκαν και χρεοκόπησε. Μικρά χτυπήματα συν βαρύ χρέος ισούται με ευθραυστότητα."
+      },
+      "apply": {
+        "en": "Keep a cash reserve for several months of costs, and avoid loans for things you can grow into slowly. Train a second person who can update client sites, and keep backups of every site in two places. It looks unnecessary until the day it saves you.",
+        "el": "Κράτα αποθεματικό για αρκετούς μήνες εξόδων και απόφευγε δάνεια για πράγματα που μπορείς να αποκτήσεις σιγά σιγά. Εκπαίδευσε ένα δεύτερο άτομο που να μπορεί να ενημερώνει τα site των πελατών και κράτα αντίγραφα ασφαλείας κάθε site σε δύο μέρη. Μοιάζει περιττό ως τη μέρα που θα σε σώσει."
+      },
+      "check": {
+        "q": {
+          "en": "Why does Taleb dislike debt?",
+          "el": "Γιατί ο Ταλέμπ αντιπαθεί το χρέος;"
+        },
+        "options": [
+          {
+            "en": "Debt is always illegal",
+            "el": "Το χρέος είναι πάντα παράνομο"
+          },
+          {
+            "en": "It removes your margin, so small shocks become disasters",
+            "el": "Σου αφαιρεί το περιθώριο, οπότε τα μικρά χτυπήματα γίνονται καταστροφές"
+          },
+          {
+            "en": "Banks charge too little interest",
+            "el": "Οι τράπεζες χρεώνουν πολύ χαμηλό τόκο"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "With no margin, even a small fall can wipe you out, as with Lehman.",
+          "el": "Χωρίς περιθώριο, ακόμη και μια μικρή πτώση μπορεί να σε αφανίσει, όπως τη Lehman."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Via negativa: improve by removing",
+        "el": "Via negativa: βελτίωση με αφαίρεση"
+      },
+      "explain": {
+        "en": "Via negativa means improving by taking away rather than adding. We know far better what harms us than what helps us. So the surest progress is often to stop doing the wrong things: drop a bad habit, a toxic client, a useless meeting, a debt. Taleb says subtraction is safer than addition, because removing something has fewer hidden side effects.",
+        "el": "Via negativa σημαίνει βελτίωση μέσα από την αφαίρεση κι όχι την προσθήκη. Ξέρουμε πολύ καλύτερα τι μας βλάπτει απ' ό,τι τι μας ωφελεί. Γι' αυτό η πιο σίγουρη πρόοδος είναι συχνά να σταματήσεις να κάνεις τα λάθος πράγματα: μια κακή συνήθεια, έναν τοξικό πελάτη, μια άχρηστη σύσκεψη, ένα χρέος. Ο Ταλέμπ λέει ότι η αφαίρεση είναι πιο ασφαλής από την πρόσθεση, γιατί όταν βγάζεις κάτι έχεις λιγότερες κρυφές παρενέργειες."
+      },
+      "example": {
+        "en": "Asked how he carved the David, Michelangelo is said to have answered that he simply removed everything that was not David. Taleb uses the story to show that the masterpiece came from taking away, not from adding.",
+        "el": "Όταν ρώτησαν τον Μιχαήλ Άγγελο πώς σμίλεψε τον Δαβίδ, λέγεται ότι απάντησε πως απλώς αφαίρεσε ό,τι δεν ήταν Δαβίδ. Ο Ταλέμπ χρησιμοποιεί την ιστορία για να δείξει ότι το αριστούργημα βγήκε από την αφαίρεση, όχι από την προσθήκη."
+      },
+      "apply": {
+        "en": "This week, remove instead of adding: list your three biggest time-wasters, such as endless revisions for one client, checking ad stats every hour, or a side project going nowhere, and cut one completely. Add nothing new until you have removed something.",
+        "el": "Αυτή την εβδομάδα, αφαίρεσε αντί να προσθέσεις: γράψε τα τρία μεγαλύτερα «φαγητά» του χρόνου σου, όπως ατελείωτες διορθώσεις για έναν πελάτη, έλεγχο των στατιστικών της διαφήμισης κάθε ώρα ή ένα side project που δεν πάει πουθενά, και κόψε το ένα εντελώς. Μην προσθέσεις τίποτα καινούργιο πριν αφαιρέσεις κάτι."
+      },
+      "check": {
+        "q": {
+          "en": "What does via negativa mean?",
+          "el": "Τι σημαίνει via negativa;"
+        },
+        "options": [
+          {
+            "en": "Improving by removing what harms you",
+            "el": "Βελτίωση με την αφαίρεση όσων σε βλάπτουν"
+          },
+          {
+            "en": "Thinking negatively about every plan",
+            "el": "Αρνητική σκέψη για κάθε σχέδιο"
+          },
+          {
+            "en": "Saying no to every new client",
+            "el": "Να λες όχι σε κάθε νέο πελάτη"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "We know more reliably what is harmful, so removing it is the safest gain.",
+          "el": "Ξέρουμε πιο σίγουρα τι είναι βλαβερό, άρα η αφαίρεσή του είναι το πιο ασφαλές κέρδος."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The Lindy effect",
+        "el": "Το φαινόμενο Lindy"
+      },
+      "explain": {
+        "en": "For things that do not age like people, such as books, ideas and technologies, every extra year of survival points to a longer future. A book still read after 100 years will probably be read for another 100; a bestseller from last year may vanish next year. Taleb uses this against «neomania», the love of new things just because they are new.",
+        "el": "Για πράγματα που δεν γερνούν όπως οι άνθρωποι, όπως τα βιβλία, οι ιδέες και οι τεχνολογίες, κάθε επιπλέον χρόνος επιβίωσης δείχνει μακρύτερο μέλλον. Ένα βιβλίο που διαβάζεται ακόμη μετά από 100 χρόνια μάλλον θα διαβάζεται για άλλα 100· ένα περσινό best seller ίσως εξαφανιστεί του χρόνου. Ο Ταλέμπ το χρησιμοποιεί ενάντια στη «νεομανία», την αγάπη για το καινούργιο μόνο και μόνο επειδή είναι καινούργιο."
+      },
+      "example": {
+        "en": "We still use chairs, forks, wheels, glass cups and the alphabet, all thousands of years old. Meanwhile many gadgets that looked like the future, such as the Google Glass headset launched in 2013, disappeared from ordinary use within a few years.",
+        "el": "Χρησιμοποιούμε ακόμη καρέκλες, πιρούνια, ρόδες, γυάλινα ποτήρια και το αλφάβητο, όλα χιλιάδων χρόνων. Την ίδια ώρα πολλά gadgets που έμοιαζαν με το μέλλον, όπως τα γυαλιά Google Glass που κυκλοφόρησαν το 2013, χάθηκαν από την καθημερινή χρήση μέσα σε λίγα χρόνια."
+      },
+      "apply": {
+        "en": "Build on what has lasted: a clear phone call, a fast and simple website, honest reviews, a yearly renewal. Use new AI tools to work faster, but do not rest the whole business on a tool launched last month. Read proven old books on selling before the latest trend.",
+        "el": "Χτίσε πάνω σε ό,τι έχει αντέξει: ένα καθαρό τηλεφώνημα, ένα γρήγορο και απλό site, τίμιες κριτικές, μια ετήσια ανανέωση. Χρησιμοποίησε τα νέα εργαλεία AI για να δουλεύεις γρηγορότερα, αλλά μη στηρίξεις όλη τη δουλειά σε ένα εργαλείο που βγήκε τον περασμένο μήνα. Διάβασε δοκιμασμένα παλιά βιβλία για τις πωλήσεις πριν από την τελευταία μόδα."
+      },
+      "check": {
+        "q": {
+          "en": "What does the Lindy effect predict?",
+          "el": "Τι προβλέπει το φαινόμενο Lindy;"
+        },
+        "options": [
+          {
+            "en": "The longer a non-living thing has survived, the longer it will likely last",
+            "el": "Όσο περισσότερο έχει επιβιώσει κάτι μη ζωντανό, τόσο περισσότερο μάλλον θα κρατήσει"
+          },
+          {
+            "en": "New things always replace old ones quickly",
+            "el": "Τα καινούργια αντικαθιστούν πάντα γρήγορα τα παλιά"
+          },
+          {
+            "en": "Everything lasts about 100 years",
+            "el": "Όλα κρατούν περίπου 100 χρόνια"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Survival over time is evidence of robustness for ideas and tools.",
+          "el": "Η επιβίωση στον χρόνο είναι απόδειξη αντοχής για ιδέες και εργαλεία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Skin in the game",
+        "el": "Να έχεις κάτι να χάσεις"
+      },
+      "explain": {
+        "en": "Do not trust advice from someone who pays nothing if they are wrong. Taleb says a major source of fragility today is people who keep the upside of risk while others carry the downside: bankers with bonuses, consultants, forecasters. Fair systems make decision makers share the risk. The ethical rule: never take gains while passing hidden risks to others.",
+        "el": "Μην εμπιστεύεσαι συμβουλές από κάποιον που δεν πληρώνει τίποτα αν κάνει λάθος. Ο Ταλέμπ λέει ότι μια μεγάλη πηγή ευθραυστότητας σήμερα είναι όσοι κρατούν το κέρδος του ρίσκου ενώ τη ζημιά τη σηκώνουν άλλοι: τραπεζίτες με μπόνους, σύμβουλοι, προβλέπτες. Τα δίκαια συστήματα κάνουν όσους αποφασίζουν να μοιράζονται το ρίσκο. Ο ηθικός κανόνας: μην παίρνεις ποτέ κέρδη φορτώνοντας κρυφούς κινδύνους σε άλλους."
+      },
+      "example": {
+        "en": "Almost 4,000 years ago, Hammurabi's code in Babylon said that if a house collapsed and killed its owner, the builder would be put to death. Harsh, but builders clearly had skin in the game. Taleb contrasts this with bankers who kept their bonuses after the 2008 crisis.",
+        "el": "Πριν από σχεδόν 4.000 χρόνια, ο κώδικας του Χαμουραμπί στη Βαβυλώνα όριζε ότι αν ένα σπίτι κατέρρεε και σκότωνε τον ιδιοκτήτη, ο χτίστης θανατωνόταν. Σκληρό, αλλά οι χτίστες σίγουρα είχαν κάτι να χάσουν. Ο Ταλέμπ το αντιπαραβάλλει με τους τραπεζίτες που κράτησαν τα μπόνους τους μετά την κρίση του 2008."
+      },
+      "apply": {
+        "en": "Keep your own skin in the game with clients, as your 0-euro build already does: «If you do not like the first draft, you owe nothing.» And when an agency or guru sells you a growth plan, ask politely: «What do you lose if it does not work?»",
+        "el": "Κράτα κι εσύ κάτι να χάσεις απέναντι στους πελάτες, όπως ήδη κάνει η κατασκευή με 0 ευρώ: «Αν δεν σας αρέσει το πρώτο σχέδιο, δεν μας χρωστάτε τίποτα.» Κι όταν μια εταιρεία ή ένας «γκουρού» σου πουλάει ένα σχέδιο ανάπτυξης, ρώτα ευγενικά: «Εσείς τι χάνετε αν δεν πετύχει;»"
+      },
+      "check": {
+        "q": {
+          "en": "What does skin in the game require?",
+          "el": "Τι απαιτεί το «να έχεις κάτι να χάσεις»;"
+        },
+        "options": [
+          {
+            "en": "That advisers are paid only a fixed salary",
+            "el": "Οι σύμβουλοι να πληρώνονται μόνο με σταθερό μισθό"
+          },
+          {
+            "en": "That those who decide also bear the cost if they are wrong",
+            "el": "Όσοι αποφασίζουν να σηκώνουν και το κόστος αν κάνουν λάθος"
+          },
+          {
+            "en": "That nobody ever takes any risk",
+            "el": "Να μην παίρνει κανείς ποτέ κανένα ρίσκο"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Sharing the downside makes people decide carefully and honestly.",
+          "el": "Όταν μοιράζεσαι τη ζημιά, αποφασίζεις προσεκτικά και τίμια."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Check exposure, not forecasts",
+        "el": "Έλεγξε την έκθεση, όχι τις προβλέψεις"
+      },
+      "explain": {
+        "en": "Nobody can predict rare, huge events, which Taleb calls Black Swans. But you can see whether you are fragile to them. Instead of forecasting, ask: if something unexpected happens, do I lose a lot or a little? Taleb admires the Stoics, especially Seneca, who trained himself to accept losing his wealth, so losses hurt less while gains were still welcome.",
+        "el": "Κανείς δεν μπορεί να προβλέψει τα σπάνια, τεράστια γεγονότα, που ο Ταλέμπ τα λέει Μαύρους Κύκνους. Μπορείς όμως να δεις αν είσαι εύθραυστος απέναντί τους. Αντί για προβλέψεις, ρώτα: αν συμβεί κάτι απρόσμενο, χάνω πολλά ή λίγα; Ο Ταλέμπ θαυμάζει τους Στωικούς, κυρίως τον Σενέκα, που εκπαίδευε τον εαυτό του να δέχεται την απώλεια του πλούτου του, ώστε οι απώλειες να πονούν λιγότερο ενώ τα κέρδη να είναι πάντα ευπρόσδεκτα."
+      },
+      "example": {
+        "en": "Seneca was one of the richest men in Rome, yet he regularly practised living on little, with plain food and rough clothes, imagining the loss of everything. Taleb sees this as an early antifragile strategy: bad fortune could not break him, while he kept the upside of wealth.",
+        "el": "Ο Σενέκας ήταν από τους πλουσιότερους ανθρώπους της Ρώμης, κι όμως ασκούνταν τακτικά να ζει με λίγα, με απλό φαγητό και τραχιά ρούχα, φανταζόμενος ότι τα χάνει όλα. Ο Ταλέμπ το βλέπει σαν πρώιμη αντιεύθραυστη στρατηγική: η κακή τύχη δεν μπορούσε να τον σπάσει, ενώ κρατούσε τα οφέλη του πλούτου."
+      },
+      "apply": {
+        "en": "Stop guessing next year's market. List five shocks, such as a blocked ad account, a month of illness, a big client leaving, a rise in hosting prices, a strong new competitor, and for each write how you would survive it. Fix first the one that would hurt you most.",
+        "el": "Σταμάτα να μαντεύεις την αγορά της επόμενης χρονιάς. Γράψε πέντε χτυπήματα, όπως έναν μπλοκαρισμένο διαφημιστικό λογαριασμό, έναν μήνα αρρώστιας, την αποχώρηση ενός μεγάλου πελάτη, μια αύξηση στο κόστος φιλοξενίας, έναν δυνατό νέο ανταγωνιστή, και για το καθένα γράψε πώς θα επιβίωνες. Διόρθωσε πρώτα αυτό που θα σε πονούσε περισσότερο."
+      },
+      "check": {
+        "q": {
+          "en": "What does Taleb suggest instead of predicting rare events?",
+          "el": "Τι προτείνει ο Ταλέμπ αντί να προβλέπεις τα σπάνια γεγονότα;"
+        },
+        "options": [
+          {
+            "en": "Hire better forecasters",
+            "el": "Να προσλάβεις καλύτερους προβλέπτες"
+          },
+          {
+            "en": "Ignore rare events, since they rarely happen",
+            "el": "Να αγνοείς τα σπάνια γεγονότα, αφού σπάνια συμβαίνουν"
+          },
+          {
+            "en": "Check how exposed you are and reduce the damage they could do",
+            "el": "Να ελέγχεις πόσο εκτεθειμένος είσαι και να μειώνεις τη ζημιά που μπορούν να κάνουν"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "You cannot know when a shock comes, but you can control how much it hurts.",
+          "el": "Δεν μπορείς να ξέρεις πότε θα έρθει ένα χτύπημα, μπορείς όμως να ελέγξεις πόσο θα πονέσει."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "A large agency offers you a well-paid job with a fixed salary if you give up your own clients. What does Taleb's two-brothers story suggest?",
+        "el": "Μια μεγάλη εταιρεία σού προτείνει καλοπληρωμένη θέση με σταθερό μισθό, αν παρατήσεις τους δικούς σου πελάτες. Τι λέει η ιστορία των δύο αδερφών του Ταλέμπ;"
+      },
+      "options": [
+        {
+          "en": "A fixed salary is always the safest choice",
+          "el": "Ο σταθερός μισθός είναι πάντα η πιο ασφαλής επιλογή"
+        },
+        {
+          "en": "Many small income sources can be less fragile than one salary",
+          "el": "Πολλές μικρές πηγές εισοδήματος μπορεί να είναι λιγότερο εύθραυστες από έναν μισθό"
+        },
+        {
+          "en": "Income does not matter, only the job title",
+          "el": "Το εισόδημα δεν έχει σημασία, μόνο ο τίτλος"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "John's steady salary could drop to zero at once; George's many small earnings could not.",
+        "el": "Ο σταθερός μισθός του Τζον μπορούσε να μηδενιστεί μονομιάς· τα πολλά μικρά έσοδα του Τζορτζ όχι."
+      },
+      "idea": 3
+    },
+    {
+      "q": {
+        "en": "For three years almost all your new clients have come from one Meta ad account. Everything works. What does the turkey problem suggest?",
+        "el": "Εδώ και τρία χρόνια σχεδόν όλοι οι νέοι σου πελάτες έρχονται από έναν διαφημιστικό λογαριασμό στη Meta. Όλα δουλεύουν. Τι λέει το πρόβλημα της γαλοπούλας;"
+      },
+      "options": [
+        {
+          "en": "Three good years prove the account is safe",
+          "el": "Τρία καλά χρόνια αποδεικνύουν ότι ο λογαριασμός είναι ασφαλής"
+        },
+        {
+          "en": "Stop advertising before something goes wrong",
+          "el": "Σταμάτα τη διαφήμιση πριν στραβώσει κάτι"
+        },
+        {
+          "en": "Build a plan B, like cold calls and referrals, before you need it",
+          "el": "Φτιάξε ένα σχέδιο Β, όπως cold calls και συστάσεις, πριν το χρειαστείς"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "A calm past does not protect you from a sudden block; prepare an alternative now.",
+        "el": "Ένα ήρεμο παρελθόν δεν σε προστατεύει από ένα ξαφνικό μπλοκάρισμα· ετοίμασε εναλλακτική τώρα."
+      },
+      "idea": 5
+    },
+    {
+      "q": {
+        "en": "A client's site has worked perfectly for two years and he is happy. You feel like rebuilding it with a new framework over the weekend. What do you do?",
+        "el": "Το site ενός πελάτη δουλεύει τέλεια εδώ και δύο χρόνια κι εκείνος είναι ευχαριστημένος. Σου έρχεται να το ξαναφτιάξεις με νέο framework μέσα στο Σαββατοκύριακο. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Leave it alone unless there is a real problem to solve",
+          "el": "Το αφήνεις όπως είναι, εκτός αν υπάρχει πραγματικό πρόβλημα να λυθεί"
+        },
+        {
+          "en": "Rebuild it; newer is always better",
+          "el": "Το ξαναφτιάχνεις· το καινούργιο είναι πάντα καλύτερο"
+        },
+        {
+          "en": "Rebuild it secretly and tell him later",
+          "el": "Το ξαναφτιάχνεις κρυφά και του το λες μετά"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Iatrogenics: an unneeded fix can create new problems.",
+        "el": "Ιατρογένεση: μια διόρθωση που δεν χρειάζεται μπορεί να φέρει νέα προβλήματα."
+      },
+      "idea": 6
+    },
+    {
+      "q": {
+        "en": "You have a new app idea and want to put all your savings into it. How would Taleb set it up?",
+        "el": "Έχεις μια ιδέα για νέα εφαρμογή και θέλεις να βάλεις όλες τις οικονομίες σου. Πώς θα το έστηνε ο Ταλέμπ;"
+      },
+      "options": [
+        {
+          "en": "All savings in, because big risks bring big rewards",
+          "el": "Όλες οι οικονομίες μέσα, γιατί τα μεγάλα ρίσκα φέρνουν μεγάλα κέρδη"
+        },
+        {
+          "en": "Keep the agency and most savings safe, risk only a small fixed part",
+          "el": "Κρατάς ασφαλή την εταιρεία και τις περισσότερες οικονομίες και ρισκάρεις μόνο ένα μικρό, σταθερό κομμάτι"
+        },
+        {
+          "en": "Never try any new idea",
+          "el": "Δεν δοκιμάζεις ποτέ καμία νέα ιδέα"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "The barbell: very safe on one side, small risky bets on the other.",
+        "el": "Η μπάρα: πολύ ασφαλές από τη μία πλευρά, μικρά ριψοκίνδυνα στοιχήματα από την άλλη."
+      },
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "A bank offers you a big loan to rent a large office and hire five people at once. What would Taleb say?",
+        "el": "Μια τράπεζα σού προσφέρει μεγάλο δάνειο για να νοικιάσεις ένα μεγάλο γραφείο και να προσλάβεις πέντε άτομα μαζί. Τι θα έλεγε ο Ταλέμπ;"
+      },
+      "options": [
+        {
+          "en": "Take it; growth always needs debt",
+          "el": "Πάρ' το· η ανάπτυξη θέλει πάντα χρέος"
+        },
+        {
+          "en": "Take it, but hide it from your clients",
+          "el": "Πάρ' το, αλλά κρύψ' το από τους πελάτες"
+        },
+        {
+          "en": "Avoid it; grow slowly from cash and keep a reserve",
+          "el": "Απόφυγέ το· μεγάλωνε σιγά από τα έσοδα και κράτα αποθεματικό"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Debt removes your margin and makes small shocks dangerous.",
+        "el": "Το χρέος σου αφαιρεί το περιθώριο και κάνει τα μικρά χτυπήματα επικίνδυνα."
+      },
+      "idea": 13
+    },
+    {
+      "q": {
+        "en": "You feel overwhelmed and plan to buy two new productivity apps and a course. What does via negativa suggest first?",
+        "el": "Νιώθεις ότι πνίγεσαι και σκέφτεσαι να αγοράσεις δύο νέες εφαρμογές παραγωγικότητας κι ένα σεμινάριο. Τι προτείνει πρώτα η via negativa;"
+      },
+      "options": [
+        {
+          "en": "Remove one big time-waster before adding anything",
+          "el": "Να αφαιρέσεις ένα μεγάλο «φαγητό» χρόνου πριν προσθέσεις οτιδήποτε"
+        },
+        {
+          "en": "Buy all three to cover every need",
+          "el": "Να αγοράσεις και τα τρία για να καλύψεις κάθε ανάγκη"
+        },
+        {
+          "en": "Work longer hours until it passes",
+          "el": "Να δουλεύεις περισσότερες ώρες ώσπου να περάσει"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Subtraction is safer and often more effective than addition.",
+        "el": "Η αφαίρεση είναι πιο ασφαλής και συχνά πιο αποτελεσματική από την προσθήκη."
+      },
+      "idea": 14
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "Antifragile means the same as robust.",
+        "el": "Αντιεύθραυστο σημαίνει το ίδιο με ανθεκτικό."
+      },
+      "answer": false,
+      "why": {
+        "en": "Robust resists shocks; antifragile gets better from them.",
+        "el": "Το ανθεκτικό αντέχει τα χτυπήματα· το αντιεύθραυστο βελτιώνεται από αυτά."
+      }
+    },
+    {
+      "s": {
+        "en": "Taleb says constant stress with no recovery makes you stronger.",
+        "el": "Ο Ταλέμπ λέει ότι η συνεχής πίεση χωρίς ξεκούραση σε δυναμώνει."
+      },
+      "answer": false,
+      "why": {
+        "en": "Only short stress followed by recovery helps; chronic stress harms.",
+        "el": "Βοηθά μόνο η σύντομη πίεση με ξεκούραση μετά· η χρόνια πίεση βλάπτει."
+      }
+    },
+    {
+      "s": {
+        "en": "Thales profited by buying the right to use olive presses before a big harvest.",
+        "el": "Ο Θαλής κέρδισε αγοράζοντας το δικαίωμα χρήσης των ελαιοτριβείων πριν από μια μεγάλη σοδειά."
+      },
+      "answer": true,
+      "why": {
+        "en": "Aristotle tells the story; Taleb uses it as the classic option.",
+        "el": "Την ιστορία τη λέει ο Αριστοτέλης· ο Ταλέμπ τη χρησιμοποιεί ως το κλασικό παράδειγμα επιλογής."
+      }
+    },
+    {
+      "s": {
+        "en": "A long calm record proves that something is safe.",
+        "el": "Ένα μακρύ, ήρεμο ιστορικό αποδεικνύει ότι κάτι είναι ασφαλές."
+      },
+      "answer": false,
+      "why": {
+        "en": "The turkey felt safest the day before it was killed.",
+        "el": "Η γαλοπούλα ένιωθε πιο ασφαλής την παραμονή της σφαγής της."
+      }
+    },
+    {
+      "s": {
+        "en": "The barbell strategy avoids the «medium risk» middle.",
+        "el": "Η στρατηγική της μπάρας αποφεύγει τη μέση του «μέτριου ρίσκου»."
+      },
+      "answer": true,
+      "why": {
+        "en": "It combines very safe and small very risky bets.",
+        "el": "Συνδυάζει πολύ ασφαλείς επιλογές με μικρά, πολύ ριψοκίνδυνα στοιχήματα."
+      }
+    },
+    {
+      "s": {
+        "en": "Via negativa means improving by removing harmful things.",
+        "el": "Via negativa σημαίνει βελτίωση με την αφαίρεση των βλαβερών."
+      },
+      "answer": true,
+      "why": {
+        "en": "Subtraction has fewer hidden side effects than addition.",
+        "el": "Η αφαίρεση έχει λιγότερες κρυφές παρενέργειες από την προσθήκη."
+      }
+    },
+    {
+      "s": {
+        "en": "Taleb believes that heavy debt makes a company stronger in a crisis.",
+        "el": "Ο Ταλέμπ πιστεύει ότι το βαρύ χρέος κάνει μια εταιρεία πιο δυνατή σε μια κρίση."
+      },
+      "answer": false,
+      "why": {
+        "en": "Debt removes margin and makes small shocks fatal.",
+        "el": "Το χρέος αφαιρεί το περιθώριο και κάνει τα μικρά χτυπήματα μοιραία."
+      }
+    },
+    {
+      "s": {
+        "en": "Skin in the game means decision makers share the cost of their mistakes.",
+        "el": "Το «να έχεις κάτι να χάσεις» σημαίνει ότι όσοι αποφασίζουν μοιράζονται το κόστος των λαθών τους."
+      },
+      "answer": true,
+      "why": {
+        "en": "Like Hammurabi's builders, they should not pass all the risk to others.",
+        "el": "Όπως οι χτίστες του Χαμουραμπί, δεν πρέπει να φορτώνουν όλο το ρίσκο στους άλλους."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "Antifragile",
+        "el": "Αντιεύθραυστο"
+      },
+      "b": {
+        "en": "Gets stronger from shocks and stress",
+        "el": "Δυναμώνει από τα χτυπήματα και την πίεση"
+      }
+    },
+    {
+      "a": {
+        "en": "Barbell",
+        "el": "Μπάρα"
+      },
+      "b": {
+        "en": "Very safe plus small, very risky bets",
+        "el": "Πολύ ασφαλές συν μικρά, πολύ ριψοκίνδυνα στοιχήματα"
+      }
+    },
+    {
+      "a": {
+        "en": "Via negativa",
+        "el": "Αρνητική οδός (via negativa)"
+      },
+      "b": {
+        "en": "Improving by removing what harms",
+        "el": "Βελτίωση με την αφαίρεση όσων βλάπτουν"
+      }
+    },
+    {
+      "a": {
+        "en": "Iatrogenics",
+        "el": "Ιατρογένεση"
+      },
+      "b": {
+        "en": "Harm caused by the healer",
+        "el": "Βλάβη που προκαλεί αυτός που θεραπεύει"
+      }
+    },
+    {
+      "a": {
+        "en": "Lindy effect",
+        "el": "Φαινόμενο Lindy"
+      },
+      "b": {
+        "en": "The longer it has lasted, the longer it lasts",
+        "el": "Όσο περισσότερο έχει κρατήσει, τόσο περισσότερο θα κρατήσει"
+      }
+    },
+    {
+      "a": {
+        "en": "Skin in the game",
+        "el": "Κάτι να χάσεις"
+      },
+      "b": {
+        "en": "Sharing the downside of your own decisions",
+        "el": "Μοιράζεσαι τη ζημιά των δικών σου αποφάσεων"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Sort ten parts of your agency into fragile, robust and antifragile, and pick one to improve.",
+      "el": "Χώρισε δέκα κομμάτια της εταιρείας σου σε εύθραυστα, ανθεκτικά και αντιεύθραυστα, και διάλεξε ένα να βελτιώσεις."
+    },
+    {
+      "en": "Write a one-page plan B for the day your main ad account stops working.",
+      "el": "Γράψε ένα σχέδιο Β μιας σελίδας για τη μέρα που θα σταματήσει να δουλεύει ο βασικός σου διαφημιστικός λογαριασμός."
+    },
+    {
+      "en": "Cut one time-waster completely this week and note the hours you get back.",
+      "el": "Κόψε εντελώς ένα «φαγητό» χρόνου αυτή την εβδομάδα και σημείωσε πόσες ώρες κέρδισες."
+    },
+    {
+      "en": "Check that every client site has a backup in two separate places.",
+      "el": "Έλεγξε ότι κάθε site πελάτη έχει αντίγραφο ασφαλείας σε δύο ξεχωριστά μέρη."
+    },
+    {
+      "en": "Set aside a fixed, small budget and one day a week for a risky side bet.",
+      "el": "Όρισε ένα σταθερό, μικρό ποσό και μία μέρα την εβδομάδα για ένα ριψοκίνδυνο side project."
+    }
+  ],
+  "mantra": {
+    "en": "I cannot predict the storm, but I can build so it makes me stronger.",
+    "el": "Δεν μπορώ να προβλέψω την καταιγίδα, μπορώ όμως να χτίσω ώστε να με δυναμώνει."
+  },
+  "careful": {
+    "en": "Taleb is brilliant but combative: he insults economists and academics, mixes evidence with strong opinion, and the book is long and full of detours. Some of his claims, especially on health, diet and medicine, go beyond solid evidence. «Antifragility» is a powerful idea but hard to measure in practice. And never use via negativa or iatrogenics as an excuse to avoid medical care you need.",
+    "el": "Ο Ταλέμπ είναι ιδιοφυής αλλά καβγατζής: προσβάλλει οικονομολόγους και πανεπιστημιακούς, ανακατεύει στοιχεία με έντονες απόψεις, και το βιβλίο είναι μακρύ και γεμάτο παρεκβάσεις. Κάποιοι ισχυρισμοί του, ειδικά για την υγεία, τη διατροφή και την ιατρική, ξεπερνούν τα στέρεα στοιχεία. Η «αντιευθραυστότητα» είναι δυνατή ιδέα, αλλά δύσκολα μετριέται στην πράξη. Και μη χρησιμοποιείς ποτέ τη via negativa ή την ιατρογένεση ως δικαιολογία για να αποφύγεις ιατρική φροντίδα που χρειάζεσαι."
+  },
+  "connects": [
+    {
+      "book": "letters-from-a-stoic",
+      "note": {
+        "en": "Taleb sees Seneca as an early master of antifragility: keep the upside of fortune, tame the downside.",
+        "el": "Ο Ταλέμπ βλέπει τον Σενέκα ως πρώιμο δάσκαλο της αντιευθραυστότητας: κρατάς τα καλά της τύχης και δαμάζεις τα κακά της."
+      }
+    },
+    {
+      "book": "psychology-of-money",
+      "note": {
+        "en": "Housel's «room for error» and love of savings are Taleb's redundancy in everyday money terms.",
+        "el": "Το «περιθώριο για λάθη» και η αγάπη του Housel για τις αποταμιεύσεις είναι η πλεονάζουσα ασφάλεια του Ταλέμπ σε καθημερινή γλώσσα χρημάτων."
+      }
+    },
+    {
+      "book": "zero-to-one",
+      "note": {
+        "en": "Thiel praises bold long-term plans; Taleb distrusts forecasts and prefers tinkering and options, a useful disagreement.",
+        "el": "Ο Thiel επαινεί τα τολμηρά μακροπρόθεσμα σχέδια· ο Ταλέμπ δυσπιστεί στις προβλέψεις και προτιμά τον πειραματισμό και τις επιλογές, μια χρήσιμη διαφωνία."
+      }
+    }
+  ]
+}

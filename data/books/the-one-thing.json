@@ -1,0 +1,601 @@
+{
+  "id": "the-one-thing",
+  "title": {"en": "The ONE Thing", "el": "Το ΕΝΑ Πράγμα"},
+  "author": "Gary Keller with Jay Papasan",
+  "authorEl": "Γκάρι Κέλερ με τον Τζέι Παπασάν",
+  "year": 2013,
+  "shelf": "focus",
+  "skills": {"focus": 3, "strategy": 2, "leadership": 1},
+  "oneLine": {
+    "en": "Extraordinary results come from finding the one thing that makes everything else easier or unnecessary, and giving it your best hours every day.",
+    "el": "Τα εξαιρετικά αποτελέσματα έρχονται όταν βρίσκεις το ένα πράγμα που κάνει όλα τα άλλα πιο εύκολα ή περιττά, και του δίνεις τις καλύτερες ώρες σου κάθε μέρα."
+  },
+  "story": {
+    "en": "Gary Keller co-founded Keller Williams Realty in Austin, Texas, in 1983 and grew it into one of the largest real estate companies in the world. With writer Jay Papasan he wrote this short book in 2013. It first knocks down six common lies about success, then gives one question and a simple daily method. It has sold millions of copies because it turns «focus» into something you can actually do tomorrow morning.",
+    "el": "Ο Gary Keller ίδρυσε μαζί με συνεταίρο την Keller Williams Realty στο Όστιν του Τέξας το 1983 και την έκανε μία από τις μεγαλύτερες εταιρείες ακινήτων στον κόσμο. Μαζί με τον συγγραφέα Jay Papasan έγραψε αυτό το σύντομο βιβλίο το 2013. Πρώτα γκρεμίζει έξι διαδεδομένα ψέματα για την επιτυχία και μετά δίνει μία ερώτηση και μια απλή καθημερινή μέθοδο. Έχει πουλήσει εκατομμύρια αντίτυπα, γιατί κάνει την «εστίαση» κάτι που μπορείς πραγματικά να εφαρμόσεις αύριο το πρωί."
+  },
+  "forYou": {
+    "en": "You run calls, sales, design, client chat, ads, payments, a team and side projects at the same time. Everything shouts that it is urgent. This book forces one hard question: which single thing, done now, makes the rest easier? For an agency founder that answer usually decides the year. It also shows you how to protect four hours a day for it.",
+    "el": "Τρέχεις ταυτόχρονα τηλέφωνα, πωλήσεις, σχεδιασμό, chat με πελάτες, διαφημίσεις, πληρωμές, ομάδα και side projects. Όλα φωνάζουν ότι είναι επείγοντα. Το βιβλίο σε αναγκάζει να απαντήσεις σε μία δύσκολη ερώτηση: ποιο ένα πράγμα, αν το κάνεις τώρα, κάνει όλα τα άλλα πιο εύκολα; Για έναν ιδρυτή γραφείου αυτή η απάντηση συνήθως κρίνει όλη τη χρονιά. Σου δείχνει επίσης πώς να προστατεύεις τέσσερις ώρες την ημέρα γι' αυτό."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Go small, like dominoes", "el": "Ξεκίνα από το μικρό, σαν ντόμινο"},
+      "explain": {
+        "en": "Keller's starting point is to go small: ignore everything you could do and do only what you should do. Success is built in sequence, not all at once. You knock down the right first domino, then the next one, and each one is a bit bigger than the last. One right thing leads to the next right thing, and over time the small push creates very large results.",
+        "el": "Η αφετηρία του Keller είναι να στενέψεις το πεδίο: αγνόησε όλα όσα θα μπορούσες να κάνεις και κάνε μόνο όσα πρέπει. Η επιτυχία χτίζεται σε σειρά, όχι όλη μαζί. Ρίχνεις το σωστό πρώτο ντόμινο, μετά το επόμενο, και το καθένα είναι λίγο μεγαλύτερο από το προηγούμενο. Το ένα σωστό πράγμα οδηγεί στο επόμενο σωστό, και με τον καιρό η μικρή ώθηση φέρνει πολύ μεγάλα αποτελέσματα."
+      },
+      "example": {
+        "en": "In 1983 the physicist Lorne Whitehead showed that a falling domino can knock over another one about 50% bigger. Keller works out what follows: in such a growing line, starting from a domino of five centimetres, the 23rd would be about as tall as the Eiffel Tower.",
+        "el": "Το 1983 ο φυσικός Lorne Whitehead έδειξε ότι ένα ντόμινο που πέφτει μπορεί να ρίξει ένα άλλο περίπου 50% μεγαλύτερο. Ο Keller κάνει τον λογαριασμό: σε μια τέτοια σειρά που μεγαλώνει, αν ξεκινήσεις από ένα ντόμινο πέντε εκατοστών, το 23ο θα έχει περίπου το ύψος του Πύργου του Άιφελ."
+      },
+      "apply": {
+        "en": "Find your first domino for this quarter. Maybe it is a call script that books meetings, because meetings bring clients, clients bring reviews, and reviews make ads cheaper. Write the chain on paper from first to last domino, then put the first one in tomorrow's calendar.",
+        "el": "Βρες το πρώτο σου ντόμινο για αυτό το τρίμηνο. Ίσως είναι ένα σενάριο τηλεφώνου που κλείνει ραντεβού, γιατί τα ραντεβού φέρνουν πελάτες, οι πελάτες φέρνουν κριτικές και οι κριτικές κάνουν τις διαφημίσεις φθηνότερες. Γράψε την αλυσίδα σε χαρτί από το πρώτο ως το τελευταίο ντόμινο και βάλε το πρώτο στο αυριανό σου ημερολόγιο."
+      },
+      "check": {
+        "q": {"en": "What does the domino effect teach about success?", "el": "Τι διδάσκει το φαινόμενο ντόμινο για την επιτυχία;"},
+        "options": [
+          {"en": "Do many things at once to grow faster", "el": "Κάνε πολλά μαζί για να μεγαλώσεις πιο γρήγορα"},
+          {"en": "Success is built in sequence, one right thing at a time", "el": "Η επιτυχία χτίζεται σε σειρά, ένα σωστό πράγμα τη φορά"},
+          {"en": "Only big pushes create big results", "el": "Μόνο οι μεγάλες ωθήσεις φέρνουν μεγάλα αποτελέσματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Each right step makes the next, bigger step possible.", "el": "Κάθε σωστό βήμα κάνει δυνατό το επόμενο, μεγαλύτερο βήμα."}
+      }
+    },
+    {
+      "title": {"en": "Success leaves clues", "el": "Η επιτυχία αφήνει ίχνη"},
+      "explain": {
+        "en": "Look behind any extraordinary result and you usually find one thing. One product or service that made a company. One person who changed someone's life, a teacher, a partner, a mentor. One passion or skill that shaped a career. Keller says this is no accident. When you narrow your focus to one thing, you can go far deeper than people who spread themselves across many.",
+        "el": "Κοίτα πίσω από οποιοδήποτε εξαιρετικό αποτέλεσμα και συνήθως θα βρεις ένα πράγμα. Ένα προϊόν ή μια υπηρεσία που έφτιαξε μια εταιρεία. Έναν άνθρωπο που άλλαξε μια ζωή, έναν δάσκαλο, έναν συνεργάτη, έναν μέντορα. Ένα πάθος ή μια ικανότητα που έχτισε μια καριέρα. Ο Keller λέει ότι δεν είναι τυχαίο. Όταν στενεύεις την εστίασή σου σε ένα πράγμα, πας πολύ πιο βαθιά από όσους απλώνονται σε πολλά."
+      },
+      "example": {
+        "en": "Google began with one thing: a better search engine. It grew huge and later made maps, email and phones. Yet even today most of the money of its parent company, Alphabet, still comes from ads shown in Google Search, the original one thing.",
+        "el": "Η Google ξεκίνησε με ένα πράγμα: μια καλύτερη μηχανή αναζήτησης. Μεγάλωσε τεράστια και αργότερα έφτιαξε χάρτες, email και κινητά. Κι όμως, ακόμα και σήμερα τα περισσότερα έσοδα της μητρικής της, της Alphabet, έρχονται από τις διαφημίσεις στην αναζήτηση της Google, το αρχικό ένα πράγμα."
+      },
+      "apply": {
+        "en": "Name your one core product: the 0€ website with yearly hosting. Before adding eshops, SEO packages or apps, ask if they make that one offer stronger. Do the same with people: name the one teammate or partner whose growth would help you most, and invest in them first.",
+        "el": "Ονόμασε το ένα βασικό σου προϊόν: την ιστοσελίδα με 0€ κατασκευή και ετήσια φιλοξενία. Πριν προσθέσεις eshop, πακέτα SEO ή εφαρμογές, ρώτα αν κάνουν πιο δυνατή αυτή τη μία προσφορά. Το ίδιο με τους ανθρώπους: ονόμασε τον έναν συνεργάτη που, αν εξελιχθεί, θα σε βοηθήσει περισσότερο, και επένδυσε πρώτα σε αυτόν."
+      },
+      "check": {
+        "q": {"en": "What do extraordinary results usually have behind them?", "el": "Τι κρύβεται συνήθως πίσω από τα εξαιρετικά αποτελέσματα;"},
+        "options": [
+          {"en": "A long list of different products", "el": "Μια μεγάλη λίστα διαφορετικών προϊόντων"},
+          {"en": "Pure luck and good timing", "el": "Καθαρή τύχη και καλή χρονική στιγμή"},
+          {"en": "A narrow focus on one main thing", "el": "Στενή εστίαση σε ένα βασικό πράγμα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Look closely and one product, person or passion usually stands at the centre.", "el": "Αν κοιτάξεις προσεκτικά, στο κέντρο συνήθως στέκεται ένα προϊόν, ένας άνθρωπος ή ένα πάθος."}
+      }
+    },
+    {
+      "title": {"en": "Lie 1: everything matters equally", "el": "Ψέμα 1: όλα μετράνε το ίδιο"},
+      "explain": {
+        "en": "A to-do list treats every task as equal, so we start with the easy ones. Keller wants a success list instead: a short list ordered by impact. Use the 80/20 rule and then keep going: of the 20% that matters, find the 20% of that, again and again, until one task is left. Achievers always work from a clear sense of priority. Doing the most things is not the goal.",
+        "el": "Η λίστα «προς τα πρακτέα» βλέπει όλες τις δουλειές ίσες, οπότε ξεκινάμε από τις εύκολες. Ο Keller θέλει αντί γι' αυτήν μια «λίστα επιτυχίας»: σύντομη και ταξινομημένη με βάση τον αντίκτυπο. Εφάρμοσε τον κανόνα 80/20 και μη σταματάς: από το 20% που μετράει, βρες το 20% αυτού, ξανά και ξανά, μέχρι να μείνει μία δουλειά. Όσοι πετυχαίνουν δουλεύουν πάντα με καθαρή αίσθηση προτεραιότητας. Ο στόχος δεν είναι να κάνεις τα περισσότερα."
+      },
+      "example": {
+        "en": "In 2002 Microsoft studied the error reports sent in by users. It found that fixing the top 20% of the most reported bugs would remove about 80% of the errors and crashes people saw. A small slice of the work carried most of the result.",
+        "el": "Το 2002 η Microsoft μελέτησε τις αναφορές σφαλμάτων που έστελναν οι χρήστες. Βρήκε ότι αν διόρθωνε το 20% των bugs που αναφέρονταν πιο συχνά, θα εξαφανιζόταν περίπου το 80% των σφαλμάτων και των κολλημάτων που έβλεπε ο κόσμος. Ένα μικρό κομμάτι της δουλειάς κουβαλούσε το μεγαλύτερο μέρος του αποτελέσματος."
+      },
+      "apply": {
+        "en": "Write every task for next week. Cross out the bottom 80%. From what is left, circle the 20% again. Keep going until one task remains, for example «book five meetings with dentists». That task goes first every morning. Everything else waits or goes to someone else.",
+        "el": "Γράψε όλες τις δουλειές της επόμενης εβδομάδας. Σβήσε το κάτω 80%. Από όσα μένουν, κύκλωσε ξανά το 20%. Συνέχισε μέχρι να μείνει μία δουλειά, για παράδειγμα «κλείνω πέντε ραντεβού με οδοντιάτρους». Αυτή μπαίνει πρώτη κάθε πρωί. Όλα τα άλλα περιμένουν ή πάνε σε κάποιον άλλον."
+      },
+      "check": {
+        "q": {"en": "What is the difference between a to-do list and a success list?", "el": "Ποια η διαφορά μιας λίστας «προς τα πρακτέα» από μια λίστα επιτυχίας;"},
+        "options": [
+          {"en": "A success list is short and ordered by impact", "el": "Η λίστα επιτυχίας είναι σύντομη και ταξινομημένη με βάση τον αντίκτυπο"},
+          {"en": "A success list includes every possible task", "el": "Η λίστα επιτυχίας περιέχει κάθε πιθανή δουλειά"},
+          {"en": "A success list is written once a year", "el": "Η λίστα επιτυχίας γράφεται μία φορά τον χρόνο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Not all tasks are equal. The success list puts the high-impact one on top.", "el": "Δεν είναι όλες οι δουλειές ίσες. Η λίστα επιτυχίας βάζει πάνω πάνω αυτή με τον μεγαλύτερο αντίκτυπο."}
+      }
+    },
+    {
+      "title": {"en": "Lie 2: multitasking works", "el": "Ψέμα 2: το multitasking δουλεύει"},
+      "explain": {
+        "en": "You can walk and talk at the same time, but you cannot focus on two things at once. What feels like multitasking is fast switching, and every switch costs time and makes mistakes more likely. Keller quotes research showing that switching can eat a large part of your productive time. Doing two things at once means doing both of them worse, and taking longer.",
+        "el": "Μπορείς να περπατάς και να μιλάς ταυτόχρονα, αλλά δεν μπορείς να συγκεντρωθείς σε δύο πράγματα μαζί. Αυτό που μοιάζει με multitasking είναι γρήγορο πήγαινε-έλα, και κάθε αλλαγή κοστίζει χρόνο και φέρνει περισσότερα λάθη. Ο Keller αναφέρει έρευνες που δείχνουν ότι αυτές οι αλλαγές μπορούν να φάνε μεγάλο μέρος του παραγωγικού σου χρόνου. Όταν κάνεις δύο πράγματα μαζί, κάνεις και τα δύο χειρότερα και πιο αργά."
+      },
+      "example": {
+        "en": "In 2006 psychologist David Strayer at the University of Utah tested drivers in a simulator. Drivers talking on a mobile phone, even hands-free, were as impaired as drivers who were legally drunk. Their eyes were on the road, but their attention was in the call.",
+        "el": "Το 2006 ο ψυχολόγος David Strayer στο Πανεπιστήμιο της Γιούτα δοκίμασε οδηγούς σε προσομοιωτή. Όσοι μιλούσαν στο κινητό, ακόμα και με ανοιχτή ακρόαση, οδηγούσαν τόσο άσχημα όσο κάποιος που είναι μεθυσμένος πάνω από το νόμιμο όριο. Τα μάτια τους ήταν στον δρόμο, η προσοχή τους στο τηλεφώνημα."
+      },
+      "apply": {
+        "en": "Close the client chat and email completely during video meetings with clients. During call blocks, do not fix sites between calls. Keep one tab per task. If a new thought comes, write it on paper and go back. Judge yourself by finished tasks, not by how many were open.",
+        "el": "Κλείσε εντελώς το chat και το email στις βιντεοκλήσεις με πελάτες. Στα μπλοκ τηλεφώνων, μη διορθώνεις ιστοσελίδες ανάμεσα στις κλήσεις. Κράτα μία καρτέλα ανά δουλειά. Αν σου έρθει μια νέα σκέψη, γράψ' τη σε χαρτί και γύρνα πίσω. Κρίνε τον εαυτό σου από όσα τελείωσες, όχι από όσα είχες ανοιχτά."
+      },
+      "check": {
+        "q": {"en": "What really happens when you «multitask»?", "el": "Τι γίνεται στην πραγματικότητα όταν κάνεις «multitasking»;"},
+        "options": [
+          {"en": "Your brain splits attention evenly with no cost", "el": "Ο εγκέφαλος μοιράζει την προσοχή ισομερώς, χωρίς κόστος"},
+          {"en": "You get both tasks done faster", "el": "Τελειώνεις και τις δύο δουλειές πιο γρήγορα"},
+          {"en": "You switch fast between tasks and lose time", "el": "Πηγαίνεις γρήγορα από τη μία στην άλλη και χάνεις χρόνο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Attention cannot be in two places. Each switch has a cost.", "el": "Η προσοχή δεν μπορεί να είναι σε δύο μέρη. Κάθε αλλαγή έχει κόστος."}
+      }
+    },
+    {
+      "title": {"en": "Lie 3: you need a disciplined life", "el": "Ψέμα 3: χρειάζεσαι πειθαρχημένη ζωή"},
+      "explain": {
+        "en": "Successful people are not disciplined in everything. They use selected discipline: they focus on building one key habit at a time, with discipline only until it becomes automatic. After that, the habit carries them with little effort, and they move to the next one. Keller points to research where new habits took on average about 66 days to form. So you do not need superhuman discipline, just enough for one habit at a time.",
+        "el": "Οι επιτυχημένοι δεν είναι πειθαρχημένοι σε όλα. Χρησιμοποιούν «επιλεκτική πειθαρχία»: χτίζουν μία βασική συνήθεια τη φορά, με πειθαρχία μόνο μέχρι να γίνει αυτόματη. Μετά η συνήθεια τους κουβαλά χωρίς πολύ κόπο, και περνούν στην επόμενη. Ο Keller αναφέρει έρευνα όπου οι νέες συνήθειες χρειάστηκαν κατά μέσο όρο περίπου 66 μέρες για να εδραιωθούν. Άρα δεν θέλεις υπεράνθρωπη πειθαρχία, μόνο αρκετή για μία συνήθεια τη φορά."
+      },
+      "example": {
+        "en": "Benjamin Franklin chose 13 virtues he wanted to build, such as order and frugality. Instead of working on all of them at once, he gave each one a full week of attention and marked his slips in a small notebook. Then he moved to the next virtue and started the cycle again.",
+        "el": "Ο Benjamin Franklin διάλεξε 13 αρετές που ήθελε να καλλιεργήσει, όπως η τάξη και η λιτότητα. Αντί να δουλεύει όλες μαζί, έδινε σε καθεμιά μια ολόκληρη εβδομάδα προσοχής και σημείωνε τα παραπατήματά του σε ένα μικρό τετράδιο. Μετά περνούσε στην επόμενη αρετή και ξεκινούσε πάλι τον κύκλο."
+      },
+      "apply": {
+        "en": "Pick one habit for the next 66 days, for example «the first two hours of every workday go to sales calls». Put all your discipline into that one habit and track it on a calendar. Leave the diet, the new app and the morning routine for later rounds.",
+        "el": "Διάλεξε μία συνήθεια για τις επόμενες 66 μέρες, για παράδειγμα «οι δύο πρώτες ώρες κάθε εργάσιμης πάνε στα τηλέφωνα πωλήσεων». Βάλε όλη σου την πειθαρχία σε αυτή τη μία συνήθεια και σημείωνέ τη σε ένα ημερολόγιο. Άφησε τη δίαιτα, τη νέα εφαρμογή και την πρωινή ρουτίνα για επόμενους γύρους."
+      },
+      "check": {
+        "q": {"en": "What is «selected discipline»?", "el": "Τι είναι η «επιλεκτική πειθαρχία»;"},
+        "options": [
+          {"en": "Being strict about everything all the time", "el": "Να είσαι αυστηρός σε όλα, όλη την ώρα"},
+          {"en": "Using discipline to build one habit at a time", "el": "Να χρησιμοποιείς την πειθαρχία για να χτίζεις μία συνήθεια τη φορά"},
+          {"en": "Choosing the days when you feel disciplined", "el": "Να διαλέγεις τις μέρες που νιώθεις πειθαρχημένος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Discipline is needed only until the habit runs by itself.", "el": "Η πειθαρχία χρειάζεται μόνο μέχρι η συνήθεια να τρέχει μόνη της."}
+      }
+    },
+    {
+      "title": {"en": "Lie 4: willpower is always there", "el": "Ψέμα 4: η θέληση είναι πάντα εκεί"},
+      "explain": {
+        "en": "Keller argues that willpower works like a phone battery: strong in the morning, weaker after each decision, temptation and effort. When it is low, we choose the easy option. So do not leave your most important work for the end of the day. Do it first, while your willpower is fresh, and do not waste that early energy on email or small decisions.",
+        "el": "Ο Keller υποστηρίζει ότι η θέληση λειτουργεί σαν μπαταρία κινητού: δυνατή το πρωί, πιο αδύναμη μετά από κάθε απόφαση, πειρασμό και προσπάθεια. Όταν πέφτει, διαλέγουμε το εύκολο. Άρα μην αφήνεις την πιο σημαντική δουλειά για το τέλος της μέρας. Κάν' τη πρώτη, όσο η θέλησή σου είναι φρέσκια, και μη σπαταλάς αυτή την πρωινή ενέργεια σε email και μικροαποφάσεις."
+      },
+      "example": {
+        "en": "In a 1999 study, Baba Shiv, later a Stanford professor, asked students to remember either a two-digit or a seven-digit number, then offered them chocolate cake or fruit salad. Those holding the long number in their head were far more likely to choose the cake. A busy mind gave in more easily.",
+        "el": "Σε μια μελέτη του 1999, ο Baba Shiv, μετέπειτα καθηγητής στο Stanford, ζήτησε από φοιτητές να θυμούνται είτε έναν διψήφιο είτε έναν επταψήφιο αριθμό και μετά τους πρόσφερε σοκολατόπιτα ή φρουτοσαλάτα. Όσοι κρατούσαν τον μεγάλο αριθμό στο μυαλό τους διάλεξαν την πίτα πολύ συχνότερα. Ένα φορτωμένο μυαλό ενέδιδε πιο εύκολα."
+      },
+      "apply": {
+        "en": "Start each workday with your ONE thing before you open the client chat or email. If it is cold calling, call from 9:30 to 11:30, not at 17:00 when you are drained. Decide the night before what you will wear, eat and do first, so the morning stays free for the hard part.",
+        "el": "Ξεκίνα κάθε εργάσιμη με το ΕΝΑ σου πράγμα πριν ανοίξεις το chat των πελατών ή το email. Αν είναι τα cold calls, κάνε τα 9:30 με 11:30, όχι στις 17:00 που είσαι στραγγισμένος. Αποφάσισε από το προηγούμενο βράδυ τι θα φορέσεις, τι θα φας και με τι θα ξεκινήσεις, ώστε το πρωί να μείνει ελεύθερο για το δύσκολο."
+      },
+      "check": {
+        "q": {"en": "When should you do your most important task, according to Keller?", "el": "Πότε πρέπει να κάνεις την πιο σημαντική δουλειά, κατά τον Keller;"},
+        "options": [
+          {"en": "Early, before willpower is used up", "el": "Νωρίς, πριν εξαντληθεί η θέληση"},
+          {"en": "At night, when nobody disturbs you", "el": "Βράδυ, όταν δεν σε ενοχλεί κανείς"},
+          {"en": "Whenever you feel inspired", "el": "Όποτε έχεις έμπνευση"}
+        ],
+        "answer": 0,
+        "why": {"en": "Willpower runs down during the day, so the key work goes first.", "el": "Η θέληση πέφτει μέσα στη μέρα, οπότε η βασική δουλειά μπαίνει πρώτη."}
+      }
+    },
+    {
+      "title": {"en": "Lie 5: a balanced life", "el": "Ψέμα 5: η ισορροπημένη ζωή"},
+      "explain": {
+        "en": "Perfect balance, giving equal time to everything, means nothing gets enough to become extraordinary. Keller suggests counterbalancing instead. At work, go long: spend unbalanced time on your one thing for a period, then come back. In your personal life, go short: never leave health, family or friends alone for too long. The key is knowing which areas can wait and which cannot.",
+        "el": "Η τέλεια ισορροπία, ίσος χρόνος σε όλα, σημαίνει ότι τίποτα δεν παίρνει αρκετό για να γίνει εξαιρετικό. Ο Keller προτείνει αντίβαρο αντί για ισορροπία. Στη δουλειά, πήγαινε μακριά: δώσε για ένα διάστημα δυσανάλογο χρόνο στο ένα σου πράγμα και μετά γύρνα πίσω. Στην προσωπική ζωή, κράτα τα διαστήματα μικρά: μην αφήνεις για πολύ την υγεία, την οικογένεια ή τους φίλους. Το κλειδί είναι να ξέρεις τι μπορεί να περιμένει και τι όχι."
+      },
+      "example": {
+        "en": "Top endurance athletes do not train at the same medium level every day. They plan cycles: weeks of very hard training before a big race, then easier recovery weeks and a full break after it. Coaches call this periodisation. The extremes are planned, and so is the return.",
+        "el": "Οι κορυφαίοι αθλητές αντοχής δεν προπονούνται στο ίδιο μέτριο επίπεδο κάθε μέρα. Σχεδιάζουν κύκλους: εβδομάδες πολύ σκληρής προπόνησης πριν από έναν μεγάλο αγώνα, μετά πιο ελαφριές εβδομάδες αποκατάστασης και ένα πλήρες διάλειμμα μετά τον αγώνα. Οι προπονητές το λένε περιοδισμό. Τα άκρα είναι προγραμματισμένα, το ίδιο και η επιστροφή."
+      },
+      "apply": {
+        "en": "Allow yourself a hard two-week sprint when you launch a new ad campaign or service, and tell the people close to you. Put the end date in the calendar. During the sprint keep two short anchors: one meal a day with family or friends and three short workouts a week.",
+        "el": "Επίτρεψε στον εαυτό σου ένα δυνατό σπριντ δύο εβδομάδων όταν ξεκινάς μια νέα καμπάνια ή υπηρεσία, και ενημέρωσε τους δικούς σου ανθρώπους. Βάλε την ημερομηνία λήξης στο ημερολόγιο. Μέσα στο σπριντ κράτα δύο μικρές άγκυρες: ένα γεύμα τη μέρα με οικογένεια ή φίλους και τρεις σύντομες προπονήσεις την εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What does Keller suggest instead of perfect balance?", "el": "Τι προτείνει ο Keller αντί για τέλεια ισορροπία;"},
+        "options": [
+          {"en": "Counterbalancing: go long on work, never too long away from personal life", "el": "Αντίβαρο: μακριά στη δουλειά, ποτέ για πολύ μακριά από την προσωπική ζωή"},
+          {"en": "Working without breaks until you succeed", "el": "Δουλειά χωρίς διάλειμμα μέχρι να πετύχεις"},
+          {"en": "Spending exactly equal time on each area", "el": "Ακριβώς ίσο χρόνο σε κάθε τομέα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Extraordinary work needs imbalance, but some areas must never be left too long.", "el": "Η εξαιρετική δουλειά θέλει ανισορροπία, αλλά κάποιοι τομείς δεν πρέπει να μένουν για πολύ στην άκρη."}
+      }
+    },
+    {
+      "title": {"en": "Lie 6: big is bad", "el": "Ψέμα 6: το μεγάλο είναι κακό"},
+      "explain": {
+        "en": "Many people fear big goals because they sound stressful or risky. Keller says thinking small puts a ceiling on your life. Big thinking makes you ask different questions, look for new methods and find better people. Your actions follow your thinking, so if you aim low you will build only a small plan. Ask «what is the biggest result I could get?» and then look for the path. Do not let fear of failure choose the size of your goal.",
+        "el": "Πολλοί φοβούνται τους μεγάλους στόχους, γιατί ακούγονται αγχωτικοί ή ριψοκίνδυνοι. Ο Keller λέει ότι η μικρή σκέψη βάζει ταβάνι στη ζωή σου. Η μεγάλη σκέψη σε κάνει να ρωτάς διαφορετικά, να ψάχνεις νέους τρόπους και να βρίσκεις καλύτερους ανθρώπους. Οι πράξεις σου ακολουθούν τη σκέψη σου, άρα αν σημαδεύεις χαμηλά, θα φτιάξεις μόνο ένα μικρό σχέδιο. Ρώτα «ποιο είναι το μεγαλύτερο αποτέλεσμα που θα μπορούσα να έχω;» και μετά ψάξε τον δρόμο. Μην αφήνεις τον φόβο της αποτυχίας να διαλέγει το μέγεθος του στόχου σου."
+      },
+      "example": {
+        "en": "In a 2009 graduation speech at the University of Michigan, Google co-founder Larry Page said that as a student there he learned to have a healthy disregard for the impossible. Years later he set Google the goal to organise all the world's information, which most people called absurd.",
+        "el": "Σε μια ομιλία αποφοίτησης το 2009 στο Πανεπιστήμιο του Μίσιγκαν, ο συνιδρυτής της Google Larry Page είπε ότι ως φοιτητής εκεί έμαθε να έχει μια υγιή αδιαφορία για το αδύνατο. Χρόνια μετά έβαλε στη Google τον στόχο να οργανώσει όλη την πληροφορία του κόσμου, κάτι που οι περισσότεροι έλεγαν παράλογο."
+      },
+      "apply": {
+        "en": "Write two goals for next year: the «safe» one, maybe 80 new clients, and the big one, maybe 300. For the big one, write what would have to be true: a partner channel with accountants, a trained caller, an ad that works. Plan from the big one.",
+        "el": "Γράψε δύο στόχους για την επόμενη χρονιά: τον «ασφαλή», ίσως 80 νέους πελάτες, και τον μεγάλο, ίσως 300. Για τον μεγάλο, γράψε τι θα πρέπει να ισχύει: συνεργασία με λογιστές που σου στέλνουν πελάτες, ένας εκπαιδευμένος συνεργάτης για τα τηλέφωνα, μια διαφήμιση που δουλεύει. Σχεδίασε με βάση τον μεγάλο."
+      },
+      "check": {
+        "q": {"en": "Why does Keller warn against thinking small?", "el": "Γιατί ο Keller προειδοποιεί για τη μικρή σκέψη;"},
+        "options": [
+          {"en": "Small goals are always reached too fast", "el": "Οι μικροί στόχοι πετυχαίνονται πάντα πολύ γρήγορα"},
+          {"en": "Small thinking limits the actions and plans you make", "el": "Η μικρή σκέψη περιορίζει τις πράξεις και τα σχέδιά σου"},
+          {"en": "Big goals guarantee big success", "el": "Οι μεγάλοι στόχοι εγγυώνται μεγάλη επιτυχία"}
+        ],
+        "answer": 1,
+        "why": {"en": "How big you think sets how far you look for answers.", "el": "Το πόσο μεγάλα σκέφτεσαι ορίζει πόσο μακριά ψάχνεις για απαντήσεις."}
+      }
+    },
+    {
+      "title": {"en": "The focusing question", "el": "Η ερώτηση της εστίασης"},
+      "explain": {
+        "en": "The heart of the book is one question: what is the ONE thing I can do such that by doing it everything else will be easier or unnecessary? Use it two ways. Big picture: what is my one thing in life, in my business, this year? Small focus: what is my one thing right now? Keller asks you to make this a daily habit, the first question of every morning.",
+        "el": "Η καρδιά του βιβλίου είναι μία ερώτηση: ποιο είναι το ΕΝΑ πράγμα που μπορώ να κάνω ώστε, αν το κάνω, όλα τα άλλα να γίνουν πιο εύκολα ή περιττά; Χρησιμοποίησέ τη με δύο τρόπους. Μεγάλη εικόνα: ποιο είναι το ένα μου πράγμα στη ζωή, στην επιχείρηση, φέτος; Μικρή εστίαση: ποιο είναι το ένα μου πράγμα αυτή τη στιγμή; Ο Keller σου ζητά να το κάνεις καθημερινή συνήθεια, την πρώτη ερώτηση κάθε πρωινού."
+      },
+      "example": {
+        "en": "In 1985 Intel was losing badly in memory chips, the product it was founded on. Andy Grove asked Gordon Moore: if a new boss replaced us, what would he do? Moore answered: get out of memories. They did, focused on microprocessors, and Intel became the world's largest chipmaker.",
+        "el": "Το 1985 η Intel έχανε άσχημα στα τσιπ μνήμης, το προϊόν πάνω στο οποίο είχε ιδρυθεί. Ο Andy Grove ρώτησε τον Gordon Moore: αν μας αντικαθιστούσε ένα νέο αφεντικό, τι θα έκανε; Ο Moore απάντησε: θα έβγαινε από τις μνήμες. Το έκαναν, εστίασαν στους μικροεπεξεργαστές και η Intel έγινε ο μεγαλύτερος κατασκευαστής τσιπ στον κόσμο."
+      },
+      "apply": {
+        "en": "Write the question on a card next to your screen. Ask it every morning for your agency: today, is it calls, closing yesterday's warm leads, or finishing the offer page? Ask it also about your team: what one thing can I teach so I stop answering the same questions?",
+        "el": "Γράψε την ερώτηση σε μια κάρτα δίπλα στην οθόνη. Κάν' την κάθε πρωί για το γραφείο: σήμερα είναι τα τηλέφωνα, το κλείσιμο των χθεσινών ζεστών επαφών ή το τελείωμα της σελίδας προσφοράς; Κάν' την και για την ομάδα: ποιο ένα πράγμα μπορώ να διδάξω ώστε να σταματήσω να απαντώ στις ίδιες ερωτήσεις;"
+      },
+      "check": {
+        "q": {"en": "What makes a task your ONE thing?", "el": "Τι κάνει μια δουλειά το ΕΝΑ σου πράγμα;"},
+        "options": [
+          {"en": "It is the most urgent request today", "el": "Είναι το πιο επείγον αίτημα της ημέρας"},
+          {"en": "It makes the other tasks easier or unnecessary", "el": "Κάνει τις άλλες δουλειές πιο εύκολες ή περιττές"},
+          {"en": "It is the quickest to finish", "el": "Τελειώνει πιο γρήγορα από τις άλλες"}
+        ],
+        "answer": 1,
+        "why": {"en": "That is the test in the question: by doing it, the rest gets easier or disappears.", "el": "Αυτό είναι το κριτήριο της ερώτησης: αν το κάνεις, τα υπόλοιπα γίνονται πιο εύκολα ή εξαφανίζονται."}
+      }
+    },
+    {
+      "title": {"en": "Big and specific answers", "el": "Απαντήσεις μεγάλες και συγκεκριμένες"},
+      "explain": {
+        "en": "A good question needs a great answer. Keller sorts goals into four types: small and broad, small and specific, big and broad, big and specific. Aim for big and specific. «Grow the agency» is vague. «500 active clients in two years» is clear. To find the answer, first study what the best already know and do, then push beyond that line. A great answer usually goes past what has been done.",
+        "el": "Μια καλή ερώτηση θέλει σπουδαία απάντηση. Ο Keller χωρίζει τους στόχους σε τέσσερα είδη: μικρούς και γενικούς, μικρούς και συγκεκριμένους, μεγάλους και γενικούς, μεγάλους και συγκεκριμένους. Σημάδευε το μεγάλο και συγκεκριμένο. Το «να μεγαλώσει το γραφείο» είναι αόριστο. Το «500 ενεργοί πελάτες σε δύο χρόνια» είναι ξεκάθαρο. Για να βρεις την απάντηση, μελέτησε πρώτα τι ξέρουν και τι κάνουν οι καλύτεροι και μετά πέρνα πιο πέρα από αυτό. Μια σπουδαία απάντηση συνήθως ξεπερνά ό,τι έχει ήδη γίνει."
+      },
+      "example": {
+        "en": "Henry Ford wanted to build a car for the great multitude: simple, strong and cheap enough for ordinary families. That goal was both huge and clear. His Model T came out in 1908, and with the moving assembly line he pushed its price down by more than half over the next years.",
+        "el": "Ο Henry Ford ήθελε να φτιάξει ένα αυτοκίνητο για τους πολλούς: απλό, γερό και αρκετά φθηνό για τις συνηθισμένες οικογένειες. Ο στόχος ήταν και τεράστιος και ξεκάθαρος. Το Model T βγήκε το 1908 και με την κινούμενη γραμμή παραγωγής κατέβασε την τιμή του πάνω από το μισό τα επόμενα χρόνια."
+      },
+      "apply": {
+        "en": "Rewrite your yearly goal as big and specific: a number, a date, a niche. Then benchmark: find the biggest web agencies for professionals in Greece and abroad, learn how they get clients, and write one way you can go further, for example a niche nobody serves well.",
+        "el": "Ξαναγράψε τον στόχο της χρονιάς ώστε να είναι μεγάλος και συγκεκριμένος: ένας αριθμός, μια ημερομηνία, μια κατηγορία πελατών. Μετά κάνε σύγκριση: βρες τα μεγαλύτερα γραφεία ιστοσελίδων για επαγγελματίες στην Ελλάδα και στο εξωτερικό, μάθε πώς βρίσκουν πελάτες και γράψε έναν τρόπο να πας πιο μακριά, για παράδειγμα μια κατηγορία που δεν την εξυπηρετεί κανείς καλά."
+      },
+      "check": {
+        "q": {"en": "Which goal type does Keller recommend?", "el": "Ποιο είδος στόχου προτείνει ο Keller;"},
+        "options": [
+          {"en": "Small and specific, so it feels safe", "el": "Μικρό και συγκεκριμένο, για να νιώθεις ασφάλεια"},
+          {"en": "Big and broad, to keep options open", "el": "Μεγάλο και γενικό, για να μένουν ανοιχτές επιλογές"},
+          {"en": "Big and specific", "el": "Μεγάλο και συγκεκριμένο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Big pushes you to grow; specific tells you exactly what to do.", "el": "Το μεγάλο σε σπρώχνει να εξελιχθείς. Το συγκεκριμένο σου λέει ακριβώς τι να κάνεις."}
+      }
+    },
+    {
+      "title": {"en": "Goal setting to the now", "el": "Από τον στόχο στο τώρα"},
+      "explain": {
+        "en": "Keller links the far future to this minute with a chain of questions. Based on my someday goal, what is my one thing for the next five years? Based on that, for this year? Then this month, this week, today, and finally right now. Each step nests inside the one above, like Russian dolls. In the end you know exactly why the task in front of you matters.",
+        "el": "Ο Keller δένει το μακρινό μέλλον με αυτό το λεπτό μέσα από μια αλυσίδα ερωτήσεων. Με βάση τον στόχο της ζωής μου, ποιο είναι το ένα μου πράγμα για την επόμενη πενταετία; Με βάση αυτό, για φέτος; Μετά για αυτόν τον μήνα, αυτή την εβδομάδα, σήμερα και τέλος αυτή τη στιγμή. Κάθε βήμα χωράει μέσα στο προηγούμενο, σαν ρωσικές κούκλες. Στο τέλος ξέρεις ακριβώς γιατί μετράει η δουλειά που έχεις μπροστά σου."
+      },
+      "example": {
+        "en": "At 19, while studying in California, Masayoshi Son wrote a 50-year life plan: make his name in his twenties, raise money in his thirties, make a big bet in his forties, complete his business in his fifties and hand it over in his sixties. He founded SoftBank at 24.",
+        "el": "Στα 19, ενώ σπούδαζε στην Καλιφόρνια, ο Masayoshi Son έγραψε ένα σχέδιο ζωής 50 ετών: να κάνει όνομα στα είκοσι, να μαζέψει κεφάλαια στα τριάντα, να κάνει ένα μεγάλο στοίχημα στα σαράντα, να ολοκληρώσει την επιχείρησή του στα πενήντα και να την παραδώσει στα εξήντα. Ίδρυσε τη SoftBank στα 24."
+      },
+      "apply": {
+        "en": "Fill one page with the chain: someday (an agency that runs without you), five years (1,000 clients and a team of ten), this year (one trained salesperson), this month (write the sales playbook), this week (record your best call openings), today (write the first page), now (open the document).",
+        "el": "Γέμισε μία σελίδα με την αλυσίδα: κάποτε (ένα γραφείο που τρέχει χωρίς εσένα), πέντε χρόνια (1.000 πελάτες και ομάδα δέκα ατόμων), φέτος (ένας εκπαιδευμένος πωλητής), αυτόν τον μήνα (γράψε το εγχειρίδιο πωλήσεων), αυτή την εβδομάδα (ηχογράφησε τα καλύτερα ανοίγματα των τηλεφώνων σου), σήμερα (γράψε την πρώτη σελίδα), τώρα (άνοιξε το αρχείο)."
+      },
+      "check": {
+        "q": {"en": "What does «goal setting to the now» connect?", "el": "Τι συνδέει το «από τον στόχο στο τώρα»;"},
+        "options": [
+          {"en": "Your life goal with what you do this minute", "el": "Τον στόχο της ζωής σου με αυτό που κάνεις αυτό το λεπτό"},
+          {"en": "Your goals with your competitors' goals", "el": "Τους στόχους σου με τους στόχους των ανταγωνιστών"},
+          {"en": "Your yearly budget with your monthly costs", "el": "Τον ετήσιο προϋπολογισμό με τα μηνιαία έξοδα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Each level nests in the one above, down to the task right now.", "el": "Κάθε επίπεδο χωράει στο από πάνω του, μέχρι τη δουλειά αυτής της στιγμής."}
+      }
+    },
+    {
+      "title": {"en": "Purpose sets your priority", "el": "Ο σκοπός ορίζει την προτεραιότητα"},
+      "explain": {
+        "en": "Keller's chain is: purpose, then priority, then productivity. Your purpose is where you are going and why. It tells you what your priority should be, and your priority tells you what to do with your time. Keller notes that the word «priority» was long used only in the singular: the one thing that comes first. Many priorities means none. Without purpose, you just stay busy.",
+        "el": "Η αλυσίδα του Keller είναι: σκοπός, μετά προτεραιότητα, μετά παραγωγικότητα. Ο σκοπός σου είναι το πού πας και γιατί. Αυτός σου λέει ποια πρέπει να είναι η προτεραιότητά σου, και η προτεραιότητα σου λέει τι να κάνεις με τον χρόνο σου. Ο Keller σημειώνει ότι η λέξη «priority» για πολύ καιρό χρησιμοποιούνταν μόνο στον ενικό: το ένα πράγμα που μπαίνει πρώτο. Πολλές προτεραιότητες σημαίνει καμία. Χωρίς σκοπό, απλώς μένεις απασχολημένος."
+      },
+      "example": {
+        "en": "In 2022 Yvon Chouinard, founder of the outdoor clothing company Patagonia, gave away ownership of the company to a trust and a non-profit. All profits not put back into the business now go to fighting climate change. A clear purpose decided his biggest choice.",
+        "el": "Το 2022 ο Yvon Chouinard, ιδρυτής της εταιρείας ρούχων για τη φύση Patagonia, παραχώρησε την ιδιοκτησία της σε ένα ίδρυμα και σε έναν μη κερδοσκοπικό οργανισμό. Όλα τα κέρδη που δεν ξαναμπαίνουν στην επιχείρηση πηγαίνουν πλέον στη μάχη κατά της κλιματικής αλλαγής. Ένας καθαρός σκοπός έκρινε τη μεγαλύτερη απόφασή του."
+      },
+      "apply": {
+        "en": "Write your purpose in one sentence, such as «give every Greek professional a modern site without a big upfront cost, and build a company that runs without me». Read it before planning each week. If a task does not serve it, it is not your priority.",
+        "el": "Γράψε τον σκοπό σου σε μία πρόταση, για παράδειγμα «να έχει κάθε Έλληνας επαγγελματίας μοντέρνα ιστοσελίδα χωρίς μεγάλο αρχικό κόστος, και να χτίσω μια εταιρεία που τρέχει χωρίς εμένα». Διάβαζέ τον πριν σχεδιάσεις κάθε εβδομάδα. Αν μια δουλειά δεν τον υπηρετεί, δεν είναι προτεραιότητά σου."
+      },
+      "check": {
+        "q": {"en": "In Keller's chain, what comes first?", "el": "Στην αλυσίδα του Keller, τι έρχεται πρώτο;"},
+        "options": [
+          {"en": "Productivity", "el": "Η παραγωγικότητα"},
+          {"en": "Priority", "el": "Η προτεραιότητα"},
+          {"en": "Purpose", "el": "Ο σκοπός"}
+        ],
+        "answer": 2,
+        "why": {"en": "Purpose sets the priority, and priority sets how you use your time.", "el": "Ο σκοπός ορίζει την προτεραιότητα, και η προτεραιότητα το πώς χρησιμοποιείς τον χρόνο σου."}
+      }
+    },
+    {
+      "title": {"en": "Time block your ONE thing", "el": "Κλείδωσε χρόνο για το ΕΝΑ"},
+      "explain": {
+        "en": "Productive people do not hope to find time, they block it. Keller suggests blocking time in this order. First your time off, holidays included, because rest fuels the work. Then your one thing: ideally about four hours a day, preferably in the morning. Then a weekly hour to plan and review. Everything else fits around these blocks.",
+        "el": "Οι παραγωγικοί άνθρωποι δεν ελπίζουν ότι θα βρουν χρόνο, τον κλειδώνουν. Ο Keller προτείνει να κλειδώνεις χρόνο με αυτή τη σειρά. Πρώτα τις ώρες ξεκούρασης, μαζί με τις διακοπές, γιατί η ξεκούραση τροφοδοτεί τη δουλειά. Μετά το ένα σου πράγμα: ιδανικά περίπου τέσσερις ώρες την ημέρα, κατά προτίμηση το πρωί. Μετά μία ώρα την εβδομάδα για σχεδιασμό και ανασκόπηση. Όλα τα άλλα χωράνε γύρω από αυτά τα μπλοκ."
+      },
+      "example": {
+        "en": "In his book On Writing, Stephen King explains that he writes every morning and does not stop until he has about 2,000 words, nearly every day of the year. Afternoons are for other things. That fixed morning block has produced more than 60 books.",
+        "el": "Στο βιβλίο του «Για το γράψιμο», ο Stephen King εξηγεί ότι γράφει κάθε πρωί και δεν σταματά μέχρι να βγάλει περίπου 2.000 λέξεις, σχεδόν κάθε μέρα του χρόνου. Τα απογεύματα είναι για άλλα. Αυτό το σταθερό πρωινό μπλοκ έχει βγάλει πάνω από 60 βιβλία."
+      },
+      "apply": {
+        "en": "Open your calendar now. First block your days off and next holiday. Then block 9:00 to 13:00, Monday to Friday, as «ONE thing» (calls or sales meetings this quarter). Put client chat and changes in the afternoon. Book Friday 16:00 to 17:00 for planning the next week.",
+        "el": "Άνοιξε τώρα το ημερολόγιό σου. Πρώτα κλείδωσε τα ρεπό σου και τις επόμενες διακοπές. Μετά κλείδωσε 9:00 με 13:00, Δευτέρα ως Παρασκευή, ως «ΕΝΑ πράγμα» (τηλέφωνα ή ραντεβού πώλησης αυτό το τρίμηνο). Βάλε το chat με πελάτες και τις αλλαγές στο απόγευμα. Κλείσε την Παρασκευή 16:00 με 17:00 για τον σχεδιασμό της επόμενης εβδομάδας."
+      },
+      "check": {
+        "q": {"en": "What does Keller tell you to block first?", "el": "Τι λέει ο Keller να κλειδώνεις πρώτο;"},
+        "options": [
+          {"en": "Your time off", "el": "Τον χρόνο ξεκούρασης"},
+          {"en": "Your meetings with clients", "el": "Τα ραντεβού με πελάτες"},
+          {"en": "Your email time", "el": "Τον χρόνο για email"}
+        ],
+        "answer": 0,
+        "why": {"en": "Rest comes first because it keeps you able to do the one thing well.", "el": "Η ξεκούραση μπαίνει πρώτη γιατί σε κρατά ικανό να κάνεις καλά το ένα πράγμα."}
+      }
+    },
+    {
+      "title": {"en": "Guard the block", "el": "Φύλαξε το μπλοκ"},
+      "explain": {
+        "en": "A block only works if you defend it. Treat it like a meeting with your most important client: you would not cancel that for a random message. Build a bunker: a place where you cannot be found. Remove distractions, store snacks and materials beforehand, and tell the people around you when you are not available and when you will be. If someone needs you, they can wait a few hours.",
+        "el": "Ένα μπλοκ δουλεύει μόνο αν το υπερασπίζεσαι. Αντιμετώπισέ το σαν ραντεβού με τον πιο σημαντικό σου πελάτη: δεν θα το ακύρωνες για ένα τυχαίο μήνυμα. Φτιάξε ένα καταφύγιο: ένα μέρος όπου δεν σε βρίσκει κανείς. Βγάλε τους περισπασμούς, έχε από πριν σνακ και υλικά, και πες στους γύρω σου πότε δεν είσαι διαθέσιμος και πότε θα είσαι. Αν κάποιος σε χρειάζεται, μπορεί να περιμένει μερικές ώρες."
+      },
+      "example": {
+        "en": "Maya Angelou kept a small hotel room just for writing. She arrived early in the morning, asked the staff to take every picture off the walls, and brought only notepads, a dictionary and a few personal items. There she wrote until early afternoon, then went home.",
+        "el": "Η Maya Angelou κρατούσε ένα μικρό δωμάτιο ξενοδοχείου μόνο για να γράφει. Πήγαινε νωρίς το πρωί, ζητούσε από το προσωπικό να κατεβάσει κάθε πίνακα από τους τοίχους και έπαιρνε μαζί της μόνο μπλοκ σημειώσεων, ένα λεξικό και λίγα προσωπικά αντικείμενα. Εκεί έγραφε μέχρι νωρίς το απόγευμα και μετά γύριζε σπίτι."
+      },
+      "apply": {
+        "en": "Set an auto-reply in the client chat for your morning block: «Thank you for your message. I reply to all messages after 13:00.» Tell your team that before 13:00 only a site that is down counts as urgent. Put the phone on do-not-disturb with only that exception.",
+        "el": "Βάλε αυτόματη απάντηση στο chat των πελατών για το πρωινό σου μπλοκ: «Σας ευχαριστώ για το μήνυμα. Απαντώ σε όλα τα μηνύματα μετά τις 13:00». Πες στην ομάδα ότι πριν τις 13:00 επείγον είναι μόνο μια ιστοσελίδα που έπεσε. Βάλε το κινητό σε «μην ενοχλείτε» με μόνη αυτή την εξαίρεση."
+      },
+      "check": {
+        "q": {"en": "How should you treat your time block?", "el": "Πώς πρέπει να αντιμετωπίζεις το μπλοκ χρόνου σου;"},
+        "options": [
+          {"en": "As a flexible hope, moved when needed", "el": "Σαν ευχή που μετακινείται όποτε χρειαστεί"},
+          {"en": "As a meeting you would not cancel", "el": "Σαν ραντεβού που δεν θα ακύρωνες"},
+          {"en": "As free time for catching up on messages", "el": "Σαν ελεύθερο χρόνο για να προλάβεις τα μηνύματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "If the block is not defended, the urgent will always eat the important.", "el": "Αν δεν υπερασπίζεσαι το μπλοκ, το επείγον θα τρώει πάντα το σημαντικό."}
+      }
+    },
+    {
+      "title": {"en": "Commit to mastery", "el": "Δεσμεύσου στην αριστεία"},
+      "explain": {
+        "en": "Keller's first commitment is to follow the path of mastery. Mastery is not a finish line, it is a road you keep walking. Each level you reach shows you a new, higher level. It takes years of focused practice, and the hours you put in also build habits that make the next step easier. When you commit to being the best you can be at your one thing, time blocking becomes natural.",
+        "el": "Η πρώτη δέσμευση του Keller είναι να ακολουθείς τον δρόμο της αριστείας. Η αριστεία δεν είναι γραμμή τερματισμού, είναι δρόμος που συνεχίζεις να περπατάς. Κάθε επίπεδο που φτάνεις σου δείχνει ένα νέο, ψηλότερο. Θέλει χρόνια συγκεντρωμένης εξάσκησης, και οι ώρες που βάζεις χτίζουν επίσης συνήθειες που κάνουν το επόμενο βήμα πιο εύκολο. Όταν δεσμεύεσαι να γίνεις όσο καλύτερος μπορείς στο ένα σου πράγμα, το κλείδωμα του χρόνου γίνεται φυσικό."
+      },
+      "example": {
+        "en": "In 1993 psychologist Anders Ericsson studied violin students at a top music school in Berlin. The best ones had practised alone, with focus, far more than the good ones: on average around 10,000 hours by the age of 20. The difference was mainly in focused practice.",
+        "el": "Το 1993 ο ψυχολόγος Anders Ericsson μελέτησε σπουδαστές βιολιού σε κορυφαία μουσική σχολή του Βερολίνου. Οι καλύτεροι είχαν εξασκηθεί μόνοι, με συγκέντρωση, πολύ περισσότερο από τους απλώς καλούς: κατά μέσο όρο περίπου 10.000 ώρες ως τα 20 τους. Η διαφορά βρισκόταν κυρίως στη συγκεντρωμένη εξάσκηση."
+      },
+      "apply": {
+        "en": "Pick the one skill that matters most for the next year, probably selling on the phone and in video meetings. Practise it on purpose: one new technique per week, a short note after each call, and a monthly check of your booking rate. Treat it as a craft, not a chore.",
+        "el": "Διάλεξε τη μία δεξιότητα που μετράει περισσότερο για την επόμενη χρονιά, μάλλον την πώληση στο τηλέφωνο και στις βιντεοκλήσεις. Εξασκήσου με σκοπό: μία νέα τεχνική την εβδομάδα, μια σύντομη σημείωση μετά από κάθε τηλέφωνο και έναν μηνιαίο έλεγχο του ποσοστού ραντεβού. Δες τη σαν τέχνη, όχι σαν αγγαρεία."
+      },
+      "check": {
+        "q": {"en": "How does Keller describe mastery?", "el": "Πώς περιγράφει ο Keller την αριστεία;"},
+        "options": [
+          {"en": "A diploma you get after enough training", "el": "Ένα δίπλωμα που παίρνεις μετά από αρκετή εκπαίδευση"},
+          {"en": "A gift some people are born with", "el": "Ένα χάρισμα που κάποιοι έχουν από γεννησιμιού τους"},
+          {"en": "A path you keep walking, with no final end", "el": "Ένας δρόμος που συνεχίζεις, χωρίς τέλος"}
+        ],
+        "answer": 2,
+        "why": {"en": "Each level reveals a higher one, so mastery is a journey, not a finish.", "el": "Κάθε επίπεδο αποκαλύπτει ένα ψηλότερο, άρα η αριστεία είναι ταξίδι, όχι τερματισμός."}
+      }
+    },
+    {
+      "title": {"en": "From E to P", "el": "Από το Ε στο Σ"},
+      "explain": {
+        "en": "The second commitment: move from entrepreneurial to purposeful. The entrepreneurial way is to use your natural talent and energy until you hit a ceiling. Most people stop there and accept it. The purposeful way is to ask what the best way is, find new models and teachers, and change how you work, even if results dip for a while. Keller calls this moving from the E curve to the P curve.",
+        "el": "Η δεύτερη δέσμευση: πέρνα από το «επιχειρηματικό» στο «σκόπιμο». Ο επιχειρηματικός τρόπος είναι να δουλεύεις με το φυσικό σου ταλέντο και την ενέργειά σου μέχρι να χτυπήσεις ταβάνι. Οι περισσότεροι σταματούν εκεί και το δέχονται. Ο σκόπιμος τρόπος είναι να ρωτάς ποιος είναι ο καλύτερος τρόπος, να βρίσκεις νέα μοντέλα και δασκάλους και να αλλάζεις τον τρόπο που δουλεύεις, ακόμα κι αν τα αποτελέσματα πέσουν για λίγο. Ο Keller το λέει πέρασμα από την καμπύλη Ε στην καμπύλη Σ."
+      },
+      "example": {
+        "en": "Tiger Woods won the 1997 Masters by a record 12 strokes. Instead of keeping what worked, he rebuilt his swing with coach Butch Harmon. His results dropped for a while. Then he won four major titles in a row in 2000 and 2001, a run no other golfer has matched in the modern era.",
+        "el": "Ο Tiger Woods κέρδισε το Masters του 1997 με ρεκόρ 12 χτυπημάτων διαφορά. Αντί να κρατήσει ό,τι δούλευε, ξανάχτισε το σουίνγκ του με τον προπονητή Butch Harmon. Τα αποτελέσματά του έπεσαν για λίγο. Μετά κέρδισε τέσσερα συνεχόμενα μεγάλα τουρνουά το 2000 και το 2001, κάτι που κανένας άλλος γκόλφερ δεν έχει κάνει στη σύγχρονη εποχή."
+      },
+      "apply": {
+        "en": "Find your ceiling. If it is «I can only sell when I make the calls myself», stop pushing harder. Write down how you sell, test a script with a new caller for a month, and accept that sales may dip while the system learns. That is the P curve.",
+        "el": "Βρες το ταβάνι σου. Αν είναι «πουλάω μόνο όταν κάνω εγώ τα τηλέφωνα», σταμάτα να σπρώχνεις πιο δυνατά. Γράψε πώς πουλάς, δοκίμασε ένα σενάριο με έναν νέο συνεργάτη για έναν μήνα και αποδέξου ότι οι πωλήσεις μπορεί να πέσουν όσο μαθαίνει το σύστημα. Αυτή είναι η καμπύλη Σ."
+      },
+      "check": {
+        "q": {"en": "What do you do when you hit a ceiling on the purposeful path?", "el": "Τι κάνεις στον σκόπιμο δρόμο όταν χτυπήσεις ταβάνι;"},
+        "options": [
+          {"en": "Look for a better method, even if results dip first", "el": "Ψάχνεις καλύτερη μέθοδο, ακόμα κι αν τα αποτελέσματα πέσουν πρώτα"},
+          {"en": "Work longer hours with the same method", "el": "Δουλεύεις περισσότερες ώρες με την ίδια μέθοδο"},
+          {"en": "Accept the ceiling as your natural limit", "el": "Δέχεσαι το ταβάνι ως φυσικό σου όριο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Breaking a ceiling needs a new approach, not more of the old one.", "el": "Για να σπάσεις ταβάνι θέλεις νέα προσέγγιση, όχι περισσότερο από την παλιά."}
+      }
+    },
+    {
+      "title": {"en": "Own it, get a coach", "el": "Ανάλαβε την ευθύνη, βρες coach"},
+      "explain": {
+        "en": "The third commitment is the accountability loop. Accountable people own the outcome. When results are bad, they do not blame clients, the economy or the team. They ask what they could do differently, find solutions, act and learn. Keller says one of the fastest ways to stay accountable is a coach or an accountability partner: someone who sees your numbers and tells you the truth.",
+        "el": "Η τρίτη δέσμευση είναι ο κύκλος της λογοδοσίας. Όσοι λογοδοτούν αναλαμβάνουν το αποτέλεσμα. Όταν τα πράγματα πάνε άσχημα, δεν κατηγορούν τους πελάτες, την οικονομία ή την ομάδα. Ρωτούν τι θα μπορούσαν να κάνουν αλλιώς, βρίσκουν λύσεις, δρουν και μαθαίνουν. Ο Keller λέει ότι ένας από τους πιο γρήγορους τρόπους για να μένεις υπεύθυνος είναι ένας coach ή ένας συνεργάτης λογοδοσίας: κάποιος που βλέπει τα νούμερά σου και σου λέει την αλήθεια."
+      },
+      "example": {
+        "en": "When Eric Schmidt became CEO of Google in 2001, investor John Doerr told him he needed a coach. Schmidt was offended at first, since he was already an experienced CEO. He accepted Bill Campbell anyway, and later said that taking a coach was the best advice he had ever been given.",
+        "el": "Όταν ο Eric Schmidt έγινε CEO της Google το 2001, ο επενδυτής John Doerr του είπε ότι χρειάζεται coach. Στην αρχή ο Schmidt θίχτηκε, αφού ήταν ήδη έμπειρος διευθύνων σύμβουλος. Δέχτηκε όμως τον Bill Campbell και αργότερα είπε ότι αυτή ήταν η καλύτερη συμβουλή που του έδωσαν ποτέ."
+      },
+      "apply": {
+        "en": "Find one accountability partner, a founder friend or a mentor. Every Friday send them three numbers: calls, meetings, new clients, plus your one thing for next week. When a month is bad, write «what I could have done differently» before you write anything about clients or the market.",
+        "el": "Βρες έναν συνεργάτη λογοδοσίας, έναν φίλο ιδρυτή ή έναν μέντορα. Κάθε Παρασκευή στείλε του τρία νούμερα: τηλέφωνα, ραντεβού, νέους πελάτες, μαζί με το ένα σου πράγμα για την επόμενη εβδομάδα. Όταν ένας μήνας πάει άσχημα, γράψε «τι θα μπορούσα να κάνω αλλιώς» πριν γράψεις οτιδήποτε για τους πελάτες ή την αγορά."
+      },
+      "check": {
+        "q": {"en": "What do accountable people do when results are bad?", "el": "Τι κάνουν όσοι λογοδοτούν όταν τα αποτελέσματα είναι κακά;"},
+        "options": [
+          {"en": "Explain why the market made it impossible", "el": "Εξηγούν γιατί η αγορά το έκανε αδύνατο"},
+          {"en": "Ask what they can do differently and act", "el": "Ρωτούν τι μπορούν να κάνουν αλλιώς και δρουν"},
+          {"en": "Wait for things to improve by themselves", "el": "Περιμένουν να φτιάξουν τα πράγματα μόνα τους"}
+        ],
+        "answer": 1,
+        "why": {"en": "They own the outcome, which lets them change it.", "el": "Αναλαμβάνουν το αποτέλεσμα, και έτσι μπορούν να το αλλάξουν."}
+      }
+    },
+    {
+      "title": {"en": "The four thieves", "el": "Οι τέσσερις κλέφτες"},
+      "explain": {
+        "en": "Four thieves steal your focus. First, the inability to say no: every yes to something small is a no to your one thing. Second, fear of chaos: while you focus, other things pile up, and you must accept that. Third, poor health habits: without sleep, food, exercise and some calm, you cannot sustain the work. Fourth, an environment that does not support your goals, from people to the space you work in.",
+        "el": "Τέσσερις κλέφτες σου κλέβουν την εστίαση. Πρώτος, η αδυναμία να πεις «όχι»: κάθε «ναι» σε κάτι μικρό είναι ένα «όχι» στο ένα σου πράγμα. Δεύτερος, ο φόβος του χάους: όσο εστιάζεις, άλλα πράγματα στοιβάζονται, και πρέπει να το δεχτείς. Τρίτος, οι κακές συνήθειες υγείας: χωρίς ύπνο, φαγητό, κίνηση και λίγη ηρεμία δεν αντέχεις τη δουλειά. Τέταρτος, ένα περιβάλλον που δεν στηρίζει τους στόχους σου, από τους ανθρώπους μέχρι τον χώρο που δουλεύεις."
+      },
+      "example": {
+        "en": "In 2007 Arianna Huffington, then running the fast-growing Huffington Post, collapsed from exhaustion at her desk and broke her cheekbone. The scare made her rethink her habits. She began to protect her sleep and later wrote books arguing that rest is part of good work, not the opposite.",
+        "el": "Το 2007 η Arianna Huffington, που διηύθυνε τότε τη Huffington Post που μεγάλωνε γρήγορα, κατέρρευσε από εξάντληση στο γραφείο της και έσπασε το ζυγωματικό της. Το σοκ την έκανε να ξανασκεφτεί τις συνήθειές της. Άρχισε να προστατεύει τον ύπνο της και αργότερα έγραψε βιβλία που υποστηρίζουν ότι η ξεκούραση είναι κομμάτι της καλής δουλειάς και όχι το αντίθετό της."
+      },
+      "apply": {
+        "en": "Check the four thieves this week. No: decline one small project that does not serve your one thing. Chaos: let non-urgent client changes wait until the afternoon. Health: fix a bedtime and keep it. Environment: work your morning block away from the people and screens that pull you out.",
+        "el": "Έλεγξε τους τέσσερις κλέφτες αυτή την εβδομάδα. Όχι: αρνήσου ένα μικρό project που δεν υπηρετεί το ένα σου πράγμα. Χάος: άσε τις μη επείγουσες αλλαγές πελατών να περιμένουν ως το απόγευμα. Υγεία: όρισε ώρα ύπνου και τήρησέ την. Περιβάλλον: κάνε το πρωινό σου μπλοκ μακριά από τους ανθρώπους και τις οθόνες που σε τραβούν έξω."
+      },
+      "check": {
+        "q": {"en": "Why is «fear of chaos» a thief?", "el": "Γιατί ο «φόβος του χάους» είναι κλέφτης;"},
+        "options": [
+          {"en": "It makes you leave your one thing to tidy small things", "el": "Σε κάνει να αφήνεις το ένα πράγμα για να τακτοποιήσεις τα μικρά"},
+          {"en": "It makes your workspace messy", "el": "Κάνει τον χώρο δουλειάς σου ακατάστατο"},
+          {"en": "It stops you from saying yes to clients", "el": "Σε σταματά από το να λες «ναι» στους πελάτες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Focus means some things pile up. If you cannot accept that, you never stay on the main task.", "el": "Η εστίαση σημαίνει ότι κάποια πράγματα θα στοιβαχτούν. Αν δεν το δέχεσαι, δεν μένεις ποτέ στη βασική δουλειά."}
+      }
+    },
+    {
+      "title": {"en": "Live without regret", "el": "Ζήσε χωρίς μετάνοιες"},
+      "explain": {
+        "en": "Keller ends with the long view. At the end of life, people rarely regret what they tried and failed. They regret what they never tried. Your one thing is about getting the most out of your life, not only your work: the right priorities in health, relationships, money and purpose. Ask the focusing question for each area, so you reach the end with as few regrets as possible.",
+        "el": "Ο Keller κλείνει με τη μεγάλη εικόνα. Στο τέλος της ζωής, οι άνθρωποι σπάνια μετανιώνουν για όσα δοκίμασαν και απέτυχαν. Μετανιώνουν για όσα δεν δοκίμασαν ποτέ. Το ένα σου πράγμα αφορά το να βγάλεις το καλύτερο από τη ζωή σου, όχι μόνο από τη δουλειά: τις σωστές προτεραιότητες στην υγεία, στις σχέσεις, στα οικονομικά και στον σκοπό. Κάνε την ερώτηση της εστίασης για κάθε τομέα, ώστε να φτάσεις στο τέλος με όσο το δυνατόν λιγότερες μετάνοιες."
+      },
+      "example": {
+        "en": "Bronnie Ware, an Australian nurse who cared for dying patients, wrote down the regrets they shared. The most common was not having had the courage to live a life true to themselves. Another frequent one, mostly from men: wishing they had not worked so hard and missed their family.",
+        "el": "Η Bronnie Ware, Αυστραλή νοσηλεύτρια που φρόντιζε ετοιμοθάνατους, κατέγραψε τις μετάνοιες που της εμπιστεύονταν. Η πιο συχνή ήταν ότι δεν είχαν το θάρρος να ζήσουν μια ζωή αληθινή για τους ίδιους. Μια άλλη συχνή, κυρίως από άντρες: ότι δούλεψαν τόσο σκληρά που έχασαν την οικογένειά τους."
+      },
+      "apply": {
+        "en": "Ask the focusing question for four areas: health, relationships, money, business. Write one answer for each, like «sleep by midnight», «Sunday lunch with family», «save a fixed share of every payment», «finish the sales playbook». Look at the list once a month.",
+        "el": "Κάνε την ερώτηση της εστίασης για τέσσερις τομείς: υγεία, σχέσεις, οικονομικά, επιχείρηση. Γράψε μία απάντηση για τον καθένα, όπως «ύπνος ως τα μεσάνυχτα», «κυριακάτικο τραπέζι με την οικογένεια», «αποταμίευση ενός σταθερού ποσοστού από κάθε πληρωμή», «τελείωμα του εγχειριδίου πωλήσεων». Κοίτα τη λίστα μία φορά τον μήνα."
+      },
+      "check": {
+        "q": {"en": "What do people regret most at the end of life, according to the book?", "el": "Για τι μετανιώνουν περισσότερο οι άνθρωποι στο τέλος της ζωής, κατά το βιβλίο;"},
+        "options": [
+          {"en": "The things they tried and failed at", "el": "Όσα δοκίμασαν και απέτυχαν"},
+          {"en": "The things they never tried", "el": "Όσα δεν δοκίμασαν ποτέ"},
+          {"en": "Not having earned more money", "el": "Ότι δεν έβγαλαν περισσότερα χρήματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Failures fade; missed chances stay with us.", "el": "Οι αποτυχίες ξεθωριάζουν. Οι χαμένες ευκαιρίες μένουν."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Monday morning: 40 unread client messages, an ad to fix, a new site to design and five warm leads to call back. What do you do first?", "el": "Δευτέρα πρωί: 40 αδιάβαστα μηνύματα πελατών, μια διαφήμιση να διορθωθεί, μια νέα ιστοσελίδα να σχεδιαστεί και πέντε ζεστές επαφές να ξανακαλέσεις. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Clear the 40 messages so your head is free", "el": "Καθαρίζεις τα 40 μηνύματα για να αδειάσει το κεφάλι σου"},
+        {"en": "Ask which one thing makes the rest easier, likely the warm leads", "el": "Ρωτάς ποιο ένα πράγμα κάνει τα άλλα πιο εύκολα, μάλλον τις ζεστές επαφές"},
+        {"en": "Do a bit of each so nothing falls behind", "el": "Κάνεις λίγο από όλα για να μη μείνει τίποτα πίσω"}
+      ],
+      "answer": 1,
+      "why": {"en": "The focusing question finds the domino with the biggest effect; messages can wait a few hours.", "el": "Η ερώτηση της εστίασης βρίσκει το ντόμινο με τη μεγαλύτερη επίδραση. Τα μηνύματα μπορούν να περιμένουν λίγες ώρες."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "During a video meeting with a psychologist, the client chat keeps pinging. What do you do?", "el": "Σε μια βιντεοκλήση με μια ψυχολόγο, το chat των πελατών χτυπά συνέχεια. Τι κάνεις;"},
+      "options": [
+        {"en": "Glance at the messages while she talks", "el": "Ρίχνεις μια ματιά στα μηνύματα όσο μιλάει"},
+        {"en": "Answer quickly so clients don't wait", "el": "Απαντάς γρήγορα για να μην περιμένουν οι πελάτες"},
+        {"en": "Close the chat until the meeting ends", "el": "Κλείνεις το chat μέχρι να τελειώσει η συνάντηση"}
+      ],
+      "answer": 2,
+      "why": {"en": "Multitasking is a lie: you would do both badly and lose the meeting.", "el": "Το multitasking είναι ψέμα: θα έκανες και τα δύο άσχημα και θα έχανες τη συνάντηση."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "It is 17:30 and you still haven't done your sales calls. You feel tired. What did you get wrong?", "el": "Είναι 17:30 και δεν έχεις κάνει ακόμα τα τηλέφωνα πωλήσεων. Νιώθεις κουρασμένος. Τι έκανες λάθος;"},
+      "options": [
+        {"en": "You left the most important task for when willpower was low", "el": "Άφησες την πιο σημαντική δουλειά για όταν η θέληση είχε πέσει"},
+        {"en": "You didn't drink enough coffee in the afternoon", "el": "Δεν ήπιες αρκετό καφέ το απόγευμα"},
+        {"en": "You didn't answer enough messages in the morning", "el": "Δεν απάντησες σε αρκετά μηνύματα το πρωί"}
+      ],
+      "answer": 0,
+      "why": {"en": "Willpower drops during the day, so the one thing belongs in the morning.", "el": "Η θέληση πέφτει μέσα στη μέρα, άρα το ένα πράγμα ανήκει στο πρωί."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "Your sales have been flat for six months, even though you call more than ever. What does the book suggest?", "el": "Οι πωλήσεις σου είναι στάσιμες έξι μήνες, παρότι τηλεφωνείς περισσότερο από ποτέ. Τι προτείνει το βιβλίο;"},
+      "options": [
+        {"en": "Call even more, harder work will break through", "el": "Τηλεφωνείς ακόμα περισσότερο, η σκληρή δουλειά θα το σπάσει"},
+        {"en": "Accept that this is your natural level", "el": "Δέχεσαι ότι αυτό είναι το φυσικό σου επίπεδο"},
+        {"en": "Look for a better method or coach, even if it dips first", "el": "Ψάχνεις καλύτερη μέθοδο ή coach, ακόμα κι αν πέσεις πρώτα"}
+      ],
+      "answer": 2,
+      "why": {"en": "This is a ceiling. The purposeful path finds a new approach.", "el": "Αυτό είναι ταβάνι. Ο σκόπιμος δρόμος βρίσκει νέα προσέγγιση."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "A friend asks you to join his new app startup for «just a few hours a week». You are in the middle of building your sales team. What do you do?", "el": "Ένας φίλος σού ζητά να μπεις στο νέο του startup με εφαρμογή «μόνο λίγες ώρες την εβδομάδα». Είσαι στη μέση του στησίματος της ομάδας πωλήσεων. Τι κάνεις;"},
+      "options": [
+        {"en": "Say yes, a few hours will not hurt", "el": "Λες ναι, λίγες ώρες δεν βλάπτουν"},
+        {"en": "Say no kindly, because it takes time from your one thing", "el": "Λες ευγενικά όχι, γιατί παίρνει χρόνο από το ένα σου πράγμα"},
+        {"en": "Say yes and work on it at night", "el": "Λες ναι και το δουλεύεις τα βράδια"}
+      ],
+      "answer": 1,
+      "why": {"en": "The inability to say no is the first thief of focus.", "el": "Η αδυναμία να πεις «όχι» είναι ο πρώτος κλέφτης της εστίασης."},
+      "idea": 17
+    },
+    {
+      "q": {"en": "You want to start running, eat better, learn Spanish and wake at 6:00, all from next Monday. What would Keller say?", "el": "Θέλεις να αρχίσεις τρέξιμο, καλύτερη διατροφή, ισπανικά και ξύπνημα στις 6:00, όλα από την επόμενη Δευτέρα. Τι θα έλεγε ο Keller;"},
+      "options": [
+        {"en": "Great, a fully disciplined life is the goal", "el": "Τέλεια, ο στόχος είναι μια πλήρως πειθαρχημένη ζωή"},
+        {"en": "Start with the hardest one first", "el": "Ξεκίνα πρώτα από το πιο δύσκολο"},
+        {"en": "Pick one and build it until it is automatic", "el": "Διάλεξε ένα και χτίσ' το μέχρι να γίνει αυτόματο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Selected discipline: one habit at a time, then the next.", "el": "Επιλεκτική πειθαρχία: μία συνήθεια τη φορά, μετά η επόμενη."},
+      "idea": 4
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Keller says a to-do list is the best tool for extraordinary results.", "el": "Ο Keller λέει ότι η λίστα «προς τα πρακτέα» είναι το καλύτερο εργαλείο για εξαιρετικά αποτελέσματα."}, "answer": false, "why": {"en": "He prefers a short success list ordered by impact.", "el": "Προτιμά μια σύντομη λίστα επιτυχίας ταξινομημένη με βάση τον αντίκτυπο."}},
+    {"s": {"en": "The focusing question asks what makes everything else easier or unnecessary.", "el": "Η ερώτηση της εστίασης ρωτά τι κάνει όλα τα άλλα πιο εύκολα ή περιττά."}, "answer": true, "why": {"en": "That is the exact test of the ONE thing.", "el": "Αυτό είναι ακριβώς το κριτήριο του ΕΝΟΣ πράγματος."}},
+    {"s": {"en": "According to the book, you need strict discipline in every area of life.", "el": "Κατά το βιβλίο, χρειάζεσαι αυστηρή πειθαρχία σε κάθε τομέα της ζωής."}, "answer": false, "why": {"en": "You need selected discipline, one habit at a time.", "el": "Χρειάζεσαι επιλεκτική πειθαρχία, μία συνήθεια τη φορά."}},
+    {"s": {"en": "Keller suggests blocking time off before blocking your one thing.", "el": "Ο Keller προτείνει να κλειδώνεις τον χρόνο ξεκούρασης πριν από το ένα σου πράγμα."}, "answer": true, "why": {"en": "Rest comes first because it fuels the work.", "el": "Η ξεκούραση μπαίνει πρώτη γιατί τροφοδοτεί τη δουλειά."}},
+    {"s": {"en": "Keller advises perfect balance, equal time on everything.", "el": "Ο Keller συμβουλεύει τέλεια ισορροπία, ίσο χρόνο σε όλα."}, "answer": false, "why": {"en": "He advises counterbalancing: long on work focus, short away from personal life.", "el": "Συμβουλεύει αντίβαρο: μεγάλη αφοσίωση στη δουλειά, μικρή απουσία από την προσωπική ζωή."}},
+    {"s": {"en": "Going from the E curve to the P curve may lower your results for a while.", "el": "Το πέρασμα από την καμπύλη Ε στην καμπύλη Σ μπορεί να ρίξει για λίγο τα αποτελέσματά σου."}, "answer": true, "why": {"en": "A new method takes time to learn before it pays off.", "el": "Μια νέα μέθοδος θέλει χρόνο να τη μάθεις πριν αποδώσει."}},
+    {"s": {"en": "Keller believes big goals are dangerous and should be avoided.", "el": "Ο Keller πιστεύει ότι οι μεγάλοι στόχοι είναι επικίνδυνοι και πρέπει να αποφεύγονται."}, "answer": false, "why": {"en": "«Big is bad» is one of the six lies.", "el": "Το «το μεγάλο είναι κακό» είναι ένα από τα έξι ψέματα."}},
+    {"s": {"en": "An accountability partner or coach is one way to stay on your one thing.", "el": "Ένας συνεργάτης λογοδοσίας ή ένας coach είναι ένας τρόπος να μένεις στο ένα σου πράγμα."}, "answer": true, "why": {"en": "Someone who sees your numbers keeps you honest.", "el": "Κάποιος που βλέπει τα νούμερά σου σε κρατά ειλικρινή."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Focusing question", "el": "Ερώτηση εστίασης"}, "b": {"en": "What makes everything else easier or unnecessary?", "el": "Τι κάνει όλα τα άλλα πιο εύκολα ή περιττά;"}},
+    {"a": {"en": "Domino effect", "el": "Φαινόμενο ντόμινο"}, "b": {"en": "Each right step makes a bigger step possible", "el": "Κάθε σωστό βήμα κάνει δυνατό ένα μεγαλύτερο"}},
+    {"a": {"en": "Selected discipline", "el": "Επιλεκτική πειθαρχία"}, "b": {"en": "Discipline for one habit until it is automatic", "el": "Πειθαρχία σε μία συνήθεια μέχρι να γίνει αυτόματη"}},
+    {"a": {"en": "Counterbalancing", "el": "Αντίβαρο"}, "b": {"en": "Go long on work, return before things break", "el": "Πας μακριά στη δουλειά, γυρνάς πριν σπάσει κάτι"}},
+    {"a": {"en": "Time blocking", "el": "Κλείδωμα χρόνου"}, "b": {"en": "Fixed hours in the calendar for your one thing", "el": "Σταθερές ώρες στο ημερολόγιο για το ένα πράγμα"}},
+    {"a": {"en": "Success list", "el": "Λίστα επιτυχίας"}, "b": {"en": "A short list ordered by impact", "el": "Σύντομη λίστα ταξινομημένη κατά αντίκτυπο"}}
+  ],
+  "missions": [
+    {"en": "Write the focusing question on a card and put it next to your screen.", "el": "Γράψε την ερώτηση της εστίασης σε μια κάρτα και βάλ' τη δίπλα στην οθόνη σου."},
+    {"en": "Write all next week's tasks, cut them down by 80/20 again and again until one remains.", "el": "Γράψε όλες τις δουλειές της επόμενης εβδομάδας και κόψε τες με το 80/20 ξανά και ξανά μέχρι να μείνει μία."},
+    {"en": "Block your days off, then a four-hour morning block for your one thing, in next week's calendar.", "el": "Κλείδωσε στο ημερολόγιο της επόμενης εβδομάδας πρώτα τα ρεπό σου και μετά ένα πρωινό τετράωρο για το ένα σου πράγμα."},
+    {"en": "Fill one page with goal setting to the now, from someday down to right now.", "el": "Γέμισε μία σελίδα με τη μέθοδο από τον στόχο στο τώρα, από το κάποτε μέχρι αυτή τη στιγμή."},
+    {"en": "Ask one person to be your accountability partner and send them your numbers this Friday.", "el": "Ζήτα από έναν άνθρωπο να γίνει συνεργάτης λογοδοσίας σου και στείλ' του τα νούμερά σου αυτή την Παρασκευή."}
+  ],
+  "mantra": {"en": "What is my ONE thing right now?", "el": "Ποιο είναι το ΕΝΑ μου πράγμα αυτή τη στιγμή;"},
+  "careful": {
+    "en": "Keller borrows research loosely. The idea that willpower runs out like a battery, called ego depletion, failed large replication studies after the book came out. The 66 days is an average with a huge range, and his history of the word «priority» is disputed. The examples are winners, so we do not see focused people who failed. And a founder of a small firm cannot drop everything else: clients and payments still need care, so treat «one thing» as a priority rule, not a ban on the rest.",
+    "el": "Ο Keller χρησιμοποιεί την έρευνα αρκετά χαλαρά. Η ιδέα ότι η θέληση αδειάζει σαν μπαταρία δεν επιβεβαιώθηκε σε μεγάλες επαναληπτικές μελέτες μετά την έκδοση του βιβλίου. Οι 66 μέρες είναι μέσος όρος με τεράστιο εύρος, και η ιστορία του για τη λέξη «priority» αμφισβητείται. Τα παραδείγματα είναι νικητές, οπότε δεν βλέπουμε όσους εστίασαν και απέτυχαν. Και ένας ιδρυτής μικρής εταιρείας δεν μπορεί να αφήσει όλα τα άλλα: οι πελάτες και οι πληρωμές θέλουν φροντίδα. Δες το «ένα πράγμα» ως κανόνα προτεραιότητας, όχι ως απαγόρευση για τα υπόλοιπα."
+  },
+  "connects": [
+    {"book": "deep-work", "note": {"en": "Newport explains why focused hours are so valuable; Keller tells you which single task deserves them.", "el": "Ο Newport εξηγεί γιατί οι συγκεντρωμένες ώρες είναι τόσο πολύτιμες. Ο Keller σου λέει ποια μία δουλειά τις αξίζει."}},
+    {"book": "essentialism", "note": {"en": "Both say do less but better; McKeown focuses on saying no, Keller on choosing the one thing to say yes to.", "el": "Και οι δύο λένε «λιγότερα αλλά καλύτερα». Ο McKeown εστιάζει στο «όχι», ο Keller στο ένα πράγμα στο οποίο λες «ναι»."}},
+    {"book": "no-excuses", "note": {"en": "Tracy also preaches 80/20 and discipline, but Keller narrows it further and argues you need discipline for only one habit at a time.", "el": "Και ο Tracy κηρύττει το 80/20 και την πειθαρχία, αλλά ο Keller στενεύει ακόμα περισσότερο και λέει ότι χρειάζεσαι πειθαρχία μόνο για μία συνήθεια τη φορά."}}
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "id": "obstacle-is-the-way",
+  "title": {"en": "The Obstacle Is the Way", "el": "Το εμπόδιο είναι ο δρόμος"},
+  "author": "Ryan Holiday",
+  "authorEl": "Ράιαν Χόλιντεϊ",
+  "year": 2014,
+  "shelf": "mind",
+  "skills": {"mindset": 3, "strategy": 2, "focus": 1},
+  "oneLine": {
+    "en": "Every obstacle can be turned into an advantage if you see it clearly, act on the part you can move, and accept with calm what you cannot change.",
+    "el": "Κάθε εμπόδιο μπορεί να γίνει πλεονέκτημα, αν το δεις καθαρά, κινηθείς σε όποιο κομμάτι του μπορείς να αλλάξεις και δεχτείς με ηρεμία όσα δεν αλλάζουν."
+  },
+  "story": {
+    "en": "Ryan Holiday dropped out of college at 19 and became marketing director of a big American clothing brand before turning to writing. In 2014 he built this short book around one line from Marcus Aurelius. It teaches Stoic ideas through stories from history about people who turned problems into advantages. It became a favourite of athletes, coaches and soldiers, and helped start the modern Stoicism revival.",
+    "el": "Ο Ράιαν Χόλιντεϊ παράτησε το πανεπιστήμιο στα 19 και έγινε διευθυντής μάρκετινγκ σε μια μεγάλη αμερικανική εταιρεία ρούχων, πριν στραφεί στο γράψιμο. Το 2014 έχτισε αυτό το μικρό βιβλίο γύρω από μία φράση του Μάρκου Αυρήλιου. Διδάσκει στωικές ιδέες μέσα από ιστορίες ανθρώπων που έκαναν τα προβλήματα πλεονεκτήματα. Έγινε αγαπημένο βιβλίο αθλητών, προπονητών και στρατιωτικών και βοήθησε να ξαναζωντανέψει ο στωικισμός στις μέρες μας."
+  },
+  "forYou": {
+    "en": "Your business is full of obstacles: doctors who hang up, clients who pay late, ads that suddenly stop working, a team that is still small. This book gives you one simple method for all of them: see the problem clearly without panic, act on the part you can move, and accept calmly what you cannot change. It turns daily friction into training.",
+    "el": "Η δουλειά σου είναι γεμάτη εμπόδια: γιατροί που κλείνουν το τηλέφωνο, πελάτες που πληρώνουν αργά, διαφημίσεις που ξαφνικά παύουν να αποδίδουν, μια ομάδα που είναι ακόμα μικρή. Το βιβλίο σού δίνει μία απλή μέθοδο για όλα: δες το πρόβλημα καθαρά χωρίς πανικό, κινήσου σε ό,τι μπορείς να αλλάξεις και δέξου ήρεμα ό,τι δεν αλλάζει. Κάνει την καθημερινή τριβή προπόνηση."
+  },
+  "ideas": [
+    {
+      "title": {"en": "What blocks the way becomes the way", "el": "Ό,τι σε εμποδίζει γίνεται ο δρόμος"},
+      "explain": {
+        "en": "Holiday's whole book grows from one idea: an obstacle is not only something in your way, it can show you the way. Every problem hides a chance to practise a virtue, like patience, courage or creativity. He splits the method into three disciplines. Perception: how you see the problem. Action: what you do about it. Will: how you handle what you cannot change.",
+        "el": "Όλο το βιβλίο του Χόλιντεϊ βγαίνει από μία ιδέα: το εμπόδιο δεν είναι μόνο κάτι που σου κλείνει τον δρόμο· μπορεί να σου δείξει τον δρόμο. Κάθε πρόβλημα κρύβει μια ευκαιρία να ασκήσεις μια αρετή, όπως την υπομονή, το θάρρος ή τη δημιουργικότητα. Χωρίζει τη μέθοδο σε τρεις πειθαρχίες. Αντίληψη: πώς βλέπεις το πρόβλημα. Δράση: τι κάνεις γι' αυτό. Βούληση: πώς χειρίζεσαι όσα δεν αλλάζουν."
+      },
+      "example": {
+        "en": "Marcus Aurelius wrote in his private notes that the impediment to action advances action, and what stands in the way becomes the way. Holiday took his title from that line. The book was then passed around locker rooms of professional sports teams in the US as a manual for handling pressure.",
+        "el": "Ο Μάρκος Αυρήλιος έγραψε στις προσωπικές του σημειώσεις ότι το εμπόδιο στην πράξη προωθεί την πράξη, και ό,τι στέκεται στον δρόμο γίνεται ο δρόμος. Ο Χόλιντεϊ πήρε τον τίτλο του από αυτή τη φράση. Το βιβλίο κυκλοφόρησε μετά στα αποδυτήρια επαγγελματικών ομάδων στις ΗΠΑ ως εγχειρίδιο για τη διαχείριση της πίεσης."
+      },
+      "apply": {
+        "en": "Take your biggest current problem, for example a client who keeps delaying his material, and write three lines: How do I see it? What can I do? What must I accept? Then ask: what skill could this problem train in me, like clearer deadlines in my offer?",
+        "el": "Πάρε το μεγαλύτερο πρόβλημά σου αυτή τη στιγμή, για παράδειγμα έναν πελάτη που καθυστερεί συνέχεια το υλικό του, και γράψε τρεις γραμμές: Πώς το βλέπω; Τι μπορώ να κάνω; Τι πρέπει να δεχτώ; Μετά ρώτα: ποια δεξιότητα μπορεί να μου προπονήσει αυτό το πρόβλημα, π.χ. πιο καθαρές προθεσμίες στην προσφορά μου;"
+      },
+      "check": {
+        "q": {"en": "What are Holiday's three disciplines?", "el": "Ποιες είναι οι τρεις πειθαρχίες του Χόλιντεϊ;"},
+        "options": [
+          {"en": "Perception, action and will", "el": "Αντίληψη, δράση και βούληση"},
+          {"en": "Planning, effort and reward", "el": "Σχεδιασμός, προσπάθεια και ανταμοιβή"},
+          {"en": "Patience, luck and talent", "el": "Υπομονή, τύχη και ταλέντο"}
+        ],
+        "answer": 0,
+        "why": {"en": "See it clearly, act on it, and accept what you can't change: the whole book follows these three parts.", "el": "Το βλέπεις καθαρά, δρας και δέχεσαι ό,τι δεν αλλάζει: όλο το βιβλίο ακολουθεί αυτά τα τρία μέρη."}
+      }
+    },
+    {
+      "title": {"en": "See it as it is", "el": "Δες το όπως είναι"},
+      "explain": {
+        "en": "Most of the damage a problem does comes from how we react to it. Panic, anger and drama make things look worse than they are and hide the solution. The first discipline is perception: stay calm, drop the labels «terrible» and «unfair», and look at the plain facts. A clear view shows you options that fear hides.",
+        "el": "Το μεγαλύτερο μέρος της ζημιάς ενός προβλήματος το κάνει η αντίδρασή μας. Ο πανικός, ο θυμός και το δράμα κάνουν τα πράγματα να μοιάζουν χειρότερα απ' ό,τι είναι και κρύβουν τη λύση. Η πρώτη πειθαρχία είναι η αντίληψη: μείνε ήρεμος, πέτα τις ταμπέλες «τραγικό» και «άδικο» και κοίτα τα σκέτα γεγονότα. Η καθαρή ματιά σού δείχνει επιλογές που ο φόβος κρύβει."
+      },
+      "example": {
+        "en": "John D. Rockefeller was a young bookkeeper in Cleveland when the financial Panic of 1857 hit. Instead of panicking with everyone else, he watched closely and learned how markets behave in a crisis. Holiday notes that in later crises he stayed calm and saw opportunities where others saw only ruin.",
+        "el": "Ο Τζον Ροκφέλερ ήταν νεαρός λογιστής στο Κλίβελαντ όταν ξέσπασε ο οικονομικός πανικός του 1857. Αντί να πανικοβληθεί μαζί με όλους, παρατηρούσε προσεκτικά και μάθαινε πώς συμπεριφέρονται οι αγορές σε μια κρίση. Ο Χόλιντεϊ σημειώνει ότι και στις επόμενες κρίσεις έμενε ψύχραιμος και έβλεπε ευκαιρίες εκεί που οι άλλοι έβλεπαν μόνο καταστροφή."
+      },
+      "apply": {
+        "en": "When a bad message arrives, like a client cancelling, wait ten minutes before reacting. Then write only facts: «Client X cancels, reason: budget, two other clients from his area are happy.» No adjectives. Decide your next step from that list, not from the first emotion.",
+        "el": "Όταν έρχεται ένα κακό μήνυμα, π.χ. ένας πελάτης ακυρώνει, περίμενε δέκα λεπτά πριν αντιδράσεις. Μετά γράψε μόνο γεγονότα: «Ο πελάτης Χ ακυρώνει, λόγος: προϋπολογισμός, δύο άλλοι πελάτες από την περιοχή του είναι ικανοποιημένοι». Χωρίς επίθετα. Αποφάσισε το επόμενο βήμα από αυτή τη λίστα, όχι από το πρώτο συναίσθημα."
+      },
+      "check": {
+        "q": {"en": "What is the first step of the discipline of perception?", "el": "Ποιο είναι το πρώτο βήμα της πειθαρχίας της αντίληψης;"},
+        "options": [
+          {"en": "Act fast before the problem grows", "el": "Δράσε γρήγορα πριν μεγαλώσει το πρόβλημα"},
+          {"en": "Tell everyone how unfair the problem is", "el": "Πες σε όλους πόσο άδικο είναι το πρόβλημα"},
+          {"en": "Stay calm and look at the plain facts", "el": "Μείνε ήρεμος και κοίτα τα σκέτα γεγονότα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Emotion distorts the picture; facts without labels show you real options.", "el": "Το συναίσθημα παραμορφώνει την εικόνα· τα γεγονότα χωρίς ταμπέλες σού δείχνουν τις πραγματικές επιλογές."}
+      }
+    },
+    {
+      "title": {"en": "Recognise your power", "el": "Αναγνώρισε τη δύναμή σου"},
+      "explain": {
+        "en": "Even when others control your situation, nobody can force you to feel defeated. Holiday says you always keep power over your judgement, your attitude and your next action. Recognising this is the start of every turnaround. Feeling like a victim hands the outcome to someone else. Owning your response, however small, gives you back a place to stand.",
+        "el": "Ακόμα κι όταν άλλοι ελέγχουν την κατάστασή σου, κανείς δεν μπορεί να σε αναγκάσει να νιώσεις νικημένος. Ο Χόλιντεϊ λέει ότι κρατάς πάντα τη δύναμη πάνω στην κρίση σου, τη στάση σου και την επόμενη πράξη σου. Όταν το αναγνωρίζεις, ξεκινά κάθε ανατροπή. Όταν νιώθεις θύμα, δίνεις την έκβαση σε κάποιον άλλο. Όταν αναλαμβάνεις την απάντησή σου, όσο μικρή κι αν είναι, ξαναβρίσκεις έδαφος να πατήσεις."
+      },
+      "example": {
+        "en": "Boxer Rubin «Hurricane» Carter was wrongly convicted of murder in 1967. In prison he refused to wear the uniform or act like a beaten man, and spent years studying law and his own case. His conviction was overturned in 1985, after nearly twenty years behind bars.",
+        "el": "Ο πυγμάχος Ρούμπιν «Χάρικεϊν» Κάρτερ καταδικάστηκε άδικα για φόνο το 1967. Στη φυλακή αρνήθηκε να φορέσει τη στολή ή να φερθεί σαν νικημένος, και πέρασε χρόνια μελετώντας νομικά και την υπόθεσή του. Η καταδίκη του ακυρώθηκε το 1985, μετά από σχεδόν είκοσι χρόνια πίσω από τα κάγκελα."
+      },
+      "apply": {
+        "en": "When a big competitor drops prices or a platform changes its rules, stop saying «there's nothing I can do». Write down three things that are still fully yours: how fast you reply to leads, the quality of your drafts, how you follow up. Improve one of them this week.",
+        "el": "Όταν ένας μεγάλος ανταγωνιστής ρίχνει τιμές ή μια πλατφόρμα αλλάζει κανόνες, σταμάτα να λες «δεν μπορώ να κάνω τίποτα». Γράψε τρία πράγματα που είναι ακόμα εντελώς δικά σου: πόσο γρήγορα απαντάς στα leads, η ποιότητα των draft σου, πώς κάνεις follow-up. Βελτίωσε ένα από αυτά μέσα στην εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What power does Holiday say you always keep?", "el": "Ποια δύναμη λέει ο Χόλιντεϊ ότι κρατάς πάντα;"},
+        "options": [
+          {"en": "Power over how others judge you", "el": "Δύναμη πάνω στο πώς σε κρίνουν οι άλλοι"},
+          {"en": "Power over your judgement and next action", "el": "Δύναμη πάνω στην κρίση σου και την επόμενη πράξη σου"},
+          {"en": "Power over the final outcome", "el": "Δύναμη πάνω στο τελικό αποτέλεσμα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Outcomes and other people are not yours to control; your response always is.", "el": "Το αποτέλεσμα και οι άλλοι δεν είναι δικά σου να τα ελέγξεις· η απάντησή σου είναι πάντα."}
+      }
+    },
+    {
+      "title": {"en": "Steady your nerves", "el": "Κράτα τα νεύρα σου σταθερά"},
+      "explain": {
+        "en": "Under pressure, fear spreads fast and makes good people do stupid things. Holiday says nerves are a skill you can train. You prepare so well that a crisis feels familiar, and you refuse to let panic into the room. Panic is a choice you can learn not to make. Calm is contagious too, and people follow the person who stays steady.",
+        "el": "Κάτω από πίεση ο φόβος απλώνεται γρήγορα και κάνει καλούς ανθρώπους να κάνουν χαζά πράγματα. Ο Χόλιντεϊ λέει ότι η ψυχραιμία είναι δεξιότητα που προπονείται. Προετοιμάζεσαι τόσο καλά, ώστε η κρίση να σου μοιάζει γνώριμη, και δεν αφήνεις τον πανικό να μπει στο δωμάτιο. Ο πανικός είναι επιλογή που μπορείς να μάθεις να μην κάνεις. Και η ηρεμία κολλάει, και οι άλλοι ακολουθούν αυτόν που μένει σταθερός."
+      },
+      "example": {
+        "en": "NASA trained astronauts with simulated failures over and over, so that a real emergency would feel like another drill. In 1970 an oxygen tank exploded on Apollo 13 on the way to the Moon. The crew and mission control worked the problem step by step, calmly, and brought all three astronauts home safely.",
+        "el": "Η NASA εκπαίδευε τους αστροναύτες με προσομοιώσεις βλαβών ξανά και ξανά, ώστε μια πραγματική έκτακτη ανάγκη να μοιάζει με άλλη μια άσκηση. Το 1970 εξερράγη μια δεξαμενή οξυγόνου στο Apollo 13 στον δρόμο για τη Σελήνη. Το πλήρωμα και το κέντρο ελέγχου έλυσαν το πρόβλημα βήμα βήμα, ήρεμα, και έφεραν πίσω σώους και τους τρεις αστροναύτες."
+      },
+      "apply": {
+        "en": "Run your own drills. Write the five hardest things a doctor can say on a call («it's too expensive», «send me an email», «I already have a nephew who does sites») and practise your calm answer to each out loud until it feels routine.",
+        "el": "Κάνε τις δικές σου ασκήσεις. Γράψε τα πέντε πιο δύσκολα πράγματα που μπορεί να σου πει ένας γιατρός στο τηλέφωνο («είναι ακριβό», «στείλτε μου ένα email», «έχω ήδη έναν ανιψιό που φτιάχνει σελίδες») και εξασκήσου δυνατά στην ήρεμη απάντηση για το καθένα, μέχρι να γίνει ρουτίνα."
+      },
+      "check": {
+        "q": {"en": "Why did NASA run failure simulations again and again?", "el": "Γιατί η NASA έκανε ξανά και ξανά προσομοιώσεις βλαβών;"},
+        "options": [
+          {"en": "So a real crisis would feel familiar", "el": "Για να μοιάζει γνώριμη μια πραγματική κρίση"},
+          {"en": "To find out which astronauts would panic", "el": "Για να δει ποιοι αστροναύτες θα πανικοβληθούν"},
+          {"en": "Because real missions never had problems", "el": "Επειδή οι πραγματικές αποστολές δεν είχαν ποτέ προβλήματα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Practising the crisis in advance takes away the shock, so calm thinking stays possible.", "el": "Όταν εξασκείσαι από πριν στην κρίση, φεύγει το σοκ και μένει χώρος για ψύχραιμη σκέψη."}
+      }
+    },
+    {
+      "title": {"en": "Look at it as an outsider", "el": "Κοίτα το σαν ξένος"},
+      "explain": {
+        "en": "Our own problems feel huge because we are inside them. Holiday's advice: practise objectivity. Describe the situation as a neutral observer would, or imagine it is happening to a friend. Distance removes the drama and lets common sense come back. Advice you would give a friend is usually wiser than what you tell yourself in the moment.",
+        "el": "Τα δικά μας προβλήματα μοιάζουν τεράστια γιατί είμαστε μέσα τους. Η συμβουλή του Χόλιντεϊ: άσκησε την αντικειμενικότητα. Περίγραψε την κατάσταση όπως θα την περιέγραφε ένας ουδέτερος παρατηρητής ή φαντάσου ότι συμβαίνει σε έναν φίλο. Η απόσταση αφαιρεί το δράμα και φέρνει πίσω την κοινή λογική. Η συμβουλή που θα έδινες σε έναν φίλο είναι συνήθως σοφότερη από αυτά που λες στον εαυτό σου εκείνη τη στιγμή."
+      },
+      "example": {
+        "en": "Psychologists Igor Grossmann and Ethan Kross found what they called «Solomon's paradox». People reasoned more wisely about a friend's relationship problem than about the same problem in their own life. When people thought about their own problem in the third person, the gap shrank.",
+        "el": "Οι ψυχολόγοι Ιγκόρ Γκρόσμαν και Ίθαν Κρος βρήκαν αυτό που ονόμασαν «παράδοξο του Σολομώντα». Οι άνθρωποι σκέφτονταν πιο σοφά για το πρόβλημα στη σχέση ενός φίλου τους παρά για το ίδιο ακριβώς πρόβλημα στη δική τους ζωή. Όταν σκέφτονταν το δικό τους πρόβλημα στο τρίτο πρόσωπο, η διαφορά μίκραινε."
+      },
+      "apply": {
+        "en": "When you are stuck, write the problem in the third person: «A friend who runs a web agency has a client who owes 130€ for three months. What should he do?» Then answer as if advising a friend. You'll usually see a calm, clear step, like a friendly reminder with a payment link and a date.",
+        "el": "Όταν κολλάς, γράψε το πρόβλημα στο τρίτο πρόσωπο: «Ένας φίλος με γραφείο ιστοσελίδων έχει έναν πελάτη που χρωστάει 130€ εδώ και τρεις μήνες. Τι πρέπει να κάνει;» Μετά απάντησε σαν να συμβουλεύεις φίλο. Συνήθως θα δεις ένα ήρεμο, καθαρό βήμα, όπως μια φιλική υπενθύμιση με σύνδεσμο πληρωμής και ημερομηνία."
+      },
+      "check": {
+        "q": {"en": "What is «Solomon's paradox»?", "el": "Τι είναι το «παράδοξο του Σολομώντα»;"},
+        "options": [
+          {"en": "Wise people make the most mistakes", "el": "Οι σοφοί κάνουν τα περισσότερα λάθη"},
+          {"en": "Big problems are easier than small ones", "el": "Τα μεγάλα προβλήματα είναι πιο εύκολα από τα μικρά"},
+          {"en": "We reason better about others' problems than our own", "el": "Σκεφτόμαστε καλύτερα για τα προβλήματα των άλλων παρά για τα δικά μας"}
+        ],
+        "answer": 2,
+        "why": {"en": "Distance makes us wiser, so creating distance from our own problems helps.", "el": "Η απόσταση μας κάνει σοφότερους, άρα βοηθά να βάζουμε απόσταση από τα δικά μας προβλήματα."}
+      }
+    },
+    {
+      "title": {"en": "Change the frame", "el": "Άλλαξε το κάδρο"},
+      "explain": {
+        "en": "How big and how frightening a problem looks depends on the frame you put around it. Holiday says perspective is everything: shrink a scary event by explaining it, or widen the view to see it in context. The facts stay the same; what changes is their meaning for you. A new frame can turn a disaster into a lesson or a challenge.",
+        "el": "Το πόσο μεγάλο και πόσο τρομακτικό φαίνεται ένα πρόβλημα εξαρτάται από το κάδρο που του βάζεις. Ο Χόλιντεϊ λέει ότι η οπτική είναι το παν: μίκρυνε ένα τρομακτικό γεγονός εξηγώντας το ή άνοιξε τη ματιά για να το δεις μέσα σε ένα ευρύτερο πλαίσιο. Τα γεγονότα μένουν ίδια· αλλάζει το τι σημαίνουν για σένα. Ένα νέο κάδρο μπορεί να κάνει μια καταστροφή μάθημα ή πρόκληση."
+      },
+      "example": {
+        "en": "Plutarch tells how an eclipse terrified the Athenian fleet as it was about to sail. Pericles held his cloak in front of his helmsman's eyes and asked if that was frightening. No, said the man. Then what is the difference, Pericles asked, except that something bigger than my cloak caused the darkness?",
+        "el": "Ο Πλούταρχος διηγείται πώς μια έκλειψη τρόμαξε τον αθηναϊκό στόλο λίγο πριν σαλπάρει. Ο Περικλής έβαλε τον μανδύα του μπροστά στα μάτια του κυβερνήτη και τον ρώτησε αν αυτό είναι τρομακτικό. Όχι, είπε εκείνος. Και ποια η διαφορά, ρώτησε ο Περικλής, εκτός από το ότι το σκοτάδι το προκάλεσε κάτι μεγαλύτερο από τον μανδύα μου;"
+      },
+      "apply": {
+        "en": "When a doctor says no, reframe it out loud: not «I failed», but «one more no brings me closer to the yes, and now I know one objection better». Put your monthly yes-to-no ratio on paper, so each no becomes part of a number you are building.",
+        "el": "Όταν ένας γιατρός σού πει όχι, άλλαξε δυνατά το κάδρο: όχι «απέτυχα», αλλά «ένα ακόμα όχι με φέρνει πιο κοντά στο ναι, και τώρα ξέρω καλύτερα μία αντίρρηση». Γράψε σε χαρτί την αναλογία ναι προς όχι του μήνα, ώστε κάθε όχι να γίνεται κομμάτι ενός αριθμού που χτίζεις."
+      },
+      "check": {
+        "q": {"en": "What did Pericles change with his cloak?", "el": "Τι άλλαξε ο Περικλής με τον μανδύα του;"},
+        "options": [
+          {"en": "The facts of the eclipse", "el": "Τα γεγονότα της έκλειψης"},
+          {"en": "How the frightened man saw the eclipse", "el": "Το πώς έβλεπε την έκλειψη ο φοβισμένος άνθρωπος"},
+          {"en": "The date the fleet would sail", "el": "Την ημερομηνία που θα σάλπαρε ο στόλος"}
+        ],
+        "answer": 1,
+        "why": {"en": "The eclipse stayed the same; a new frame took away its power to frighten.", "el": "Η έκλειψη έμεινε ίδια· το νέο κάδρο της πήρε τη δύναμη να τρομάζει."}
+      }
+    },
+    {
+      "title": {"en": "Is it up to you?", "el": "Εξαρτάται από σένα;"},
+      "explain": {
+        "en": "The Stoics' most important question: is this up to me? Some things are, like your effort, choices and attitude. Many are not, like the weather, other people's decisions or the economy. Holiday says to spend all your energy on the first group and none on worrying about the second. Energy spent on what you cannot control is energy stolen from what you can.",
+        "el": "Η πιο σημαντική ερώτηση των στωικών: εξαρτάται αυτό από μένα; Κάποια πράγματα εξαρτώνται, όπως η προσπάθεια, οι επιλογές και η στάση σου. Πολλά όχι, όπως ο καιρός, οι αποφάσεις των άλλων ή η οικονομία. Ο Χόλιντεϊ λέει να ρίχνεις όλη σου την ενέργεια στα πρώτα και καθόλου στην ανησυχία για τα δεύτερα. Η ενέργεια που ξοδεύεις σε όσα δεν ελέγχεις είναι ενέργεια που κλέβεις από όσα ελέγχεις."
+      },
+      "example": {
+        "en": "In 1974 baseball pitcher Tommy John tore a ligament in his throwing arm, which then meant the end of a career. Doctor Frank Jobe tried an untested surgery. John focused fully on the slow rehab he could control, returned in 1976 and pitched until he was 46. The operation now carries his name.",
+        "el": "Το 1974 ο πίτσερ του μπέιζμπολ Τόμι Τζον έσπασε έναν σύνδεσμο στο χέρι που έριχνε, κάτι που τότε σήμαινε τέλος καριέρας. Ο γιατρός Φρανκ Τζόουμπ δοκίμασε μια επέμβαση που δεν είχε γίνει ποτέ. Ο Τζον έριξε όλη του την προσοχή στην αργή αποκατάσταση που ήταν στο χέρι του, γύρισε το 1976 και έπαιζε μέχρι τα 46. Η επέμβαση σήμερα λέγεται με το όνομά του."
+      },
+      "apply": {
+        "en": "At the start of each week, split your worries into two columns: «up to me» and «not up to me». Under «not up to me» put things like Meta changing its algorithm. Under «up to me» put making ten new reels to test. Only plan the first column.",
+        "el": "Στην αρχή κάθε εβδομάδας χώρισε τις ανησυχίες σου σε δύο στήλες: «εξαρτάται από μένα» και «δεν εξαρτάται». Στη δεύτερη βάλε πράγματα όπως ότι το Meta αλλάζει αλγόριθμο. Στην πρώτη βάλε να φτιάξεις δέκα νέα reels για δοκιμή. Σχεδίασε μόνο την πρώτη στήλη."
+      },
+      "check": {
+        "q": {"en": "Where should your energy go, according to Holiday?", "el": "Πού πρέπει να πηγαίνει η ενέργειά σου, κατά τον Χόλιντεϊ;"},
+        "options": [
+          {"en": "To what is up to you: effort, choices, attitude", "el": "Σε ό,τι εξαρτάται από σένα: προσπάθεια, επιλογές, στάση"},
+          {"en": "To predicting what others will decide", "el": "Στο να προβλέπεις τι θα αποφασίσουν οι άλλοι"},
+          {"en": "To worrying about worst cases you can't affect", "el": "Στην ανησυχία για χειρότερα σενάρια που δεν επηρεάζεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "Energy is limited; put it where it can change something.", "el": "Η ενέργεια είναι περιορισμένη· βάλ' την εκεί που μπορεί να αλλάξει κάτι."}
+      }
+    },
+    {
+      "title": {"en": "Find the opportunity", "el": "Βρες την ευκαιρία"},
+      "explain": {
+        "en": "Inside most setbacks there is an opening: a lesson, a weakness of the other side, a chance to do something you could never do in normal times. Holiday says to look for it on purpose, as a habit. Ask: what does this make possible? This is not pretending that bad things are good. It is refusing to waste the bad thing.",
+        "el": "Μέσα στις περισσότερες αναποδιές υπάρχει ένα άνοιγμα: ένα μάθημα, μια αδυναμία του αντιπάλου, μια ευκαιρία να κάνεις κάτι που σε κανονικές συνθήκες δεν θα έκανες ποτέ. Ο Χόλιντεϊ λέει να το ψάχνεις επίτηδες, ως συνήθεια. Ρώτα: τι κάνει αυτό δυνατό; Δεν σημαίνει να προσποιείσαι ότι το κακό είναι καλό. Σημαίνει να αρνείσαι να πάει χαμένο."
+      },
+      "example": {
+        "en": "In December 1944, German forces broke through Allied lines in the Ardennes, the Battle of the Bulge. Meeting his shaken generals, Eisenhower told them to see the situation as an opportunity, not a disaster. The Germans had left their defences and come into the open, where they could be surrounded. The offensive failed within weeks.",
+        "el": "Τον Δεκέμβριο του 1944 οι Γερμανοί διέσπασαν τις συμμαχικές γραμμές στις Αρδένες, στη Μάχη του Εξογκώματος. Όταν συνάντησε τους ταραγμένους στρατηγούς του, ο Αϊζενχάουερ τους είπε να δουν την κατάσταση ως ευκαιρία και όχι ως καταστροφή. Οι Γερμανοί είχαν βγει από τις οχυρώσεις τους στο ανοιχτό, όπου μπορούσαν να περικυκλωθούν. Η επίθεση απέτυχε μέσα σε λίγες εβδομάδες."
+      },
+      "apply": {
+        "en": "When a client leaves for a cheaper competitor, ask what this makes possible. Maybe a short exit question: «May I ask what made you choose the other offer?» Use the answer to sharpen your offer, and turn the freed time into ten new calls.",
+        "el": "Όταν ένας πελάτης φεύγει για φθηνότερο ανταγωνιστή, ρώτα τι κάνει αυτό δυνατό. Ίσως μια σύντομη ερώτηση στο τέλος: «Μπορώ να σας ρωτήσω τι σας έκανε να επιλέξετε την άλλη πρόταση;» Χρησιμοποίησε την απάντηση για να βελτιώσεις την προσφορά σου και κάνε τον χρόνο που ελευθερώθηκε δέκα νέα τηλέφωνα."
+      },
+      "check": {
+        "q": {"en": "What did Eisenhower see in the German breakthrough?", "el": "Τι είδε ο Αϊζενχάουερ στη γερμανική διάσπαση;"},
+        "options": [
+          {"en": "A reason to retreat as fast as possible", "el": "Λόγο να υποχωρήσουν όσο πιο γρήγορα γίνεται"},
+          {"en": "Proof that the war was lost", "el": "Απόδειξη ότι ο πόλεμος είχε χαθεί"},
+          {"en": "An enemy out in the open, ready to be surrounded", "el": "Έναν εχθρό στο ανοιχτό, έτοιμο να περικυκλωθεί"}
+        ],
+        "answer": 2,
+        "why": {"en": "By leaving their defences, the Germans had made themselves vulnerable, and he saw it.", "el": "Βγαίνοντας από τις οχυρώσεις τους, οι Γερμανοί είχαν γίνει ευάλωτοι, και εκείνος το είδε."}
+      }
+    },
+    {
+      "title": {"en": "Get moving", "el": "Ξεκίνα να κινείσαι"},
+      "explain": {
+        "en": "The second discipline is action. Seeing clearly is useless if you then wait. Holiday says to start, even from a bad position, even with an imperfect offer. Take what is available now and push forward with energy. Waiting for perfect conditions is a way of hiding. Momentum often creates the next opportunity.",
+        "el": "Η δεύτερη πειθαρχία είναι η δράση. Το να βλέπεις καθαρά δεν χρησιμεύει σε τίποτα αν μετά περιμένεις. Ο Χόλιντεϊ λέει να ξεκινάς, ακόμα κι από κακή θέση, ακόμα και με μια όχι τέλεια ευκαιρία. Πάρε ό,τι υπάρχει τώρα και σπρώξε μπροστά με ενέργεια. Η αναμονή για τέλειες συνθήκες είναι ένας τρόπος να κρύβεσαι. Η ορμή συχνά γεννά την επόμενη ευκαιρία."
+      },
+      "example": {
+        "en": "In 1928 Amelia Earhart was offered a place on a transatlantic flight, but only as a passenger, while two men flew the plane. She said she felt like a sack of potatoes, yet she accepted and became famous as the first woman to fly across the Atlantic. In 1932 she flew across it alone.",
+        "el": "Το 1928 πρότειναν στην Αμέλια Έρχαρτ μια θέση σε υπερατλαντική πτήση, αλλά μόνο ως επιβάτιδα, ενώ δύο άντρες πιλόταραν. Είπε ότι ένιωθε σαν σακί με πατάτες, όμως δέχτηκε και έγινε διάσημη ως η πρώτη γυναίκα που διέσχισε τον Ατλαντικό αεροπορικώς. Το 1932 τον διέσχισε μόνη της."
+      },
+      "apply": {
+        "en": "Pick the task you keep postponing, like the reel showing your portfolio or calling back the leads from last week. Do the first ugly version today, in 30 minutes. Publish or send it. You can improve version two once something exists.",
+        "el": "Διάλεξε τη δουλειά που αναβάλλεις συνέχεια, όπως το reel με το portfolio σου ή τα τηλέφωνα στα leads της προηγούμενης εβδομάδας. Κάνε σήμερα την πρώτη άσχημη εκδοχή, σε μισή ώρα. Δημοσίευσέ την ή στείλ' την. Τη δεύτερη εκδοχή τη βελτιώνεις όταν υπάρχει ήδη κάτι."
+      },
+      "check": {
+        "q": {"en": "Why did Earhart accept a flight as a mere passenger?", "el": "Γιατί δέχτηκε η Έρχαρτ μια πτήση μόνο ως επιβάτιδα;"},
+        "options": [
+          {"en": "Because she did not know how to fly", "el": "Επειδή δεν ήξερε να πετάει"},
+          {"en": "Because starting imperfectly beats waiting for perfect", "el": "Επειδή ένα ατελές ξεκίνημα νικά την αναμονή για το τέλειο"},
+          {"en": "Because she was paid more as a passenger", "el": "Επειδή πληρωνόταν περισσότερο ως επιβάτιδα"}
+        ],
+        "answer": 1,
+        "why": {"en": "She took the opening she had, built momentum, and later flew the Atlantic solo.", "el": "Πήρε το άνοιγμα που υπήρχε, απέκτησε ορμή και αργότερα διέσχισε μόνη τον Ατλαντικό."}
+      }
+    },
+    {
+      "title": {"en": "Train the weakness", "el": "Προπόνησε την αδυναμία"},
+      "explain": {
+        "en": "Many great people turned their biggest weakness into their strength, not by avoiding it but by training it directly and stubbornly. Holiday shows that discipline in action means daily, unglamorous practice. A weakness is simply the place where you have the most room to improve. Facing it repeatedly builds both skill and confidence.",
+        "el": "Πολλοί σπουδαίοι άνθρωποι έκαναν τη μεγαλύτερη αδυναμία τους δύναμη, όχι αποφεύγοντάς την αλλά προπονώντας την κατευθείαν και πεισματικά. Ο Χόλιντεϊ δείχνει ότι η πειθαρχία στη δράση σημαίνει καθημερινή, αθόρυβη εξάσκηση. Η αδυναμία είναι απλώς το σημείο όπου έχεις τα περισσότερα περιθώρια βελτίωσης. Όταν την αντιμετωπίζεις ξανά και ξανά, χτίζεις και ικανότητα και αυτοπεποίθηση."
+      },
+      "example": {
+        "en": "According to Plutarch, young Demosthenes had a weak voice and a speech problem, and was laughed at in the Athenian assembly. He practised speaking with pebbles in his mouth, recited while running uphill and spoke over the noise of the sea. He even shaved half his head so he would be too embarrassed to go out and stop practising. He became the greatest orator of Athens.",
+        "el": "Σύμφωνα με τον Πλούταρχο, ο νεαρός Δημοσθένης είχε αδύναμη φωνή και πρόβλημα στην άρθρωση, και τον κορόιδευαν στην εκκλησία του δήμου. Εξασκούνταν μιλώντας με βότσαλα στο στόμα, απήγγελλε τρέχοντας σε ανηφόρες και μιλούσε πάνω από τον θόρυβο της θάλασσας. Ξύρισε μάλιστα το μισό κεφάλι του, ώστε να ντρέπεται να βγει έξω και να μη σταματά την εξάσκηση. Έγινε ο μεγαλύτερος ρήτορας της Αθήνας."
+      },
+      "apply": {
+        "en": "Name your weakest sales skill, maybe handling «it's too expensive» or speaking to camera. Practise it for 15 minutes every day for two weeks: record yourself alone, listen back, fix one thing each time. Track your progress in a simple note.",
+        "el": "Ονόμασε την πιο αδύναμη δεξιότητά σου στις πωλήσεις, ίσως το «είναι ακριβό» ή το να μιλάς στην κάμερα. Εξασκήσου δεκαπέντε λεπτά κάθε μέρα για δύο εβδομάδες: ηχογράφησε τον εαυτό σου μόνος, άκουσε, διόρθωσε ένα πράγμα κάθε φορά. Κράτα την πρόοδο σε μια απλή σημείωση."
+      },
+      "check": {
+        "q": {"en": "How did Demosthenes deal with his weak voice?", "el": "Πώς αντιμετώπισε ο Δημοσθένης την αδύναμη φωνή του;"},
+        "options": [
+          {"en": "By training it directly and stubbornly every day", "el": "Προπονώντας την κατευθείαν και πεισματικά κάθε μέρα"},
+          {"en": "By letting others speak for him", "el": "Αφήνοντας άλλους να μιλούν για εκείνον"},
+          {"en": "By avoiding public speaking for good", "el": "Αποφεύγοντας οριστικά τον δημόσιο λόγο"}
+        ],
+        "answer": 0,
+        "why": {"en": "He attacked the weakness head-on with daily practice until it became his strength.", "el": "Χτύπησε την αδυναμία κατά μέτωπο με καθημερινή εξάσκηση, μέχρι που έγινε η δύναμή του."}
+      }
+    },
+    {
+      "title": {"en": "Persist", "el": "Επίμενε"},
+      "explain": {
+        "en": "Some obstacles do not fall to one clever move. They need you to keep trying different approaches, again and again, without losing heart. Holiday calls persistence a form of action: you keep coming at the problem from every angle until something gives. Most people quit after the second or third attempt; that is exactly when persistence starts to pay.",
+        "el": "Κάποια εμπόδια δεν πέφτουν με μία έξυπνη κίνηση. Χρειάζονται να δοκιμάζεις συνέχεια διαφορετικούς τρόπους, ξανά και ξανά, χωρίς να χάνεις το κουράγιο σου. Ο Χόλιντεϊ λέει την επιμονή μορφή δράσης: χτυπάς το πρόβλημα από κάθε πλευρά μέχρι κάτι να υποχωρήσει. Οι περισσότεροι τα παρατάνε μετά τη δεύτερη ή την τρίτη προσπάθεια· ακριβώς τότε αρχίζει να αποδίδει η επιμονή."
+      },
+      "example": {
+        "en": "In the American Civil War, Ulysses S. Grant spent months trying to take the river fortress of Vicksburg. He tried digging canals, cutting through bayous and attacking from the north, and every plan failed. Then he ran his boats past the guns at night, marched inland and laid siege. Vicksburg surrendered on 4 July 1863.",
+        "el": "Στον Αμερικανικό Εμφύλιο, ο Ούλισις Γκραντ πέρασε μήνες προσπαθώντας να καταλάβει το οχυρό του Βίξμπεργκ πάνω στον ποταμό. Δοκίμασε να σκάψει κανάλια, να περάσει μέσα από βάλτους, να επιτεθεί από τον βορρά, και κάθε σχέδιο απέτυχε. Τότε πέρασε τα πλοία του νύχτα μπροστά από τα κανόνια, προχώρησε στην ενδοχώρα και το πολιόρκησε. Το Βίξμπεργκ παραδόθηκε στις 4 Ιουλίου 1863."
+      },
+      "apply": {
+        "en": "For a lead who never answers, plan five different approaches instead of five identical calls: a call in the morning, one at lunch, a short email with two sample sites, a message via their practice's page, and a final polite note. Stop after five, with no pressure.",
+        "el": "Για ένα lead που δεν απαντά ποτέ, σχεδίασε πέντε διαφορετικές προσεγγίσεις αντί για πέντε ίδια τηλέφωνα: μία κλήση το πρωί, μία το μεσημέρι, ένα σύντομο email με δύο δείγματα ιστοσελίδων, ένα μήνυμα στη σελίδα του ιατρείου και ένα τελευταίο ευγενικό σημείωμα. Σταμάτα μετά τα πέντε, χωρίς πίεση."
+      },
+      "check": {
+        "q": {"en": "What does Grant's Vicksburg campaign show?", "el": "Τι δείχνει η εκστρατεία του Γκραντ στο Βίξμπεργκ;"},
+        "options": [
+          {"en": "One brilliant plan usually wins at once", "el": "Ένα λαμπρό σχέδιο συνήθως κερδίζει αμέσως"},
+          {"en": "It is wise to quit after the first failure", "el": "Είναι σοφό να τα παρατάς μετά την πρώτη αποτυχία"},
+          {"en": "Trying many approaches until one works", "el": "Δοκιμάζεις πολλούς τρόπους μέχρι να πετύχει ένας"}
+        ],
+        "answer": 2,
+        "why": {"en": "Grant failed again and again, but kept changing his approach until he found the one that worked.", "el": "Ο Γκραντ απέτυχε ξανά και ξανά, αλλά συνέχιζε να αλλάζει προσέγγιση μέχρι να βρει αυτή που δούλεψε."}
+      }
+    },
+    {
+      "title": {"en": "Fail forward", "el": "Αποτυχία που σε πάει μπροστά"},
+      "explain": {
+        "en": "Failure is part of action, not the end of it. Holiday says to treat each failed attempt as feedback that shows what to change next. Fast, cheap experiments beat one big, perfect bet. The danger is not failing; it is failing the same way twice because you didn't learn. Each try should be a little different from the last.",
+        "el": "Η αποτυχία είναι μέρος της δράσης, όχι το τέλος της. Ο Χόλιντεϊ λέει να βλέπεις κάθε προσπάθεια που απέτυχε ως feedback που σου δείχνει τι να αλλάξεις μετά. Τα γρήγορα, φτηνά πειράματα νικούν ένα μεγάλο, τέλειο στοίχημα. Ο κίνδυνος δεν είναι να αποτύχεις· είναι να αποτύχεις με τον ίδιο τρόπο δεύτερη φορά επειδή δεν έμαθες. Κάθε προσπάθεια πρέπει να διαφέρει λίγο από την προηγούμενη."
+      },
+      "example": {
+        "en": "To find a light bulb filament that would last, Thomas Edison and his team tested thousands of materials, from metals to plant fibres. Each failure ruled something out. In the end a carbonised bamboo filament lasted over a thousand hours, and the long search made the bulb practical to sell.",
+        "el": "Για να βρει νήμα λάμπας που να αντέχει, ο Τόμας Έντισον και η ομάδα του δοκίμασαν χιλιάδες υλικά, από μέταλλα μέχρι φυτικές ίνες. Κάθε αποτυχία απέκλειε κάτι. Στο τέλος ένα νήμα από απανθρακωμένο μπαμπού άντεξε πάνω από χίλιες ώρες, και η μακριά αναζήτηση έκανε τη λάμπα εμπορεύσιμη."
+      },
+      "apply": {
+        "en": "Run your Meta ads as small experiments. Each week change one thing only: the hook, the image, or the audience. Write down what changed and the cost per lead. After a month you will know what works, instead of guessing.",
+        "el": "Τρέξε τις διαφημίσεις σου στο Meta ως μικρά πειράματα. Κάθε εβδομάδα άλλαξε ένα μόνο πράγμα: το hook, την εικόνα ή το κοινό. Γράψε τι άλλαξε και πόσο κόστισε κάθε lead. Σε έναν μήνα θα ξέρεις τι δουλεύει, αντί να μαντεύεις."
+      },
+      "check": {
+        "q": {"en": "What is the real danger in failing, according to this idea?", "el": "Ποιος είναι ο πραγματικός κίνδυνος στην αποτυχία, σύμφωνα με αυτή την ιδέα;"},
+        "options": [
+          {"en": "Failing at all, even once", "el": "Να αποτύχεις έστω και μία φορά"},
+          {"en": "Failing the same way twice without learning", "el": "Να αποτύχεις με τον ίδιο τρόπο δύο φορές χωρίς να μάθεις"},
+          {"en": "Trying too many small experiments", "el": "Να δοκιμάζεις πάρα πολλά μικρά πειράματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Each failure is useful only if it changes the next attempt.", "el": "Κάθε αποτυχία είναι χρήσιμη μόνο αν αλλάζει την επόμενη προσπάθεια."}
+      }
+    },
+    {
+      "title": {"en": "Follow the process", "el": "Ακολούθησε τη διαδικασία"},
+      "explain": {
+        "en": "Big goals can freeze you. Holiday's answer is the process: break the huge thing into small steps and focus only on doing the next one well. Don't stare at the final score or the mountain ahead. Do this call, this page, this task, then the next. Done well, one after another, the steps carry you to places that looked impossible.",
+        "el": "Οι μεγάλοι στόχοι μπορούν να σε παγώσουν. Η απάντηση του Χόλιντεϊ είναι η διαδικασία: σπάσε το τεράστιο σε μικρά βήματα και συγκεντρώσου μόνο στο να κάνεις καλά το επόμενο. Μην κοιτάς το τελικό σκορ ή το βουνό μπροστά σου. Κάνε αυτό το τηλέφωνο, αυτή τη σελίδα, αυτή τη δουλειά, και μετά την επόμενη. Όταν τα βήματα γίνονται καλά, το ένα μετά το άλλο, σε φτάνουν σε μέρη που έμοιαζαν αδύνατα."
+      },
+      "example": {
+        "en": "Football coach Nick Saban, who won multiple national titles with the University of Alabama, built his method around «the process». He told players not to think about winning the championship or even the game, but only about doing their job on this single play, as well as possible.",
+        "el": "Ο προπονητής αμερικανικού ποδοσφαίρου Νικ Σέιμπαν, που κατέκτησε πολλούς εθνικούς τίτλους με το Πανεπιστήμιο της Αλαμπάμα, έχτισε τη μέθοδό του γύρω από «τη διαδικασία». Έλεγε στους παίκτες να μη σκέφτονται το πρωτάθλημα ούτε καν τον αγώνα, αλλά μόνο να κάνουν όσο καλύτερα γίνεται τη δουλειά τους σε αυτή τη μία φάση."
+      },
+      "apply": {
+        "en": "When the week feels overwhelming, write only the next three actions on a sticky note: «Call 10 dentists. Send draft to the physiotherapist. Reply to chat messages.» Do them one by one, without looking at the full list. Then write the next three.",
+        "el": "Όταν η εβδομάδα μοιάζει βουνό, γράψε σε ένα χαρτάκι μόνο τις τρεις επόμενες πράξεις: «Τηλέφωνο σε 10 οδοντιάτρους. Αποστολή draft στον φυσικοθεραπευτή. Απαντήσεις στο chat». Κάν' τες μία μία, χωρίς να κοιτάς όλη τη λίστα. Μετά γράψε τις επόμενες τρεις."
+      },
+      "check": {
+        "q": {"en": "What does «follow the process» mean?", "el": "Τι σημαίνει «ακολούθησε τη διαδικασία»;"},
+        "options": [
+          {"en": "Focus only on doing the next small step well", "el": "Συγκεντρώσου μόνο στο να κάνεις καλά το επόμενο μικρό βήμα"},
+          {"en": "Keep checking the final score to stay motivated", "el": "Κοίτα συνέχεια το τελικό σκορ για να έχεις κίνητρο"},
+          {"en": "Plan everything in detail before you start", "el": "Σχεδίασε τα πάντα λεπτομερώς πριν ξεκινήσεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "The big result comes from many small steps done well, one at a time.", "el": "Το μεγάλο αποτέλεσμα έρχεται από πολλά μικρά βήματα που γίνονται καλά, ένα τη φορά."}
+      }
+    },
+    {
+      "title": {"en": "Turn the obstacle against itself", "el": "Στρέψε το εμπόδιο εναντίον του εαυτού του"},
+      "explain": {
+        "en": "Sometimes the best move is not to push directly against an obstacle but to use its own force. Holiday shows people who let the opponent's strength, rules or aggression work for them. Going around, or letting the other side overplay its hand, often beats a head-on fight. Ask: how could this obstacle's power become my advantage?",
+        "el": "Μερικές φορές η καλύτερη κίνηση δεν είναι να σπρώξεις κατά μέτωπο ένα εμπόδιο, αλλά να χρησιμοποιήσεις τη δική του δύναμη. Ο Χόλιντεϊ δείχνει ανθρώπους που άφησαν τη δύναμη, τους κανόνες ή την επιθετικότητα του αντιπάλου να δουλέψουν για εκείνους. Το να πας γύρω γύρω ή να αφήσεις τον άλλον να το παρακάνει συχνά νικά τη μετωπική σύγκρουση. Ρώτα: πώς θα μπορούσε η δύναμη αυτού του εμποδίου να γίνει δικό μου πλεονέκτημα;"
+      },
+      "example": {
+        "en": "In 1930 Gandhi led the Salt March, walking about 385 kilometres to the sea to make salt in defiance of British law. He did not fight back. When police beat peaceful protesters at the Dharasana salt works, reports went around the world, and the empire's own violence turned opinion against British rule.",
+        "el": "Το 1930 ο Γκάντι οδήγησε την Πορεία του Αλατιού, περπατώντας περίπου 385 χιλιόμετρα μέχρι τη θάλασσα για να φτιάξει αλάτι κόντρα στον βρετανικό νόμο. Δεν απάντησε με βία. Όταν η αστυνομία χτύπησε ειρηνικούς διαδηλωτές στις αλυκές της Νταρασάνα, οι ειδήσεις έκαναν τον γύρο του κόσμου, και η ίδια η βία της αυτοκρατορίας έστρεψε την κοινή γνώμη εναντίον της βρετανικής κυριαρχίας."
+      },
+      "apply": {
+        "en": "When a doctor says «I had a bad experience with a web agency», don't argue. Agree, and let the objection carry your offer: «Exactly why I build the site first for 0€. You see it finished, and only if you like it do you pay the yearly hosting.»",
+        "el": "Όταν ένας γιατρός σού πει «είχα κακή εμπειρία με εταιρεία ιστοσελίδων», μη διαφωνήσεις. Συμφώνησε και άφησε την αντίρρηση να κουβαλήσει την προσφορά σου: «Ακριβώς γι' αυτό φτιάχνω πρώτα την ιστοσελίδα με 0€. Τη βλέπετε έτοιμη, και μόνο αν σας αρέσει πληρώνετε τη φιλοξενία του χρόνου»."
+      },
+      "check": {
+        "q": {"en": "How did the Salt March use the obstacle against itself?", "el": "Πώς έστρεψε η Πορεία του Αλατιού το εμπόδιο εναντίον του εαυτού του;"},
+        "options": [
+          {"en": "By defeating British troops in battle", "el": "Νικώντας τα βρετανικά στρατεύματα σε μάχη"},
+          {"en": "By asking politely to change the salt law", "el": "Ζητώντας ευγενικά να αλλάξει ο νόμος για το αλάτι"},
+          {"en": "By letting the empire's violence expose itself", "el": "Αφήνοντας τη βία της αυτοκρατορίας να εκτεθεί μόνη της"}
+        ],
+        "answer": 2,
+        "why": {"en": "Peaceful protest made the opponent's force work against its own legitimacy.", "el": "Η ειρηνική διαμαρτυρία έκανε τη δύναμη του αντιπάλου να δουλέψει ενάντια στη δική του νομιμότητα."}
+      }
+    },
+    {
+      "title": {"en": "Expect the worst in advance", "el": "Περίμενε από πριν το χειρότερο"},
+      "explain": {
+        "en": "The third discipline, will, starts with preparation. The Stoics practised imagining what could go wrong, which Seneca called thinking about future evils. This is not pessimism. When you have already pictured the setback, it can't shock you, and you have often prepared a plan for it. Holiday says to hope for the best, but be ready for the worst.",
+        "el": "Η τρίτη πειθαρχία, η βούληση, ξεκινά από την προετοιμασία. Οι στωικοί εξασκούνταν να φαντάζονται τι μπορεί να πάει στραβά· ο Σενέκας το έλεγε προμελέτη των μελλοντικών κακών. Δεν είναι απαισιοδοξία. Όταν έχεις ήδη φανταστεί την αναποδιά, δεν μπορεί να σε σοκάρει, και συχνά έχεις ήδη ένα σχέδιο γι' αυτήν. Ο Χόλιντεϊ λέει να ελπίζεις στο καλύτερο, αλλά να είσαι έτοιμος για το χειρότερο."
+      },
+      "example": {
+        "en": "Psychologist Gary Klein created the «premortem», now used by many companies. Before a project starts, the team imagines it is a year later and the project has failed badly. Each person writes down why. Research by Klein's colleagues found this simple exercise helps teams spot many more risks before they happen.",
+        "el": "Ο ψυχολόγος Γκάρι Κλάιν δημιούργησε το «premortem», που σήμερα το χρησιμοποιούν πολλές εταιρείες. Πριν ξεκινήσει ένα έργο, η ομάδα φαντάζεται ότι πέρασε ένας χρόνος και το έργο απέτυχε παταγωδώς. Ο καθένας γράφει γιατί. Έρευνες συνεργατών του Κλάιν βρήκαν ότι αυτή η απλή άσκηση βοηθά τις ομάδες να δουν πολύ περισσότερους κινδύνους πριν συμβούν."
+      },
+      "apply": {
+        "en": "Before you launch a new service, like the eshop offer, sit for 15 minutes and write: «It's six months later and this failed. Why?» List every reason: no clients, too much support work, unclear price. Then add one prevention step for the top three.",
+        "el": "Πριν ξεκινήσεις μια νέα υπηρεσία, όπως την προσφορά για eshop, κάτσε δεκαπέντε λεπτά και γράψε: «Πέρασαν έξι μήνες και αυτό απέτυχε. Γιατί;» Γράψε κάθε λόγο: δεν ήρθαν πελάτες, πάρα πολλή υποστήριξη, ασαφής τιμή. Μετά βάλε ένα βήμα πρόληψης για τους τρεις πιο σοβαρούς."
+      },
+      "check": {
+        "q": {"en": "What does a premortem ask?", "el": "Τι ρωτάει ένα premortem;"},
+        "options": [
+          {"en": "Why did the finished project succeed?", "el": "Γιατί πέτυχε το έργο που τελείωσε;"},
+          {"en": "Imagine it has failed: why did it fail?", "el": "Φαντάσου ότι απέτυχε: γιατί απέτυχε;"},
+          {"en": "Who is to blame for the last failure?", "el": "Ποιος φταίει για την τελευταία αποτυχία;"}
+        ],
+        "answer": 1,
+        "why": {"en": "Imagining failure in advance reveals risks you can still prevent.", "el": "Όταν φαντάζεσαι από πριν την αποτυχία, φαίνονται κίνδυνοι που ακόμα προλαβαίνεις να αποτρέψεις."}
+      }
+    },
+    {
+      "title": {"en": "Love what happens", "el": "Αγάπα ό,τι συμβαίνει"},
+      "explain": {
+        "en": "Some things cannot be changed. For those, Holiday goes beyond acceptance to «amor fati», love of fate, a phrase from Nietzsche. Don't just tolerate what happened; embrace it as the material you now have to work with. It doesn't mean you liked it. It means you stop wasting energy wishing it were different and put everything into what comes next.",
+        "el": "Κάποια πράγματα δεν αλλάζουν. Για αυτά ο Χόλιντεϊ πάει πέρα από την αποδοχή, στο «amor fati», την αγάπη για τη μοίρα, μια φράση του Νίτσε. Μην ανέχεσαι απλώς αυτό που συνέβη· αγκάλιασέ το ως το υλικό που έχεις τώρα για να δουλέψεις. Δεν σημαίνει ότι σου άρεσε. Σημαίνει ότι σταματάς να σπαταλάς ενέργεια ευχόμενος να ήταν αλλιώς και τα δίνεις όλα σε ό,τι ακολουθεί."
+      },
+      "example": {
+        "en": "In 1939 baseball star Lou Gehrig had to retire because of a fatal disease, now often called by his name. Facing a packed Yankee Stadium, he did not complain. He said that he considered himself the luckiest man on the face of the earth, and thanked everyone for the life he had been given.",
+        "el": "Το 1939 ο σταρ του μπέιζμπολ Λου Γκέριγκ αναγκάστηκε να αποσυρθεί εξαιτίας μιας θανατηφόρας ασθένειας, που σήμερα συχνά φέρει το όνομά του. Μπροστά σε ένα κατάμεστο Yankee Stadium δεν παραπονέθηκε. Είπε ότι θεωρεί τον εαυτό του τον πιο τυχερό άνθρωπο πάνω στη γη και ευχαρίστησε όλους για τη ζωή που του δόθηκε."
+      },
+      "apply": {
+        "en": "When something you can't change hits, like losing a big contract or Meta banning an ad account, say: «Okay. This is what I have now.» Then write one way it can make the business stronger, for example relying less on one channel, and start on it today.",
+        "el": "Όταν σε χτυπήσει κάτι που δεν αλλάζει, όπως να χάσεις ένα μεγάλο συμβόλαιο ή να σου κλειδώσει το Meta τον διαφημιστικό λογαριασμό, πες: «Εντάξει. Αυτό έχω τώρα». Μετά γράψε έναν τρόπο που μπορεί να κάνει την επιχείρηση πιο δυνατή, π.χ. να εξαρτάται λιγότερο από ένα κανάλι, και ξεκίνα σήμερα."
+      },
+      "check": {
+        "q": {"en": "What does «amor fati» mean?", "el": "Τι σημαίνει «amor fati»;"},
+        "options": [
+          {"en": "Loving and using what happens, even when you can't change it", "el": "Να αγαπάς και να αξιοποιείς ό,τι συμβαίνει, ακόμα κι όταν δεν αλλάζει"},
+          {"en": "Pretending you are happy about every setback", "el": "Να κάνεις ότι χαίρεσαι για κάθε αναποδιά"},
+          {"en": "Believing everything is decided, so effort is useless", "el": "Να πιστεύεις ότι όλα είναι γραμμένα, άρα ο κόπος είναι άχρηστος"}
+        ],
+        "answer": 0,
+        "why": {"en": "It is embracing reality as your material to work with, not fake cheerfulness or giving up.", "el": "Είναι να αγκαλιάζεις την πραγματικότητα ως υλικό για δουλειά, όχι ψεύτικη χαρά ή παραίτηση."}
+      }
+    },
+    {
+      "title": {"en": "Build your inner citadel", "el": "Χτίσε το εσωτερικό σου φρούριο"},
+      "explain": {
+        "en": "The Stoics spoke of an inner citadel, a fortress inside you that hard times cannot break. Holiday says nobody is born with it; you build it in good times, through training, discipline and small hardships, so it is ready when the bad times come. Strength is not a gift but a structure you put up, stone by stone.",
+        "el": "Οι στωικοί μιλούσαν για ένα εσωτερικό φρούριο, μια ακρόπολη μέσα σου που οι δύσκολες στιγμές δεν μπορούν να γκρεμίσουν. Ο Χόλιντεϊ λέει ότι κανείς δεν γεννιέται με αυτό· το χτίζεις στις καλές εποχές, με προπόνηση, πειθαρχία και μικρές δυσκολίες, ώστε να είναι έτοιμο όταν έρθουν οι κακές. Η δύναμη δεν είναι δώρο αλλά κατασκευή που σηκώνεις πέτρα πέτρα."
+      },
+      "example": {
+        "en": "Theodore Roosevelt was a sickly child with severe asthma. His father told him he had the mind but not the body, and must make his body. He trained hard for years. On a single day in 1884 his mother and his wife both died. He went west to ranch in the Dakota Badlands, recovered, and later became US president.",
+        "el": "Ο Θεόδωρος Ρούζβελτ ήταν φιλάσθενο παιδί με βαρύ άσθμα. Ο πατέρας του τού είπε ότι έχει το μυαλό αλλά όχι το σώμα, και ότι πρέπει να το φτιάξει. Προπονήθηκε σκληρά για χρόνια. Μια μέρα του 1884 πέθαναν και η μητέρα του και η γυναίκα του. Έφυγε στη Δύση να δουλέψει σε ράντσο στα Badlands της Ντακότα, ξαναστάθηκε στα πόδια του και αργότερα έγινε πρόεδρος των ΗΠΑ."
+      },
+      "apply": {
+        "en": "Build your citadel while things are going well. Keep a daily habit that trains discipline, like a morning workout or 30 minutes of reading before your phone. Build a cash reserve that covers three months of costs. Both are stones you will be glad of in a bad month.",
+        "el": "Χτίσε το φρούριό σου όσο πάνε καλά τα πράγματα. Κράτα μια καθημερινή συνήθεια που προπονεί την πειθαρχία, όπως γυμναστική το πρωί ή μισή ώρα διάβασμα πριν πιάσεις το κινητό. Φτιάξε ένα αποθεματικό που καλύπτει τα έξοδα τριών μηνών. Και τα δύο είναι πέτρες που θα ευχαριστιέσαι έναν κακό μήνα."
+      },
+      "check": {
+        "q": {"en": "When do you build the inner citadel?", "el": "Πότε χτίζεις το εσωτερικό φρούριο;"},
+        "options": [
+          {"en": "Only when a crisis arrives", "el": "Μόνο όταν έρθει μια κρίση"},
+          {"en": "It is a gift some people are born with", "el": "Είναι δώρο με το οποίο γεννιούνται κάποιοι"},
+          {"en": "In good times, through training and discipline", "el": "Στις καλές εποχές, με προπόνηση και πειθαρχία"}
+        ],
+        "answer": 2,
+        "why": {"en": "Strength must be ready before you need it, so you build it while things are calm.", "el": "Η δύναμη πρέπει να είναι έτοιμη πριν τη χρειαστείς, γι' αυτό τη χτίζεις όσο επικρατεί ηρεμία."}
+      }
+    },
+    {
+      "title": {"en": "Something bigger than yourself", "el": "Κάτι μεγαλύτερο από σένα"},
+      "explain": {
+        "en": "When you are stuck in your own problem, it can feel like the whole world. Holiday's advice: turn outward. Help someone else, serve a cause, think of the people who depend on you. Your own pain becomes smaller and your courage bigger when the struggle is not only about you. An obstacle can even become your mission.",
+        "el": "Όταν έχεις κολλήσει στο δικό σου πρόβλημα, μοιάζει σαν να είναι όλος ο κόσμος. Η συμβουλή του Χόλιντεϊ: γύρνα προς τα έξω. Βοήθησε κάποιον άλλο, υπηρέτησε έναν σκοπό, σκέψου τους ανθρώπους που εξαρτώνται από σένα. Ο πόνος σου μικραίνει και το θάρρος σου μεγαλώνει όταν η μάχη δεν αφορά μόνο εσένα. Ένα εμπόδιο μπορεί να γίνει ακόμα και η αποστολή σου."
+      },
+      "example": {
+        "en": "Actor Michael J. Fox was diagnosed with Parkinson's disease in 1991, at 29. After going public, he set up a foundation in 2000 to speed up research for a cure. It has since funded more than a billion dollars of research, turning his own illness into a mission for millions of patients.",
+        "el": "Ο ηθοποιός Μάικλ Τζ. Φοξ διαγνώστηκε με Πάρκινσον το 1991, στα 29 του. Αφού το έκανε δημόσιο, ίδρυσε το 2000 ένα ίδρυμα για να επιταχύνει την έρευνα για θεραπεία. Από τότε έχει χρηματοδοτήσει έρευνα πάνω από ένα δισεκατομμύριο δολάρια, κάνοντας τη δική του αρρώστια αποστολή για εκατομμύρια ασθενείς."
+      },
+      "apply": {
+        "en": "On a bad week, help someone outside your business for an hour: answer a younger freelancer's questions, or fix a small site for a local charity for free. Then return to your own problem. You'll usually come back calmer and with a clearer head.",
+        "el": "Σε μια κακή εβδομάδα, βοήθησε για μία ώρα κάποιον έξω από τη δουλειά σου: απάντησε στις ερωτήσεις ενός νεότερου freelancer ή φτιάξε δωρεάν μια μικρή σελίδα για έναν τοπικό φιλανθρωπικό σύλλογο. Μετά γύρνα στο δικό σου πρόβλημα. Συνήθως επιστρέφεις πιο ήρεμος και με πιο καθαρό μυαλό."
+      },
+      "check": {
+        "q": {"en": "Why does serving something bigger help with your own obstacle?", "el": "Γιατί βοηθά με το δικό σου εμπόδιο να υπηρετείς κάτι μεγαλύτερο;"},
+        "options": [
+          {"en": "It makes others solve your problem for you", "el": "Κάνει τους άλλους να λύσουν το πρόβλημά σου"},
+          {"en": "It shrinks your own pain and grows your courage", "el": "Μικραίνει τον δικό σου πόνο και μεγαλώνει το θάρρος σου"},
+          {"en": "It lets you forget the problem permanently", "el": "Σε αφήνει να ξεχάσεις οριστικά το πρόβλημα"}
+        ],
+        "answer": 1,
+        "why": {"en": "When the struggle is for others too, it carries more meaning and feels less crushing.", "el": "Όταν η μάχη είναι και για τους άλλους, έχει περισσότερο νόημα και σε συνθλίβει λιγότερο."}
+      }
+    },
+    {
+      "title": {"en": "Remember you will die", "el": "Θυμήσου ότι θα πεθάνεις"},
+      "explain": {
+        "en": "The last obstacle is death, and nobody overcomes it. Holiday says that remembering it, «memento mori», is not gloomy but freeing. It puts small problems in proportion, reminds you that time is limited, and pushes you to act now instead of someday. Every setback looks smaller next to the fact that your days are numbered.",
+        "el": "Το τελευταίο εμπόδιο είναι ο θάνατος, και κανείς δεν το ξεπερνά. Ο Χόλιντεϊ λέει ότι το να το θυμάσαι, το «memento mori», δεν είναι μελαγχολικό αλλά απελευθερωτικό. Βάζει τα μικρά προβλήματα στη θέση τους, σου θυμίζει ότι ο χρόνος είναι λίγος και σε σπρώχνει να πράξεις τώρα αντί για «κάποια μέρα». Κάθε αναποδιά μικραίνει δίπλα στο ότι οι μέρες σου είναι μετρημένες."
+      },
+      "example": {
+        "en": "In his Essays, Michel de Montaigne describes being thrown violently from his horse and left nearly dead. As he drifted close to death, he felt not terror but a gentle calm. He wrote that the experience took away much of his fear of dying, and he lived more freely afterwards.",
+        "el": "Στα «Δοκίμιά» του, ο Μισέλ ντε Μονταίνι περιγράφει πώς τον πέταξε βίαια το άλογό του και έμεινε σχεδόν νεκρός. Καθώς γλιστρούσε κοντά στον θάνατο, δεν ένιωσε τρόμο αλλά μια γλυκιά ηρεμία. Έγραψε ότι η εμπειρία τού πήρε μεγάλο μέρος από τον φόβο του θανάτου και ότι έζησε μετά πιο ελεύθερα."
+      },
+      "apply": {
+        "en": "When a small problem feels huge, like a harsh comment under a reel, ask: «Will this matter in five years?» Once a month ask a bigger question: «If I had one year left, what would I stop doing and what would I start?» Act on one answer.",
+        "el": "Όταν ένα μικρό πρόβλημα μοιάζει τεράστιο, όπως ένα σκληρό σχόλιο κάτω από ένα reel, ρώτα: «Θα έχει σημασία σε πέντε χρόνια;» Μία φορά τον μήνα κάνε μια μεγαλύτερη ερώτηση: «Αν μου έμενε ένας χρόνος, τι θα σταματούσα και τι θα ξεκινούσα;» Κάνε πράξη μία απάντηση."
+      },
+      "check": {
+        "q": {"en": "Why does Holiday say remembering death is useful?", "el": "Γιατί ο Χόλιντεϊ λέει ότι είναι χρήσιμο να θυμάσαι τον θάνατο;"},
+        "options": [
+          {"en": "It puts problems in proportion and pushes you to act now", "el": "Βάζει τα προβλήματα στη θέση τους και σε σπρώχνει να πράξεις τώρα"},
+          {"en": "It makes you take fewer risks in life", "el": "Σε κάνει να παίρνεις λιγότερα ρίσκα στη ζωή"},
+          {"en": "It proves that nothing really matters", "el": "Αποδεικνύει ότι τίποτα δεν έχει πραγματικά σημασία"}
+        ],
+        "answer": 0,
+        "why": {"en": "Limited time makes small troubles smaller and important actions more urgent.", "el": "Ο περιορισμένος χρόνος κάνει τα μικρά προβλήματα μικρότερα και τις σημαντικές πράξεις πιο επείγουσες."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Your biggest client of the year cancels by email. What do you do first?", "el": "Ο μεγαλύτερος πελάτης της χρονιάς ακυρώνει με email. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Reply at once, telling him he's making a mistake", "el": "Απαντάς αμέσως ότι κάνει λάθος"},
+        {"en": "Wait, write the plain facts, then decide the next step", "el": "Περιμένεις, γράφεις τα σκέτα γεγονότα και μετά αποφασίζεις το επόμενο βήμα"},
+        {"en": "Complain to your team that clients are ungrateful", "el": "Παραπονιέσαι στην ομάδα ότι οι πελάτες είναι αχάριστοι"}
+      ],
+      "answer": 1,
+      "why": {"en": "Perception first: calm and plain facts show options that panic hides.", "el": "Πρώτα η αντίληψη: η ηρεμία και τα σκέτα γεγονότα δείχνουν επιλογές που ο πανικός κρύβει."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "Your Meta ads have brought almost no leads for two weeks. What do you do?", "el": "Οι διαφημίσεις σου στο Meta δεν φέρνουν σχεδόν κανένα lead εδώ και δύο εβδομάδες. Τι κάνεις;"},
+      "options": [
+        {"en": "Stop all ads for good", "el": "Σταματάς οριστικά όλες τις διαφημίσεις"},
+        {"en": "Keep everything the same and wait", "el": "Κρατάς τα πάντα ίδια και περιμένεις"},
+        {"en": "Change one thing a week and measure the cost per lead", "el": "Αλλάζεις ένα πράγμα την εβδομάδα και μετράς το κόστος ανά lead"}
+      ],
+      "answer": 2,
+      "why": {"en": "Fail forward: small experiments turn each failure into information.", "el": "Αποτυχία που σε πάει μπροστά: τα μικρά πειράματα κάνουν κάθε αποτυχία πληροφορία."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "A dentist says: «I don't trust web agencies, I got burned before.» What do you say?", "el": "Ένας οδοντίατρος λέει: «Δεν εμπιστεύομαι εταιρείες ιστοσελίδων, έχω καεί στο παρελθόν». Τι λες;"},
+      "options": [
+        {"en": "«That's why I build it first for 0€, and you only pay hosting if you like it.»", "el": "«Γι' αυτό τη φτιάχνω πρώτα με 0€, και πληρώνετε τη φιλοξενία μόνο αν σας αρέσει»"},
+        {"en": "«We are not like the others, trust me.»", "el": "«Εμείς δεν είμαστε σαν τους άλλους, εμπιστευτείτε με»"},
+        {"en": "«Then I won't waste your time.»", "el": "«Τότε δεν θα σας πάρω άλλο χρόνο»"}
+      ],
+      "answer": 0,
+      "why": {"en": "Turn the obstacle against itself: his distrust becomes the reason your no-risk offer makes sense.", "el": "Στρέψε το εμπόδιο εναντίον του εαυτού του: η δυσπιστία του γίνεται ο λόγος που η προσφορά σου χωρίς ρίσκο έχει νόημα."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "You're about to launch a new eshop service next month. What does Holiday suggest?", "el": "Ετοιμάζεσαι να ξεκινήσεις τον επόμενο μήνα μια νέα υπηρεσία για eshop. Τι προτείνει ο Χόλιντεϊ;"},
+      "options": [
+        {"en": "Stay positive and don't think about failure", "el": "Μείνε θετικός και μη σκέφτεσαι την αποτυχία"},
+        {"en": "Imagine it failed, list why, and prevent the top risks", "el": "Φαντάσου ότι απέτυχε, γράψε γιατί και πρόλαβε τους μεγαλύτερους κινδύνους"},
+        {"en": "Delay it until every detail is perfect", "el": "Ανάβαλέ το μέχρι να είναι τέλεια κάθε λεπτομέρεια"}
+      ],
+      "answer": 1,
+      "why": {"en": "Expecting the worst in advance means setbacks can't shock you and many can be prevented.", "el": "Όταν περιμένεις από πριν το χειρότερο, οι αναποδιές δεν σε σοκάρουν και πολλές προλαμβάνονται."},
+      "idea": 14
+    },
+    {
+      "q": {"en": "You have 30 open tasks and feel frozen. What do you do?", "el": "Έχεις 30 ανοιχτές δουλειές και έχεις παγώσει. Τι κάνεις;"},
+      "options": [
+        {"en": "Reorganise the whole list for an hour", "el": "Αναδιοργανώνεις όλη τη λίστα για μία ώρα"},
+        {"en": "Take the day off until you feel ready", "el": "Παίρνεις ρεπό μέχρι να νιώσεις έτοιμος"},
+        {"en": "Write the next three actions and do only those", "el": "Γράφεις τις τρεις επόμενες πράξεις και κάνεις μόνο αυτές"}
+      ],
+      "answer": 2,
+      "why": {"en": "Follow the process: the next small step, done well, beats staring at the mountain.", "el": "Ακολούθησε τη διαδικασία: το επόμενο μικρό βήμα, όταν γίνεται καλά, νικά το να κοιτάς το βουνό."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "An injury stops you training for three months. What is the Stoic response?", "el": "Ένας τραυματισμός σε σταματά από την προπόνηση για τρεις μήνες. Ποια είναι η στωική απάντηση;"},
+      "options": [
+        {"en": "Ask what is up to you and put all your energy there", "el": "Ρωτάς τι εξαρτάται από σένα και ρίχνεις εκεί όλη σου την ενέργεια"},
+        {"en": "Keep training anyway and ignore the doctor", "el": "Συνεχίζεις την προπόνηση και αγνοείς τον γιατρό"},
+        {"en": "Give up sport, since your body let you down", "el": "Παρατάς τον αθλητισμό, αφού σε πρόδωσε το σώμα σου"}
+      ],
+      "answer": 0,
+      "why": {"en": "Like Tommy John, focus on the rehab and the work you can control, not on what you can't.", "el": "Όπως ο Τόμι Τζον, εστίασε στην αποκατάσταση και στη δουλειά που ελέγχεις, όχι σε ό,τι δεν ελέγχεις."},
+      "idea": 6
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Holiday's three disciplines are perception, action and will.", "el": "Οι τρεις πειθαρχίες του Χόλιντεϊ είναι η αντίληψη, η δράση και η βούληση."}, "answer": true, "why": {"en": "The book is organised in exactly these three parts.", "el": "Το βιβλίο είναι χωρισμένο ακριβώς σε αυτά τα τρία μέρη."}},
+    {"s": {"en": "Holiday advises ignoring problems until they go away on their own.", "el": "Ο Χόλιντεϊ συμβουλεύει να αγνοείς τα προβλήματα μέχρι να φύγουν μόνα τους."}, "answer": false, "why": {"en": "He says to see them clearly and act on them, not to look away.", "el": "Λέει να τα βλέπεις καθαρά και να δρας, όχι να κοιτάς αλλού."}},
+    {"s": {"en": "Grant tried many failed approaches before taking Vicksburg.", "el": "Ο Γκραντ δοκίμασε πολλούς τρόπους που απέτυχαν πριν καταλάβει το Βίξμπεργκ."}, "answer": true, "why": {"en": "Canals, bayous and northern attacks failed before his final plan worked.", "el": "Κανάλια, βάλτοι και επιθέσεις από τον βορρά απέτυχαν πριν δουλέψει το τελικό του σχέδιο."}},
+    {"s": {"en": "Amor fati means simply putting up with what happens.", "el": "Το amor fati σημαίνει απλώς να ανέχεσαι ό,τι συμβαίνει."}, "answer": false, "why": {"en": "It goes further: you embrace what happened as material to work with.", "el": "Πάει πιο μακριά: αγκαλιάζεις αυτό που συνέβη ως υλικό για δουλειά."}},
+    {"s": {"en": "A premortem imagines a project has already failed and asks why.", "el": "Ένα premortem φαντάζεται ότι ένα έργο έχει ήδη αποτύχει και ρωτά γιατί."}, "answer": true, "why": {"en": "It helps teams spot risks before they happen.", "el": "Βοηθά τις ομάδες να δουν τους κινδύνους πριν συμβούν."}},
+    {"s": {"en": "The book says seeing a problem differently is enough, without action.", "el": "Το βιβλίο λέει ότι αρκεί να δεις αλλιώς το πρόβλημα, χωρίς δράση."}, "answer": false, "why": {"en": "Perception is only the first of three disciplines; action and will must follow.", "el": "Η αντίληψη είναι μόνο η πρώτη από τις τρεις πειθαρχίες· πρέπει να ακολουθήσουν η δράση και η βούληση."}},
+    {"s": {"en": "According to Plutarch, Demosthenes practised speaking with pebbles in his mouth.", "el": "Σύμφωνα με τον Πλούταρχο, ο Δημοσθένης εξασκούνταν να μιλά με βότσαλα στο στόμα."}, "answer": true, "why": {"en": "He trained his weak voice directly until he became Athens' greatest orator.", "el": "Προπόνησε κατευθείαν την αδύναμη φωνή του μέχρι να γίνει ο μεγαλύτερος ρήτορας της Αθήνας."}},
+    {"s": {"en": "Holiday says you control the outcome if you try hard enough.", "el": "Ο Χόλιντεϊ λέει ότι ελέγχεις το αποτέλεσμα αν προσπαθήσεις αρκετά."}, "answer": false, "why": {"en": "You control your effort, judgement and attitude, never the outcome itself.", "el": "Ελέγχεις την προσπάθεια, την κρίση και τη στάση σου, ποτέ το ίδιο το αποτέλεσμα."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Perception", "el": "Αντίληψη"}, "b": {"en": "Seeing the problem clearly, without panic", "el": "Να βλέπεις καθαρά το πρόβλημα, χωρίς πανικό"}},
+    {"a": {"en": "Action", "el": "Δράση"}, "b": {"en": "Moving on the part you can change", "el": "Να κινείσαι σε ό,τι μπορείς να αλλάξεις"}},
+    {"a": {"en": "Will", "el": "Βούληση"}, "b": {"en": "Inner strength to bear what can't change", "el": "Εσωτερική δύναμη για ό,τι δεν αλλάζει"}},
+    {"a": {"en": "Amor fati", "el": "Αγάπη για τη μοίρα"}, "b": {"en": "Loving what happens and using it", "el": "Να αγαπάς ό,τι συμβαίνει και να το αξιοποιείς"}},
+    {"a": {"en": "Premortem", "el": "Το premortem"}, "b": {"en": "Imagining failure in advance to prevent it", "el": "Φαντάζεσαι την αποτυχία από πριν για να την προλάβεις"}},
+    {"a": {"en": "The process", "el": "Η διαδικασία"}, "b": {"en": "The next small step, not the scoreboard", "el": "Το επόμενο μικρό βήμα, όχι το σκορ"}}
+  ],
+  "missions": [
+    {"en": "Write your biggest current obstacle and split it into «up to me» and «not up to me»; plan only the first column.", "el": "Γράψε το μεγαλύτερο εμπόδιό σου αυτή τη στιγμή και χώρισέ το σε «εξαρτάται από μένα» και «δεν εξαρτάται»· σχεδίασε μόνο την πρώτη στήλη."},
+    {"en": "Run a 15-minute premortem on your next project: imagine it failed and list every reason why.", "el": "Κάνε ένα premortem δεκαπέντε λεπτών για το επόμενο έργο σου: φαντάσου ότι απέτυχε και γράψε κάθε λόγο."},
+    {"en": "Write one problem in the third person, as if a friend had it, and write the advice you would give him.", "el": "Γράψε ένα πρόβλημα στο τρίτο πρόσωπο, σαν να το είχε ένας φίλος, και γράψε τη συμβουλή που θα του έδινες."},
+    {"en": "Pick your weakest sales skill and practise it alone for 15 minutes a day for five days.", "el": "Διάλεξε την πιο αδύναμη δεξιότητά σου στις πωλήσεις και εξασκήσου μόνος δεκαπέντε λεπτά τη μέρα για πέντε μέρες."},
+    {"en": "Do the first ugly version of the task you keep postponing today, in 30 minutes, and send or publish it.", "el": "Κάνε σήμερα την πρώτη άσχημη εκδοχή της δουλειάς που αναβάλλεις, σε μισή ώρα, και στείλ' την ή δημοσίευσέ την."}
+  ],
+  "mantra": {"en": "See it clearly, do what I can, accept the rest.", "el": "Το βλέπω καθαρά, κάνω ό,τι μπορώ, δέχομαι τα υπόλοιπα."},
+  "careful": {
+    "en": "This is a popular, readable introduction, not scholarship. It builds its case from heroic stories chosen to fit, which is survivorship bias: we rarely hear about people who reframed and persisted and still failed. Some history is simplified, and classical scholars say it flattens Stoic philosophy. Reframing can also be misused to accept things you should change, or to hide real distress; it is no substitute for help when you are struggling.",
+    "el": "Είναι μια εκλαϊκευμένη, ευκολοδιάβαστη εισαγωγή, όχι επιστημονικό έργο. Χτίζει το επιχείρημά του με ηρωικές ιστορίες διαλεγμένες ώστε να ταιριάζουν, δηλαδή με μεροληψία επιβίωσης: σπάνια ακούμε για όσους άλλαξαν οπτική, επέμειναν και παρ' όλα αυτά απέτυχαν. Κάποια ιστορικά γεγονότα απλουστεύονται, και οι μελετητές της αρχαιότητας λένε ότι ισοπεδώνει τη στωική φιλοσοφία. Η αλλαγή οπτικής μπορεί επίσης να γίνει δικαιολογία για να δέχεσαι όσα θα έπρεπε να αλλάξεις ή για να κρύβεις πραγματική δυσφορία· δεν αντικαθιστά τη βοήθεια όταν δυσκολεύεσαι."
+  },
+  "connects": [
+    {"book": "meditations", "note": {"en": "Holiday's title is a line from Marcus; read Meditations to meet the original voice behind this modern retelling.", "el": "Ο τίτλος του Χόλιντεϊ είναι φράση του Μάρκου· διάβασε τα «Εις εαυτόν» για να γνωρίσεις την αυθεντική φωνή πίσω από αυτή τη σύγχρονη αφήγηση."}},
+    {"book": "mans-search-for-meaning", "note": {"en": "Frankl shows the choice of attitude in its most extreme form; Holiday applies the same freedom to everyday setbacks.", "el": "Ο Φρανκλ δείχνει την επιλογή στάσης στην πιο ακραία μορφή της· ο Χόλιντεϊ εφαρμόζει την ίδια ελευθερία στις καθημερινές αναποδιές."}},
+    {"book": "letters-from-a-stoic", "note": {"en": "Seneca's letters are the source of ideas like preparing for future evils, explained with more depth and nuance.", "el": "Τα γράμματα του Σενέκα είναι η πηγή ιδεών όπως η προετοιμασία για τα μελλοντικά κακά, με περισσότερο βάθος και αποχρώσεις."}}
+  ]
+}

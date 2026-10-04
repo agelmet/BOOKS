@@ -1,0 +1,601 @@
+{
+  "id": "psychology-of-money",
+  "title": {"en": "The Psychology of Money", "el": "Η ψυχολογία του χρήματος"},
+  "author": "Morgan Housel",
+  "authorEl": "Μόργκαν Χάουζελ",
+  "year": 2020,
+  "shelf": "wisdom",
+  "skills": {"wisdom": 3, "strategy": 2, "mindset": 2},
+  "oneLine": {
+    "en": "Doing well with money depends less on how smart you are and more on how you behave: save, avoid ruin, give compounding time, and know what is enough.",
+    "el": "Το να τα πηγαίνεις καλά με τα χρήματα εξαρτάται λιγότερο από το πόσο έξυπνος είσαι και περισσότερο από το πώς φέρεσαι: αποταμίευε, απόφυγε την καταστροφή, δώσε χρόνο στον ανατοκισμό και να ξέρεις πότε φτάνει."
+  },
+  "story": {
+    "en": "Morgan Housel is an American writer who spent years writing about finance for The Motley Fool and The Wall Street Journal, and became a partner at the Collaborative Fund. A 2018 blog post of his on the psychology of money went viral, and he grew it into this book of short, story-driven chapters. Its message, that money is about behaviour more than intelligence, is why millions of readers keep passing it on.",
+    "el": "Ο Μόργκαν Χάουζελ είναι Αμερικανός συγγραφέας που για χρόνια έγραφε για οικονομικά στο The Motley Fool και στη Wall Street Journal, και έγινε συνέταιρος στο Collaborative Fund. Ένα άρθρο του από το 2018 για την ψυχολογία του χρήματος έγινε viral, κι εκείνος το μεγάλωσε σε αυτό το βιβλίο με σύντομα κεφάλαια γεμάτα ιστορίες. Το μήνυμά του, ότι τα χρήματα είναι θέμα συμπεριφοράς περισσότερο παρά εξυπνάδας, είναι ο λόγος που εκατομμύρια αναγνώστες συνεχίζουν να το προτείνουν."
+  },
+  "forYou": {
+    "en": "Your business lives on yearly renewals, small steady payments that compound if clients stay. You have no fixed salary, so cash, saving and avoiding ruin matter more to you than to an employee. This book helps you decide what is enough, how much reserve to keep, how to price and grow without betting the company, and how to stay calm in slow months.",
+    "el": "Η δουλειά σου ζει από τις ετήσιες ανανεώσεις, μικρές σταθερές πληρωμές που πολλαπλασιάζονται αν οι πελάτες μένουν. Δεν έχεις σταθερό μισθό, άρα τα μετρητά, η αποταμίευση και η αποφυγή της καταστροφής μετράνε για σένα πιο πολύ απ' ό,τι για έναν υπάλληλο. Το βιβλίο σε βοηθά να αποφασίσεις τι σου φτάνει, πόσο αποθεματικό να κρατάς, πώς να τιμολογείς και να μεγαλώνεις χωρίς να παίζεις την εταιρεία κορώνα-γράμματα, και πώς να μένεις ήρεμος στους αργούς μήνες."
+  },
+  "ideas": [
+    {
+      "title": {"en": "No one is crazy", "el": "Κανείς δεν είναι τρελός"},
+      "explain": {
+        "en": "Everyone's view of money comes from their own small slice of experience: the country, the decade, the family, the luck of their first job. What looks crazy to you makes sense to someone with a different history. What you lived through hits much harder than anything you read. So two people from different times can both be reasonable and still disagree completely.",
+        "el": "Η ματιά του καθενός στα χρήματα βγαίνει από το δικό του μικρό κομμάτι εμπειρίας: τη χώρα, τη δεκαετία, την οικογένεια, την τύχη της πρώτης του δουλειάς. Αυτό που σε σένα μοιάζει τρελό, για κάποιον με άλλη ιστορία βγάζει νόημα. Όσα έζησες σε επηρεάζουν πολύ περισσότερο από όσα διάβασες. Έτσι δύο άνθρωποι από διαφορετικές εποχές μπορεί να είναι και οι δύο λογικοί και να διαφωνούν εντελώς."
+      },
+      "example": {
+        "en": "Economists Ulrike Malmendier and Stefan Nagel studied decades of data on American households. They found that people's willingness to take financial risk depended strongly on what the economy and markets did during their own lifetime, especially in early adulthood. Those who lived through bad times stayed more careful for life.",
+        "el": "Οι οικονομολόγοι Ούλρικε Μάλμεντιρ και Στέφαν Νάγκελ μελέτησαν στοιχεία δεκαετιών για αμερικανικά νοικοκυριά. Βρήκαν ότι η διάθεση των ανθρώπων να ρισκάρουν οικονομικά εξαρτιόταν πολύ από το τι έκαναν η οικονομία και οι αγορές στη διάρκεια της δικής τους ζωής, ειδικά στα πρώτα χρόνια της ενήλικης ζωής. Όσοι έζησαν δύσκολες εποχές έμειναν πιο προσεκτικοί για πάντα."
+      },
+      "apply": {
+        "en": "When a doctor hesitates over 130€ a year, do not call him cheap in your head. Ask about his history: «Have you had a website before? What happened with it?» Maybe someone took his money and vanished. Answer that story by showing live sites and explaining that the build costs nothing.",
+        "el": "Όταν ένας γιατρός διστάζει για 130€ τον χρόνο, μην τον πεις τσιγκούνη μέσα σου. Ρώτα για την ιστορία του: «Είχατε ξαναφτιάξει ιστοσελίδα; Τι έγινε τότε;» Ίσως κάποιος πήρε τα λεφτά του κι εξαφανίστηκε. Απάντησε σε αυτή την ιστορία δείχνοντας live ιστοσελίδες και εξηγώντας ότι η κατασκευή δεν κοστίζει τίποτα."
+      },
+      "check": {
+        "q": {"en": "Why do people make money choices that look crazy to you?", "el": "Γιατί οι άλλοι κάνουν επιλογές με τα χρήματα που σου φαίνονται τρελές;"},
+        "options": [
+          {"en": "They lack basic education", "el": "Τους λείπει η βασική μόρφωση"},
+          {"en": "They mainly want to show off", "el": "Θέλουν κυρίως να κάνουν επίδειξη"},
+          {"en": "Their own history makes those choices sensible to them", "el": "Η δική τους ιστορία κάνει αυτές τις επιλογές λογικές για εκείνους"}
+        ],
+        "answer": 2,
+        "why": {"en": "Housel says people act on their own lived experience, which differs from yours.", "el": "Ο Χάουζελ λέει ότι ο καθένας πράττει με βάση τη δική του βιωμένη εμπειρία, που διαφέρει από τη δική σου."}
+      }
+    },
+    {
+      "title": {"en": "Luck and risk are siblings", "el": "Τύχη και ρίσκο είναι αδέρφια"},
+      "explain": {
+        "en": "Luck and risk are two sides of one coin: forces outside your control that can make an outcome much better or much worse than your effort deserves. Housel says be careful whom you praise and whom you look down on. Look at broad patterns more than single stories. Be humble when things go well and forgiving, also with yourself, when they go badly.",
+        "el": "Η τύχη και το ρίσκο είναι οι δύο όψεις του ίδιου νομίσματος: δυνάμεις έξω από τον έλεγχό σου, που μπορούν να κάνουν ένα αποτέλεσμα πολύ καλύτερο ή πολύ χειρότερο από όσο αξίζει η προσπάθειά σου. Ο Χάουζελ λέει να προσέχεις ποιον θαυμάζεις και ποιον υποτιμάς. Κοίτα τα γενικά μοτίβα περισσότερο από τις μεμονωμένες ιστορίες. Να είσαι ταπεινός όταν πας καλά και επιεικής, και με τον εαυτό σου, όταν πας άσχημα."
+      },
+      "example": {
+        "en": "Bill Gates went to Lakeside School in Seattle, one of very few high schools in the world with access to a computer in 1968. That was enormous luck. His best friend, Kent Evans, was just as gifted and planned to build a company with him, but died in a mountaineering accident before finishing school. That was risk.",
+        "el": "Ο Μπιλ Γκέιτς πήγε στο Lakeside School του Σιάτλ, ένα από τα ελάχιστα λύκεια στον κόσμο με πρόσβαση σε υπολογιστή το 1968. Αυτό ήταν τεράστια τύχη. Ο καλύτερός του φίλος, ο Κεντ Έβανς, ήταν εξίσου χαρισματικός και σχεδίαζε να φτιάξουν μαζί μια εταιρεία, αλλά σκοτώθηκε σε ορειβατικό ατύχημα πριν τελειώσει το σχολείο. Αυτό ήταν ρίσκο."
+      },
+      "apply": {
+        "en": "When you tell the story of your 200+ sites, remember the luck in it: the timing, the AI tools, the first clients who said yes. When a month goes badly, do not decide you are a failure; check what you control: calls made, follow-ups, the offer. Judge the process, not one result.",
+        "el": "Όταν λες την ιστορία των 200+ ιστοσελίδων σου, θυμήσου την τύχη μέσα της: τη στιγμή, τα εργαλεία AI, τους πρώτους πελάτες που είπαν ναι. Όταν ένας μήνας πάει άσχημα, μην αποφασίσεις ότι απέτυχες. Έλεγξε όσα ελέγχεις: τηλεφωνήματα, follow-ups, την προσφορά. Κρίνε τη διαδικασία, όχι ένα αποτέλεσμα."
+      },
+      "check": {
+        "q": {"en": "What does Housel mean when he calls luck and risk siblings?", "el": "Τι εννοεί ο Χάουζελ όταν λέει ότι τύχη και ρίσκο είναι αδέρφια;"},
+        "options": [
+          {"en": "Both are outside forces that push results away from what effort deserves", "el": "Και τα δύο είναι εξωτερικές δυνάμεις που απομακρύνουν το αποτέλεσμα από όσο αξίζει η προσπάθεια"},
+          {"en": "People who take risks are always lucky", "el": "Όσοι ρισκάρουν είναι πάντα τυχεροί"},
+          {"en": "Good planning can remove both of them", "el": "Ο καλός σχεδιασμός μπορεί να τα εξαφανίσει και τα δύο"}
+        ],
+        "answer": 0,
+        "why": {"en": "The same uncontrollable forces can lift one person and sink another with equal effort.", "el": "Οι ίδιες ανεξέλεγκτες δυνάμεις μπορούν να ανεβάσουν τον έναν και να ρίξουν τον άλλον με την ίδια προσπάθεια."}
+      }
+    },
+    {
+      "title": {"en": "Know what is enough", "el": "Μάθε πότε φτάνει"},
+      "explain": {
+        "en": "Housel calls this the hardest money skill: stopping the goalpost from moving. If expectations rise with every result, you always want more, and you may risk what you have and need for what you neither have nor need. Some things are never worth risking for a bit more: your reputation, freedom, family, friends, the love of the people you care about, and your peace.",
+        "el": "Ο Χάουζελ το λέει την πιο δύσκολη ικανότητα με τα χρήματα: να σταματήσεις να μετακινείς το τέρμα. Αν οι προσδοκίες σου ανεβαίνουν με κάθε αποτέλεσμα, θα θέλεις πάντα περισσότερα, και μπορεί να ρισκάρεις όσα έχεις και χρειάζεσαι για όσα ούτε έχεις ούτε χρειάζεσαι. Κάποια πράγματα δεν αξίζει ποτέ να τα ρισκάρεις για λίγα παραπάνω: το όνομά σου, την ελευθερία, την οικογένεια, τους φίλους, την αγάπη των ανθρώπων που νοιάζεσαι, και την ησυχία σου."
+      },
+      "example": {
+        "en": "At a party at a billionaire's home, the writer Kurt Vonnegut teased his friend Joseph Heller that their host earned more in a day than Heller's novel Catch-22 had ever earned. Heller answered that he had something the billionaire would never have: enough.",
+        "el": "Σε ένα πάρτι στο σπίτι ενός δισεκατομμυριούχου, ο συγγραφέας Κερτ Βόνεγκατ πείραξε τον φίλο του Τζόζεφ Χέλερ ότι ο οικοδεσπότης τους έβγαζε σε μία μέρα περισσότερα απ' όσα είχε βγάλει ποτέ το μυθιστόρημά του, η Παγίδα 22. Ο Χέλερ απάντησε ότι είχε κάτι που ο δισεκατομμυριούχος δεν θα είχε ποτέ: το «αρκετά»."
+      },
+      "apply": {
+        "en": "Write your own «enough» for this year: the income that covers your life, your savings goal and the business reserve. Once you reach it, any extra risk, like a big loan to scale ads fast or a shady shortcut with a client, needs a very strong reason. Never risk your name for a little more.",
+        "el": "Γράψε το δικό σου «αρκετά» για φέτος: το εισόδημα που καλύπτει τη ζωή σου, τον στόχο αποταμίευσης και το αποθεματικό της επιχείρησης. Μόλις το φτάσεις, κάθε επιπλέον ρίσκο, όπως ένα μεγάλο δάνειο για να φουσκώσεις γρήγορα τις διαφημίσεις ή ένας πονηρός δρόμος με έναν πελάτη, θέλει πολύ γερό λόγο. Μη ρισκάρεις ποτέ το όνομά σου για λίγα παραπάνω."
+      },
+      "check": {
+        "q": {"en": "What does Housel call the hardest financial skill?", "el": "Ποια λέει ο Χάουζελ ότι είναι η πιο δύσκολη ικανότητα με τα χρήματα;"},
+        "options": [
+          {"en": "Picking the right investments", "el": "Να διαλέγεις τις σωστές επενδύσεις"},
+          {"en": "Stopping the goalpost from moving", "el": "Να σταματήσεις να μετακινείς το τέρμα"},
+          {"en": "Negotiating a higher income", "el": "Να διαπραγματεύεσαι μεγαλύτερο εισόδημα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Without a sense of enough, every gain raises the bar and pushes you toward risks not worth taking.", "el": "Χωρίς αίσθηση του «αρκετά», κάθε κέρδος ανεβάζει τον πήχη και σε σπρώχνει σε ρίσκα που δεν αξίζουν."}
+      }
+    },
+    {
+      "title": {"en": "Time does the heavy lifting", "el": "Τη δύσκολη δουλειά την κάνει ο χρόνος"},
+      "explain": {
+        "en": "Compounding means growth on top of growth. Its power comes less from the rate and more from time. Our brains think in straight lines, so we underestimate what small, steady growth does over decades. Housel's point: the best results come not from the highest returns, but from decent results you can keep up for the longest time without interruption.",
+        "el": "Ανατοκισμός σημαίνει ανάπτυξη πάνω στην ανάπτυξη. Η δύναμή του έρχεται λιγότερο από τον ρυθμό και περισσότερο από τον χρόνο. Ο εγκέφαλός μας σκέφτεται σε ευθείες γραμμές, οπότε υποτιμά τι κάνει η μικρή, σταθερή ανάπτυξη μέσα σε δεκαετίες. Το σημείο του Χάουζελ: τα καλύτερα αποτελέσματα δεν έρχονται από τις μεγαλύτερες αποδόσεις, αλλά από αξιοπρεπή αποτελέσματα που μπορείς να κρατήσεις για όσο περισσότερο γίνεται, χωρίς διακοπή."
+      },
+      "example": {
+        "en": "Warren Buffett began investing as a child and kept going into his nineties. Housel points out that nearly all of Buffett's fortune came after his 50th birthday, and most of it after his mid-sixties. His skill matters, but his real secret is time: he started early and never stopped.",
+        "el": "Ο Γουόρεν Μπάφετ άρχισε να επενδύει από παιδί και συνέχισε μέχρι τα ενενήντα του. Ο Χάουζελ επισημαίνει ότι σχεδόν όλη η περιουσία του Μπάφετ ήρθε μετά τα 50ά του γενέθλια, και το μεγαλύτερο μέρος μετά τα μέσα της δεκαετίας των εξήντα. Η ικανότητά του μετράει, αλλά το πραγματικό του μυστικό είναι ο χρόνος: ξεκίνησε νωρίς και δεν σταμάτησε ποτέ."
+      },
+      "apply": {
+        "en": "Treat your yearly renewals as compounding: every client who stays adds 130€ a year, every year. Kept for ten years, a client is worth far more than a quick sale. Protect renewals with steady service: fast changes, a friendly check-in once a year, and a clear reminder before each renewal.",
+        "el": "Δες τις ετήσιες ανανεώσεις σου σαν ανατοκισμό: κάθε πελάτης που μένει προσθέτει 130€ τον χρόνο, κάθε χρόνο. Αν μείνει δέκα χρόνια, αξίζει πολύ περισσότερο από μια γρήγορη πώληση. Προστάτεψε τις ανανεώσεις με σταθερή εξυπηρέτηση: γρήγορες αλλαγές, ένα φιλικό μήνυμα μία φορά τον χρόνο και μια καθαρή υπενθύμιση πριν από κάθε ανανέωση."
+      },
+      "check": {
+        "q": {"en": "What gives compounding most of its power, according to Housel?", "el": "Τι δίνει στον ανατοκισμό το μεγαλύτερο μέρος της δύναμής του, κατά τον Χάουζελ;"},
+        "options": [
+          {"en": "A very high rate of return", "el": "Μια πολύ υψηλή απόδοση"},
+          {"en": "A lucky start", "el": "Ένα τυχερό ξεκίνημα"},
+          {"en": "A long, uninterrupted stretch of time", "el": "Πολύς χρόνος χωρίς διακοπή"}
+        ],
+        "answer": 2,
+        "why": {"en": "Modest growth kept up for decades beats high growth that stops.", "el": "Μια μέτρια ανάπτυξη που κρατά δεκαετίες νικά μια υψηλή που σταματά."}
+      }
+    },
+    {
+      "title": {"en": "Survive first", "el": "Πρώτα να επιβιώσεις"},
+      "explain": {
+        "en": "Getting rich and staying rich are different skills. Getting rich takes risk and optimism. Staying rich takes thrift and some fear. Housel's rule: above all, survive. Never take a risk that could wipe you out, because ruin ends the game and stops compounding. Be optimistic about the long-term future and paranoid about what could stop you from getting there.",
+        "el": "Το να πλουτίσεις και το να μείνεις πλούσιος είναι διαφορετικές ικανότητες. Για να πλουτίσεις θέλει ρίσκο και αισιοδοξία. Για να μείνεις θέλει λιτότητα και λίγο φόβο. Ο κανόνας του Χάουζελ: πάνω απ' όλα, επιβίωσε. Μην πάρεις ποτέ ρίσκο που μπορεί να σε ξεκληρίσει, γιατί η καταστροφή τελειώνει το παιχνίδι και σταματά τον ανατοκισμό. Να είσαι αισιόδοξος για το μακρινό μέλλον και καχύποπτος για ό,τι μπορεί να σε εμποδίσει να φτάσεις εκεί."
+      },
+      "example": {
+        "en": "Rick Guerin invested alongside Warren Buffett and Charlie Munger, but he used borrowed money. In the 1973 to 1974 crash his lenders demanded repayment, and he had to sell his Berkshire Hathaway shares to Buffett for under 40 dollars each. Buffett and Munger, who did not borrow, kept theirs and stayed in the game.",
+        "el": "Ο Ρικ Γκέριν επένδυε μαζί με τον Γουόρεν Μπάφετ και τον Τσάρλι Μάνγκερ, αλλά με δανεικά. Στην κατάρρευση του 1973 με 1974 οι δανειστές του ζήτησαν τα χρήματά τους, και αναγκάστηκε να πουλήσει τις μετοχές του στην Berkshire Hathaway στον Μπάφετ για λιγότερο από 40 δολάρια η μία. Ο Μπάφετ και ο Μάνγκερ, που δεν είχαν δανειστεί, κράτησαν τις δικές τους και έμειναν στο παιχνίδι."
+      },
+      "apply": {
+        "en": "Run the business so that no single bad event can kill it: keep cash for several months of fixed costs, avoid big loans and long contracts you cannot cancel, and never depend on one client or one ad channel. Grow with money the business has already earned.",
+        "el": "Στήσε την επιχείρηση έτσι ώστε κανένα κακό γεγονός μόνο του να μην μπορεί να τη ρίξει: κράτα μετρητά για αρκετούς μήνες σταθερών εξόδων, απόφυγε μεγάλα δάνεια και μακροχρόνια συμβόλαια που δεν ακυρώνονται, και μην εξαρτάσαι ποτέ από έναν πελάτη ή ένα μόνο κανάλι διαφήμισης. Μεγάλωνε με χρήματα που η επιχείρηση έχει ήδη βγάλει."
+      },
+      "check": {
+        "q": {"en": "What is Housel's first rule for money?", "el": "Ποιος είναι ο πρώτος κανόνας του Χάουζελ για τα χρήματα;"},
+        "options": [
+          {"en": "Survive: avoid any risk that could wipe you out", "el": "Επιβίωσε: απόφυγε κάθε ρίσκο που μπορεί να σε ξεκληρίσει"},
+          {"en": "Grow as fast as you possibly can", "el": "Μεγάλωσε όσο πιο γρήγορα μπορείς"},
+          {"en": "Borrow to multiply your gains", "el": "Δανείσου για να πολλαπλασιάσεις τα κέρδη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Compounding only works if you stay in the game; ruin ends it forever.", "el": "Ο ανατοκισμός δουλεύει μόνο αν μείνεις στο παιχνίδι. Η καταστροφή το τελειώνει για πάντα."}
+      }
+    },
+    {
+      "title": {"en": "A few tails drive everything", "el": "Λίγα ακραία γεγονότα κάνουν όλη τη διαφορά"},
+      "explain": {
+        "en": "In business, investing and careers, a small number of events drive most of the results. Housel calls them tails, the far ends of the range of outcomes. This means you can be wrong a lot and still do very well, as long as a few things go very right. Failing at most attempts is normal; what matters is the size of the big wins and staying in the game long enough to find them.",
+        "el": "Στις επιχειρήσεις, στις επενδύσεις και στις καριέρες, λίγα γεγονότα φέρνουν το μεγαλύτερο μέρος των αποτελεσμάτων. Ο Χάουζελ τα λέει «ουρές», τις ακραίες άκρες όλων των πιθανών εκβάσεων. Αυτό σημαίνει ότι μπορείς να κάνεις λάθος πολλές φορές και να τα πας πολύ καλά, αρκεί λίγα πράγματα να πάνε πολύ σωστά. Είναι φυσιολογικό να αποτυγχάνουν οι περισσότερες προσπάθειες. Μετράει το μέγεθος των μεγάλων επιτυχιών και να μείνεις στο παιχνίδι αρκετά για να τις βρεις."
+      },
+      "example": {
+        "en": "Walt Disney's studio made hundreds of cartoons in its early years and was often short of money. Then Snow White and the Seven Dwarfs, released in 1937, became a giant hit. Its profits paid off the studio's debts and paid for a new studio in Burbank. One film changed the company.",
+        "el": "Το στούντιο του Γουόλτ Ντίσνεϊ έφτιαξε εκατοντάδες κινούμενα σχέδια στα πρώτα του χρόνια και συχνά δεν είχε χρήματα. Μετά, η Χιονάτη και οι Επτά Νάνοι, που βγήκε το 1937, έγινε τεράστια επιτυχία. Τα κέρδη της ξεπλήρωσαν τα χρέη του στούντιο και πλήρωσαν ένα νέο στούντιο στο Μπέρμπανκ. Μία ταινία άλλαξε την εταιρεία."
+      },
+      "apply": {
+        "en": "Expect most of your ads, reels and call lists to do little. Track which few bring most of your clients and put more into those. Same with side projects: try several small bets cheaply, accept that most will fail, and give the one that takes off your full energy.",
+        "el": "Να περιμένεις ότι οι περισσότερες διαφημίσεις, τα reels και οι λίστες τηλεφωνημάτων σου θα φέρουν λίγα. Μέτρα ποια λίγα φέρνουν τους περισσότερους πελάτες και ρίξε εκεί περισσότερα. Το ίδιο με τα side projects: δοκίμασε φθηνά πολλά μικρά στοιχήματα, δέξου ότι τα περισσότερα θα αποτύχουν, και δώσε όλη σου την ενέργεια σε αυτό που θα απογειωθεί."
+      },
+      "check": {
+        "q": {"en": "What does «tails drive everything» mean?", "el": "Τι σημαίνει ότι «οι ουρές κάνουν όλη τη διαφορά»;"},
+        "options": [
+          {"en": "Every attempt should be a success", "el": "Κάθε προσπάθεια πρέπει να πετυχαίνει"},
+          {"en": "A few big wins make up most of the results", "el": "Λίγες μεγάλες επιτυχίες φέρνουν τα περισσότερα αποτελέσματα"},
+          {"en": "You should only take safe bets", "el": "Πρέπει να παίρνεις μόνο ασφαλή στοιχήματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Most attempts fail, but the rare big successes more than pay for them.", "el": "Οι περισσότερες προσπάθειες αποτυγχάνουν, αλλά οι σπάνιες μεγάλες επιτυχίες τις ξεπληρώνουν με το παραπάνω."}
+      }
+    },
+    {
+      "title": {"en": "Freedom is the top dividend", "el": "Η ελευθερία είναι το μεγαλύτερο μέρισμα"},
+      "explain": {
+        "en": "Housel says the highest dividend money pays is control over your time: being able to do what you want, when you want, with whom you want, for as long as you want. Even modest savings give you options, like taking a month off or saying no to a bad client. More money that brings less control rarely makes people happier.",
+        "el": "Ο Χάουζελ λέει ότι το μεγαλύτερο μέρισμα που δίνουν τα χρήματα είναι ο έλεγχος του χρόνου σου: να μπορείς να κάνεις ό,τι θέλεις, όποτε θέλεις, με όποιον θέλεις, για όσο θέλεις. Ακόμα και λίγες οικονομίες σού δίνουν επιλογές, όπως να κάνεις έναν μήνα διάλειμμα ή να πεις όχι σε έναν κακό πελάτη. Περισσότερα χρήματα με λιγότερο έλεγχο σπάνια κάνουν τους ανθρώπους πιο ευτυχισμένους."
+      },
+      "example": {
+        "en": "After large surveys of Americans, the psychologist Angus Campbell wrote in 1981 that a strong sense of controlling your own life predicted feeling good more reliably than any of the objective conditions he studied, including income.",
+        "el": "Μετά από μεγάλες έρευνες σε Αμερικανούς, ο ψυχολόγος Άνγκους Κάμπελ έγραψε το 1981 ότι η δυνατή αίσθηση πως ελέγχεις τη ζωή σου προέβλεπε το αν νιώθεις καλά πιο αξιόπιστα από οποιαδήποτε από τις αντικειμενικές συνθήκες που μελέτησε, μαζί και το εισόδημα."
+      },
+      "apply": {
+        "en": "Use money to buy control: build a reserve so you can say no to a rude client or a bad-fit project. As you grow, use part of the profit to buy back your time, for example by paying a helper for routine site changes, so your best hours go to sales and building.",
+        "el": "Χρησιμοποίησε τα χρήματα για να αγοράσεις έλεγχο: χτίσε ένα αποθεματικό ώστε να μπορείς να πεις όχι σε έναν αγενή πελάτη ή σε ένα project που δεν σου ταιριάζει. Καθώς μεγαλώνεις, βάλε μέρος του κέρδους για να αγοράσεις πίσω τον χρόνο σου, για παράδειγμα πληρώνοντας έναν βοηθό για τις καθημερινές αλλαγές στα sites, ώστε οι καλύτερες ώρες σου να πηγαίνουν σε πωλήσεις και χτίσιμο."
+      },
+      "check": {
+        "q": {"en": "What is money's highest dividend, according to Housel?", "el": "Ποιο είναι το μεγαλύτερο μέρισμα των χρημάτων, κατά τον Χάουζελ;"},
+        "options": [
+          {"en": "Luxury and comfort", "el": "Η πολυτέλεια και η άνεση"},
+          {"en": "Status among friends", "el": "Το κύρος ανάμεσα στους φίλους"},
+          {"en": "Control over your own time", "el": "Ο έλεγχος του χρόνου σου"}
+        ],
+        "answer": 2,
+        "why": {"en": "Being in control of your time is a stronger source of well-being than income itself.", "el": "Ο έλεγχος του χρόνου σου είναι πιο δυνατή πηγή ευεξίας από το ίδιο το εισόδημα."}
+      }
+    },
+    {
+      "title": {"en": "The man in the car", "el": "Ο άνθρωπος μέσα στο αυτοκίνητο"},
+      "explain": {
+        "en": "When you see someone driving a beautiful car, you rarely think «that driver is impressive». You think «if I had that car, people would be impressed by me». That is the paradox: people buy expensive things to win admiration, but others look at the thing, not the owner. Respect comes from humility, kindness and empathy far more than from horsepower.",
+        "el": "Όταν βλέπεις κάποιον να οδηγεί ένα όμορφο αυτοκίνητο, σπάνια σκέφτεσαι «τι εντυπωσιακός οδηγός». Σκέφτεσαι «αν είχα εγώ αυτό το αυτοκίνητο, θα εντυπωσίαζα τους άλλους». Αυτό είναι το παράδοξο: αγοράζουμε ακριβά πράγματα για να μας θαυμάσουν, αλλά οι άλλοι κοιτούν το πράγμα, όχι τον ιδιοκτήτη. Τον σεβασμό τον κερδίζεις με ταπεινότητα, καλοσύνη και ενσυναίσθηση πολύ περισσότερο απ' ό,τι με άλογα κινητήρα."
+      },
+      "example": {
+        "en": "As a young man, Housel worked as a valet at a luxury hotel in Los Angeles, parking Ferraris and Lamborghinis. He dreamed that owning such a car would make people admire him. Then he noticed that he never once looked at the drivers; he only imagined himself behind the wheel.",
+        "el": "Νέος, ο Χάουζελ δούλευε παρκαδόρος σε ένα πολυτελές ξενοδοχείο στο Λος Άντζελες, παρκάροντας Ferrari και Lamborghini. Ονειρευόταν ότι αν είχε ένα τέτοιο αυτοκίνητο, ο κόσμος θα τον θαύμαζε. Μετά πρόσεξε ότι δεν είχε κοιτάξει ποτέ ούτε μία φορά τους οδηγούς. Φανταζόταν μόνο τον εαυτό του στο τιμόνι."
+      },
+      "apply": {
+        "en": "Do not spend business cash to look successful: an expensive office or car will not close more doctors. What builds trust on a call or video is real proof: live sites of colleagues, real Google reviews, fast replies. Spend on that, and keep the rest.",
+        "el": "Μην ξοδεύεις τα μετρητά της επιχείρησης για να φαίνεσαι πετυχημένος: ένα ακριβό γραφείο ή αυτοκίνητο δεν θα κλείσει περισσότερους γιατρούς. Την εμπιστοσύνη σε ένα τηλεφώνημα ή μια βιντεοκλήση τη χτίζουν οι πραγματικές αποδείξεις: live ιστοσελίδες συναδέλφων, αληθινές κριτικές στο Google, γρήγορες απαντήσεις. Ξόδεψε εκεί και κράτα τα υπόλοιπα."
+      },
+      "check": {
+        "q": {"en": "What do people mostly admire when they see a luxury car?", "el": "Τι θαυμάζουν κυρίως οι άλλοι όταν βλέπουν ένα πολυτελές αυτοκίνητο;"},
+        "options": [
+          {"en": "The car, while imagining themselves in it", "el": "Το αυτοκίνητο, φανταζόμενοι τον εαυτό τους μέσα"},
+          {"en": "The driver's success in life", "el": "Την επιτυχία του οδηγού στη ζωή"},
+          {"en": "The driver's good taste", "el": "Το καλό γούστο του οδηγού"}
+        ],
+        "answer": 0,
+        "why": {"en": "Others use your car as a mirror for their own dreams; they barely notice you.", "el": "Οι άλλοι χρησιμοποιούν το αυτοκίνητό σου σαν καθρέφτη για τα δικά τους όνειρα. Εσένα σχεδόν δεν σε προσέχουν."}
+      }
+    },
+    {
+      "title": {"en": "Wealth is what you don't see", "el": "Πλούτος είναι αυτό που δεν φαίνεται"},
+      "explain": {
+        "en": "We judge wealth by what we can see: cars, houses, holiday photos. But that is spending, and it can be paid for with debt. Wealth is the money not spent: savings and options nobody can see. Rich is a current income; wealthy is hidden. Housel warns that it is easy to copy someone's spending and hard to copy their saving, because you never see it.",
+        "el": "Κρίνουμε τον πλούτο από όσα βλέπουμε: αυτοκίνητα, σπίτια, φωτογραφίες από διακοπές. Αυτά όμως είναι έξοδα, και μπορεί να πληρώνονται με χρέη. Πλούτος είναι τα χρήματα που δεν ξοδεύτηκαν: οικονομίες και επιλογές που δεν τις βλέπει κανείς. Το υψηλό εισόδημα φαίνεται. Ο πραγματικός πλούτος κρύβεται. Ο Χάουζελ προειδοποιεί ότι είναι εύκολο να αντιγράψεις τα έξοδα κάποιου και δύσκολο να αντιγράψεις τις οικονομίες του, γιατί δεν τις βλέπεις ποτέ."
+      },
+      "example": {
+        "en": "The singer Rihanna nearly ran out of money after heavy spending and sued her financial adviser. Housel retells the adviser's reply, in essence: did someone really need to tell her that if you spend money on things, you end up with the things and not the money?",
+        "el": "Η τραγουδίστρια Ριάνα κόντεψε να μείνει χωρίς χρήματα μετά από μεγάλα έξοδα και μήνυσε τον οικονομικό της σύμβουλο. Ο Χάουζελ μεταφέρει την ουσία της απάντησης του συμβούλου: χρειαζόταν πράγματι να της πει κάποιος ότι αν ξοδεύεις χρήματα σε πράγματα, στο τέλος έχεις τα πράγματα και όχι τα χρήματα;"
+      },
+      "apply": {
+        "en": "Do not judge a rival agency or a client by their office or car. For yourself, track one number each month that nobody sees: cash saved, personal and business. Make that hidden number grow, not the visible ones.",
+        "el": "Μην κρίνεις ένα άλλο γραφείο ή έναν πελάτη από το γραφείο ή το αυτοκίνητό τους. Για σένα, παρακολούθησε κάθε μήνα έναν αριθμό που δεν τον βλέπει κανείς: τα μετρητά που κράτησες, προσωπικά και της επιχείρησης. Κάνε αυτόν τον κρυφό αριθμό να μεγαλώνει, όχι τους ορατούς."
+      },
+      "check": {
+        "q": {"en": "According to Housel, what is wealth?", "el": "Τι είναι πλούτος, κατά τον Χάουζελ;"},
+        "options": [
+          {"en": "A high income", "el": "Ένα υψηλό εισόδημα"},
+          {"en": "Money you did not spend", "el": "Τα χρήματα που δεν ξόδεψες"},
+          {"en": "Expensive things you own", "el": "Τα ακριβά πράγματα που έχεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Wealth is the unseen savings and options left after spending, not the things you show.", "el": "Πλούτος είναι οι αόρατες οικονομίες και επιλογές που μένουν μετά τα έξοδα, όχι όσα επιδεικνύεις."}
+      }
+    },
+    {
+      "title": {"en": "Save, even without a reason", "el": "Αποταμίευε, ακόμα και χωρίς λόγο"},
+      "explain": {
+        "en": "Building wealth has little to do with income or returns and a lot to do with how much you save. Housel says savings are what is left after your ego is paid: the less you spend on showing off, the more you keep. You also do not need a specific goal to save. Savings protect you from surprises and give you options; that alone is reason enough.",
+        "el": "Ο πλούτος έχει λίγη σχέση με το εισόδημα ή τις αποδόσεις και πολλή σχέση με το πόσα αποταμιεύεις. Ο Χάουζελ λέει ότι οι οικονομίες είναι ό,τι μένει αφού πληρώσεις τον εγωισμό σου: όσο λιγότερα ξοδεύεις για επίδειξη, τόσο περισσότερα κρατάς. Ούτε χρειάζεσαι συγκεκριμένο στόχο για να αποταμιεύεις. Οι οικονομίες σε προστατεύουν από τα απρόοπτα και σου δίνουν επιλογές. Αυτό φτάνει ως λόγος."
+      },
+      "example": {
+        "en": "After the oil shocks of the 1970s, the world did not find all the new oil it feared it would need. Instead it learned to get far more out of each barrel: cars, homes and factories became much more efficient. Housel compares saving to that: using less is often easier than finding more.",
+        "el": "Μετά τις πετρελαϊκές κρίσεις της δεκαετίας του '70, ο κόσμος δεν βρήκε όλο το νέο πετρέλαιο που φοβόταν ότι θα χρειαστεί. Αντίθετα, έμαθε να βγάζει πολύ περισσότερα από κάθε βαρέλι: αυτοκίνητα, σπίτια και εργοστάσια έγιναν πολύ πιο αποδοτικά. Ο Χάουζελ συγκρίνει την αποταμίευση με αυτό: είναι συχνά πιο εύκολο να χρησιμοποιείς λιγότερα παρά να βρίσκεις περισσότερα."
+      },
+      "apply": {
+        "en": "Set an automatic transfer: every time renewal payments come in, a fixed share goes straight into a savings account you do not touch. When income grows, keep your lifestyle almost the same for a while. You need no special reason; the reason is that life will surprise you.",
+        "el": "Βάλε μια αυτόματη μεταφορά: κάθε φορά που μπαίνουν πληρωμές από ανανεώσεις, ένα σταθερό ποσοστό πηγαίνει κατευθείαν σε έναν λογαριασμό αποταμίευσης που δεν τον αγγίζεις. Όταν μεγαλώνει το εισόδημα, κράτα για ένα διάστημα τον τρόπο ζωής σου σχεδόν ίδιο. Δεν χρειάζεσαι ειδικό λόγο. Ο λόγος είναι ότι η ζωή θα σε εκπλήξει."
+      },
+      "check": {
+        "q": {"en": "What does Housel say about the reason for saving?", "el": "Τι λέει ο Χάουζελ για τον λόγο της αποταμίευσης;"},
+        "options": [
+          {"en": "Save only for a clear goal, like a house", "el": "Αποταμίευε μόνο για έναν σαφή στόχο, όπως ένα σπίτι"},
+          {"en": "Save only when your income is high", "el": "Αποταμίευε μόνο όταν το εισόδημά σου είναι υψηλό"},
+          {"en": "No specific reason is needed; savings protect you from surprises", "el": "Δεν χρειάζεται συγκεκριμένος λόγος. Οι οικονομίες σε προστατεύουν από τα απρόοπτα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Savings are a hedge against the unknown and a source of options, valuable even without a target.", "el": "Οι οικονομίες είναι ασπίδα απέναντι στο άγνωστο και πηγή επιλογών, πολύτιμες ακόμα και χωρίς στόχο."}
+      }
+    },
+    {
+      "title": {"en": "Reasonable beats rational", "el": "Το λογικό νικά το «τέλειο»"},
+      "explain": {
+        "en": "On paper, the best money strategy is the one that is mathematically optimal. In real life, the best is the one you can stick with when things get scary. Housel says aim to be reasonable, not coldly rational: choose plans that let you sleep and keep going. A good plan you follow beats a perfect plan you abandon at the first bad moment.",
+        "el": "Στο χαρτί, η καλύτερη στρατηγική για τα χρήματα είναι η μαθηματικά βέλτιστη. Στην πραγματική ζωή, καλύτερη είναι αυτή που μπορείς να κρατήσεις όταν τα πράγματα ζορίζουν. Ο Χάουζελ λέει να είσαι λογικός και όχι ψυχρά ορθολογικός: διάλεγε σχέδια που σε αφήνουν να κοιμάσαι και να συνεχίζεις. Ένα καλό σχέδιο που ακολουθείς νικά ένα τέλειο που εγκαταλείπεις στην πρώτη δυσκολία."
+      },
+      "example": {
+        "en": "Harry Markowitz won the 1990 Nobel Prize in economics for his theory of how to build an investment portfolio. Asked how he handled his own retirement savings, he said he simply split them half and half between stocks and bonds, to keep his future regret small. Not the formula, but something he could live with.",
+        "el": "Ο Χάρι Μάρκοβιτς πήρε το Νόμπελ Οικονομικών το 1990 για τη θεωρία του για το πώς στήνεται ένα χαρτοφυλάκιο επενδύσεων. Όταν τον ρώτησαν τι έκανε με τις δικές του συνταξιοδοτικές οικονομίες, είπε ότι απλώς τις μοίρασε μισές σε μετοχές και μισές σε ομόλογα, για να μη μετανιώσει πολύ αργότερα. Όχι ο τύπος του, αλλά κάτι με το οποίο μπορούσε να ζήσει."
+      },
+      "apply": {
+        "en": "Choose business money rules you can keep even in a bad month, such as «10% of every payment goes to the reserve», rather than a complex plan you will drop. Keep pricing simple, 0€ build and 130€ a year, even if a cleverer scheme could squeeze more. Simple rules you follow win.",
+        "el": "Διάλεξε κανόνες για τα χρήματα της επιχείρησης που μπορείς να κρατήσεις ακόμα και σε κακό μήνα, όπως «το 10% κάθε πληρωμής πάει στο αποθεματικό», αντί για ένα σύνθετο σχέδιο που θα παρατήσεις. Κράτα την τιμολόγηση απλή, κατασκευή 0€ και 130€ τον χρόνο, ακόμα κι αν ένα πιο έξυπνο σχήμα θα έβγαζε λίγα παραπάνω. Οι απλοί κανόνες που τηρείς κερδίζουν."
+      },
+      "check": {
+        "q": {"en": "What does Housel mean by «reasonable over rational»?", "el": "Τι εννοεί ο Χάουζελ με το «λογικό πάνω από το ορθολογικό»;"},
+        "options": [
+          {"en": "Pick a plan you can stick with, even if not optimal on paper", "el": "Διάλεξε ένα σχέδιο που θα κρατήσεις, ακόμα κι αν δεν είναι το βέλτιστο στο χαρτί"},
+          {"en": "Always choose the mathematically best plan", "el": "Διάλεγε πάντα το μαθηματικά καλύτερο σχέδιο"},
+          {"en": "Avoid planning and follow your mood", "el": "Απόφυγε τον σχεδιασμό και ακολούθα τη διάθεσή σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "A plan only works if you keep following it through good and bad times.", "el": "Ένα σχέδιο δουλεύει μόνο αν συνεχίζεις να το ακολουθείς και στα καλά και στα άσχημα."}
+      }
+    },
+    {
+      "title": {"en": "History is not a map", "el": "Η ιστορία δεν είναι χάρτης"},
+      "explain": {
+        "en": "History is useful for understanding how people behave with money: greed, fear, stress. It is poor at predicting specific events, because the most important ones usually have no precedent. Experts often prepare for the last crisis. Housel says the further back you look, the more general your lessons should be, and the less you should trust exact forecasts.",
+        "el": "Η ιστορία βοηθά να καταλάβεις πώς φέρονται οι άνθρωποι με τα χρήματα: απληστία, φόβος, άγχος. Δεν βοηθά όμως να προβλέψεις συγκεκριμένα γεγονότα, γιατί τα πιο σημαντικά συνήθως δεν έχουν προηγούμενο. Οι ειδικοί συχνά προετοιμάζονται για την προηγούμενη κρίση. Ο Χάουζελ λέει ότι όσο πιο πίσω κοιτάς, τόσο πιο γενικά πρέπει να είναι τα μαθήματα που βγάζεις, και τόσο λιγότερο να εμπιστεύεσαι τις ακριβείς προβλέψεις."
+      },
+      "example": {
+        "en": "Most forecasts made at the end of 2007 did not include the global financial crisis that followed, and those made at the end of 2019 did not include a pandemic that would close shops around the world within months. The events that shaped those years were the ones nobody had planned for.",
+        "el": "Οι περισσότερες προβλέψεις στο τέλος του 2007 δεν περιείχαν την παγκόσμια οικονομική κρίση που ακολούθησε, κι όσες έγιναν στο τέλος του 2019 δεν περιείχαν μια πανδημία που θα έκλεινε καταστήματα σε όλο τον κόσμο μέσα σε λίγους μήνες. Τα γεγονότα που καθόρισαν εκείνα τα χρόνια ήταν ακριβώς αυτά που κανείς δεν είχε υπολογίσει."
+      },
+      "apply": {
+        "en": "Do not build the business on one forecast, like «Meta ads will always cost this much» or «doctors will always buy sites the way they do now». Keep the lesson general: people want trust and simplicity. Prepare for surprises with a reserve and several sources of clients, not with a precise prediction.",
+        "el": "Μη στηρίζεις την επιχείρηση σε μία πρόβλεψη, όπως «οι διαφημίσεις στο Meta θα κοστίζουν πάντα τόσο» ή «οι γιατροί θα αγοράζουν πάντα ιστοσελίδες όπως σήμερα». Κράτα το μάθημα γενικό: οι άνθρωποι θέλουν εμπιστοσύνη και απλότητα. Προετοιμάσου για τα απρόοπτα με αποθεματικό και πολλές πηγές πελατών, όχι με μια ακριβή πρόβλεψη."
+      },
+      "check": {
+        "q": {"en": "Why is history a poor map of the future?", "el": "Γιατί η ιστορία είναι κακός χάρτης για το μέλλον;"},
+        "options": [
+          {"en": "Hardly anyone studies it properly", "el": "Σχεδόν κανείς δεν τη μελετά σωστά"},
+          {"en": "The most important events usually have no precedent", "el": "Τα πιο σημαντικά γεγονότα συνήθως δεν έχουν προηγούμενο"},
+          {"en": "It repeats itself exactly", "el": "Επαναλαμβάνεται ακριβώς ίδια"}
+        ],
+        "answer": 1,
+        "why": {"en": "History teaches behaviour well, but the biggest events are surprises no past pattern predicted.", "el": "Η ιστορία διδάσκει καλά τη συμπεριφορά, αλλά τα μεγαλύτερα γεγονότα είναι εκπλήξεις που κανένα παλιό μοτίβο δεν προέβλεψε."}
+      }
+    },
+    {
+      "title": {"en": "Leave room for error", "el": "Άφησε περιθώριο για λάθος"},
+      "explain": {
+        "en": "Because the future is uncertain, leave a margin of safety: a gap between what could happen and what you need to happen to be fine. Room for error lets you survive bad luck long enough for good luck to arrive. Housel says the most important part of any plan is planning for the plan not going according to plan.",
+        "el": "Επειδή το μέλλον είναι αβέβαιο, άφησε ένα περιθώριο ασφαλείας: μια απόσταση ανάμεσα σε ό,τι μπορεί να συμβεί και σε ό,τι χρειάζεσαι να συμβεί για να είσαι εντάξει. Το περιθώριο σε κρατά όρθιο στην κακοτυχία για αρκετό καιρό ώστε να έρθει η καλοτυχία. Ο Χάουζελ λέει ότι το πιο σημαντικό κομμάτι κάθε σχεδίου είναι να σχεδιάσεις για την περίπτωση που το σχέδιο δεν θα πάει όπως το σχεδίασες."
+      },
+      "example": {
+        "en": "Warren Buffett has long kept a huge cash pile at Berkshire Hathaway, so it never has to depend on banks or the kindness of strangers in a crisis. In 2008, when many companies were desperate for money, Berkshire had cash to invest in firms such as Goldman Sachs on strong terms.",
+        "el": "Ο Γουόρεν Μπάφετ κρατά εδώ και χρόνια ένα τεράστιο απόθεμα μετρητών στην Berkshire Hathaway, ώστε να μη χρειάζεται ποτέ να εξαρτάται από τράπεζες ή από την καλή διάθεση αγνώστων σε μια κρίση. Το 2008, όταν πολλές εταιρείες έψαχναν απεγνωσμένα χρήματα, η Berkshire είχε μετρητά να επενδύσει σε εταιρείες όπως η Goldman Sachs με πολύ καλούς όρους."
+      },
+      "apply": {
+        "en": "Plan the year assuming fewer sales than your average and slower payments. If the budget still works with 30% fewer new clients, you have room for error. Keep a cash reserve, and never schedule big expenses in the month when renewals might arrive late.",
+        "el": "Σχεδίασε τη χρονιά υποθέτοντας λιγότερες πωλήσεις από τον μέσο όρο σου και πιο αργές πληρωμές. Αν ο προϋπολογισμός βγαίνει ακόμα και με 30% λιγότερους νέους πελάτες, έχεις περιθώριο για λάθος. Κράτα αποθεματικό σε μετρητά, και μη βάζεις ποτέ μεγάλα έξοδα στον μήνα που οι ανανεώσεις μπορεί να αργήσουν."
+      },
+      "check": {
+        "q": {"en": "What is room for error?", "el": "Τι είναι το περιθώριο για λάθος;"},
+        "options": [
+          {"en": "A plan that contains no mistakes", "el": "Ένα σχέδιο χωρίς κανένα λάθος"},
+          {"en": "Extra profit that comes from luck", "el": "Επιπλέον κέρδος που έρχεται από τύχη"},
+          {"en": "A gap between what might happen and what you need to be fine", "el": "Μια απόσταση ανάμεσα σε ό,τι μπορεί να συμβεί και σε ό,τι χρειάζεσαι για να είσαι εντάξει"}
+        ],
+        "answer": 2,
+        "why": {"en": "A margin of safety lets you absorb surprises without being forced into bad choices.", "el": "Το περιθώριο ασφαλείας σού επιτρέπει να αντέξεις τα απρόοπτα χωρίς να σε αναγκάσουν σε κακές επιλογές."}
+      }
+    },
+    {
+      "title": {"en": "You will change", "el": "Θα αλλάξεις"},
+      "explain": {
+        "en": "People change their goals and tastes a lot over the years, but we underestimate how much. Plans made by your 25-year-old self may not fit your 40-year-old self. Housel suggests avoiding the extreme ends, like working with no rest or living with no savings, because extremes are hardest to live with when you change. And when a plan no longer fits, let it go without guilt; past effort should not lock you in.",
+        "el": "Οι άνθρωποι αλλάζουν πολύ στόχους και προτιμήσεις με τα χρόνια, αλλά υποτιμάμε πόσο. Τα σχέδια του εαυτού σου στα 25 μπορεί να μην ταιριάζουν στον εαυτό σου στα 40. Ο Χάουζελ προτείνει να αποφεύγεις τα άκρα, όπως δουλειά χωρίς ξεκούραση ή ζωή χωρίς καμία οικονομία, γιατί τα άκρα είναι τα πιο δύσκολα όταν αλλάζεις. Κι όταν ένα σχέδιο δεν σου ταιριάζει πια, άφησέ το χωρίς τύψεις. Ο κόπος που έριξες δεν πρέπει να σε κλειδώνει."
+      },
+      "example": {
+        "en": "In a 2013 study, Jordi Quoidbach, Daniel Gilbert and Timothy Wilson asked thousands of people of all ages how much they had changed in the past ten years and how much they expected to change in the next ten. At every age, people predicted much less future change than they reported for the past.",
+        "el": "Σε μια μελέτη του 2013, ο Τζόρντι Κουάντμπαχ, ο Ντάνιελ Γκίλμπερτ και ο Τίμοθι Γουίλσον ρώτησαν χιλιάδες ανθρώπους όλων των ηλικιών πόσο είχαν αλλάξει τα τελευταία δέκα χρόνια και πόσο περίμεναν να αλλάξουν τα επόμενα δέκα. Σε κάθε ηλικία, οι άνθρωποι πρόβλεπαν πολύ μικρότερη αλλαγή στο μέλλον από αυτήν που ανέφεραν για το παρελθόν."
+      },
+      "apply": {
+        "en": "Do not lock the business into choices that only fit today's you, like a five-year office lease or a partnership with no way out. Keep a balance you can live with at any age: steady hours, real rest, some saving. Review your goals once a year and change them without guilt.",
+        "el": "Μην κλειδώνεις την επιχείρηση σε επιλογές που ταιριάζουν μόνο στον σημερινό σου εαυτό, όπως μια πενταετή μίσθωση γραφείου ή μια συνεργασία χωρίς τρόπο εξόδου. Κράτα μια ισορροπία που αντέχεται σε κάθε ηλικία: σταθερές ώρες, πραγματική ξεκούραση, κάποια αποταμίευση. Ξανακοίτα τους στόχους σου μία φορά τον χρόνο και άλλαξέ τους χωρίς ενοχές."
+      },
+      "check": {
+        "q": {"en": "What mistake did the 2013 study reveal?", "el": "Ποιο λάθος αποκάλυψε η μελέτη του 2013;"},
+        "options": [
+          {"en": "We expect to change much less in the future than we really will", "el": "Περιμένουμε να αλλάξουμε πολύ λιγότερο στο μέλλον απ' όσο θα αλλάξουμε"},
+          {"en": "We forget most of our own past", "el": "Ξεχνάμε το μεγαλύτερο μέρος του παρελθόντος μας"},
+          {"en": "We change our minds far too often", "el": "Αλλάζουμε γνώμη υπερβολικά συχνά"}
+        ],
+        "answer": 0,
+        "why": {"en": "People at every age underestimate future change, so long rigid plans often stop fitting.", "el": "Σε κάθε ηλικία υποτιμάμε τη μελλοντική αλλαγή, γι' αυτό τα μακρά, άκαμπτα σχέδια συχνά παύουν να ταιριάζουν."}
+      }
+    },
+    {
+      "title": {"en": "A fee, not a fine", "el": "Εισιτήριο, όχι πρόστιμο"},
+      "explain": {
+        "en": "Every reward has a price, and in money and business the price is often uncertainty, doubt and fear rather than a price tag. Housel says see these costs as a fee, the admission ticket to a great result, not as a fine for doing something wrong. People who try to get the reward without paying the fee usually end up paying more.",
+        "el": "Κάθε ανταμοιβή έχει τίμημα, και στα χρήματα και στις επιχειρήσεις το τίμημα είναι συχνά αβεβαιότητα, αμφιβολία και φόβος, όχι μια ετικέτα με τιμή. Ο Χάουζελ λέει να βλέπεις αυτά τα κόστη σαν εισιτήριο για ένα μεγάλο αποτέλεσμα, όχι σαν πρόστιμο επειδή έκανες κάτι λάθος. Όσοι προσπαθούν να πάρουν την ανταμοιβή χωρίς να πληρώσουν το εισιτήριο, συνήθως πληρώνουν τελικά περισσότερα."
+      },
+      "example": {
+        "en": "Amazon's share price fell by more than 90% between late 1999 and 2001, as the dot-com bubble burst, and many wrote the company off. It survived, kept building, and became one of the most valuable companies in the world. The painful fall was part of the price of the long-term result.",
+        "el": "Η μετοχή της Amazon έπεσε πάνω από 90% από τα τέλη του 1999 ως το 2001, όταν έσκασε η φούσκα των dot-com, και πολλοί έγραψαν την εταιρεία. Εκείνη επέζησε, συνέχισε να χτίζει και έγινε μία από τις πιο πολύτιμες εταιρείες του κόσμου. Η επώδυνη πτώση ήταν μέρος του τιμήματος για το μακροπρόθεσμο αποτέλεσμα."
+      },
+      "apply": {
+        "en": "See refusals on cold calls, slow months and late payments as the fee for building a business that pays every year, not as proof you failed. Plan for them: expect many calls for each meeting, and keep calling. Never try to dodge the fee with shortcuts like fake urgency or misleading ads.",
+        "el": "Δες τις αρνήσεις στα cold calls, τους αργούς μήνες και τις καθυστερημένες πληρωμές σαν το εισιτήριο για μια επιχείρηση που αποδίδει κάθε χρόνο, όχι σαν απόδειξη ότι απέτυχες. Σχεδίασε γι' αυτά: να περιμένεις πολλά τηλεφωνήματα για κάθε ραντεβού, και συνέχισε να καλείς. Μην προσπαθήσεις ποτέ να γλιτώσεις το εισιτήριο με κόλπα, όπως ψεύτικη βιασύνη ή παραπλανητικές διαφημίσεις."
+      },
+      "check": {
+        "q": {"en": "How should you see the ups and downs on the way to a reward?", "el": "Πώς πρέπει να βλέπεις τα σκαμπανεβάσματα στον δρόμο για μια ανταμοιβή;"},
+        "options": [
+          {"en": "As a fine for a mistake you made", "el": "Σαν πρόστιμο για ένα λάθος που έκανες"},
+          {"en": "As the fee you pay for the reward", "el": "Σαν το εισιτήριο που πληρώνεις για την ανταμοιβή"},
+          {"en": "As a clear sign to quit", "el": "Σαν ξεκάθαρο σημάδι να τα παρατήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Volatility and doubt are the normal price of long-term results, not a punishment.", "el": "Τα σκαμπανεβάσματα και η αμφιβολία είναι η φυσιολογική τιμή των μακροπρόθεσμων αποτελεσμάτων, όχι τιμωρία."}
+      }
+    },
+    {
+      "title": {"en": "Know which game you play", "el": "Μάθε ποιο παιχνίδι παίζεις"},
+      "explain": {
+        "en": "Prices and choices are shaped by people playing different games with different time horizons. A short-term trader and a long-term saver can both be rational and still behave in opposite ways. The danger is taking cues from people playing a different game. Housel suggests writing down the game you are playing, so you do not copy the wrong players.",
+        "el": "Τις τιμές και τις επιλογές τις διαμορφώνουν άνθρωποι που παίζουν διαφορετικά παιχνίδια, με διαφορετικούς χρονικούς ορίζοντες. Ένας που αγοράζει για λίγες μέρες κι ένας που αποταμιεύει για δεκαετίες μπορεί να είναι και οι δύο λογικοί και να φέρονται εντελώς αντίθετα. Ο κίνδυνος είναι να παίρνεις οδηγίες από ανθρώπους που παίζουν άλλο παιχνίδι. Ο Χάουζελ προτείνει να γράψεις ποιο παιχνίδι παίζεις, για να μην αντιγράφεις τους λάθος παίκτες."
+      },
+      "example": {
+        "en": "During the dot-com bubble, many buyers of tech shares were short-term traders betting on the next day's price, not owners planning to hold for decades. Long-term savers who paid the same prices, assuming those buyers knew something, were badly hurt when the bubble burst in 2000 and 2001.",
+        "el": "Στη φούσκα των dot-com, πολλοί που αγόραζαν μετοχές τεχνολογίας ήταν βραχυπρόθεσμοι παίκτες που πόνταραν στην τιμή της επόμενης μέρας, όχι ιδιοκτήτες που σκόπευαν να κρατήσουν για δεκαετίες. Όσοι αποταμίευαν μακροπρόθεσμα και πλήρωσαν τις ίδιες τιμές, νομίζοντας ότι αυτοί οι αγοραστές κάτι ήξεραν, πληγώθηκαν άσχημα όταν η φούσκα έσκασε το 2000 και το 2001."
+      },
+      "apply": {
+        "en": "Write your game in one line: «Steady, honest clients who renew for ten years and more.» When an Instagram guru shows a quick-money funnel or a rival slashes prices to grow fast, ask: are they playing my game? If not, do not copy them.",
+        "el": "Γράψε το παιχνίδι σου σε μία γραμμή: «Σταθεροί, τίμιοι πελάτες που ανανεώνουν για δέκα χρόνια και πάνω.» Όταν ένας «γκουρού» στο Instagram δείχνει ένα σύστημα για γρήγορο χρήμα ή ένας ανταγωνιστής κόβει τις τιμές για να μεγαλώσει γρήγορα, ρώτα: παίζουν το δικό μου παιχνίδι; Αν όχι, μην τους αντιγράφεις."
+      },
+      "check": {
+        "q": {"en": "Why is copying other people's money moves risky?", "el": "Γιατί είναι επικίνδυνο να αντιγράφεις τις κινήσεις των άλλων με τα χρήματα;"},
+        "options": [
+          {"en": "Other people always lie about money", "el": "Οι άλλοι λένε πάντα ψέματα για τα χρήματα"},
+          {"en": "Copying others is against the law", "el": "Η αντιγραφή των άλλων είναι παράνομη"},
+          {"en": "They may be playing a different game with a different time horizon", "el": "Μπορεί να παίζουν άλλο παιχνίδι, με άλλον χρονικό ορίζοντα"}
+        ],
+        "answer": 2,
+        "why": {"en": "A move that is smart for a short-term player can be foolish for a long-term one.", "el": "Μια κίνηση έξυπνη για κάποιον που παίζει για λίγο μπορεί να είναι ανόητη για κάποιον που παίζει για πολύ."}
+      }
+    },
+    {
+      "title": {"en": "Pessimism sounds smarter", "el": "Η απαισιοδοξία ακούγεται πιο έξυπνη"},
+      "explain": {
+        "en": "Pessimism sounds more intelligent and gets more attention than optimism. Bad news is fast and loud; progress is slow and quiet. Real optimism is not believing everything will be great. It is expecting setbacks often, while believing the long-term trend is up. Housel says be cautious in the short run and optimistic in the long run.",
+        "el": "Η απαισιοδοξία ακούγεται πιο έξυπνη και τραβά περισσότερη προσοχή από την αισιοδοξία. Τα άσχημα νέα είναι γρήγορα και θορυβώδη. Η πρόοδος είναι αργή και αθόρυβη. Η πραγματική αισιοδοξία δεν είναι να πιστεύεις ότι όλα θα πάνε τέλεια. Είναι να περιμένεις συχνά εμπόδια και παράλληλα να πιστεύεις ότι μακροπρόθεσμα η πορεία είναι ανοδική. Ο Χάουζελ λέει: προσεκτικός στο κοντινό διάστημα, αισιόδοξος στο μακρινό."
+      },
+      "example": {
+        "en": "In October 1903, The New York Times published an editorial suggesting that a working flying machine might take one to ten million years to build. About two months later, on 17 December 1903, the Wright brothers flew at Kitty Hawk. Few people noticed at first; the progress was quiet.",
+        "el": "Τον Οκτώβριο του 1903, οι New York Times δημοσίευσαν ένα κύριο άρθρο που έλεγε ότι μια ιπτάμενη μηχανή που θα λειτουργεί ίσως ήθελε από ένα έως δέκα εκατομμύρια χρόνια για να φτιαχτεί. Περίπου δύο μήνες μετά, στις 17 Δεκεμβρίου 1903, οι αδερφοί Ράιτ πέταξαν στο Κίτι Χοκ. Στην αρχή ελάχιστοι το πρόσεξαν. Η πρόοδος ήταν αθόρυβη."
+      },
+      "apply": {
+        "en": "When the news says «the economy is collapsing» or a colleague says «nobody pays for websites any more», check your own data: calls, meetings, renewals. Prepare for bad months with a reserve, but keep building for the long run.",
+        "el": "Όταν οι ειδήσεις λένε «καταρρέει η οικονομία» ή ένας συνάδελφος λέει «κανείς δεν πληρώνει πια για ιστοσελίδες», κοίτα τα δικά σου στοιχεία: τηλεφωνήματα, ραντεβού, ανανεώσεις. Ετοιμάσου για τους κακούς μήνες με αποθεματικό, αλλά συνέχισε να χτίζεις για το μακρινό μέλλον."
+      },
+      "check": {
+        "q": {"en": "What is real optimism, according to Housel?", "el": "Τι είναι η πραγματική αισιοδοξία, κατά τον Χάουζελ;"},
+        "options": [
+          {"en": "Expecting frequent setbacks, but believing the long-term trend is up", "el": "Να περιμένεις συχνά εμπόδια, αλλά να πιστεύεις ότι μακροπρόθεσμα η πορεία ανεβαίνει"},
+          {"en": "Believing nothing will go wrong", "el": "Να πιστεύεις ότι τίποτα δεν θα πάει στραβά"},
+          {"en": "Ignoring all bad news", "el": "Να αγνοείς όλα τα άσχημα νέα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Optimism that survives reality plans for setbacks while betting on long-term progress.", "el": "Η αισιοδοξία που αντέχει την πραγματικότητα σχεδιάζει για τα εμπόδια και ποντάρει στη μακροπρόθεσμη πρόοδο."}
+      }
+    },
+    {
+      "title": {"en": "Stories we want to believe", "el": "Ιστορίες που θέλουμε να πιστέψουμε"},
+      "explain": {
+        "en": "The more we want something to be true, the more easily we believe a story that says it is. We also fill the gaps in what we know with stories that make us feel in control. Housel says this is why people fall for appealing forecasts, schemes and promises. Everyone sees only part of the world and fills in the rest with a story.",
+        "el": "Όσο περισσότερο θέλουμε να ισχύει κάτι, τόσο πιο εύκολα πιστεύουμε μια ιστορία που λέει ότι ισχύει. Γεμίζουμε επίσης τα κενά σε όσα ξέρουμε με ιστορίες που μας κάνουν να νιώθουμε ότι έχουμε τον έλεγχο. Ο Χάουζελ λέει ότι γι' αυτό πέφτουμε σε ελκυστικές προβλέψεις, σχέδια και υποσχέσεις. Ο καθένας βλέπει μόνο ένα κομμάτι του κόσμου και συμπληρώνει τα υπόλοιπα με μια ιστορία."
+      },
+      "example": {
+        "en": "Theranos, the blood-testing start-up founded by Elizabeth Holmes, raised hundreds of millions of dollars from famous investors on the promise of running many tests from a single drop of blood. The story was so appealing that few checked the technology closely. It did not work, and the company collapsed in 2018.",
+        "el": "Η Theranos, η startup αιματολογικών εξετάσεων που ίδρυσε η Ελίζαμπεθ Χολμς, μάζεψε εκατοντάδες εκατομμύρια δολάρια από διάσημους επενδυτές με την υπόσχεση ότι θα έκανε πολλές εξετάσεις από μία σταγόνα αίμα. Η ιστορία ήταν τόσο ελκυστική που λίγοι έλεγξαν προσεκτικά την τεχνολογία. Δεν δούλευε, και η εταιρεία κατέρρευσε το 2018."
+      },
+      "apply": {
+        "en": "When an offer sounds exactly like what you hope, «double your clients in 30 days», or a client promises «a big project later» if you work for free now, slow down and ask for proof. And keep your own ads honest: never sell doctors a story they want to hear that you cannot deliver.",
+        "el": "Όταν μια πρόταση ακούγεται ακριβώς όπως την ελπίζεις, «διπλασίασε τους πελάτες σου σε 30 μέρες», ή ένας πελάτης υπόσχεται «ένα μεγάλο project αργότερα» αν δουλέψεις τώρα τζάμπα, επιβράδυνε και ζήτα αποδείξεις. Και κράτα τίμιες τις δικές σου διαφημίσεις: μην πουλάς ποτέ στους γιατρούς μια ιστορία που θέλουν να ακούσουν αλλά δεν μπορείς να την κάνεις πράξη."
+      },
+      "check": {
+        "q": {"en": "When are we most likely to believe a story?", "el": "Πότε είναι πιο πιθανό να πιστέψουμε μια ιστορία;"},
+        "options": [
+          {"en": "When a stranger tells it", "el": "Όταν τη λέει ένας άγνωστος"},
+          {"en": "When we want it to be true", "el": "Όταν θέλουμε να είναι αληθινή"},
+          {"en": "When it is very complicated", "el": "Όταν είναι πολύ περίπλοκη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Desire lowers our guard; the stronger the wish, the weaker the checking.", "el": "Η επιθυμία κατεβάζει τις άμυνές μας. Όσο πιο δυνατή η ευχή, τόσο πιο αδύναμος ο έλεγχος."}
+      }
+    },
+    {
+      "title": {"en": "Sleep well at night", "el": "Να κοιμάσαι ήσυχος"},
+      "explain": {
+        "en": "Housel ends with his own choices, as an example, not advice. His family's goal is independence: to wake up and do what they want. They keep their lifestyle well below their income, hold more cash than many experts would suggest, and paid off their house early. Some of this is not optimal on paper. The rule behind it: manage money in a way that lets you sleep at night.",
+        "el": "Ο Χάουζελ κλείνει με τις δικές του επιλογές, σαν παράδειγμα και όχι σαν συμβουλή. Ο στόχος της οικογένειάς του είναι η ανεξαρτησία: να ξυπνούν και να κάνουν ό,τι θέλουν. Κρατούν τον τρόπο ζωής τους αρκετά κάτω από το εισόδημά τους, έχουν περισσότερα μετρητά από όσα θα πρότειναν πολλοί ειδικοί, και ξεπλήρωσαν νωρίς το σπίτι τους. Κάποια από αυτά δεν είναι τα βέλτιστα στο χαρτί. Ο κανόνας από πίσω: διαχειρίσου τα χρήματα έτσι ώστε να κοιμάσαι ήσυχος."
+      },
+      "example": {
+        "en": "Housel writes that paying off the mortgage was probably their worst financial decision but their best money decision: worse in pure maths than using that money elsewhere, but it gave a feeling of independence that mattered more to them. He also keeps a large cash reserve for surprises.",
+        "el": "Ο Χάουζελ γράφει ότι η αποπληρωμή του στεγαστικού ήταν μάλλον η χειρότερη χρηματοοικονομική τους απόφαση αλλά η καλύτερη απόφαση για τα χρήματά τους: χειρότερη στα καθαρά μαθηματικά από το να βάλουν αλλού αυτά τα χρήματα, αλλά τους έδωσε μια αίσθηση ανεξαρτησίας που μετρούσε περισσότερο. Κρατά επίσης ένα μεγάλο αποθεματικό σε μετρητά για τα απρόοπτα."
+      },
+      "apply": {
+        "en": "Ask the sleep question about every big money choice in the business: «If this goes wrong, will I still sleep?» Hiring with six months of the salary already saved: yes. Hiring on the hope of next month's sales: no. Choose the version that lets you rest, even if it grows a little slower.",
+        "el": "Κάνε την ερώτηση του ύπνου σε κάθε μεγάλη οικονομική απόφαση της επιχείρησης: «Αν αυτό πάει στραβά, θα κοιμάμαι ακόμα;» Πρόσληψη με έξι μήνες μισθού ήδη στην άκρη: ναι. Πρόσληψη με την ελπίδα των πωλήσεων του επόμενου μήνα: όχι. Διάλεξε την εκδοχή που σε αφήνει να ησυχάζεις, ακόμα κι αν μεγαλώνεις λίγο πιο αργά."
+      },
+      "check": {
+        "q": {"en": "What test does Housel use for his own money choices?", "el": "Ποιο τεστ χρησιμοποιεί ο Χάουζελ για τις δικές του οικονομικές επιλογές;"},
+        "options": [
+          {"en": "Does it give the highest possible return?", "el": "Δίνει τη μεγαλύτερη δυνατή απόδοση;"},
+          {"en": "Will it impress other people?", "el": "Θα εντυπωσιάσει τους άλλους;"},
+          {"en": "Does it let me sleep at night?", "el": "Με αφήνει να κοιμάμαι ήσυχος;"}
+        ],
+        "answer": 2,
+        "why": {"en": "Peace of mind and independence matter more to him than squeezing out the last bit of return.", "el": "Η ηρεμία και η ανεξαρτησία μετράνε περισσότερο για εκείνον από το να στύψει και την τελευταία σταγόνα απόδοσης."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A bank offers you a big loan to triple your ad budget and hire two people at once. What do you do?", "el": "Μια τράπεζα σού προσφέρει μεγάλο δάνειο για να τριπλασιάσεις το budget των διαφημίσεων και να πάρεις δύο άτομα μαζί. Τι κάνεις;"},
+      "options": [
+        {"en": "Take it all, growth needs boldness", "el": "Το παίρνεις όλο, η ανάπτυξη θέλει τόλμη"},
+        {"en": "Grow step by step with money the business earned, keeping a reserve", "el": "Μεγαλώνεις βήμα βήμα με χρήματα που έβγαλε η επιχείρηση, κρατώντας αποθεματικό"},
+        {"en": "Decide never to grow at all", "el": "Αποφασίζεις να μη μεγαλώσεις ποτέ"}
+      ],
+      "answer": 1,
+      "why": {"en": "Survival comes first: avoid risks that could wipe you out, so compounding can keep working.", "el": "Πρώτα η επιβίωση: απόφυγε ρίσκα που μπορούν να σε ξεκληρίσουν, ώστε ο ανατοκισμός να συνεχίσει να δουλεύει."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "After a great month you are tempted to lease a luxury car «to impress clients». What do you do?", "el": "Μετά από έναν πολύ καλό μήνα, σκέφτεσαι να πάρεις με leasing ένα πολυτελές αυτοκίνητο «για να εντυπωσιάζεις τους πελάτες». Τι κάνεις;"},
+      "options": [
+        {"en": "Lease it, image is everything in sales", "el": "Το παίρνεις, στις πωλήσεις η εικόνα είναι το παν"},
+        {"en": "Buy a slightly cheaper one on credit", "el": "Παίρνεις ένα λίγο φθηνότερο με δόσεις"},
+        {"en": "Put the extra into the reserve and into real proof, like case studies", "el": "Βάζεις τα επιπλέον στο αποθεματικό και σε πραγματικές αποδείξεις, όπως παραδείγματα έργων"}
+      ],
+      "answer": 2,
+      "why": {"en": "People notice the car, not you; trust comes from proof, and wealth is what you do not spend.", "el": "Οι άλλοι προσέχουν το αυτοκίνητο, όχι εσένα. Η εμπιστοσύνη έρχεται από αποδείξεις, και ο πλούτος είναι ό,τι δεν ξοδεύεις."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "A big batch of renewal payments arrives this week. What do you do first?", "el": "Αυτή την εβδομάδα μπαίνει μια μεγάλη δόση πληρωμών από ανανεώσεις. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Move a fixed share to savings, then plan the rest", "el": "Μεταφέρεις ένα σταθερό ποσοστό στις οικονομίες και μετά σχεδιάζεις τα υπόλοιπα"},
+        {"en": "Spend it on new equipment you have wanted for a while", "el": "Τα ξοδεύεις σε νέο εξοπλισμό που ήθελες καιρό"},
+        {"en": "Leave it in the account and decide later", "el": "Τα αφήνεις στον λογαριασμό και αποφασίζεις αργότερα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Saving first, by a simple rule, builds the hidden wealth and the room for error you will need.", "el": "Όταν αποταμιεύεις πρώτα, με έναν απλό κανόνα, χτίζεις τον κρυφό πλούτο και το περιθώριο που θα χρειαστείς."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "A rival agency cuts its price to 50€ a year and grows fast. What do you do?", "el": "Ένα άλλο γραφείο κατεβάζει την τιμή στα 50€ τον χρόνο και μεγαλώνει γρήγορα. Τι κάνεις;"},
+      "options": [
+        {"en": "Match their price at once", "el": "Κατεβάζεις αμέσως κι εσύ την τιμή στο ίδιο"},
+        {"en": "Stick to your game: quality, service and long-term renewals", "el": "Μένεις στο δικό σου παιχνίδι: ποιότητα, εξυπηρέτηση και μακροχρόνιες ανανεώσεις"},
+        {"en": "Give up on the market", "el": "Τα παρατάς από την αγορά"}
+      ],
+      "answer": 1,
+      "why": {"en": "They may be playing a different game; copying players with a different time horizon is dangerous.", "el": "Μπορεί να παίζουν άλλο παιχνίδι. Είναι επικίνδυνο να αντιγράφεις παίκτες με άλλον χρονικό ορίζοντα."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "You made many calls this month but closed almost no new clients. What do you do?", "el": "Έκανες πολλά τηλεφωνήματα αυτόν τον μήνα αλλά δεν έκλεισες σχεδόν κανέναν νέο πελάτη. Τι κάνεις;"},
+      "options": [
+        {"en": "Review the process (calls, follow-ups, offer) and keep going", "el": "Ελέγχεις τη διαδικασία (τηλεφωνήματα, follow-ups, προσφορά) και συνεχίζεις"},
+        {"en": "Decide you are not good at sales and stop calling", "el": "Αποφασίζεις ότι δεν κάνεις για πωλήσεις και σταματάς τα τηλέφωνα"},
+        {"en": "Change everything about the business at once", "el": "Αλλάζεις τα πάντα στην επιχείρηση μονομιάς"}
+      ],
+      "answer": 0,
+      "why": {"en": "Luck and risk affect any single month; judge the process over time, not one result.", "el": "Η τύχη και το ρίσκο επηρεάζουν κάθε μεμονωμένο μήνα. Κρίνε τη διαδικασία στον χρόνο, όχι ένα αποτέλεσμα."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "An acquaintance offers you a quick way to double your income, but it could damage your reputation. What do you do?", "el": "Ένας γνωστός σού προτείνει έναν γρήγορο τρόπο να διπλασιάσεις το εισόδημά σου, αλλά μπορεί να βλάψει το όνομά σου. Τι κάνεις;"},
+      "options": [
+        {"en": "Take it, the money is too good to miss", "el": "Το δέχεσαι, τα λεφτά είναι πολλά για να τα χάσεις"},
+        {"en": "Ask for a bigger share first", "el": "Ζητάς πρώτα μεγαλύτερο μερίδιο"},
+        {"en": "Refuse: never risk what you have and need for what you do not need", "el": "Αρνείσαι: δεν ρισκάρεις ποτέ όσα έχεις και χρειάζεσαι για όσα δεν χρειάζεσαι"}
+      ],
+      "answer": 2,
+      "why": {"en": "Knowing what is enough means some things, like your name, are never worth risking for more.", "el": "Το να ξέρεις πότε φτάνει σημαίνει ότι κάποια πράγματα, όπως το όνομά σου, δεν αξίζει ποτέ να τα ρισκάρεις για περισσότερα."},
+      "idea": 2
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Housel says the most powerful part of compounding is time.", "el": "Ο Χάουζελ λέει ότι το πιο δυνατό στοιχείο του ανατοκισμού είναι ο χρόνος."}, "answer": true, "why": {"en": "Modest growth kept up for a very long time produces the biggest results.", "el": "Η μέτρια ανάπτυξη που κρατά πολύ καιρό φέρνει τα μεγαλύτερα αποτελέσματα."}},
+    {"s": {"en": "Housel says you should only save when you have a specific goal.", "el": "Ο Χάουζελ λέει ότι πρέπει να αποταμιεύεις μόνο όταν έχεις συγκεκριμένο στόχο."}, "answer": false, "why": {"en": "He says savings need no specific reason; protection from surprises is reason enough.", "el": "Λέει ότι η αποταμίευση δεν χρειάζεται ειδικό λόγο. Η προστασία από τα απρόοπτα φτάνει."}},
+    {"s": {"en": "Getting rich and staying rich require different skills.", "el": "Το να πλουτίσεις και το να μείνεις πλούσιος θέλουν διαφορετικές ικανότητες."}, "answer": true, "why": {"en": "Getting rich needs risk-taking; staying rich needs humility, thrift and fear of ruin.", "el": "Για να πλουτίσεις θέλει ρίσκο. Για να μείνεις θέλει ταπεινότητα, λιτότητα και φόβο της καταστροφής."}},
+    {"s": {"en": "Expensive cars mostly win their owners admiration.", "el": "Τα ακριβά αυτοκίνητα κερδίζουν κυρίως θαυμασμό για τους ιδιοκτήτες τους."}, "answer": false, "why": {"en": "Housel's man in the car paradox: people admire the car and imagine themselves in it.", "el": "Το παράδοξο του ανθρώπου μέσα στο αυτοκίνητο: οι άλλοι θαυμάζουν το αυτοκίνητο και φαντάζονται τον εαυτό τους μέσα."}},
+    {"s": {"en": "Housel thinks a plan you can stick with beats a perfect plan you abandon.", "el": "Ο Χάουζελ πιστεύει ότι ένα σχέδιο που μπορείς να κρατήσεις νικά ένα τέλειο που εγκαταλείπεις."}, "answer": true, "why": {"en": "Reasonable beats rational: what matters is following the plan through hard times.", "el": "Το λογικό νικά το «τέλειο»: μετράει να ακολουθείς το σχέδιο και στα δύσκολα."}},
+    {"s": {"en": "According to Housel, history is a reliable map of future events.", "el": "Κατά τον Χάουζελ, η ιστορία είναι αξιόπιστος χάρτης για τα μελλοντικά γεγονότα."}, "answer": false, "why": {"en": "The most important events usually have no precedent; history teaches behaviour, not forecasts.", "el": "Τα πιο σημαντικά γεγονότα συνήθως δεν έχουν προηγούμενο. Η ιστορία διδάσκει συμπεριφορά, όχι προβλέψεις."}},
+    {"s": {"en": "Housel says a few big events drive most results in business and investing.", "el": "Ο Χάουζελ λέει ότι λίγα μεγάλα γεγονότα φέρνουν τα περισσότερα αποτελέσματα σε επιχειρήσεις και επενδύσεις."}, "answer": true, "why": {"en": "That is his idea of tails: you can be wrong often and still win big.", "el": "Αυτή είναι η ιδέα των «ουρών»: μπορείς να κάνεις συχνά λάθος και να κερδίσεις πολύ."}},
+    {"s": {"en": "Housel recommends that everyone pays off their mortgage early.", "el": "Ο Χάουζελ προτείνει σε όλους να ξεπληρώνουν νωρίς το στεγαστικό τους."}, "answer": false, "why": {"en": "He shares it as his family's personal choice, admitting it is not optimal on paper.", "el": "Το αναφέρει ως προσωπική επιλογή της οικογένειάς του, παραδεχόμενος ότι δεν είναι η βέλτιστη στο χαρτί."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Compounding", "el": "Ανατοκισμός"}, "b": {"en": "Growth on top of growth over time", "el": "Ανάπτυξη πάνω στην ανάπτυξη με τον χρόνο"}},
+    {"a": {"en": "Tails", "el": "Ουρές"}, "b": {"en": "A few events that drive most results", "el": "Λίγα γεγονότα που φέρνουν τα περισσότερα αποτελέσματα"}},
+    {"a": {"en": "Room for error", "el": "Περιθώριο για λάθος"}, "b": {"en": "A safety gap for when plans go wrong", "el": "Απόσταση ασφαλείας για όταν τα σχέδια στραβώνουν"}},
+    {"a": {"en": "Enough", "el": "Αρκετά"}, "b": {"en": "The point where more risk is not worth it", "el": "Το σημείο όπου άλλο ρίσκο δεν αξίζει"}},
+    {"a": {"en": "Fee, not fine", "el": "Εισιτήριο, όχι πρόστιμο"}, "b": {"en": "Ups and downs as the price of reward", "el": "Τα σκαμπανεβάσματα ως τίμημα της ανταμοιβής"}},
+    {"a": {"en": "Wealth", "el": "Πλούτος"}, "b": {"en": "The money you did not spend", "el": "Τα χρήματα που δεν ξόδεψες"}}
+  ],
+  "missions": [
+    {"en": "Write your «enough» for this year: personal income, savings and the business reserve.", "el": "Γράψε το «αρκετά» σου για φέτος: προσωπικό εισόδημα, οικονομίες και αποθεματικό της επιχείρησης."},
+    {"en": "Calculate how many months of fixed business costs your cash covers today, and set a target.", "el": "Υπολόγισε πόσους μήνες σταθερών εξόδων της επιχείρησης καλύπτουν σήμερα τα μετρητά σου, και βάλε στόχο."},
+    {"en": "Set up an automatic transfer of a fixed share of every renewal payment into a savings account.", "el": "Στήσε μια αυτόματη μεταφορά ενός σταθερού ποσοστού από κάθε πληρωμή ανανέωσης σε λογαριασμό αποταμίευσης."},
+    {"en": "List your last 20 clients and mark which channel brought each one, to find your tails.", "el": "Γράψε τους τελευταίους 20 πελάτες σου και σημείωσε ποιο κανάλι έφερε τον καθένα, για να βρεις τις «ουρές» σου."},
+    {"en": "Write in one sentence the money game you are playing and stick it above your desk.", "el": "Γράψε σε μία πρόταση ποιο παιχνίδι παίζεις με τα χρήματα και κόλλησέ το πάνω από το γραφείο σου."}
+  ],
+  "mantra": {"en": "Survive first, save quietly, and give it time.", "el": "Πρώτα επιβίωσε, αποταμίευε αθόρυβα, και δώσ' του χρόνο."},
+  "careful": {
+    "en": "Housel writes engaging essays, not research. Many lessons rest on stories that can suffer from survivorship bias: we hear about the Buffetts, not those who did the same and failed. His data and examples come mostly from the United States, whose economy and markets had an unusually strong century. Some anecdotes are simplified. This is general wisdom about behaviour, not financial advice; for loans, taxes or investing, ask a qualified professional.",
+    "el": "Ο Χάουζελ γράφει ευχάριστα δοκίμια, όχι έρευνα. Πολλά μαθήματα στηρίζονται σε ιστορίες που μπορεί να πάσχουν από μεροληψία επιβίωσης: ακούμε για τους Μπάφετ, όχι για όσους έκαναν τα ίδια και απέτυχαν. Τα στοιχεία και τα παραδείγματά του είναι κυρίως από τις ΗΠΑ, των οποίων η οικονομία και οι αγορές είχαν έναν ασυνήθιστα δυνατό αιώνα. Κάποια ανέκδοτα είναι απλοποιημένα. Είναι γενική σοφία για τη συμπεριφορά, όχι οικονομική συμβουλή. Για δάνεια, φόρους ή επενδύσεις, ρώτα έναν πιστοποιημένο επαγγελματία."
+  },
+  "connects": [
+    {"book": "thinking-fast-and-slow", "note": {"en": "Kahneman explains the mental machinery, loss aversion, stories and overconfidence; Housel shows how it plays out with real money.", "el": "Ο Κάνεμαν εξηγεί τον μηχανισμό του μυαλού, την αποστροφή στην απώλεια, τις ιστορίες και την υπερβολική σιγουριά. Ο Χάουζελ δείχνει πώς εκδηλώνονται με πραγματικά χρήματα."}},
+    {"book": "antifragile", "note": {"en": "Both say avoid ruin and let a few big wins pay for many small losses; Taleb goes further, seeking gains from disorder.", "el": "Και οι δύο λένε να αποφεύγεις την καταστροφή και να αφήνεις λίγες μεγάλες επιτυχίες να πληρώνουν πολλές μικρές απώλειες. Ο Τάλεμπ πάει πιο μακριά και ψάχνει κέρδος μέσα στην αταξία."}},
+    {"book": "meditations", "note": {"en": "Marcus Aurelius and Housel agree that wanting less, not having more, is the surest way to feel you have enough.", "el": "Ο Μάρκος Αυρήλιος και ο Χάουζελ συμφωνούν ότι το να θέλεις λιγότερα, και όχι να έχεις περισσότερα, είναι ο πιο σίγουρος δρόμος για να νιώθεις ότι σου φτάνουν."}}
+  ]
+}

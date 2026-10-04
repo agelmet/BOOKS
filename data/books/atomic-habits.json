@@ -1,0 +1,626 @@
+{
+  "id": "atomic-habits",
+  "title": {"en": "Atomic Habits", "el": "Ατομικές Συνήθειες"},
+  "author": "James Clear",
+  "authorEl": "Τζέιμς Κλίαρ",
+  "year": 2018,
+  "shelf": "focus",
+  "skills": {"focus": 3, "mindset": 2, "strategy": 1},
+  "oneLine": {
+    "en": "Big results come from tiny habits repeated every day, and you build them by making good habits obvious, attractive, easy and satisfying, and bad ones the opposite.",
+    "el": "Τα μεγάλα αποτελέσματα βγαίνουν από μικροσκοπικές συνήθειες που επαναλαμβάνεις κάθε μέρα. Τις χτίζεις κάνοντας τις καλές προφανείς, ελκυστικές, εύκολες και ευχάριστες, και τις κακές το αντίθετο."
+  },
+  "story": {
+    "en": "James Clear is an American writer who began by sharing short articles on habits on his blog. His 2018 book turned those years of writing into one simple system: four laws, each with clear tricks you can use the same day. It has sold well over 15 million copies and is still one of the most read self-help books, because it is practical, short and built on everyday examples.",
+    "el": "Ο James Clear είναι Αμερικανός συγγραφέας που ξεκίνησε γράφοντας μικρά άρθρα για τις συνήθειες στο blog του. Το βιβλίο του, το 2018, έκανε αυτά τα χρόνια γραψίματος ένα απλό σύστημα: τέσσερις νόμους, ο καθένας με ξεκάθαρα κόλπα που εφαρμόζεις την ίδια μέρα. Έχει πουλήσει πάνω από 15 εκατομμύρια αντίτυπα και παραμένει από τα πιο διαβασμένα βιβλία αυτοβελτίωσης, γιατί είναι πρακτικό, σύντομο και γεμάτο καθημερινά παραδείγματα."
+  },
+  "forYou": {
+    "en": "Your agency grows from things done every day: calls made, sites shipped, posts published, invoices chased. Motivation comes and goes, so a good week depends on habits, not on mood. This book gives you a simple way to turn cold calling, content and follow-ups into routines that run almost by themselves, and to remove the small habits that quietly eat your hours.",
+    "el": "Το γραφείο σου μεγαλώνει από όσα γίνονται κάθε μέρα: τηλέφωνα, ιστοσελίδες που παραδίδονται, αναρτήσεις, πληρωμές που κυνηγάς. Η διάθεση πάει κι έρχεται, άρα μια καλή εβδομάδα εξαρτάται από τις συνήθειες και όχι από το κέφι. Το βιβλίο σού δίνει έναν απλό τρόπο να κάνεις τα cold calls, το περιεχόμενο και τα follow-up ρουτίνες που τρέχουν σχεδόν μόνες τους, και να κόψεις τις μικρές συνήθειες που σου τρώνε αθόρυβα τις ώρες."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Tiny gains compound", "el": "Τα μικρά κέρδη πολλαπλασιάζονται"},
+      "explain": {
+        "en": "A habit is like compound interest for your life. One percent better each day looks like nothing on the day you do it. But the gains multiply: one percent better every day for a year makes you about 37 times better. One percent worse every day takes you close to zero. Small choices do not feel important in the moment, yet over years they decide almost everything.",
+        "el": "Μια συνήθεια λειτουργεί σαν τον ανατοκισμό στη ζωή σου. Ένα τοις εκατό καλύτερα κάθε μέρα δεν φαίνεται σχεδόν τίποτα τη μέρα που το κάνεις. Όμως τα κέρδη πολλαπλασιάζονται: ένα τοις εκατό καλύτερα κάθε μέρα για έναν χρόνο σε κάνει περίπου 37 φορές καλύτερο. Ένα τοις εκατό χειρότερα κάθε μέρα σε φέρνει κοντά στο μηδέν. Οι μικρές επιλογές δεν μοιάζουν σημαντικές τη στιγμή που τις κάνεις, αλλά μέσα στα χρόνια κρίνουν σχεδόν τα πάντα."
+      },
+      "example": {
+        "en": "In 2003 British Cycling hired Dave Brailsford. Its riders had won almost nothing for a century. He hunted for tiny gains: better saddles, riders' own pillows taken to hotels, lessons on washing hands to avoid colds. In 2008 Britain won about 60% of the cycling gold medals in Beijing, and in 2012 Bradley Wiggins won the Tour de France.",
+        "el": "Το 2003 η βρετανική ομοσπονδία ποδηλασίας προσέλαβε τον Dave Brailsford. Οι αθλητές της δεν είχαν κερδίσει σχεδόν τίποτα για έναν αιώνα. Εκείνος κυνήγησε μικροσκοπικές βελτιώσεις: καλύτερες σέλες, το δικό τους μαξιλάρι σε κάθε ξενοδοχείο, μαθήματα πλυσίματος χεριών για να μην κρυώνουν. Το 2008 στο Πεκίνο η Βρετανία πήρε περίπου το 60% των χρυσών της ποδηλασίας και το 2012 ο Bradley Wiggins κέρδισε τον Γύρο της Γαλλίας."
+      },
+      "apply": {
+        "en": "Pick one number in your business, like calls per day, and raise it a little: from 20 to 22. Next month, 25. Do the same with one small skill, such as a better first sentence on the call. Write the small changes in a note so you can see how they add up after six months.",
+        "el": "Διάλεξε έναν αριθμό στη δουλειά σου, όπως τα τηλέφωνα την ημέρα, και ανέβασέ τον λίγο: από 20 σε 22. Τον επόμενο μήνα, 25. Κάνε το ίδιο με μια μικρή δεξιότητα, για παράδειγμα μια καλύτερη πρώτη φράση στο τηλέφωνο. Γράφε τις μικρές αλλαγές σε μια σημείωση για να δεις πώς αθροίζονται σε έξι μήνες."
+      },
+      "check": {
+        "q": {"en": "Why do small daily habits matter so much?", "el": "Γιατί μετράνε τόσο πολύ οι μικρές καθημερινές συνήθειες;"},
+        "options": [
+          {"en": "Each one gives a big result the same day", "el": "Η καθεμιά φέρνει μεγάλο αποτέλεσμα την ίδια μέρα"},
+          {"en": "Their effects multiply over months and years", "el": "Τα αποτελέσματά τους πολλαπλασιάζονται σε μήνες και χρόνια"},
+          {"en": "They need no effort once you start them", "el": "Δεν θέλουν καμία προσπάθεια μόλις τις ξεκινήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "The gain on one day is tiny. The power is in repetition and compounding over time.", "el": "Το κέρδος μιας μέρας είναι μικροσκοπικό. Η δύναμη βρίσκεται στην επανάληψη και στο πώς συσσωρεύεται με τον χρόνο."}
+      }
+    },
+    {
+      "title": {"en": "The plateau before the breakthrough", "el": "Το πλατό πριν από την έκρηξη"},
+      "explain": {
+        "en": "We expect progress to be a straight line, but it is not. For a long time you work and see nothing, and you feel let down. Clear calls this the plateau of latent potential, the stage where results are building but still hidden. Think of an ice cube in a cold room: you warm the room degree by degree and nothing happens, until one more degree melts it. The earlier work was not wasted, it was stored.",
+        "el": "Περιμένουμε η πρόοδος να είναι ευθεία γραμμή, αλλά δεν είναι. Για πολύ καιρό δουλεύεις και δεν βλέπεις τίποτα, και απογοητεύεσαι. Ο Clear το λέει «πλατό της κρυμμένης δυναμικής», τη φάση όπου τα αποτελέσματα χτίζονται αλλά δεν φαίνονται ακόμα. Σκέψου ένα παγάκι σε κρύο δωμάτιο: ζεσταίνεις τον χώρο βαθμό τον βαθμό και δεν γίνεται τίποτα, μέχρι που ένας ακόμα βαθμός το λιώνει. Η προηγούμενη δουλειά δεν πήγε χαμένη, απλώς μαζευόταν."
+      },
+      "example": {
+        "en": "In high school Clear was hit in the face by a baseball bat by accident and spent months recovering. In college he built small habits: going to bed early, keeping his room tidy, training steadily. For years the gains were invisible. Six years after the injury he was named the top male athlete at Denison University.",
+        "el": "Στο λύκειο ο Clear χτυπήθηκε κατά λάθος στο πρόσωπο από ένα ρόπαλο του μπέιζμπολ και χρειάστηκε μήνες για να συνέλθει. Στο πανεπιστήμιο έχτισε μικρές συνήθειες: νωρίς για ύπνο, τακτοποιημένο δωμάτιο, σταθερή προπόνηση. Για χρόνια η πρόοδος δεν φαινόταν. Έξι χρόνια μετά τον τραυματισμό ανακηρύχθηκε κορυφαίος αθλητής του Πανεπιστημίου Denison."
+      },
+      "apply": {
+        "en": "Give a new channel, like weekly reels, a fixed trial of three months before you judge it. Track the effort (reels posted) rather than the result (clients) during that time. When you feel like quitting in week five, remember the ice cube: the melting point usually comes after the boring part.",
+        "el": "Δώσε σε ένα νέο κανάλι, όπως τα εβδομαδιαία reels, μια σταθερή δοκιμή τριών μηνών πριν το κρίνεις. Σε αυτό το διάστημα μέτρα την προσπάθεια (πόσα reels ανέβηκαν) και όχι το αποτέλεσμα (πόσοι πελάτες ήρθαν). Όταν την πέμπτη εβδομάδα θέλεις να τα παρατήσεις, θυμήσου το παγάκι: το λιώσιμο συνήθως έρχεται μετά το βαρετό κομμάτι."
+      },
+      "check": {
+        "q": {"en": "What is the plateau of latent potential?", "el": "Τι είναι το «πλατό της κρυμμένης δυναμικής»;"},
+        "options": [
+          {"en": "A phase where results build up but are not yet visible", "el": "Μια φάση όπου τα αποτελέσματα χτίζονται αλλά δεν φαίνονται ακόμα"},
+          {"en": "The point where you should stop and try something else", "el": "Το σημείο όπου πρέπει να σταματήσεις και να δοκιμάσεις κάτι άλλο"},
+          {"en": "The moment when a habit becomes fully automatic", "el": "Η στιγμή που μια συνήθεια γίνεται εντελώς αυτόματη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Work done on the plateau is stored, not lost. The visible jump comes later.", "el": "Η δουλειά στο πλατό αποθηκεύεται, δεν χάνεται. Το ορατό άλμα έρχεται αργότερα."}
+      }
+    },
+    {
+      "title": {"en": "Systems beat goals", "el": "Τα συστήματα νικούν τους στόχους"},
+      "explain": {
+        "en": "A goal is the result you want. A system is what you do every day to get there. Winners and losers usually have the same goals, so the goal is not what makes the difference. Reaching a goal also changes things only for a moment. Clear's advice: set the direction with a goal, then put all your attention on the system. You do not rise to your goals, you fall to the level of your daily routine.",
+        "el": "Στόχος είναι το αποτέλεσμα που θέλεις. Σύστημα είναι αυτό που κάνεις κάθε μέρα για να φτάσεις εκεί. Νικητές και ηττημένοι έχουν συνήθως τους ίδιους στόχους, άρα δεν είναι ο στόχος που κάνει τη διαφορά. Επιπλέον, όταν πετυχαίνεις έναν στόχο, η αλλαγή κρατά μόνο για λίγο. Η συμβουλή του Clear: όρισε την κατεύθυνση με έναν στόχο και μετά βάλε όλη σου την προσοχή στο σύστημα. Δεν ανεβαίνεις στο ύψος των στόχων σου, πέφτεις στο επίπεδο της καθημερινής σου ρουτίνας."
+      },
+      "example": {
+        "en": "Clear's own example: if your room is a mess and you set the goal to clean it, you will have a clean room today. But if you keep the habits that made the mess, a few weeks later it is a mess again. The fix is a system, such as putting each thing back right after you use it.",
+        "el": "Το παράδειγμα του ίδιου του Clear: αν το δωμάτιό σου είναι χάλια και βάλεις στόχο να το καθαρίσεις, σήμερα θα έχεις καθαρό δωμάτιο. Αν όμως κρατήσεις τις συνήθειες που έφεραν το χάος, σε λίγες εβδομάδες θα είναι πάλι χάλια. Η λύση είναι ένα σύστημα, όπως να βάζεις κάθε πράγμα πίσω στη θέση του αμέσως μόλις το χρησιμοποιήσεις."
+      },
+      "apply": {
+        "en": "Turn «30 new clients this quarter» into a daily system: calls from 10:00 to 12:00, every interested lead gets a demo site within 48 hours, every demo gets a follow-up on day three. Judge each day only by whether the system ran. The clients will follow the system.",
+        "el": "Κάνε το «30 νέοι πελάτες αυτό το τρίμηνο» καθημερινό σύστημα: τηλέφωνα 10:00 με 12:00, κάθε ενδιαφερόμενος παίρνει δείγμα ιστοσελίδας μέσα σε 48 ώρες, κάθε δείγμα παίρνει follow-up την τρίτη μέρα. Κρίνε κάθε μέρα μόνο από το αν έτρεξε το σύστημα. Οι πελάτες θα ακολουθήσουν το σύστημα."
+      },
+      "check": {
+        "q": {"en": "According to Clear, what really decides your results?", "el": "Κατά τον Clear, τι κρίνει πραγματικά τα αποτελέσματά σου;"},
+        "options": [
+          {"en": "How ambitious your goal is", "el": "Πόσο φιλόδοξος είναι ο στόχος σου"},
+          {"en": "How much you want the result", "el": "Πόσο πολύ θέλεις το αποτέλεσμα"},
+          {"en": "The daily system you follow", "el": "Το καθημερινό σύστημα που ακολουθείς"}
+        ],
+        "answer": 2,
+        "why": {"en": "Everyone wants to win. The difference is in what people do every day.", "el": "Όλοι θέλουν να κερδίσουν. Η διαφορά είναι σε όσα κάνει ο καθένας κάθε μέρα."}
+      }
+    },
+    {
+      "title": {"en": "Become the person first", "el": "Γίνε πρώτα αυτός που θέλεις"},
+      "explain": {
+        "en": "Change has three layers: results (what you get), process (what you do) and identity (who you believe you are). Most people start from results. Clear says start from identity: decide who you want to be, then prove it with small actions. Every time you act like that person, you cast a vote for that identity. You do not need every vote, just a majority. Habits stick when they become part of who you are.",
+        "el": "Η αλλαγή έχει τρία επίπεδα: τα αποτελέσματα (τι παίρνεις), τη διαδικασία (τι κάνεις) και την ταυτότητα (ποιος πιστεύεις ότι είσαι). Οι περισσότεροι ξεκινούν από τα αποτελέσματα. Ο Clear λέει να ξεκινάς από την ταυτότητα: αποφάσισε ποιος θέλεις να είσαι και απόδειξέ το με μικρές πράξεις. Κάθε φορά που φέρεσαι σαν αυτός ο άνθρωπος, ρίχνεις μια ψήφο υπέρ του. Δεν χρειάζεσαι όλες τις ψήφους, μόνο την πλειοψηφία. Οι συνήθειες μένουν όταν γίνονται κομμάτι του ποιος είσαι."
+      },
+      "example": {
+        "en": "Two people are offered a cigarette. The first says, «No thanks, I'm trying to quit.» He still sees himself as a smoker who is fighting it. The second says, «No thanks, I'm not a smoker.» For him there is nothing to fight. The book uses this to show why the second person is far more likely to stay off cigarettes.",
+        "el": "Δύο άνθρωποι παίρνουν προσφορά για τσιγάρο. Ο πρώτος λέει: «Όχι, ευχαριστώ, προσπαθώ να το κόψω». Ακόμα βλέπει τον εαυτό του ως καπνιστή που παλεύει. Ο δεύτερος λέει: «Όχι, ευχαριστώ, δεν καπνίζω». Για εκείνον δεν υπάρχει μάχη. Το βιβλίο το χρησιμοποιεί για να δείξει γιατί ο δεύτερος έχει πολύ περισσότερες πιθανότητες να μείνει μακριά από το τσιγάρο."
+      },
+      "apply": {
+        "en": "Write one sentence: «I am a founder who calls every weekday» or «I am someone who answers every client within one day». Each morning do one small thing that proves it, even five calls on a bad day. When you hesitate, ask: what would this person do right now?",
+        "el": "Γράψε μία φράση: «Είμαι ιδρυτής που κάνει τηλέφωνα κάθε εργάσιμη» ή «Είμαι άνθρωπος που απαντά σε κάθε πελάτη μέσα σε μία μέρα». Κάθε πρωί κάνε ένα μικρό πράγμα που το αποδεικνύει, έστω πέντε τηλέφωνα σε μια κακή μέρα. Όταν διστάζεις, ρώτα: τι θα έκανε αυτός ο άνθρωπος τώρα;"
+      },
+      "check": {
+        "q": {"en": "What does «every action is a vote» mean?", "el": "Τι σημαίνει «κάθε πράξη είναι μια ψήφος»;"},
+        "options": [
+          {"en": "You should ask others before you act", "el": "Πρέπει να ρωτάς τους άλλους πριν κάνεις κάτι"},
+          {"en": "Each action builds the belief of who you are", "el": "Κάθε πράξη χτίζει την πεποίθηση για το ποιος είσαι"},
+          {"en": "One bad day erases all your progress", "el": "Μια κακή μέρα σβήνει όλη την πρόοδό σου"}
+        ],
+        "answer": 1,
+        "why": {"en": "Small actions add up to evidence. Enough evidence changes how you see yourself.", "el": "Οι μικρές πράξεις γίνονται αποδείξεις. Με αρκετές αποδείξεις αλλάζει το πώς βλέπεις τον εαυτό σου."}
+      }
+    },
+    {
+      "title": {"en": "Cue, craving, response, reward", "el": "Ερέθισμα, λαχτάρα, αντίδραση, ανταμοιβή"},
+      "explain": {
+        "en": "Every habit runs in four steps. A cue catches your attention. A craving makes you want a change. A response is the action you take. A reward satisfies the craving, and your brain notes it for next time. From these four steps come the four laws: to build a habit, make it obvious, attractive, easy and satisfying. To break a habit, turn each law around: invisible, unattractive, hard and unsatisfying.",
+        "el": "Κάθε συνήθεια τρέχει σε τέσσερα βήματα. Ένα ερέθισμα τραβά την προσοχή σου. Μια λαχτάρα σε κάνει να θέλεις μια αλλαγή. Η αντίδραση είναι η πράξη που κάνεις. Η ανταμοιβή ικανοποιεί τη λαχτάρα και ο εγκέφαλος το σημειώνει για την επόμενη φορά. Από αυτά τα τέσσερα βήματα βγαίνουν οι τέσσερις νόμοι: για να χτίσεις μια συνήθεια, κάν' την προφανή, ελκυστική, εύκολη και ευχάριστη. Για να κόψεις μια συνήθεια, γύρισε κάθε νόμο ανάποδα: αόρατη, αδιάφορη, δύσκολη, δυσάρεστη."
+      },
+      "example": {
+        "en": "In 1898 the psychologist Edward Thorndike put cats in puzzle boxes. At first they tried everything at random until they hit the lever that opened the door and reached food. After many rounds they went straight to the lever in seconds. A rewarded action had become a habit.",
+        "el": "Το 1898 ο ψυχολόγος Edward Thorndike έβαλε γάτες σε κουτιά-γρίφους. Στην αρχή δοκίμαζαν τα πάντα στην τύχη, μέχρι να πατήσουν τον μοχλό που άνοιγε την πόρτα και να φτάσουν στο φαγητό. Μετά από πολλές επαναλήψεις πήγαιναν κατευθείαν στον μοχλό μέσα σε δευτερόλεπτα. Μια πράξη που ανταμείφθηκε είχε γίνει συνήθεια."
+      },
+      "apply": {
+        "en": "Take one bad habit, such as opening Instagram when a call goes badly. Name the four steps: cue (a no on the phone), craving (relief), response (scrolling), reward (a short escape). Then change the response: after a no, stand up, drink water and dial the next number.",
+        "el": "Πάρε μια κακή συνήθεια, όπως το να ανοίγεις το Instagram όταν ένα τηλέφωνο πάει στραβά. Ονόμασε τα τέσσερα βήματα: ερέθισμα (ένα «όχι» στο τηλέφωνο), λαχτάρα (ανακούφιση), αντίδραση (scroll), ανταμοιβή (μια μικρή απόδραση). Μετά άλλαξε την αντίδραση: μετά από ένα «όχι», σήκω, πιες νερό και κάλεσε τον επόμενο αριθμό."
+      },
+      "check": {
+        "q": {"en": "How do you break a bad habit with the four laws?", "el": "Πώς κόβεις μια κακή συνήθεια με τους τέσσερις νόμους;"},
+        "options": [
+          {"en": "Try harder to resist it each time", "el": "Προσπαθείς πιο σκληρά να της αντισταθείς κάθε φορά"},
+          {"en": "Wait until you feel ready to stop", "el": "Περιμένεις να νιώσεις έτοιμος να σταματήσεις"},
+          {"en": "Make it invisible, unattractive, hard, unsatisfying", "el": "Την κάνεις αόρατη, αδιάφορη, δύσκολη, δυσάρεστη"}
+        ],
+        "answer": 2,
+        "why": {"en": "Breaking a habit is the four laws turned around, not a fight of willpower.", "el": "Το κόψιμο μιας συνήθειας είναι οι τέσσερις νόμοι ανάποδα, όχι μάχη θέλησης."}
+      }
+    },
+    {
+      "title": {"en": "See your autopilot", "el": "Δες τον αυτόματο πιλότο σου"},
+      "explain": {
+        "en": "Most habits run without you noticing, so the first step is awareness. Clear suggests a Habits Scorecard: write down everything you do in a normal day, from waking up to sleeping. Next to each action put a plus if it helps the person you want to be, a minus if it hurts, an equals sign if it is neutral. Do not judge or fix anything yet. Just see what really happens.",
+        "el": "Οι περισσότερες συνήθειες τρέχουν χωρίς να το καταλαβαίνεις, οπότε το πρώτο βήμα είναι να τις δεις. Ο Clear προτείνει έναν «πίνακα συνηθειών»: γράψε όλα όσα κάνεις σε μια κανονική μέρα, από το ξύπνημα μέχρι τον ύπνο. Δίπλα σε κάθε πράξη βάλε συν αν βοηθά τον άνθρωπο που θέλεις να γίνεις, πλην αν τον βλάπτει, ίσον αν είναι ουδέτερη. Μην κρίνεις και μη διορθώνεις τίποτα ακόμα. Απλώς δες τι γίνεται στην πράξη."
+      },
+      "example": {
+        "en": "Train drivers in Japan point at each signal and say out loud what they see, like «signal is green». It looks silly, but saying and pointing pulls the action out of autopilot. A Japanese railway study found this habit cut mistakes by up to 85%.",
+        "el": "Οι οδηγοί τρένων στην Ιαπωνία δείχνουν με το χέρι κάθε σήμα και λένε δυνατά τι βλέπουν, για παράδειγμα «το σήμα είναι πράσινο». Φαίνεται αστείο, όμως το να δείχνεις και να το λες βγάζει την πράξη από τον αυτόματο πιλότο. Μια ιαπωνική σιδηροδρομική μελέτη βρήκε ότι αυτή η συνήθεια μειώνει τα λάθη έως και 85%."
+      },
+      "apply": {
+        "en": "Write your scorecard for one normal workday: when you open email, when you check the client chat, when you scroll, when you call. Mark each line plus, minus or equals. Then say out loud before a weak habit: «I am about to open Instagram instead of calling.» Naming it often stops it.",
+        "el": "Γράψε τον πίνακά σου για μια κανονική εργάσιμη: πότε ανοίγεις email, πότε ελέγχεις το chat των πελατών, πότε κάνεις scroll, πότε τηλεφωνείς. Σημείωσε κάθε γραμμή με συν, πλην ή ίσον. Μετά, πριν από μια κακή συνήθεια, πες δυνατά: «Πάω να ανοίξω το Instagram αντί να τηλεφωνήσω». Όταν το ονομάζεις, συχνά σταματάει."
+      },
+      "check": {
+        "q": {"en": "What is the first step to change a habit?", "el": "Ποιο είναι το πρώτο βήμα για να αλλάξεις μια συνήθεια;"},
+        "options": [
+          {"en": "Notice it clearly when it happens", "el": "Να τη δεις καθαρά όταν συμβαίνει"},
+          {"en": "Punish yourself every time you do it", "el": "Να τιμωρείς τον εαυτό σου κάθε φορά"},
+          {"en": "Replace all your habits in one week", "el": "Να αλλάξεις όλες σου τις συνήθειες σε μία εβδομάδα"}
+        ],
+        "answer": 0,
+        "why": {"en": "You cannot change what you do not see. Awareness comes before action.", "el": "Δεν αλλάζεις κάτι που δεν βλέπεις. Η επίγνωση έρχεται πριν από την πράξη."}
+      }
+    },
+    {
+      "title": {"en": "When, where, after what", "el": "Πότε, πού, μετά από τι"},
+      "explain": {
+        "en": "Vague plans like «I will exercise more» rarely happen. Clear gives two tools. First, an implementation intention: «I will do X at time Y in place Z.» Second, habit stacking: link the new habit to one you already do every day. «After I pour my morning coffee, I will write my three priorities.» The old habit becomes the cue for the new one, so you no longer need to remember it.",
+        "el": "Τα αόριστα σχέδια, όπως «θα γυμνάζομαι περισσότερο», σπάνια γίνονται. Ο Clear δίνει δύο εργαλεία. Πρώτο, την πρόθεση υλοποίησης: «Θα κάνω το Χ την ώρα Υ στο μέρος Ζ». Δεύτερο, το «στοίβαγμα» συνηθειών: δένεις τη νέα συνήθεια σε μία που ήδη κάνεις κάθε μέρα. «Αφού βάλω τον πρωινό μου καφέ, θα γράψω τις τρεις προτεραιότητές μου». Η παλιά συνήθεια γίνεται το ερέθισμα για τη νέα, οπότε δεν χρειάζεται να τη θυμάσαι."
+      },
+      "example": {
+        "en": "Clear explains the chain with the writer Denis Diderot. In the 1760s he was given a beautiful red robe. Next to it his old things looked shabby, so he bought a new rug, then a new chair, then new art, one purchase leading to the next. Habits link in the same way, one action calling the next.",
+        "el": "Ο Clear εξηγεί την αλυσίδα με τον συγγραφέα Denis Diderot. Τη δεκαετία του 1760 απέκτησε μια όμορφη κόκκινη ρόμπα. Δίπλα της τα παλιά του πράγματα φαίνονταν φθαρμένα, οπότε αγόρασε νέο χαλί, μετά νέα καρέκλα, μετά νέους πίνακες, η μία αγορά έφερνε την άλλη. Με τον ίδιο τρόπο δένονται και οι συνήθειες: η μία πράξη φωνάζει την επόμενη."
+      },
+      "apply": {
+        "en": "Write three stacks and stick them on your screen: «After I finish my morning coffee, I open the call list.» «After I end a sales call, I write the next step in the CRM.» «After I send a draft link, I set a reminder for day three.» Keep each one short and exact.",
+        "el": "Γράψε τρία «στοιβάγματα» και κόλλησέ τα στην οθόνη σου: «Αφού τελειώσω τον πρωινό καφέ, ανοίγω τη λίστα τηλεφώνων». «Αφού κλείσω ένα τηλέφωνο πώλησης, γράφω το επόμενο βήμα στο CRM». «Αφού στείλω link με δείγμα, βάζω υπενθύμιση για την τρίτη μέρα». Κράτα το καθένα σύντομο και συγκεκριμένο."
+      },
+      "check": {
+        "q": {"en": "In habit stacking, what acts as the cue?", "el": "Στο στοίβαγμα συνηθειών, τι παίζει τον ρόλο του ερεθίσματος;"},
+        "options": [
+          {"en": "An alarm that rings every hour", "el": "Ένα ξυπνητήρι που χτυπά κάθε ώρα"},
+          {"en": "A habit you already do every day", "el": "Μια συνήθεια που ήδη κάνεις κάθε μέρα"},
+          {"en": "A strong feeling of motivation", "el": "Ένα δυνατό αίσθημα κινήτρου"}
+        ],
+        "answer": 1,
+        "why": {"en": "The current habit is reliable, so it reminds you of the new one without effort.", "el": "Η υπάρχουσα συνήθεια είναι σίγουρη, οπότε σου θυμίζει τη νέα χωρίς κόπο."}
+      }
+    },
+    {
+      "title": {"en": "Design what you see", "el": "Σχεδίασε τι βλέπεις"},
+      "explain": {
+        "en": "Your surroundings shape your behaviour more than your motivation does. We mostly do what is in front of us. So put the cues of good habits where you cannot miss them, and hide the cues of bad ones. Clear also suggests one space, one use: if a desk is only for deep work, sitting at it switches you into work mode. Mixed spaces make mixed habits.",
+        "el": "Το περιβάλλον σου επηρεάζει τη συμπεριφορά σου περισσότερο από το κίνητρό σου. Κυρίως κάνουμε ό,τι έχουμε μπροστά μας. Βάλε λοιπόν τα ερεθίσματα των καλών συνηθειών εκεί που δεν γίνεται να μην τα δεις, και κρύψε τα ερεθίσματα των κακών. Ο Clear προτείνει επίσης «ένας χώρος, μία χρήση»: αν ένα γραφείο είναι μόνο για συγκεντρωμένη δουλειά, μόλις κάθεσαι εκεί μπαίνεις σε λειτουργία δουλειάς. Οι ανακατεμένοι χώροι φτιάχνουν ανακατεμένες συνήθειες."
+      },
+      "example": {
+        "en": "Doctor Anne Thorndike changed the cafeteria of Massachusetts General Hospital in Boston without telling anyone. She added bottled water next to the registers and in baskets around the room. With no posters and no advice, soda sales fell by about 11% and water sales rose by about 26%.",
+        "el": "Η γιατρός Anne Thorndike άλλαξε την καφετέρια του Massachusetts General Hospital στη Βοστώνη χωρίς να το ανακοινώσει. Έβαλε μπουκάλια νερό δίπλα στα ταμεία και σε καλάθια σε όλη την αίθουσα. Χωρίς αφίσες και χωρίς συμβουλές, οι πωλήσεις αναψυκτικών έπεσαν περίπου 11% και του νερού ανέβηκαν περίπου 26%."
+      },
+      "apply": {
+        "en": "Make the call list the first thing on your screen in the morning, and keep the phone headset on the desk. Move Instagram off your home screen. If possible, keep one corner or one browser profile only for calls and building, and do client chat and admin somewhere else.",
+        "el": "Κάνε τη λίστα τηλεφώνων το πρώτο πράγμα που βλέπεις στην οθόνη το πρωί και άφηνε τα ακουστικά πάνω στο γραφείο. Βγάλε το Instagram από την αρχική οθόνη του κινητού. Αν γίνεται, κράτα μια γωνιά ή ένα προφίλ στον browser μόνο για τηλέφωνα και κατασκευή, και κάνε το chat με πελάτες και τα διαδικαστικά αλλού."
+      },
+      "check": {
+        "q": {"en": "What did the hospital cafeteria change to cut soda sales?", "el": "Τι άλλαξε η καφετέρια του νοσοκομείου για να πέσουν τα αναψυκτικά;"},
+        "options": [
+          {"en": "It made the soda more expensive", "el": "Έκανε τα αναψυκτικά πιο ακριβά"},
+          {"en": "It put up health warning posters", "el": "Κρέμασε αφίσες με προειδοποιήσεις υγείας"},
+          {"en": "It placed water where people could see it", "el": "Έβαλε το νερό εκεί που το έβλεπε ο κόσμος"}
+        ],
+        "answer": 2,
+        "why": {"en": "Only the layout changed. What is visible gets chosen.", "el": "Άλλαξε μόνο η διάταξη. Ό,τι φαίνεται, αυτό διαλέγεται."}
+      }
+    },
+    {
+      "title": {"en": "Remove the cue, not the will", "el": "Βγάλε το ερέθισμα, όχι τη θέληση"},
+      "explain": {
+        "en": "People who seem very disciplined are often not better at resisting temptation. They simply face less of it, because they have arranged their lives that way. Fighting a temptation that sits in front of you every day is a losing game. A habit, once built, never fully disappears from the brain. So the strongest way to drop a bad habit is to cut off the cue that starts it.",
+        "el": "Οι άνθρωποι που μοιάζουν πολύ πειθαρχημένοι συχνά δεν αντιστέκονται καλύτερα στον πειρασμό. Απλώς τον συναντούν λιγότερο, γιατί έχουν στήσει έτσι τη ζωή τους. Το να παλεύεις κάθε μέρα με έναν πειρασμό που κάθεται μπροστά σου είναι χαμένη μάχη. Μια συνήθεια που χτίστηκε δεν σβήνει ποτέ εντελώς από τον εγκέφαλο. Γι' αυτό ο πιο δυνατός τρόπος να αφήσεις μια κακή συνήθεια είναι να κόψεις το ερέθισμα που την ξεκινά."
+      },
+      "example": {
+        "en": "During the Vietnam War many American soldiers used heroin. Researcher Lee Robins followed them after they came home. Normally most heroin users relapse, but only about 5% of these soldiers became addicted again within a year. Back home, the places, people and triggers of the habit were simply gone.",
+        "el": "Στον πόλεμο του Βιετνάμ πολλοί Αμερικανοί στρατιώτες έκαναν χρήση ηρωίνης. Η ερευνήτρια Lee Robins τους παρακολούθησε όταν γύρισαν στο σπίτι. Συνήθως οι περισσότεροι χρήστες ηρωίνης ξανακυλούν, όμως από αυτούς τους στρατιώτες μόνο περίπου το 5% εθίστηκε ξανά μέσα σε έναν χρόνο. Στην πατρίδα τους, τα μέρη, τα πρόσωπα και τα ερεθίσματα της συνήθειας απλώς δεν υπήρχαν."
+      },
+      "apply": {
+        "en": "Find the cue behind your worst time-waster. If it is notifications, turn off all of them except calls from clients. If it is the phone next to the bed, charge it in the kitchen. If it is a news site, block it from 9:00 to 14:00. Stop relying on willpower.",
+        "el": "Βρες το ερέθισμα πίσω από τη χειρότερη σπατάλη χρόνου σου. Αν είναι οι ειδοποιήσεις, κλείσ' τες όλες εκτός από τις κλήσεις πελατών. Αν είναι το κινητό δίπλα στο κρεβάτι, φόρτιζέ το στην κουζίνα. Αν είναι ένα ειδησεογραφικό site, μπλόκαρέ το από τις 9:00 ως τις 14:00. Σταμάτα να στηρίζεσαι στη θέληση."
+      },
+      "check": {
+        "q": {"en": "Why do disciplined people resist temptation more easily?", "el": "Γιατί οι πειθαρχημένοι αντιστέκονται πιο εύκολα στους πειρασμούς;"},
+        "options": [
+          {"en": "They meet fewer temptations in the first place", "el": "Συναντούν εξαρχής λιγότερους πειρασμούς"},
+          {"en": "They were born with stronger willpower", "el": "Γεννήθηκαν με πιο δυνατή θέληση"},
+          {"en": "They punish themselves harder for mistakes", "el": "Τιμωρούν πιο σκληρά τον εαυτό τους για τα λάθη"}
+        ],
+        "answer": 0,
+        "why": {"en": "They shape their surroundings so the bad cue rarely shows up.", "el": "Στήνουν το περιβάλλον τους έτσι ώστε το κακό ερέθισμα να εμφανίζεται σπάνια."}
+      }
+    },
+    {
+      "title": {"en": "Pair what you need with what you want", "el": "Δέσε αυτό που πρέπει με αυτό που θέλεις"},
+      "explain": {
+        "en": "The brain releases dopamine, a chemical linked to wanting, when it expects a reward, not only when it gets one. So a habit becomes attractive when you expect something good from it. Clear's trick is temptation bundling: allow yourself something you want only while doing something you need to do. The pleasure you look forward to pulls you into the hard habit.",
+        "el": "Ο εγκέφαλος βγάζει ντοπαμίνη, μια ουσία που συνδέεται με την επιθυμία, όταν περιμένει μια ανταμοιβή και όχι μόνο όταν την παίρνει. Άρα μια συνήθεια γίνεται ελκυστική όταν περιμένεις κάτι καλό από αυτήν. Το κόλπο του Clear λέγεται «δέσιμο με πειρασμό»: επιτρέπεις στον εαυτό σου κάτι που θέλεις μόνο όσο κάνεις κάτι που πρέπει. Η απόλαυση που περιμένεις σε τραβά μέσα στη δύσκολη συνήθεια."
+      },
+      "example": {
+        "en": "Ronan Byrne, an engineering student in Ireland, connected his exercise bike to his laptop and TV. Netflix would play only while he kept pedalling above a set speed. If he slowed down, the show paused. He wanted the show, so the cycling took care of itself.",
+        "el": "Ο Ronan Byrne, φοιτητής μηχανικός στην Ιρλανδία, σύνδεσε το ποδήλατο γυμναστικής του με το laptop και την τηλεόραση. Το Netflix έπαιζε μόνο όσο έκανε πετάλι πάνω από μια συγκεκριμένη ταχύτητα. Αν έκοβε ταχύτητα, η σειρά σταματούσε. Ήθελε να δει τη σειρά, οπότε το ποδήλατο γινόταν από μόνο του."
+      },
+      "apply": {
+        "en": "Allow your favourite coffee, or a podcast you love, only during the boring tasks: chasing late payments, updating the CRM, replying to change requests. Write the rule as a stack: «After I open the payments list, I put on my podcast.» Nothing fun outside that block.",
+        "el": "Επίτρεψε τον αγαπημένο σου καφέ ή ένα podcast που σου αρέσει μόνο στις βαρετές δουλειές: κυνήγι καθυστερημένων πληρωμών, ενημέρωση του CRM, απαντήσεις σε αιτήματα αλλαγών. Γράψε τον κανόνα σαν στοίβαγμα: «Αφού ανοίξω τη λίστα πληρωμών, βάζω το podcast». Τίποτα διασκεδαστικό έξω από αυτό το μπλοκ."
+      },
+      "check": {
+        "q": {"en": "How does temptation bundling work?", "el": "Πώς δουλεύει το «δέσιμο με πειρασμό»;"},
+        "options": [
+          {"en": "You give up every pleasure until the work is done", "el": "Κόβεις κάθε απόλαυση μέχρι να τελειώσει η δουλειά"},
+          {"en": "You allow a pleasure only while doing the needed task", "el": "Επιτρέπεις μια απόλαυση μόνο όσο κάνεις την αναγκαία δουλειά"},
+          {"en": "You reward yourself a week after the task", "el": "Ανταμείβεις τον εαυτό σου μια εβδομάδα μετά"}
+        ],
+        "answer": 1,
+        "why": {"en": "The expected pleasure makes the needed habit attractive at the moment you start.", "el": "Η απόλαυση που περιμένεις κάνει την αναγκαία συνήθεια ελκυστική τη στιγμή που ξεκινάς."}
+      }
+    },
+    {
+      "title": {"en": "Join the right tribe", "el": "Βρες τη σωστή παρέα"},
+      "explain": {
+        "en": "We copy three groups: the close (family, friends, colleagues), the many (what most people around us do) and the powerful (people we admire). We want to belong, so a habit is attractive when it is normal in our group. Clear's advice: join a group where your desired habit is ordinary, and where you already have something in common. Then the habit stops feeling like a sacrifice and starts feeling like fitting in.",
+        "el": "Αντιγράφουμε τρεις ομάδες: τους κοντινούς (οικογένεια, φίλους, συνεργάτες), τους πολλούς (ό,τι κάνουν οι περισσότεροι γύρω μας) και τους ισχυρούς (όσους θαυμάζουμε). Θέλουμε να ανήκουμε, άρα μια συνήθεια γίνεται ελκυστική όταν είναι κάτι φυσιολογικό στην παρέα μας. Η συμβουλή του Clear: μπες σε μια ομάδα όπου η συνήθεια που θέλεις είναι κάτι συνηθισμένο και όπου έχεις ήδη κάτι κοινό. Τότε η συνήθεια δεν μοιάζει με θυσία αλλά με το να ταιριάζεις."
+      },
+      "example": {
+        "en": "The Hungarian László Polgár believed great talent can be raised. He and his wife made chess the normal daily life of their three daughters at home. All three became top players. Judit Polgár became a grandmaster at 15, younger than Bobby Fischer had been, and was the world's best woman player for about 25 years.",
+        "el": "Ο Ούγγρος László Polgár πίστευε ότι το μεγάλο ταλέντο μπορεί να καλλιεργηθεί. Μαζί με τη γυναίκα του έκαναν το σκάκι κομμάτι της καθημερινότητας των τριών κορών τους στο σπίτι. Και οι τρεις έγιναν κορυφαίες παίκτριες. Η Judit Polgár έγινε γκραν μετρ στα 15, νεότερη απ' ό,τι ήταν ο Bobby Fischer, και ήταν η καλύτερη σκακίστρια του κόσμου για περίπου 25 χρόνια."
+      },
+      "apply": {
+        "en": "Find a group where calling, selling and shipping every week is normal: a founders' group, a sales community, a friend who also runs a business. Share your weekly numbers with them. Spend less time in circles where complaining about clients is the main habit.",
+        "el": "Βρες μια ομάδα όπου τα τηλέφωνα, οι πωλήσεις και οι παραδόσεις κάθε εβδομάδα είναι κάτι φυσιολογικό: μια παρέα ιδρυτών, μια κοινότητα πωλητών, έναν φίλο που έχει κι αυτός επιχείρηση. Μοιράσου μαζί τους τα νούμερα της εβδομάδας. Πέρνα λιγότερο χρόνο σε κύκλους όπου η κύρια συνήθεια είναι η γκρίνια για τους πελάτες."
+      },
+      "check": {
+        "q": {"en": "Why is a group so powerful for habits?", "el": "Γιατί μια ομάδα έχει τόση δύναμη στις συνήθειες;"},
+        "options": [
+          {"en": "We want to belong, so we copy what is normal there", "el": "Θέλουμε να ανήκουμε, οπότε αντιγράφουμε ό,τι είναι φυσιολογικό εκεί"},
+          {"en": "Groups give you money for good habits", "el": "Οι ομάδες σε πληρώνουν για τις καλές συνήθειες"},
+          {"en": "Other people force you to change", "el": "Οι άλλοι σε αναγκάζουν να αλλάξεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "The wish to fit in is strong, so the group's normal becomes your normal.", "el": "Η ανάγκη να ταιριάζεις είναι δυνατή, οπότε το φυσιολογικό της ομάδας γίνεται δικό σου."}
+      }
+    },
+    {
+      "title": {"en": "Change the words in your head", "el": "Άλλαξε τις λέξεις στο μυαλό σου"},
+      "explain": {
+        "en": "The same task can feel heavy or light depending on how you describe it. Change «I have to» into «I get to». «I have to call ten doctors» becomes «I get to build my business today». You can also give a hard habit a clear benefit: exercise becomes building energy, not a chore. The facts stay the same. Only the feeling around them changes, and that feeling makes the habit more attractive.",
+        "el": "Η ίδια δουλειά μπορεί να μοιάζει βαριά ή ελαφριά, ανάλογα με το πώς την περιγράφεις. Άλλαξε το «πρέπει να» σε «έχω την ευκαιρία να». Το «πρέπει να πάρω δέκα γιατρούς» γίνεται «σήμερα έχω την ευκαιρία να χτίσω την επιχείρησή μου». Μπορείς επίσης να δώσεις σε μια δύσκολη συνήθεια ένα καθαρό όφελος: η γυμναστική γίνεται ενέργεια που χτίζεις, όχι αγγαρεία. Τα γεγονότα μένουν ίδια. Αλλάζει μόνο το συναίσθημα γύρω τους, και αυτό κάνει τη συνήθεια πιο ελκυστική."
+      },
+      "example": {
+        "en": "In 2014 Alison Wood Brooks of Harvard asked people to sing, speak in public or solve maths under pressure. Before starting, some said «I am anxious», others «I am excited». Those who called their nerves excitement did better, for example giving speeches that listeners rated more convincing and confident.",
+        "el": "Το 2014 η Alison Wood Brooks του Harvard ζήτησε από ανθρώπους να τραγουδήσουν, να μιλήσουν μπροστά σε κοινό ή να λύσουν ασκήσεις μαθηματικών υπό πίεση. Πριν ξεκινήσουν, κάποιοι έλεγαν «έχω άγχος» και άλλοι «είμαι ενθουσιασμένος». Όσοι ονόμασαν το τρακ ενθουσιασμό τα πήγαν καλύτερα: για παράδειγμα, οι ομιλίες τους κρίθηκαν πιο πειστικές και πιο σίγουρες."
+      },
+      "apply": {
+        "en": "Say out loud before a hard sales meeting: «I am excited, I get to show a doctor something that will help his practice.» Before chasing a late payment, think: «I am protecting my team's salaries.» Rewrite your three most hated tasks in «I get to» form.",
+        "el": "Πες δυνατά πριν από ένα δύσκολο ραντεβού πώλησης: «Είμαι ενθουσιασμένος, θα δείξω σε έναν γιατρό κάτι που θα βοηθήσει το ιατρείο του». Πριν κυνηγήσεις μια καθυστερημένη πληρωμή, σκέψου: «Προστατεύω τους μισθούς της ομάδας μου». Ξαναγράψε τις τρεις δουλειές που σιχαίνεσαι περισσότερο με τη μορφή «έχω την ευκαιρία να»."
+      },
+      "check": {
+        "q": {"en": "What changes when you reframe «I have to» as «I get to»?", "el": "Τι αλλάζει όταν λες «έχω την ευκαιρία» αντί για «πρέπει»;"},
+        "options": [
+          {"en": "The task becomes shorter", "el": "Η δουλειά γίνεται πιο σύντομη"},
+          {"en": "Someone else does part of it", "el": "Ένα κομμάτι της το κάνει κάποιος άλλος"},
+          {"en": "How the task feels to you", "el": "Το πώς νιώθεις για αυτή τη δουλειά"}
+        ],
+        "answer": 2,
+        "why": {"en": "The facts stay the same. The feeling changes, and feelings drive the craving.", "el": "Τα γεγονότα μένουν ίδια. Αλλάζει το συναίσθημα, και το συναίσθημα κινεί τη λαχτάρα."}
+      }
+    },
+    {
+      "title": {"en": "Reps, not plans", "el": "Επαναλήψεις, όχι σχέδια"},
+      "explain": {
+        "en": "Clear separates motion from action. Motion is planning, researching and preparing: it feels like progress but produces nothing. Action is doing the thing that gives a result. Motion is often a way to delay the risk of failing. Habits are built by the number of repetitions, not by the number of days or the quality of the plan. So start doing, and let practice shape the quality.",
+        "el": "Ο Clear ξεχωρίζει την κίνηση από τη δράση. Κίνηση είναι ο σχεδιασμός, η έρευνα, η προετοιμασία: μοιάζει με πρόοδο αλλά δεν βγάζει τίποτα. Δράση είναι να κάνεις αυτό που φέρνει αποτέλεσμα. Η κίνηση συχνά είναι τρόπος να αναβάλεις το ρίσκο της αποτυχίας. Οι συνήθειες χτίζονται από τον αριθμό των επαναλήψεων, όχι από τις μέρες ή από το πόσο καλό είναι το σχέδιο. Άρα ξεκίνα να κάνεις, και άσε την εξάσκηση να φέρει την ποιότητα."
+      },
+      "example": {
+        "en": "Jerry Uelsmann, a photography professor at the University of Florida, split a class in two. One half was graded on the number of photos they made, the other on one single perfect photo. At the end, the best photos came from the quantity group. They had practised, while the others had mostly theorised.",
+        "el": "Ο Jerry Uelsmann, καθηγητής φωτογραφίας στο Πανεπιστήμιο της Φλόριντα, χώρισε μια τάξη στα δύο. Η μία ομάδα βαθμολογήθηκε με βάση πόσες φωτογραφίες έβγαλε, η άλλη με βάση μία μόνο τέλεια φωτογραφία. Στο τέλος, οι καλύτερες φωτογραφίες ήρθαν από την ομάδα της ποσότητας. Εκείνοι εξασκήθηκαν, ενώ οι άλλοι κυρίως θεωρητικολογούσαν."
+      },
+      "apply": {
+        "en": "Stop rewriting the perfect call script. Make 30 calls with the current one this week and note which sentence gets a pause or a yes. Do the same with reels: post ten simple ones before you buy new gear or study editing. Count reps, not hours of preparation.",
+        "el": "Σταμάτα να ξαναγράφεις το τέλειο σενάριο τηλεφώνου. Κάνε 30 τηλέφωνα με το τωρινό αυτή την εβδομάδα και σημείωσε ποια φράση φέρνει παύση ή ένα «ναι». Το ίδιο με τα reels: ανέβασε δέκα απλά πριν αγοράσεις νέο εξοπλισμό ή μάθεις μοντάζ. Μέτρα επαναλήψεις, όχι ώρες προετοιμασίας."
+      },
+      "check": {
+        "q": {"en": "What builds a habit according to Clear?", "el": "Τι χτίζει μια συνήθεια κατά τον Clear;"},
+        "options": [
+          {"en": "The number of times you actually do it", "el": "Πόσες φορές την κάνεις πραγματικά"},
+          {"en": "How carefully you plan it", "el": "Πόσο προσεκτικά τη σχεδιάζεις"},
+          {"en": "How many days have passed since you started", "el": "Πόσες μέρες πέρασαν από τότε που ξεκίνησες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Repetition, not time or planning, makes a behaviour automatic.", "el": "Η επανάληψη, όχι ο χρόνος ή ο σχεδιασμός, κάνει μια συμπεριφορά αυτόματη."}
+      }
+    },
+    {
+      "title": {"en": "Less friction for good, more for bad", "el": "Λιγότερη τριβή στα καλά, περισσότερη στα κακά"},
+      "explain": {
+        "en": "We follow the law of least effort: between two options, we usually pick the one that needs less work. So remove steps from good habits and add steps to bad ones. Prepare things the night before. Even better, use one-time choices that lock in good behaviour for months: a commitment device, an automatic payment, a blocked app. One decision now saves a hundred daily battles later.",
+        "el": "Ακολουθούμε τον νόμο της ελάχιστης προσπάθειας: ανάμεσα σε δύο επιλογές, συνήθως διαλέγουμε αυτή που θέλει λιγότερο κόπο. Άρα βγάλε βήματα από τις καλές συνήθειες και πρόσθεσε βήματα στις κακές. Ετοίμασε τα πράγματα από το προηγούμενο βράδυ. Ακόμα καλύτερα, κάνε επιλογές μίας φοράς που κλειδώνουν τη σωστή συμπεριφορά για μήνες: μια δέσμευση που δεν γυρίζει πίσω, μια αυτόματη πληρωμή, μια εφαρμογή που μπλοκάρεται. Μία απόφαση τώρα σου γλιτώνει εκατό καθημερινές μάχες."
+      },
+      "example": {
+        "en": "In 1830 Victor Hugo had a few months to finish The Hunchback of Notre Dame, but he kept putting it off. So he had his clothes locked away, leaving himself only a large shawl. With no way to go out, he stayed at his desk and finished the book early, in January 1831.",
+        "el": "Το 1830 ο Βίκτωρ Ουγκό είχε λίγους μήνες για να τελειώσει την «Παναγία των Παρισίων», αλλά το ανέβαλλε συνέχεια. Έβαλε λοιπόν να κλειδώσουν τα ρούχα του και κράτησε μόνο ένα μεγάλο σάλι. Χωρίς τρόπο να βγει έξω, έμεινε στο γραφείο του και τελείωσε το βιβλίο νωρίτερα, τον Ιανουάριο του 1831."
+      },
+      "apply": {
+        "en": "Make paying you effortless for clients: send the payment link inside the same message as the live link, and offer automatic yearly renewal. Remove steps from your own good habits too: save the call list and scripts in one pinned tab. Add steps to bad habits: log out of social media on the laptop.",
+        "el": "Κάνε την πληρωμή εύκολη για τους πελάτες: στείλε το link πληρωμής στο ίδιο μήνυμα με το link της ιστοσελίδας που μπήκε online, και πρόσφερε αυτόματη ετήσια ανανέωση. Βγάλε βήματα και από τις δικές σου καλές συνήθειες: κράτα τη λίστα τηλεφώνων και τα σενάρια σε μία καρφιτσωμένη καρτέλα. Πρόσθεσε βήματα στις κακές: κάνε αποσύνδεση από τα social στο laptop."
+      },
+      "check": {
+        "q": {"en": "What did Victor Hugo's locked clothes do?", "el": "Τι πέτυχαν τα κλειδωμένα ρούχα του Ουγκό;"},
+        "options": [
+          {"en": "They made him feel more creative", "el": "Τον έκαναν να νιώθει πιο δημιουργικός"},
+          {"en": "They made the bad option, going out, very hard", "el": "Έκαναν την κακή επιλογή, την έξοδο, πολύ δύσκολη"},
+          {"en": "They rewarded him for each finished page", "el": "Τον αντάμειβαν για κάθε σελίδα που τελείωνε"}
+        ],
+        "answer": 1,
+        "why": {"en": "A one-time choice added huge friction to the distraction, so writing became the easy path.", "el": "Μια επιλογή μίας φοράς έβαλε τεράστια τριβή στον περισπασμό, οπότε το γράψιμο έγινε ο εύκολος δρόμος."}
+      }
+    },
+    {
+      "title": {"en": "The two-minute rule", "el": "Ο κανόνας των δύο λεπτών"},
+      "explain": {
+        "en": "When you start a new habit, shrink it until it takes less than two minutes. «Read before bed» becomes «read one page». «Do yoga» becomes «roll out the mat». The point is not the tiny task. The point is to master showing up, because a habit must exist before it can be improved. Clear calls this: standardise before you optimise. Once showing up is automatic, grow it slowly.",
+        "el": "Όταν ξεκινάς μια νέα συνήθεια, μίκρυνέ την μέχρι να θέλει λιγότερο από δύο λεπτά. Το «διάβασμα πριν τον ύπνο» γίνεται «μία σελίδα». Το «γιόγκα» γίνεται «στρώνω το στρωματάκι». Το θέμα δεν είναι η μικροσκοπική δουλειά. Το θέμα είναι να μάθεις να εμφανίζεσαι, γιατί μια συνήθεια πρέπει πρώτα να υπάρχει για να βελτιωθεί. Ο Clear το λέει: πρώτα σταθερότητα, μετά βελτίωση. Όταν το να εμφανίζεσαι γίνει αυτόματο, μεγάλωσέ τη σιγά σιγά."
+      },
+      "example": {
+        "en": "Clear tells of a reader who lost more than 45 kilos. At the start he went to the gym every day but was not allowed to stay more than five minutes. It sounded silly, but after weeks of always showing up, he became a person who goes to the gym, and then he made the workouts longer.",
+        "el": "Ο Clear αναφέρει έναν αναγνώστη που έχασε πάνω από 45 κιλά. Στην αρχή πήγαινε στο γυμναστήριο κάθε μέρα, αλλά δεν του επιτρεπόταν να μείνει πάνω από πέντε λεπτά. Ακουγόταν αστείο, όμως μετά από εβδομάδες που εμφανιζόταν πάντα, έγινε άνθρωπος που πηγαίνει γυμναστήριο, και τότε μάκρυνε τις προπονήσεις."
+      },
+      "apply": {
+        "en": "Make one call the rule on days you dread calling: open the list and dial the first number. For content, the rule is one sentence of a reel script. For a new side project, open the file. Usually you continue, but even if you stop, the habit survives the day.",
+        "el": "Κάνε κανόνα το ένα τηλέφωνο τις μέρες που βαριέσαι: άνοιξε τη λίστα και κάλεσε τον πρώτο αριθμό. Για το περιεχόμενο, μία πρόταση από το σενάριο ενός reel. Για ένα νέο side project, απλώς άνοιξε το αρχείο. Συνήθως συνεχίζεις, αλλά ακόμα κι αν σταματήσεις, η συνήθεια επιβιώνει εκείνη τη μέρα."
+      },
+      "check": {
+        "q": {"en": "What is the real goal of the two-minute rule?", "el": "Ποιος είναι ο πραγματικός σκοπός του κανόνα των δύο λεπτών;"},
+        "options": [
+          {"en": "To finish more small tasks each day", "el": "Να τελειώνεις περισσότερες μικρές δουλειές κάθε μέρα"},
+          {"en": "To save time for more important work", "el": "Να κερδίζεις χρόνο για πιο σημαντική δουλειά"},
+          {"en": "To master showing up before you improve", "el": "Να μάθεις να εμφανίζεσαι πριν βελτιωθείς"}
+        ],
+        "answer": 2,
+        "why": {"en": "A habit must be established before it can be optimised.", "el": "Μια συνήθεια πρέπει πρώτα να εδραιωθεί για να μπορεί να βελτιωθεί."}
+      }
+    },
+    {
+      "title": {"en": "Reward it right away", "el": "Ανταμοιβή αμέσως"},
+      "explain": {
+        "en": "Clear's cardinal rule: what is rewarded right away gets repeated, and what is punished right away gets avoided. The problem with good habits is that their reward comes later, while bad habits feel good now. So add a small, immediate pleasure to the good habit and make sure it fits who you want to be. The reward closes the loop and tells the brain: do this again.",
+        "el": "Ο βασικός κανόνας του Clear: ό,τι ανταμείβεται αμέσως επαναλαμβάνεται, και ό,τι τιμωρείται αμέσως αποφεύγεται. Το πρόβλημα με τις καλές συνήθειες είναι ότι η ανταμοιβή τους έρχεται αργότερα, ενώ οι κακές σε κάνουν να νιώθεις ωραία τώρα. Πρόσθεσε λοιπόν μια μικρή, άμεση χαρά στην καλή συνήθεια και φρόντισε να ταιριάζει με αυτόν που θέλεις να γίνεις. Η ανταμοιβή κλείνει τον κύκλο και λέει στον εγκέφαλο: ξανά."
+      },
+      "example": {
+        "en": "In Karachi, Pakistan, public health researcher Stephen Luby gave families a premium soap that foamed well and smelled nice. Washing hands suddenly felt good. In those homes diarrhoea in children fell by about half and pneumonia by almost as much.",
+        "el": "Στο Καράτσι του Πακιστάν, ο ερευνητής δημόσιας υγείας Stephen Luby έδωσε σε οικογένειες ένα ακριβό σαπούνι που έκανε πολύ αφρό και μύριζε ωραία. Το πλύσιμο των χεριών έγινε ξαφνικά ευχάριστο. Σε αυτά τα σπίτια η διάρροια στα παιδιά μειώθηκε περίπου στο μισό και η πνευμονία σχεδόν το ίδιο."
+      },
+      "apply": {
+        "en": "Give yourself a small instant reward after the hard habit: after the call block, a walk outside or your favourite coffee. Move a coin or a euro into a «new laptop» jar for every ten calls. Celebrate each booked meeting out loud with the team in the chat.",
+        "el": "Δώσε στον εαυτό σου μια μικρή άμεση ανταμοιβή μετά τη δύσκολη συνήθεια: μετά το μπλοκ τηλεφώνων, μια βόλτα έξω ή τον αγαπημένο σου καφέ. Βάλε ένα ευρώ σε ένα κουμπαρά «για νέο laptop» για κάθε δέκα τηλέφωνα. Γιόρτασε κάθε κλεισμένο ραντεβού δυνατά με την ομάδα στο chat."
+      },
+      "check": {
+        "q": {"en": "Why are good habits hard to keep?", "el": "Γιατί είναι δύσκολο να κρατήσεις τις καλές συνήθειες;"},
+        "options": [
+          {"en": "They are always more boring than bad ones", "el": "Είναι πάντα πιο βαρετές από τις κακές"},
+          {"en": "Their reward usually comes much later", "el": "Η ανταμοιβή τους έρχεται συνήθως πολύ αργότερα"},
+          {"en": "They need special talent", "el": "Χρειάζονται ειδικό ταλέντο"}
+        ],
+        "answer": 1,
+        "why": {"en": "The brain values what it feels now. Good habits pay later, so they need an instant reward added.", "el": "Ο εγκέφαλος μετρά ό,τι νιώθει τώρα. Οι καλές συνήθειες πληρώνουν αργότερα, άρα χρειάζονται μια άμεση ανταμοιβή."}
+      }
+    },
+    {
+      "title": {"en": "Track it, never miss twice", "el": "Κατάγραψε και μη χάνεις ποτέ δύο φορές"},
+      "explain": {
+        "en": "A habit tracker, like crossing a box on a calendar, is a visual cue, a small reward and honest proof all at once. Seeing the chain grow makes you want to keep it. But everyone slips. Clear's rule: missing once is an accident, missing twice is the start of a new habit. When you break the chain, get back on the very next day, even with a smaller version.",
+        "el": "Η καταγραφή μιας συνήθειας, για παράδειγμα ένα Χ σε κάθε μέρα στο ημερολόγιο, είναι ταυτόχρονα οπτικό ερέθισμα, μικρή ανταμοιβή και τίμια απόδειξη. Βλέποντας την αλυσίδα να μεγαλώνει, θέλεις να τη συνεχίσεις. Όλοι όμως ξεφεύγουμε κάπου. Ο κανόνας του Clear: αν χάσεις μία φορά, είναι ατύχημα. Αν χάσεις δύο, ξεκινά μια νέα συνήθεια. Όταν σπάσει η αλυσίδα, γύρνα την αμέσως επόμενη μέρα, έστω και με μικρότερη εκδοχή."
+      },
+      "example": {
+        "en": "In 1993 Trent Dyrsmid, a young stockbroker in Canada, put two jars on his desk, one full of 120 paper clips. After every sales call he moved one clip to the empty jar, and kept calling until all had moved. Within about a year and a half he was bringing in millions in business for his firm.",
+        "el": "Το 1993 ο Trent Dyrsmid, νεαρός χρηματιστής στον Καναδά, έβαλε στο γραφείο του δύο βάζα, το ένα γεμάτο με 120 συνδετήρες. Μετά από κάθε τηλέφωνο πώλησης μετέφερε έναν συνδετήρα στο άδειο βάζο και συνέχιζε να τηλεφωνεί μέχρι να περάσουν όλοι. Μέσα σε περίπου ενάμιση χρόνο έφερνε στην εταιρεία του δουλειές εκατομμυρίων."
+      },
+      "apply": {
+        "en": "Use the paper clip trick for cold calls: two jars, or a simple counter in your CRM, and a daily number you must reach. Mark a calendar each day you hit it. If you miss a day because of a client emergency, the next day is sacred: at least ten calls, no excuses.",
+        "el": "Κάνε το κόλπο με τους συνδετήρες για τα cold calls: δύο βάζα, ή έναν απλό μετρητή στο CRM, και έναν ημερήσιο αριθμό που πρέπει να πιάσεις. Σημείωνε στο ημερολόγιο κάθε μέρα που τον πιάνεις. Αν χάσεις μια μέρα λόγω επείγοντος με πελάτη, η επόμενη είναι ιερή: τουλάχιστον δέκα τηλέφωνα, χωρίς δικαιολογίες."
+      },
+      "check": {
+        "q": {"en": "What should you do after you miss a habit once?", "el": "Τι κάνεις αφού χάσεις μία φορά μια συνήθεια;"},
+        "options": [
+          {"en": "Accept that the habit failed and start a new plan", "el": "Δέχεσαι ότι η συνήθεια απέτυχε και φτιάχνεις νέο πλάνο"},
+          {"en": "Double the habit the next day to make up for it", "el": "Τη διπλασιάζεις την επόμενη μέρα για να το καλύψεις"},
+          {"en": "Get back on it the very next day", "el": "Επιστρέφεις σε αυτήν την αμέσως επόμενη μέρα"}
+        ],
+        "answer": 2,
+        "why": {"en": "One miss is an accident. Two in a row start a new, bad pattern.", "el": "Μία απώλεια είναι ατύχημα. Δύο στη σειρά ξεκινούν ένα νέο, κακό μοτίβο."}
+      }
+    },
+    {
+      "title": {"en": "Choose a game that suits you", "el": "Διάλεξε παιχνίδι που σου ταιριάζει"},
+      "explain": {
+        "en": "Genes and personality do not decide your destiny, but they decide where you have an edge. Habits are easier and more rewarding when they match your natural strengths. So pick the game where the odds are in your favour. Ask: what feels like fun to me but like work to others? What makes me lose track of time? If you cannot win in a big field, create a smaller one where you can be the best.",
+        "el": "Τα γονίδια και η προσωπικότητα δεν ορίζουν τη μοίρα σου, ορίζουν όμως πού έχεις πλεονέκτημα. Οι συνήθειες είναι πιο εύκολες και πιο ανταποδοτικές όταν ταιριάζουν με τα φυσικά σου δυνατά σημεία. Διάλεξε λοιπόν το παιχνίδι όπου οι πιθανότητες είναι με το μέρος σου. Ρώτα: τι μου μοιάζει διασκέδαση ενώ για τους άλλους είναι δουλειά; Τι με κάνει να ξεχνάω την ώρα; Αν δεν μπορείς να κερδίσεις σε ένα μεγάλο πεδίο, φτιάξε ένα μικρότερο όπου μπορείς να είσαι ο καλύτερος."
+      },
+      "example": {
+        "en": "Michael Phelps is about 1.93 metres tall, the runner Hicham El Guerrouj about 1.75. Yet they wear trousers of the same leg length, because Phelps has a very long body and short legs. That body is perfect for swimming and poor for running. Each became a champion in the sport that fit him.",
+        "el": "Ο Michael Phelps έχει ύψος περίπου 1,93, ο δρομέας Hicham El Guerrouj περίπου 1,75. Κι όμως φορούν παντελόνι με το ίδιο μήκος ποδιού, γιατί ο Phelps έχει πολύ μακρύ κορμό και κοντά πόδια. Αυτό το σώμα είναι ιδανικό για κολύμβηση και κακό για τρέξιμο. Ο καθένας έγινε πρωταθλητής στο άθλημα που του ταίριαζε."
+      },
+      "apply": {
+        "en": "List the parts of your business that give you energy and the parts that drain you. Keep the energising ones, such as selling and designing offers. Hand the draining ones to a teammate or to AI. Choose a niche where you can be number one, for example sites for psychologists in Greece.",
+        "el": "Γράψε ποια κομμάτια της δουλειάς σού δίνουν ενέργεια και ποια σε στραγγίζουν. Κράτα αυτά που σε γεμίζουν, όπως οι πωλήσεις και ο σχεδιασμός προσφορών. Δώσε αυτά που σε κουράζουν σε έναν συνεργάτη ή στο AI. Διάλεξε μια εξειδίκευση όπου μπορείς να είσαι πρώτος, για παράδειγμα ιστοσελίδες για ψυχολόγους στην Ελλάδα."
+      },
+      "check": {
+        "q": {"en": "What is Clear's view on natural talent?", "el": "Ποια είναι η άποψη του Clear για το φυσικό ταλέντο;"},
+        "options": [
+          {"en": "It shows you where to play to have an edge", "el": "Σου δείχνει πού να παίξεις για να έχεις πλεονέκτημα"},
+          {"en": "It decides your success, habits do not matter", "el": "Κρίνει την επιτυχία σου, οι συνήθειες δεν μετράνε"},
+          {"en": "It does not exist at all", "el": "Δεν υπάρχει καθόλου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Genes do not fix your fate, but they point to the game where habits pay off most.", "el": "Τα γονίδια δεν ορίζουν τη μοίρα σου, αλλά δείχνουν το παιχνίδι όπου οι συνήθειες αποδίδουν περισσότερο."}
+      }
+    },
+    {
+      "title": {"en": "Fall in love with boredom", "el": "Ερωτεύσου τη βαρεμάρα"},
+      "explain": {
+        "en": "We stay motivated when a task is just at the edge of our ability, not too easy and not too hard. Clear calls this the Goldilocks rule. But even then, the biggest threat to success is not failure, it is boredom. Novelty fades, and amateurs quit when the work stops being exciting. Professionals keep the schedule anyway. The difference between good and great is showing up on the days you do not feel like it.",
+        "el": "Μένουμε με κίνητρο όταν μια δουλειά είναι ακριβώς στα όρια των ικανοτήτων μας, ούτε πολύ εύκολη ούτε πολύ δύσκολη. Ο Clear το λέει «κανόνα της Χρυσομαλλούσας». Όμως ακόμα κι έτσι, η μεγαλύτερη απειλή για την επιτυχία δεν είναι η αποτυχία, είναι η βαρεμάρα. Η καινοτομία ξεθωριάζει και οι ερασιτέχνες τα παρατούν όταν η δουλειά πάψει να είναι συναρπαστική. Οι επαγγελματίες κρατούν το πρόγραμμα ούτως ή άλλως. Τη διαφορά ανάμεσα στο καλό και στο κορυφαίο την κάνει το να εμφανίζεσαι τις μέρες που δεν έχεις όρεξη."
+      },
+      "example": {
+        "en": "When he writes a novel, Haruki Murakami gets up around 4 am, writes for five to six hours, then runs or swims, reads, and goes to bed around 9 pm, every day, for months. He has said the repetition itself becomes the important thing, like a kind of hypnosis.",
+        "el": "Όταν γράφει μυθιστόρημα, ο Haruki Murakami ξυπνά γύρω στις 4 το πρωί, γράφει πέντε με έξι ώρες, μετά τρέχει ή κολυμπά, διαβάζει και πέφτει για ύπνο γύρω στις 9 το βράδυ, κάθε μέρα, για μήνες. Έχει πει ότι η ίδια η επανάληψη γίνεται το σημαντικό, σαν ένα είδος ύπνωσης."
+      },
+      "apply": {
+        "en": "Expect the calls to get boring around week three and decide now that you will keep going. Keep them in the Goldilocks zone: when they feel easy, add a small challenge, like a new niche or asking for the meeting earlier in the call. Never stop just because it feels routine.",
+        "el": "Περίμενε ότι τα τηλέφωνα θα βαρέσουν γύρω στην τρίτη εβδομάδα και αποφάσισε από τώρα ότι θα συνεχίσεις. Κράτα τα στη ζώνη της Χρυσομαλλούσας: όταν γίνουν εύκολα, πρόσθεσε μια μικρή πρόκληση, όπως μια νέα κατηγορία πελατών ή να ζητάς το ραντεβού νωρίτερα στη συζήτηση. Μη σταματάς ποτέ μόνο επειδή έγινε ρουτίνα."
+      },
+      "check": {
+        "q": {"en": "What does Clear see as the biggest threat to success?", "el": "Ποια θεωρεί ο Clear τη μεγαλύτερη απειλή για την επιτυχία;"},
+        "options": [
+          {"en": "Failing in public", "el": "Η δημόσια αποτυχία"},
+          {"en": "Boredom", "el": "Η βαρεμάρα"},
+          {"en": "Lack of talent", "el": "Η έλλειψη ταλέντου"}
+        ],
+        "answer": 1,
+        "why": {"en": "People quit when the work becomes routine. Those who keep going through the boredom win.", "el": "Οι άνθρωποι τα παρατούν όταν η δουλειά γίνει ρουτίνα. Κερδίζουν όσοι συνεχίζουν μέσα από τη βαρεμάρα."}
+      }
+    },
+    {
+      "title": {"en": "Review, or habits stall", "el": "Αξιολόγησε, αλλιώς κολλάς"},
+      "explain": {
+        "en": "Habits have a downside: once a task is automatic, you stop paying attention and stop getting better. Mastery needs habits plus deliberate practice and regular review. Clear does a yearly review of what went well and what did not, and a mid-year check of whether he is living by his values. Also keep your identity loose. If being «the guy who does everything himself» becomes who you are, it can block the next stage.",
+        "el": "Οι συνήθειες έχουν και μια κακή πλευρά: όταν μια δουλειά γίνει αυτόματη, σταματάς να προσέχεις και σταματάς να βελτιώνεσαι. Η αριστεία θέλει συνήθειες μαζί με σκόπιμη εξάσκηση και τακτική αξιολόγηση. Ο Clear κάνει κάθε χρόνο μια ανασκόπηση για το τι πήγε καλά και τι όχι, και στο μέσο της χρονιάς έναν έλεγχο για το αν ζει σύμφωνα με τις αξίες του. Επίσης, μην κολλάς σε μια ταυτότητα. Αν το «ο τύπος που τα κάνει όλα μόνος του» γίνει το ποιος είσαι, μπορεί να σου κλείσει τον δρόμο για το επόμενο στάδιο."
+      },
+      "example": {
+        "en": "Before the 1986 to 1987 season, Lakers coach Pat Riley tracked each player's key numbers in every game and asked each one to improve by at least 1% over the season. He called it Career Best Effort. The Lakers won the championship in 1987 and again in 1988.",
+        "el": "Πριν από τη σεζόν 1986-1987, ο προπονητής των Lakers Pat Riley κατέγραφε τα βασικά νούμερα κάθε παίκτη σε κάθε αγώνα και ζήτησε από τον καθένα να βελτιωθεί τουλάχιστον 1% μέσα στη σεζόν. Το ονόμασε «Καλύτερη Προσπάθεια Καριέρας». Οι Lakers πήραν το πρωτάθλημα το 1987 και ξανά το 1988."
+      },
+      "apply": {
+        "en": "Spend 20 minutes every Friday on three numbers: calls made, meetings booked, sites delivered. Write one thing that worked and one to change. Once a quarter listen to a few of your own recorded call openings, only your own voice, and pick one sentence to improve.",
+        "el": "Δώσε 20 λεπτά κάθε Παρασκευή σε τρία νούμερα: τηλέφωνα, ραντεβού που κλείστηκαν, ιστοσελίδες που παραδόθηκαν. Γράψε ένα πράγμα που δούλεψε και ένα που πρέπει να αλλάξει. Μία φορά το τρίμηνο άκου μερικά ηχογραφημένα ανοίγματα τηλεφώνων σου, μόνο τη δική σου φωνή, και διάλεξε μία φράση να βελτιώσεις."
+      },
+      "check": {
+        "q": {"en": "What is the hidden risk of a fully automatic habit?", "el": "Ποιος είναι ο κρυφός κίνδυνος μιας εντελώς αυτόματης συνήθειας;"},
+        "options": [
+          {"en": "You stop noticing mistakes and stop improving", "el": "Σταματάς να βλέπεις τα λάθη και να βελτιώνεσαι"},
+          {"en": "It takes more and more energy each day", "el": "Θέλει όλο και περισσότερη ενέργεια κάθε μέρα"},
+          {"en": "It disappears after a few months", "el": "Εξαφανίζεται μετά από λίγους μήνες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Autopilot saves effort but hides errors. Review brings attention back.", "el": "Ο αυτόματος πιλότος γλιτώνει κόπο αλλά κρύβει τα λάθη. Η αξιολόγηση φέρνει πίσω την προσοχή."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You set a goal of 25 calls a day. By Thursday you feel heavy and have done only six calls all week. What do you do?", "el": "Έβαλες στόχο 25 τηλέφωνα την ημέρα. Ως την Πέμπτη νιώθεις βαρύς και έχεις κάνει μόνο έξι όλη την εβδομάδα. Τι κάνεις;"},
+      "options": [
+        {"en": "Push through 25 tomorrow on willpower alone", "el": "Αύριο βγάζεις 25 μόνο με θέληση"},
+        {"en": "Drop calling and focus on ads instead", "el": "Παρατάς τα τηλέφωνα και πας στις διαφημίσεις"},
+        {"en": "Shrink it to one call at a fixed time and build up", "el": "Το μικραίνεις σε ένα τηλέφωνο σε σταθερή ώρα και ανεβαίνεις"}
+      ],
+      "answer": 2,
+      "why": {"en": "The two-minute rule: master showing up first, then grow the habit.", "el": "Ο κανόνας των δύο λεπτών: πρώτα μαθαίνεις να εμφανίζεσαι, μετά μεγαλώνεις τη συνήθεια."},
+      "idea": 14
+    },
+    {
+      "q": {"en": "You keep checking Instagram during work. Your phone sits next to the keyboard all day. What is the best first move?", "el": "Ελέγχεις συνέχεια το Instagram στη δουλειά. Το κινητό κάθεται δίπλα στο πληκτρολόγιο όλη μέρα. Ποια είναι η καλύτερη πρώτη κίνηση;"},
+      "options": [
+        {"en": "Put the phone in another room during work blocks", "el": "Βάζεις το κινητό σε άλλο δωμάτιο στα μπλοκ δουλειάς"},
+        {"en": "Promise yourself to be stronger tomorrow", "el": "Υπόσχεσαι στον εαυτό σου να είσαι πιο δυνατός αύριο"},
+        {"en": "Feel guilty each time you check it", "el": "Νιώθεις ενοχές κάθε φορά που το ελέγχεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "Remove the cue instead of fighting it. Disciplined people simply meet fewer temptations.", "el": "Βγάζεις το ερέθισμα αντί να το παλεύεις. Οι πειθαρχημένοι απλώς συναντούν λιγότερους πειρασμούς."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "You missed your Monday call block because a live site went down. What now?", "el": "Έχασες το μπλοκ τηλεφώνων της Δευτέρας γιατί έπεσε μια ζωντανή ιστοσελίδα. Τι κάνεις τώρα;"},
+      "options": [
+        {"en": "Restart the habit next Monday with a fresh week", "el": "Ξεκινάς πάλι τη συνήθεια την επόμενη Δευτέρα, με καθαρή εβδομάδα"},
+        {"en": "Do the call block on Tuesday, even a shorter one", "el": "Κάνεις το μπλοκ την Τρίτη, έστω και μικρότερο"},
+        {"en": "Skip calls this week and do double next week", "el": "Παραλείπεις τα τηλέφωνα αυτή την εβδομάδα και κάνεις διπλά την άλλη"}
+      ],
+      "answer": 1,
+      "why": {"en": "Never miss twice. One miss is an accident, two start a new habit.", "el": "Ποτέ δύο φορές στη σειρά. Μία είναι ατύχημα, δύο ξεκινούν νέα συνήθεια."},
+      "idea": 16
+    },
+    {
+      "q": {"en": "A new teammate keeps forgetting to log each client request in the CRM. How do you help?", "el": "Ένας νέος συνεργάτης ξεχνά συνέχεια να περνά κάθε αίτημα πελάτη στο CRM. Πώς τον βοηθάς;"},
+      "options": [
+        {"en": "Remind him every morning in the chat", "el": "Του το θυμίζεις κάθε πρωί στο chat"},
+        {"en": "Give him a stack: after reading a request, log it", "el": "Του δίνεις ένα στοίβαγμα: αφού διαβάσει ένα αίτημα, το περνά"},
+        {"en": "Tell him to care more about the clients", "el": "Του λες να νοιάζεται περισσότερο για τους πελάτες"}
+      ],
+      "answer": 1,
+      "why": {"en": "Habit stacking ties the new action to one he already does, so no memory or motivation is needed.", "el": "Το στοίβαγμα δένει τη νέα πράξη με μία που ήδη κάνει, οπότε δεν χρειάζεται μνήμη ούτε κίνητρο."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "You posted reels for six weeks with no clear result. You are thinking of stopping. What does the book suggest?", "el": "Ανεβάζεις reels έξι εβδομάδες χωρίς φανερό αποτέλεσμα. Σκέφτεσαι να σταματήσεις. Τι προτείνει το βιβλίο;"},
+      "options": [
+        {"en": "Stop, since six weeks is enough proof", "el": "Σταματάς, έξι εβδομάδες είναι αρκετή απόδειξη"},
+        {"en": "Buy better equipment to speed things up", "el": "Αγοράζεις καλύτερο εξοπλισμό για να επιταχύνεις"},
+        {"en": "Keep going for the planned trial, results may be building", "el": "Συνεχίζεις όσο ορίζει η δοκιμή, το αποτέλεσμα ίσως χτίζεται"}
+      ],
+      "answer": 2,
+      "why": {"en": "The plateau of latent potential: the work is stored before it shows.", "el": "Το πλατό της κρυμμένης δυναμικής: η δουλειά αποθηκεύεται πριν φανεί."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "At home you want to read more, but you always end up watching series. What is the smartest change?", "el": "Στο σπίτι θέλεις να διαβάζεις περισσότερο, αλλά πάντα καταλήγεις σε σειρές. Ποια είναι η πιο έξυπνη αλλαγή;"},
+      "options": [
+        {"en": "Leave the book on your pillow and the remote in a drawer", "el": "Αφήνεις το βιβλίο στο μαξιλάρι και το τηλεχειριστήριο στο συρτάρι"},
+        {"en": "Set a goal of 30 books this year", "el": "Βάζεις στόχο 30 βιβλία φέτος"},
+        {"en": "Read only when you feel inspired", "el": "Διαβάζεις μόνο όταν έχεις έμπνευση"}
+      ],
+      "answer": 0,
+      "why": {"en": "Make the good cue obvious and the bad one hidden. Design beats motivation.", "el": "Κάνεις το καλό ερέθισμα φανερό και το κακό κρυφό. Ο σχεδιασμός νικά το κίνητρο."},
+      "idea": 7
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Clear says goals are useless and you should never set one.", "el": "Ο Clear λέει ότι οι στόχοι είναι άχρηστοι και δεν πρέπει να βάζεις ποτέ."}, "answer": false, "why": {"en": "Goals set the direction. The system is what gets you there.", "el": "Οι στόχοι δίνουν κατεύθυνση. Το σύστημα είναι αυτό που σε φτάνει εκεί."}},
+    {"s": {"en": "The four laws are: make it obvious, attractive, easy and satisfying.", "el": "Οι τέσσερις νόμοι είναι: κάν' το προφανές, ελκυστικό, εύκολο και ευχάριστο."}, "answer": true, "why": {"en": "Each law matches one step of the habit loop.", "el": "Κάθε νόμος αντιστοιχεί σε ένα βήμα του κύκλου της συνήθειας."}},
+    {"s": {"en": "According to the book, disciplined people are mainly born with stronger willpower.", "el": "Κατά το βιβλίο, οι πειθαρχημένοι γεννιούνται κυρίως με πιο δυνατή θέληση."}, "answer": false, "why": {"en": "They mostly arrange their lives to face fewer temptations.", "el": "Κυρίως στήνουν τη ζωή τους ώστε να συναντούν λιγότερους πειρασμούς."}},
+    {"s": {"en": "A habit is built by repetitions, not by a fixed number of days.", "el": "Μια συνήθεια χτίζεται από επαναλήψεις, όχι από έναν σταθερό αριθμό ημερών."}, "answer": true, "why": {"en": "What counts is how often you do it, not how long ago you started.", "el": "Μετράει πόσο συχνά την κάνεις, όχι πόσος καιρός πέρασε από την αρχή."}},
+    {"s": {"en": "Missing a habit once means you have failed and should start over.", "el": "Αν χάσεις μία φορά μια συνήθεια, απέτυχες και πρέπει να ξεκινήσεις από την αρχή."}, "answer": false, "why": {"en": "One miss is normal. The rule is only: never miss twice.", "el": "Μία απώλεια είναι φυσιολογική. Ο κανόνας είναι μόνο: ποτέ δύο φορές."}},
+    {"s": {"en": "Clear suggests changing who you believe you are, not only what you want to achieve.", "el": "Ο Clear προτείνει να αλλάξεις το ποιος πιστεύεις ότι είσαι, όχι μόνο τι θέλεις να πετύχεις."}, "answer": true, "why": {"en": "Identity-based habits last longer than result-based ones.", "el": "Οι συνήθειες που βασίζονται στην ταυτότητα κρατούν περισσότερο από όσες βασίζονται στο αποτέλεσμα."}},
+    {"s": {"en": "The two-minute rule means a habit should stay two minutes long forever.", "el": "Ο κανόνας των δύο λεπτών σημαίνει ότι η συνήθεια μένει για πάντα δίλεπτη."}, "answer": false, "why": {"en": "It is only the starting door. Once showing up is automatic, you grow it.", "el": "Είναι μόνο η πόρτα εισόδου. Όταν το να εμφανίζεσαι γίνει αυτόματο, τη μεγαλώνεις."}},
+    {"s": {"en": "Once a habit is automatic, you still need to review it to keep improving.", "el": "Όταν μια συνήθεια γίνει αυτόματη, χρειάζεται ακόμα αξιολόγηση για να συνεχίσεις να βελτιώνεσαι."}, "answer": true, "why": {"en": "Autopilot hides mistakes. Review brings attention back.", "el": "Ο αυτόματος πιλότος κρύβει τα λάθη. Η αξιολόγηση φέρνει πίσω την προσοχή."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Habit stacking", "el": "Στοίβαγμα συνηθειών"}, "b": {"en": "Linking a new habit to an existing one", "el": "Δένεις μια νέα συνήθεια σε μια υπάρχουσα"}},
+    {"a": {"en": "Temptation bundling", "el": "Δέσιμο με πειρασμό"}, "b": {"en": "A pleasure allowed only during a needed task", "el": "Απόλαυση μόνο όσο κάνεις κάτι αναγκαίο"}},
+    {"a": {"en": "Two-minute rule", "el": "Κανόνας δύο λεπτών"}, "b": {"en": "Shrink a new habit to a tiny start", "el": "Μικραίνεις τη νέα συνήθεια σε ένα μικρό ξεκίνημα"}},
+    {"a": {"en": "Plateau of latent potential", "el": "Πλατό κρυμμένης δυναμικής"}, "b": {"en": "Results building up before they become visible", "el": "Αποτελέσματα που χτίζονται πριν φανούν"}},
+    {"a": {"en": "Commitment device", "el": "Δέσμευση χωρίς επιστροφή"}, "b": {"en": "A choice now that locks in future behaviour", "el": "Μια επιλογή τώρα που κλειδώνει τη μελλοντική συμπεριφορά"}},
+    {"a": {"en": "Goldilocks rule", "el": "Κανόνας Χρυσομαλλούσας"}, "b": {"en": "Tasks just at the edge of your ability", "el": "Δουλειές ακριβώς στα όρια της ικανότητάς σου"}}
+  ],
+  "missions": [
+    {"en": "Write your Habits Scorecard for one workday and mark every action plus, minus or equals.", "el": "Γράψε τον πίνακα συνηθειών σου για μία εργάσιμη και σημείωσε κάθε πράξη με συν, πλην ή ίσον."},
+    {"en": "Write three habit stacks for your workday and stick them on your screen.", "el": "Γράψε τρία στοιβάγματα συνηθειών για τη μέρα σου και κόλλησέ τα στην οθόνη."},
+    {"en": "Set up two jars or a counter for cold calls and use it for one full day.", "el": "Στήσε δύο βάζα ή έναν μετρητή για τα cold calls και χρησιμοποίησέ τον μία ολόκληρη μέρα."},
+    {"en": "Move every distracting app off your phone's home screen and turn off non-client notifications.", "el": "Βγάλε κάθε εφαρμογή που σε αποσπά από την αρχική οθόνη και κλείσε τις ειδοποιήσεις που δεν είναι από πελάτες."},
+    {"en": "Write one identity sentence for your work and do one small action that proves it today.", "el": "Γράψε μία φράση ταυτότητας για τη δουλειά σου και κάνε σήμερα μία μικρή πράξη που την αποδεικνύει."}
+  ],
+  "mantra": {"en": "Every small action is a vote for who I am becoming.", "el": "Κάθε μικρή πράξη είναι μια ψήφος για αυτόν που γίνομαι."},
+  "careful": {
+    "en": "Clear is a gifted explainer more than a researcher. Many tools come from others, such as Charles Duhigg's habit loop and BJ Fogg's tiny habits. The «37 times better» maths is a picture, not a real measure, and some stories are retold second hand. Even the British Cycling success later faced official questions about medicine use. The book also puts most weight on the individual and says less about money, health or work conditions that make habits harder for some people.",
+    "el": "Ο Clear είναι περισσότερο χαρισματικός στο να εξηγεί παρά ερευνητής. Πολλά εργαλεία προέρχονται από άλλους, όπως ο κύκλος συνήθειας του Charles Duhigg και οι μικροσυνήθειες του BJ Fogg. Το «37 φορές καλύτερος» είναι εικόνα, όχι πραγματική μέτρηση, και κάποιες ιστορίες μεταφέρονται από δεύτερο χέρι. Ακόμα και η επιτυχία της βρετανικής ποδηλασίας δέχτηκε αργότερα επίσημα ερωτήματα για τη χρήση φαρμάκων. Το βιβλίο επίσης φορτώνει σχεδόν όλο το βάρος στο άτομο και λέει λίγα για τα χρήματα, την υγεία ή τις συνθήκες δουλειάς που κάνουν τις συνήθειες πιο δύσκολες για κάποιους."
+  },
+  "connects": [
+    {"book": "procrastination-puzzle", "note": {"en": "Pychyl explains why you delay; Clear gives the daily system so the task starts before the excuses do.", "el": "Ο Pychyl εξηγεί γιατί αναβάλλεις. Ο Clear δίνει το καθημερινό σύστημα ώστε η δουλειά να ξεκινά πριν από τις δικαιολογίες."}},
+    {"book": "feel-good-productivity", "note": {"en": "Both use friction and small starts, but Abdaal begins with feeling good while Clear begins with identity and systems.", "el": "Και οι δύο χρησιμοποιούν την τριβή και τα μικρά ξεκινήματα, αλλά ο Abdaal ξεκινά από το να νιώθεις καλά, ενώ ο Clear από την ταυτότητα και τα συστήματα."}},
+    {"book": "the-one-thing", "note": {"en": "Keller says build one key habit at a time; Clear shows the exact mechanics to make that one habit stick.", "el": "Ο Keller λέει να χτίζεις μία βασική συνήθεια τη φορά. Ο Clear δείχνει ακριβώς τον μηχανισμό για να κολλήσει αυτή η μία."}}
+  ]
+}

@@ -1,0 +1,1210 @@
+{
+  "id": "fanatical-prospecting",
+  "title": {
+    "en": "Fanatical Prospecting",
+    "el": "Φανατική αναζήτηση πελατών"
+  },
+  "author": "Jeb Blount",
+  "authorEl": "Τζεμπ Μπλάουντ",
+  "year": 2015,
+  "shelf": "sales",
+  "skills": {
+    "sales": 3,
+    "focus": 2,
+    "mindset": 2
+  },
+  "oneLine": {
+    "en": "The main reason salespeople fail is an empty pipeline; the cure is to prospect every single day, in protected time blocks, by phone first, with short calls that ask for one clear thing.",
+    "el": "Ο βασικός λόγος που αποτυγχάνουν οι πωλητές είναι ένα άδειο pipeline. Η θεραπεία: αναζήτηση πελατών κάθε μέρα, σε προστατευμένα μπλοκ χρόνου, πρώτα με τηλέφωνο, με σύντομες κλήσεις που ζητούν ένα καθαρό πράγμα."
+  },
+  "story": {
+    "en": "Jeb Blount spent years selling and leading sales teams before founding Sales Gravy, a sales training company. He has written many sales books, but this 2015 one is his best known. It is blunt and practical: no secret method, just the daily discipline of finding new buyers. It gives exact scripts for calls, emails and objections, and a tough-love mindset that many sales teams still use as a training manual.",
+    "el": "Ο Τζεμπ Μπλάουντ πέρασε χρόνια πουλώντας και διοικώντας ομάδες πωλήσεων πριν ιδρύσει τη Sales Gravy, μια εταιρεία εκπαίδευσης πωλητών. Έχει γράψει πολλά βιβλία για πωλήσεις, αλλά αυτό του 2015 είναι το πιο γνωστό του. Είναι ωμό και πρακτικό: καμία μυστική μέθοδος, μόνο η καθημερινή πειθαρχία του να βρίσκεις νέους αγοραστές. Δίνει ακριβή σενάρια για κλήσεις, email και αντιρρήσεις, και μια αυστηρή αλλά τρυφερή νοοτροπία που πολλές ομάδες πωλήσεων χρησιμοποιούν ακόμη ως εγχειρίδιο."
+  },
+  "forYou": {
+    "en": "Your whole business starts with a phone call to a doctor who did not expect you. This book is a manual for exactly that: how to protect calling time, what to say in the first twenty seconds, how to answer «not interested», which numbers to track, and how to keep going after a morning of no. It turns cold calling from a mood into a system.",
+    "el": "Όλη σου η δουλειά ξεκινά με ένα τηλεφώνημα σε έναν γιατρό που δεν σε περίμενε. Αυτό το βιβλίο είναι εγχειρίδιο ακριβώς γι' αυτό: πώς προστατεύεις τον χρόνο για κλήσεις, τι λες στα πρώτα είκοσι δευτερόλεπτα, πώς απαντάς στο «δεν ενδιαφέρομαι», ποιους αριθμούς μετράς και πώς συνεχίζεις μετά από ένα πρωινό γεμάτο «όχι». Κάνει το cold call από διάθεση σύστημα."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "An empty pipeline kills",
+        "el": "Το άδειο pipeline σκοτώνει"
+      },
+      "explain": {
+        "en": "Blount's opening claim: the number one reason salespeople fail is an empty pipeline, the list of real future buyers. Not bad closing, not bad products. Without enough people to talk to, even a great seller has nothing to sell. Prospecting, finding and contacting new possible buyers, is the most important and the most avoided job in sales.",
+        "el": "Η πρώτη θέση του Μπλάουντ: ο νούμερο ένα λόγος που αποτυγχάνουν οι πωλητές είναι το άδειο pipeline, δηλαδή η λίστα με πραγματικούς μελλοντικούς αγοραστές. Όχι το κακό κλείσιμο, όχι τα κακά προϊόντα. Χωρίς αρκετούς ανθρώπους να μιλήσει, ακόμη και ο καλύτερος πωλητής δεν έχει σε ποιον να πουλήσει. Η αναζήτηση πελατών, δηλαδή να βρίσκεις και να προσεγγίζεις νέους πιθανούς αγοραστές, είναι η πιο σημαντική και η πιο αποφευγόμενη δουλειά στις πωλήσεις."
+      },
+      "example": {
+        "en": "Blount describes a pattern every sales manager knows. A seller closes a big deal, celebrates, and spends the next weeks serving that client instead of calling new people. A few months later his list is empty, his results crash, and he is suddenly desperate.",
+        "el": "Ο Μπλάουντ περιγράφει ένα μοτίβο που ξέρει κάθε διευθυντής πωλήσεων. Ένας πωλητής κλείνει μια μεγάλη συμφωνία, το γιορτάζει και περνά τις επόμενες εβδομάδες εξυπηρετώντας αυτόν τον πελάτη αντί να καλεί νέους. Λίγους μήνες μετά η λίστα του είναι άδεια, τα αποτελέσματα καταρρέουν και ξαφνικά απελπίζεται."
+      },
+      "apply": {
+        "en": "Make prospecting a fixed daily task that comes before building, client chat and edits. Each evening, check one number in your CRM: how many new doctors entered the pipeline today. If it is zero, tomorrow starts with calls, not with design work.",
+        "el": "Κάνε την αναζήτηση πελατών σταθερή καθημερινή δουλειά που μπαίνει πριν από την κατασκευή, το chat με πελάτες και τις αλλαγές. Κάθε βράδυ κοίτα έναν αριθμό στο CRM: πόσοι νέοι γιατροί μπήκαν σήμερα στο pipeline. Αν είναι μηδέν, το αύριο ξεκινά με τηλέφωνα, όχι με σχεδιασμό."
+      },
+      "check": {
+        "q": {
+          "en": "What does Blount call the number one reason salespeople fail?",
+          "el": "Ποιον λόγο θεωρεί ο Μπλάουντ νούμερο ένα για την αποτυχία των πωλητών;"
+        },
+        "options": [
+          {
+            "en": "Weak closing techniques",
+            "el": "Αδύναμες τεχνικές κλεισίματος"
+          },
+          {
+            "en": "Products that are too expensive",
+            "el": "Προϊόντα πολύ ακριβά"
+          },
+          {
+            "en": "An empty pipeline of future buyers",
+            "el": "Ένα άδειο pipeline μελλοντικών αγοραστών"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Without enough prospects, no other sales skill can produce results.",
+          "el": "Χωρίς αρκετούς πιθανούς πελάτες, καμία άλλη ικανότητα πώλησης δεν φέρνει αποτέλεσμα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The fanatical mindset",
+        "el": "Η φανατική νοοτροπία"
+      },
+      "explain": {
+        "en": "Top prospectors, Blount says, share a set of traits: optimism and enthusiasm, competitiveness, confidence, relentless persistence, a thirst for learning, and being systematic and efficient. Above all they prospect every day, whether they feel like it or not, whether the pipeline is full or empty. Fanatical does not mean pushy; it means never stopping.",
+        "el": "Οι κορυφαίοι στην αναζήτηση πελατών, λέει ο Μπλάουντ, έχουν κοινά χαρακτηριστικά: αισιοδοξία και ενθουσιασμό, πνεύμα ανταγωνισμού, αυτοπεποίθηση, ακατάβλητη επιμονή, δίψα για μάθηση, και είναι οργανωμένοι και αποδοτικοί. Πάνω απ' όλα, ψάχνουν πελάτες κάθε μέρα, είτε έχουν διάθεση είτε όχι, είτε το pipeline είναι γεμάτο είτε άδειο. Φανατικός δεν σημαίνει πιεστικός. Σημαίνει ότι δεν σταματάς ποτέ."
+      },
+      "example": {
+        "en": "Estée Lauder built her cosmetics company by refusing to stop selling. She gave demonstrations in salons and to friends, and in 1948 she persuaded the New York department store Saks Fifth Avenue to give her counter space. She kept selling in person for years after the company was large.",
+        "el": "Η Εστέ Λάουντερ έχτισε την εταιρεία καλλυντικών της αρνούμενη να σταματήσει να πουλά. Έκανε επιδείξεις σε κομμωτήρια και σε φίλες, και το 1948 έπεισε το πολυκατάστημα Saks Fifth Avenue της Νέας Υόρκης να της δώσει πάγκο. Συνέχισε να πουλά η ίδια, πρόσωπο με πρόσωπο, για χρόνια αφού η εταιρεία είχε μεγαλώσει."
+      },
+      "apply": {
+        "en": "Decide your daily minimum and keep it on good and bad days: for example 40 dials, every working day, no exceptions for «busy». Write it on a sticky note on your screen. When a big project lands, the 40 dials still happen; move the build work after them.",
+        "el": "Αποφάσισε το ελάχιστο της ημέρας και κράτα το σε καλές και κακές μέρες: για παράδειγμα 40 κλήσεις, κάθε εργάσιμη, χωρίς εξαιρέσεις για «πολλή δουλειά». Γράψ' το σε ένα χαρτάκι στην οθόνη σου. Όταν έρθει ένα μεγάλο έργο, οι 40 κλήσεις γίνονται κανονικά, και η κατασκευή μπαίνει μετά."
+      },
+      "check": {
+        "q": {
+          "en": "What does «fanatical» mean in Blount's sense?",
+          "el": "Τι σημαίνει «φανατικός» με την έννοια του Μπλάουντ;"
+        },
+        "options": [
+          {
+            "en": "Prospecting every day, whatever your mood or pipeline",
+            "el": "Ψάχνεις πελάτες κάθε μέρα, όποια κι αν είναι η διάθεσή σου ή το pipeline"
+          },
+          {
+            "en": "Pushing every prospect until he says yes",
+            "el": "Πιέζεις κάθε πιθανό πελάτη μέχρι να πει ναι"
+          },
+          {
+            "en": "Working fourteen hours a day",
+            "el": "Δουλεύεις δεκατέσσερις ώρες τη μέρα"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "It is about consistency and discipline, not pressure on people or endless hours.",
+          "el": "Αφορά τη σταθερότητα και την πειθαρχία, όχι την πίεση στους ανθρώπους ή τις ατελείωτες ώρες."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The 30-day rule",
+        "el": "Ο κανόνας των 30 ημερών"
+      },
+      "explain": {
+        "en": "Blount's rule: the prospecting you do in any 30-day period pays off over the next 90 days. Today's calls are next quarter's sales. So a slump does not start the day results drop; it started months earlier, the week you stopped prospecting. And a month of hard prospecting will not show results at once, so you must keep going on faith.",
+        "el": "Ο κανόνας του Μπλάουντ: η αναζήτηση πελατών που κάνεις σε κάθε διάστημα 30 ημερών αποδίδει μέσα στις επόμενες 90 μέρες. Τα σημερινά τηλεφωνήματα είναι οι πωλήσεις του επόμενου τριμήνου. Άρα η κάμψη δεν ξεκινά τη μέρα που πέφτουν τα αποτελέσματα. Ξεκίνησε μήνες πριν, την εβδομάδα που σταμάτησες να ψάχνεις. Και ένας μήνας σκληρής δουλειάς δεν φέρνει αμέσως αποτέλεσμα, άρα πρέπει να συνεχίσεις με πίστη."
+      },
+      "example": {
+        "en": "Greek farmers sow wheat in late autumn and harvest it in early summer. Nobody judges the field in December by looking for bread. A farmer who skips sowing because the barn is full in November will have nothing to harvest in June.",
+        "el": "Οι Έλληνες αγρότες σπέρνουν σιτάρι στα τέλη του φθινοπώρου και θερίζουν στις αρχές του καλοκαιριού. Κανείς δεν κρίνει το χωράφι τον Δεκέμβριο ψάχνοντας ψωμί. Ο αγρότης που δεν σπέρνει επειδή η αποθήκη είναι γεμάτη τον Νοέμβριο, δεν θα έχει τι να θερίσει τον Ιούνιο."
+      },
+      "apply": {
+        "en": "When you have a great month of sales, call more, not less, because that is next season's harvest. Put a monthly reminder in your calendar: «Calls this month = sales in three months». Compare each month's dials with sales three months later to see your own lag.",
+        "el": "Όταν έχεις έναν εξαιρετικό μήνα σε πωλήσεις, κάνε περισσότερες κλήσεις, όχι λιγότερες, γιατί αυτή είναι η σοδειά της επόμενης εποχής. Βάλε μηνιαία υπενθύμιση στο ημερολόγιο: «Κλήσεις αυτού του μήνα = πωλήσεις σε τρεις μήνες». Σύγκρινε τις κλήσεις κάθε μήνα με τις πωλήσεις τρεις μήνες μετά, για να δεις τη δική σου καθυστέρηση."
+      },
+      "check": {
+        "q": {
+          "en": "According to the 30-day rule, when does a sales slump really begin?",
+          "el": "Σύμφωνα με τον κανόνα των 30 ημερών, πότε ξεκινά στην πραγματικότητα μια κάμψη στις πωλήσεις;"
+        },
+        "options": [
+          {
+            "en": "The day the results drop",
+            "el": "Τη μέρα που πέφτουν τα αποτελέσματα"
+          },
+          {
+            "en": "Months earlier, when prospecting stopped",
+            "el": "Μήνες νωρίτερα, όταν σταμάτησε η αναζήτηση πελατών"
+          },
+          {
+            "en": "When the market changes",
+            "el": "Όταν αλλάζει η αγορά"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Prospecting pays off with a delay of about 90 days, so the cause lies far back.",
+          "el": "Η αναζήτηση αποδίδει με καθυστέρηση περίπου 90 ημερών, άρα η αιτία βρίσκεται πολύ πίσω."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The universal law of need",
+        "el": "Ο νόμος της ανάγκης"
+      },
+      "explain": {
+        "en": "Blount's law: the more you need a sale, the less likely you are to get it. Desperation leaks into your voice, makes you push, discount and chase the wrong buyers, and buyers sense it and pull away. A full pipeline is the real cure: when you have plenty of options, you can be calm, honest and willing to walk away.",
+        "el": "Ο νόμος του Μπλάουντ: όσο περισσότερο χρειάζεσαι μια πώληση, τόσο λιγότερο πιθανό είναι να την κάνεις. Η απελπισία περνά στη φωνή σου, σε κάνει να πιέζεις, να κάνεις εκπτώσεις και να κυνηγάς λάθος αγοραστές, και ο αγοραστής το νιώθει και απομακρύνεται. Η πραγματική θεραπεία είναι ένα γεμάτο pipeline: όταν έχεις πολλές επιλογές, μπορείς να είσαι ήρεμος, ειλικρινής και πρόθυμος να φύγεις."
+      },
+      "example": {
+        "en": "In their 1981 book Getting to Yes, the Harvard negotiators Roger Fisher and William Ury showed the same principle. Your strength in a negotiation comes from your best alternative if this deal fails. Someone with another good offer in hand negotiates calmly; someone with none accepts bad terms.",
+        "el": "Στο βιβλίο τους Getting to Yes του 1981, οι διαπραγματευτές του Χάρβαρντ Ρότζερ Φίσερ και Γουίλιαμ Γιούρι έδειξαν την ίδια αρχή. Η δύναμή σου σε μια διαπραγμάτευση βγαίνει από την καλύτερη εναλλακτική σου αν η συμφωνία αποτύχει. Όποιος έχει στο χέρι μια άλλη καλή πρόταση διαπραγματεύεται ήρεμα. Όποιος δεν έχει καμία δέχεται κακούς όρους."
+      },
+      "apply": {
+        "en": "Notice when you start discounting or over-talking to one doctor because the month is weak; that is need speaking. Fix the cause, not the call: add an extra calling block that week. On calls, keep your tone relaxed: «If it is not for you right now, no problem at all.»",
+        "el": "Πρόσεξε πότε αρχίζεις να κάνεις εκπτώσεις ή να μιλάς υπερβολικά σε έναν γιατρό επειδή ο μήνας πάει άσχημα. Αυτή είναι η ανάγκη που μιλά. Διόρθωσε την αιτία, όχι το τηλεφώνημα: πρόσθεσε ένα ακόμη μπλοκ κλήσεων εκείνη την εβδομάδα. Στο τηλέφωνο κράτα χαλαρό τόνο: «Αν δεν σας ενδιαφέρει αυτή τη στιγμή, κανένα απολύτως πρόβλημα»."
+      },
+      "check": {
+        "q": {
+          "en": "What is the real cure for sounding desperate?",
+          "el": "Ποια είναι η πραγματική θεραπεία για να μην ακούγεσαι απελπισμένος;"
+        },
+        "options": [
+          {
+            "en": "Practising a confident voice",
+            "el": "Εξάσκηση σε μια φωνή με αυτοπεποίθηση"
+          },
+          {
+            "en": "Offering bigger discounts",
+            "el": "Μεγαλύτερες εκπτώσεις"
+          },
+          {
+            "en": "A full pipeline, so no single sale matters too much",
+            "el": "Ένα γεμάτο pipeline, ώστε καμία πώληση να μη μετράει υπερβολικά"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "When you have many options, you stop needing any one buyer, and they feel it.",
+          "el": "Όταν έχεις πολλές επιλογές, δεν χρειάζεσαι πια κανέναν συγκεκριμένο αγοραστή, και αυτό το νιώθουν."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The law of replacement",
+        "el": "Ο νόμος της αντικατάστασης"
+      },
+      "explain": {
+        "en": "Every pipeline leaks: some prospects buy, many say no, some disappear. The law of replacement says you must add new prospects at least as fast as they leave, or the pipeline shrinks. Knowing your numbers tells you exactly how many new prospects you need each week just to stand still, and how many more to grow.",
+        "el": "Κάθε pipeline έχει διαρροές: κάποιοι αγοράζουν, πολλοί λένε όχι, κάποιοι εξαφανίζονται. Ο νόμος της αντικατάστασης λέει ότι πρέπει να προσθέτεις νέους πιθανούς πελάτες τουλάχιστον τόσο γρήγορα όσο φεύγουν, αλλιώς το pipeline μικραίνει. Οι αριθμοί σου σού λένε ακριβώς πόσους νέους χρειάζεσαι κάθε εβδομάδα μόνο για να μείνεις στάσιμος, και πόσους ακόμη για να μεγαλώσεις."
+      },
+      "example": {
+        "en": "Every gym loses members each month: people move, get bored or stop paying. A gym that signs as many new members as it loses stays the same size; one that signs fewer slowly empties, even if nothing seems wrong. Gym owners watch both numbers for that reason.",
+        "el": "Κάθε γυμναστήριο χάνει μέλη κάθε μήνα: κάποιοι μετακομίζουν, βαριούνται ή σταματούν να πληρώνουν. Ένα γυμναστήριο που γράφει τόσα νέα μέλη όσα χάνει μένει ίδιο. Ένα που γράφει λιγότερα αδειάζει σιγά σιγά, ακόμη κι αν τίποτα δεν φαίνεται στραβό. Γι' αυτό οι ιδιοκτήτες παρακολουθούν και τους δύο αριθμούς."
+      },
+      "apply": {
+        "en": "Count how many doctors left your pipeline last month, as signed, refused or gone silent. That is your weekly replacement target divided by four. Also count hosting renewals you lose each year; new sales must replace those too before you grow.",
+        "el": "Μέτρα πόσοι γιατροί βγήκαν από το pipeline σου τον προηγούμενο μήνα, είτε υπέγραψαν, είτε αρνήθηκαν, είτε χάθηκαν. Αυτός ο αριθμός διά τέσσερα είναι ο εβδομαδιαίος στόχος αντικατάστασης. Μέτρα και πόσες ανανεώσεις φιλοξενίας χάνεις κάθε χρόνο. Οι νέες πωλήσεις πρέπει να καλύψουν κι αυτές πριν αρχίσεις να μεγαλώνεις."
+      },
+      "check": {
+        "q": {
+          "en": "What does the law of replacement say?",
+          "el": "Τι λέει ο νόμος της αντικατάστασης;"
+        },
+        "options": [
+          {
+            "en": "Add new prospects at least as fast as they leave",
+            "el": "Να προσθέτεις νέους πιθανούς πελάτες τουλάχιστον τόσο γρήγορα όσο φεύγουν"
+          },
+          {
+            "en": "Replace weak salespeople quickly",
+            "el": "Να αντικαθιστάς γρήγορα τους αδύναμους πωλητές"
+          },
+          {
+            "en": "Replace lost clients with discounts",
+            "el": "Να αντικαθιστάς τους χαμένους πελάτες με εκπτώσεις"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "A pipeline always leaks, so new prospects must keep flowing in.",
+          "el": "Το pipeline πάντα έχει διαρροές, άρα πρέπει να μπαίνουν συνέχεια νέοι πιθανοί πελάτες."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Balanced prospecting",
+        "el": "Ισορροπημένη αναζήτηση"
+      },
+      "explain": {
+        "en": "Blount warns against relying on one channel. Some sellers only email, some only use social media, some only call. He recommends a balanced mix: phone, email, social media, in person, text messages and referrals, chosen to fit your buyers. Each channel reaches people the others miss, but the phone stays at the centre.",
+        "el": "Ο Μπλάουντ προειδοποιεί να μη στηρίζεσαι σε ένα μόνο κανάλι. Κάποιοι πωλητές στέλνουν μόνο email, κάποιοι μόνο χρησιμοποιούν τα social media, κάποιοι μόνο τηλεφωνούν. Προτείνει ισορροπημένο συνδυασμό: τηλέφωνο, email, social media, επισκέψεις από κοντά, μηνύματα και συστάσεις, ανάλογα με τους αγοραστές σου. Κάθε κανάλι φτάνει σε ανθρώπους που χάνουν τα άλλα, αλλά το τηλέφωνο μένει στο κέντρο."
+      },
+      "example": {
+        "en": "At Salesforce in the early 2000s, Aaron Ross built a team whose only job was prospecting. They sent short emails to find the right person in a company, then followed up by phone. He described the method in the 2011 book Predictable Revenue, and many software companies copied it.",
+        "el": "Στη Salesforce στις αρχές της δεκαετίας του 2000, ο Άαρον Ρος έστησε μια ομάδα με μοναδική δουλειά την αναζήτηση πελατών. Έστελναν σύντομα email για να βρουν τον σωστό άνθρωπο σε μια εταιρεία και μετά συνέχιζαν με τηλέφωνο. Περιέγραψε τη μέθοδο στο βιβλίο Predictable Revenue του 2011, και πολλές εταιρείες λογισμικού την αντέγραψαν."
+      },
+      "apply": {
+        "en": "Build a simple weekly mix: calls every day as the core; a short email after each call where the doctor asked for one; replies to comments and messages from your Meta ads within the day; and every Friday, a message to two happy clients asking for one colleague's name.",
+        "el": "Φτιάξε έναν απλό εβδομαδιαίο συνδυασμό: τηλέφωνα κάθε μέρα ως βάση, ένα σύντομο email μετά από κάθε κλήση όπου ο γιατρός το ζήτησε, απαντήσεις μέσα στη μέρα σε σχόλια και μηνύματα από τις διαφημίσεις στη Meta, και κάθε Παρασκευή ένα μήνυμα σε δύο ικανοποιημένους πελάτες που τους ζητάς το όνομα ενός συναδέλφου."
+      },
+      "check": {
+        "q": {
+          "en": "What does balanced prospecting mean?",
+          "el": "Τι σημαίνει ισορροπημένη αναζήτηση πελατών;"
+        },
+        "options": [
+          {
+            "en": "Spending equal time on prospecting and resting",
+            "el": "Ίσος χρόνος για αναζήτηση πελατών και ξεκούραση"
+          },
+          {
+            "en": "Using a mix of channels, with the phone at the centre",
+            "el": "Συνδυασμός καναλιών, με το τηλέφωνο στο κέντρο"
+          },
+          {
+            "en": "Only using the channel you like most",
+            "el": "Μόνο το κανάλι που σου αρέσει περισσότερο"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Each channel reaches different people; relying on one leaves gaps.",
+          "el": "Κάθε κανάλι φτάνει σε διαφορετικούς ανθρώπους. Αν στηρίζεσαι σε ένα, μένουν κενά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The phone is king",
+        "el": "Το τηλέφωνο είναι ο βασιλιάς"
+      },
+      "explain": {
+        "en": "Blount calls the phone the most powerful prospecting tool: in a few minutes you can reach a decision maker, hear his tone, answer a doubt and book a meeting. Many sellers hide behind email and social media because the phone feels scary. But a live conversation moves faster than anything typed, and avoiding it is usually fear, not strategy.",
+        "el": "Ο Μπλάουντ αποκαλεί το τηλέφωνο το πιο δυνατό εργαλείο αναζήτησης πελατών: σε λίγα λεπτά φτάνεις σε αυτόν που αποφασίζει, ακούς τον τόνο του, απαντάς σε μια αμφιβολία και κλείνεις ραντεβού. Πολλοί πωλητές κρύβονται πίσω από email και social media, γιατί το τηλέφωνο τους τρομάζει. Όμως μια ζωντανή κουβέντα προχωρά πιο γρήγορα από οτιδήποτε γραπτό, και η αποφυγή της είναι συνήθως φόβος, όχι στρατηγική."
+      },
+      "example": {
+        "en": "At about twelve, Steve Jobs needed parts for a school project. He found Bill Hewlett, co-founder of Hewlett-Packard, in the phone book and simply called his home. Hewlett talked with him for about twenty minutes, gave him the parts and later a summer job at HP.",
+        "el": "Γύρω στα δώδεκα, ο Στιβ Τζομπς χρειαζόταν εξαρτήματα για μια σχολική κατασκευή. Βρήκε στον τηλεφωνικό κατάλογο τον Μπιλ Χιούλετ, συνιδρυτή της Hewlett-Packard, και απλώς τηλεφώνησε στο σπίτι του. Ο Χιούλετ μίλησε μαζί του περίπου είκοσι λεπτά, του έδωσε τα εξαρτήματα και αργότερα μια καλοκαιρινή δουλειά στην HP."
+      },
+      "apply": {
+        "en": "Notice when you choose a message instead of a call because it feels safer. Rule for the team: first contact with a new doctor is always a phone call; email and messages come after, to support it. Track how many meetings come from calls versus from messages for one month.",
+        "el": "Πρόσεξε πότε διαλέγεις μήνυμα αντί για τηλεφώνημα επειδή σου φαίνεται πιο ασφαλές. Κανόνας για την ομάδα: η πρώτη επαφή με νέο γιατρό είναι πάντα τηλεφώνημα. Τα email και τα μηνύματα έρχονται μετά, για υποστήριξη. Μέτρα για έναν μήνα πόσα ραντεβού έρχονται από κλήσεις και πόσα από μηνύματα."
+      },
+      "check": {
+        "q": {
+          "en": "Why do many sellers avoid the phone, according to Blount?",
+          "el": "Γιατί πολλοί πωλητές αποφεύγουν το τηλέφωνο κατά τον Μπλάουντ;"
+        },
+        "options": [
+          {
+            "en": "Because email gives better results",
+            "el": "Επειδή το email φέρνει καλύτερα αποτελέσματα"
+          },
+          {
+            "en": "Because buyers never answer",
+            "el": "Επειδή οι αγοραστές δεν απαντούν ποτέ"
+          },
+          {
+            "en": "Because it feels scary, not because it works worse",
+            "el": "Επειδή τους τρομάζει, όχι επειδή δουλεύει χειρότερα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Avoiding the phone is usually fear of rejection dressed up as strategy.",
+          "el": "Η αποφυγή του τηλεφώνου είναι συνήθως φόβος της απόρριψης ντυμένος ως στρατηγική."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Protect the golden hours",
+        "el": "Προστάτεψε τις χρυσές ώρες"
+      },
+      "explain": {
+        "en": "Blount calls the hours when buyers are reachable the golden hours. Spend them on prospecting and selling; push admin, research, emails and planning to other times. Then work in time blocks: set a fixed block, for example one hour, only for calls, with no email, no chat and no interruptions. Short, intense blocks beat a day of scattered calls.",
+        "el": "Ο Μπλάουντ λέει «χρυσές ώρες» τις ώρες που οι αγοραστές είναι διαθέσιμοι. Ξόδεψέ τες σε αναζήτηση πελατών και πωλήσεις, και σπρώξε τα διαδικαστικά, την έρευνα, τα email και τον προγραμματισμό σε άλλες ώρες. Μετά δούλευε σε μπλοκ χρόνου: ένα σταθερό διάστημα, για παράδειγμα μία ώρα, μόνο για κλήσεις, χωρίς email, χωρίς chat, χωρίς διακοπές. Τα σύντομα, έντονα μπλοκ νικούν μια μέρα με σκόρπιες κλήσεις."
+      },
+      "example": {
+        "en": "The Victorian novelist Anthony Trollope worked full time at the Post Office. In his autobiography he explains how he still wrote dozens of novels: he wrote for about three hours early every morning, with his watch in front of him, aiming for 250 words every quarter of an hour.",
+        "el": "Ο Βικτωριανός μυθιστοριογράφος Άντονι Τρόλοπ δούλευε με πλήρες ωράριο στα Ταχυδρομεία. Στην αυτοβιογραφία του εξηγεί πώς κατάφερε να γράψει δεκάδες μυθιστορήματα: έγραφε περίπου τρεις ώρες νωρίς κάθε πρωί, με το ρολόι μπροστά του, με στόχο 250 λέξεις κάθε τέταρτο."
+      },
+      "apply": {
+        "en": "Put two calling blocks in your calendar as fixed meetings, for example 10:00 to 11:00 and 17:00 to 18:00, and test which gets more doctors on the line. During a block: phone on, chat closed, list ready. Prepare the list the evening before, never during the block.",
+        "el": "Βάλε στο ημερολόγιο δύο μπλοκ κλήσεων σαν σταθερά ραντεβού, για παράδειγμα 10:00 με 11:00 και 17:00 με 18:00, και δοκίμασε ποιο φέρνει περισσότερους γιατρούς στη γραμμή. Μέσα στο μπλοκ: τηλέφωνο ανοιχτό, chat κλειστό, λίστα έτοιμη. Ετοίμασε τη λίστα το προηγούμενο βράδυ, ποτέ μέσα στο μπλοκ."
+      },
+      "check": {
+        "q": {
+          "en": "What should you do during the golden hours?",
+          "el": "Τι πρέπει να κάνεις στις χρυσές ώρες;"
+        },
+        "options": [
+          {
+            "en": "Prospect and sell; do admin and research at other times",
+            "el": "Αναζήτηση πελατών και πωλήσεις. Τα διαδικαστικά και την έρευνα άλλες ώρες"
+          },
+          {
+            "en": "Catch up on emails so your inbox is clear",
+            "el": "Να καθαρίσεις τα email σου"
+          },
+          {
+            "en": "Research each prospect in depth",
+            "el": "Να ερευνήσεις σε βάθος κάθε πιθανό πελάτη"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Buyers are reachable only at certain hours; using them for admin wastes your best time.",
+          "el": "Οι αγοραστές είναι διαθέσιμοι μόνο ορισμένες ώρες. Αν τις ξοδεύεις σε διαδικαστικά, χάνεις τον καλύτερο χρόνο σου."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Know your numbers",
+        "el": "Ξέρε τους αριθμούς σου"
+      },
+      "explain": {
+        "en": "Prospecting is a numbers game you can measure. Track each step: dials, contacts (real conversations with the decision maker), meetings booked, meetings held, sales. From these you get your ratios, for example how many dials make one meeting. Ratios tell you how much activity your goal needs and which step is weak. Feelings lie; numbers do not.",
+        "el": "Η αναζήτηση πελατών είναι παιχνίδι αριθμών που μετριέται. Κατέγραφε κάθε βήμα: κλήσεις, επαφές (πραγματικές κουβέντες με αυτόν που αποφασίζει), ραντεβού που κλείστηκαν, ραντεβού που έγιναν, πωλήσεις. Από αυτά βγαίνουν οι αναλογίες σου, για παράδειγμα πόσες κλήσεις φέρνουν ένα ραντεβού. Οι αναλογίες σού λένε πόση δουλειά θέλει ο στόχος σου και ποιο βήμα χωλαίνει. Τα συναισθήματα λένε ψέματα, οι αριθμοί όχι."
+      },
+      "example": {
+        "en": "In 2002 the Oakland Athletics baseball team had one of the smallest budgets in the league. Its manager Billy Beane chose players by statistics, such as how often they got on base, instead of scouts' gut feelings. The team won 103 games that season, a story told in the book Moneyball.",
+        "el": "Το 2002 η ομάδα μπέιζμπολ Oakland Athletics είχε από τους μικρότερους προϋπολογισμούς της λίγκας. Ο γενικός διευθυντής της, Μπίλι Μπιν, διάλεγε παίκτες με βάση τα στατιστικά, όπως το πόσο συχνά έφταναν στη βάση, αντί για το ένστικτο των σκάουτερ. Η ομάδα κέρδισε 103 αγώνες εκείνη τη σεζόν, ιστορία που αφηγείται το βιβλίο Moneyball."
+      },
+      "apply": {
+        "en": "Add five counters to your CRM: dials, contacts, meetings booked, meetings held, sales. Every Friday, write the ratios. If you need eight sales a month and one sale takes about 60 dials, you need about 480 dials, roughly 24 a working day. Fix the weakest ratio first.",
+        "el": "Πρόσθεσε πέντε μετρητές στο CRM: κλήσεις, επαφές, ραντεβού που κλείστηκαν, ραντεβού που έγιναν, πωλήσεις. Κάθε Παρασκευή γράψε τις αναλογίες. Αν θέλεις οκτώ πωλήσεις τον μήνα και μία πώληση θέλει περίπου 60 κλήσεις, χρειάζεσαι γύρω στις 480 κλήσεις, δηλαδή περίπου 24 κάθε εργάσιμη. Διόρθωσε πρώτα την πιο αδύναμη αναλογία."
+      },
+      "check": {
+        "q": {
+          "en": "Why track ratios like dials per meeting?",
+          "el": "Γιατί να μετράς αναλογίες όπως κλήσεις ανά ραντεβού;"
+        },
+        "options": [
+          {
+            "en": "To impress your team with big numbers",
+            "el": "Για να εντυπωσιάσεις την ομάδα με μεγάλους αριθμούς"
+          },
+          {
+            "en": "To know the activity your goal needs and where you are weak",
+            "el": "Για να ξέρεις πόση δουλειά θέλει ο στόχος σου και πού είσαι αδύναμος"
+          },
+          {
+            "en": "Because buyers ask for them",
+            "el": "Επειδή τις ζητούν οι αγοραστές"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Ratios turn a sales goal into a daily number and show which step to fix.",
+          "el": "Οι αναλογίες κάνουν τον στόχο πωλήσεων καθημερινό αριθμό και δείχνουν ποιο βήμα θέλει διόρθωση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Your database and the pyramid",
+        "el": "Η βάση σου και η πυραμίδα"
+      },
+      "explain": {
+        "en": "Your CRM, the list of prospects and what you know about each, is your most valuable sales tool, but only if it is clean and complete. Blount's prospecting pyramid says: each block, start at the top with the best prospects, those most qualified and most likely in a buying window, then work down. Do not call randomly through an unsorted list.",
+        "el": "Το CRM σου, δηλαδή η λίστα με τους πιθανούς πελάτες και όσα ξέρεις για τον καθένα, είναι το πολυτιμότερο εργαλείο πωλήσεων, αλλά μόνο αν είναι καθαρό και πλήρες. Η πυραμίδα του Μπλάουντ λέει: σε κάθε μπλοκ ξεκίνα από την κορυφή, με τους καλύτερους, αυτούς που ταιριάζουν περισσότερο και που πιθανότατα είναι έτοιμοι να αγοράσουν, και μετά κατέβαινε. Μην καλείς στην τύχη από μια αταξινόμητη λίστα."
+      },
+      "example": {
+        "en": "Harvey Mackay, who built a successful envelope company in Minnesota, made his salespeople fill in a 66-question profile on every customer, from business needs to family and hobbies. He published it as the Mackay 66 in his 1988 book Swim with the Sharks Without Being Eaten Alive.",
+        "el": "Ο Χάρβεϊ Μακέι, που έχτισε μια πετυχημένη εταιρεία φακέλων στη Μινεσότα, έβαζε τους πωλητές του να συμπληρώνουν ένα προφίλ 66 ερωτήσεων για κάθε πελάτη, από τις ανάγκες της δουλειάς του μέχρι την οικογένεια και τα χόμπι του. Το δημοσίευσε ως Mackay 66 στο βιβλίο του Swim with the Sharks Without Being Eaten Alive, το 1988."
+      },
+      "apply": {
+        "en": "Give every doctor in your CRM a simple tag: A (no site or a very old one, good reviews, specialty that converts), B (has a basic site), C (unlikely). Start each block with A, then B. After each call, write one useful line: who answers, best time, what he said.",
+        "el": "Δώσε σε κάθε γιατρό στο CRM μια απλή ετικέτα: A (χωρίς σελίδα ή με πολύ παλιά, καλές κριτικές, ειδικότητα που αγοράζει), B (έχει μια βασική σελίδα), C (απίθανο). Ξεκίνα κάθε μπλοκ με τους A, μετά τους B. Μετά από κάθε κλήση γράψε μία χρήσιμη γραμμή: ποιος σηκώνει το τηλέφωνο, ποια ώρα βολεύει, τι είπε."
+      },
+      "check": {
+        "q": {
+          "en": "Where does the prospecting pyramid tell you to start each block?",
+          "el": "Από πού σου λέει η πυραμίδα να ξεκινάς κάθε μπλοκ;"
+        },
+        "options": [
+          {
+            "en": "With the easiest people to talk to",
+            "el": "Από τους πιο εύκολους στην κουβέντα"
+          },
+          {
+            "en": "With the best qualified prospects most likely to buy now",
+            "el": "Από τους πιο κατάλληλους πιθανούς πελάτες που μάλλον αγοράζουν τώρα"
+          },
+          {
+            "en": "In alphabetical order",
+            "el": "Με αλφαβητική σειρά"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Your freshest energy should go to the prospects with the highest chance.",
+          "el": "Η πιο φρέσκια ενέργειά σου πρέπει να πηγαίνει στους πιθανούς πελάτες με τις μεγαλύτερες πιθανότητες."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Buying windows",
+        "el": "Τα παράθυρα αγοράς"
+      },
+      "explain": {
+        "en": "Most prospects are not ready to buy today. Each one has a buying window, a period when he is open to change: a contract ends, a problem hurts, a new partner arrives. You cannot predict it well, so you stay in regular, polite contact. When the window opens, the seller who is already known and nearby gets the call.",
+        "el": "Οι περισσότεροι πιθανοί πελάτες δεν είναι έτοιμοι να αγοράσουν σήμερα. Ο καθένας έχει ένα παράθυρο αγοράς, ένα διάστημα που είναι ανοιχτός σε αλλαγή: λήγει ένα συμβόλαιο, πονάει ένα πρόβλημα, έρχεται νέος συνεργάτης. Δεν μπορείς να το προβλέψεις καλά, γι' αυτό μένεις σε τακτική, ευγενική επαφή. Όταν ανοίξει το παράθυρο, το τηλέφωνο το παίρνει ο πωλητής που είναι ήδη γνωστός και κοντά."
+      },
+      "example": {
+        "en": "Many dental practices send patients a reminder for a check-up every six months. Most of the time the patient has no pain and ignores it. But the month a tooth starts to hurt, the practice that kept in touch is the one the patient calls, not a random name online.",
+        "el": "Πολλά οδοντιατρεία στέλνουν στους ασθενείς υπενθύμιση για έλεγχο κάθε έξι μήνες. Τις περισσότερες φορές ο ασθενής δεν πονάει και την αγνοεί. Όμως τον μήνα που αρχίζει να πονάει ένα δόντι, παίρνει τηλέφωνο το ιατρείο που κράτησε επαφή μαζί του, όχι ένα τυχαίο όνομα από το ίντερνετ."
+      },
+      "apply": {
+        "en": "When a doctor says «not now, maybe next year», ask: «When would be a good time to talk again?» Set that date in the CRM. Between calls, add value lightly: a short message when you launch a site for a colleague in his specialty. Stop at once if he asks.",
+        "el": "Όταν ένας γιατρός λέει «όχι τώρα, ίσως του χρόνου», ρώτα: «Πότε θα ήταν καλή στιγμή να ξαναμιλήσουμε;». Βάλε αυτή την ημερομηνία στο CRM. Ανάμεσα στις κλήσεις, πρόσφερε αξία διακριτικά: ένα σύντομο μήνυμα όταν βγάζεις σελίδα για συνάδελφο της ειδικότητάς του. Σταμάτα αμέσως αν σου το ζητήσει."
+      },
+      "check": {
+        "q": {
+          "en": "Why keep in touch with prospects who said «not now»?",
+          "el": "Γιατί να κρατάς επαφή με όσους είπαν «όχι τώρα»;"
+        },
+        "options": [
+          {
+            "en": "To pressure them until they give in",
+            "el": "Για να τους πιέζεις μέχρι να υποχωρήσουν"
+          },
+          {
+            "en": "Because the law requires it",
+            "el": "Επειδή το απαιτεί ο νόμος"
+          },
+          {
+            "en": "So you are known and near when their buying window opens",
+            "el": "Για να είσαι γνωστός και κοντά όταν ανοίξει το παράθυρο αγοράς τους"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Readiness changes over time; regular, polite contact puts you first in line.",
+          "el": "Η ετοιμότητα αλλάζει με τον χρόνο. Η τακτική, ευγενική επαφή σε βάζει πρώτο στη σειρά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Know what you are asking for",
+        "el": "Ξέρε τι ζητάς"
+      },
+      "explain": {
+        "en": "Every prospecting touch needs one clear objective, decided before you dial. Blount names the main ones: set an appointment, gather information to qualify the prospect, or, in simple sales, close the sale right away. Callers without a clear goal ramble, pitch everything and hang up without asking for anything. Know the one thing you want, and ask for it.",
+        "el": "Κάθε επαφή χρειάζεται έναν καθαρό στόχο, αποφασισμένο πριν πατήσεις κλήση. Ο Μπλάουντ ονομάζει τους βασικούς: να κλείσεις ραντεβού, να μαζέψεις πληροφορίες για να δεις αν ο πελάτης ταιριάζει ή, σε απλές πωλήσεις, να κλείσεις την πώληση επιτόπου. Όποιος καλεί χωρίς καθαρό στόχο φλυαρεί, τα λέει όλα και κλείνει χωρίς να ζητήσει τίποτα. Ξέρε το ένα πράγμα που θέλεις και ζήτα το."
+      },
+      "example": {
+        "en": "Blount describes salespeople who have a pleasant chat, explain their product in detail, and end with «so, let me know if you ever need anything». The prospect liked the call, nothing was agreed, and the seller counts it as a good call. In his view it was a wasted one.",
+        "el": "Ο Μπλάουντ περιγράφει πωλητές που κάνουν μια ευχάριστη κουβέντα, εξηγούν λεπτομερώς το προϊόν τους και κλείνουν με «λοιπόν, ό,τι χρειαστείτε, εδώ είμαι». Ο πιθανός πελάτης χάρηκε, τίποτα δεν συμφωνήθηκε, και ο πωλητής το μετρά ως καλό τηλεφώνημα. Για τον Μπλάουντ ήταν χαμένο."
+      },
+      "apply": {
+        "en": "Before each block, write the objective at the top of your list. For cold doctors: a 10-minute video meeting with day and time. For warm leads from ads: a yes to the first draft and his photos sent today. For unknown practices: just the decision maker's name and best hour.",
+        "el": "Πριν από κάθε μπλοκ, γράψε τον στόχο στην κορυφή της λίστας. Για γιατρούς που δεν σε ξέρουν: βιντεοκλήση 10 λεπτών με μέρα και ώρα. Για ζεστές επαφές από διαφημίσεις: ένα «ναι» στο πρώτο σχέδιο και τις φωτογραφίες του σταλμένες σήμερα. Για ιατρεία που δεν ξέρεις: μόνο το όνομα αυτού που αποφασίζει και την καλύτερη ώρα."
+      },
+      "check": {
+        "q": {
+          "en": "What should you decide before each prospecting call?",
+          "el": "Τι πρέπει να αποφασίσεις πριν από κάθε κλήση;"
+        },
+        "options": [
+          {
+            "en": "The one clear thing you will ask for",
+            "el": "Το ένα καθαρό πράγμα που θα ζητήσεις"
+          },
+          {
+            "en": "All the features you will explain",
+            "el": "Όλα τα χαρακτηριστικά που θα εξηγήσεις"
+          },
+          {
+            "en": "How long you will chat before the pitch",
+            "el": "Πόση ώρα θα κουβεντιάσεις πριν την παρουσίαση"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "A clear objective keeps the call short and makes sure you actually ask.",
+          "el": "Ο καθαρός στόχος κρατά την κλήση σύντομη και εξασφαλίζει ότι θα ζητήσεις όντως κάτι."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The five-step phone call",
+        "el": "Το τηλεφώνημα σε πέντε βήματα"
+      },
+      "explain": {
+        "en": "Blount's telephone framework is short and fixed. One: get attention by saying the person's name. Two: identify yourself and your company. Three: say why you are calling, for example to set a meeting. Four: give a «because», a short reason that matters to him. Five: ask for what you want, then stop talking and let him answer.",
+        "el": "Το πλαίσιο του Μπλάουντ για το τηλέφωνο είναι σύντομο και σταθερό. Ένα: τραβάς την προσοχή λέγοντας το όνομα του ανθρώπου. Δύο: λες ποιος είσαι και από ποια εταιρεία. Τρία: λες γιατί καλείς, για παράδειγμα για να κλείσετε ραντεβού. Τέσσερα: δίνεις ένα «γιατί», έναν σύντομο λόγο που μετράει γι' αυτόν. Πέντε: ζητάς αυτό που θέλεις, και μετά σωπαίνεις και τον αφήνεις να απαντήσει."
+      },
+      "example": {
+        "en": "A call built on the framework sounds like this: «Hi Maria? This is Tasos from a payroll company. The reason I'm calling is to set a short meeting, because we've helped several clinics like yours cut the time they spend on payroll. How about Thursday at two?» Then silence.",
+        "el": "Ένα τηλεφώνημα πάνω στο πλαίσιο ακούγεται κάπως έτσι: «Η κυρία Μαρία; Είμαι ο Τάσος από μια εταιρεία μισθοδοσίας. Σας παίρνω για να κλείσουμε μια σύντομη συνάντηση, γιατί έχουμε βοηθήσει αρκετές κλινικές σαν τη δική σας να κερδίσουν χρόνο στη μισθοδοσία. Σας βολεύει Πέμπτη στις δύο;». Και μετά σιωπή."
+      },
+      "apply": {
+        "en": "Learn this by heart: «Good morning, Dr [surname]? I'm calling from Advon Media; we build websites for practices. I'd like to set a 10-minute video call, because we've built sites for many of your colleagues and I want to show you how yours could look. Thursday at three or Friday at eleven?» Then wait.",
+        "el": "Μάθε το απ' έξω: «Καλημέρα σας, ο γιατρός κ. [επώνυμο]; Σας καλώ από την Advon Media, φτιάχνουμε ιστοσελίδες για ιατρεία. Θα ήθελα να κλείσουμε μια βιντεοκλήση δέκα λεπτών, γιατί έχουμε φτιάξει σελίδες για πολλούς συναδέλφους σας και θέλω να σας δείξω πώς θα μπορούσε να είναι και η δική σας. Σας βολεύει Πέμπτη στις τρεις ή Παρασκευή στις έντεκα;». Και περίμενε."
+      },
+      "check": {
+        "q": {
+          "en": "What comes right after you ask for what you want?",
+          "el": "Τι ακολουθεί αμέσως αφού ζητήσεις αυτό που θέλεις;"
+        },
+        "options": [
+          {
+            "en": "You explain your product in more detail",
+            "el": "Εξηγείς πιο αναλυτικά το προϊόν σου"
+          },
+          {
+            "en": "You stop talking and let him answer",
+            "el": "Σωπαίνεις και τον αφήνεις να απαντήσει"
+          },
+          {
+            "en": "You ask a second time to be sure",
+            "el": "Ρωτάς ξανά για σιγουριά"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Silence gives the prospect space to say yes; talking over it lets him escape.",
+          "el": "Η σιωπή δίνει στον άλλον χώρο να πει ναι. Αν μιλάς από πάνω, του δίνεις διέξοδο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Reflexes, brush-offs, objections",
+        "el": "Αντανακλαστικά, ξεφορτώματα, αντιρρήσεις"
+      },
+      "explain": {
+        "en": "Blount names three kinds of early resistance. Reflex responses are automatic: «not interested» said before thinking. Brush-offs are polite ways to end the call: «send me an email». Real objections are actual concerns: «I already have a site I like». The first two are not real decisions, so do not argue with them or take them personally; prepare short answers in advance.",
+        "el": "Ο Μπλάουντ ονομάζει τρία είδη αρχικής αντίστασης. Τα αντανακλαστικά είναι αυτόματα: «δεν ενδιαφέρομαι», ειπωμένο πριν καν σκεφτεί. Τα ξεφορτώματα είναι ευγενικοί τρόποι να κλείσει η κλήση: «στείλτε μου ένα email». Οι πραγματικές αντιρρήσεις είναι αληθινές ανησυχίες: «έχω ήδη σελίδα που μου αρέσει». Τα δύο πρώτα δεν είναι πραγματικές αποφάσεις, γι' αυτό μην τα αντικρούεις και μην τα παίρνεις προσωπικά. Ετοίμασε σύντομες απαντήσεις από πριν."
+      },
+      "example": {
+        "en": "Anyone who has worked in a shop knows it. A salesperson walks up and the customer says «just looking» before hearing a single word. It is a reflex, not a decision: the same customer may buy ten minutes later if left in peace and then helped at the right moment.",
+        "el": "Όποιος έχει δουλέψει σε μαγαζί το ξέρει. Πλησιάζει ο πωλητής και ο πελάτης λέει «απλώς κοιτάζω» πριν ακούσει έστω μία λέξη. Είναι αντανακλαστικό, όχι απόφαση: ο ίδιος πελάτης μπορεί να αγοράσει δέκα λεπτά μετά, αν τον αφήσεις ήσυχο και τον βοηθήσεις τη σωστή στιγμή."
+      },
+      "apply": {
+        "en": "For one week, log every early «no» in three columns: reflex, brush-off, real objection. You will probably find most are the first two. Write one calm answer for your top three. Real objections, like «I already have a site», deserve a real question: «What do you like about it?»",
+        "el": "Για μία εβδομάδα γράψε κάθε πρώιμο «όχι» σε τρεις στήλες: αντανακλαστικό, ξεφόρτωμα, πραγματική αντίρρηση. Μάλλον θα δεις ότι τα περισσότερα είναι στις δύο πρώτες. Γράψε μία ήρεμη απάντηση για τα τρία πιο συχνά. Οι πραγματικές αντιρρήσεις, όπως «έχω ήδη σελίδα», θέλουν πραγματική ερώτηση: «Τι σας αρέσει σε αυτήν;»."
+      },
+      "check": {
+        "q": {
+          "en": "«Just send me an email» at the start of a call is usually...",
+          "el": "Το «στείλτε μου ένα email» στην αρχή της κλήσης είναι συνήθως..."
+        },
+        "options": [
+          {
+            "en": "A real objection about price",
+            "el": "Πραγματική αντίρρηση για την τιμή"
+          },
+          {
+            "en": "A firm decision never to buy",
+            "el": "Οριστική απόφαση να μην αγοράσει ποτέ"
+          },
+          {
+            "en": "A brush-off, a polite way to end the call",
+            "el": "Ξεφόρτωμα, ένας ευγενικός τρόπος να κλείσει η κλήση"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "It is not a considered decision, so a short, calm turnaround can keep the conversation alive.",
+          "el": "Δεν είναι σκεφτή απόφαση, άρα μια σύντομη, ήρεμη απάντηση μπορεί να κρατήσει την κουβέντα ζωντανή."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Ledge, disrupt, ask",
+        "el": "Αποδοχή, ανατροπή, ερώτηση"
+      },
+      "explain": {
+        "en": "Blount's turnaround has three parts. Ledge: a short, relaxed acknowledgement that lowers tension, such as «that's fine» or «many people tell me that». Disrupt: a sentence that breaks the expected script and gives a reason to keep listening. Ask: ask again for what you want, right away. Script and practise your turnarounds so they come out calm, not defensive.",
+        "el": "Η απάντηση του Μπλάουντ σε μια αρχική άρνηση έχει τρία μέρη. Αποδοχή: μια σύντομη, χαλαρή αναγνώριση που ρίχνει την ένταση, όπως «εντάξει, λογικό» ή «πολλοί μου το λένε αυτό». Ανατροπή: μια φράση που σπάει το αναμενόμενο σενάριο και δίνει λόγο να συνεχίσει να ακούει. Ερώτηση: ζητάς ξανά αυτό που θέλεις, αμέσως. Γράψε και εξασκήσου στις απαντήσεις σου, ώστε να βγαίνουν ήρεμα, όχι αμυντικά."
+      },
+      "example": {
+        "en": "A typical turnaround in Blount's style: the prospect says «We're happy with our current supplier». The seller: «That's great; most of my clients were happy before they met me too. I'm not asking you to change anything, just to compare. Would Tuesday at ten work?»",
+        "el": "Μια τυπική απάντηση στο ύφος του Μπλάουντ: ο πιθανός πελάτης λέει «Είμαστε ευχαριστημένοι με τον προμηθευτή μας». Ο πωλητής: «Πολύ ωραία. Και οι περισσότεροι πελάτες μου ήταν ευχαριστημένοι πριν με γνωρίσουν. Δεν σας ζητάω να αλλάξετε τίποτα, μόνο να συγκρίνετε. Σας βολεύει Τρίτη στις δέκα;»."
+      },
+      "apply": {
+        "en": "Doctor: «Not interested.» You: «I understand, many of your colleagues said the same before they saw it. That's why I'm not asking you to decide anything, only to see a colleague's site for ten minutes. Thursday at three?» One turnaround only; if he says no again, thank him and end politely.",
+        "el": "Γιατρός: «Δεν ενδιαφέρομαι». Εσύ: «Το καταλαβαίνω, πολλοί συνάδελφοί σας μου είπαν το ίδιο πριν το δουν. Γι' αυτό δεν σας ζητάω να αποφασίσετε κάτι, μόνο να δείτε σε δέκα λεπτά τη σελίδα ενός συναδέλφου σας. Πέμπτη στις τρεις;». Μία προσπάθεια μόνο. Αν ξαναπεί όχι, ευχαρίστησέ τον και κλείσε ευγενικά."
+      },
+      "check": {
+        "q": {
+          "en": "What is the job of the «ledge» in a turnaround?",
+          "el": "Ποια είναι η δουλειά της «αποδοχής» σε μια τέτοια απάντηση;"
+        },
+        "options": [
+          {
+            "en": "To lower tension with a calm acknowledgement",
+            "el": "Να ρίξει την ένταση με μια ήρεμη αναγνώριση"
+          },
+          {
+            "en": "To prove the prospect wrong",
+            "el": "Να αποδείξει ότι ο άλλος κάνει λάθος"
+          },
+          {
+            "en": "To end the call quickly",
+            "el": "Να κλείσει γρήγορα η κλήση"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "A relaxed acknowledgement avoids a fight and lets you move to the disrupt and the ask.",
+          "el": "Μια χαλαρή αναγνώριση αποφεύγει τη σύγκρουση και σε αφήνει να περάσεις στην ανατροπή και στην ερώτηση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Respect the gatekeeper",
+        "el": "Σεβάσου τη γραμματεία"
+      },
+      "explain": {
+        "en": "Many decision makers are protected by an assistant or receptionist. Blount warns against trying to trick or bulldoze them. Treat them as people with influence: be polite, give your real name and reason, learn their name, and ask for their help, such as the best time to reach the boss. A gatekeeper who likes you opens the door; one you annoyed closes it for good.",
+        "el": "Πολλοί από αυτούς που αποφασίζουν προστατεύονται από βοηθό ή γραμματεία. Ο Μπλάουντ προειδοποιεί να μην προσπαθείς να τους ξεγελάσεις ή να τους παρακάμψεις με το ζόρι. Φέρσου τους ως ανθρώπους με επιρροή: ευγένεια, το πραγματικό σου όνομα και ο λόγος της κλήσης, μάθε το όνομά τους και ζήτα τη βοήθειά τους, για παράδειγμα ποια είναι η καλύτερη ώρα για τον γιατρό. Μια γραμματέας που σε συμπαθεί ανοίγει την πόρτα. Μια που την ενόχλησες την κλείνει για πάντα."
+      },
+      "example": {
+        "en": "In many busy medical practices, the assistant decides which calls reach the doctor during clinic hours, reads the post and filters salespeople. Anyone who has called a practice knows the difference: one friendly assistant says «call at two, he's free then»; another just takes a message that is never returned.",
+        "el": "Σε πολλά πολυάσχολα ιατρεία, η βοηθός αποφασίζει ποιες κλήσεις φτάνουν στον γιατρό την ώρα των ραντεβού, ανοίγει την αλληλογραφία και φιλτράρει τους πωλητές. Όποιος έχει πάρει τηλέφωνο σε ιατρείο ξέρει τη διαφορά: μια φιλική βοηθός λέει «πάρτε στις δύο, τότε είναι ελεύθερος». Μια άλλη απλώς κρατά ένα μήνυμα που δεν απαντιέται ποτέ."
+      },
+      "apply": {
+        "en": "When the assistant answers, say: «Good morning, I'm calling from Advon Media about the practice's website. Could you tell me when is a good time to speak briefly with the doctor?» Write her name in the CRM and use it next time: «Good morning, Mrs [name], it's me again from Advon Media.»",
+        "el": "Όταν σηκώνει η βοηθός, πες: «Καλημέρα σας, σας καλώ από την Advon Media για την ιστοσελίδα του ιατρείου. Θα μπορούσατε να μου πείτε ποια ώρα είναι καλή για να μιλήσω σύντομα με τον γιατρό;». Γράψε το όνομά της στο CRM και χρησιμοποίησέ το την επόμενη φορά: «Καλημέρα σας, κυρία [όνομα], πάλι εγώ από την Advon Media»."
+      },
+      "check": {
+        "q": {
+          "en": "How does Blount say to handle gatekeepers?",
+          "el": "Πώς λέει ο Μπλάουντ να χειρίζεσαι τη γραμματεία;"
+        },
+        "options": [
+          {
+            "en": "Pretend to be a friend of the boss",
+            "el": "Να παριστάνεις τον φίλο του γιατρού"
+          },
+          {
+            "en": "Call when they are on lunch break",
+            "el": "Να καλείς όταν έχουν διάλειμμα για φαγητό"
+          },
+          {
+            "en": "Be honest and polite, and ask for their help",
+            "el": "Να είσαι ειλικρινής και ευγενικός και να ζητάς τη βοήθειά τους"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Gatekeepers have real influence; respect and honesty turn them into allies.",
+          "el": "Η γραμματεία έχει πραγματική επιρροή. Ο σεβασμός και η ειλικρίνεια την κάνουν σύμμαχο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Short emails: hook, relate, bridge, ask",
+        "el": "Σύντομα email: γάντζος, σύνδεση, γέφυρα, ερώτηση"
+      },
+      "explain": {
+        "en": "For prospecting emails Blount gives four parts. Hook: a subject and first line that make the person open and read. Relate: show you understand his situation. Bridge: link his situation to what you offer. Ask: one clear, easy request. Keep it short, plain and about him, not about you; no long company story and no attachments full of features.",
+        "el": "Για τα email αναζήτησης πελατών ο Μπλάουντ δίνει τέσσερα μέρη. Γάντζος: θέμα και πρώτη γραμμή που κάνουν τον άλλον να ανοίξει και να διαβάσει. Σύνδεση: δείχνεις ότι καταλαβαίνεις την κατάστασή του. Γέφυρα: δένεις την κατάστασή του με αυτό που προσφέρεις. Ερώτηση: ένα καθαρό, εύκολο αίτημα. Κράτα το σύντομο, απλό και για εκείνον, όχι για σένα. Χωρίς μακριά ιστορία της εταιρείας και χωρίς συνημμένα γεμάτα χαρακτηριστικά."
+      },
+      "example": {
+        "en": "In 2016 the email company Boomerang analysed more than 40 million emails and found that messages of about 50 to 125 words got the highest reply rates. Longer emails did worse. Short and clear tends to beat long and complete.",
+        "el": "Το 2016 η εταιρεία email Boomerang ανέλυσε πάνω από 40 εκατομμύρια μηνύματα και βρήκε ότι τα email με περίπου 50 έως 125 λέξεις έπαιρναν τις περισσότερες απαντήσεις. Τα μεγαλύτερα πήγαιναν χειρότερα. Το σύντομο και καθαρό συνήθως νικά το μακρύ και πλήρες."
+      },
+      "apply": {
+        "en": "Write one email under 100 words. Subject: «Your practice on Google». Body: «I noticed many patients search for a [specialty] in [area] online (relate). We have built sites for colleagues of yours, with no build cost (bridge). Would 10 minutes on Thursday work to show you one? (ask)»",
+        "el": "Γράψε ένα email κάτω από 100 λέξεις. Θέμα: «Το ιατρείο σας στο Google». Κείμενο: «Πολλοί ασθενείς ψάχνουν [ειδικότητα] στην περιοχή [περιοχή] μέσα από το ίντερνετ (σύνδεση). Έχουμε φτιάξει σελίδες για συναδέλφους σας, χωρίς κόστος κατασκευής (γέφυρα). Θα σας βόλευαν δέκα λεπτά την Πέμπτη να σας δείξω μία; (ερώτηση)»."
+      },
+      "check": {
+        "q": {
+          "en": "What makes a good prospecting email, according to Blount?",
+          "el": "Τι κάνει καλό ένα email αναζήτησης πελατών κατά τον Μπλάουντ;"
+        },
+        "options": [
+          {
+            "en": "Short, about the buyer, with one clear ask",
+            "el": "Σύντομο, για τον αγοραστή, με ένα καθαρό αίτημα"
+          },
+          {
+            "en": "A full company history to build trust",
+            "el": "Όλη η ιστορία της εταιρείας για να χτίσει εμπιστοσύνη"
+          },
+          {
+            "en": "Several attachments with all the features",
+            "el": "Πολλά συνημμένα με όλα τα χαρακτηριστικά"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Hook, relate, bridge, ask: brief, focused on him, ending with one easy request.",
+          "el": "Γάντζος, σύνδεση, γέφυρα, ερώτηση: σύντομο, εστιασμένο σε εκείνον, με ένα εύκολο αίτημα στο τέλος."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Rejection and mental toughness",
+        "el": "Απόρριψη και ψυχική αντοχή"
+      },
+      "explain": {
+        "en": "Blount is honest that rejection hurts: we are wired to want acceptance, so every «no» stings. The fear of it is the real reason people avoid prospecting. His answer is mental toughness: expect rejection as part of the job, keep your body and mind in shape with sleep, exercise and positive self-talk, and judge yourself on your activity, not on any single answer.",
+        "el": "Ο Μπλάουντ παραδέχεται ειλικρινά ότι η απόρριψη πονάει: είμαστε φτιαγμένοι να θέλουμε αποδοχή, άρα κάθε «όχι» τσιμπάει. Ο φόβος της είναι ο πραγματικός λόγος που ο κόσμος αποφεύγει την αναζήτηση πελατών. Η απάντησή του είναι η ψυχική αντοχή: περίμενε την απόρριψη ως κομμάτι της δουλειάς, κράτα σώμα και μυαλό σε φόρμα με ύπνο, άσκηση και θετικό εσωτερικό διάλογο, και κρίνε τον εαυτό σου από τη δουλειά που έκανες, όχι από μία απάντηση."
+      },
+      "example": {
+        "en": "In 2012 Jia Jiang, afraid of rejection after an investor turned him down, began «100 Days of Rejection»: asking strangers for odd things on purpose. One request, Olympic-ring doughnuts at Krispy Kreme, was actually fulfilled. He found «no» lost its power, and told the story in a popular TED talk.",
+        "el": "Το 2012 ο Τζία Τζιάνγκ, που φοβόταν την απόρριψη μετά από το «όχι» ενός επενδυτή, ξεκίνησε τις «100 μέρες απόρριψης»: ζητούσε επίτηδες περίεργα πράγματα από αγνώστους. Ένα αίτημα, ντόνατς σε σχήμα ολυμπιακών κύκλων στα Krispy Kreme, έγινε στ' αλήθεια δεκτό. Ανακάλυψε ότι το «όχι» έχασε τη δύναμή του, και το αφηγήθηκε σε μια δημοφιλή ομιλία TED."
+      },
+      "apply": {
+        "en": "Change the scoreboard: celebrate finishing your 40 dials, not only the yeses. After a harsh call, stand up, take three slow breaths and dial the next number within one minute. Keep a short list of happy clients' messages and read one when the morning is heavy.",
+        "el": "Άλλαξε τον πίνακα του σκορ: γιόρτασε ότι τελείωσες τις 40 κλήσεις, όχι μόνο τα «ναι». Μετά από ένα απότομο τηλεφώνημα, σήκω όρθιος, πάρε τρεις αργές ανάσες και κάνε την επόμενη κλήση μέσα σε ένα λεπτό. Κράτα μια μικρή λίστα με μηνύματα ικανοποιημένων πελατών και διάβασε ένα όταν το πρωινό βαραίνει."
+      },
+      "check": {
+        "q": {
+          "en": "What does Blount say is the real reason people avoid prospecting?",
+          "el": "Ποιος λέει ο Μπλάουντ ότι είναι ο πραγματικός λόγος που ο κόσμος αποφεύγει την αναζήτηση πελατών;"
+        },
+        "options": [
+          {
+            "en": "Lack of good lead lists",
+            "el": "Η έλλειψη καλών λιστών"
+          },
+          {
+            "en": "Fear of rejection",
+            "el": "Ο φόβος της απόρριψης"
+          },
+          {
+            "en": "Not enough training on products",
+            "el": "Η ανεπαρκής εκπαίδευση στα προϊόντα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Rejection hurts, so people find excuses; mental toughness is the antidote.",
+          "el": "Η απόρριψη πονάει, οπότε ο κόσμος βρίσκει δικαιολογίες. Το αντίδοτο είναι η ψυχική αντοχή."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Beat the three Ps",
+        "el": "Νίκησε τα τρία «Π»"
+      },
+      "explain": {
+        "en": "Blount names three things that stop people from prospecting: procrastination (putting it off), perfectionism (waiting for the perfect script or list) and paralysis from analysis (researching each prospect for too long). All three feel like work but are ways to avoid the phone. The cure is to start: a good-enough call made now beats a perfect one made never.",
+        "el": "Ο Μπλάουντ ονομάζει τρία πράγματα που σταματούν τον κόσμο από την αναζήτηση πελατών: την αναβλητικότητα, την τελειομανία (περιμένεις το τέλειο σενάριο ή την τέλεια λίστα) και την παράλυση από υπερανάλυση (ψάχνεις κάθε πελάτη για πάρα πολλή ώρα). Και τα τρία μοιάζουν με δουλειά, αλλά είναι τρόποι να αποφύγεις το τηλέφωνο. Η θεραπεία είναι να ξεκινήσεις: ένα αρκετά καλό τηλεφώνημα τώρα νικά ένα τέλειο που δεν γίνεται ποτέ."
+      },
+      "example": {
+        "en": "In the 18th century Voltaire wrote a line, borrowed from an Italian proverb, that is still quoted: «The best is the enemy of the good.» Waiting for the perfect version of something often means the good version never happens at all.",
+        "el": "Τον 18ο αιώνα ο Βολταίρος έγραψε μια φράση, δανεισμένη από μια ιταλική παροιμία, που λέγεται ακόμη: «Το άριστο είναι εχθρός του καλού». Όταν περιμένεις την τέλεια εκδοχή ενός πράγματος, συχνά η καλή εκδοχή δεν γίνεται ποτέ."
+      },
+      "apply": {
+        "en": "Limit research to about one minute per doctor: specialty, area, site or no site. Start your block on time even if the list or script is not perfect; improve them on Friday, not during the block. If you notice yourself tidying the CRM at 10:00, close it and dial.",
+        "el": "Περιόρισε την έρευνα σε περίπου ένα λεπτό ανά γιατρό: ειδικότητα, περιοχή, έχει σελίδα ή όχι. Ξεκίνα το μπλοκ στην ώρα του, ακόμη κι αν η λίστα ή το σενάριο δεν είναι τέλεια. Βελτίωσέ τα την Παρασκευή, όχι μέσα στο μπλοκ. Αν πιάσεις τον εαυτό σου να τακτοποιεί το CRM στις 10:00, κλείσ' το και κάνε κλήση."
+      },
+      "check": {
+        "q": {
+          "en": "Why are the three Ps dangerous?",
+          "el": "Γιατί είναι επικίνδυνα τα τρία «Π»;"
+        },
+        "options": [
+          {
+            "en": "They make your calls too aggressive",
+            "el": "Κάνουν τις κλήσεις σου πολύ επιθετικές"
+          },
+          {
+            "en": "They cost money in software",
+            "el": "Κοστίζουν σε λογισμικό"
+          },
+          {
+            "en": "They feel like work but help you avoid the phone",
+            "el": "Μοιάζουν με δουλειά αλλά σε βοηθούν να αποφεύγεις το τηλέφωνο"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Delay, polishing and over-research are disguised avoidance; starting is the cure.",
+          "el": "Η αναβολή, το γυάλισμα και η υπερβολική έρευνα είναι μεταμφιεσμένη αποφυγή. Η θεραπεία είναι να ξεκινήσεις."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "You just signed five clients in one week and have lots of building to do. What happens to your calling blocks?",
+        "el": "Μόλις υπέγραψες πέντε πελάτες σε μία εβδομάδα και έχεις πολλή κατασκευή. Τι γίνεται με τα μπλοκ κλήσεων;"
+      },
+      "options": [
+        {
+          "en": "Pause them for a month to focus on building",
+          "el": "Τα σταματάς για έναν μήνα για να εστιάσεις στην κατασκευή"
+        },
+        {
+          "en": "Keep them, and schedule the building around them",
+          "el": "Τα κρατάς και βάζεις την κατασκευή γύρω από αυτά"
+        },
+        {
+          "en": "Do them only when you feel like it",
+          "el": "Τα κάνεις μόνο όταν έχεις διάθεση"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "The 30-day rule: stopping now creates a slump in three months.",
+        "el": "Ο κανόνας των 30 ημερών: αν σταματήσεις τώρα, φτιάχνεις κάμψη σε τρεις μήνες."
+      },
+      "idea": 2
+    },
+    {
+      "q": {
+        "en": "A doctor answers: «Send me an email.» What do you say?",
+        "el": "Ένας γιατρός απαντά: «Στείλτε μου ένα email». Τι λες;"
+      },
+      "options": [
+        {
+          "en": "«Of course. So I send the right thing, could we look at it together for ten minutes on Thursday?»",
+          "el": "«Βεβαίως. Για να σας στείλω το σωστό, θα μπορούσαμε να το δούμε μαζί δέκα λεπτά την Πέμπτη;»"
+        },
+        {
+          "en": "«Fine» and send a long PDF with all your features",
+          "el": "«Εντάξει» και στέλνεις ένα μακρύ PDF με όλα τα χαρακτηριστικά"
+        },
+        {
+          "en": "Explain the whole offer before he hangs up",
+          "el": "Εξηγείς όλη την προσφορά πριν κλείσει"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "It is a brush-off; a calm ledge, disrupt and ask keeps the door open.",
+        "el": "Είναι ξεφόρτωμα. Μια ήρεμη αποδοχή, ανατροπή και ερώτηση κρατά την πόρτα ανοιχτή."
+      },
+      "idea": 14
+    },
+    {
+      "q": {
+        "en": "A psychologist says firmly: «Please don't call me again.» What do you do?",
+        "el": "Μια ψυχολόγος λέει σταθερά: «Σας παρακαλώ, μη με ξαναπάρετε». Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Try one more turnaround, she may change her mind",
+          "el": "Δοκιμάζεις μία ακόμη απάντηση, μπορεί να αλλάξει γνώμη"
+        },
+        {
+          "en": "Call again in three months when her window may open",
+          "el": "Ξαναπαίρνεις σε τρεις μήνες, μήπως ανοίξει το παράθυρό της"
+        },
+        {
+          "en": "Apologise, thank her, and mark «do not call» in the CRM at once",
+          "el": "Ζητάς συγγνώμη, την ευχαριστείς και σημειώνεις αμέσως «να μην ξανακληθεί» στο CRM"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "A clear request not to be called ends the conversation for good; respect it and record it.",
+        "el": "Ένα καθαρό αίτημα να μην την ξανακαλέσεις κλείνει την επαφή οριστικά. Το σέβεσαι και το καταγράφεις."
+      },
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "You spend the first hour of your calling block reading every doctor's reviews and old posts. What is going on?",
+        "el": "Περνάς την πρώτη ώρα του μπλοκ κλήσεων διαβάζοντας τις κριτικές και τις παλιές αναρτήσεις κάθε γιατρού. Τι συμβαίνει;"
+      },
+      "options": [
+        {
+          "en": "Good preparation that will raise your results",
+          "el": "Καλή προετοιμασία που θα ανεβάσει τα αποτελέσματα"
+        },
+        {
+          "en": "Paralysis from analysis, a disguised way to avoid calling",
+          "el": "Παράλυση από υπερανάλυση, μεταμφιεσμένος τρόπος να αποφύγεις τις κλήσεις"
+        },
+        {
+          "en": "The normal start of any calling block",
+          "el": "Το φυσιολογικό ξεκίνημα κάθε μπλοκ κλήσεων"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Research belongs outside golden hours and should take about a minute per prospect.",
+        "el": "Η έρευνα ανήκει έξω από τις χρυσές ώρες και πρέπει να παίρνει περίπου ένα λεπτό ανά πελάτη."
+      },
+      "idea": 18
+    },
+    {
+      "q": {
+        "en": "You want 10 new clients next month. You know one sale takes about 60 dials. How do you plan?",
+        "el": "Θέλεις 10 νέους πελάτες τον επόμενο μήνα. Ξέρεις ότι μία πώληση θέλει περίπου 60 κλήσεις. Πώς σχεδιάζεις;"
+      },
+      "options": [
+        {
+          "en": "About 600 dials, roughly 30 per working day, in fixed blocks",
+          "el": "Περίπου 600 κλήσεις, δηλαδή γύρω στις 30 κάθε εργάσιμη, σε σταθερά μπλοκ"
+        },
+        {
+          "en": "Call whenever you have free time and hope",
+          "el": "Τηλεφωνείς όποτε βρεις χρόνο και ελπίζεις"
+        },
+        {
+          "en": "Double your ad budget and stop calling",
+          "el": "Διπλασιάζεις τη διαφήμιση και σταματάς τις κλήσεις"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Your ratios turn the goal into a clear daily number of calls.",
+        "el": "Οι αναλογίες σου κάνουν τον στόχο έναν καθαρό ημερήσιο αριθμό κλήσεων."
+      },
+      "idea": 8
+    },
+    {
+      "q": {
+        "en": "After six refusals in a row, you feel low and want to stop for the day. What helps most?",
+        "el": "Μετά από έξι αρνήσεις στη σειρά, νιώθεις πεσμένος και θέλεις να σταματήσεις για σήμερα. Τι βοηθά περισσότερο;"
+      },
+      "options": [
+        {
+          "en": "Stop and try again when you feel better",
+          "el": "Σταματάς και ξαναδοκιμάζεις όταν νιώσεις καλύτερα"
+        },
+        {
+          "en": "Rewrite your script from scratch right now",
+          "el": "Ξαναγράφεις το σενάριο από την αρχή τώρα"
+        },
+        {
+          "en": "Breathe, remember you judge activity not answers, and dial the next number",
+          "el": "Παίρνεις ανάσες, θυμάσαι ότι μετράς τη δουλειά και όχι τις απαντήσεις, και κάνεις την επόμενη κλήση"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Mental toughness means expecting rejection and keeping the activity going.",
+        "el": "Ψυχική αντοχή σημαίνει να περιμένεις την απόρριψη και να συνεχίζεις τη δουλειά."
+      },
+      "idea": 17
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "Blount says the main reason salespeople fail is an empty pipeline.",
+        "el": "Ο Μπλάουντ λέει ότι ο βασικός λόγος που αποτυγχάνουν οι πωλητές είναι το άδειο pipeline."
+      },
+      "answer": true,
+      "why": {
+        "en": "Without enough prospects, nothing else matters.",
+        "el": "Χωρίς αρκετούς πιθανούς πελάτες, τίποτα άλλο δεν μετράει."
+      }
+    },
+    {
+      "s": {
+        "en": "The 30-day rule says prospecting pays off within the same week.",
+        "el": "Ο κανόνας των 30 ημερών λέει ότι η αναζήτηση αποδίδει μέσα στην ίδια εβδομάδα."
+      },
+      "answer": false,
+      "why": {
+        "en": "This month's prospecting pays off over the next 90 days.",
+        "el": "Η αναζήτηση αυτού του μήνα αποδίδει μέσα στις επόμενες 90 μέρες."
+      }
+    },
+    {
+      "s": {
+        "en": "The more desperately you need a sale, the less likely you are to get it.",
+        "el": "Όσο πιο απελπισμένα χρειάζεσαι μια πώληση, τόσο λιγότερο πιθανό είναι να την κάνεις."
+      },
+      "answer": true,
+      "why": {
+        "en": "That is the universal law of need; buyers sense desperation.",
+        "el": "Αυτός είναι ο νόμος της ανάγκης: ο αγοραστής νιώθει την απελπισία."
+      }
+    },
+    {
+      "s": {
+        "en": "Blount says email and social media should replace the phone.",
+        "el": "Ο Μπλάουντ λέει ότι το email και τα social media πρέπει να αντικαταστήσουν το τηλέφωνο."
+      },
+      "answer": false,
+      "why": {
+        "en": "He wants a balanced mix with the phone at the centre.",
+        "el": "Θέλει ισορροπημένο συνδυασμό με το τηλέφωνο στο κέντρο."
+      }
+    },
+    {
+      "s": {
+        "en": "A reflex «not interested» is usually not a real decision.",
+        "el": "Ένα αντανακλαστικό «δεν ενδιαφέρομαι» συνήθως δεν είναι πραγματική απόφαση."
+      },
+      "answer": true,
+      "why": {
+        "en": "It is said automatically, before the person has thought about it.",
+        "el": "Λέγεται αυτόματα, πριν ο άνθρωπος το σκεφτεί."
+      }
+    },
+    {
+      "s": {
+        "en": "The golden hours are the best time to do research and admin.",
+        "el": "Οι χρυσές ώρες είναι η καλύτερη στιγμή για έρευνα και διαδικαστικά."
+      },
+      "answer": false,
+      "why": {
+        "en": "They are for reaching buyers; research and admin go elsewhere.",
+        "el": "Είναι για να φτάνεις στους αγοραστές. Η έρευνα και τα διαδικαστικά πάνε σε άλλες ώρες."
+      }
+    },
+    {
+      "s": {
+        "en": "In the five-step call, you stop talking after you ask.",
+        "el": "Στο τηλεφώνημα των πέντε βημάτων, σωπαίνεις αφού κάνεις το αίτημα."
+      },
+      "answer": true,
+      "why": {
+        "en": "Silence gives the prospect space to answer.",
+        "el": "Η σιωπή δίνει στον άλλον χώρο να απαντήσει."
+      }
+    },
+    {
+      "s": {
+        "en": "Blount advises tricking gatekeepers to reach the boss.",
+        "el": "Ο Μπλάουντ συμβουλεύει να ξεγελάς τη γραμματεία για να φτάσεις στο αφεντικό."
+      },
+      "answer": false,
+      "why": {
+        "en": "He advises honesty and respect; gatekeepers can be allies.",
+        "el": "Συμβουλεύει ειλικρίνεια και σεβασμό: η γραμματεία μπορεί να γίνει σύμμαχος."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "30-day rule",
+        "el": "Κανόνας 30 ημερών"
+      },
+      "b": {
+        "en": "Today's prospecting pays off over 90 days",
+        "el": "Η σημερινή αναζήτηση αποδίδει μέσα σε 90 μέρες"
+      }
+    },
+    {
+      "a": {
+        "en": "Law of need",
+        "el": "Νόμος της ανάγκης"
+      },
+      "b": {
+        "en": "Desperation makes the sale less likely",
+        "el": "Η απελπισία κάνει την πώληση λιγότερο πιθανή"
+      }
+    },
+    {
+      "a": {
+        "en": "Golden hours",
+        "el": "Χρυσές ώρες"
+      },
+      "b": {
+        "en": "Time when buyers are reachable",
+        "el": "Ο χρόνος που οι αγοραστές είναι διαθέσιμοι"
+      }
+    },
+    {
+      "a": {
+        "en": "Brush-off",
+        "el": "Ξεφόρτωμα"
+      },
+      "b": {
+        "en": "A polite way to end the call",
+        "el": "Ευγενικός τρόπος να κλείσει η κλήση"
+      }
+    },
+    {
+      "a": {
+        "en": "Buying window",
+        "el": "Παράθυρο αγοράς"
+      },
+      "b": {
+        "en": "Period when a prospect is open to change",
+        "el": "Διάστημα που ο πελάτης είναι ανοιχτός σε αλλαγή"
+      }
+    },
+    {
+      "a": {
+        "en": "Ledge, disrupt, ask",
+        "el": "Αποδοχή, ανατροπή, ερώτηση"
+      },
+      "b": {
+        "en": "Three steps to turn around early resistance",
+        "el": "Τρία βήματα για να γυρίσεις μια αρχική άρνηση"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Block two one-hour calling slots in your calendar for every working day next week.",
+      "el": "Κλείσε στο ημερολόγιο δύο μπλοκ κλήσεων μίας ώρας για κάθε εργάσιμη της επόμενης εβδομάδας."
+    },
+    {
+      "en": "Write and say aloud ten times your five-step call opening in Greek.",
+      "el": "Γράψε και πες δυνατά δέκα φορές το άνοιγμα του τηλεφωνήματος σε πέντε βήματα, στα ελληνικά."
+    },
+    {
+      "en": "Add five counters to your CRM and fill them in for this week's calls.",
+      "el": "Πρόσθεσε πέντε μετρητές στο CRM και συμπλήρωσέ τους για τα τηλεφωνήματα αυτής της εβδομάδας."
+    },
+    {
+      "en": "Write a ledge, disrupt and ask answer for «not interested» and «send me an email».",
+      "el": "Γράψε μια απάντηση με αποδοχή, ανατροπή και ερώτηση για το «δεν ενδιαφέρομαι» και το «στείλτε μου ένα email»."
+    },
+    {
+      "en": "Check that every «do not call» request is marked in your CRM and removed from all lists.",
+      "el": "Έλεγξε ότι κάθε αίτημα «να μη με ξαναπάρετε» είναι σημειωμένο στο CRM και έχει βγει από όλες τις λίστες."
+    }
+  ],
+  "mantra": {
+    "en": "One more call. Every day. A no is not about me.",
+    "el": "Μία κλήση ακόμη. Κάθε μέρα. Το «όχι» δεν αφορά εμένα."
+  },
+  "careful": {
+    "en": "Blount's tone is macho and numbers-heavy; pushed too hard it means burnout and treating people as dials. Pushing past a clear «no» becomes harassment. Always respect anyone who asks not to be called again, at once and for good. In Greece, check that numbers are not on the phone companies' do-not-call lists, and under GDPR keep only the data you need and delete it on request. Ask a lawyer when unsure.",
+    "el": "Ο τόνος του Μπλάουντ είναι σκληροτράχηλος και γεμάτος αριθμούς. Αν το παρακάνεις, φέρνει εξουθένωση και σε κάνει να βλέπεις τους ανθρώπους ως κλήσεις. Η επιμονή μετά από ένα καθαρό «όχι» γίνεται παρενόχληση. Σεβάσου πάντα όποιον ζητά να μην τον ξανακαλέσεις, αμέσως και οριστικά. Στην Ελλάδα έλεγξε ότι οι αριθμοί δεν είναι στα μητρώα των παρόχων για όσους δεν θέλουν διαφημιστικές κλήσεις, και με τον GDPR κράτα μόνο τα στοιχεία που χρειάζεσαι και σβήσ' τα όταν σου ζητηθεί. Αν έχεις αμφιβολία, ρώτα δικηγόρο."
+  },
+  "connects": [
+    {
+      "book": "no-excuses",
+      "note": {
+        "en": "Tracy's self-discipline is the engine behind Blount's daily calling blocks.",
+        "el": "Η αυτοπειθαρχία του Τρέισι είναι η μηχανή πίσω από τα καθημερινά μπλοκ κλήσεων του Μπλάουντ."
+      }
+    },
+    {
+      "book": "spin-selling",
+      "note": {
+        "en": "Blount gets you the meeting; Rackham shows how to ask questions once you are in it.",
+        "el": "Ο Μπλάουντ σού φέρνει το ραντεβού. Ο Ράκαμ δείχνει πώς να ρωτάς όταν βρεθείς σε αυτό."
+      }
+    },
+    {
+      "book": "100m-offers",
+      "note": {
+        "en": "Calls work far better when the offer behind them is one people feel foolish refusing.",
+        "el": "Τα τηλεφωνήματα πιάνουν πολύ καλύτερα όταν η προσφορά πίσω τους είναι τέτοια που ο άλλος νιώθει ανόητος να την αρνηθεί."
+      }
+    }
+  ]
+}

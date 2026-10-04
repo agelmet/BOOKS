@@ -1,0 +1,1210 @@
+{
+  "id": "made-in-america",
+  "title": {
+    "en": "Sam Walton: Made in America",
+    "el": "Sam Walton: Made in America, η ιστορία μου"
+  },
+  "author": "Sam Walton with John Huey",
+  "authorEl": "Σαμ Γουόλτον με τον Τζον Χιούι",
+  "year": 1992,
+  "shelf": "founders",
+  "skills": {
+    "leadership": 3,
+    "strategy": 3,
+    "sales": 2
+  },
+  "oneLine": {
+    "en": "A small-town shopkeeper builds the biggest retailer in the world by keeping prices low, costs lower, people motivated, and always copying the best idea he can find.",
+    "el": "Ένας μαγαζάτορας από μικρή πόλη χτίζει τη μεγαλύτερη αλυσίδα λιανικής στον κόσμο με χαμηλές τιμές, ακόμη χαμηλότερα έξοδα, ανθρώπους με κίνητρο και αντιγράφοντας πάντα την καλύτερη ιδέα που βρίσκει."
+  },
+  "story": {
+    "en": "Sam Walton opened his first Walmart in 1962, at 44, in a small town in Arkansas. Thirty years later it was the biggest retailer in America. He told this story with the journalist John Huey in his last months, while he was ill with cancer, and died in April 1992. It is warm, funny and very practical, and founders like Jeff Bezos have said it shaped how they built their companies.",
+    "el": "Ο Σαμ Γουόλτον άνοιξε το πρώτο Walmart το 1962, στα 44 του, σε μια μικρή πόλη του Άρκανσο. Τριάντα χρόνια μετά ήταν η μεγαλύτερη αλυσίδα λιανικής της Αμερικής. Είπε αυτή την ιστορία μαζί με τον δημοσιογράφο Τζον Χιούι τους τελευταίους μήνες της ζωής του, άρρωστος με καρκίνο, και πέθανε τον Απρίλιο του 1992. Είναι ζεστό, αστείο και πολύ πρακτικό βιβλίο, και ιδρυτές όπως ο Τζεφ Μπέζος λένε ότι τους διαμόρφωσε."
+  },
+  "forYou": {
+    "en": "Walton did with shops what you do with websites: a simple, cheap offer, sold in small places the big players ignore, at huge volume. He shows how to keep costs tiny, copy good ideas without shame, treat your people as partners and make every customer feel welcome. Read it as a manual for growing Advon from a one-man shop into a real team.",
+    "el": "Ο Γουόλτον έκανε με τα μαγαζιά ό,τι κάνεις εσύ με τις ιστοσελίδες: μια απλή, φθηνή προσφορά, σε μέρη που οι μεγάλοι αγνοούν, σε τεράστιο όγκο. Σου δείχνει πώς κρατάς τα έξοδα μικρά, πώς αντιγράφεις καλές ιδέες χωρίς ντροπή, πώς κάνεις τους ανθρώπους σου συνεταίρους και πώς κάθε πελάτης νιώθει ευπρόσδεκτος. Διάβασέ το σαν οδηγό για να γίνει η Advon από μαγαζί ενός ανθρώπου πραγματική ομάδα."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "A competitor from childhood",
+        "el": "Ανταγωνιστικός από παιδί"
+      },
+      "explain": {
+        "en": "Walton grew up poor during the Great Depression in Missouri. He milked the family cow, sold magazines and delivered newspapers to earn money, and kept doing it through college. He says he simply always wanted to win and to do everything as well as he could. That habit of hard work and high goals, built early, is the base of everything else in the book.",
+        "el": "Ο Γουόλτον μεγάλωσε φτωχός στο Μιζούρι, την εποχή της Μεγάλης Ύφεσης. Άρμεγε την αγελάδα της οικογένειας, πουλούσε περιοδικά και μοίραζε εφημερίδες για να βγάζει χρήματα, και συνέχισε έτσι και στο πανεπιστήμιο. Λέει ότι απλώς ήθελε πάντα να κερδίζει και να κάνει τα πάντα όσο καλύτερα μπορούσε. Αυτή η συνήθεια της σκληρής δουλειάς και των υψηλών στόχων είναι η βάση όλου του βιβλίου."
+      },
+      "example": {
+        "en": "At 13 he became the youngest Eagle Scout in Missouri at that time. In high school he was quarterback of a team that won the state football championship. In college he paid his own way with a newspaper route that he grew into a small business.",
+        "el": "Στα 13 του έγινε ο νεότερος Eagle Scout, ο ανώτερος βαθμός προσκόπου, στο Μιζούρι μέχρι τότε. Στο λύκειο ήταν κουότερμπακ σε ομάδα που πήρε το πρωτάθλημα της πολιτείας. Στο πανεπιστήμιο πλήρωνε μόνος τα έξοδά του με διανομή εφημερίδων, που την έκανε μικρή επιχείρηση."
+      },
+      "apply": {
+        "en": "Set a clear daily score you want to beat, for example 40 cold calls or 3 booked video meetings. Write it on a sheet next to your laptop and tick it as you go. Competing with yesterday's number keeps your energy high on boring days.",
+        "el": "Βάλε ένα καθαρό ημερήσιο σκορ που θέλεις να ξεπεράσεις, για παράδειγμα 40 cold calls ή 3 κλεισμένες βιντεοκλήσεις. Γράψ' το σε ένα χαρτί δίπλα στο laptop και τσέκαρέ το όσο προχωράς. Ο ανταγωνισμός με τον χθεσινό σου αριθμό κρατά την ενέργειά σου ψηλά τις βαρετές μέρες."
+      },
+      "check": {
+        "q": {
+          "en": "What does Walton say drove him from childhood?",
+          "el": "Τι λέει ο Γουόλτον ότι τον κινούσε από παιδί;"
+        },
+        "options": [
+          {
+            "en": "A rich family that pushed him into business",
+            "el": "Μια πλούσια οικογένεια που τον έσπρωξε στις επιχειρήσεις"
+          },
+          {
+            "en": "A strong wish to win and do things well",
+            "el": "Μια δυνατή επιθυμία να κερδίζει και να κάνει τα πράγματα καλά"
+          },
+          {
+            "en": "A plan to become the richest man in America",
+            "el": "Ένα σχέδιο να γίνει ο πλουσιότερος άνθρωπος της Αμερικής"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "He grew up poor; what he had was drive and the habit of doing every job as well as he could.",
+          "el": "Μεγάλωσε φτωχός· αυτό που είχε ήταν φιλοδοξία και τη συνήθεια να κάνει κάθε δουλειά όσο καλύτερα μπορούσε."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Learn the trade on someone else's dime",
+        "el": "Μάθε τη δουλειά στο μαγαζί άλλου"
+      },
+      "explain": {
+        "en": "Walton did not start with a big idea. He started by learning. After college he worked as a trainee at a J.C. Penney store, and later ran a Ben Franklin variety store, a franchise with fixed rules and suppliers. These years taught him the basics of retail: how to buy, display, price and sell. Only then did he start to break the rules.",
+        "el": "Ο Γουόλτον δεν ξεκίνησε με μια μεγάλη ιδέα. Ξεκίνησε μαθαίνοντας. Μετά το πανεπιστήμιο δούλεψε ως εκπαιδευόμενος σε κατάστημα J.C. Penney και αργότερα έτρεξε ένα κατάστημα Ben Franklin, μια franchise με σταθερούς κανόνες και προμηθευτές. Εκεί έμαθε τα βασικά της λιανικής: πώς αγοράζεις, πώς εκθέτεις, πώς τιμολογείς και πώς πουλάς. Μόνο μετά άρχισε να σπάει τους κανόνες."
+      },
+      "example": {
+        "en": "In 1940 he joined J.C. Penney in Des Moines, Iowa, for 75 dollars a month. His handwriting was so bad that a manager said he would fire him if he were not such a good salesman. In 1945 he bought his own Ben Franklin store in Newport, Arkansas.",
+        "el": "Το 1940 μπήκε στην J.C. Penney στο Ντε Μόιν της Αϊόβα, με 75 δολάρια τον μήνα. Ο γραφικός του χαρακτήρας ήταν τόσο κακός, που ένας προϊστάμενος του είπε ότι θα τον απέλυε αν δεν ήταν τόσο καλός πωλητής. Το 1945 αγόρασε δικό του κατάστημα Ben Franklin στο Νιούπορτ του Άρκανσο."
+      },
+      "apply": {
+        "en": "Before you hire for a new role, do it yourself for two weeks: handle the client chat, chase payments, edit the reels. Write down every step you repeat. That list becomes the training guide for the person you hire later.",
+        "el": "Πριν προσλάβεις κάποιον για νέο ρόλο, κάνε τη δουλειά ο ίδιος για δύο εβδομάδες: το chat των πελατών, το κυνήγι των πληρωμών, το μοντάζ στα reels. Γράψε κάθε βήμα που επαναλαμβάνεις. Αυτή η λίστα γίνεται ο οδηγός εκπαίδευσης για όποιον προσλάβεις μετά."
+      },
+      "check": {
+        "q": {
+          "en": "What did Walton do before he started breaking retail rules?",
+          "el": "Τι έκανε ο Γουόλτον πριν αρχίσει να σπάει τους κανόνες της λιανικής;"
+        },
+        "options": [
+          {
+            "en": "He learned the basics inside other people's systems",
+            "el": "Έμαθε τα βασικά μέσα σε συστήματα άλλων"
+          },
+          {
+            "en": "He studied retail theory at a top business school",
+            "el": "Σπούδασε θεωρία λιανικής σε κορυφαία σχολή"
+          },
+          {
+            "en": "He raised money from big investors in New York",
+            "el": "Μάζεψε χρήματα από μεγάλους επενδυτές στη Νέα Υόρκη"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "J.C. Penney and the Ben Franklin franchise were his school; he mastered the basics first.",
+          "el": "Η J.C. Penney και η franchise Ben Franklin ήταν το σχολείο του· κατέκτησε πρώτα τα βασικά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Sell cheaper, sell more",
+        "el": "Πούλα φθηνότερα, πούλα περισσότερα"
+      },
+      "explain": {
+        "en": "This is the lesson that built Walmart. If you buy something cheaply and pass the saving on to the customer, you earn less on each item, but you sell so many more that your total profit is bigger. Walton calls it the whole philosophy of discounting. Low price is not charity; it is a way to grow volume.",
+        "el": "Αυτό είναι το μάθημα που έχτισε το Walmart. Αν αγοράσεις κάτι φθηνά και περάσεις την έκπτωση στον πελάτη, κερδίζεις λιγότερα σε κάθε τεμάχιο, αλλά πουλάς τόσα περισσότερα που το συνολικό κέρδος μεγαλώνει. Ο Γουόλτον το λέει όλη τη φιλοσοφία της έκπτωσης. Η χαμηλή τιμή δεν είναι φιλανθρωπία· είναι τρόπος να μεγαλώσεις τον όγκο."
+      },
+      "example": {
+        "en": "In Newport he found a New York supplier selling women's underwear at 2 dollars a dozen instead of the 2.50 he usually paid. He sold them four pairs for a dollar instead of three. Sales jumped so much that he made more money overall than at the higher price.",
+        "el": "Στο Νιούπορτ βρήκε έναν προμηθευτή από τη Νέα Υόρκη που πουλούσε γυναικεία εσώρουχα 2 δολάρια τη δωδεκάδα αντί για τα 2,50 που πλήρωνε συνήθως. Τα πούλησε τέσσερα με ένα δολάριο αντί για τρία. Οι πωλήσεις εκτοξεύτηκαν και τελικά έβγαλε περισσότερα χρήματα από ό,τι με την ψηλότερη τιμή."
+      },
+      "apply": {
+        "en": "This is your 0€ build offer. Keep the price of entry low and measure total yearly hosting income, not profit per site. Each month, check how many new sites the low entry brought in, and how many renewals they create year after year.",
+        "el": "Αυτή είναι η προσφορά σου με κατασκευή 0€. Κράτα χαμηλή την τιμή εισόδου και μέτρα το συνολικό ετήσιο έσοδο από φιλοξενία, όχι το κέρδος ανά σελίδα. Κάθε μήνα δες πόσες νέες ιστοσελίδες έφερε η χαμηλή είσοδος και πόσες ανανεώσεις φέρνουν χρόνο με τον χρόνο."
+      },
+      "check": {
+        "q": {
+          "en": "Why did lowering the price make Walton more money?",
+          "el": "Γιατί η χαμηλότερη τιμή έφερε στον Γουόλτον περισσότερα χρήματα;"
+        },
+        "options": [
+          {
+            "en": "Customers paid extra for faster service",
+            "el": "Οι πελάτες πλήρωναν επιπλέον για γρηγορότερη εξυπηρέτηση"
+          },
+          {
+            "en": "The supplier paid him a bonus for each sale",
+            "el": "Ο προμηθευτής του έδινε μπόνους για κάθε πώληση"
+          },
+          {
+            "en": "Volume grew so much that total profit rose",
+            "el": "Ο όγκος μεγάλωσε τόσο που ανέβηκε το συνολικό κέρδος"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Smaller profit per item times many more items gave a bigger total.",
+          "el": "Μικρότερο κέρδος ανά τεμάχιο επί πολύ περισσότερα τεμάχια έδωσε μεγαλύτερο σύνολο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Read the lease",
+        "el": "Διάβασε το συμβόλαιο"
+      },
+      "explain": {
+        "en": "In five years Walton turned his Newport store into the best Ben Franklin in a six-state region. Then he lost it. His lease had no clause letting him renew it, and the landlord took the shop. He calls it the low point of his business life. The lesson: protect the base your business stands on, and when you fall, get up fast and use what you learned.",
+        "el": "Σε πέντε χρόνια ο Γουόλτον έκανε το κατάστημα του Νιούπορτ το καλύτερο Ben Franklin σε μια περιοχή έξι πολιτειών. Μετά το έχασε. Το μισθωτήριο δεν είχε όρο ανανέωσης και ο ιδιοκτήτης πήρε το μαγαζί. Το λέει το χαμηλότερο σημείο της επαγγελματικής του ζωής. Το μάθημα: προστάτευσε τη βάση πάνω στην οποία στέκεται η επιχείρησή σου, και όταν πέφτεις, σήκω γρήγορα και χρησιμοποίησε ό,τι έμαθες."
+      },
+      "example": {
+        "en": "The landlord saw how well the store was doing and wanted it for his own son, so he refused to renew. Walton had to sell the franchise and leave town. In 1950 he started again in tiny Bentonville, Arkansas, and that store is now the Walmart Museum.",
+        "el": "Ο ιδιοκτήτης είδε πόσο καλά πήγαινε το μαγαζί και το ήθελε για τον γιο του, οπότε αρνήθηκε την ανανέωση. Ο Γουόλτον αναγκάστηκε να πουλήσει τη franchise και να φύγει. Το 1950 ξεκίνησε ξανά στο μικροσκοπικό Μπεντονβίλ του Άρκανσο, και εκείνο το μαγαζί είναι σήμερα το Μουσείο του Walmart."
+      },
+      "apply": {
+        "en": "List the things your agency could lose overnight: your GitHub account, hosting access, the domain registrar login, your Meta ad account. Make sure each is in your own name, with two-factor login and a backup. Spend one hour on this this week.",
+        "el": "Γράψε τι θα μπορούσε να χάσει η επιχείρησή σου μέσα σε μια νύχτα: τον λογαριασμό GitHub, την πρόσβαση στη φιλοξενία, τον λογαριασμό στον καταχωρητή domain, τον διαφημιστικό λογαριασμό στη Meta. Βεβαιώσου ότι όλα είναι στο όνομά σου, με διπλό έλεγχο σύνδεσης και αντίγραφο. Δώσε μία ώρα σε αυτό αυτή την εβδομάδα."
+      },
+      "check": {
+        "q": {
+          "en": "Why did Walton lose his successful first store?",
+          "el": "Γιατί ο Γουόλτον έχασε το πετυχημένο πρώτο του κατάστημα;"
+        },
+        "options": [
+          {
+            "en": "His lease had no right to renew it",
+            "el": "Το μισθωτήριο δεν του έδινε δικαίωμα ανανέωσης"
+          },
+          {
+            "en": "His sales fell after a new competitor came",
+            "el": "Οι πωλήσεις έπεσαν όταν ήρθε νέος ανταγωνιστής"
+          },
+          {
+            "en": "He sold it to fund the first Walmart",
+            "el": "Το πούλησε για να χρηματοδοτήσει το πρώτο Walmart"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "A missing clause in the contract let the landlord take the shop when it became valuable.",
+          "el": "Ένας όρος που έλειπε από το συμβόλαιο επέτρεψε στον ιδιοκτήτη να πάρει το μαγαζί όταν απέκτησε αξία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Borrow every good idea",
+        "el": "Δανείσου κάθε καλή ιδέα"
+      },
+      "explain": {
+        "en": "Walton admits that most of what he did, he copied from somebody else. He did not need to invent; he needed to notice what worked, anywhere, and bring it home faster than others. He saw no shame in this. The skill is to keep your eyes open, go and see things for yourself, and try them at once.",
+        "el": "Ο Γουόλτον παραδέχεται ότι τα περισσότερα που έκανε τα αντέγραψε από κάποιον άλλον. Δεν χρειαζόταν να εφεύρει· χρειαζόταν να προσέχει τι δουλεύει, οπουδήποτε, και να το φέρνει στο μαγαζί του πιο γρήγορα από τους άλλους. Δεν το θεωρούσε ντροπή. Η ικανότητα είναι να έχεις τα μάτια ανοιχτά, να πηγαίνεις να δεις μόνος σου και να το δοκιμάζεις αμέσως."
+      },
+      "example": {
+        "en": "He read that two Ben Franklin stores in Minnesota had gone self-service, with customers picking goods themselves. He took an overnight bus to see them, then made his Bentonville store self-service. Later he said he borrowed more ideas from Sol Price, founder of Price Club, than from anyone.",
+        "el": "Διάβασε ότι δύο καταστήματα Ben Franklin στη Μινεσότα είχαν γίνει αυτοεξυπηρέτησης, με τους πελάτες να παίρνουν μόνοι τους τα προϊόντα. Πήρε νυχτερινό λεωφορείο για να τα δει και μετά έκανε το ίδιο στο Μπεντονβίλ. Αργότερα είπε ότι δανείστηκε περισσότερες ιδέες από τον Σολ Πράις, ιδρυτή του Price Club, από οποιονδήποτε άλλον."
+      },
+      "apply": {
+        "en": "Every Friday, spend 20 minutes on the sites and ads of three agencies you respect, in Greece or abroad. Save one idea you can use, for example a better contact form or a reel format, and test it on your next build or ad.",
+        "el": "Κάθε Παρασκευή, δώσε 20 λεπτά στις ιστοσελίδες και στις διαφημίσεις τριών γραφείων που εκτιμάς, στην Ελλάδα ή στο εξωτερικό. Κράτα μία ιδέα που μπορείς να χρησιμοποιήσεις, για παράδειγμα μια καλύτερη φόρμα επικοινωνίας ή ένα format για reel, και δοκίμασέ τη στην επόμενη σελίδα ή διαφήμιση."
+      },
+      "check": {
+        "q": {
+          "en": "How did Walton see copying good ideas?",
+          "el": "Πώς έβλεπε ο Γουόλτον την αντιγραφή καλών ιδεών;"
+        },
+        "options": [
+          {
+            "en": "As something to hide from his managers",
+            "el": "Ως κάτι που έκρυβε από τους διευθυντές του"
+          },
+          {
+            "en": "As a last resort when he ran out of ideas",
+            "el": "Ως τελευταία λύση όταν του τελείωναν οι ιδέες"
+          },
+          {
+            "en": "As a normal, central part of how he grew",
+            "el": "Ως φυσικό, κεντρικό κομμάτι του πώς μεγάλωσε"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "He openly said most of his ideas were borrowed; speed of adopting them was his edge.",
+          "el": "Έλεγε ανοιχτά ότι οι περισσότερες ιδέες του ήταν δανεικές· το πλεονέκτημά του ήταν η ταχύτητα που τις υιοθετούσε."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Walk the competitor's store",
+        "el": "Περπάτα στο μαγαζί του ανταγωνιστή"
+      },
+      "explain": {
+        "en": "Walton spent a huge amount of time inside other people's stores, above all his rivals'. He did not go to criticise them. He went to find the one thing they did better than him. He talked to their clerks, wrote notes, and asked how things worked. A competitor, for him, was a free teacher.",
+        "el": "Ο Γουόλτον περνούσε πάρα πολύ χρόνο μέσα σε μαγαζιά άλλων, κυρίως των ανταγωνιστών του. Δεν πήγαινε για να τα κατακρίνει. Πήγαινε για να βρει το ένα πράγμα που έκαναν καλύτερα από εκείνον. Μιλούσε με τους υπαλλήλους, κρατούσε σημειώσεις και ρωτούσε πώς δουλεύουν τα πράγματα. Ο ανταγωνιστής, για εκείνον, ήταν δωρεάν δάσκαλος."
+      },
+      "example": {
+        "en": "Walton said he had probably been in more Kmart stores than anyone else. Kmart was then much bigger and better known, and he studied its layout, prices and systems again and again, then went back to Bentonville and improved his own stores.",
+        "el": "Ο Γουόλτον έλεγε ότι μάλλον είχε μπει σε περισσότερα Kmart από οποιονδήποτε άλλον. Το Kmart ήταν τότε πολύ μεγαλύτερο και γνωστότερο, και εκείνος μελετούσε ξανά και ξανά τη διάταξη, τις τιμές και τα συστήματά του, και μετά γύριζε στο Μπεντονβίλ και βελτίωνε τα δικά του."
+      },
+      "apply": {
+        "en": "Pick the agency that wins the most dentists in your area. Look at their sites, their Google reviews and their offer as if you were a client. Write down one thing they do better than you and fix it in your own process within a week.",
+        "el": "Διάλεξε το γραφείο που κερδίζει τους περισσότερους οδοντιάτρους στην περιοχή σου. Κοίτα τις σελίδες τους, τις κριτικές τους στο Google και την προσφορά τους σαν να ήσουν πελάτης. Γράψε ένα πράγμα που κάνουν καλύτερα από σένα και διόρθωσέ το στη δική σου διαδικασία μέσα σε μια εβδομάδα."
+      },
+      "check": {
+        "q": {
+          "en": "What was Walton looking for in a rival's store?",
+          "el": "Τι έψαχνε ο Γουόλτον στο μαγαζί ενός αντιπάλου;"
+        },
+        "options": [
+          {
+            "en": "Mistakes he could mock in his meetings",
+            "el": "Λάθη για να τα κοροϊδεύει στις συναντήσεις του"
+          },
+          {
+            "en": "The thing they did better than he did",
+            "el": "Αυτό που έκαναν καλύτερα από εκείνον"
+          },
+          {
+            "en": "Staff he could hire away from them",
+            "el": "Υπαλλήλους που θα μπορούσε να τους κλέψει"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "He treated competitors as teachers and looked for what to learn, not what to laugh at.",
+          "el": "Έβλεπε τους ανταγωνιστές ως δασκάλους και έψαχνε τι να μάθει, όχι τι να κοροϊδέψει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Commit and bet on yourself",
+        "el": "Δέσμευσου και πόνταρε στον εαυτό σου"
+      },
+      "explain": {
+        "en": "Rule 1 of his ten rules: commit to your business and believe in it more than anybody else. When Walton wanted to open big discount stores, the people he worked with did not believe in the idea. He went ahead anyway, with his own money and borrowed money. He says passion is contagious: if you love your work, your people will catch it.",
+        "el": "Κανόνας 1 από τους δέκα του: δέσμευσου στην επιχείρησή σου και πίστεψε σε αυτήν περισσότερο από οποιονδήποτε άλλον. Όταν ο Γουόλτον θέλησε να ανοίξει μεγάλα καταστήματα εκπτώσεων, οι συνεργάτες του δεν πίστευαν στην ιδέα. Προχώρησε παρ' όλα αυτά, με δικά του και δανεικά χρήματα. Λέει ότι το πάθος είναι μεταδοτικό: αν αγαπάς τη δουλειά σου, θα το νιώσουν και οι άνθρωποί σου."
+      },
+      "example": {
+        "en": "Walton pitched discounting to the Ben Franklin executives in Chicago and they turned him down. In 1962, at 44, he opened the first Walmart in Rogers, Arkansas, putting up most of the money himself and taking on heavy debt.",
+        "el": "Ο Γουόλτον παρουσίασε την ιδέα των εκπτώσεων στα στελέχη της Ben Franklin στο Σικάγο και εκείνοι αρνήθηκαν. Το 1962, στα 44 του, άνοιξε το πρώτο Walmart στο Ρότζερς του Άρκανσο, βάζοντας ο ίδιος τα περισσότερα χρήματα και φορτώνοντας μεγάλο χρέος."
+      },
+      "apply": {
+        "en": "Write one sentence on why your 0€ build model is right for Greek professionals, and read it before your first call each morning. When a colleague or friend doubts it, ask for their facts, not their fear, and decide on numbers.",
+        "el": "Γράψε μία πρόταση για το γιατί το μοντέλο της κατασκευής με 0€ ταιριάζει στους Έλληνες επαγγελματίες, και διάβαζέ τη πριν από το πρώτο τηλεφώνημα κάθε πρωί. Όταν κάποιος φίλος ή συνεργάτης το αμφισβητεί, ζήτα του στοιχεία, όχι φόβους, και αποφάσισε με αριθμούς."
+      },
+      "check": {
+        "q": {
+          "en": "How did Walton react when Ben Franklin rejected his discount idea?",
+          "el": "Πώς αντέδρασε ο Γουόλτον όταν η Ben Franklin απέρριψε την ιδέα του;"
+        },
+        "options": [
+          {
+            "en": "He dropped it and stayed a franchise owner",
+            "el": "Την εγκατέλειψε και έμεινε ιδιοκτήτης franchise"
+          },
+          {
+            "en": "He waited ten years for a better moment",
+            "el": "Περίμενε δέκα χρόνια για καλύτερη στιγμή"
+          },
+          {
+            "en": "He opened Walmart himself, risking his own money",
+            "el": "Άνοιξε μόνος του το Walmart, ρισκάροντας δικά του χρήματα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Rule 1: believe in your business more than anyone, and act on it.",
+          "el": "Κανόνας 1: πίστεψε στην επιχείρησή σου περισσότερο από όλους, και πράξε ανάλογα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Swim upstream: small towns",
+        "el": "Κολύμπα αντίθετα: μικρές πόλεις"
+      },
+      "explain": {
+        "en": "Rule 10: swim upstream, go the other way, ignore conventional wisdom. Experts said a big discount store could only survive in a big city. Walton did the opposite and put large stores in small towns that the big chains ignored. There was no competition, and people there were happy to have low prices close to home.",
+        "el": "Κανόνας 10: κολύμπα αντίθετα στο ρεύμα, πήγαινε από την άλλη μεριά, αγνόησε αυτό που «όλοι ξέρουν». Οι ειδικοί έλεγαν ότι ένα μεγάλο κατάστημα εκπτώσεων ζει μόνο σε μεγάλη πόλη. Ο Γουόλτον έκανε το αντίθετο και έβαλε μεγάλα μαγαζιά σε μικρές πόλεις που οι μεγάλες αλυσίδες αγνοούσαν. Δεν υπήρχε ανταγωνισμός, και ο κόσμος χαιρόταν να έχει χαμηλές τιμές κοντά στο σπίτι του."
+      },
+      "example": {
+        "en": "Kmart, the giant of the time, opened mostly in cities of 50,000 people or more. Walmart went to towns of a few thousand in Arkansas, Missouri and Oklahoma. By the time rivals noticed, Walmart already owned those markets.",
+        "el": "Το Kmart, ο γίγαντας της εποχής, άνοιγε κυρίως σε πόλεις άνω των 50.000 κατοίκων. Το Walmart πήγε σε κωμοπόλεις λίγων χιλιάδων στο Άρκανσο, στο Μιζούρι και στην Οκλαχόμα. Μέχρι να το προσέξουν οι αντίπαλοι, το Walmart είχε ήδη κατακτήσει αυτές τις αγορές."
+      },
+      "apply": {
+        "en": "Target the towns and niches big agencies skip: physiotherapists in Larissa, dentists in Chalkida, psychologists in island towns. Build a cold-call list for one such area this week and run a Meta ad aimed only at it.",
+        "el": "Στόχευσε τις πόλεις και τις ειδικότητες που τα μεγάλα γραφεία προσπερνούν: φυσικοθεραπευτές στη Λάρισα, οδοντιάτρους στη Χαλκίδα, ψυχολόγους σε νησιά. Φτιάξε λίστα για cold calls σε μία τέτοια περιοχή αυτή την εβδομάδα και τρέξε μια διαφήμιση Meta μόνο για αυτήν."
+      },
+      "check": {
+        "q": {
+          "en": "Why did Walmart do well in small towns?",
+          "el": "Γιατί το Walmart πήγε καλά στις μικρές πόλεις;"
+        },
+        "options": [
+          {
+            "en": "Big chains ignored them, so there was little competition",
+            "el": "Οι μεγάλες αλυσίδες τις αγνοούσαν, άρα ο ανταγωνισμός ήταν λίγος"
+          },
+          {
+            "en": "Rents were free there for new stores",
+            "el": "Τα ενοίκια εκεί ήταν δωρεάν για νέα μαγαζιά"
+          },
+          {
+            "en": "The government paid stores to open there",
+            "el": "Το κράτος πλήρωνε τα μαγαζιά να ανοίξουν εκεί"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Going where others thought it was pointless left Walmart alone in a good market.",
+          "el": "Πηγαίνοντας εκεί που οι άλλοι το θεωρούσαν μάταιο, το Walmart έμεινε μόνο του σε καλή αγορά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Fill in the map",
+        "el": "Γέμισε τον χάρτη"
+      },
+      "explain": {
+        "en": "Walton did not jump around the country. He built a warehouse, then placed stores all around it, each within a day's drive, until the area was full. Only then did he move outward. This saturation made deliveries cheap and fast and made Walmart a familiar name in each region. Growth in tight circles beats scattered growth.",
+        "el": "Ο Γουόλτον δεν πηδούσε από άκρη σε άκρη της χώρας. Έχτιζε μια αποθήκη και μετά έβαζε καταστήματα γύρω της, το καθένα σε απόσταση μίας μέρας οδήγησης, μέχρι να γεμίσει η περιοχή. Μόνο τότε προχωρούσε πιο έξω. Αυτό το «γέμισμα» έκανε τις παραδόσεις φθηνές και γρήγορες και έκανε το Walmart γνωστό όνομα σε κάθε περιοχή. Η ανάπτυξη σε σφιχτούς κύκλους νικά την ανάπτυξη σκόρπια."
+      },
+      "example": {
+        "en": "To choose sites, Walton bought a used small airplane and flew low over towns, studying roads and how the towns were growing. He picked spots from the air, then filled each region around a distribution center before moving on.",
+        "el": "Για να διαλέγει σημεία, ο Γουόλτον αγόρασε ένα μεταχειρισμένο μικρό αεροπλάνο και πετούσε χαμηλά πάνω από τις πόλεις, μελετώντας τους δρόμους και πώς μεγάλωναν. Διάλεγε θέσεις από ψηλά και γέμιζε κάθε περιοχή γύρω από ένα κέντρο διανομής πριν προχωρήσει."
+      },
+      "apply": {
+        "en": "Instead of cold calling all of Greece, finish one profession in one city first, for example every dentist in Thessaloniki. Each site you build there becomes proof for the next call: «We have already built the site of a colleague of yours in Kalamaria.»",
+        "el": "Αντί να παίρνεις τηλέφωνα σε όλη την Ελλάδα, τελείωσε πρώτα μία ειδικότητα σε μία πόλη, για παράδειγμα όλους τους οδοντιάτρους της Θεσσαλονίκης. Κάθε σελίδα που φτιάχνεις εκεί γίνεται απόδειξη για το επόμενο τηλεφώνημα: «Έχουμε φτιάξει ήδη τη σελίδα συναδέλφου σας στην Καλαμαριά»."
+      },
+      "check": {
+        "q": {
+          "en": "What does saturating a region give you?",
+          "el": "Τι σου δίνει το να «γεμίσεις» μια περιοχή;"
+        },
+        "options": [
+          {
+            "en": "A reason to raise prices everywhere",
+            "el": "Λόγο να ανεβάσεις τις τιμές παντού"
+          },
+          {
+            "en": "Lower costs and a familiar name close by",
+            "el": "Χαμηλότερο κόστος και γνωστό όνομα κοντά"
+          },
+          {
+            "en": "Freedom from ever needing new customers",
+            "el": "Ελευθερία από την ανάγκη για νέους πελάτες"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Stores near a warehouse were cheap to supply, and repeated presence built recognition.",
+          "el": "Τα μαγαζιά κοντά στην αποθήκη τροφοδοτούνταν φθηνά, και η συνεχής παρουσία έχτιζε αναγνωρισιμότητα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Control costs better than anyone",
+        "el": "Έλεγξε τα έξοδα καλύτερα από όλους"
+      },
+      "explain": {
+        "en": "Rule 9: control your expenses better than your competition. Walton says you can make a lot of mistakes and still recover if you run an efficient operation, but you can be brilliant and still fail if your costs are too high. Every dollar wasted is a dollar the customer must pay. Frugality was a value, not just a tactic.",
+        "el": "Κανόνας 9: έλεγξε τα έξοδά σου καλύτερα από τους ανταγωνιστές. Ο Γουόλτον λέει ότι μπορείς να κάνεις πολλά λάθη και να συνέλθεις αν η λειτουργία σου είναι αποδοτική, αλλά μπορείς να είσαι ιδιοφυής και να αποτύχεις αν τα έξοδά σου είναι ψηλά. Κάθε δολάριο που σπαταλάς το πληρώνει ο πελάτης. Η λιτότητα ήταν αξία, όχι απλώς τακτική."
+      },
+      "example": {
+        "en": "On buying trips Walmart managers shared cheap hotel rooms to save money. Even after Forbes named him the richest man in America in 1985, Walton kept driving an old pickup truck with cages in the back for his hunting dogs.",
+        "el": "Στα ταξίδια για αγορές, τα στελέχη του Walmart μοιράζονταν φθηνά δωμάτια ξενοδοχείου για να κάνουν οικονομία. Ακόμη κι όταν το Forbes τον ανακήρυξε πλουσιότερο άνθρωπο της Αμερικής το 1985, ο Γουόλτον συνέχισε να οδηγεί ένα παλιό αγροτικό με κλουβιά πίσω για τα κυνηγόσκυλά του."
+      },
+      "apply": {
+        "en": "Open your bank statement and list every monthly subscription and tool. Cancel anything you have not used in 30 days. Then compute your cost per live site per year and try to lower it each quarter, so the 130€ hosting stays very profitable.",
+        "el": "Άνοιξε το αντίγραφο κίνησης της τράπεζας και γράψε κάθε μηνιαία συνδρομή και εργαλείο. Ακύρωσε ό,τι δεν έχεις χρησιμοποιήσει τις τελευταίες 30 μέρες. Μετά υπολόγισε πόσο σου κοστίζει κάθε ενεργή σελίδα τον χρόνο και προσπάθησε να το μειώνεις κάθε τρίμηνο, ώστε η φιλοξενία των 130€ να μένει πολύ κερδοφόρα."
+      },
+      "check": {
+        "q": {
+          "en": "According to Walton, what lets a business survive many mistakes?",
+          "el": "Κατά τον Γουόλτον, τι επιτρέπει σε μια επιχείρηση να αντέξει πολλά λάθη;"
+        },
+        "options": [
+          {
+            "en": "A very efficient, low-cost operation",
+            "el": "Μια πολύ αποδοτική λειτουργία με χαμηλό κόστος"
+          },
+          {
+            "en": "A famous founder in the newspapers",
+            "el": "Ένας διάσημος ιδρυτής στις εφημερίδες"
+          },
+          {
+            "en": "Fancy offices that impress suppliers",
+            "el": "Εντυπωσιακά γραφεία που εντυπωσιάζουν τους προμηθευτές"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Low costs give you room to recover; high costs can sink even a brilliant idea.",
+          "el": "Το χαμηλό κόστος σου δίνει περιθώριο να συνέλθεις· το ψηλό μπορεί να βουλιάξει και μια εξαιρετική ιδέα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Partners, not employees",
+        "el": "Συνεργάτες, όχι υπάλληλοι"
+      },
+      "explain": {
+        "en": "Rule 2: share your profits with your associates and treat them as partners. Walton honestly admits that early on he paid low wages because he was obsessed with profit, and calls that a mistake. Then Walmart started calling staff associates, gave profit sharing and let them buy stock cheaply. People who own a piece of the result behave like owners.",
+        "el": "Κανόνας 2: μοίρασε τα κέρδη με τους συνεργάτες σου και φέρσου τους σαν συνεταίρους. Ο Γουόλτον παραδέχεται ειλικρινά ότι στην αρχή πλήρωνε χαμηλούς μισθούς επειδή είχε εμμονή με το κέρδος, και το λέει λάθος. Μετά το Walmart άρχισε να λέει το προσωπικό «associates», δηλαδή συνεργάτες, έδωσε συμμετοχή στα κέρδη και φθηνή αγορά μετοχών. Όποιος έχει μερίδιο στο αποτέλεσμα φέρεται σαν ιδιοκτήτης."
+      },
+      "example": {
+        "en": "Walmart started a profit-sharing plan in 1971. Because the stock rose so much over the following decades, the book tells of ordinary associates, such as long-serving truck drivers, who retired with hundreds of thousands of dollars.",
+        "el": "Το Walmart ξεκίνησε πρόγραμμα συμμετοχής στα κέρδη το 1971. Επειδή η μετοχή ανέβηκε πάρα πολύ τις επόμενες δεκαετίες, το βιβλίο μιλά για απλούς εργαζόμενους, όπως οδηγούς φορτηγών με πολλά χρόνια στην εταιρεία, που βγήκαν στη σύνταξη με εκατοντάδες χιλιάδες δολάρια."
+      },
+      "apply": {
+        "en": "When you hire your first salesperson, pay a fair base plus a share of every first-year hosting fee they bring, and a small bonus on renewals. Show them the monthly numbers so they can see their part in the growth.",
+        "el": "Όταν προσλάβεις τον πρώτο σου πωλητή, δώσε δίκαιο βασικό μισθό συν ένα ποσοστό από κάθε πρώτη ετήσια φιλοξενία που φέρνει, και ένα μικρό μπόνους στις ανανεώσεις. Δείχνε του τους μηνιαίους αριθμούς για να βλέπει το δικό του κομμάτι στην ανάπτυξη."
+      },
+      "check": {
+        "q": {
+          "en": "What did Walton admit about his early years?",
+          "el": "Τι παραδέχτηκε ο Γουόλτον για τα πρώτα του χρόνια;"
+        },
+        "options": [
+          {
+            "en": "He shared too much profit and nearly went broke",
+            "el": "Μοίρασε πάρα πολλά κέρδη και παραλίγο να χρεοκοπήσει"
+          },
+          {
+            "en": "He paid too little because he chased profit",
+            "el": "Πλήρωνε πολύ λίγα επειδή κυνηγούσε το κέρδος"
+          },
+          {
+            "en": "He hired only family members",
+            "el": "Προσλάμβανε μόνο μέλη της οικογένειας"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "He calls his early low pay a mistake; profit sharing came later and changed the culture.",
+          "el": "Λέει λάθος τους χαμηλούς μισθούς της αρχής· η συμμετοχή στα κέρδη ήρθε αργότερα και άλλαξε την κουλτούρα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Motivate and keep score",
+        "el": "Δώσε κίνητρο και κράτα σκορ"
+      },
+      "explain": {
+        "en": "Rule 3: money and ownership are not enough. Set high goals, encourage competition and keep score. Walton also suggests moving managers to new jobs from time to time so they stay challenged, and making up new games and challenges to keep things fresh. People like to know whether they are winning.",
+        "el": "Κανόνας 3: τα χρήματα και η συμμετοχή δεν αρκούν. Βάλε ψηλούς στόχους, ενθάρρυνε τον ανταγωνισμό και κράτα σκορ. Ο Γουόλτον προτείνει επίσης να αλλάζεις κάπου κάπου θέση στους διευθυντές για να έχουν πρόκληση, και να σκέφτεσαι νέα παιχνίδια και προκλήσεις ώστε να μη βαλτώνουν τα πράγματα. Στους ανθρώπους αρέσει να ξέρουν αν κερδίζουν."
+      },
+      "example": {
+        "en": "Walmart ran contests between stores to sell the most of a chosen product. An associate would pick one item, build a big display and try to beat other stores. Results were shared across the company, and winners were celebrated in the Saturday meeting.",
+        "el": "Το Walmart έκανε διαγωνισμούς ανάμεσα στα καταστήματα για το ποιο θα πουλήσει περισσότερο ένα επιλεγμένο προϊόν. Ένας εργαζόμενος διάλεγε ένα είδος, έστηνε μεγάλη έκθεση και προσπαθούσε να ξεπεράσει τα άλλα καταστήματα. Τα αποτελέσματα μοιράζονταν σε όλη την εταιρεία και οι νικητές γιορτάζονταν στη συνάντηση του Σαββάτου."
+      },
+      "apply": {
+        "en": "Put a simple board in your CRM: calls made, meetings booked, sites live, payments collected this week. Review it with your team every Monday. Add a small monthly challenge, for example most Google reviews collected from new clients.",
+        "el": "Βάλε έναν απλό πίνακα στο CRM σου: τηλεφωνήματα, ραντεβού, σελίδες που βγήκαν live, πληρωμές που μπήκαν αυτή την εβδομάδα. Δες τον με την ομάδα κάθε Δευτέρα. Πρόσθεσε μια μικρή μηνιαία πρόκληση, για παράδειγμα ποιος μάζεψε τις περισσότερες κριτικές Google από νέους πελάτες."
+      },
+      "check": {
+        "q": {
+          "en": "What does Rule 3 add to money and ownership?",
+          "el": "Τι προσθέτει ο Κανόνας 3 στα χρήματα και στη συμμετοχή;"
+        },
+        "options": [
+          {
+            "en": "Fewer goals, so people feel less pressure",
+            "el": "Λιγότερους στόχους, για να νιώθουν λιγότερη πίεση"
+          },
+          {
+            "en": "Secret targets only the boss can see",
+            "el": "Μυστικούς στόχους που βλέπει μόνο το αφεντικό"
+          },
+          {
+            "en": "High goals, friendly competition and a visible score",
+            "el": "Ψηλούς στόχους, φιλικό ανταγωνισμό και ορατό σκορ"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "People stay energised when the goal is clear and they can see whether they are winning.",
+          "el": "Οι άνθρωποι έχουν ενέργεια όταν ο στόχος είναι σαφής και βλέπουν αν κερδίζουν."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Tell them everything",
+        "el": "Πες τους τα πάντα"
+      },
+      "explain": {
+        "en": "Rule 4: communicate everything you possibly can to your partners. The more they know, the more they understand, and the more they care. Walton shared sales, profits and costs with store staff, numbers most companies kept secret. Once people care, he says, nothing can stop them. Hiding information makes people feel like outsiders.",
+        "el": "Κανόνας 4: μοιράσου με τους συνεργάτες σου ό,τι περισσότερο μπορείς. Όσο περισσότερα ξέρουν, τόσο περισσότερα καταλαβαίνουν και τόσο περισσότερο νοιάζονται. Ο Γουόλτον μοιραζόταν με το προσωπικό πωλήσεις, κέρδη και έξοδα, αριθμούς που οι περισσότερες εταιρείες κρατούσαν μυστικούς. Όταν οι άνθρωποι νοιάζονται, λέει, τίποτα δεν τους σταματά. Η απόκρυψη τους κάνει να νιώθουν ξένοι."
+      },
+      "example": {
+        "en": "Walmart store managers saw their store's profit and costs and could compare them with every other store. The company later built a satellite network so headquarters could share numbers and messages with all stores at once, even video talks from Walton himself.",
+        "el": "Οι διευθυντές των καταστημάτων Walmart έβλεπαν το κέρδος και τα έξοδα του μαγαζιού τους και μπορούσαν να τα συγκρίνουν με όλα τα άλλα. Η εταιρεία έστησε αργότερα δορυφορικό δίκτυο ώστε τα κεντρικά να στέλνουν αριθμούς και μηνύματα σε όλα τα καταστήματα μαζί, ακόμη και βίντεο με τον ίδιο τον Γουόλτον."
+      },
+      "apply": {
+        "en": "Send your team a short Friday message: new clients, sites live, money collected, overdue payments and the goal for next week. Two minutes to write, and everyone knows where the agency stands and why their work matters.",
+        "el": "Στείλε στην ομάδα σου κάθε Παρασκευή ένα σύντομο μήνυμα: νέοι πελάτες, σελίδες live, χρήματα που μπήκαν, καθυστερημένες πληρωμές και στόχος της επόμενης εβδομάδας. Δύο λεπτά να το γράψεις, και όλοι ξέρουν πού βρίσκεται η επιχείρηση και γιατί μετρά η δουλειά τους."
+      },
+      "check": {
+        "q": {
+          "en": "Why did Walton share the numbers with his staff?",
+          "el": "Γιατί ο Γουόλτον μοιραζόταν τους αριθμούς με το προσωπικό;"
+        },
+        "options": [
+          {
+            "en": "Because the law forced him to do it",
+            "el": "Επειδή τον υποχρέωνε ο νόμος"
+          },
+          {
+            "en": "Because people who understand more care more",
+            "el": "Επειδή όποιος καταλαβαίνει περισσότερα νοιάζεται περισσότερο"
+          },
+          {
+            "en": "To scare them into working longer hours",
+            "el": "Για να τους φοβίσει να δουλεύουν περισσότερες ώρες"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Information turns staff into partners who understand and care about results.",
+          "el": "Η πληροφορία κάνει το προσωπικό συνεργάτες που καταλαβαίνουν και νοιάζονται για το αποτέλεσμα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Praise is free",
+        "el": "Ο έπαινος είναι δωρεάν"
+      },
+      "explain": {
+        "en": "Rule 5: appreciate everything your associates do for the business. A paycheck and stock can buy one kind of loyalty, but people also want to know someone noticed their effort. Walton says nothing replaces a few well-chosen, well-timed, sincere words of praise. They cost nothing and are worth a fortune.",
+        "el": "Κανόνας 5: εκτίμησε ό,τι κάνουν οι συνεργάτες σου για την επιχείρηση. Ο μισθός και οι μετοχές αγοράζουν ένα είδος πίστης, αλλά οι άνθρωποι θέλουν και να ξέρουν ότι κάποιος πρόσεξε τον κόπο τους. Ο Γουόλτον λέει ότι τίποτα δεν αντικαθιστά λίγα καλοδιαλεγμένα, έγκαιρα και ειλικρινή λόγια επαίνου. Δεν κοστίζουν τίποτα και αξίζουν μια περιουσία."
+      },
+      "example": {
+        "en": "Walton visited his stores constantly, often unannounced, and spent much of the visit thanking associates by name, asking about their department and their families, and praising good work in front of the others.",
+        "el": "Ο Γουόλτον επισκεπτόταν συνεχώς τα καταστήματά του, συχνά χωρίς προειδοποίηση, και περνούσε μεγάλο μέρος της επίσκεψης ευχαριστώντας τους εργαζόμενους με το όνομά τους, ρωτώντας για το τμήμα τους και την οικογένειά τους, και επαινώντας την καλή δουλειά μπροστά στους άλλους."
+      },
+      "apply": {
+        "en": "Each week, send one specific thank-you to someone on your team or a freelancer: «The hero on the dentist's site came out excellent, the client loved it.» Name the exact thing they did, not just «well done».",
+        "el": "Κάθε εβδομάδα, στείλε ένα συγκεκριμένο ευχαριστώ σε κάποιον από την ομάδα ή σε έναν freelancer: «Το hero στη σελίδα της οδοντιάτρου βγήκε εξαιρετικό, ο πελάτης το λάτρεψε». Ονόμασε ακριβώς τι έκανε, όχι απλώς «μπράβο»."
+      },
+      "check": {
+        "q": {
+          "en": "What makes praise work, according to Rule 5?",
+          "el": "Τι κάνει τον έπαινο να πιάνει, σύμφωνα με τον Κανόνα 5;"
+        },
+        "options": [
+          {
+            "en": "It is sincere, specific and given at the right time",
+            "el": "Είναι ειλικρινής, συγκεκριμένος και έρχεται την κατάλληλη στιγμή"
+          },
+          {
+            "en": "It is given once a year at a big dinner",
+            "el": "Δίνεται μία φορά τον χρόνο σε ένα μεγάλο δείπνο"
+          },
+          {
+            "en": "It comes with a cash bonus every time",
+            "el": "Συνοδεύεται κάθε φορά από χρηματικό μπόνους"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Walton stresses well-chosen, well-timed, sincere words; they are free and powerful.",
+          "el": "Ο Γουόλτον τονίζει τα καλοδιαλεγμένα, έγκαιρα, ειλικρινή λόγια· είναι δωρεάν και πολύ δυνατά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Celebrate and laugh",
+        "el": "Γιόρτασε και γέλα"
+      },
+      "explain": {
+        "en": "Rule 6: celebrate your successes, find humour in your failures, and do not take yourself so seriously. Walton believed work should be fun, because tired, bored people give bad service. Walmart filled its meetings with cheers, jokes, songs and silly bets. Loosening up, he says, helps everyone around you loosen up too.",
+        "el": "Κανόνας 6: γιόρτασε τις επιτυχίες σου, βρες το αστείο στις αποτυχίες σου και μην παίρνεις τον εαυτό σου τόσο στα σοβαρά. Ο Γουόλτον πίστευε ότι η δουλειά πρέπει να έχει πλάκα, γιατί οι κουρασμένοι και βαριεστημένοι άνθρωποι εξυπηρετούν άσχημα. Το Walmart γέμιζε τις συναντήσεις του με συνθήματα, αστεία, τραγούδια και τρελά στοιχήματα. Όταν χαλαρώνεις εσύ, λέει, χαλαρώνουν και όλοι γύρω σου."
+      },
+      "example": {
+        "en": "In 1975 Walton visited a tennis ball factory in South Korea and saw the workers doing a morning company cheer. He brought the idea home: the Walmart cheer, spelling out the company name, became a ritual at the Saturday morning meeting and in stores.",
+        "el": "Το 1975 ο Γουόλτον επισκέφθηκε ένα εργοστάσιο με μπάλες του τένις στη Νότια Κορέα και είδε τους εργάτες να φωνάζουν κάθε πρωί ένα σύνθημα της εταιρείας. Έφερε την ιδέα στην Αμερική: το σύνθημα του Walmart, που συλλάβιζε το όνομα της εταιρείας, έγινε τελετουργία στη συνάντηση του Σαββάτου και στα καταστήματα."
+      },
+      "apply": {
+        "en": "Mark every 10 new live sites with something small and fun: a team lunch, a funny reel, a ring of a bell on a call. When a site goes wrong, tell the story with a laugh in the weekly meeting, then write the fix.",
+        "el": "Γιόρτασε κάθε 10 νέες σελίδες live με κάτι μικρό και διασκεδαστικό: ένα γεύμα με την ομάδα, ένα αστείο reel, ένα καμπανάκι στην κλήση. Όταν μια σελίδα στραβώσει, πες την ιστορία με χιούμορ στη συνάντηση της εβδομάδας και μετά γράψε τη λύση."
+      },
+      "check": {
+        "q": {
+          "en": "Why did Walton want work to be fun?",
+          "el": "Γιατί ο Γουόλτον ήθελε η δουλειά να έχει πλάκα;"
+        },
+        "options": [
+          {
+            "en": "To hide that he paid nothing at all",
+            "el": "Για να κρύψει ότι δεν πλήρωνε τίποτα"
+          },
+          {
+            "en": "To make the company famous on television",
+            "el": "Για να γίνει η εταιρεία διάσημη στην τηλεόραση"
+          },
+          {
+            "en": "Because bored, tense people serve customers badly",
+            "el": "Επειδή οι βαριεστημένοι και αγχωμένοι εξυπηρετούν άσχημα"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Rule 6 links a light, joyful culture to better energy and better service.",
+          "el": "Ο Κανόνας 6 συνδέει μια ανάλαφρη, χαρούμενη κουλτούρα με περισσότερη ενέργεια και καλύτερη εξυπηρέτηση."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Listen to the front line",
+        "el": "Άκου την πρώτη γραμμή"
+      },
+      "explain": {
+        "en": "Rule 7: listen to everyone in your company, and find ways to get them talking. The people who talk to customers every day know what works and what does not. Walton spent much of his week in stores, asking associates for ideas. Many of Walmart's best ideas came from the bottom, not from headquarters.",
+        "el": "Κανόνας 7: άκου όλους στην εταιρεία σου και βρες τρόπους να τους κάνεις να μιλήσουν. Όσοι μιλούν με τους πελάτες κάθε μέρα ξέρουν τι δουλεύει και τι όχι. Ο Γουόλτον περνούσε μεγάλο μέρος της εβδομάδας στα καταστήματα, ζητώντας ιδέες από τους εργαζόμενους. Πολλές από τις καλύτερες ιδέες του Walmart ήρθαν από κάτω, όχι από τα κεντρικά."
+      },
+      "example": {
+        "en": "The famous Walmart greeter, an older person welcoming shoppers at the door, started with a store manager in Louisiana who wanted people to feel welcome and to discourage shoplifting. Walton saw it on a visit, liked it and spread it to every store.",
+        "el": "Ο γνωστός «υποδοχέας» του Walmart, ένας μεγαλύτερος σε ηλικία άνθρωπος που καλωσορίζει τους πελάτες στην πόρτα, ξεκίνησε από έναν διευθυντή καταστήματος στη Λουιζιάνα που ήθελε ο κόσμος να νιώθει ευπρόσδεκτος και να αποθαρρύνονται οι κλοπές. Ο Γουόλτον το είδε σε μια επίσκεψη, του άρεσε και το έφερε σε όλα τα καταστήματα."
+      },
+      "apply": {
+        "en": "Ask whoever handles the client chat to bring you the three most common client questions and complaints every two weeks. Turn the top one into a fix: a clearer onboarding message, a FAQ, or a change in how you collect photos.",
+        "el": "Ζήτα από όποιον χειρίζεται το chat των πελατών να σου φέρνει κάθε δύο εβδομάδες τις τρεις πιο συχνές ερωτήσεις και παράπονα. Κάνε το πρώτο λύση: ένα πιο σαφές μήνυμα υποδοχής, ένα FAQ ή μια αλλαγή στο πώς μαζεύεις τις φωτογραφίες."
+      },
+      "check": {
+        "q": {
+          "en": "Where did the Walmart greeter idea come from?",
+          "el": "Από πού ήρθε η ιδέα του υποδοχέα στο Walmart;"
+        },
+        "options": [
+          {
+            "en": "From a store manager on the front line",
+            "el": "Από έναν διευθυντή καταστήματος στην πρώτη γραμμή"
+          },
+          {
+            "en": "From an expensive consulting firm",
+            "el": "Από μια ακριβή εταιρεία συμβούλων"
+          },
+          {
+            "en": "From Walton's own planning at headquarters",
+            "el": "Από τον σχεδιασμό του ίδιου του Γουόλτον στα κεντρικά"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "It came from one store; Walton's job was to notice it and spread it.",
+          "el": "Ήρθε από ένα κατάστημα· η δουλειά του Γουόλτον ήταν να το προσέξει και να το διαδώσει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Exceed expectations",
+        "el": "Ξεπέρασε τις προσδοκίες"
+      },
+      "explain": {
+        "en": "Rule 8: exceed your customers' expectations. Give them what they want, and a little more. Make good on all your mistakes, apologise and do not make excuses. Walton reminds his people that there is only one boss, the customer, who can fire everyone in the company simply by spending money somewhere else.",
+        "el": "Κανόνας 8: ξεπέρασε τις προσδοκίες των πελατών σου. Δώσε τους αυτό που θέλουν, και λίγο παραπάνω. Διόρθωσε κάθε λάθος σου, ζήτα συγγνώμη και μη λες δικαιολογίες. Ο Γουόλτον θυμίζει στους ανθρώπους του ότι υπάρχει μόνο ένα αφεντικό, ο πελάτης, που μπορεί να απολύσει όλη την εταιρεία απλώς ξοδεύοντας τα χρήματά του αλλού."
+      },
+      "example": {
+        "en": "Walton asked associates to take a pledge: whenever a customer comes within ten feet, smile, look them in the eye and offer help. Together with a «satisfaction guaranteed» return policy, this ten-foot rule made a cheap store feel friendly.",
+        "el": "Ο Γουόλτον ζήτησε από τους εργαζόμενους να δώσουν μια υπόσχεση: όταν ένας πελάτης έρχεται σε απόσταση τριών μέτρων, χαμογέλα, κοίτα τον στα μάτια και πρόσφερε βοήθεια. Μαζί με την πολιτική επιστροφών «εγγυημένη ικανοποίηση», αυτός ο «κανόνας των δέκα ποδιών» έκανε ένα φθηνό μαγαζί να μοιάζει φιλικό."
+      },
+      "apply": {
+        "en": "After each site goes live, add one small surprise: a ready Google Business post, a QR code for reviews, or a 2-minute video on how to request changes. If you made a mistake, say it first: «We had the opening hours wrong; it is already fixed.»",
+        "el": "Μόλις μια σελίδα βγει live, πρόσθεσε μια μικρή έκπληξη: μια έτοιμη ανάρτηση για το Google Business, ένα QR code για κριτικές ή ένα βίντεο δύο λεπτών για το πώς ζητούν αλλαγές. Αν έκανες λάθος, πες το πρώτος: «Είχαμε λάθος στο ωράριο, το διορθώσαμε ήδη»."
+      },
+      "check": {
+        "q": {
+          "en": "Who, for Walton, is the only real boss?",
+          "el": "Ποιο είναι, για τον Γουόλτον, το μόνο πραγματικό αφεντικό;"
+        },
+        "options": [
+          {
+            "en": "The board of directors",
+            "el": "Το διοικητικό συμβούλιο"
+          },
+          {
+            "en": "The biggest supplier",
+            "el": "Ο μεγαλύτερος προμηθευτής"
+          },
+          {
+            "en": "The customer",
+            "el": "Ο πελάτης"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The customer can fire everyone by shopping elsewhere, so service comes first.",
+          "el": "Ο πελάτης μπορεί να τους απολύσει όλους ψωνίζοντας αλλού, άρα η εξυπηρέτηση έρχεται πρώτη."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Partner with suppliers and technology",
+        "el": "Συμμαχία με προμηθευτές και τεχνολογία"
+      },
+      "explain": {
+        "en": "Walton was a tough buyer, but he learned that fighting suppliers forever wastes money for both sides. Sharing information lets both plan better and cut costs, and lower costs mean lower prices. He also invested early in computers, distribution centers and satellites, not for show, but because good information made the whole low-cost machine run.",
+        "el": "Ο Γουόλτον ήταν σκληρός αγοραστής, αλλά έμαθε ότι ο αιώνιος καβγάς με τους προμηθευτές σπαταλά χρήματα και στις δύο πλευρές. Όταν μοιράζεσαι πληροφορίες, σχεδιάζετε και οι δύο καλύτερα και ρίχνετε το κόστος, και χαμηλότερο κόστος σημαίνει χαμηλότερη τιμή. Επένδυσε επίσης νωρίς σε υπολογιστές, κέντρα διανομής και δορυφόρους, όχι για επίδειξη, αλλά επειδή η καλή πληροφορία κινούσε όλη τη μηχανή του χαμηλού κόστους."
+      },
+      "example": {
+        "en": "In the late 1980s Walmart and Procter and Gamble, long wary of each other, agreed to share sales data directly. P&G could see what was selling in each store and restock it automatically, and both companies cut waste and costs.",
+        "el": "Στα τέλη της δεκαετίας του 1980, το Walmart και η Procter and Gamble, που για χρόνια δεν εμπιστεύονταν η μία την άλλη, συμφώνησαν να μοιράζονται απευθείας στοιχεία πωλήσεων. Η P&G έβλεπε τι πουλιέται σε κάθε κατάστημα και το αναπλήρωνε αυτόματα, και οι δύο εταιρείες μείωσαν σπατάλη και κόστος."
+      },
+      "apply": {
+        "en": "Treat your key suppliers, hosting, domains and AI tools, as partners: track usage in one sheet, ask for volume pricing once you pass a threshold, and automate repeated steps like renewal reminders so nothing depends on memory.",
+        "el": "Αντιμετώπισε τους βασικούς σου προμηθευτές, φιλοξενία, domains και εργαλεία AI, σαν συνεργάτες: κατέγραψε τη χρήση σε ένα φύλλο, ζήτα τιμή για όγκο όταν περάσεις ένα όριο και αυτοματοποίησε τα βήματα που επαναλαμβάνονται, όπως τις υπενθυμίσεις ανανέωσης, ώστε τίποτα να μην εξαρτάται από τη μνήμη σου."
+      },
+      "check": {
+        "q": {
+          "en": "What did sharing data with Procter and Gamble achieve?",
+          "el": "Τι πέτυχε η κοινή χρήση στοιχείων με την Procter and Gamble;"
+        },
+        "options": [
+          {
+            "en": "Higher prices for customers in every store",
+            "el": "Υψηλότερες τιμές για τους πελάτες σε κάθε μαγαζί"
+          },
+          {
+            "en": "Lower costs and better restocking for both",
+            "el": "Χαμηλότερο κόστος και καλύτερη αναπλήρωση και για τους δύο"
+          },
+          {
+            "en": "A legal fight that lasted for years",
+            "el": "Μια δικαστική διαμάχη που κράτησε χρόνια"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Cooperation on information cut waste on both sides, which fed lower prices.",
+          "el": "Η συνεργασία στην πληροφορία μείωσε τη σπατάλη και στις δύο πλευρές, κάτι που έφερε χαμηλότερες τιμές."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Stay close, stay humble",
+        "el": "Μείνε κοντά, μείνε ταπεινός"
+      },
+      "explain": {
+        "en": "Even when Walmart was huge, Walton kept a small office, flew around visiting stores and ran a Saturday morning meeting where problems were discussed openly. He disliked the attention that came with being rich. His last message is that a small business can grow very big if the leader stays close to the customer and the people, and never stops learning.",
+        "el": "Ακόμη και όταν το Walmart ήταν τεράστιο, ο Γουόλτον κρατούσε ένα μικρό γραφείο, γύριζε επισκεπτόμενος καταστήματα και έκανε κάθε Σάββατο πρωί μια συνάντηση όπου τα προβλήματα συζητιούνταν ανοιχτά. Δεν του άρεσε η προσοχή που φέρνει ο πλούτος. Το τελευταίο του μήνυμα είναι ότι μια μικρή επιχείρηση μπορεί να γίνει πολύ μεγάλη αν ο αρχηγός μένει κοντά στον πελάτη και στους ανθρώπους και δεν σταματά ποτέ να μαθαίνει."
+      },
+      "example": {
+        "en": "By 1990 Walmart had become the biggest retailer in the United States. Yet Walton still went into stores in his work clothes, chatted with clerks and asked customers what they thought. In March 1992, weeks before his death, he received the Presidential Medal of Freedom.",
+        "el": "Ως το 1990 το Walmart είχε γίνει η μεγαλύτερη αλυσίδα λιανικής στις Ηνωμένες Πολιτείες. Κι όμως ο Γουόλτον έμπαινε ακόμη στα μαγαζιά με τα ρούχα της δουλειάς, κουβέντιαζε με τους υπαλλήλους και ρωτούσε τους πελάτες τη γνώμη τους. Τον Μάρτιο του 1992, λίγες εβδομάδες πριν πεθάνει, τιμήθηκε με το Προεδρικό Μετάλλιο της Ελευθερίας."
+      },
+      "apply": {
+        "en": "Even as you grow, call two clients a week yourself, not to sell, just to ask: «How do you like the site? What would you like us to improve?» Write each answer in the CRM and act on one of them.",
+        "el": "Όσο κι αν μεγαλώσεις, πάρε ο ίδιος δύο πελάτες τηλέφωνο την εβδομάδα, όχι για πώληση, μόνο για να ρωτήσεις: «Πώς σας φαίνεται η σελίδα; Τι θα θέλατε να βελτιώσουμε;» Γράψε κάθε απάντηση στο CRM και κάνε πράξη μία από αυτές."
+      },
+      "check": {
+        "q": {
+          "en": "What did Walton keep doing even when Walmart was the biggest retailer?",
+          "el": "Τι συνέχισε να κάνει ο Γουόλτον ακόμη κι όταν το Walmart ήταν η μεγαλύτερη αλυσίδα;"
+        },
+        "options": [
+          {
+            "en": "Visiting stores and talking to staff and customers",
+            "el": "Να επισκέπτεται μαγαζιά και να μιλά με προσωπικό και πελάτες"
+          },
+          {
+            "en": "Running the company only through written reports",
+            "el": "Να διοικεί μόνο μέσα από γραπτές αναφορές"
+          },
+          {
+            "en": "Spending on a large, luxurious headquarters",
+            "el": "Να ξοδεύει για μεγάλα, πολυτελή κεντρικά γραφεία"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "He stayed close to the store floor; that closeness kept the company sharp.",
+          "el": "Έμενε κοντά στο πάτωμα του μαγαζιού· αυτή η εγγύτητα κρατούσε την εταιρεία σε εγρήγορση."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "A big agency in Athens charges 1,500€ per site. A friend says you should raise your price to look serious. What do you do?",
+        "el": "Ένα μεγάλο γραφείο στην Αθήνα χρεώνει 1.500€ ανά σελίδα. Ένας φίλος σου λέει να ανεβάσεις την τιμή για να φαίνεσαι σοβαρός. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Copy their price at once to match their image",
+          "el": "Αντιγράφεις αμέσως την τιμή τους για να έχεις την ίδια εικόνα"
+        },
+        {
+          "en": "Keep the low entry and grow total volume and renewals",
+          "el": "Κρατάς τη χαμηλή είσοδο και μεγαλώνεις τον όγκο και τις ανανεώσεις"
+        },
+        {
+          "en": "Stop cold calling until you decide",
+          "el": "Σταματάς τα τηλεφωνήματα μέχρι να αποφασίσεις"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Walton's core lesson: a low price sells much more, and total profit grows.",
+        "el": "Το βασικό μάθημα του Γουόλτον: η χαμηλή τιμή πουλά πολύ περισσότερο και το συνολικό κέρδος μεγαλώνει."
+      },
+      "idea": 2
+    },
+    {
+      "q": {
+        "en": "Your hosting account is in the name of a freelancer who helped you start. What do you do?",
+        "el": "Ο λογαριασμός φιλοξενίας σου είναι στο όνομα ενός freelancer που σε βοήθησε στην αρχή. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Move it into your own name and secure the logins now",
+          "el": "Τον μεταφέρεις στο όνομά σου και ασφαλίζεις τους κωδικούς τώρα"
+        },
+        {
+          "en": "Leave it, since it has worked fine so far",
+          "el": "Τον αφήνεις, αφού μέχρι τώρα δουλεύει καλά"
+        },
+        {
+          "en": "Wait until there is a problem and then react",
+          "el": "Περιμένεις να υπάρξει πρόβλημα και μετά αντιδράς"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Walton lost his best store because of one missing clause; protect your base before it is valuable to someone else.",
+        "el": "Ο Γουόλτον έχασε το καλύτερο μαγαζί του για έναν όρο που έλειπε· προστάτευσε τη βάση σου πριν αποκτήσει αξία για κάποιον άλλον."
+      },
+      "idea": 3
+    },
+    {
+      "q": {
+        "en": "Your assistant in the client chat keeps hearing the same complaint about photo uploads. What do you do?",
+        "el": "Η βοηθός σου στο chat των πελατών ακούει συνέχεια το ίδιο παράπονο για το ανέβασμα φωτογραφιών. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Tell her clients always complain, ignore it",
+          "el": "Της λες ότι οι πελάτες πάντα παραπονιούνται, το αγνοείς"
+        },
+        {
+          "en": "Wait until a client leaves before you act",
+          "el": "Περιμένεις να φύγει κάποιος πελάτης για να κάνεις κάτι"
+        },
+        {
+          "en": "Ask her for details and fix the process together",
+          "el": "Της ζητάς λεπτομέρειες και διορθώνετε μαζί τη διαδικασία"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Rule 7: the front line sees problems first; listen and act.",
+        "el": "Κανόνας 7: η πρώτη γραμμή βλέπει πρώτη τα προβλήματα· άκου και πράξε."
+      },
+      "idea": 15
+    },
+    {
+      "q": {
+        "en": "You want to grow faster. Where do you start cold calling next month?",
+        "el": "Θέλεις να μεγαλώσεις πιο γρήγορα. Πού ξεκινάς τα τηλεφωνήματα τον επόμενο μήνα;"
+      },
+      "options": [
+        {
+          "en": "Random professionals all over Greece",
+          "el": "Τυχαίους επαγγελματίες σε όλη την Ελλάδα"
+        },
+        {
+          "en": "One profession in one city, until it is covered",
+          "el": "Μία ειδικότητα σε μία πόλη, μέχρι να την καλύψεις"
+        },
+        {
+          "en": "Only famous clinics in central Athens",
+          "el": "Μόνο γνωστά ιατρεία στο κέντρο της Αθήνας"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Like Walmart filling a region, each site becomes proof for the next call nearby.",
+        "el": "Όπως το Walmart γέμιζε μια περιοχή, κάθε σελίδα γίνεται απόδειξη για το επόμενο τηλεφώνημα εκεί κοντά."
+      },
+      "idea": 8
+    },
+    {
+      "q": {
+        "en": "A client finds a wrong phone number on their new site. What do you say?",
+        "el": "Ένας πελάτης βρίσκει λάθος τηλέφωνο στη νέα του σελίδα. Τι λες;"
+      },
+      "options": [
+        {
+          "en": "«You sent it to us like that, it is not our fault.»",
+          "el": "«Μας το στείλατε έτσι, δεν φταίμε εμείς»."
+        },
+        {
+          "en": "Nothing; you fix it quietly in a few weeks",
+          "el": "Τίποτα· το διορθώνεις αθόρυβα σε μερικές εβδομάδες"
+        },
+        {
+          "en": "«Sorry, we have already fixed it and checked the whole site.»",
+          "el": "«Συγγνώμη, το διορθώσαμε ήδη και ελέγξαμε όλη τη σελίδα»."
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Rule 8: make good on mistakes, apologise, no excuses, and give a little more.",
+        "el": "Κανόνας 8: διόρθωσε τα λάθη, ζήτα συγγνώμη, χωρίς δικαιολογίες, και δώσε λίγο παραπάνω."
+      },
+      "idea": 16
+    },
+    {
+      "q": {
+        "en": "Your partner at home says you are always serious and stressed about the agency. What helps most?",
+        "el": "Ο σύντροφός σου λέει ότι είσαι πάντα σοβαρός και αγχωμένος με τη δουλειά. Τι βοηθά περισσότερο;"
+      },
+      "options": [
+        {
+          "en": "Celebrate small wins and laugh at the failures",
+          "el": "Να γιορτάζεις τις μικρές νίκες και να γελάς με τις αποτυχίες"
+        },
+        {
+          "en": "Work longer hours until everything is perfect",
+          "el": "Να δουλεύεις περισσότερες ώρες μέχρι να είναι όλα τέλεια"
+        },
+        {
+          "en": "Stop talking about work at all",
+          "el": "Να σταματήσεις εντελώς να μιλάς για τη δουλειά"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Rule 6: do not take yourself so seriously; joy keeps you and the people around you going.",
+        "el": "Κανόνας 6: μην παίρνεις τον εαυτό σου τόσο στα σοβαρά· η χαρά κρατά εσένα και τους γύρω σου σε κίνηση."
+      },
+      "idea": 14
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "Walton said most of his ideas were copied from others.",
+        "el": "Ο Γουόλτον έλεγε ότι οι περισσότερες ιδέες του ήταν αντιγραμμένες από άλλους."
+      },
+      "answer": true,
+      "why": {
+        "en": "He openly says he borrowed freely, especially from rivals like Kmart and Sol Price.",
+        "el": "Το λέει ανοιχτά ότι δανειζόταν ελεύθερα, κυρίως από αντιπάλους όπως το Kmart και ο Σολ Πράις."
+      }
+    },
+    {
+      "s": {
+        "en": "The first Walmart opened in a big city like Chicago.",
+        "el": "Το πρώτο Walmart άνοιξε σε μεγάλη πόλη, όπως το Σικάγο."
+      },
+      "answer": false,
+      "why": {
+        "en": "It opened in 1962 in Rogers, a small town in Arkansas.",
+        "el": "Άνοιξε το 1962 στο Ρότζερς, μια μικρή πόλη του Άρκανσο."
+      }
+    },
+    {
+      "s": {
+        "en": "Walton admits he paid low wages at first and calls it a mistake.",
+        "el": "Ο Γουόλτον παραδέχεται ότι στην αρχή πλήρωνε χαμηλά και το λέει λάθος."
+      },
+      "answer": true,
+      "why": {
+        "en": "He says his obsession with profit made him ignore his associates' needs early on.",
+        "el": "Λέει ότι η εμμονή του με το κέρδος τον έκανε να αγνοεί στην αρχή τις ανάγκες των εργαζομένων."
+      }
+    },
+    {
+      "s": {
+        "en": "Rule 9 says spending more than rivals is the way to beat them.",
+        "el": "Ο Κανόνας 9 λέει ότι νικάς τους αντιπάλους ξοδεύοντας περισσότερα από αυτούς."
+      },
+      "answer": false,
+      "why": {
+        "en": "Rule 9 is the opposite: control expenses better than the competition.",
+        "el": "Ο Κανόνας 9 λέει το αντίθετο: έλεγξε τα έξοδα καλύτερα από τον ανταγωνισμό."
+      }
+    },
+    {
+      "s": {
+        "en": "Walton lost his first successful store because of his lease.",
+        "el": "Ο Γουόλτον έχασε το πρώτο πετυχημένο μαγαζί του εξαιτίας του μισθωτηρίου."
+      },
+      "answer": true,
+      "why": {
+        "en": "The lease had no renewal clause, so the landlord took the store.",
+        "el": "Το μισθωτήριο δεν είχε όρο ανανέωσης και ο ιδιοκτήτης πήρε το μαγαζί."
+      }
+    },
+    {
+      "s": {
+        "en": "Walton kept company numbers secret from store staff.",
+        "el": "Ο Γουόλτον κρατούσε τους αριθμούς της εταιρείας κρυφούς από το προσωπικό."
+      },
+      "answer": false,
+      "why": {
+        "en": "Rule 4: he shared as much as possible, because people who know more care more.",
+        "el": "Κανόνας 4: μοιραζόταν όσο περισσότερα γινόταν, γιατί όποιος ξέρει περισσότερα νοιάζεται περισσότερο."
+      }
+    },
+    {
+      "s": {
+        "en": "The Walmart cheer was inspired by a factory visit in South Korea.",
+        "el": "Το σύνθημα του Walmart εμπνεύστηκε από επίσκεψη σε εργοστάσιο στη Νότια Κορέα."
+      },
+      "answer": true,
+      "why": {
+        "en": "In 1975 he saw workers at a tennis ball factory do a morning cheer.",
+        "el": "Το 1975 είδε εργάτες σε εργοστάσιο με μπάλες του τένις να φωνάζουν πρωινό σύνθημα."
+      }
+    },
+    {
+      "s": {
+        "en": "Walton believed customers were less important than shareholders.",
+        "el": "Ο Γουόλτον πίστευε ότι οι πελάτες μετρούν λιγότερο από τους μετόχους."
+      },
+      "answer": false,
+      "why": {
+        "en": "He said the customer is the only real boss, able to fire everyone.",
+        "el": "Έλεγε ότι ο πελάτης είναι το μόνο πραγματικό αφεντικό και μπορεί να απολύσει όλους."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "Associates",
+        "el": "Συνεργάτες (associates)"
+      },
+      "b": {
+        "en": "Walmart's word for staff treated as partners",
+        "el": "Η λέξη του Walmart για εργαζόμενους-συνεργάτες"
+      }
+    },
+    {
+      "a": {
+        "en": "Ten-foot rule",
+        "el": "Κανόνας των δέκα ποδιών"
+      },
+      "b": {
+        "en": "Greet any customer who comes close",
+        "el": "Χαιρέτα κάθε πελάτη που πλησιάζει"
+      }
+    },
+    {
+      "a": {
+        "en": "Swim upstream",
+        "el": "Κολύμπα αντίθετα"
+      },
+      "b": {
+        "en": "Ignore conventional wisdom and go the other way",
+        "el": "Αγνόησε τα αυτονόητα και πήγαινε αντίθετα"
+      }
+    },
+    {
+      "a": {
+        "en": "Saturation",
+        "el": "Κορεσμός περιοχής"
+      },
+      "b": {
+        "en": "Fill one region around a warehouse first",
+        "el": "Γέμισε πρώτα μια περιοχή γύρω από αποθήκη"
+      }
+    },
+    {
+      "a": {
+        "en": "Profit sharing",
+        "el": "Συμμετοχή στα κέρδη"
+      },
+      "b": {
+        "en": "Staff get a part of company profits",
+        "el": "Το προσωπικό παίρνει μέρος των κερδών"
+      }
+    },
+    {
+      "a": {
+        "en": "Discounting",
+        "el": "Λογική της έκπτωσης"
+      },
+      "b": {
+        "en": "Lower margin per item, much higher volume",
+        "el": "Μικρότερο περιθώριο ανά τεμάχιο, πολύ μεγαλύτερος όγκος"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Write your own version of Walton's ten rules for Advon, one line each, and pin it above your desk.",
+      "el": "Γράψε τη δική σου εκδοχή των δέκα κανόνων του Γουόλτον για την Advon, μία γραμμή ο καθένας, και κόλλησέ τη πάνω από το γραφείο σου."
+    },
+    {
+      "en": "List every monthly cost of the agency and cancel one tool you do not really need.",
+      "el": "Γράψε κάθε μηνιαίο έξοδο της επιχείρησης και ακύρωσε ένα εργαλείο που δεν χρειάζεσαι πραγματικά."
+    },
+    {
+      "en": "Study the website and ads of your strongest competitor for 20 minutes and note one idea to borrow.",
+      "el": "Μελέτησε για 20 λεπτά την ιστοσελίδα και τις διαφημίσεις του πιο δυνατού ανταγωνιστή σου και σημείωσε μία ιδέα να δανειστείς."
+    },
+    {
+      "en": "Check that your GitHub, hosting, domain and Meta accounts are all in your name with two-factor login.",
+      "el": "Έλεγξε ότι οι λογαριασμοί GitHub, φιλοξενίας, domain και Meta είναι όλοι στο όνομά σου με διπλό έλεγχο σύνδεσης."
+    },
+    {
+      "en": "Call two existing clients just to ask how the site is working for them, and write one improvement.",
+      "el": "Πάρε τηλέφωνο δύο υπάρχοντες πελάτες μόνο για να ρωτήσεις πώς τους δουλεύει η σελίδα, και γράψε μία βελτίωση."
+    }
+  ],
+  "mantra": {
+    "en": "Low price, lower costs, happy people, and the customer is the boss.",
+    "el": "Χαμηλή τιμή, χαμηλότερα έξοδα, χαρούμενοι άνθρωποι, και αφεντικό ο πελάτης."
+  },
+  "careful": {
+    "en": "This is Walton's own story, told near the end of his life, so it is warm and one-sided. Walmart has long been criticised for low wages and thin benefits, for strongly opposing unions, and for hurting small-town shops, as studies of towns in Iowa and elsewhere suggested. Its later heavy use of cheap imports also sits uneasily with the book's «Buy American» pride. Take the lessons on frugality and service, and judge the costs yourself.",
+    "el": "Είναι η ιστορία του ίδιου του Γουόλτον, γραμμένη στο τέλος της ζωής του, άρα ζεστή και μονόπλευρη. Το Walmart έχει δεχθεί για χρόνια κριτική για χαμηλούς μισθούς και φτωχές παροχές, για σκληρή αντίθεση στα συνδικάτα και για τη ζημιά στα μικρά μαγαζιά των κωμοπόλεων, όπως έδειξαν μελέτες στην Αϊόβα και αλλού. Και η μεγάλη στροφή του αργότερα σε φθηνές εισαγωγές δεν ταιριάζει με την περηφάνια του βιβλίου για το «Buy American». Κράτα τα μαθήματα για λιτότητα και εξυπηρέτηση και κρίνε μόνος σου το κόστος."
+  },
+  "connects": [
+    {
+      "book": "the-founders",
+      "note": {
+        "en": "The PayPal founders and Walton both show that a tiny, scrappy team can beat giants by moving faster and caring more about the customer.",
+        "el": "Οι ιδρυτές του PayPal και ο Γουόλτον δείχνουν ότι μια μικρή, πεισματάρα ομάδα νικά γίγαντες κινούμενη πιο γρήγορα και νοιαζόμενη περισσότερο για τον πελάτη."
+      }
+    },
+    {
+      "book": "everything-store",
+      "note": {
+        "en": "Jeff Bezos read Made in America and took from it Walmart's frugality and obsession with low prices, then applied them online at Amazon.",
+        "el": "Ο Τζεφ Μπέζος διάβασε το Made in America και πήρε από εκεί τη λιτότητα του Walmart και την εμμονή με τις χαμηλές τιμές, για να τις εφαρμόσει online στην Amazon."
+      }
+    },
+    {
+      "book": "e-myth",
+      "note": {
+        "en": "Gerber says build systems so the business runs without you; Walton shows the same at scale, with shared numbers, simple rules and motivated people in every store.",
+        "el": "Ο Γκέρμπερ λέει να χτίσεις συστήματα ώστε η επιχείρηση να τρέχει χωρίς εσένα· ο Γουόλτον δείχνει το ίδιο σε μεγάλη κλίμακα, με κοινούς αριθμούς, απλούς κανόνες και ανθρώπους με κίνητρο σε κάθε κατάστημα."
+      }
+    }
+  ]
+}

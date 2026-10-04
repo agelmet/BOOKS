@@ -1,0 +1,601 @@
+{
+  "id": "made-to-stick",
+  "title": {"en": "Made to Stick: Why Some Ideas Survive and Others Die", "el": "Ιδέες που κολλάνε: Γιατί κάποιες ιδέες επιβιώνουν και άλλες πεθαίνουν"},
+  "author": "Chip Heath and Dan Heath",
+  "authorEl": "Τσιπ Χιθ και Νταν Χιθ",
+  "year": 2007,
+  "shelf": "talk",
+  "skills": {"communication": 3, "persuasion": 2, "leadership": 1},
+  "oneLine": {
+    "en": "Ideas that stick are Simple, Unexpected, Concrete, Credible, Emotional and told as Stories, and anyone can build them that way once they beat the curse of knowledge.",
+    "el": "Οι ιδέες που μένουν είναι απλές, απρόσμενες, χειροπιαστές, αξιόπιστες, συγκινητικές και λέγονται σαν ιστορίες· και ο καθένας μπορεί να τις φτιάξει έτσι, αν νικήσει την κατάρα της γνώσης."
+  },
+  "story": {
+    "en": "Chip Heath, a Stanford professor, spent years studying why urban legends and rumours spread while important messages die. His brother Dan, who had built a company making new kinds of textbooks, fought the same problem in education. In 2007 they wrote this book together and named six traits shared by ideas that stick, summed up as SUCCESs. Marketers, teachers and leaders still use it because it is practical and full of memorable cases.",
+    "el": "Ο Τσιπ Χιθ, καθηγητής στο Στάνφορντ, μελετούσε χρόνια γιατί οι αστικοί μύθοι και οι φήμες διαδίδονται, ενώ σημαντικά μηνύματα πεθαίνουν. Ο αδελφός του, ο Νταν, που είχε στήσει εταιρεία για νέου τύπου σχολικά βιβλία, πάλευε με το ίδιο πρόβλημα στην εκπαίδευση. Το 2007 έγραψαν μαζί αυτό το βιβλίο και ονόμασαν έξι χαρακτηριστικά που έχουν οι ιδέες που μένουν, συνοψισμένα στη λέξη SUCCESs. Το χρησιμοποιούν ακόμα στελέχη μάρκετινγκ, δάσκαλοι και ηγέτες, γιατί είναι πρακτικό και γεμάτο αξέχαστα παραδείγματα."
+  },
+  "forYou": {
+    "en": "Everything you sell lives or dies in a doctor's memory: the cold call he half-heard between patients, the reel he scrolled past, the homepage he glanced at. This book is a checklist for making your offer stick. It also names your biggest risk as an expert: you know websites so well that you forget how your words sound to someone who does not.",
+    "el": "Ό,τι πουλάς ζει ή πεθαίνει στη μνήμη ενός γιατρού: το cold call που άκουσε μισό ανάμεσα σε δύο ασθενείς, το reel που προσπέρασε, την αρχική σελίδα που κοίταξε στα γρήγορα. Το βιβλίο είναι μια λίστα ελέγχου για να μένει η προσφορά σου στο μυαλό. Σου δείχνει και τον μεγαλύτερο κίνδυνό σου ως ειδικού: ξέρεις τις ιστοσελίδες τόσο καλά, που ξεχνάς πώς ακούγονται τα λόγια σου σε κάποιον που δεν τις ξέρει."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Sticky ideas can be built", "el": "Οι ιδέες που μένουν φτιάχνονται"},
+      "explain": {
+        "en": "Some ideas are understood, remembered and change what people do; most are forgotten by tomorrow. The Heaths argue this is not luck or talent. Sticky ideas share six traits you can add on purpose: Simple, Unexpected, Concrete, Credible, Emotional, Stories. Together they spell SUCCESs. You do not need to be a creative genius; you need to check your message against the six and fix what is missing.",
+        "el": "Κάποιες ιδέες γίνονται κατανοητές, θυμούνται και αλλάζουν αυτό που κάνει ο κόσμος· οι περισσότερες ξεχνιούνται μέχρι αύριο. Οι Χιθ υποστηρίζουν ότι αυτό δεν είναι θέμα τύχης ή ταλέντου. Οι ιδέες που μένουν έχουν έξι χαρακτηριστικά που μπορείς να βάλεις σκόπιμα: απλότητα, το απρόσμενο, το χειροπιαστό, αξιοπιστία, συναίσθημα, ιστορίες. Στα αγγλικά τα αρχικά τους σχηματίζουν τη λέξη SUCCESs. Δεν χρειάζεται να είσαι δημιουργική ιδιοφυΐα· χρειάζεται να ελέγχεις το μήνυμά σου με αυτά τα έξι και να διορθώνεις ό,τι λείπει."
+      },
+      "example": {
+        "en": "In 1992 a US health group found that a medium cinema popcorn had 37 grams of saturated fat. Saying «too much» would not stick, so they said it equalled a bacon-and-eggs breakfast, a Big Mac and fries for lunch, and a steak dinner, all combined. Sales dropped and big cinema chains changed their cooking oil.",
+        "el": "Το 1992 μια αμερικανική οργάνωση υγείας βρήκε ότι ένα μεσαίο ποπκόρν σινεμά είχε 37 γραμμάρια κορεσμένο λίπος. Το «είναι πολύ» δεν θα έμενε σε κανέναν, οπότε είπαν ότι ισοδυναμεί με πρωινό με μπέικον και αυγά, μεσημεριανό με Big Mac και πατάτες και βραδινό με μπριζόλα, όλα μαζί. Οι πωλήσεις έπεσαν και οι μεγάλες αλυσίδες σινεμά άλλαξαν λάδι."
+      },
+      "apply": {
+        "en": "Take your current cold-call opening and score it from 0 to 2 on each of the six traits. Fix the weakest one first. Do the same for the advonmedia.com hero and your best-performing ad, and keep the scores in one note so you can compare after each change.",
+        "el": "Πάρε την τωρινή εισαγωγή του cold call και βαθμολόγησέ τη από 0 έως 2 σε καθένα από τα έξι χαρακτηριστικά. Διόρθωσε πρώτα το πιο αδύναμο. Κάνε το ίδιο για τον τίτλο του advonmedia.com και για τη διαφήμιση που πάει καλύτερα, και κράτα τις βαθμολογίες σε μία σημείωση για να συγκρίνεις μετά από κάθε αλλαγή."
+      },
+      "check": {
+        "q": {"en": "What do the Heaths say about ideas that stick?", "el": "Τι λένε οι Χιθ για τις ιδέες που μένουν;"},
+        "options": [
+          {"en": "They come only from rare creative geniuses", "el": "Βγαίνουν μόνο από σπάνιες δημιουργικές ιδιοφυΐες"},
+          {"en": "They share six traits that anyone can build in", "el": "Έχουν έξι κοινά χαρακτηριστικά που μπορεί να βάλει ο καθένας"},
+          {"en": "They depend mostly on a big advertising budget", "el": "Εξαρτώνται κυρίως από μεγάλο διαφημιστικό προϋπολογισμό"}
+        ],
+        "answer": 1,
+        "why": {"en": "Stickiness is a craft: check the message against SUCCESs and add what is missing.", "el": "Το να μένει μια ιδέα είναι τέχνη που μαθαίνεται: ελέγχεις το μήνυμα με τα έξι και προσθέτεις ό,τι λείπει."}
+      }
+    },
+    {
+      "title": {"en": "The curse of knowledge", "el": "Η κατάρα της γνώσης"},
+      "explain": {
+        "en": "Once you know something, you cannot easily imagine not knowing it. So experts talk in abstractions and shortcuts that make sense only to them, and they are surprised when nobody understands. The Heaths call this the curse of knowledge, the villain of the whole book. The cure is to translate your idea into simple, concrete language and test it on real outsiders.",
+        "el": "Από τη στιγμή που ξέρεις κάτι, δυσκολεύεσαι να φανταστείς πώς είναι να μην το ξέρεις. Έτσι οι ειδικοί μιλούν με αφηρημένες έννοιες και συντομεύσεις που βγάζουν νόημα μόνο για τους ίδιους, και απορούν όταν δεν τους καταλαβαίνει κανείς. Οι Χιθ το λένε κατάρα της γνώσης, και είναι ο κακός όλου του βιβλίου. Η λύση είναι να μεταφράζεις την ιδέα σου σε απλή, χειροπιαστή γλώσσα και να τη δοκιμάζεις σε ανθρώπους εκτός του χώρου σου."
+      },
+      "example": {
+        "en": "In 1990 Stanford student Elizabeth Newton asked people to tap the rhythm of well-known songs, like «Happy Birthday», on a table. Tappers predicted listeners would guess half of them. Out of 120 songs, listeners guessed just 3. The tappers heard the melody in their heads; the listeners heard only knocking.",
+        "el": "Το 1990 η Ελίζαμπεθ Νιούτον, φοιτήτρια στο Στάνφορντ, ζήτησε από ανθρώπους να χτυπούν στο τραπέζι τον ρυθμό γνωστών τραγουδιών, όπως το «Happy Birthday». Αυτοί που χτυπούσαν πίστευαν ότι οι ακροατές θα βρουν τα μισά. Από 120 τραγούδια, οι ακροατές βρήκαν μόνο 3. Όσοι χτυπούσαν άκουγαν τη μελωδία στο κεφάλι τους· οι ακροατές άκουγαν μόνο χτυπήματα."
+      },
+      "apply": {
+        "en": "Drop insider words with clients: «hosting», «domain», «SEO», «responsive». Say «the yearly rent for the space where your site lives», «your address on the internet», «so patients find you on Google», «looks perfect on a phone». Then test your pitch on a friend who knows nothing about websites.",
+        "el": "Βγάλε από τις κουβέντες με πελάτες τις λέξεις «hosting», «domain», «SEO», «responsive». Πες «το ετήσιο ενοίκιο του χώρου όπου μένει η σελίδα σας», «η διεύθυνσή σας στο ίντερνετ», «για να σας βρίσκουν οι ασθενείς στο Google», «φαίνεται τέλεια στο κινητό». Μετά δοκίμασε την παρουσίασή σου σε έναν φίλο που δεν ξέρει τίποτα από ιστοσελίδες."
+      },
+      "check": {
+        "q": {"en": "In the tapping study, why were the tappers so wrong?", "el": "Στο πείραμα με τα χτυπήματα, γιατί έπεσαν τόσο έξω όσοι χτυπούσαν;"},
+        "options": [
+          {"en": "The listeners were not paying attention", "el": "Οι ακροατές δεν πρόσεχαν"},
+          {"en": "The chosen songs were very obscure", "el": "Τα τραγούδια ήταν πολύ άγνωστα"},
+          {"en": "They heard the tune in their heads and could not imagine otherwise", "el": "Άκουγαν τη μελωδία στο κεφάλι τους και δεν μπορούσαν να φανταστούν αλλιώς"}
+        ],
+        "answer": 2,
+        "why": {"en": "Their own knowledge made the rhythm seem obvious: that is the curse of knowledge.", "el": "Η δική τους γνώση έκανε τον ρυθμό να φαίνεται αυτονόητος: αυτή είναι η κατάρα της γνώσης."}
+      }
+    },
+    {
+      "title": {"en": "Find the core", "el": "Βρες τον πυρήνα"},
+      "explain": {
+        "en": "Simple does not mean dumbed down; it means finding the core, the single most important thing, and stripping away the rest. The US Army learned that detailed plans fall apart once fighting starts, so its orders include a Commander's Intent: one plain statement of the goal. When things change, soldiers can still act on it. Ask yourself: if they remember only one thing, what must it be?",
+        "el": "Απλό δεν σημαίνει απλοϊκό· σημαίνει να βρεις τον πυρήνα, το ένα πιο σημαντικό πράγμα, και να πετάξεις τα υπόλοιπα. Ο αμερικανικός στρατός έμαθε ότι τα λεπτομερή σχέδια καταρρέουν μόλις αρχίσει η μάχη, γι' αυτό οι διαταγές του περιέχουν την «πρόθεση του διοικητή»: μία απλή δήλωση του στόχου. Όταν αλλάζουν τα δεδομένα, οι στρατιώτες μπορούν ακόμα να κινηθούν με βάση αυτήν. Ρώτα τον εαυτό σου: αν θυμηθούν μόνο ένα πράγμα, ποιο πρέπει να είναι;"
+      },
+      "example": {
+        "en": "Instead of only a detailed timetable, an army battalion receives the intent: take a certain hill and clear it, so that a neighbouring brigade can pass safely. If the timetable collapses under fire, every officer still knows what success looks like and can improvise toward it.",
+        "el": "Αντί για ένα σκέτο λεπτομερές χρονοδιάγραμμα, ένα τάγμα παίρνει την πρόθεση: κατάλαβε έναν συγκεκριμένο λόφο και καθάρισέ τον, ώστε να περάσει με ασφάλεια μια διπλανή ταξιαρχία. Αν το χρονοδιάγραμμα καταρρεύσει μέσα στη μάχη, κάθε αξιωματικός ξέρει ακόμα πώς μοιάζει η επιτυχία και μπορεί να αυτοσχεδιάσει προς τα εκεί."
+      },
+      "apply": {
+        "en": "Write the Commander's Intent for your team in one line, for example: «Every client site must make a stranger trust the client within five seconds.» Put it at the top of your build checklist, so anyone you hire can decide small things without asking you.",
+        "el": "Γράψε την «πρόθεση του διοικητή» για την ομάδα σου σε μία γραμμή, για παράδειγμα: «Κάθε σελίδα πελάτη πρέπει να κάνει έναν άγνωστο να εμπιστευτεί τον πελάτη μέσα σε πέντε δευτερόλεπτα». Βάλ' τη στην κορυφή της λίστας ελέγχου για κάθε κατασκευή, ώστε όποιον προσλάβεις να αποφασίζει τα μικρά χωρίς να σε ρωτά."
+      },
+      "check": {
+        "q": {"en": "What is a Commander's Intent?", "el": "Τι είναι η «πρόθεση του διοικητή»;"},
+        "options": [
+          {"en": "A plain statement of the goal that survives when plans fail", "el": "Μια απλή δήλωση του στόχου που αντέχει όταν τα σχέδια αποτυγχάνουν"},
+          {"en": "A detailed plan covering every possible event", "el": "Ένα λεπτομερές σχέδιο για κάθε πιθανό ενδεχόμενο"},
+          {"en": "A secret order that only top officers read", "el": "Μια μυστική διαταγή που διαβάζουν μόνο οι ανώτεροι"}
+        ],
+        "answer": 0,
+        "why": {"en": "It is the core of the mission in one line, so people can act well even when details change.", "el": "Είναι ο πυρήνας της αποστολής σε μία γραμμή, ώστε ο καθένας να κινείται σωστά ακόμα κι όταν αλλάζουν οι λεπτομέρειες."}
+      }
+    },
+    {
+      "title": {"en": "One core, then say no", "el": "Ένας πυρήνας, και μετά «όχι»"},
+      "explain": {
+        "en": "Finding the core means sacrificing good ideas for the one best idea. If you say three things, people remember none. The Heaths warn against burying the main point and against decision paralysis: with too many priorities, people freeze. A clear core also lets people decide without you. Name the one thing, repeat it, and use it to say no.",
+        "el": "Το να βρεις τον πυρήνα σημαίνει να θυσιάσεις καλές ιδέες για τη μία καλύτερη. Αν πεις τρία πράγματα, ο κόσμος δεν θυμάται κανένα. Οι Χιθ προειδοποιούν να μη θάβεις το κύριο σημείο και να προσέχεις την παράλυση: με πάρα πολλές προτεραιότητες, ο κόσμος παγώνει. Ένας καθαρός πυρήνας επιτρέπει και στους άλλους να αποφασίζουν χωρίς εσένα. Ονόμασε το ένα πράγμα, επανάλαβέ το και χρησιμοποίησέ το για να λες «όχι»."
+      },
+      "example": {
+        "en": "Southwest Airlines' core was: we are THE low-fare airline. When a manager proposed adding a chicken Caesar salad on flights because passengers might like it, leader Herb Kelleher reportedly asked one question: will it help us be the low-fare airline? If not, no salad. One sentence guided thousands of decisions.",
+        "el": "Ο πυρήνας της Southwest Airlines ήταν: είμαστε Η αεροπορική των χαμηλών ναύλων. Όταν ένα στέλεχος πρότεινε να μπει στις πτήσεις σαλάτα του Καίσαρα με κοτόπουλο, επειδή μπορεί να άρεσε στους επιβάτες, ο επικεφαλής Χερμπ Κέλεχερ φέρεται να ρώτησε ένα πράγμα: θα μας βοηθήσει να είμαστε η αεροπορική των χαμηλών ναύλων; Αν όχι, καμία σαλάτα. Μία πρόταση καθοδηγούσε χιλιάδες αποφάσεις."
+      },
+      "apply": {
+        "en": "Choose the one core of Advon's offer, for example «a professional website with 0€ build cost». Every ad, homepage section and call must serve it. When a new idea comes up, like a new service or feature, ask: does this help our core? If not, drop it or park it.",
+        "el": "Διάλεξε τον έναν πυρήνα της προσφοράς της Advon, για παράδειγμα «επαγγελματική ιστοσελίδα με 0€ κόστος κατασκευής». Κάθε διαφήμιση, κάθε ενότητα της αρχικής σελίδας και κάθε τηλεφώνημα πρέπει να τον υπηρετεί. Όταν προκύπτει νέα ιδέα, μια νέα υπηρεσία ή λειτουργία, ρώτα: βοηθά τον πυρήνα μας; Αν όχι, άφησέ τη ή βάλ' τη στην άκρη."
+      },
+      "check": {
+        "q": {"en": "What did «THE low-fare airline» help Southwest do?", "el": "Σε τι βοήθησε τη Southwest το «Η αεροπορική των χαμηλών ναύλων»;"},
+        "options": [
+          {"en": "Win advertising awards for its slogan", "el": "Να κερδίσει βραβεία για το σλόγκαν της"},
+          {"en": "Decide quickly what to do and what not to do", "el": "Να αποφασίζει γρήγορα τι κάνει και τι όχι"},
+          {"en": "Justify raising its ticket prices", "el": "Να δικαιολογήσει την αύξηση των εισιτηρίων"}
+        ],
+        "answer": 1,
+        "why": {"en": "A clear core works as a filter: any idea that does not serve it gets a quick no.", "el": "Ένας καθαρός πυρήνας λειτουργεί σαν φίλτρο: κάθε ιδέα που δεν τον υπηρετεί παίρνει γρήγορα ένα «όχι»."}
+      }
+    },
+    {
+      "title": {"en": "Build on what they know", "el": "Χτίσε πάνω σε όσα ήδη ξέρουν"},
+      "explain": {
+        "en": "To make a new idea simple and compact, hook it onto something people already know. The Heaths call this using a schema: a ready picture in their head that you can borrow, so one comparison carries a lot of meaning fast. The best analogies are generative: they keep producing the right behaviour, because people can reason from them in situations you never covered.",
+        "el": "Για να κάνεις μια νέα ιδέα απλή και σύντομη, κρέμασέ τη πάνω σε κάτι που ο κόσμος ήδη ξέρει. Οι Χιθ το λένε χρήση «σχήματος»: μιας έτοιμης εικόνας στο μυαλό του άλλου που τη δανείζεσαι, ώστε μία σύγκριση να μεταφέρει πολύ νόημα γρήγορα. Οι καλύτερες αναλογίες είναι «γόνιμες»: παράγουν συνέχεια τη σωστή συμπεριφορά, γιατί ο κόσμος μπορεί να σκεφτεί με βάση αυτές ακόμα και σε καταστάσεις που δεν πρόβλεψες."
+      },
+      "example": {
+        "en": "Describing a pomelo as «basically a supersized grapefruit with a thick, soft rind» is instantly clear. The film «Alien» was pitched as «Jaws on a spaceship». Disney calls its park staff «cast members» working «on stage»; that one analogy tells every employee how to behave in public, even in situations no manual covers.",
+        "el": "Αν περιγράψεις το πομέλο ως «ουσιαστικά ένα τεράστιο γκρέιπφρουτ με χοντρή, μαλακή φλούδα», γίνεται αμέσως κατανοητό. Η ταινία «Άλιεν» παρουσιάστηκε στους παραγωγούς ως «Τα σαγόνια του καρχαρία σε διαστημόπλοιο». Η Disney αποκαλεί το προσωπικό των πάρκων της «μέλη του θιάσου» που δουλεύουν «στη σκηνή»· αυτή η μία αναλογία λέει σε κάθε υπάλληλο πώς να φέρεται μπροστά στον κόσμο, ακόμα και σε καταστάσεις που δεν καλύπτει κανένα εγχειρίδιο."
+      },
+      "apply": {
+        "en": "Explain your offer with a comparison doctors already know: «It is like renting a fully set-up practice: we build and set up the space for 0€, and you pay only the yearly rent.» Call client-facing work the «front desk» so your team knows the standard expected.",
+        "el": "Εξήγησε την προσφορά σου με μια σύγκριση που ο γιατρός ήδη ξέρει: «Είναι σαν να νοικιάζετε ένα έτοιμο ιατρείο: εμείς στήνουμε τον χώρο με 0€ και εσείς πληρώνετε μόνο το ετήσιο ενοίκιο». Ονόμασε τη δουλειά με τους πελάτες «υποδοχή», ώστε η ομάδα σου να ξέρει τι επίπεδο περιμένεις."
+      },
+      "check": {
+        "q": {"en": "Why does the «cast members» idea work so well at Disney?", "el": "Γιατί η ιδέα των «μελών του θιάσου» δουλεύει τόσο καλά στη Disney;"},
+        "options": [
+          {"en": "It sounds nicer in job advertisements", "el": "Ακούγεται πιο ωραία στις αγγελίες εργασίας"},
+          {"en": "It is shorter than the word «employee»", "el": "Είναι πιο σύντομο από τη λέξη «υπάλληλος»"},
+          {"en": "Staff can work out how to act in any new situation", "el": "Το προσωπικό μπορεί να βρει πώς να φερθεί σε κάθε νέα κατάσταση"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is a generative analogy: people reason from «I am on stage» to the right behaviour by themselves.", "el": "Είναι γόνιμη αναλογία: από το «είμαι στη σκηνή» ο καθένας βρίσκει μόνος του τη σωστή συμπεριφορά."}
+      }
+    },
+    {
+      "title": {"en": "Break a pattern", "el": "Σπάσε το μοτίβο"},
+      "explain": {
+        "en": "To get attention, break a pattern. Our brains tune out whatever is predictable, like the usual flight safety announcement. Surprise makes people stop and look. But surprise must lead somewhere: it should reveal the uncommon sense inside your core message, not be a gimmick. Find what is counterintuitive about your idea and lead with that.",
+        "el": "Για να τραβήξεις την προσοχή, σπάσε ένα μοτίβο. Ο εγκέφαλος «κλείνει» μπροστά σε ό,τι είναι προβλέψιμο, όπως η συνηθισμένη ανακοίνωση ασφαλείας στο αεροπλάνο. Η έκπληξη κάνει τον κόσμο να σταματήσει και να κοιτάξει. Πρέπει όμως να οδηγεί κάπου: να φανερώνει το απρόσμενο κομμάτι του πυρήνα σου, όχι να είναι κόλπο. Βρες τι είναι αντίθετο με όσα περιμένει κανείς στην ιδέα σου και ξεκίνα από εκεί."
+      },
+      "example": {
+        "en": "Nordstrom builds its service culture on surprising stories: an employee who gift-wrapped items a customer had bought at Macy's, and another who refunded a set of tyre chains, though Nordstrom does not sell tyre chains. «Good service» is predictable; these stories show staff what remarkable service really means.",
+        "el": "Η Nordstrom χτίζει την κουλτούρα εξυπηρέτησής της πάνω σε απρόσμενες ιστορίες: μια υπάλληλος τύλιξε για δώρο πράγματα που ο πελάτης είχε αγοράσει από το Macy's, κι ένας άλλος επέστρεψε χρήματα για αλυσίδες χιονιού, ενώ η Nordstrom δεν πουλά αλυσίδες χιονιού. Το «καλή εξυπηρέτηση» είναι προβλέψιμο· αυτές οι ιστορίες δείχνουν στο προσωπικό τι σημαίνει πραγματικά εξαιρετική εξυπηρέτηση."
+      },
+      "apply": {
+        "en": "Break what doctors expect from a sales call, using only true facts: «I am not asking you to pay anything to see it. The build is 0€, and you only decide after you see your site ready.» In ads, lead with the number that breaks expectations: 0€ build.",
+        "el": "Σπάσε αυτό που περιμένει ο γιατρός από ένα τηλεφώνημα πώλησης, μόνο με αληθινά στοιχεία: «Δεν σας ζητάω να πληρώσετε τίποτα για να τη δείτε. Η κατασκευή είναι 0€ και αποφασίζετε αφού δείτε τη σελίδα σας έτοιμη». Στις διαφημίσεις, ξεκίνα με τον αριθμό που σπάει τις προσδοκίες: 0€ κατασκευή."
+      },
+      "check": {
+        "q": {"en": "What should a surprise lead to?", "el": "Πού πρέπει να οδηγεί μια έκπληξη;"},
+        "options": [
+          {"en": "A laugh that people will share", "el": "Σε ένα γέλιο που θα μοιραστεί ο κόσμος"},
+          {"en": "Your core message, seen in a new way", "el": "Στο κεντρικό σου μήνυμα, ιδωμένο με νέο τρόπο"},
+          {"en": "Confusion that keeps them guessing", "el": "Σε μια σύγχυση που τους κρατά να μαντεύουν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Surprise without a link to the core is a gimmick; with it, it makes your point memorable.", "el": "Η έκπληξη χωρίς σύνδεση με τον πυρήνα είναι κόλπο· με σύνδεση, κάνει το μήνυμά σου αξέχαστο."}
+      }
+    },
+    {
+      "title": {"en": "Open a curiosity gap", "el": "Άνοιξε ένα κενό περιέργειας"},
+      "explain": {
+        "en": "Surprise grabs attention; curiosity keeps it. Psychologist George Loewenstein showed that curiosity comes from a gap in our knowledge: once we notice something we do not know, it itches until we fill it. So first show people what they are missing, open a question or a mystery, and only then give the answer. Mysteries hold attention far longer than plain facts.",
+        "el": "Η έκπληξη τραβά την προσοχή· η περιέργεια την κρατά. Ο ψυχολόγος Τζορτζ Λόβενσταϊν έδειξε ότι η περιέργεια γεννιέται από ένα κενό στις γνώσεις μας: μόλις καταλάβουμε ότι κάτι δεν το ξέρουμε, μας τρώει μέχρι να το μάθουμε. Δείξε λοιπόν πρώτα στον κόσμο τι του λείπει, άνοιξε μια ερώτηση ή ένα μυστήριο, και μόνο μετά δώσε την απάντηση. Τα μυστήρια κρατούν την προσοχή πολύ περισσότερο από τα σκέτα στοιχεία."
+      },
+      "example": {
+        "en": "Psychologist Robert Cialdini found that students engaged far more when he presented science as a mystery: how could three respected teams of scientists reach opposite conclusions about what Saturn's rings are made of? The answer, ice covered in dust, came only after the students badly wanted to know.",
+        "el": "Ο ψυχολόγος Ρόμπερτ Τσιαλντίνι διαπίστωσε ότι οι φοιτητές έδειχναν πολύ περισσότερο ενδιαφέρον όταν τους παρουσίαζε την επιστήμη σαν μυστήριο: πώς γίνεται τρεις σοβαρές ομάδες επιστημόνων να καταλήγουν σε αντίθετα συμπεράσματα για το από τι είναι φτιαγμένοι οι δακτύλιοι του Κρόνου; Η απάντηση, πάγος σκεπασμένος με σκόνη, ερχόταν μόνο όταν οι φοιτητές ήθελαν πια πολύ να τη μάθουν."
+      },
+      "apply": {
+        "en": "Open a reel with a gap: «Why does a patient choose a colleague he has never heard of instead of you?» Then answer: often because he found the colleague first on Google. On calls ask: «Do you know what a patient sees when he searches your name?» before you show it.",
+        "el": "Άνοιξε ένα reel με ένα κενό: «Γιατί ένας ασθενής διαλέγει έναν συνάδελφό σας που δεν έχει ακούσει ποτέ, αντί για εσάς;» Μετά απάντησε: συχνά επειδή βρήκε πρώτα εκείνον στο Google. Στα τηλεφωνήματα ρώτα: «Ξέρετε τι βλέπει ένας ασθενής όταν ψάχνει το όνομά σας;» πριν του το δείξεις."
+      },
+      "check": {
+        "q": {"en": "What creates curiosity, according to Loewenstein?", "el": "Τι γεννά την περιέργεια, σύμφωνα με τον Λόβενσταϊν;"},
+        "options": [
+          {"en": "Noticing a gap in what we know", "el": "Το να προσέξουμε ένα κενό σε όσα ξέρουμε"},
+          {"en": "Hearing many facts very quickly", "el": "Το να ακούσουμε πολλά στοιχεία πολύ γρήγορα"},
+          {"en": "Being told that something is important", "el": "Το να μας πουν ότι κάτι είναι σημαντικό"}
+        ],
+        "answer": 0,
+        "why": {"en": "A noticed gap feels uncomfortable, so people keep listening until it is filled.", "el": "Ένα κενό που το έχεις προσέξει σε ενοχλεί, οπότε συνεχίζεις να ακούς μέχρι να γεμίσει."}
+      }
+    },
+    {
+      "title": {"en": "Make it concrete", "el": "Κάν' το χειροπιαστό"},
+      "explain": {
+        "en": "Abstract words like «quality», «solutions» or «innovation» slide out of memory. Concrete ideas are things you can see, touch or picture: people, objects, actions. The Heaths compare memory to Velcro: the more hooks an idea has, the better it sticks, and concrete details give it many hooks. Concrete language also lets beginners and experts understand the same thing.",
+        "el": "Αφηρημένες λέξεις όπως «ποιότητα», «λύσεις» ή «καινοτομία» γλιστρούν από τη μνήμη. Χειροπιαστές ιδέες είναι όσα μπορείς να δεις, να αγγίξεις ή να φανταστείς: άνθρωποι, αντικείμενα, πράξεις. Οι Χιθ παρομοιάζουν τη μνήμη με σκρατς (Velcro): όσα περισσότερα αγκιστράκια έχει μια ιδέα, τόσο καλύτερα κολλάει, και οι χειροπιαστές λεπτομέρειες της δίνουν πολλά. Η συγκεκριμένη γλώσσα κάνει επίσης αρχάριους και ειδικούς να καταλαβαίνουν το ίδιο πράγμα."
+      },
+      "example": {
+        "en": "Try it: name ten white things. Now name ten white things in your fridge. The second is much easier, because the fridge gives your memory concrete hooks. Aesop's fox, who calls the grapes he cannot reach sour, works the same way: an idea about 2,500 years old that sticks because you can picture it.",
+        "el": "Δοκίμασέ το: πες δέκα άσπρα πράγματα. Τώρα πες δέκα άσπρα πράγματα που έχεις στο ψυγείο. Το δεύτερο είναι πολύ πιο εύκολο, γιατί το ψυγείο δίνει στη μνήμη σου χειροπιαστά αγκιστράκια. Η αλεπού του Αισώπου, που λέει τα σταφύλια που δεν φτάνει «άγουρα», δουλεύει με τον ίδιο τρόπο: μια ιδέα περίπου 2.500 χρόνων που μένει γιατί μπορείς να τη δεις με τα μάτια του μυαλού."
+      },
+      "apply": {
+        "en": "Replace every abstract phrase on advonmedia.com with a concrete picture: not «modern design» but «a site that opens in a second on the phone, with your number on the first screen». In calls say «patients searching at 11 at night», not «online visibility».",
+        "el": "Αντικατέστησε κάθε αφηρημένη φράση στο advonmedia.com με μια χειροπιαστή εικόνα: όχι «μοντέρνος σχεδιασμός» αλλά «μια σελίδα που ανοίγει σε ένα δευτερόλεπτο στο κινητό, με το τηλέφωνό σας στην πρώτη οθόνη». Στα τηλεφωνήματα πες «ασθενείς που ψάχνουν στις 11 το βράδυ», όχι «διαδικτυακή παρουσία»."
+      },
+      "check": {
+        "q": {"en": "Why do concrete details stick better?", "el": "Γιατί οι χειροπιαστές λεπτομέρειες μένουν καλύτερα;"},
+        "options": [
+          {"en": "They sound more scientific", "el": "Ακούγονται πιο επιστημονικές"},
+          {"en": "They are shorter to write", "el": "Γράφονται πιο σύντομα"},
+          {"en": "They give memory more hooks to hold on to", "el": "Δίνουν στη μνήμη περισσότερα σημεία να πιαστεί"}
+        ],
+        "answer": 2,
+        "why": {"en": "Memory is like Velcro: images, objects and actions give an idea many hooks.", "el": "Η μνήμη μοιάζει με σκρατς: οι εικόνες, τα αντικείμενα και οι πράξεις δίνουν σε μια ιδέα πολλά αγκιστράκια."}
+      }
+    },
+    {
+      "title": {"en": "Concrete goals unite a team", "el": "Οι χειροπιαστοί στόχοι ενώνουν την ομάδα"},
+      "explain": {
+        "en": "Being concrete is also how you get a team to pull in one direction. An abstract goal like «be the best» lets every person picture something different. A concrete goal describes a result everyone sees the same way, so designers, builders and sellers can all aim at it. If anyone can tell whether the goal was reached, it is concrete enough.",
+        "el": "Το χειροπιαστό είναι επίσης ο τρόπος να τραβήξει μια ομάδα προς την ίδια κατεύθυνση. Ένας αφηρημένος στόχος όπως «να γίνουμε οι καλύτεροι» αφήνει τον καθένα να φανταστεί κάτι διαφορετικό. Ένας χειροπιαστός στόχος περιγράφει ένα αποτέλεσμα που όλοι βλέπουν με τον ίδιο τρόπο, ώστε σχεδιαστές, κατασκευαστές και πωλητές να στοχεύουν στο ίδιο. Αν ο καθένας μπορεί να πει αν ο στόχος επιτεύχθηκε, είναι αρκετά συγκεκριμένος."
+      },
+      "example": {
+        "en": "In the 1960s Boeing did not ask its engineers simply for «the best passenger plane». The goal for the 727 was concrete: seat 131 passengers, fly nonstop from Miami to New York, and land on LaGuardia's short runway 4-22. Every team could check its work against that.",
+        "el": "Τη δεκαετία του '60 η Boeing δεν ζήτησε απλώς από τους μηχανικούς της «το καλύτερο επιβατικό αεροπλάνο». Ο στόχος για το 727 ήταν χειροπιαστός: 131 θέσεις, πτήση χωρίς στάση από το Μαϊάμι στη Νέα Υόρκη και προσγείωση στον κοντό διάδρομο 4-22 του αεροδρομίου LaGuardia. Κάθε ομάδα μπορούσε να ελέγξει τη δουλειά της με βάση αυτό."
+      },
+      "apply": {
+        "en": "Give your team concrete targets: not «better sites» but «every new site scores 90 or more on Google PageSpeed on mobile and shows the phone number on the first screen». Not «more leads» but «40 calls a day and 3 video meetings a week».",
+        "el": "Δώσε στην ομάδα σου χειροπιαστούς στόχους: όχι «καλύτερες σελίδες» αλλά «κάθε νέα σελίδα πιάνει 90 και πάνω στο Google PageSpeed για κινητό και δείχνει το τηλέφωνο στην πρώτη οθόνη». Όχι «περισσότεροι πελάτες» αλλά «40 τηλεφωνήματα τη μέρα και 3 βιντεοκλήσεις την εβδομάδα»."
+      },
+      "check": {
+        "q": {"en": "Which of these is a concrete goal?", "el": "Ποιος από αυτούς είναι χειροπιαστός στόχος;"},
+        "options": [
+          {"en": "Become the best agency in Greece", "el": "Να γίνουμε η καλύτερη εταιρεία στην Ελλάδα"},
+          {"en": "Every site shows the phone number on the first screen", "el": "Κάθε σελίδα δείχνει το τηλέφωνο στην πρώτη οθόνη"},
+          {"en": "Deliver an excellent customer experience", "el": "Να προσφέρουμε εξαιρετική εμπειρία πελάτη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Anyone can check it with their own eyes, so everyone aims at the same result.", "el": "Ο καθένας μπορεί να το ελέγξει με τα μάτια του, οπότε όλοι στοχεύουν στο ίδιο αποτέλεσμα."}
+      }
+    },
+    {
+      "title": {"en": "Let them test it", "el": "Άφησέ τους να το ελέγξουν"},
+      "explain": {
+        "en": "Credible ideas make people believe. One powerful way is to let the audience check the claim for themselves, like a «try before you buy». The Heaths call these testable credentials. Instead of arguing, you hand people a way to verify, and their own experience convinces them. A claim they check themselves is stronger than any claim you make.",
+        "el": "Οι αξιόπιστες ιδέες κάνουν τον κόσμο να πιστέψει. Ένας δυνατός τρόπος είναι να αφήσεις το κοινό να ελέγξει μόνο του τον ισχυρισμό, σαν «δοκίμασε πριν αγοράσεις». Οι Χιθ το λένε «διαπιστευτήρια που ελέγχονται». Αντί να επιχειρηματολογείς, δίνεις στον άλλον τρόπο να το επιβεβαιώσει, και τον πείθει η δική του εμπειρία. Ένας ισχυρισμός που ελέγχει ο ίδιος είναι πιο δυνατός από οτιδήποτε μπορείς να πεις εσύ."
+      },
+      "example": {
+        "en": "In a 1980 debate, Ronald Reagan did not recite inflation figures against Jimmy Carter. He asked voters whether they were better off than four years earlier, and each person checked it against their own life. Doctor Barry Marshall went further: he drank ulcer-linked bacteria to prove his theory, and later shared a Nobel Prize.",
+        "el": "Σε ένα ντιμπέιτ του 1980, ο Ρόναλντ Ρίγκαν δεν απήγγειλε νούμερα πληθωρισμού απέναντι στον Τζίμι Κάρτερ. Ρώτησε τους ψηφοφόρους αν ήταν καλύτερα απ' ό,τι τέσσερα χρόνια πριν, και ο καθένας το έλεγξε με τη δική του ζωή. Ο γιατρός Μπάρι Μάρσαλ πήγε πιο μακριά: ήπιε βακτήρια που συνδέονται με το έλκος για να αποδείξει τη θεωρία του, και αργότερα μοιράστηκε ένα Νόμπελ."
+      },
+      "apply": {
+        "en": "Let doctors check, not just trust: «Search your specialty and area on your phone right now. Who comes first? Now open the link I just sent you.» Send the drafts.advonmedia.com link so he opens his draft on his own phone. His own check beats your promise.",
+        "el": "Άφησε τον γιατρό να ελέγξει, όχι απλώς να σε πιστέψει: «Ψάξτε τώρα στο κινητό σας την ειδικότητα και την περιοχή σας. Ποιος βγαίνει πρώτος; Τώρα ανοίξτε το link που σας έστειλα». Στείλε το link του drafts.advonmedia.com ώστε να ανοίξει το προσχέδιο στο δικό του κινητό. Ο δικός του έλεγχος νικά την υπόσχεσή σου."
+      },
+      "check": {
+        "q": {"en": "What is a testable credential?", "el": "Τι είναι ένα «διαπιστευτήριο που ελέγχεται»;"},
+        "options": [
+          {"en": "A claim the audience can check for themselves", "el": "Ένας ισχυρισμός που το κοινό μπορεί να ελέγξει μόνο του"},
+          {"en": "A diploma displayed on your website", "el": "Ένα πτυχίο αναρτημένο στη σελίδα σου"},
+          {"en": "A promise backed by a famous name", "el": "Μια υπόσχεση με ένα διάσημο όνομα από πίσω"}
+        ],
+        "answer": 0,
+        "why": {"en": "People trust what they verify with their own eyes more than anything you tell them.", "el": "Ο κόσμος εμπιστεύεται αυτό που επιβεβαιώνει με τα μάτια του περισσότερο από ό,τι του λες εσύ."}
+      }
+    },
+    {
+      "title": {"en": "The power of anti-authorities", "el": "Η δύναμη του απλού μάρτυρα"},
+      "explain": {
+        "en": "We usually believe experts and celebrities. But the Heaths show that the most credible voice is sometimes an anti-authority: an ordinary person who has lived the problem. Their honesty and visible experience make the message hard to dismiss. What makes a source credible is not status but real, believable experience of the thing you are talking about.",
+        "el": "Συνήθως πιστεύουμε τους ειδικούς και τους διάσημους. Οι Χιθ όμως δείχνουν ότι η πιο αξιόπιστη φωνή είναι μερικές φορές ένας «αντι-ειδικός»: ένας απλός άνθρωπος που έζησε το πρόβλημα. Η ειλικρίνειά του και η εμπειρία που φαίνεται πάνω του κάνουν το μήνυμα δύσκολο να το αγνοήσεις. Αυτό που κάνει μια πηγή αξιόπιστη δεν είναι το κύρος, αλλά η πραγματική, πιστευτή εμπειρία σε αυτό που λες."
+      },
+      "example": {
+        "en": "An anti-smoking campaign in Massachusetts featured Pam Laffin, a young mother who had started smoking as a child and was seriously ill with emphysema in her twenties. She simply told her story on camera. Teenagers shrugged off lectures from doctors, but they could not shrug her off.",
+        "el": "Μια αντικαπνιστική καμπάνια στη Μασαχουσέτη είχε πρωταγωνίστρια την Παμ Λάφιν, μια νεαρή μητέρα που είχε ξεκινήσει το κάπνισμα από παιδί και στα είκοσί της ήταν βαριά άρρωστη με εμφύσημα. Απλώς έλεγε την ιστορία της στην κάμερα. Οι έφηβοι αδιαφορούσαν για τις συμβουλές των γιατρών, αλλά εκείνη δεν μπορούσαν να την αγνοήσουν."
+      },
+      "apply": {
+        "en": "In ads, let a real client speak instead of you: a short video where a psychologist says in her own words what changed, filmed with her consent and saying only what is true. One honest client voice is worth more than anything you claim about yourself.",
+        "el": "Στις διαφημίσεις, άφησε έναν πραγματικό πελάτη να μιλήσει αντί για σένα: ένα μικρό βίντεο όπου μια ψυχολόγος λέει με δικά της λόγια τι άλλαξε, γυρισμένο με τη συναίνεσή της και μόνο με αλήθειες. Μια ειλικρινής φωνή πελάτη αξίζει περισσότερο από οτιδήποτε ισχυριστείς εσύ για τον εαυτό σου."
+      },
+      "check": {
+        "q": {"en": "What is an anti-authority?", "el": "Ποιος είναι ένας «αντι-ειδικός»;"},
+        "options": [
+          {"en": "An expert who disagrees with you", "el": "Ένας ειδικός που διαφωνεί μαζί σου"},
+          {"en": "A celebrity paid to promote you", "el": "Ένας διάσημος που πληρώνεται για να σε προωθήσει"},
+          {"en": "An ordinary person who lived the problem and tells it honestly", "el": "Ένας απλός άνθρωπος που έζησε το πρόβλημα και το λέει ειλικρινά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Real lived experience can be more believable than any title or fame.", "el": "Η πραγματική, βιωμένη εμπειρία μπορεί να είναι πιο πιστευτή από κάθε τίτλο ή φήμη."}
+      }
+    },
+    {
+      "title": {"en": "Numbers on a human scale", "el": "Αριθμοί σε ανθρώπινη κλίμακα"},
+      "explain": {
+        "en": "Vivid details make a story believable: one specific, accurate detail shows you know what you are talking about. Statistics can help too, but big numbers mean nothing to most people. Turn them into something human-scale and visual, a comparison people can feel. What matters is rarely the number itself; it is the relationship the number shows.",
+        "el": "Οι ζωντανές λεπτομέρειες κάνουν μια ιστορία πιστευτή: μία συγκεκριμένη, ακριβής λεπτομέρεια δείχνει ότι ξέρεις τι λες. Τα στατιστικά βοηθούν κι αυτά, αλλά οι μεγάλοι αριθμοί δεν λένε τίποτα στους περισσότερους. Κάν' τους κάτι σε ανθρώπινη κλίμακα και οπτικό, μια σύγκριση που ο κόσμος νιώθει. Αυτό που μετράει σπάνια είναι ο ίδιος ο αριθμός· είναι η σχέση που δείχνει."
+      },
+      "example": {
+        "en": "To show the size of the world's nuclear arsenal in the 1980s, the group Beyond War dropped one small metal pellet into a bucket: that was the Hiroshima bomb. Then they poured in 5,000 pellets, one for each bomb of that power in the world. The long roar said more than any figure.",
+        "el": "Για να δείξει το μέγεθος του πυρηνικού οπλοστασίου του κόσμου τη δεκαετία του '80, η οργάνωση Beyond War έριχνε ένα μικρό μεταλλικό σφαιρίδιο σε έναν κουβά: αυτό ήταν η βόμβα της Χιροσίμα. Μετά έριχνε 5.000 σφαιρίδια, ένα για κάθε βόμβα τέτοιας ισχύος στον κόσμο. Ο μακρύς θόρυβος έλεγε περισσότερα από κάθε νούμερο."
+      },
+      "apply": {
+        "en": "Translate your numbers into a doctor's world: «About 130€ a year is around 2.50€ a week, the price of one coffee.» And: «If just one new patient a year finds you through the site, it has already paid for itself.»",
+        "el": "Μετάφρασε τα νούμερά σου στον κόσμο του γιατρού: «Περίπου 130€ τον χρόνο είναι γύρω στα 2,50€ την εβδομάδα, όσο ένας καφές». Και: «Αν σας βρει μέσω της σελίδας έστω ένας νέος ασθενής τον χρόνο, έχει ήδη βγάλει τα λεφτά της»."
+      },
+      "check": {
+        "q": {"en": "How should you present a big statistic?", "el": "Πώς πρέπει να παρουσιάζεις ένα μεγάλο στατιστικό;"},
+        "options": [
+          {"en": "Translate it into a human-scale comparison", "el": "Μεταφράζοντάς το σε μια σύγκριση ανθρώπινης κλίμακας"},
+          {"en": "Show it in a much bigger font", "el": "Δείχνοντάς το με πολύ μεγαλύτερα γράμματα"},
+          {"en": "Repeat it several times in a row", "el": "Επαναλαμβάνοντάς το πολλές φορές στη σειρά"}
+        ],
+        "answer": 0,
+        "why": {"en": "People feel comparisons from their own world; raw big numbers stay abstract.", "el": "Ο κόσμος νιώθει τις συγκρίσεις από τον δικό του κόσμο· οι σκέτοι μεγάλοι αριθμοί μένουν αφηρημένοι."}
+      }
+    },
+    {
+      "title": {"en": "The Sinatra Test", "el": "Το τεστ Σινάτρα"},
+      "explain": {
+        "en": "A Sinatra Test is one example so strong that it proves you can handle anything, as in the song about New York: if you can make it there, you can make it anywhere. One credible case where you handled the hardest version of a problem can replace a long list of claims. Look for your hardest, most impressive real case and lead with it.",
+        "el": "Το τεστ Σινάτρα είναι ένα παράδειγμα τόσο δυνατό που αποδεικνύει ότι μπορείς να τα καταφέρεις με οτιδήποτε, όπως στο τραγούδι για τη Νέα Υόρκη: αν τα καταφέρεις εκεί, τα καταφέρνεις παντού. Μία αξιόπιστη περίπτωση όπου έλυσες την πιο δύσκολη εκδοχή ενός προβλήματος μπορεί να αντικαταστήσει μια μεγάλη λίστα ισχυρισμών. Βρες την πιο δύσκολη, πιο εντυπωσιακή αληθινή σου περίπτωση και ξεκίνα από αυτήν."
+      },
+      "example": {
+        "en": "In India, the logistics company Safexpress won large clients with one story: it had delivered a new Harry Potter book to stores across the country on time, with no copy leaking before release day. If it could protect that launch, it could handle anyone's deliveries.",
+        "el": "Στην Ινδία, η εταιρεία μεταφορών Safexpress κέρδιζε μεγάλους πελάτες με μία ιστορία: είχε μοιράσει ένα νέο βιβλίο του Χάρι Πότερ σε βιβλιοπωλεία όλης της χώρας στην ώρα του, χωρίς να διαρρεύσει ούτε ένα αντίτυπο πριν από τη μέρα κυκλοφορίας. Αν μπορούσε να προστατέψει εκείνη την κυκλοφορία, μπορούσε να αναλάβει τις παραδόσεις οποιουδήποτε."
+      },
+      "apply": {
+        "en": "Find your Sinatra case among real jobs: the most demanding specialist you satisfied, or the busiest practice you built for. Tell it in one line on calls: «If it worked for a practice that busy, it will work for yours.» Never use a case that did not happen.",
+        "el": "Βρες την περίπτωση Σινάτρα σου ανάμεσα σε πραγματικές δουλειές: τον πιο απαιτητικό ειδικό που ικανοποίησες ή το πιο πολυάσχολο ιατρείο για το οποίο έφτιαξες σελίδα. Πες τη σε μία γραμμή στα τηλεφωνήματα: «Αν δούλεψε για ένα τόσο φορτωμένο ιατρείο, θα δουλέψει και για το δικό σας». Ποτέ μη χρησιμοποιήσεις περίπτωση που δεν συνέβη."
+      },
+      "check": {
+        "q": {"en": "What makes an example pass the Sinatra Test?", "el": "Τι κάνει ένα παράδειγμα να περνά το τεστ Σινάτρα;"},
+        "options": [
+          {"en": "It involves a famous celebrity", "el": "Έχει μέσα έναν διάσημο"},
+          {"en": "It proves you can handle the hardest case", "el": "Αποδεικνύει ότι τα βγάζεις πέρα με την πιο δύσκολη περίπτωση"},
+          {"en": "It is the most recent example you have", "el": "Είναι το πιο πρόσφατο παράδειγμα που έχεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "If you succeeded in the toughest case, people assume you can handle the easier ones.", "el": "Αν πέτυχες στην πιο δύσκολη περίπτωση, ο κόσμος υποθέτει ότι μπορείς και τις πιο εύκολες."}
+      }
+    },
+    {
+      "title": {"en": "One person, not millions", "el": "Ένας άνθρωπος, όχι εκατομμύρια"},
+      "explain": {
+        "en": "To make people care, appeal to emotion, and the strongest way is through one person, not many. Big numbers push us into analytical mode, and thinking analytically actually makes us feel less. One face, one name, one story makes us feel. Show the individual first and use statistics only to support the human story, never to replace it.",
+        "el": "Για να νοιαστεί ο κόσμος, μίλα στο συναίσθημα, και ο πιο δυνατός τρόπος είναι μέσα από έναν άνθρωπο, όχι από πολλούς. Οι μεγάλοι αριθμοί μάς βάζουν σε αναλυτική διάθεση, και η αναλυτική σκέψη μάς κάνει στην πράξη να νιώθουμε λιγότερα. Ένα πρόσωπο, ένα όνομα, μία ιστορία μάς κάνουν να νιώσουμε. Δείξε πρώτα τον άνθρωπο και χρησιμοποίησε τα στατιστικά μόνο για να στηρίξουν την ανθρώπινη ιστορία, ποτέ για να την αντικαταστήσουν."
+      },
+      "example": {
+        "en": "In a study, people read either about one hungry seven-year-old girl in Mali named Rokia or about millions of hungry people in Africa. Those who read about Rokia gave more than twice as much. When people got both Rokia's story and the statistics, giving dropped again.",
+        "el": "Σε μια έρευνα, οι συμμετέχοντες διάβαζαν είτε για ένα πεινασμένο κοριτσάκι επτά χρόνων στο Μάλι, τη Ροκία, είτε για εκατομμύρια πεινασμένους στην Αφρική. Όσοι διάβασαν για τη Ροκία έδωσαν πάνω από διπλάσια χρήματα. Όταν έπαιρναν και την ιστορία της Ροκία και τα στατιστικά, οι δωρεές έπεφταν ξανά."
+      },
+      "apply": {
+        "en": "In ads and on advonmedia.com, tell the story of one client, not «200+ sites». Show one real psychologist's site and what changed for her, with her permission. Keep «200+ sites» as a small line of proof underneath, not as the headline.",
+        "el": "Στις διαφημίσεις και στο advonmedia.com, πες την ιστορία ενός πελάτη, όχι «200+ σελίδες». Δείξε τη σελίδα μιας πραγματικής ψυχολόγου και τι άλλαξε για εκείνη, με την άδειά της. Κράτα το «200+ σελίδες» ως μια μικρή γραμμή απόδειξης από κάτω, όχι ως τίτλο."
+      },
+      "check": {
+        "q": {"en": "Why did adding the statistics reduce giving?", "el": "Γιατί η προσθήκη των στατιστικών μείωσε τις δωρεές;"},
+        "options": [
+          {"en": "People thought the numbers were exaggerated", "el": "Ο κόσμος θεώρησε ότι τα νούμερα ήταν υπερβολικά"},
+          {"en": "The numbers were too small to matter", "el": "Τα νούμερα ήταν πολύ μικρά για να μετρήσουν"},
+          {"en": "Numbers make us think analytically, so we feel less", "el": "Οι αριθμοί μάς κάνουν να σκεφτόμαστε αναλυτικά, άρα νιώθουμε λιγότερα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Analysis switches off feeling; one person's story switches it on.", "el": "Η ανάλυση σβήνει το συναίσθημα· η ιστορία ενός ανθρώπου το ανάβει."}
+      }
+    },
+    {
+      "title": {"en": "What's in it for them", "el": "Τι κερδίζει ο άλλος"},
+      "explain": {
+        "en": "People care about what affects them. So spell out what is in it for them, and not in the abstract. Talk about benefits, not features, and make the benefit vivid enough that they can imagine living it. The Heaths stress that self-interest is not only money: people also care about feeling secure, respected and in control.",
+        "el": "Τον κόσμο τον νοιάζει ό,τι τον αφορά. Πες λοιπόν καθαρά τι κερδίζει ο άλλος, και όχι στη θεωρία. Μίλα για οφέλη, όχι για χαρακτηριστικά, και κάνε το όφελος τόσο ζωντανό που να μπορεί να φανταστεί τον εαυτό του να το ζει. Οι Χιθ τονίζουν ότι το συμφέρον δεν είναι μόνο τα χρήματα: ο κόσμος θέλει επίσης να νιώθει ασφάλεια, σεβασμό και έλεγχο."
+      },
+      "example": {
+        "en": "In 1982 researchers in Tempe, Arizona, went door to door offering cable TV. One group heard a list of its benefits. The other was asked to imagine themselves enjoying it, with no babysitter and no driving out at night. About 20% of the first group signed up, but 47% of those who had imagined it.",
+        "el": "Το 1982 ερευνητές στο Τέμπι της Αριζόνα πήγαν πόρτα πόρτα προσφέροντας καλωδιακή τηλεόραση. Η μία ομάδα άκουσε μια λίστα με τα οφέλη. Στην άλλη ζήτησαν να φανταστούν τον εαυτό τους να την απολαμβάνουν, χωρίς μπέιμπι σίτερ και χωρίς να οδηγούν βράδυ. Από την πρώτη ομάδα έγινε συνδρομητής περίπου το 20%, από όσους φαντάστηκαν, το 47%."
+      },
+      "apply": {
+        "en": "Ask doctors to imagine, not just listen: «Imagine a patient searching for your specialty at night, finding your site, and calling you first thing in the morning.» Don't say «responsive design and SEO»; say what changes in his week.",
+        "el": "Ζήτα από τον γιατρό να φανταστεί, όχι μόνο να ακούσει: «Φανταστείτε έναν ασθενή να ψάχνει την ειδικότητά σας βράδυ, να βρίσκει τη σελίδα σας και να σας παίρνει τηλέφωνο πρωί πρωί». Μη λες «responsive σχεδιασμός και SEO»· πες τι αλλάζει στην εβδομάδα του."
+      },
+      "check": {
+        "q": {"en": "In the Tempe study, what made more people sign up?", "el": "Στην έρευνα στο Τέμπι, τι έκανε περισσότερους να γραφτούν;"},
+        "options": [
+          {"en": "A longer list of the service's benefits", "el": "Μια μεγαλύτερη λίστα με τα οφέλη της υπηρεσίας"},
+          {"en": "Imagining themselves using the service", "el": "Το να φανταστούν τον εαυτό τους να χρησιμοποιεί την υπηρεσία"},
+          {"en": "A lower introductory price", "el": "Μια χαμηλότερη αρχική τιμή"}
+        ],
+        "answer": 1,
+        "why": {"en": "When people picture themselves enjoying the benefit, it becomes real and personal.", "el": "Όταν ο κόσμος φαντάζεται τον εαυτό του να απολαμβάνει το όφελος, αυτό γίνεται αληθινό και προσωπικό."}
+      }
+    },
+    {
+      "title": {"en": "Speak to who they are", "el": "Μίλα στην ταυτότητά τους"},
+      "explain": {
+        "en": "Sometimes the strongest appeal is not self-interest but identity: who people think they are and want to be. People often decide by asking «what would someone like me do here?» If your message fits their identity, they act. If it feels like it belongs to another kind of person, they ignore it, however good the reasons.",
+        "el": "Μερικές φορές η πιο δυνατή έκκληση δεν είναι το συμφέρον αλλά η ταυτότητα: ποιος πιστεύει ο άλλος ότι είναι και ποιος θέλει να είναι. Ο κόσμος συχνά αποφασίζει ρωτώντας «τι θα έκανε κάποιος σαν εμένα εδώ;». Αν το μήνυμά σου ταιριάζει με την ταυτότητά του, κινείται. Αν μοιάζει να απευθύνεται σε άλλου τύπου ανθρώπους, το αγνοεί, όσο καλοί κι αν είναι οι λόγοι."
+      },
+      "example": {
+        "en": "Texas had a roadside litter problem caused mostly by young men who ignored polite «please don't litter» messages. The state hired Texan sports and music stars for tough ads with the slogan «Don't Mess with Texas». Littering became an insult to Texan pride, and roadside litter dropped sharply within a few years.",
+        "el": "Το Τέξας είχε πρόβλημα με τα σκουπίδια στους δρόμους, κυρίως από νεαρούς άντρες που αγνοούσαν τα ευγενικά «παρακαλώ μην πετάτε σκουπίδια». Η πολιτεία έβαλε Τεξανούς αθλητές και μουσικούς σε σκληρές διαφημίσεις με το σύνθημα «Don't Mess with Texas», δηλαδή «Μην τα βάζεις με το Τέξας». Το να πετάς σκουπίδια έγινε προσβολή στην περηφάνια του Τεξανού, και τα σκουπίδια στους δρόμους μειώθηκαν δραματικά μέσα σε λίγα χρόνια."
+      },
+      "apply": {
+        "en": "Speak to the professional identity of each niche: «A doctor of your level deserves a site as serious as your practice.» For psychologists: «Your clients choose you because they trust you; your site should say the same.» Make a modern site part of being a respected professional.",
+        "el": "Μίλα στην επαγγελματική ταυτότητα κάθε κλάδου: «Ένας γιατρός του επιπέδου σας αξίζει μια σελίδα τόσο σοβαρή όσο το ιατρείο του». Στους ψυχολόγους: «Οι θεραπευόμενοι έρχονται σε εσάς επειδή σας εμπιστεύονται· το ίδιο πρέπει να λέει και η σελίδα σας». Κάνε τη μοντέρνα σελίδα κομμάτι του να είσαι σεβαστός επαγγελματίας."
+      },
+      "check": {
+        "q": {"en": "Why did «Don't Mess with Texas» work?", "el": "Γιατί πέτυχε το «Don't Mess with Texas»;"},
+        "options": [
+          {"en": "It tied not littering to the pride of being Texan", "el": "Έδεσε το να μη ρυπαίνεις με την περηφάνια του να είσαι Τεξανός"},
+          {"en": "It threatened drivers with very large fines", "el": "Απείλησε τους οδηγούς με πολύ μεγάλα πρόστιμα"},
+          {"en": "It was especially polite and gentle", "el": "Ήταν ιδιαίτερα ευγενικό και ήπιο"}
+        ],
+        "answer": 0,
+        "why": {"en": "It spoke to identity: a real Texan does not mess up Texas.", "el": "Μίλησε στην ταυτότητα: ένας αληθινός Τεξανός δεν βρομίζει το Τέξας."}
+      }
+    },
+    {
+      "title": {"en": "Stories are flight simulators", "el": "Οι ιστορίες είναι προσομοιωτές πτήσης"},
+      "explain": {
+        "en": "Stories make people act because they work like a flight simulator for the brain. When we hear a story, we mentally rehearse what we would do in that situation, so we are better prepared when it happens to us. A good story gives both simulation, knowing how to act, and inspiration, the energy to act. Useful stories often already exist around you; your job is to spot them.",
+        "el": "Οι ιστορίες κάνουν τον κόσμο να δράσει γιατί λειτουργούν σαν προσομοιωτής πτήσης για τον εγκέφαλο. Όταν ακούμε μια ιστορία, κάνουμε νοερή πρόβα του τι θα κάναμε σε εκείνη την κατάσταση, οπότε είμαστε πιο έτοιμοι όταν μας συμβεί. Μια καλή ιστορία δίνει και προσομοίωση, να ξέρεις πώς να κινηθείς, και έμπνευση, την ενέργεια να κινηθείς. Οι χρήσιμες ιστορίες συχνά υπάρχουν ήδη γύρω σου· η δουλειά σου είναι να τις εντοπίσεις."
+      },
+      "example": {
+        "en": "Researcher Julian Orr studied Xerox copier repairmen and found they learned more over lunch than from manuals. They swapped stories about strange breakdowns and how they finally fixed them. Each story trained the others for a problem they might meet next week.",
+        "el": "Ο ερευνητής Τζούλιαν Ορ μελέτησε τους τεχνικούς φωτοτυπικών της Xerox και βρήκε ότι μάθαιναν περισσότερα στο μεσημεριανό τραπέζι παρά από τα εγχειρίδια. Αντάλλασσαν ιστορίες για παράξενες βλάβες και για το πώς τελικά τις έλυσαν. Κάθε ιστορία εκπαίδευε τους άλλους για ένα πρόβλημα που μπορεί να συναντούσαν την επόμενη εβδομάδα."
+      },
+      "apply": {
+        "en": "Teach your team through stories, not only rules: tell step by step how you handled a client who wanted many changes before paying. Keep a «story file» of real situations and how you solved them, and have new team members read it before their first client chat.",
+        "el": "Εκπαίδευσε την ομάδα σου με ιστορίες, όχι μόνο με κανόνες: πες βήμα βήμα πώς χειρίστηκες έναν πελάτη που ήθελε πολλές αλλαγές πριν πληρώσει. Κράτα ένα «αρχείο ιστοριών» με πραγματικές καταστάσεις και πώς τις έλυσες, και βάλε κάθε νέο μέλος να το διαβάσει πριν από το πρώτο του chat με πελάτη."
+      },
+      "check": {
+        "q": {"en": "Why do the Heaths compare stories to flight simulators?", "el": "Γιατί οι Χιθ παρομοιάζουν τις ιστορίες με προσομοιωτές πτήσης;"},
+        "options": [
+          {"en": "Both are expensive to make well", "el": "Και τα δύο κοστίζουν πολύ για να γίνουν καλά"},
+          {"en": "Both are mainly a form of entertainment", "el": "Και τα δύο είναι κυρίως ψυχαγωγία"},
+          {"en": "Both let us rehearse a situation before we face it", "el": "Και τα δύο μάς αφήνουν να κάνουμε πρόβα μια κατάσταση πριν τη ζήσουμε"}
+        ],
+        "answer": 2,
+        "why": {"en": "A story is mental practice: you live the situation in your head and learn how to act.", "el": "Η ιστορία είναι νοερή εξάσκηση: ζεις την κατάσταση στο μυαλό σου και μαθαίνεις πώς να κινηθείς."}
+      }
+    },
+    {
+      "title": {"en": "Three plots that inspire", "el": "Τρεις πλοκές που εμπνέουν"},
+      "explain": {
+        "en": "When you look for inspiring stories, the Heaths say three basic plots do most of the work. The Challenge plot: an underdog beats the odds, which inspires us to act and persist. The Connection plot: people bridge a gap of class, race or anything else, which inspires us to help others. The Creativity plot: someone makes a mental breakthrough, which inspires us to try new things.",
+        "el": "Όταν ψάχνεις ιστορίες που εμπνέουν, λένε οι Χιθ, τρεις βασικές πλοκές κάνουν το μεγαλύτερο μέρος της δουλειάς. Η πλοκή της πρόκλησης: ο αουτσάιντερ νικά τις πιθανότητες, και αυτό μας εμπνέει να δράσουμε και να επιμείνουμε. Η πλοκή της σύνδεσης: άνθρωποι γεφυρώνουν ένα χάσμα τάξης, καταγωγής ή οτιδήποτε άλλου, και αυτό μας εμπνέει να βοηθήσουμε. Η πλοκή της δημιουργικότητας: κάποιος κάνει μια πνευματική ανακάλυψη, και αυτό μας εμπνέει να δοκιμάσουμε κάτι νέο."
+      },
+      "example": {
+        "en": "David beating Goliath is the classic Challenge plot. The Good Samaritan, who helps a stranger from a group that looked down on his own, is the Connection plot. Newton and the falling apple, true or not, is the Creativity plot. Each has been retold for centuries because each moves us toward a different action.",
+        "el": "Ο Δαβίδ που νικά τον Γολιάθ είναι η κλασική πλοκή της πρόκλησης. Ο Καλός Σαμαρείτης, που βοηθά έναν άγνωστο από μια ομάδα που περιφρονούσε τη δική του, είναι η πλοκή της σύνδεσης. Ο Νεύτωνας με το μήλο που πέφτει, αληθινό ή όχι, είναι η πλοκή της δημιουργικότητας. Η καθεμία λέγεται εδώ και αιώνες γιατί η καθεμία μας σπρώχνει σε διαφορετική πράξη."
+      },
+      "apply": {
+        "en": "Use the Challenge plot for your own story in ads: a small team using AI to compete with big agencies, at 0€ build. Use Connection for a real client who feared technology and now feels at home with his site. Choose the plot by the action you want.",
+        "el": "Χρησιμοποίησε την πλοκή της πρόκλησης για τη δική σου ιστορία στις διαφημίσεις: μια μικρή ομάδα με AI που ανταγωνίζεται μεγάλες εταιρείες, με 0€ κατασκευή. Χρησιμοποίησε τη σύνδεση για έναν πραγματικό πελάτη που φοβόταν την τεχνολογία και τώρα νιώθει άνετα με τη σελίδα του. Διάλεξε πλοκή ανάλογα με την πράξη που θέλεις να προκαλέσεις."
+      },
+      "check": {
+        "q": {"en": "Which plot fits «a small team beats the big players»?", "el": "Ποια πλοκή ταιριάζει στο «η μικρή ομάδα νικά τους μεγάλους»;"},
+        "options": [
+          {"en": "The Challenge plot", "el": "Η πλοκή της πρόκλησης"},
+          {"en": "The Connection plot", "el": "Η πλοκή της σύνδεσης"},
+          {"en": "The Creativity plot", "el": "Η πλοκή της δημιουργικότητας"}
+        ],
+        "answer": 0,
+        "why": {"en": "An underdog overcoming the odds is the Challenge plot, which inspires action and persistence.", "el": "Ο αουτσάιντερ που ξεπερνά τις πιθανότητες είναι η πλοκή της πρόκλησης, που εμπνέει δράση και επιμονή."}
+      }
+    },
+    {
+      "title": {"en": "Stories beat statistics", "el": "Οι ιστορίες νικούν τα στατιστικά"},
+      "explain": {
+        "en": "The Heaths end with a warning: most speakers think a strong argument is enough, so they stack up facts. But what makes a message effective is not what impresses in the moment; it is what people remember and act on later. Stories and concrete images survive; lists of numbers do not. Judge your message by what your listener can retell tomorrow.",
+        "el": "Οι Χιθ κλείνουν με μια προειδοποίηση: οι περισσότεροι ομιλητές πιστεύουν ότι αρκεί ένα δυνατό επιχείρημα, οπότε στοιβάζουν στοιχεία. Αυτό όμως που κάνει ένα μήνυμα αποτελεσματικό δεν είναι ό,τι εντυπωσιάζει τη στιγμή, αλλά ό,τι θυμάται ο κόσμος και κάνει αργότερα. Οι ιστορίες και οι χειροπιαστές εικόνες επιβιώνουν· οι λίστες με νούμερα όχι. Κρίνε το μήνυμά σου από το τι μπορεί να ξαναπεί ο ακροατής σου αύριο."
+      },
+      "example": {
+        "en": "In Chip Heath's Stanford class, students give one-minute persuasive speeches. Ten minutes later, classmates write down what they remember. Only about 1 in 20 recalls any statistic, but about 63% recall the stories. The smoothest speakers were often not the ones whose ideas stuck.",
+        "el": "Στο μάθημα του Τσιπ Χιθ στο Στάνφορντ, οι φοιτητές κάνουν ομιλίες πειθούς ενός λεπτού. Δέκα λεπτά αργότερα, οι συμφοιτητές τους γράφουν τι θυμούνται. Μόνο περίπου 1 στους 20 θυμάται κάποιο στατιστικό, ενώ περίπου το 63% θυμάται τις ιστορίες. Οι πιο άνετοι ομιλητές συχνά δεν ήταν αυτοί που οι ιδέες τους έμειναν."
+      },
+      "apply": {
+        "en": "After every call or meeting, ask: what can this doctor retell to a colleague tonight? Make sure it is one short story and one clear line, like «the build is 0€, I only pay about 130€ a year». Drop the rest from your script.",
+        "el": "Μετά από κάθε τηλεφώνημα ή συνάντηση, ρώτα τον εαυτό σου: τι μπορεί να ξαναπεί αυτός ο γιατρός σε έναν συνάδελφο απόψε; Φρόντισε να είναι μία σύντομη ιστορία και μία καθαρή φράση, όπως «η κατασκευή είναι 0€, πληρώνω μόνο περίπου 130€ τον χρόνο». Τα υπόλοιπα βγάλ' τα από το σενάριό σου."
+      },
+      "check": {
+        "q": {"en": "What did students remember best after the one-minute speeches?", "el": "Τι θυμούνταν καλύτερα οι φοιτητές μετά τις ομιλίες του ενός λεπτού;"},
+        "options": [
+          {"en": "The statistics", "el": "Τα στατιστικά"},
+          {"en": "The stories", "el": "Τις ιστορίες"},
+          {"en": "The speakers' slides", "el": "Τις διαφάνειες των ομιλητών"}
+        ],
+        "answer": 1,
+        "why": {"en": "About 63% remembered stories, while only about 5% remembered any number.", "el": "Περίπου το 63% θυμόταν ιστορίες, ενώ μόνο περίπου το 5% θυμόταν κάποιον αριθμό."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A dentist on the phone asks: «What exactly is this hosting I would pay for?» What do you say?", "el": "Ένας οδοντίατρος σε ρωτά στο τηλέφωνο: «Τι ακριβώς είναι αυτό το hosting που θα πληρώνω;» Τι απαντάς;"},
+      "options": [
+        {"en": "«It is the server infrastructure with SSL and uptime guarantees»", "el": "«Είναι η υποδομή του server με SSL και εγγυημένο uptime»"},
+        {"en": "«It is the yearly rent for the space where your site lives online»", "el": "«Είναι το ετήσιο ενοίκιο για τον χώρο όπου μένει η σελίδα σας στο ίντερνετ»"},
+        {"en": "«Don't worry about it, it is a technical thing»", "el": "«Μην ανησυχείτε, είναι τεχνικό θέμα»"}
+      ],
+      "answer": 1,
+      "why": {"en": "Beat the curse of knowledge: translate the term into something he already understands.", "el": "Νίκησε την κατάρα της γνώσης: μετάφρασε τον όρο σε κάτι που ήδη καταλαβαίνει."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "You are making a new Meta ad for psychologists. Which approach will stick best?", "el": "Φτιάχνεις νέα διαφήμιση στο Meta για ψυχολόγους. Ποια προσέγγιση θα μείνει περισσότερο;"},
+      "options": [
+        {"en": "One real psychologist's site and what changed for her, with permission", "el": "Η σελίδα μιας πραγματικής ψυχολόγου και τι άλλαξε για εκείνη, με την άδειά της"},
+        {"en": "«200+ sites built» in huge letters", "el": "«200+ σελίδες» με τεράστια γράμματα"},
+        {"en": "A collage of fifty client logos", "el": "Ένα κολάζ με πενήντα λογότυπα πελατών"}
+      ],
+      "answer": 0,
+      "why": {"en": "One person moves people more than many; the number can support the story underneath.", "el": "Ένας άνθρωπος συγκινεί περισσότερο από πολλούς· ο αριθμός μπορεί να στηρίξει την ιστορία από κάτω."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "The first screen of advonmedia.com tries to say eight different things. What do you do?", "el": "Η πρώτη οθόνη του advonmedia.com προσπαθεί να πει οκτώ διαφορετικά πράγματα. Τι κάνεις;"},
+      "options": [
+        {"en": "Make all eight messages bigger", "el": "Μεγαλώνεις και τα οκτώ μηνύματα"},
+        {"en": "Put them in a rotating slider", "el": "Τα βάζεις σε ένα slider που γυρίζει"},
+        {"en": "Keep the one core message and move the rest lower", "el": "Κρατάς το ένα βασικό μήνυμα και κατεβάζεις τα υπόλοιπα πιο κάτω"}
+      ],
+      "answer": 2,
+      "why": {"en": "Find the core: if you say eight things, visitors remember none.", "el": "Βρες τον πυρήνα: αν πεις οκτώ πράγματα, ο επισκέπτης δεν θυμάται κανένα."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "A doctor doubts that a website brings patients at all. What is the most convincing move?", "el": "Ένας γιατρός αμφιβάλλει αν μια ιστοσελίδα φέρνει καθόλου ασθενείς. Ποια είναι η πιο πειστική κίνηση;"},
+      "options": [
+        {"en": "Promise him a specific number of new patients", "el": "Του υπόσχεσαι συγκεκριμένο αριθμό νέων ασθενών"},
+        {"en": "Ask him to search his specialty and area on his phone right now", "el": "Του ζητάς να ψάξει τώρα στο κινητό του την ειδικότητα και την περιοχή του"},
+        {"en": "Send him a long article about digital marketing", "el": "Του στέλνεις ένα μεγάλο άρθρο για το ψηφιακό μάρκετινγκ"}
+      ],
+      "answer": 1,
+      "why": {"en": "A testable credential: what he sees with his own eyes convinces more than your promise.", "el": "Διαπιστευτήριο που ελέγχεται: αυτό που βλέπει με τα μάτια του πείθει περισσότερο από την υπόσχεσή σου."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "A new team member asks what «a good site» means for Advon. How do you answer?", "el": "Ένα νέο μέλος της ομάδας ρωτά τι σημαίνει «καλή σελίδα» για την Advon. Τι απαντάς;"},
+      "options": [
+        {"en": "Give concrete checks: number on the first screen, fast on mobile, real photos", "el": "Δίνεις συγκεκριμένους ελέγχους: τηλέφωνο στην πρώτη οθόνη, γρήγορη στο κινητό, αληθινές φωτογραφίες"},
+        {"en": "Tell him to make every site beautiful and professional", "el": "Του λες να κάνει κάθε σελίδα ωραία και επαγγελματική"},
+        {"en": "Let him decide what good means for him", "el": "Τον αφήνεις να αποφασίσει μόνος του τι σημαίνει καλή"}
+      ],
+      "answer": 0,
+      "why": {"en": "Concrete goals let everyone see the same target and check their own work.", "el": "Οι χειροπιαστοί στόχοι κάνουν όλους να βλέπουν τον ίδιο στόχο και να ελέγχουν μόνοι τη δουλειά τους."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "Your younger cousin is bored by history at school and asks why it matters. How do you get him interested?", "el": "Ο μικρότερος ξάδερφός σου βαριέται την ιστορία στο σχολείο και ρωτά τι νόημα έχει. Πώς του κινείς το ενδιαφέρον;"},
+      "options": [
+        {"en": "List the reasons history is important", "el": "Του απαριθμείς τους λόγους που η ιστορία είναι σημαντική"},
+        {"en": "Tell him he will need it for exams", "el": "Του λες ότι θα τη χρειαστεί για τις εξετάσεις"},
+        {"en": "Ask him a real mystery and let him want the answer", "el": "Του θέτεις ένα αληθινό μυστήριο και τον αφήνεις να θέλει την απάντηση"}
+      ],
+      "answer": 2,
+      "why": {"en": "A curiosity gap makes him want to know before you give him the facts.", "el": "Ένα κενό περιέργειας τον κάνει να θέλει να μάθει πριν του δώσεις τα στοιχεία."},
+      "idea": 6
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "The six traits of sticky ideas are Simple, Unexpected, Concrete, Credible, Emotional and Stories.", "el": "Τα έξι χαρακτηριστικά των ιδεών που μένουν είναι απλότητα, το απρόσμενο, το χειροπιαστό, αξιοπιστία, συναίσθημα και ιστορίες."}, "answer": true, "why": {"en": "Their first letters spell SUCCESs, the book's checklist.", "el": "Τα αρχικά τους στα αγγλικά σχηματίζουν το SUCCESs, τη λίστα ελέγχου του βιβλίου."}},
+    {"s": {"en": "The curse of knowledge means experts find it hard to imagine not knowing what they know.", "el": "Η κατάρα της γνώσης σημαίνει ότι οι ειδικοί δυσκολεύονται να φανταστούν πώς είναι να μην ξέρουν όσα ξέρουν."}, "answer": true, "why": {"en": "Like the tappers, they hear the tune in their head and assume others do too.", "el": "Όπως όσοι χτυπούσαν, ακούν τη μελωδία στο κεφάλι τους και υποθέτουν ότι την ακούν και οι άλλοι."}},
+    {"s": {"en": "For the Heaths, «simple» means dumbing an idea down.", "el": "Για τους Χιθ, «απλό» σημαίνει να κάνεις μια ιδέα απλοϊκή."}, "answer": false, "why": {"en": "Simple means finding the core and making it compact, not making it shallow.", "el": "Απλό σημαίνει να βρεις τον πυρήνα και να τον πεις σύντομα, όχι να τον κάνεις ρηχό."}},
+    {"s": {"en": "People give more when shown statistics about millions in need than when shown one person.", "el": "Ο κόσμος δίνει περισσότερα όταν βλέπει στατιστικά για εκατομμύρια ανθρώπους σε ανάγκη παρά όταν βλέπει έναν άνθρωπο."}, "answer": false, "why": {"en": "The Rokia study showed the opposite: one person moved people more than twice as much.", "el": "Η έρευνα με τη Ροκία έδειξε το αντίθετο: ένας άνθρωπος συγκίνησε πάνω από διπλάσια."}},
+    {"s": {"en": "A testable credential lets the audience check a claim for themselves.", "el": "Ένα διαπιστευτήριο που ελέγχεται αφήνει το κοινό να επιβεβαιώσει μόνο του έναν ισχυρισμό."}, "answer": true, "why": {"en": "Like Reagan's question, it lets each person verify the claim against their own experience.", "el": "Όπως η ερώτηση του Ρίγκαν, αφήνει τον καθένα να ελέγξει τον ισχυρισμό με τη δική του εμπειρία."}},
+    {"s": {"en": "Any surprise works, even if it has nothing to do with your message.", "el": "Κάθε έκπληξη δουλεύει, ακόμα κι αν δεν έχει καμία σχέση με το μήνυμά σου."}, "answer": false, "why": {"en": "Surprise must lead to the core; otherwise it is a gimmick that distracts.", "el": "Η έκπληξη πρέπει να οδηγεί στον πυρήνα· αλλιώς είναι κόλπο που αποσπά την προσοχή."}},
+    {"s": {"en": "In Chip Heath's class, most students remembered the statistics from the speeches.", "el": "Στο μάθημα του Τσιπ Χιθ, οι περισσότεροι φοιτητές θυμούνταν τα στατιστικά από τις ομιλίες."}, "answer": false, "why": {"en": "Only about 5% remembered a statistic; about 63% remembered the stories.", "el": "Μόνο περίπου το 5% θυμόταν στατιστικό· περίπου το 63% θυμόταν τις ιστορίες."}},
+    {"s": {"en": "Concrete language helps experts and beginners understand the same thing.", "el": "Η χειροπιαστή γλώσσα βοηθά ειδικούς και αρχάριους να καταλαβαίνουν το ίδιο πράγμα."}, "answer": true, "why": {"en": "Concrete words leave less room for each person to imagine something different.", "el": "Οι συγκεκριμένες λέξεις αφήνουν λιγότερο περιθώριο να φανταστεί ο καθένας κάτι διαφορετικό."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Curse of knowledge", "el": "Κατάρα της γνώσης"}, "b": {"en": "Forgetting what it is like not to know", "el": "Ξεχνάς πώς είναι να μην ξέρεις"}},
+    {"a": {"en": "Commander's Intent", "el": "Πρόθεση του διοικητή"}, "b": {"en": "One plain goal that survives changing plans", "el": "Ένας απλός στόχος που αντέχει όταν αλλάζουν τα σχέδια"}},
+    {"a": {"en": "Curiosity gap", "el": "Κενό περιέργειας"}, "b": {"en": "The itch to fill missing knowledge", "el": "Η ανάγκη να γεμίσεις κάτι που δεν ξέρεις"}},
+    {"a": {"en": "Sinatra Test", "el": "Τεστ Σινάτρα"}, "b": {"en": "One hard case that proves you can do anything", "el": "Μία δύσκολη περίπτωση που αποδεικνύει ότι μπορείς τα πάντα"}},
+    {"a": {"en": "Anti-authority", "el": "Αντι-ειδικός"}, "b": {"en": "An ordinary person who lived the problem", "el": "Ένας απλός άνθρωπος που έζησε το πρόβλημα"}},
+    {"a": {"en": "Velcro memory", "el": "Μνήμη-σκρατς"}, "b": {"en": "More concrete hooks, better recall", "el": "Περισσότερα χειροπιαστά αγκιστράκια, καλύτερη ανάκληση"}}
+  ],
+  "missions": [
+    {"en": "Rewrite your cold-call opener without a single technical word and test it on a friend who knows nothing about websites.", "el": "Ξαναγράψε την εισαγωγή του cold call χωρίς ούτε μία τεχνική λέξη και δοκίμασέ τη σε έναν φίλο που δεν ξέρει τίποτα από ιστοσελίδες."},
+    {"en": "Write Advon's core in one sentence, then check that every section of advonmedia.com serves it.", "el": "Γράψε τον πυρήνα της Advon σε μία πρόταση και έλεγξε ότι κάθε ενότητα του advonmedia.com τον υπηρετεί."},
+    {"en": "Turn one number you use in sales into a human-scale comparison and try it on your next three calls.", "el": "Κάνε έναν αριθμό που χρησιμοποιείς στις πωλήσεις σύγκριση σε ανθρώπινη κλίμακα και δοκίμασέ τον στα επόμενα τρία τηλεφωνήματα."},
+    {"en": "Ask one happy client for permission to share their story, then write it in five lines for a reel.", "el": "Ζήτα από έναν ευχαριστημένο πελάτη την άδεια να πεις την ιστορία του και γράψ' τη σε πέντε γραμμές για ένα reel."},
+    {"en": "Write three concrete goals for your team this month, each one something anyone can check with their own eyes.", "el": "Γράψε τρεις χειροπιαστούς στόχους για την ομάδα σου αυτόν τον μήνα, τον καθένα κάτι που μπορεί να ελέγξει ο οποιοσδήποτε με τα μάτια του."}
+  ],
+  "mantra": {"en": "Say one thing, make it concrete, tell it as a story.", "el": "Πες ένα πράγμα, κάν' το χειροπιαστό, πες το σαν ιστορία."},
+  "careful": {
+    "en": "The book is built on vivid cases rather than controlled tests, and SUCCESs is a useful checklist, not a proven law. Sticky is not the same as true: urban legends stick too, and one of the book's showcase stories, Subway's spokesman Jared, collapsed when he was jailed in 2015 for serious crimes. Some examples are now dated. Sticky messages can mislead as easily as inform, so check your facts first.",
+    "el": "Το βιβλίο στηρίζεται σε ζωντανά παραδείγματα και όχι σε ελεγχόμενα πειράματα, και το SUCCESs είναι χρήσιμη λίστα ελέγχου, όχι αποδεδειγμένος νόμος. Αυτό που μένει δεν είναι απαραίτητα αληθινό: και οι αστικοί μύθοι μένουν, ενώ μία από τις ιστορίες-βιτρίνα του βιβλίου, ο Τζάρεντ, το πρόσωπο των Subway, κατέρρευσε όταν φυλακίστηκε το 2015 για σοβαρά εγκλήματα. Κάποια παραδείγματα έχουν παλιώσει. Τα μηνύματα που μένουν μπορούν να παραπλανήσουν όσο εύκολα ενημερώνουν, οπότε έλεγξε πρώτα τα στοιχεία σου."
+  },
+  "connects": [
+    {"book": "pre-suasion", "note": {"en": "Both use curiosity and mystery to hold attention; Cialdini focuses on the moment before the message, the Heaths on building the message itself.", "el": "Και τα δύο χρησιμοποιούν την περιέργεια και το μυστήριο για να κρατήσουν την προσοχή· ο Τσιαλντίνι εστιάζει στη στιγμή πριν από το μήνυμα, οι Χιθ στο πώς χτίζεις το ίδιο το μήνυμα."}},
+    {"book": "talk-like-ted", "note": {"en": "Gallo applies many of the same principles, simple, surprising, concrete and story-led, to delivering a talk on a stage.", "el": "Ο Γκάλο εφαρμόζει πολλές από τις ίδιες αρχές, το απλό, το απρόσμενο, το χειροπιαστό και την ιστορία, στο πώς παρουσιάζεις μια ομιλία στη σκηνή."}},
+    {"book": "storybrand", "note": {"en": "Miller turns the «Stories» principle into a full marketing framework in which the customer is the hero and you are the guide.", "el": "Ο Μίλερ κάνει την αρχή της ιστορίας ολόκληρο σύστημα μάρκετινγκ, όπου ήρωας είναι ο πελάτης κι εσύ ο οδηγός του."}}
+  ]
+}

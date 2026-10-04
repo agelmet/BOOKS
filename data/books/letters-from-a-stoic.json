@@ -1,0 +1,576 @@
+{
+  "id": "letters-from-a-stoic",
+  "title": {"en": "Letters from a Stoic", "el": "Επιστολές στον Λουκίλιο"},
+  "author": "Seneca",
+  "authorEl": "Σενέκας",
+  "year": 65,
+  "shelf": "mind",
+  "skills": {"wisdom": 3, "mindset": 3, "focus": 2},
+  "oneLine": {
+    "en": "Your time is the only thing you truly own, so guard it, want less, fear less, choose your company well and turn wisdom into daily action.",
+    "el": "Ο χρόνος σου είναι το μόνο που σου ανήκει πραγματικά· φύλαξέ τον, θέλε λιγότερα, φοβήσου λιγότερο, διάλεγε καλά την παρέα σου και κάνε τη σοφία καθημερινή πράξη."
+  },
+  "story": {
+    "en": "Lucius Annaeus Seneca was a Roman writer, senator, one of the richest men of his time and for years the chief adviser of the emperor Nero. Around 62 AD he stepped back from court and, in his last years, wrote 124 letters to his younger friend Lucilius, an official in Sicily. Each letter is short, warm and practical. In 65 AD Nero ordered him to take his own life. People still read the letters because they feel like advice from a wise friend.",
+    "el": "Ο Λούκιος Ανναίος Σενέκας ήταν Ρωμαίος συγγραφέας, συγκλητικός, από τους πλουσιότερους ανθρώπους της εποχής του και για χρόνια ο κύριος σύμβουλος του αυτοκράτορα Νέρωνα. Γύρω στο 62 μ.Χ. αποσύρθηκε από την αυλή και στα τελευταία του χρόνια έγραψε 124 επιστολές στον νεότερο φίλο του Λουκίλιο, αξιωματούχο στη Σικελία. Κάθε επιστολή είναι σύντομη, ζεστή και πρακτική. Το 65 μ.Χ. ο Νέρων τον διέταξε να αυτοκτονήσει. Οι επιστολές διαβάζονται ακόμα γιατί μοιάζουν με συμβουλές ενός σοφού φίλου."
+  },
+  "forYou": {
+    "en": "You run many things at once: calls, ads, client chats, a small team and side projects. Seneca writes to a busy official just like you, not to a monk. His letters show you how to protect your hours, stay calm when money or clients go wrong, choose who gets close to you, and act on what you believe instead of only reading about it.",
+    "el": "Τρέχεις πολλά μαζί: τηλέφωνα, διαφημίσεις, chat πελατών, μια μικρή ομάδα και side projects. Ο Σενέκας γράφει σε έναν πολυάσχολο αξιωματούχο σαν εσένα, όχι σε έναν μοναχό. Οι επιστολές του σου δείχνουν πώς να προστατεύεις τις ώρες σου, πώς να μένεις ήρεμος όταν στραβώνουν τα χρήματα ή οι πελάτες, ποιον να αφήνεις κοντά σου και πώς να κάνεις πράξη όσα πιστεύεις, αντί απλώς να τα διαβάζεις."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Claim your time back", "el": "Πάρε πίσω τον χρόνο σου"},
+      "explain": {
+        "en": "Seneca opens the letters with this: claim yourself back. Some of your time is taken from you, some is stolen, and some just slips away, and the worst loss is the one caused by carelessness. People guard their money but give their hours to anyone who asks. Time is the only thing that is truly yours, and nobody can give it back. So count it like money and spend it on purpose.",
+        "el": "Ο Σενέκας ανοίγει τις επιστολές με αυτό: διεκδίκησε πίσω τον εαυτό σου. Λίγο από τον χρόνο σου σου τον παίρνουν, λίγο σου τον κλέβουν και λίγο απλώς γλιστράει, και η χειρότερη απώλεια είναι αυτή που γίνεται από αμέλεια. Οι άνθρωποι φυλάνε τα λεφτά τους, αλλά χαρίζουν τις ώρες τους σε όποιον τις ζητήσει. Ο χρόνος είναι το μόνο που είναι πραγματικά δικό σου, και κανείς δεν μπορεί να σου τον επιστρέψει. Μέτρα τον λοιπόν σαν χρήμα και ξόδευέ τον συνειδητά."
+      },
+      "example": {
+        "en": "Management thinker Peter Drucker, in «The Effective Executive» (1967), told managers to write down how they actually spent their time for a few weeks. He found that their memory of where the hours went was almost always wrong, and that much of their time went to tasks that brought no results.",
+        "el": "Ο Πίτερ Ντράκερ, στο βιβλίο του «The Effective Executive» (1967), ζητούσε από τα στελέχη να καταγράφουν για μερικές εβδομάδες πώς περνούσε πραγματικά ο χρόνος τους. Διαπίστωσε ότι η ανάμνησή τους για το πού πήγαιναν οι ώρες ήταν σχεδόν πάντα λάθος και ότι μεγάλο μέρος του χρόνου τους πήγαινε σε δουλειές που δεν έφερναν κανένα αποτέλεσμα."
+      },
+      "apply": {
+        "en": "Track your hours for three working days in a simple note: calls, video meetings, client chat, building, ads, scrolling. On day four, mark the blocks that brought clients or money. Then protect one fixed two-hour block each morning for cold calls and keep the client chat closed until it ends.",
+        "el": "Κατέγραψε για τρεις εργάσιμες μέρες τις ώρες σου σε μια απλή σημείωση: τηλέφωνα, βιντεοκλήσεις, chat πελατών, στήσιμο σελίδων, διαφημίσεις, σκρολάρισμα. Την τέταρτη μέρα σημάδεψε ποια κομμάτια έφεραν πελάτες ή χρήματα. Μετά κλείδωσε ένα σταθερό δίωρο κάθε πρωί για cold calls και κράτα το chat των πελατών κλειστό μέχρι να τελειώσει."
+      },
+      "check": {
+        "q": {"en": "What does Seneca call the worst way to lose time?", "el": "Ποιος είναι, κατά τον Σενέκα, ο χειρότερος τρόπος να χάνεις χρόνο;"},
+        "options": [
+          {"en": "Losing it through your own carelessness", "el": "Να τον χάνεις από τη δική σου αμέλεια"},
+          {"en": "Having it taken by people above you", "el": "Να σου τον παίρνουν όσοι είναι πάνω από σένα"},
+          {"en": "Spending it on rest and sleep", "el": "Να τον ξοδεύεις σε ξεκούραση και ύπνο"}
+        ],
+        "answer": 0,
+        "why": {"en": "He says the most shameful loss comes from negligence, because that one was fully in your hands.", "el": "Λέει ότι η πιο ντροπιαστική απώλεια έρχεται από την αμέλεια, γιατί αυτή ήταν εξ ολοκλήρου στο χέρι σου."}
+      }
+    },
+    {
+      "title": {"en": "Each day a whole life", "el": "Κάθε μέρα, μια ολόκληρη ζωή"},
+      "explain": {
+        "en": "We think death lies far ahead, but Seneca says most of it is already behind us: every year we have lived belongs to death. We die a little every day. So do not live as if you had endless time. Treat each day as a complete life, finished and in order by evening. If tomorrow comes, take it as a gift. A life is long if it is full, not if it lasts.",
+        "el": "Νομίζουμε ότι ο θάνατος είναι κάπου μακριά μπροστά μας, όμως ο Σενέκας λέει ότι το μεγαλύτερο μέρος του είναι ήδη πίσω μας: κάθε χρόνος που έζησες ανήκει πια σε αυτόν. Πεθαίνουμε λίγο κάθε μέρα. Γι' αυτό μη ζεις σαν να έχεις άπειρο χρόνο. Αντιμετώπισε κάθε μέρα σαν μια ολόκληρη ζωή, τελειωμένη και τακτοποιημένη ως το βράδυ. Αν έρθει και το αύριο, δέξου το σαν δώρο. Μια ζωή είναι μεγάλη όταν είναι γεμάτη, όχι όταν κρατάει πολύ."
+      },
+      "example": {
+        "en": "In Letter 12 Seneca describes Pacuvius, a Roman governor of Syria, who held a funeral feast for himself every evening. He was carried from dinner to bed while his servants sang «He has lived, he has lived». Seneca mocks the show but keeps the lesson: end each day as if your life were complete.",
+        "el": "Στη 12η επιστολή ο Σενέκας περιγράφει τον Πακούβιο, Ρωμαίο διοικητή της Συρίας, που κάθε βράδυ έστηνε στον εαυτό του νεκρόδειπνο. Τον μετέφεραν από το τραπέζι στο κρεβάτι, ενώ οι υπηρέτες του τραγουδούσαν «έζησε, έζησε». Ο Σενέκας κοροϊδεύει το θέαμα, κρατά όμως το δίδαγμα: κλείσε κάθε μέρα σαν η ζωή σου να ήταν πλήρης."
+      },
+      "apply": {
+        "en": "Close every workday with a five-minute shutdown: answer the last client message, write tomorrow's three most important tasks and clear today's loose ends. Do not leave the dentist who asked you to call back for «some day». If it matters, it goes into today.",
+        "el": "Τελείωνε κάθε εργάσιμη μέρα με ένα πεντάλεπτο κλείσιμο: απάντα στο τελευταίο μήνυμα πελάτη, γράψε τις τρεις πιο σημαντικές δουλειές του αύριο και τακτοποίησε ό,τι έμεινε μισό. Μην αφήνεις για «κάποια στιγμή» τον οδοντίατρο που σου είπε να τον ξαναπάρεις. Αν μετράει, μπαίνει στο σήμερα."
+      },
+      "check": {
+        "q": {"en": "What makes a life long, for Seneca?", "el": "Τι κάνει μια ζωή μεγάλη, για τον Σενέκα;"},
+        "options": [
+          {"en": "Living as many years as possible", "el": "Να ζήσεις όσο περισσότερα χρόνια γίνεται"},
+          {"en": "Avoiding every risk along the way", "el": "Να αποφεύγεις κάθε κίνδυνο στον δρόμο"},
+          {"en": "Filling each day with what matters", "el": "Να γεμίζεις κάθε μέρα με ό,τι μετράει"}
+        ],
+        "answer": 2,
+        "why": {"en": "He says a life is long when it is full. Length alone proves nothing.", "el": "Λέει ότι μια ζωή είναι μεγάλη όταν είναι γεμάτη. Η διάρκεια μόνη της δεν αποδεικνύει τίποτα."}
+      }
+    },
+    {
+      "title": {"en": "Few authors, read deeply", "el": "Λίγοι συγγραφείς, σε βάθος"},
+      "explain": {
+        "en": "Seneca warns Lucilius against reading many authors at random. Food that leaves the stomach as soon as it is eaten does not feed you, and a plant moved too often never grows roots. Someone who is everywhere is nowhere. Choose a few proven writers, stay with them, and each day take one thought to chew on and digest, so reading becomes part of you.",
+        "el": "Ο Σενέκας προειδοποιεί τον Λουκίλιο να μη διαβάζει πολλούς συγγραφείς στην τύχη. Το φαγητό που βγαίνει αμέσως από το στομάχι δεν σε τρέφει, και το φυτό που του αλλάζεις συνέχεια θέση δεν πιάνει ρίζες. Όποιος είναι παντού δεν είναι πουθενά. Διάλεξε λίγους δοκιμασμένους συγγραφείς, μείνε μαζί τους και κάθε μέρα κράτα μία σκέψη να τη μασήσεις και να τη χωνέψεις, ώστε το διάβασμα να γίνει κομμάτι σου."
+      },
+      "example": {
+        "en": "Seneca practises this in the letters themselves. Many of the early letters end with one short saying, often from Epicurus, that he calls a small gift or payment for Lucilius to think about that day. One thought, well chosen, instead of a pile of quotes.",
+        "el": "Ο Σενέκας το εφαρμόζει στις ίδιες τις επιστολές. Πολλές από τις πρώτες κλείνουν με ένα σύντομο ρητό, συχνά του Επίκουρου, που το λέει μικρό δώρο ή πληρωμή, για να το σκεφτεί ο Λουκίλιος εκείνη τη μέρα. Μία καλά διαλεγμένη σκέψη, αντί για ένα σωρό αποφθέγματα."
+      },
+      "apply": {
+        "en": "Pick one sales book for this month instead of five. After each session in BOOKS, write one sentence you will use tomorrow, for example a new opening line for calls to psychologists. Test it on ten calls before you start another book.",
+        "el": "Διάλεξε ένα βιβλίο πωλήσεων για αυτόν τον μήνα, όχι πέντε. Μετά από κάθε μελέτη στο BOOKS, γράψε μία πρόταση που θα χρησιμοποιήσεις αύριο, για παράδειγμα μια νέα πρώτη φράση για τα τηλέφωνα σε ψυχολόγους. Δοκίμασέ τη σε δέκα κλήσεις πριν ανοίξεις άλλο βιβλίο."
+      },
+      "check": {
+        "q": {"en": "Why does Seneca dislike reading many authors at random?", "el": "Γιατί ο Σενέκας δεν θέλει να διαβάζεις πολλούς συγγραφείς στην τύχη;"},
+        "options": [
+          {"en": "Old books are always better than new ones", "el": "Τα παλιά βιβλία είναι πάντα καλύτερα από τα νέα"},
+          {"en": "Nothing sticks, like food that does not stay", "el": "Τίποτα δεν μένει, σαν φαγητό που δεν χωνεύεται"},
+          {"en": "Reading too much tires the eyes", "el": "Το πολύ διάβασμα κουράζει τα μάτια"}
+        ],
+        "answer": 1,
+        "why": {"en": "Depth turns ideas into habits. Jumping between authors leaves you knowing a little of everything and using nothing.", "el": "Το βάθος κάνει τις ιδέες συνήθειες. Όταν πηδάς από συγγραφέα σε συγγραφέα, ξέρεις λίγο από όλα και δεν εφαρμόζεις τίποτα."}
+      }
+    },
+    {
+      "title": {"en": "Take truth from anyone", "el": "Πάρε την αλήθεια απ' όπου έρχεται"},
+      "explain": {
+        "en": "Seneca was a Stoic, yet he keeps quoting Epicurus, the founder of a rival school. He says he crosses into the enemy's camp not as a deserter but as a scout. Whatever is true belongs to everyone, so it is also his. Do not reject a good idea because of who said it, and do not accept a bad one because it carries the right label.",
+        "el": "Ο Σενέκας ήταν στωικός, κι όμως παραθέτει συνεχώς τον Επίκουρο, τον ιδρυτή μιας αντίπαλης σχολής. Λέει ότι περνάει στο στρατόπεδο του αντιπάλου όχι σαν λιποτάκτης αλλά σαν ανιχνευτής. Ό,τι είναι αληθινό ανήκει σε όλους, άρα και σε αυτόν. Μην πετάς μια καλή ιδέα εξαιτίας του ποιος την είπε, και μη δέχεσαι μια κακή επειδή έχει τη σωστή ταμπέλα."
+      },
+      "example": {
+        "en": "In Letter 12 Seneca quotes Epicurus once more and expects Lucilius to ask why he keeps borrowing from the other side. His short answer: «What is true is mine». Elsewhere he adds that the best sayings are common property, no matter which school first said them.",
+        "el": "Στη 12η επιστολή ο Σενέκας παραθέτει ξανά τον Επίκουρο και περιμένει τον Λουκίλιο να ρωτήσει γιατί δανείζεται συνέχεια από την άλλη πλευρά. Η σύντομη απάντησή του: «ό,τι είναι αληθινό είναι δικό μου». Αλλού προσθέτει ότι τα καλύτερα λόγια είναι κοινό κτήμα, όποια σχολή κι αν τα είπε πρώτη."
+      },
+      "apply": {
+        "en": "Once a month, study the ads and sites of competitors, even agencies you dislike. Save two things they do better, for example a clearer price line or a stronger first second in a reel, and adapt them honestly to your own offer. Also read bad comments about agencies like yours: they show what clients fear.",
+        "el": "Μία φορά τον μήνα μελέτα τις διαφημίσεις και τις σελίδες των ανταγωνιστών, ακόμα και γραφείων που δεν σου αρέσουν. Κράτα δύο πράγματα που κάνουν καλύτερα, για παράδειγμα μια πιο καθαρή φράση για την τιμή ή ένα πιο δυνατό πρώτο δευτερόλεπτο σε reel, και προσάρμοσέ τα τίμια στη δική σου προσφορά. Διάβασε και τα αρνητικά σχόλια για γραφεία σαν το δικό σου: δείχνουν τι φοβούνται οι πελάτες."
+      },
+      "check": {
+        "q": {"en": "Why does a Stoic like Seneca keep quoting Epicurus?", "el": "Γιατί ένας στωικός σαν τον Σενέκα παραθέτει συνέχεια τον Επίκουρο;"},
+        "options": [
+          {"en": "He had secretly changed schools", "el": "Είχε αλλάξει κρυφά σχολή"},
+          {"en": "He wanted to make fun of him", "el": "Ήθελε να τον κοροϊδέψει"},
+          {"en": "A true idea is worth taking from anyone", "el": "Μια αληθινή ιδέα αξίζει απ' όποιον κι αν έρχεται"}
+        ],
+        "answer": 2,
+        "why": {"en": "For Seneca truth has no owner. He visits the rival camp as a scout and brings back what is useful.", "el": "Για τον Σενέκα η αλήθεια δεν έχει ιδιοκτήτη. Πηγαίνει στο αντίπαλο στρατόπεδο σαν ανιχνευτής και φέρνει πίσω ό,τι είναι χρήσιμο."}
+      }
+    },
+    {
+      "title": {"en": "Rich means wanting less", "el": "Πλούσιος είναι όποιος θέλει λιγότερα"},
+      "explain": {
+        "en": "Poor is not the person who has little, but the one who always wants more. Seneca says natural needs are small and easy to meet: food, shelter, warmth. Desires built on comparison have no end, so whoever chases them never feels rich. If you want to become wealthy, do not only add money; take away cravings. Then whatever you earn feels like enough, and you stay free.",
+        "el": "Φτωχός δεν είναι όποιος έχει λίγα, αλλά όποιος θέλει πάντα περισσότερα. Ο Σενέκας λέει ότι οι φυσικές ανάγκες είναι λίγες και καλύπτονται εύκολα: φαγητό, στέγη, ζεστασιά. Οι επιθυμίες που γεννιούνται από τη σύγκριση δεν έχουν τέλος, γι' αυτό όποιος τις κυνηγά δεν νιώθει ποτέ πλούσιος. Αν θέλεις να πλουτίσεις, μην προσθέτεις μόνο χρήματα· αφαίρεσε και επιθυμίες. Τότε ό,τι κερδίζεις σου φτάνει και μένεις ελεύθερος."
+      },
+      "example": {
+        "en": "In 1978 psychologist Philip Brickman and his colleagues compared big lottery winners with people who had not won. Some months after their win, the winners were not happier than the others and took less pleasure in everyday things. The extra money had quickly become their new normal.",
+        "el": "Το 1978 ο ψυχολόγος Φίλιπ Μπρίκμαν και οι συνεργάτες του σύγκριναν μεγάλους νικητές λαχείων με ανθρώπους που δεν είχαν κερδίσει. Λίγους μήνες μετά, οι νικητές δεν ήταν πιο ευτυχισμένοι από τους άλλους και χαίρονταν λιγότερο τα καθημερινά πράγματα. Τα πολλά λεφτά είχαν γίνει γρήγορα η νέα τους κανονικότητα."
+      },
+      "apply": {
+        "en": "Write your «enough» number: the monthly income that covers your life, your savings and the agency's tools. When a month beats it, put the extra into savings or one growth bet, like a part-time caller, not into a more expensive life. Your peace stays fixed while revenue grows.",
+        "el": "Γράψε τον δικό σου αριθμό για το «αρκετό»: το μηνιαίο εισόδημα που καλύπτει τη ζωή σου, την αποταμίευση και τα εργαλεία του γραφείου. Όταν ένας μήνας τον ξεπερνά, βάλε τη διαφορά σε αποταμίευση ή σε ένα στοίχημα ανάπτυξης, όπως έναν συνεργάτη μερικής απασχόλησης για τα τηλέφωνα, όχι σε πιο ακριβή ζωή. Η ηρεμία σου μένει σταθερή, ενώ τα έσοδα μεγαλώνουν."
+      },
+      "check": {
+        "q": {"en": "Who is poor, according to Seneca?", "el": "Ποιος είναι φτωχός, κατά τον Σενέκα;"},
+        "options": [
+          {"en": "The one who always wants more", "el": "Όποιος θέλει πάντα περισσότερα"},
+          {"en": "The one who earns little", "el": "Όποιος κερδίζει λίγα"},
+          {"en": "The one who saves his money", "el": "Όποιος αποταμιεύει τα χρήματά του"}
+        ],
+        "answer": 0,
+        "why": {"en": "Endless wanting makes any amount feel too small. Lower the wanting and you are rich with less.", "el": "Η ατέλειωτη επιθυμία κάνει κάθε ποσό να μοιάζει λίγο. Μείωσε την επιθυμία και είσαι πλούσιος με λιγότερα."}
+      }
+    },
+    {
+      "title": {"en": "Rehearse poverty", "el": "Κάνε πρόβα τη φτώχεια"},
+      "explain": {
+        "en": "Seneca suggests setting aside a few days now and then to live on the cheapest food and the roughest clothes, and then asking yourself: «Is this what I was afraid of?» The point is not to suffer. It is to learn, while times are good, that you can stand the worst. Once you have tried it, the fear of losing money loosens its grip and you decide more freely.",
+        "el": "Ο Σενέκας προτείνει να κρατάς κάθε τόσο μερικές μέρες όπου ζεις με το πιο φτηνό φαγητό και τα πιο απλά ρούχα, και μετά να ρωτάς τον εαυτό σου: «Αυτό ήταν που φοβόμουν;» Ο σκοπός δεν είναι να υποφέρεις. Είναι να μάθεις, όσο τα πράγματα πάνε καλά, ότι αντέχεις και το χειρότερο. Όταν το δοκιμάσεις, ο φόβος μήπως χάσεις τα χρήματά σου χαλαρώνει και αποφασίζεις πιο ελεύθερα."
+      },
+      "example": {
+        "en": "Letter 18 is written in December, during the Saturnalia, when all of Rome was feasting. Seneca says that, in the middle of the party, you should practise three or four days of plain living. He adds that Epicurus himself kept certain days when he ate very little, to see whether he was missing anything.",
+        "el": "Η 18η επιστολή γράφεται τον Δεκέμβριο, στα Σατουρνάλια, όταν όλη η Ρώμη γλεντούσε. Ο Σενέκας λέει ότι μέσα στη γιορτή αξίζει να κάνεις τρεις-τέσσερις μέρες λιτής ζωής. Προσθέτει ότι και ο ίδιος ο Επίκουρος κρατούσε ορισμένες μέρες όπου έτρωγε ελάχιστα, για να δει αν του έλειπε κάτι."
+      },
+      "apply": {
+        "en": "Live for one week on a «bad month» budget: what you would have if half your clients did not renew. Notice how much of your life still works. Then decide your prices and your next hire from calm, not from the fear of losing one client.",
+        "el": "Ζήσε μία εβδομάδα με τον προϋπολογισμό ενός «κακού μήνα»: όσα θα είχες αν δεν ανανέωναν οι μισοί σου πελάτες. Πρόσεξε πόσο μεγάλο μέρος της ζωής σου λειτουργεί κανονικά. Μετά αποφάσισε για τις τιμές σου και για την επόμενη πρόσληψη με ηρεμία, όχι από τον φόβο μήπως χάσεις έναν πελάτη."
+      },
+      "check": {
+        "q": {"en": "What is the real goal of practising poverty?", "el": "Ποιος είναι ο πραγματικός σκοπός της πρόβας φτώχειας;"},
+        "options": [
+          {"en": "To save as much money as possible", "el": "Να μαζέψεις όσο περισσότερα χρήματα γίνεται"},
+          {"en": "To prove you are tougher than others", "el": "Να αποδείξεις ότι είσαι πιο σκληρός από τους άλλους"},
+          {"en": "To see that what you fear is bearable", "el": "Να δεις ότι αυτό που φοβάσαι αντέχεται"}
+        ],
+        "answer": 2,
+        "why": {"en": "Once you have lived the worst case on purpose, it stops ruling your choices.", "el": "Όταν ζήσεις επίτηδες το χειρότερο σενάριο, παύει να κυβερνά τις αποφάσεις σου."}
+      }
+    },
+    {
+      "title": {"en": "Beware the crowd", "el": "Πρόσεχε το πλήθος"},
+      "explain": {
+        "en": "Seneca tells Lucilius to avoid crowds above all. Every vice you meet in a group rubs off on you without your noticing. One extravagant friend makes you softer, a gossip makes you gossip. Spend your time with people who will make you better, and with people you can make better. The two help each other, because we learn by teaching.",
+        "el": "Ο Σενέκας λέει στον Λουκίλιο να αποφεύγει πάνω απ' όλα το πλήθος. Κάθε κακία που συναντάς μέσα σε μια ομάδα κολλάει πάνω σου χωρίς να το καταλάβεις. Ένας σπάταλος φίλος σε κάνει πιο μαλθακό, ένας κουτσομπόλης σε κάνει κουτσομπόλη. Πέρνα τον χρόνο σου με ανθρώπους που θα σε κάνουν καλύτερο και με ανθρώπους που μπορείς εσύ να κάνεις καλύτερους. Το ένα βοηθά το άλλο, γιατί μαθαίνουμε διδάσκοντας."
+      },
+      "example": {
+        "en": "In Letter 7 Seneca goes to the arena at midday hoping for some wit and relaxation. Instead he sees pure slaughter, with the crowd shouting for more. He writes that he came home greedier, more ambitious, more cruel and less human, simply because he had been among people.",
+        "el": "Στην 7η επιστολή ο Σενέκας πηγαίνει το μεσημέρι στην αρένα, ελπίζοντας σε λίγο χιούμορ και ξεκούραση. Αντί γι' αυτό βλέπει σκέτη σφαγή, με το πλήθος να φωνάζει για κι άλλη. Γράφει ότι γύρισε σπίτι πιο άπληστος, πιο φιλόδοξος, πιο σκληρός και λιγότερο άνθρωπος, μόνο και μόνο επειδή βρέθηκε ανάμεσα σε κόσμο."
+      },
+      "apply": {
+        "en": "Look at the five accounts and groups that fill most of your feed and chats. Mute the ones full of complaining agency owners or «get rich fast» talk. Follow instead two people a step ahead of you, and spend one hour a week teaching your team member what you learned.",
+        "el": "Δες ποιοι πέντε λογαριασμοί και ποιες ομάδες γεμίζουν το feed και τα chat σου. Κάνε σίγαση σε όσους είναι γεμάτοι γκρίνια ιδιοκτητών γραφείων ή κουβέντες για «γρήγορο πλουτισμό». Ακολούθησε αντί γι' αυτούς δύο ανθρώπους που είναι ένα βήμα μπροστά σου, και αφιέρωσε μία ώρα την εβδομάδα για να μάθεις στον συνεργάτη σου ό,τι έμαθες."
+      },
+      "check": {
+        "q": {"en": "Why should you also spend time with people you can improve?", "el": "Γιατί να περνάς χρόνο και με ανθρώπους που μπορείς να βελτιώσεις;"},
+        "options": [
+          {"en": "Because they will pay you later", "el": "Γιατί θα σε πληρώσουν αργότερα"},
+          {"en": "Because we learn by teaching", "el": "Γιατί μαθαίνουμε διδάσκοντας"},
+          {"en": "Because it makes you look wise", "el": "Γιατί σε κάνει να φαίνεσαι σοφός"}
+        ],
+        "answer": 1,
+        "why": {"en": "Teaching forces you to understand and practise what you know, so both sides grow.", "el": "Η διδασκαλία σε αναγκάζει να καταλάβεις και να εφαρμόσεις όσα ξέρεις, οπότε μεγαλώνουν και οι δύο πλευρές."}
+      }
+    },
+    {
+      "title": {"en": "Choose a guardian", "el": "Διάλεξε έναν φύλακα"},
+      "explain": {
+        "en": "Borrowing advice from Epicurus, Seneca says: pick a person of good character and keep him always before your eyes. Live as if he were watching, act as if he could see you. Most bad choices are made when nobody is looking. A model you respect corrects you even when absent, like a ruler that shows whether a line is crooked.",
+        "el": "Δανειζόμενος μια συμβουλή του Επίκουρου, ο Σενέκας λέει: διάλεξε έναν άνθρωπο με ήθος και κράτα τον πάντα μπροστά στα μάτια σου. Ζήσε σαν να σε κοιτάζει, πράξε σαν να σε βλέπει. Οι περισσότερες κακές επιλογές γίνονται όταν δεν μας βλέπει κανείς. Ένα πρότυπο που σέβεσαι σε διορθώνει ακόμα κι όταν λείπει, όπως ο χάρακας δείχνει αν μια γραμμή είναι στραβή."
+      },
+      "example": {
+        "en": "In Letter 11 Seneca suggests Cato the Younger, famous for his stern honesty, as a guardian. If Cato feels too strict, he says, choose Laelius, a gentler man. The point is to pick someone whose life and words you admire, and then measure yourself against them.",
+        "el": "Στην 11η επιστολή ο Σενέκας προτείνει για φύλακα τον Κάτωνα τον Νεότερο, ξακουστό για την αυστηρή του τιμιότητα. Αν ο Κάτωνας σου φαίνεται πολύ αυστηρός, λέει, διάλεξε τον Λαίλιο, έναν πιο ήπιο άνθρωπο. Το ζητούμενο είναι να βρεις κάποιον που θαυμάζεις τη ζωή και τα λόγια του και να μετριέσαι μαζί του."
+      },
+      "apply": {
+        "en": "Choose one person, living or historical, whose way of doing business you admire. Before you send a sales message, quote a price or answer an angry client, ask: «Would I send this if he were reading over my shoulder?» Keep his name on your desk as a reminder.",
+        "el": "Διάλεξε έναν άνθρωπο, σύγχρονο ή ιστορικό, του οποίου θαυμάζεις τον τρόπο που δουλεύει. Πριν στείλεις ένα μήνυμα πώλησης, πεις μια τιμή ή απαντήσεις σε θυμωμένο πελάτη, ρώτα: «Θα το έστελνα αν το διάβαζε πάνω από τον ώμο μου;» Κράτα το όνομά του στο γραφείο σου για υπενθύμιση."
+      },
+      "check": {
+        "q": {"en": "What does the guardian do for you?", "el": "Τι κάνει για σένα ο φύλακας;"},
+        "options": [
+          {"en": "Lends you money when you fail", "el": "Σου δανείζει χρήματα όταν αποτυγχάνεις"},
+          {"en": "Makes you act well even when nobody watches", "el": "Σε κάνει να πράττεις σωστά ακόμα κι όταν δεν σε βλέπει κανείς"},
+          {"en": "Takes the hard decisions for you", "el": "Παίρνει τις δύσκολες αποφάσεις για σένα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Imagining someone you respect watching keeps your private choices honest.", "el": "Όταν φαντάζεσαι ότι σε βλέπει κάποιος που σέβεσαι, οι επιλογές σου μένουν τίμιες και όταν είσαι μόνος."}
+      }
+    },
+    {
+      "title": {"en": "Judge first, then trust fully", "el": "Κρίνε πρώτα, μετά εμπιστέψου ολόκληρα"},
+      "explain": {
+        "en": "Lucilius called someone a friend, then added that he did not tell him his affairs. Seneca points out the contradiction. Think for a long time before you let someone into your friendship. But once you have decided, trust them completely and speak to them as openly as to yourself. Doubting everyone and trusting everyone are both mistakes.",
+        "el": "Ο Λουκίλιος είπε κάποιον φίλο του και μετά πρόσθεσε ότι δεν του λέει τα δικά του. Ο Σενέκας του δείχνει την αντίφαση. Σκέψου πολύ πριν αφήσεις κάποιον να γίνει φίλος σου. Όταν όμως αποφασίσεις, εμπιστέψου τον ολόκληρα και μίλα του τόσο ανοιχτά όσο στον εαυτό σου. Το να μην εμπιστεύεσαι κανέναν και το να εμπιστεύεσαι όλους είναι εξίσου λάθη."
+      },
+      "example": {
+        "en": "In Letter 3 Seneca writes that some people tell anyone they meet what should be told only to friends, while others fear even their closest people and hide everything. He calls both faults: one trusts too much, the other trusts nobody.",
+        "el": "Στην 3η επιστολή ο Σενέκας γράφει ότι κάποιοι λένε σε όποιον συναντήσουν όσα πρέπει να λέγονται μόνο σε φίλους, ενώ άλλοι φοβούνται ακόμα και τους πιο δικούς τους και τα κρύβουν όλα. Τα λέει και τα δύο ελαττώματα: ο ένας εμπιστεύεται υπερβολικά, ο άλλος δεν εμπιστεύεται κανέναν."
+      },
+      "apply": {
+        "en": "Before you hire or partner with someone, test slowly: a paid trial week, one small project, clear checks of quality and deadlines. If they pass, really hand over: give access, a whole area such as client changes, and stop checking every message behind them.",
+        "el": "Πριν προσλάβεις κάποιον ή συνεργαστείς μαζί του, δοκίμασε αργά: μια πληρωμένη δοκιμαστική εβδομάδα, ένα μικρό έργο, καθαρός έλεγχος ποιότητας και προθεσμιών. Αν περάσει, παράδωσε στ' αλήθεια: δώσ' του πρόσβαση, έναν ολόκληρο τομέα όπως τις αλλαγές των πελατών, και σταμάτα να ελέγχεις κάθε του μήνυμα."
+      },
+      "check": {
+        "q": {"en": "What is Seneca's rule for friendship?", "el": "Ποιος είναι ο κανόνας του Σενέκα για τη φιλία;"},
+        "options": [
+          {"en": "Trust everyone, people are mostly good", "el": "Εμπιστεύσου όλους, οι άνθρωποι είναι κυρίως καλοί"},
+          {"en": "Never fully trust anyone", "el": "Μην εμπιστεύεσαι ποτέ κανέναν ολόκληρα"},
+          {"en": "Judge carefully before, then trust fully", "el": "Κρίνε προσεκτικά πριν, μετά εμπιστέψου ολόκληρα"}
+        ],
+        "answer": 2,
+        "why": {"en": "The judging comes before the friendship. After that, half-trust is not friendship.", "el": "Η κρίση έρχεται πριν από τη φιλία. Μετά, η μισή εμπιστοσύνη δεν είναι φιλία."}
+      }
+    },
+    {
+      "title": {"en": "Fear lives in imagination", "el": "Ο φόβος ζει στη φαντασία"},
+      "explain": {
+        "en": "Seneca writes that more things frighten us than actually crush us, and that we suffer more often in imagination than in reality. We believe rumours, treat guesses as facts and live through disasters that never come. Ask: is there real evidence this will happen? Even if it might, why suffer it now? Many feared troubles never arrive, or arrive smaller.",
+        "el": "Ο Σενέκας γράφει ότι περισσότερα πράγματα μας τρομάζουν απ' όσα μας συντρίβουν πραγματικά, και ότι υποφέρουμε πιο συχνά με τη φαντασία παρά στην πραγματικότητα. Πιστεύουμε φήμες, παίρνουμε τις εικασίες για γεγονότα και ζούμε καταστροφές που δεν έρχονται ποτέ. Ρώτα: υπάρχει πραγματική ένδειξη ότι θα γίνει; Κι αν ίσως γίνει, γιατί να υποφέρεις από τώρα; Πολλά από όσα φοβόμαστε δεν φτάνουν ποτέ, ή φτάνουν μικρότερα."
+      },
+      "example": {
+        "en": "In a study at Penn State University published in 2019, people with anxiety wrote down their worries for ten days and later checked which ones came true. About nine in ten of the feared outcomes never happened. The researchers titled the paper «Exposing worry's deceit».",
+        "el": "Σε μια μελέτη του Πανεπιστημίου Penn State που δημοσιεύτηκε το 2019, άνθρωποι με άγχος κατέγραφαν τις ανησυχίες τους για δέκα μέρες και αργότερα έλεγχαν ποιες βγήκαν αληθινές. Περίπου εννιά στις δέκα από όσα φοβούνταν δεν συνέβησαν ποτέ. Οι ερευνητές τιτλοφόρησαν την εργασία «Ξεσκεπάζοντας την απάτη της ανησυχίας»."
+      },
+      "apply": {
+        "en": "Before a hard call, like asking a late payer for the yearly 130€, write the worst thing you fear and then the most likely thing. Usually it is a polite «I forgot, I will pay this week». Make the call within ten minutes, before your imagination grows the problem.",
+        "el": "Πριν από ένα δύσκολο τηλέφωνο, όπως όταν πρέπει να ζητήσεις τα ετήσια 130€ από κάποιον που καθυστερεί, γράψε το χειρότερο που φοβάσαι και μετά το πιο πιθανό. Συνήθως είναι ένα ευγενικό «Το ξέχασα, θα το πληρώσω μέσα στην εβδομάδα». Κάνε την κλήση μέσα σε δέκα λεπτά, πριν η φαντασία σου μεγαλώσει το πρόβλημα."
+      },
+      "check": {
+        "q": {"en": "What does Seneca say about most of our fears?", "el": "Τι λέει ο Σενέκας για τους περισσότερους φόβους μας;"},
+        "options": [
+          {"en": "They warn us correctly most of the time", "el": "Μας προειδοποιούν σωστά τις περισσότερες φορές"},
+          {"en": "We suffer them more in imagination than in reality", "el": "Τους υποφέρουμε περισσότερο στη φαντασία παρά στην πραγματικότητα"},
+          {"en": "They disappear only when you get rich", "el": "Εξαφανίζονται μόνο όταν πλουτίσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Many feared things never come, yet we live through them in advance.", "el": "Πολλά από όσα φοβόμαστε δεν έρχονται ποτέ, κι όμως τα ζούμε από πριν."}
+      }
+    },
+    {
+      "title": {"en": "Expect the blow", "el": "Περίμενε το χτύπημα"},
+      "explain": {
+        "en": "Seneca asks you to rehearse misfortune in your mind: loss of money, health, home, people you love. The Stoics called this premeditation of evils. Not to become gloomy, but so nothing finds you unprepared. What is expected hits softer; what is sudden hits twice as hard. Fortune can take in a moment what took years to build, so think through the worst calmly and decide in advance how you would respond.",
+        "el": "Ο Σενέκας σου ζητά να κάνεις πρόβα στο μυαλό σου τις συμφορές: απώλεια χρημάτων, υγείας, σπιτιού, ανθρώπων που αγαπάς. Οι Στωικοί το έλεγαν προμελέτη των κακών. Όχι για να γίνεις μελαγχολικός, αλλά για να μη σε βρει τίποτα απροετοίμαστο. Ό,τι το περιμένεις χτυπά πιο μαλακά· ό,τι έρχεται ξαφνικά χτυπά διπλά. Η τύχη μπορεί να πάρει σε μια στιγμή όσα χτίστηκαν σε χρόνια, γι' αυτό σκέψου ήρεμα το χειρότερο και αποφάσισε από πριν πώς θα αντιδράσεις."
+      },
+      "example": {
+        "en": "Letter 91 was written after a fire destroyed the rich city of Lugdunum, today's Lyon, in a single night. Seneca's friend Liberalis, who came from there, was crushed. Seneca writes that only one night stood between a great city and none, and that this is why nothing should catch us unprepared.",
+        "el": "Η 91η επιστολή γράφτηκε όταν μια φωτιά κατέστρεψε μέσα σε μία νύχτα την πλούσια πόλη Λουγδούνο, τη σημερινή Λυών. Ο φίλος του Σενέκα, ο Λιβεράλις, που καταγόταν από εκεί, ήταν συντετριμμένος. Ο Σενέκας γράφει ότι ανάμεσα σε μια μεγάλη πόλη και σε καμία πόλη στάθηκε μόνο μία νύχτα, και γι' αυτό τίποτα δεν πρέπει να μας βρίσκει απροετοίμαστους."
+      },
+      "apply": {
+        "en": "Once a quarter, spend 20 minutes on «what if»: your Meta ad account gets blocked, your laptop dies, a hosting or domain provider goes down, your best team member leaves. For each, write one prevention step, like a second admin on the ad account and backups of every site.",
+        "el": "Μία φορά το τρίμηνο, αφιέρωσε 20 λεπτά στο «κι αν»: σου μπλοκάρουν τον διαφημιστικό λογαριασμό στο Meta, χαλάει το laptop σου, πέφτει ο πάροχος φιλοξενίας ή domain, φεύγει ο καλύτερος συνεργάτης σου. Για το καθένα γράψε ένα βήμα πρόληψης, όπως δεύτερο διαχειριστή στον λογαριασμό διαφημίσεων και αντίγραφα ασφαλείας για κάθε σελίδα."
+      },
+      "check": {
+        "q": {"en": "Why rehearse misfortune in advance?", "el": "Γιατί να κάνεις από πριν πρόβα τις συμφορές;"},
+        "options": [
+          {"en": "Because expected blows hit softer", "el": "Γιατί τα χτυπήματα που περιμένεις πονούν λιγότερο"},
+          {"en": "Because thinking about it stops it happening", "el": "Γιατί αν το σκεφτείς, δεν θα συμβεί"},
+          {"en": "Because pessimists earn more money", "el": "Γιατί οι απαισιόδοξοι βγάζουν περισσότερα χρήματα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Preparation turns a shock into a problem you have already thought through.", "el": "Η προετοιμασία κάνει το σοκ ένα πρόβλημα που το έχεις ήδη σκεφτεί."}
+      }
+    },
+    {
+      "title": {"en": "Fate leads the willing", "el": "Η μοίρα οδηγεί όποιον θέλει"},
+      "explain": {
+        "en": "Seneca quotes the Stoic Cleanthes: the fates lead the willing and drag the unwilling. Things will happen whether you agree or not. You can resist and be dragged, suffering twice, or accept what has already happened and walk with it, putting your energy into the next step. Complaining about what cannot be changed only adds a second wound.",
+        "el": "Ο Σενέκας παραθέτει τον στωικό Κλεάνθη: η μοίρα οδηγεί όποιον θέλει και σέρνει όποιον δεν θέλει. Τα πράγματα θα γίνουν είτε συμφωνείς είτε όχι. Μπορείς να αντιστέκεσαι και να σε σέρνουν, υποφέροντας διπλά, ή να δεχτείς ό,τι έχει ήδη γίνει και να περπατήσεις μαζί του, ρίχνοντας την ενέργειά σου στο επόμενο βήμα. Η γκρίνια για όσα δεν αλλάζουν απλώς προσθέτει δεύτερη πληγή."
+      },
+      "example": {
+        "en": "Letter 107 begins with bad news: Lucilius's slaves have run away. Seneca tells him this is part of life, like rain and dust on a journey, and closes the letter with Cleanthes's verses, which he translates into Latin: lead me, fate, and I will follow without delay.",
+        "el": "Η 107η επιστολή ξεκινά με άσχημα νέα: οι δούλοι του Λουκίλιου το έσκασαν. Ο Σενέκας του λέει ότι αυτά είναι μέρος της ζωής, όπως η βροχή και η σκόνη σε ένα ταξίδι, και κλείνει την επιστολή με τους στίχους του Κλεάνθη, που τους μεταφράζει στα λατινικά: οδήγησέ με, μοίρα, και θα ακολουθήσω χωρίς δισταγμό."
+      },
+      "apply": {
+        "en": "When Meta changes its rules, a client cancels or a big project slips, give yourself ten minutes to be annoyed. Then write one line: «This happened. What is my next move?» Answer the client politely, fix the ad and move on, instead of spending the afternoon arguing with reality.",
+        "el": "Όταν το Meta αλλάζει κανόνες, ένας πελάτης ακυρώνει ή ένα μεγάλο έργο καθυστερεί, δώσε στον εαυτό σου δέκα λεπτά να εκνευριστεί. Μετά γράψε μία γραμμή: «Έγινε. Ποια είναι η επόμενη κίνησή μου;» Απάντησε ευγενικά στον πελάτη, διόρθωσε τη διαφήμιση και προχώρα, αντί να περάσεις το απόγευμα τσακωνόμενος με την πραγματικότητα."
+      },
+      "check": {
+        "q": {"en": "What happens to those who resist fate, says Cleanthes?", "el": "Τι παθαίνουν όσοι αντιστέκονται στη μοίρα, κατά τον Κλεάνθη;"},
+        "options": [
+          {"en": "They manage to change it", "el": "Καταφέρνουν να την αλλάξουν"},
+          {"en": "They are rewarded later", "el": "Ανταμείβονται αργότερα"},
+          {"en": "They are dragged along anyway", "el": "Τους σέρνει έτσι κι αλλιώς"}
+        ],
+        "answer": 2,
+        "why": {"en": "Resisting what already happened changes nothing; it only adds suffering.", "el": "Η αντίσταση σε ό,τι έχει ήδη γίνει δεν αλλάζει τίποτα· απλώς προσθέτει πόνο."}
+      }
+    },
+    {
+      "title": {"en": "You take yourself along", "el": "Παίρνεις μαζί τον εαυτό σου"},
+      "explain": {
+        "en": "Lucilius travels hoping to shake off a heavy mood, and it follows him. Seneca tells him: you need a change of soul, not a change of sky. Your problems travel with you because they live inside you. A new city, job or tool will not cure restlessness, fear or laziness. First fix the inside; then any place will do.",
+        "el": "Ο Λουκίλιος ταξιδεύει ελπίζοντας να διώξει τη βαριά του διάθεση, κι εκείνη τον ακολουθεί. Ο Σενέκας του λέει: χρειάζεσαι αλλαγή ψυχής, όχι αλλαγή ουρανού. Τα προβλήματά σου ταξιδεύουν μαζί σου, γιατί κατοικούν μέσα σου. Μια νέα πόλη, δουλειά ή εφαρμογή δεν θα γιατρέψει την ανησυχία, τον φόβο ή την τεμπελιά. Φτιάξε πρώτα το μέσα· μετά κάθε τόπος κάνει."
+      },
+      "example": {
+        "en": "In Letter 28 Seneca recalls that when someone complained to Socrates that travelling had done him no good, Socrates answered: «Why are you surprised? You took yourself with you.» Seneca adds that the weight stays because the cause of the trouble goes wherever you go.",
+        "el": "Στην 28η επιστολή ο Σενέκας θυμίζει ότι, όταν κάποιος παραπονέθηκε στον Σωκράτη πως τα ταξίδια δεν τον ωφέλησαν, εκείνος απάντησε: «Γιατί απορείς; Πήρες μαζί σου τον εαυτό σου». Ο Σενέκας προσθέτει ότι το βάρος μένει, γιατί η αιτία της ταραχής πηγαίνει όπου πηγαίνεις."
+      },
+      "apply": {
+        "en": "Before you switch CRM, ad strategy, niche or side project again, write why the last one stalled. If the answer is «I stopped calling after three weeks», the new one will stall too. Fix the habit first: a fixed daily call target for 30 days, then judge the tool.",
+        "el": "Πριν αλλάξεις ξανά CRM, στρατηγική διαφήμισης, κλάδο ή side project, γράψε γιατί κόλλησε το προηγούμενο. Αν η απάντηση είναι «σταμάτησα τα τηλέφωνα μετά από τρεις εβδομάδες», θα κολλήσει και το καινούργιο. Φτιάξε πρώτα τη συνήθεια: σταθερός ημερήσιος στόχος κλήσεων για 30 μέρες, και μετά κρίνε το εργαλείο."
+      },
+      "check": {
+        "q": {"en": "Why did travel not help Lucilius?", "el": "Γιατί τα ταξίδια δεν βοήθησαν τον Λουκίλιο;"},
+        "options": [
+          {"en": "He chose the wrong places", "el": "Διάλεξε λάθος μέρη"},
+          {"en": "He took his troubled mind with him", "el": "Πήρε μαζί του το ταραγμένο μυαλό του"},
+          {"en": "He did not travel far enough", "el": "Δεν ταξίδεψε αρκετά μακριά"}
+        ],
+        "answer": 1,
+        "why": {"en": "The trouble was inside him, so it came along on every trip.", "el": "Η ταραχή ήταν μέσα του, γι' αυτό τον ακολουθούσε σε κάθε ταξίδι."}
+      }
+    },
+    {
+      "title": {"en": "Calm inside, noise outside", "el": "Ησυχία μέσα, θόρυβος έξω"},
+      "explain": {
+        "en": "Seneca says real quiet is not silence around you but peace inside you. If your mind is calm, noise outside cannot touch you; if it is restless, even a silent room feels loud. He also admits honestly that it is easier to move away from noise than to rise fully above it. Train your inner calm, and still remove distractions when you can.",
+        "el": "Ο Σενέκας λέει ότι η αληθινή ησυχία δεν είναι η σιωπή γύρω σου, αλλά η γαλήνη μέσα σου. Αν ο νους σου είναι ήρεμος, ο θόρυβος απέξω δεν σε αγγίζει· αν είναι ανήσυχος, ακόμα και ένα σιωπηλό δωμάτιο μοιάζει θορυβώδες. Παραδέχεται όμως τίμια ότι είναι πιο εύκολο να φύγεις από τον θόρυβο παρά να σταθείς εντελώς πάνω από αυτόν. Καλλιέργησε την εσωτερική ηρεμία, και πάλι όμως βγάζε τους περισπασμούς όταν μπορείς."
+      },
+      "example": {
+        "en": "In Letter 56 Seneca lives right above a public bath. He describes the grunts of men lifting weights, the slap of massages, a hair-plucker's shrill cries and food sellers shouting their goods. He claims it does not bother him, then ends the letter admitting he will move somewhere quieter.",
+        "el": "Στην 56η επιστολή ο Σενέκας μένει ακριβώς πάνω από ένα δημόσιο λουτρό. Περιγράφει τα βογκητά όσων σηκώνουν βάρη, τα χτυπήματα του μασάζ, τις τσιριχτές φωνές του αποτριχωτή και τους πωλητές φαγητού που διαλαλούν την πραμάτεια τους. Λέει ότι δεν τον ενοχλεί, και στο τέλος της επιστολής παραδέχεται ότι θα μετακομίσει κάπου πιο ήσυχα."
+      },
+      "apply": {
+        "en": "Before a video meeting or a block of calls, take one minute: three slow breaths and one sentence to yourself, «Only this call matters now». Then change the outside too: phone on silent, client chat notifications off, one tab open. Calm inside, fewer triggers outside.",
+        "el": "Πριν από μια βιντεοκλήση ή μια σειρά τηλεφωνημάτων, πάρε ένα λεπτό: τρεις αργές ανάσες και μία φράση στον εαυτό σου, «Τώρα μετράει μόνο αυτή η κλήση». Μετά άλλαξε και το έξω: κινητό στο αθόρυβο, ειδοποιήσεις του chat κλειστές, μία καρτέλα ανοιχτή. Ηρεμία μέσα, λιγότερα ερεθίσματα έξω."
+      },
+      "check": {
+        "q": {"en": "Where does real quiet come from, for Seneca?", "el": "Από πού έρχεται η αληθινή ησυχία, για τον Σενέκα;"},
+        "options": [
+          {"en": "From a peaceful mind", "el": "Από έναν γαλήνιο νου"},
+          {"en": "From a silent office", "el": "Από ένα σιωπηλό γραφείο"},
+          {"en": "From living alone in the country", "el": "Από το να ζεις μόνος στην εξοχή"}
+        ],
+        "answer": 0,
+        "why": {"en": "A calm mind ignores noise; a restless one hears it everywhere. He still admits that removing noise helps.", "el": "Ο ήρεμος νους αγνοεί τον θόρυβο· ο ανήσυχος τον ακούει παντού. Παραδέχεται πάντως ότι βοηθά και να βγάζεις τον θόρυβο."}
+      }
+    },
+    {
+      "title": {"en": "Know your harbour", "el": "Ξέρε σε ποιο λιμάνι πας"},
+      "explain": {
+        "en": "Seneca writes that when a man does not know which harbour he is heading for, no wind is the right wind. People plan pieces of their life but never the whole, so they drift and change direction with every opinion. Decide your main aim first. Then each choice becomes simple: does this move me towards the harbour or not?",
+        "el": "Ο Σενέκας γράφει ότι όταν κάποιος δεν ξέρει σε ποιο λιμάνι πηγαίνει, κανένας άνεμος δεν είναι ο σωστός. Οι άνθρωποι σχεδιάζουν κομμάτια της ζωής τους αλλά ποτέ το σύνολο, γι' αυτό παρασύρονται και αλλάζουν πορεία με κάθε γνώμη. Αποφάσισε πρώτα τον βασικό σου στόχο. Τότε κάθε επιλογή γίνεται απλή: αυτό με πάει προς το λιμάνι ή όχι;"
+      },
+      "example": {
+        "en": "In 1961 President John F. Kennedy gave NASA one clear harbour: land a man on the Moon and bring him back safely before the decade was out. Thousands of decisions across many companies were judged against that single aim, and Apollo 11 landed in July 1969.",
+        "el": "Το 1961 ο πρόεδρος Τζον Κένεντι έδωσε στη NASA ένα καθαρό λιμάνι: να πατήσει άνθρωπος στη Σελήνη και να γυρίσει με ασφάλεια πριν τελειώσει η δεκαετία. Χιλιάδες αποφάσεις σε πολλές εταιρείες κρίθηκαν με βάση αυτόν τον έναν στόχο, και το Apollo 11 προσεδαφίστηκε τον Ιούλιο του 1969."
+      },
+      "apply": {
+        "en": "Write your one harbour for the next 12 months in a single sentence, for example a number of paying clients and a team member who runs client changes. When a new side project, niche or tool appears, ask: «Does this bring me closer to the harbour?» If not, it waits.",
+        "el": "Γράψε σε μία πρόταση το ένα λιμάνι σου για τους επόμενους 12 μήνες, για παράδειγμα έναν αριθμό πελατών που πληρώνουν και έναν συνεργάτη που τρέχει τις αλλαγές των πελατών. Όταν εμφανίζεται ένα νέο side project, κλάδος ή εργαλείο, ρώτα: «Αυτό με φέρνει πιο κοντά στο λιμάνι;» Αν όχι, περιμένει."
+      },
+      "check": {
+        "q": {"en": "Why is no wind the right wind for some people?", "el": "Γιατί για κάποιους κανένας άνεμος δεν είναι ο σωστός;"},
+        "options": [
+          {"en": "Because the weather is unpredictable", "el": "Γιατί ο καιρός είναι απρόβλεπτος"},
+          {"en": "Because they lack a good team", "el": "Γιατί δεν έχουν καλή ομάδα"},
+          {"en": "Because they do not know where they are going", "el": "Γιατί δεν ξέρουν πού πηγαίνουν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Without a destination, you cannot tell good opportunities from distractions.", "el": "Χωρίς προορισμό, δεν ξεχωρίζεις τις καλές ευκαιρίες από τους περισπασμούς."}
+      }
+    },
+    {
+      "title": {"en": "Deeds, not words", "el": "Έργα, όχι λόγια"},
+      "explain": {
+        "en": "For Seneca philosophy is not a show of clever talk. It shapes the mind, orders your life and guides what you do. The proof that you have learned something is whether your actions match your words, and whether you are the same person every day. He keeps telling Lucilius: stop collecting sayings, start living them. Knowing without doing is just entertainment.",
+        "el": "Για τον Σενέκα η φιλοσοφία δεν είναι επίδειξη έξυπνων λόγων. Πλάθει τον νου, βάζει σε τάξη τη ζωή και καθοδηγεί αυτό που κάνεις. Η απόδειξη ότι κάτι το έμαθες είναι αν οι πράξεις σου ταιριάζουν με τα λόγια σου και αν είσαι ο ίδιος άνθρωπος κάθε μέρα. Το λέει ξανά και ξανά στον Λουκίλιο: σταμάτα να μαζεύεις ρητά, άρχισε να τα ζεις. Η γνώση χωρίς πράξη είναι απλή διασκέδαση."
+      },
+      "example": {
+        "en": "Seneca himself was attacked on exactly this point. In 58 AD, as the historian Tacitus reports, the senator Publius Suillius asked in public how a philosopher who praised simple living had piled up a huge fortune in a few years at Nero's court.",
+        "el": "Ο ίδιος ο Σενέκας δέχτηκε επίθεση ακριβώς σε αυτό. Το 58 μ.Χ., όπως αναφέρει ο ιστορικός Τάκιτος, ο συγκλητικός Πόπλιος Σουίλλιος ρώτησε δημόσια πώς ένας φιλόσοφος που επαινούσε τη λιτή ζωή είχε μαζέψει μέσα σε λίγα χρόνια στην αυλή του Νέρωνα μια τεράστια περιουσία."
+      },
+      "apply": {
+        "en": "Look at what your site and ads promise: fast changes, clear prices, no hidden costs. For one week, measure whether you deliver: how many hours until each client change is done? Fix the biggest gap before you write any new ad, because your actions are your real marketing.",
+        "el": "Κοίτα τι υπόσχονται η σελίδα και οι διαφημίσεις σου: γρήγορες αλλαγές, καθαρές τιμές, καμία κρυφή χρέωση. Για μία εβδομάδα μέτρα αν τα τηρείς: σε πόσες ώρες γίνεται κάθε αλλαγή που ζητά ένας πελάτης; Κλείσε το μεγαλύτερο κενό πριν γράψεις νέα διαφήμιση, γιατί οι πράξεις σου είναι το πραγματικό σου μάρκετινγκ."
+      },
+      "check": {
+        "q": {"en": "How do you prove, for Seneca, that you have learned philosophy?", "el": "Πώς αποδεικνύεις, για τον Σενέκα, ότι έμαθες φιλοσοφία;"},
+        "options": [
+          {"en": "By quoting many wise sayings", "el": "Παραθέτοντας πολλά σοφά ρητά"},
+          {"en": "By making your actions match your words", "el": "Κάνοντας τις πράξεις σου να ταιριάζουν με τα λόγια σου"},
+          {"en": "By winning every argument", "el": "Κερδίζοντας κάθε συζήτηση"}
+        ],
+        "answer": 1,
+        "why": {"en": "Philosophy is meant to change how you live, not what you can recite.", "el": "Η φιλοσοφία υπάρχει για να αλλάξει το πώς ζεις, όχι το τι μπορείς να απαγγείλεις."}
+      }
+    },
+    {
+      "title": {"en": "People, not tools", "el": "Άνθρωποι, όχι εργαλεία"},
+      "explain": {
+        "en": "In a society built on slavery, Seneca praises Lucilius for living on friendly terms with his slaves. «They are slaves», people say; no, he answers, they are human beings, made of the same stuff as us. Treat those below you as you would want to be treated by those above you. Respect earns loyalty; contempt breeds hidden enemies.",
+        "el": "Σε μια κοινωνία χτισμένη πάνω στη δουλεία, ο Σενέκας επαινεί τον Λουκίλιο που φέρεται φιλικά στους δούλους του. «Δούλοι είναι», λένε· όχι, απαντά, άνθρωποι είναι, φτιαγμένοι από το ίδιο υλικό με εμάς. Φέρσου σε όσους είναι κάτω από σένα όπως θα ήθελες να σου φέρονται όσοι είναι πάνω από σένα. Ο σεβασμός φέρνει αφοσίωση· η περιφρόνηση γεννά κρυφούς εχθρούς."
+      },
+      "example": {
+        "en": "In Letter 47 Seneca attacks Roman masters who eat huge dinners while their slaves must stand all night in silence, punished even for a cough. He recalls the saying «as many enemies as slaves» and answers that masters make them enemies by the way they treat them.",
+        "el": "Στην 47η επιστολή ο Σενέκας επιτίθεται στους Ρωμαίους αφέντες που τρώνε τεράστια δείπνα, ενώ οι δούλοι τους πρέπει να στέκονται όλη τη νύχτα σιωπηλοί και τιμωρούνται ακόμα και για έναν βήχα. Θυμίζει την παροιμία «όσοι δούλοι, τόσοι εχθροί» και απαντά ότι εχθρούς τους κάνουν οι ίδιοι οι αφέντες, με τον τρόπο που τους φέρονται."
+      },
+      "apply": {
+        "en": "Treat your future caller or designer as a person, not a pair of hands: explain why a task matters, thank them for good work in front of clients, and pay them on time, every time, the way you want clients to pay you. Ask them once a month what makes their work harder.",
+        "el": "Αντιμετώπισε τον μελλοντικό σου συνεργάτη στα τηλέφωνα ή στο design σαν άνθρωπο, όχι σαν ένα ζευγάρι χέρια: εξήγησέ του γιατί μετράει μια δουλειά, ευχαρίστησέ τον για την καλή δουλειά μπροστά σε πελάτες και πλήρωνέ τον στην ώρα του, πάντα, όπως θέλεις να σε πληρώνουν οι πελάτες. Ρώτα τον μία φορά τον μήνα τι του δυσκολεύει τη δουλειά."
+      },
+      "check": {
+        "q": {"en": "Where do hostile people around a master come from, according to Letter 47?", "el": "Από πού βγαίνουν οι εχθρικοί άνθρωποι γύρω από έναν αφέντη, κατά την 47η επιστολή;"},
+        "options": [
+          {"en": "From the way the master treats them", "el": "Από τον τρόπο που τους φέρεται ο αφέντης"},
+          {"en": "From bad luck in choosing them", "el": "Από την κακή τύχη στην επιλογή τους"},
+          {"en": "From their nature, which cannot change", "el": "Από τη φύση τους, που δεν αλλάζει"}
+        ],
+        "answer": 0,
+        "why": {"en": "Seneca says masters make enemies by mistreating people. Respect makes allies.", "el": "Ο Σενέκας λέει ότι οι αφέντες φτιάχνουν εχθρούς όταν κακομεταχειρίζονται τους ανθρώπους. Ο σεβασμός φτιάχνει συμμάχους."}
+      }
+    },
+    {
+      "title": {"en": "Grieve, but in measure", "el": "Πένθησε, αλλά με μέτρο"},
+      "explain": {
+        "en": "When Lucilius loses his friend Flaccus, Seneca does not tell him to feel nothing. Let the tears fall, he says, but do not drown in them. Too much grief often has some show in it. Remember the friend with joy for the time you had, not only with pain for the time you lost. And value the friends you still have, while you have them.",
+        "el": "Όταν ο Λουκίλιος χάνει τον φίλο του τον Φλάκκο, ο Σενέκας δεν του λέει να μη νιώσει τίποτα. Άσε τα δάκρυα να τρέξουν, λέει, αλλά μην πνιγείς μέσα τους. Η υπερβολική θλίψη έχει συχνά και λίγη επίδειξη. Θυμήσου τον φίλο με χαρά για τον χρόνο που είχατε, όχι μόνο με πόνο για τον χρόνο που χάσατε. Και εκτίμησε τους φίλους που έχεις ακόμα, όσο τους έχεις."
+      },
+      "example": {
+        "en": "In the same letter, Letter 63, Seneca admits that he himself wept so much for his close friend Annaeus Serenus that he was among those beaten by grief. He says he writes this not as someone who got it right, but to protect Lucilius from his own mistake.",
+        "el": "Στην ίδια επιστολή, την 63η, ο Σενέκας παραδέχεται ότι ο ίδιος έκλαψε τόσο πολύ για τον στενό του φίλο Ανναίο Σερήνο, ώστε ήταν από εκείνους που τους νίκησε η θλίψη. Λέει ότι το γράφει όχι σαν κάποιος που τα κατάφερε, αλλά για να προφυλάξει τον Λουκίλιο από το δικό του λάθος."
+      },
+      "apply": {
+        "en": "When a loss hits, a person close to you or a friend, give it real time: tell your team you need two quiet days and move the calls that can wait. Then write three things you are grateful for about that person, and call one friend you have been neglecting.",
+        "el": "Όταν έρθει μια απώλεια, ενός δικού σου ανθρώπου ή ενός φίλου, δώσ' της πραγματικό χρόνο: πες στην ομάδα ότι χρειάζεσαι δύο ήσυχες μέρες και μετάθεσε όσα τηλέφωνα μπορούν να περιμένουν. Μετά γράψε τρία πράγματα για τα οποία είσαι ευγνώμων σε αυτόν τον άνθρωπο και πάρε τηλέφωνο έναν φίλο που έχεις παραμελήσει."
+      },
+      "check": {
+        "q": {"en": "What does Seneca advise about grief?", "el": "Τι συμβουλεύει ο Σενέκας για το πένθος;"},
+        "options": [
+          {"en": "Hide all feelings, a Stoic feels nothing", "el": "Κρύψε κάθε συναίσθημα, ο στωικός δεν νιώθει τίποτα"},
+          {"en": "Grieve forever to honour the dead", "el": "Πένθησε για πάντα για να τιμήσεις τον νεκρό"},
+          {"en": "Let the tears come, but do not drown in them", "el": "Άσε τα δάκρυα να έρθουν, αλλά μην πνιγείς μέσα τους"}
+        ],
+        "answer": 2,
+        "why": {"en": "He allows natural sorrow but warns against grief that becomes endless or a show.", "el": "Επιτρέπει τη φυσική λύπη, αλλά προειδοποιεί για το πένθος που γίνεται ατέλειωτο ή επίδειξη."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Your morning fills up with small client chat requests and by noon you have made zero cold calls. What would Seneca tell you?", "el": "Το πρωινό σου γεμίζει με μικρά αιτήματα στο chat των πελατών και ως το μεσημέρι δεν έχεις κάνει ούτε ένα cold call. Τι θα σου έλεγε ο Σενέκας;"},
+      "options": [
+        {"en": "That is normal, clients always come first", "el": "Είναι φυσιολογικό, οι πελάτες προηγούνται πάντα"},
+        {"en": "Protect your best hours; small things are stealing them", "el": "Προστάτεψε τις καλύτερες ώρες σου· τις κλέβουν τα μικρά"},
+        {"en": "Work late tonight to catch up", "el": "Δούλεψε μέχρι αργά απόψε για να καλύψεις τη διαφορά"}
+      ],
+      "answer": 1,
+      "why": {"en": "Time is the only thing truly yours. Guard the block that grows the business before you hand hours to others.", "el": "Ο χρόνος είναι το μόνο πραγματικά δικό σου. Φύλαξε το κομμάτι που μεγαλώνει τη δουλειά πριν χαρίσεις ώρες στους άλλους."},
+      "idea": 0
+    },
+    {
+      "q": {"en": "A psychologist owes the yearly 130€ for two months and you keep postponing the call. What helps most?", "el": "Ένας ψυχολόγος χρωστά τα ετήσια 130€ εδώ και δύο μήνες κι εσύ αναβάλλεις συνέχεια το τηλέφωνο. Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Write the worst and the most likely outcome, then call within ten minutes", "el": "Γράφεις το χειρότερο και το πιο πιθανό σενάριο και τηλεφωνείς μέσα σε δέκα λεπτά"},
+        {"en": "Wait until he notices by himself", "el": "Περιμένεις να το καταλάβει μόνος του"},
+        {"en": "Send a sharp message to get it over with", "el": "Στέλνεις ένα απότομο μήνυμα για να τελειώνεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "We suffer more in imagination than in reality. Facing the likely outcome shrinks the fear.", "el": "Υποφέρουμε περισσότερο στη φαντασία παρά στην πραγματικότητα. Όταν βλέπεις το πιθανό σενάριο, ο φόβος μικραίνει."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "You feel stuck and think a month working from an island will fix your motivation. What does Seneca say?", "el": "Νιώθεις κολλημένος και πιστεύεις ότι ένας μήνας δουλειάς από ένα νησί θα σου φτιάξει το κίνητρο. Τι λέει ο Σενέκας;"},
+      "options": [
+        {"en": "Go, a new place is exactly what you need", "el": "Πήγαινε, ένας νέος τόπος είναι ακριβώς αυτό που χρειάζεσαι"},
+        {"en": "Never travel, it is always a waste", "el": "Μην ταξιδεύεις ποτέ, είναι πάντα χάσιμο"},
+        {"en": "The problem travels with you; fix the habit first, then go if you like", "el": "Το πρόβλημα ταξιδεύει μαζί σου· φτιάξε πρώτα τη συνήθεια και μετά πήγαινε αν θέλεις"}
+      ],
+      "answer": 2,
+      "why": {"en": "You need a change of soul, not of sky. The island is fine; it just will not fix the inside.", "el": "Χρειάζεσαι αλλαγή ψυχής, όχι ουρανού. Το νησί είναι μια χαρά· απλώς δεν θα φτιάξει το μέσα."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "A great month brings double the usual income. A friend says to buy a new car right away. What fits Seneca?", "el": "Ένας πολύ καλός μήνας φέρνει διπλάσια έσοδα από τα συνηθισμένα. Ένας φίλος σου λέει να αγοράσεις αμέσως καινούργιο αυτοκίνητο. Τι ταιριάζει στον Σενέκα;"},
+      "options": [
+        {"en": "Buy it, you earned it", "el": "Το αγοράζεις, το άξιζες"},
+        {"en": "Keep your «enough» fixed and put the extra into savings or one growth bet", "el": "Κρατάς σταθερό το «αρκετό» σου και βάζεις τη διαφορά σε αποταμίευση ή σε ένα στοίχημα ανάπτυξης"},
+        {"en": "Lower your prices because you earn enough", "el": "Ρίχνεις τις τιμές σου, αφού βγάζεις αρκετά"}
+      ],
+      "answer": 1,
+      "why": {"en": "Rich is wanting less. Raising your desires with every good month keeps you feeling poor.", "el": "Πλούσιος είναι όποιος θέλει λιγότερα. Αν ανεβάζεις τις επιθυμίες σου με κάθε καλό μήνα, θα νιώθεις πάντα φτωχός."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "After a careful trial month, your new team member handles client changes well. You still re-check every message she sends. What does Seneca suggest?", "el": "Μετά από έναν προσεκτικό δοκιμαστικό μήνα, η νέα σου συνεργάτιδα χειρίζεται σωστά τις αλλαγές των πελατών. Εσύ όμως ξαναελέγχεις κάθε της μήνυμα. Τι προτείνει ο Σενέκας;"},
+      "options": [
+        {"en": "Keep checking, never trust anyone", "el": "Συνεχίζεις τον έλεγχο, μην εμπιστεύεσαι ποτέ κανέναν"},
+        {"en": "Replace her to stay safe", "el": "Την αντικαθιστάς για να είσαι σίγουρος"},
+        {"en": "Hand the area over fully and stop checking every message", "el": "Της παραδίδεις ολόκληρο τον τομέα και σταματάς να ελέγχεις κάθε μήνυμα"}
+      ],
+      "answer": 2,
+      "why": {"en": "Judge before, then trust fully. Half-trust after a passed test wastes your time and her confidence.", "el": "Κρίνε πριν, μετά εμπιστέψου ολόκληρα. Η μισή εμπιστοσύνη μετά από μια επιτυχημένη δοκιμή σπαταλά τον χρόνο σου και την αυτοπεποίθησή της."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "A close friend has died and you feel you must be «strong» and go straight back to calls. What is Seneca's advice?", "el": "Πέθανε ένας στενός σου φίλος και νιώθεις ότι πρέπει να είσαι «δυνατός» και να γυρίσεις αμέσως στα τηλέφωνα. Ποια είναι η συμβουλή του Σενέκα;"},
+      "options": [
+        {"en": "Allow yourself to grieve without drowning, then remember him with gratitude", "el": "Αφήνεις τον εαυτό σου να πενθήσει χωρίς να πνιγεί και μετά τον θυμάσαι με ευγνωμοσύνη"},
+        {"en": "Feel nothing, that is what a Stoic does", "el": "Δεν νιώθεις τίποτα, αυτό κάνει ένας στωικός"},
+        {"en": "Stop everything for months", "el": "Σταματάς τα πάντα για μήνες"}
+      ],
+      "answer": 0,
+      "why": {"en": "Seneca allows tears and warns only against endless grief. He even admits he once grieved too much himself.", "el": "Ο Σενέκας επιτρέπει τα δάκρυα και προειδοποιεί μόνο για το ατέλειωτο πένθος. Παραδέχεται μάλιστα ότι κάποτε πένθησε κι ο ίδιος υπερβολικά."},
+      "idea": 17
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Seneca wrote these letters to his younger friend Lucilius.", "el": "Ο Σενέκας έγραψε αυτές τις επιστολές στον νεότερο φίλο του Λουκίλιο."}, "answer": true, "why": {"en": "Lucilius was an official in Sicily, and the 124 letters are addressed to him.", "el": "Ο Λουκίλιος ήταν αξιωματούχος στη Σικελία, και οι 124 επιστολές απευθύνονται σε αυτόν."}},
+    {"s": {"en": "Seneca advises reading as many different authors as possible.", "el": "Ο Σενέκας συμβουλεύει να διαβάζεις όσο περισσότερους διαφορετικούς συγγραφείς γίνεται."}, "answer": false, "why": {"en": "He says the opposite: stay with a few good authors and digest them, because whoever is everywhere is nowhere.", "el": "Λέει το αντίθετο: μείνε σε λίγους καλούς συγγραφείς και χώνεψέ τους, γιατί όποιος είναι παντού δεν είναι πουθενά."}},
+    {"s": {"en": "As a Stoic, Seneca refused to quote philosophers from other schools.", "el": "Ως στωικός, ο Σενέκας αρνιόταν να παραθέσει φιλοσόφους άλλων σχολών."}, "answer": false, "why": {"en": "He quotes Epicurus again and again, saying that whatever is true is his.", "el": "Παραθέτει ξανά και ξανά τον Επίκουρο και λέει ότι ό,τι είναι αληθινό είναι δικό του."}},
+    {"s": {"en": "For Seneca, the poor man is the one who always wants more.", "el": "Για τον Σενέκα, φτωχός είναι όποιος θέλει πάντα περισσότερα."}, "answer": true, "why": {"en": "Wealth depends as much on your desires as on your money.", "el": "Ο πλούτος εξαρτάται τόσο από τις επιθυμίες σου όσο και από τα χρήματά σου."}},
+    {"s": {"en": "Practising poverty means living in misery for good to stay pure.", "el": "Η πρόβα της φτώχειας σημαίνει να ζεις μόνιμα στη μιζέρια για να μείνεις αγνός."}, "answer": false, "why": {"en": "It is a few days now and then, to learn that the worst is bearable, not a permanent way of life.", "el": "Είναι λίγες μέρες κάθε τόσο, για να μάθεις ότι το χειρότερο αντέχεται, όχι μόνιμος τρόπος ζωής."}},
+    {"s": {"en": "Seneca says we suffer more often in imagination than in reality.", "el": "Ο Σενέκας λέει ότι υποφέρουμε πιο συχνά στη φαντασία παρά στην πραγματικότητα."}, "answer": true, "why": {"en": "This is the core of Letter 13: many things frighten us that never actually crush us.", "el": "Αυτός είναι ο πυρήνας της 13ης επιστολής: πολλά μας τρομάζουν χωρίς να μας συντρίψουν ποτέ."}},
+    {"s": {"en": "According to Seneca, a long trip is the best cure for a troubled mind.", "el": "Κατά τον Σενέκα, ένα μεγάλο ταξίδι είναι η καλύτερη θεραπεία για ένα ταραγμένο μυαλό."}, "answer": false, "why": {"en": "You take yourself along, so you need a change of soul, not of place.", "el": "Παίρνεις μαζί τον εαυτό σου, άρα χρειάζεσαι αλλαγή ψυχής, όχι τόπου."}},
+    {"s": {"en": "Seneca wrote that slaves are human beings and should be treated as such.", "el": "Ο Σενέκας έγραψε ότι οι δούλοι είναι άνθρωποι και πρέπει να τους φερόμαστε ανάλογα."}, "answer": true, "why": {"en": "Letter 47 says so clearly, although Seneca never called for ending slavery itself.", "el": "Η 47η επιστολή το λέει καθαρά, αν και ο Σενέκας δεν ζήτησε ποτέ την κατάργηση της ίδιας της δουλείας."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Claim yourself back", "el": "Διεκδίκησε τον εαυτό σου"}, "b": {"en": "Take back the time others take or you waste", "el": "Πάρε πίσω τον χρόνο που σου παίρνουν ή σπαταλάς"}},
+    {"a": {"en": "Rehearse poverty", "el": "Πρόβα φτώχειας"}, "b": {"en": "Live simply a few days to lose the fear", "el": "Ζεις λιτά λίγες μέρες για να φύγει ο φόβος"}},
+    {"a": {"en": "The guardian", "el": "Ο φύλακας"}, "b": {"en": "A respected model you imagine watching you", "el": "Ένα πρότυπο που φαντάζεσαι ότι σε κοιτάζει"}},
+    {"a": {"en": "The harbour", "el": "Το λιμάνι"}, "b": {"en": "Your clear aim that makes winds useful", "el": "Ο καθαρός σου στόχος που κάνει χρήσιμους τους ανέμους"}},
+    {"a": {"en": "Scout, not deserter", "el": "Ανιχνευτής, όχι λιποτάκτης"}, "b": {"en": "Taking good ideas from a rival school", "el": "Παίρνεις καλές ιδέες από αντίπαλη σχολή"}},
+    {"a": {"en": "Change of soul", "el": "Αλλαγή ψυχής"}, "b": {"en": "What really helps, instead of a change of place", "el": "Αυτό που βοηθά πραγματικά, αντί για αλλαγή τόπου"}}
+  ],
+  "missions": [
+    {"en": "Record every hour of tomorrow in a note, then circle the blocks that brought clients or money.", "el": "Κατέγραψε κάθε ώρα της αυριανής μέρας σε μια σημείωση και κύκλωσε τα κομμάτια που έφεραν πελάτες ή χρήματα."},
+    {"en": "Write your «enough» monthly number and one rule for what happens to any money above it.", "el": "Γράψε τον μηνιαίο αριθμό του «αρκετού» και έναν κανόνα για το τι γίνεται με ό,τι τον ξεπερνά."},
+    {"en": "Choose one guardian whose way of working you admire and write their name where you make your sales calls.", "el": "Διάλεξε έναν φύλακα που θαυμάζεις τον τρόπο που δουλεύει και γράψε το όνομά του εκεί όπου κάνεις τα τηλέφωνα πωλήσεων."},
+    {"en": "Make the payment call you have been postponing, after writing down the worst and the most likely outcome.", "el": "Κάνε το τηλέφωνο για την πληρωμή που αναβάλλεις, αφού γράψεις πρώτα το χειρότερο και το πιο πιθανό σενάριο."},
+    {"en": "Write your 12-month harbour in one sentence and cross out one task this week that does not lead there.", "el": "Γράψε σε μία πρόταση το λιμάνι σου για τους επόμενους 12 μήνες και σβήσε μία δουλειά αυτής της εβδομάδας που δεν οδηγεί εκεί."}
+  ],
+  "mantra": {"en": "My time is mine. I want less, fear less and act on what I know.", "el": "Ο χρόνος μου είναι δικός μου. Θέλω λιγότερα, φοβάμαι λιγότερο και πράττω όσα ξέρω."},
+  "careful": {
+    "en": "Seneca did not always live what he wrote. He was one of the richest men in Rome, was accused of harsh money-lending, served Nero for years and, according to Tacitus, wrote the letter that justified Nero's murder of his own mother. He criticised cruelty to slaves but never questioned slavery itself. The letters are also polished literature, probably written with publication in mind. Their advice on time and fear fits modern psychology well, but it is wisdom, not science.",
+    "el": "Ο Σενέκας δεν έζησε πάντα όπως έγραφε. Ήταν από τους πλουσιότερους ανθρώπους της Ρώμης, κατηγορήθηκε για σκληρό δανεισμό με τόκο, υπηρέτησε τον Νέρωνα για χρόνια και, κατά τον Τάκιτο, έγραψε την επιστολή με την οποία ο Νέρων δικαιολόγησε τη δολοφονία της μητέρας του. Επέκρινε τη σκληρότητα προς τους δούλους, αλλά δεν αμφισβήτησε ποτέ την ίδια τη δουλεία. Οι επιστολές είναι επίσης προσεγμένη λογοτεχνία, γραμμένη μάλλον με σκοπό να εκδοθεί. Οι συμβουλές τους για τον χρόνο και τον φόβο ταιριάζουν καλά με τη σύγχρονη ψυχολογία, είναι όμως σοφία, όχι επιστήμη."
+  },
+  "connects": [
+    {"book": "meditations", "note": {"en": "Marcus Aurelius lived the same Stoic ideas a century later; Seneca writes to a friend, Marcus writes to himself.", "el": "Ο Μάρκος Αυρήλιος έζησε τις ίδιες στωικές ιδέες έναν αιώνα αργότερα· ο Σενέκας γράφει σε έναν φίλο, ο Μάρκος στον εαυτό του."}},
+    {"book": "obstacle-is-the-way", "note": {"en": "Ryan Holiday turns Seneca's acceptance of fate and preparation for hardship into a modern method for facing problems.", "el": "Ο Ράιαν Χόλιντεϊ κάνει την αποδοχή της μοίρας και την προετοιμασία για τις δυσκολίες του Σενέκα μια σύγχρονη μέθοδο για τα προβλήματα."}},
+    {"book": "deep-work", "note": {"en": "Seneca's call to guard your time and read deeply is the ancient version of Newport's fight against distraction.", "el": "Το κάλεσμα του Σενέκα να φυλάς τον χρόνο σου και να διαβάζεις σε βάθος είναι η αρχαία εκδοχή της μάχης του Νιούπορτ κατά των περισπασμών."}}
+  ]
+}

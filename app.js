@@ -1,37 +1,37 @@
-/* BOOKS — Angelo's library. Vanilla JS, no dependencies. Progress lives in localStorage ("books-v1"). */
+/* BOOKS — Angelo's library (v2: a book every 1-2 days, 4 sessions). Vanilla JS, no dependencies. Progress lives in localStorage ("books-v1"). */
 (function () {
 'use strict';
 const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const KEY = 'books-v1', INT = [1, 3, 7, 21, 60, 120];
-const SHELVES = ['mind', 'focus', 'sales', 'business', 'founders', 'people', 'wisdom'];
+const SHELVES = ['mind', 'focus', 'sales', 'talk', 'business', 'founders', 'people', 'wisdom'];
 const SKILLS = ['sales', 'persuasion', 'communication', 'mindset', 'focus', 'leadership', 'strategy', 'wisdom'];
 const L = {
  today: ['Today', 'Σήμερα'], library: ['Library', 'Βιβλιοθήκη'], plan: ['Plan', 'Πλάνο'], review: ['Review', 'Επανάληψη'], me: ['Me', 'Εγώ'],
  morning: ['Good morning, Angelo', 'Καλημέρα, Άγγελε'], noon: ['Hello, Angelo', 'Γεια σου, Άγγελε'], evening: ['Good evening, Angelo', 'Καλησπέρα, Άγγελε'],
- heroA: ['One book a week.', 'Ένα βιβλίο την εβδομάδα.'], heroB: ['Ten minutes at a time.', 'Δέκα λεπτά τη φορά.'],
- heroP: ['Learn in the morning, review at night. On a packed day, two minutes keep your streak alive.', 'Το πρωί μαθαίνεις, το βράδυ κάνεις επανάληψη. Σε γεμάτη μέρα, δύο λεπτά κρατούν το σερί σου ζωντανό.'],
+ heroA: ['One book every two days.', 'Ένα βιβλίο κάθε δύο μέρες.'], heroB: ['Morning and night.', 'Πρωί και βράδυ.'],
+ heroP: ['Four sessions of 10–20 minutes finish a book: new ideas on day one, practice and the final test on day two. In a hurry? Do all four in one day.', 'Τέσσερις συναντήσεις των 10–20 λεπτών τελειώνουν ένα βιβλίο: νέες ιδέες την πρώτη μέρα, εξάσκηση και τελικό τεστ τη δεύτερη. Βιάζεσαι; Κάν’ τις και τις τέσσερις σε μία μέρα.'],
  streak: ['day streak', 'μέρες σερί'], mastered: ['books mastered', 'βιβλία κατακτημένα'], ideasL: ['ideas learned', 'ιδέες που έμαθες'],
  level: ['Level', 'Επίπεδο'], toNext: ['XP to the next level', 'XP για το επόμενο επίπεδο'],
- weekBook: ['This week’s book', 'Το βιβλίο της εβδομάδας'], week: ['Week', 'Εβδομάδα'], of: ['of', 'από'],
+ weekBook: ['Your book now', 'Το βιβλίο σου τώρα'], week: ['Book', 'Βιβλίο'], of: ['of', 'από'],
  start: ['Start', 'Ξεκίνα'], cont: ['Continue', 'Συνέχισε'], open: ['Open the book', 'Άνοιξε το βιβλίο'], min: ['min', 'λεπτά'],
  night: ['Night review', 'Βραδινή επανάληψη'], nightS: ['questions waiting · 5 min', 'ερωτήσεις σε περιμένουν · 5 λεπτά'], nightN: ['Nothing due. Practise anyway · 3 min', 'Τίποτα σε εκκρεμότητα. Κάνε εξάσκηση · 3 λεπτά'],
  nightE: ['Opens after your first lesson', 'Ανοίγει μετά το πρώτο σου μάθημα'],
  quick: ['2-minute mode', 'Λειτουργία 2 λεπτών'], quickS: ['Packed day? 3 questions keep the streak.', 'Γεμάτη μέρα; 3 ερωτήσεις κρατούν το σερί.'],
  skills: ['Your skill wheel', 'Ο τροχός των δεξιοτήτων σου'], skillsP: ['It grows with every idea you learn and every book you master. It shrinks a little when reviews are overdue.', 'Μεγαλώνει με κάθε ιδέα που μαθαίνεις και κάθε βιβλίο που κατακτάς. Μικραίνει λίγο όταν αφήνεις επαναλήψεις να περιμένουν.'],
  sales: ['Sales', 'Πωλήσεις'], persuasion: ['Persuasion', 'Πειθώ'], communication: ['Communication', 'Επικοινωνία'], mindset: ['Mindset', 'Νοοτροπία'], focus: ['Focus', 'Συγκέντρωση'], leadership: ['Leadership', 'Ηγεσία'], strategy: ['Strategy', 'Στρατηγική'], wisdom: ['Wisdom', 'Σοφία'],
- s_mind: ['Mind & calm', 'Νους & ηρεμία'], s_focus: ['Focus & action', 'Συγκέντρωση & δράση'], s_sales: ['Sales & persuasion', 'Πωλήσεις & πειθώ'], s_business: ['Building a business', 'Χτίζοντας επιχείρηση'], s_founders: ['Founders’ stories', 'Ιστορίες ιδρυτών'], s_people: ['People & power', 'Άνθρωποι & εξουσία'], s_wisdom: ['Wisdom & the big picture', 'Σοφία & η μεγάλη εικόνα'],
- d_mind: ['Stay steady whatever happens around you.', 'Μείνε σταθερός, ό,τι κι αν συμβαίνει γύρω σου.'], d_focus: ['Do the important work, even when you don’t feel like it.', 'Κάνε τη σημαντική δουλειά, ακόμη κι όταν δεν έχεις όρεξη.'], d_sales: ['Why people say yes — and how to ask honestly.', 'Γιατί οι άνθρωποι λένε «ναι» — και πώς να το ζητάς τίμια.'], d_business: ['From doing everything yourself to a company that runs.', 'Από το «τα κάνω όλα μόνος» σε εταιρεία που τρέχει.'], d_founders: ['How the real ones did it, mistakes included.', 'Πώς το έκαναν οι πραγματικοί, μαζί με τα λάθη τους.'], d_people: ['Read people, groups and power clearly.', 'Διάβαζε καθαρά ανθρώπους, ομάδες και εξουσία.'], d_wisdom: ['What a good life is, and where we all came from.', 'Τι είναι μια καλή ζωή και από πού ερχόμαστε όλοι.'],
+ s_mind: ['Mind & calm', 'Νους & ηρεμία'], s_focus: ['Focus & action', 'Συγκέντρωση & δράση'], s_sales: ['Sales & persuasion', 'Πωλήσεις & πειθώ'], s_talk: ['Speaking & story', 'Ομιλία & ιστορίες'], s_business: ['Building a business', 'Χτίζοντας επιχείρηση'], s_founders: ['Founders’ stories', 'Ιστορίες ιδρυτών'], s_people: ['People & power', 'Άνθρωποι & εξουσία'], s_wisdom: ['Wisdom & the big picture', 'Σοφία & η μεγάλη εικόνα'],
+ d_mind: ['Stay steady whatever happens around you.', 'Μείνε σταθερός, ό,τι κι αν συμβαίνει γύρω σου.'], d_focus: ['Do the important work, even when you don’t feel like it.', 'Κάνε τη σημαντική δουλειά, ακόμη κι όταν δεν έχεις όρεξη.'], d_sales: ['Why people say yes — and how to ask honestly.', 'Γιατί οι άνθρωποι λένε «ναι» — και πώς να το ζητάς τίμια.'], d_talk: ['Say it so people listen, remember and act.', 'Πες το έτσι ώστε να σε ακούν, να το θυμούνται και να πράττουν.'], d_business: ['From doing everything yourself to a company that runs.', 'Από το «τα κάνω όλα μόνος» σε εταιρεία που τρέχει.'], d_founders: ['How the real ones did it, mistakes included.', 'Πώς το έκαναν οι πραγματικοί, μαζί με τα λάθη τους.'], d_people: ['Read people, groups and power clearly.', 'Διάβαζε καθαρά ανθρώπους, ομάδες και εξουσία.'], d_wisdom: ['What a good life is, and where we all came from.', 'Τι είναι μια καλή ζωή και από πού ερχόμαστε όλοι.'],
  libH: ['Your library', 'Η βιβλιοθήκη σου'], libP: ['Every book holds all its key ideas, a real example for each, and how to use it. Nothing lives in your phone notes any more.', 'Κάθε βιβλίο έχει όλες τις βασικές του ιδέες, ένα αληθινό παράδειγμα για την καθεμία και πώς να τη χρησιμοποιήσεις. Τίποτα δεν μένει πια στις σημειώσεις του κινητού.'],
- booksN: ['books', 'βιβλία'], ideasN: ['ideas', 'ιδέες'], next: ['Coming next', 'Έρχονται'], nextP: ['Books that fill your gaps (speaking, negotiation, offers, habits). Tick the ones you want, then tell Claude «add my ticked books».', 'Βιβλία που καλύπτουν τα κενά σου (ομιλία, διαπραγμάτευση, προσφορές, συνήθειες). Τσέκαρε όσα θέλεις και πες στον Claude «πρόσθεσε τα βιβλία που τσέκαρα».'],
- story: ['The book', 'Το βιβλίο'], forYou: ['Why it matters for you', 'Γιατί σε αφορά'], stations: ['Your 7 stations', 'Οι 7 στάσεις σου'], allIdeas: ['All the ideas', 'Όλες οι ιδέες'],
+ booksN: ['books', 'βιβλία'], ideasN: ['ideas', 'ιδέες'], next: ['Want more?', 'Θέλεις κι άλλα;'], nextP: ['More books on your topics. Tick the ones you want, then tell Claude «add my ticked books». Or just name any book.', 'Κι άλλα βιβλία στα θέματά σου. Τσέκαρε όσα θέλεις και πες στον Claude «πρόσθεσε τα βιβλία που τσέκαρα». Ή απλώς πες του όποιο βιβλίο θέλεις.'],
+ story: ['The book', 'Το βιβλίο'], forYou: ['Why it matters for you', 'Γιατί σε αφορά'], stations: ['Your 4 sessions', 'Οι 4 συναντήσεις σου'], allIdeas: ['All the ideas', 'Όλες οι ιδέες'],
  idea: ['The idea', 'Η ιδέα'], example: ['Real example', 'Αληθινό παράδειγμα'], use: ['How you use it', 'Πώς το χρησιμοποιείς'], terms: ['Key terms', 'Βασικοί όροι'],
  missions: ['Missions for real life', 'Αποστολές στην πραγματική ζωή'], mantra: ['Say it out loud', 'Πες το δυνατά'], careful: ['Keep in mind', 'Κράτα στο μυαλό σου'], connects: ['Connects with', 'Συνδέεται με'],
- st0: ['New ideas', 'Νέες ιδέες'], st4: ['Real situations', 'Αληθινές καταστάσεις'], st5: ['Mission day', 'Μέρα αποστολής'], st6: ['Final test', 'Τελικό τεστ'],
- sd0: ['ideas, one quick question each', 'ιδέες, μία γρήγορη ερώτηση η καθεμία'], sd4: ['What would you do? + true or false + match', 'Τι θα έκανες; + σωστό ή λάθος + ταίριασμα'], sd5: ['Do one thing in real life and tick it', 'Κάνε ένα πράγμα στην πραγματική ζωή και τσέκαρέ το'], sd6: ['15 questions. 80% and the book is yours.', '15 ερωτήσεις. Με 80% το βιβλίο είναι δικό σου.'],
- mon: ['MON', 'ΔΕΥ'], tue: ['TUE', 'ΤΡΙ'], wed: ['WED', 'ΤΕΤ'], thu: ['THU', 'ΠΕΜ'], fri: ['FRI', 'ΠΑΡ'], sat: ['SAT', 'ΣΑΒ'], sun: ['SUN', 'ΚΥΡ'],
- r0: ['New ideas', 'Νέες ιδέες'], r4: ['Situations', 'Καταστάσεις'], r5: ['Mission', 'Αποστολή'], r6: ['Test', 'Τεστ'],
- planH: ['Your plan', 'Το πλάνο σου'], planP: ['26 books, 26 weeks. The days are a suggestion: do more when you have time, and nothing breaks if you miss a day.', '26 βιβλία, 26 εβδομάδες. Οι μέρες είναι πρόταση: κάνε περισσότερα όταν έχεις χρόνο, και τίποτα δεν χαλάει αν χάσεις μια μέρα.'],
+ s0: ['New ideas · part 1', 'Νέες ιδέες · μέρος 1'], s1: ['New ideas · part 2', 'Νέες ιδέες · μέρος 2'], s2: ['Practice + mission', 'Εξάσκηση + αποστολή'], s3: ['Final test', 'Τελικό τεστ'], st5: ['Mission', 'Αποστολή'],
+ w0: ['Day 1 · morning', 'Μέρα 1 · πρωί'], w1: ['Day 1 · night', 'Μέρα 1 · βράδυ'], w2: ['Day 2 · morning', 'Μέρα 2 · πρωί'], w3: ['Day 2 · night', 'Μέρα 2 · βράδυ'], d1: ['Day 1', 'Μέρα 1'], d2: ['Day 2', 'Μέρα 2'], am: ['morning', 'πρωί'], pm: ['night', 'βράδυ'],
+ sd0: ['ideas, one quick question each', 'ιδέες, μία γρήγορη ερώτηση η καθεμία'], sd2: ['6 real situations, a matching game, 8 true or false, then pick a mission for today', '6 αληθινές καταστάσεις, ένα παιχνίδι ταιριάσματος, 8 σωστό ή λάθος και μετά διαλέγεις αποστολή για σήμερα'], sd3: ['15 questions. 80% and the book is yours.', '15 ερωτήσεις. Με 80% το βιβλίο είναι δικό σου.'],
+ r0: ['New ideas', 'Νέες ιδέες'], r1: ['New ideas', 'Νέες ιδέες'], r2: ['Practice', 'Εξάσκηση'], r3: ['Final test', 'Τελικό τεστ'],
+ planH: ['Your plan', 'Το πλάνο σου'], planP: ['One book every two days, shelves mixed so every topic keeps coming back. The dates move with you: finish faster and everything moves forward, skip a day and nothing breaks.', 'Ένα βιβλίο κάθε δύο μέρες, με τα ράφια ανακατεμένα ώστε κάθε θέμα να επιστρέφει συχνά. Οι ημερομηνίες προσαρμόζονται σε σένα: τελειώνεις νωρίτερα και όλα έρχονται μπροστά, χάνεις μια μέρα και τίποτα δεν χαλάει.'],
  makeCur: ['Study this now', 'Μελέτησέ το τώρα'], current: ['Now', 'Τώρα'], done: ['Mastered', 'Κατακτήθηκε'],
  revH: ['Review', 'Επανάληψη'], revP: ['Every question comes back after 1, 3, 7, 21 and 60 days. Answer it right each time and it stays for good.', 'Κάθε ερώτηση επιστρέφει μετά από 1, 3, 7, 21 και 60 μέρες. Αν την απαντάς σωστά κάθε φορά, μένει για πάντα.'],
  due: ['due now', 'σε εκκρεμότητα'], startRev: ['Start review', 'Ξεκίνα επανάληψη'], practise: ['Practise', 'Εξάσκηση'], memory: ['How well each book sits in your memory', 'Πόσο καλά κάθεται κάθε βιβλίο στη μνήμη σου'], noRev: ['Finish your first lesson and your review cards will appear here.', 'Τελείωσε το πρώτο σου μάθημα και οι κάρτες επανάληψης θα εμφανιστούν εδώ.'],
@@ -42,47 +42,50 @@ const L = {
  right: ['Correct', 'Σωστά'], wrong: ['Not quite', 'Όχι ακριβώς'], nextB: ['Next', 'Επόμενο'], finish: ['Finish', 'Τέλος'], gotIt: ['Got it — test me', 'Το ’πιασα — ρώτα με'],
  showEx: ['Show me a real example', 'Δείξε μου ένα αληθινό παράδειγμα'], showUse: ['How do I use it?', 'Πώς το χρησιμοποιώ;'],
  pairsH: ['Match each term with its meaning', 'Ταίριαξε κάθε όρο με τη σημασία του'], pairsK: ['Match', 'Ταίριασμα'],
- misH: ['Pick one and do it for real', 'Διάλεξε μία και κάν’ την στ’ αλήθεια'], misP: ['Tick it only when it is done. You can come back tonight.', 'Τσέκαρέ την μόνο όταν γίνει. Μπορείς να γυρίσεις το βράδυ.'], later: ['I’ll do it and come back', 'Θα το κάνω και θα γυρίσω'],
+ misH: ['Pick one and do it for real', 'Διάλεξε μία και κάν’ την στ’ αλήθεια'], misP: ['Do it today. Tick it on the book page when it is done.', 'Κάν’ την σήμερα. Τσέκαρέ την στη σελίδα του βιβλίου όταν γίνει.'], later: ['I’ll do it today', 'Θα την κάνω σήμερα'],
  e_done: ['Station complete', 'Η στάση ολοκληρώθηκε'], e_rev: ['Review done', 'Η επανάληψη ολοκληρώθηκε'], e_pass: ['Book mastered', 'Το βιβλίο κατακτήθηκε'], e_fail: ['Almost there', 'Σχεδόν εκεί'],
  e_failP: ['You need 80%. Open the ideas below once more, then try again.', 'Χρειάζεσαι 80%. Άνοιξε ξανά τις παρακάτω ιδέες και δοκίμασε πάλι.'], e_passP: ['It goes on your shelf with a gold seal. Its questions will keep coming back so it stays.', 'Μπαίνει στο ράφι σου με χρυσή σφραγίδα. Οι ερωτήσεις του θα επιστρέφουν για να μείνει.'],
- correct: ['correct', 'σωστές'], back: ['Back', 'Πίσω'], again: ['Try again', 'Δοκίμασε ξανά'], tomorrow: ['See you at the next station.', 'Τα λέμε στην επόμενη στάση.'],
+ correct: ['correct', 'σωστές'], back: ['Back', 'Πίσω'], again: ['Try again', 'Δοκίμασε ξανά'], tomorrow: ['See you at the next session.', 'Τα λέμε στην επόμενη συνάντηση.'], nextBook: ['Next book', 'Επόμενο βιβλίο'], startNext: ['Start it now', 'Ξεκίνα το τώρα'], later2: ['Later', 'Αργότερα'], more: ['More on this shelf', 'Περισσότερα σε αυτό το ράφι'], approx: ['about', 'περίπου'], mastOn: ['Mastered on', 'Κατακτήθηκε στις'],
  lv: [['Curious reader', 'Περίεργος αναγνώστης'], ['Student', 'Μαθητής'], ['Apprentice', 'Μαθητευόμενος'], ['Practitioner', 'Εφαρμοστής'], ['Sharp mind', 'Κοφτερό μυαλό'], ['Strategist', 'Στρατηγός'], ['Master', 'Δάσκαλος'], ['Polymath', 'Πολυμαθής']],
  weeksLeft: ['Starts when you do', 'Ξεκινά όταν ξεκινήσεις'], readAll: ['Read all ideas', 'Διάβασε όλες τις ιδέες'], ahead: ['Finished. Start the next book early?', 'Τελείωσε. Ξεκινάς το επόμενο βιβλίο νωρίτερα;'], allDone: ['You mastered the whole library.', 'Κατέκτησες όλη τη βιβλιοθήκη.']
 };
 const LVX = [0, 300, 900, 2000, 3800, 6500, 10000, 15000];
 const WISH = [
- ['Never Split the Difference', 'Chris Voss', ['Negotiation, from an FBI negotiator', 'Διαπραγμάτευση, από διαπραγματευτή του FBI']],
- ['How to Win Friends and Influence People', 'Dale Carnegie', ['The classic on getting along with people', 'Το κλασικό για τις σχέσεις με τους ανθρώπους']],
- ['$100M Offers', 'Alex Hormozi', ['Offers so good people feel silly saying no', 'Προσφορές που δύσκολα αρνείται κανείς']],
- ['Talk Like TED', 'Carmine Gallo', ['Public speaking that people remember', 'Ομιλία μπροστά σε κοινό που μένει στη μνήμη']],
- ['Made to Stick', 'Chip & Dan Heath', ['Why some messages stick and others die', 'Γιατί κάποια μηνύματα μένουν και άλλα χάνονται']],
- ['Atomic Habits', 'James Clear', ['Small habits, big change', 'Μικρές συνήθειες, μεγάλη αλλαγή']],
- ['Thinking, Fast and Slow', 'Daniel Kahneman', ['How your mind fools you', 'Πώς σε ξεγελά το μυαλό σου']],
- ['The Psychology of Money', 'Morgan Housel', ['How people really behave with money', 'Πώς φέρονται πραγματικά οι άνθρωποι με τα χρήματα']],
- ['Building a StoryBrand', 'Donald Miller', ['A clear message for any business', 'Καθαρό μήνυμα για κάθε επιχείρηση']],
- ['The Hard Thing About Hard Things', 'Ben Horowitz', ['Leading when there are no easy answers', 'Ηγεσία όταν δεν υπάρχουν εύκολες απαντήσεις']],
- ['Crucial Conversations', 'Patterson, Grenny, McMillan, Switzler', ['Talking when the stakes are high', 'Συζητήσεις όταν διακυβεύονται πολλά']],
- ['The 48 Laws of Power', 'Robert Greene', ['How power works, for better and worse', 'Πώς λειτουργεί η εξουσία, για καλό και για κακό']]
+ ['Ego Is the Enemy', 'Ryan Holiday', ['Keep your ego from wrecking your success', 'Μην αφήνεις τον εγωισμό να χαλάσει την επιτυχία σου']],
+ ['The 7 Habits of Highly Effective People', 'Stephen R. Covey', ['The classic on character and effectiveness', 'Το κλασικό για τον χαρακτήρα και την αποτελεσματικότητα']],
+ ['Start with Why', 'Simon Sinek', ['Lead and sell with your purpose', 'Ηγεσία και πωλήσεις ξεκινώντας από το «γιατί»']],
+ ['The Mom Test', 'Rob Fitzpatrick', ['Ask customers questions that get honest answers', 'Ερωτήσεις που παίρνουν ειλικρινείς απαντήσεις από πελάτες']],
+ ['Exactly What to Say', 'Phil M. Jones', ['Magic words for sales calls', 'Οι σωστές λέξεις για τα τηλεφωνήματα πώλησης']],
+ ['Pitch Anything', 'Oren Klaff', ['Holding attention in a pitch', 'Πώς κρατάς την προσοχή όταν παρουσιάζεις']],
+ ['Contagious', 'Jonah Berger', ['Why things spread by word of mouth', 'Γιατί κάποια πράγματα διαδίδονται από στόμα σε στόμα']],
+ ['Rework', 'Jason Fried & David Heinemeier Hansson', ['A calmer, smaller, smarter company', 'Μια πιο ήρεμη, μικρή και έξυπνη εταιρεία']],
+ ['The Lean Startup', 'Eric Ries', ['Test fast, learn, then grow', 'Δοκίμασε γρήγορα, μάθε και μετά μεγάλωσε']],
+ ['Getting Things Done', 'David Allen', ['A clear head through a simple system', 'Καθαρό μυαλό με ένα απλό σύστημα']],
+ ['The Courage to Be Disliked', 'Ichiro Kishimi & Fumitake Koga', ['Freedom from other people\u2019s opinion', 'Ελευθερία από τη γνώμη των άλλων']],
+ ['Principles', 'Ray Dalio', ['Rules for life and work from a top investor', 'Κανόνες για ζωή και δουλειά από κορυφαίο επενδυτή']]
 ];
 let S, IDX = null, BY = {}, CACHE = {};
 const DEF = () => ({ v: 1, lang: 'en', xp: 0, days: {}, cur: null, start: null, b: {}, it: {}, wish: [] });
-function load() { try { S = Object.assign(DEF(), JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) { S = DEF(); } }
+function migrate() { Object.values(S.b).forEach(p => { if (p.st && p.st.length === 7) { const o = p.st; p.st = [o[0] && o[1] ? 1 : 0, o[2] && o[3] ? 1 : 0, o[4] ? 1 : 0, o[6] ? 1 : 0]; } }); }
+function load() { try { S = Object.assign(DEF(), JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) { S = DEF(); } migrate(); }
 function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) { } }
 const t = k => (L[k] || [k, k])[S.lang === 'el' ? 1 : 0];
 const T = o => o ? (o[S.lang] || o.en) : '';
 const day = (d = new Date()) => d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
 const addDays = (n, from) => { const d = from ? new Date(from + 'T12:00') : new Date(); d.setDate(d.getDate() + n); return day(d); };
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0;[a[i], a[j]] = [a[j], a[i]]; } return a; };
-const bs = id => S.b[id] || (S.b[id] = { l: [], st: [0, 0, 0, 0, 0, 0, 0], m: [], best: 0, mast: null });
-const peek = id => S.b[id] || { l: [], st: [0, 0, 0, 0, 0, 0, 0], m: [], best: 0, mast: null };
+const bs = id => S.b[id] || (S.b[id] = { l: [], st: [0, 0, 0, 0], m: [], best: 0, mast: null });
+const peek = id => S.b[id] || { l: [], st: [0, 0, 0, 0], m: [], best: 0, mast: null };
 async function book(id) { if (!CACHE[id]) CACHE[id] = await (await fetch('data/books/' + id + '.json')).json(); return CACHE[id]; }
 function streak() { let n = 0, d = new Date(); if (!S.days[day(d)]) d.setDate(d.getDate() - 1); while (S.days[day(d)]) { n++; d.setDate(d.getDate() - 1); } return n; }
 function level() { let i = 0; while (i < LVX.length - 1 && S.xp >= LVX[i + 1]) i++; return i; }
 function dueKeys() { const td = day(); return Object.keys(S.it).filter(k => S.it[k].d <= td); }
 function curId() { if (S.cur && BY[S.cur] && !peek(S.cur).mast) return S.cur; const f = IDX.books.find(b => !peek(b.id).mast); return f ? f.id : null; }
-function chunks(n) { const out = [], per = Math.ceil(n / 4); for (let i = 0; i < 4; i++) out.push([...Array(n).keys()].slice(i * per, (i + 1) * per)); return out; }
-function nextStation(id) { const st = peek(id).st; const i = st.findIndex(x => !x); return i < 0 ? 6 : i; }
-function progress(id) { const p = peek(id), m = BY[id]; return p.mast ? 1 : Math.min(.95, (p.l.length / m.n) * .7 + (p.st[4] ? .1 : 0) + (p.st[5] ? .1 : 0)); }
+function chunks(n) { const h = Math.ceil(n / 2), a = [...Array(n).keys()]; return [a.slice(0, h), a.slice(h)]; }
+function nextStation(id) { const st = peek(id).st; const i = st.findIndex(x => !x); return i < 0 ? 3 : i; }
+function progress(id) { const p = peek(id), m = BY[id]; return p.mast ? 1 : Math.min(.95, (p.l.length / m.n) * .75 + (p.st[2] ? .15 : 0)); }
+function mins(i, n) { return i < 2 ? Math.round(Math.ceil(n / 2) * 1.6) : i === 2 ? 12 : 8; }
+function nextAfter(id) { const ix = IDX.books.findIndex(b => b.id === id); return IDX.books.slice(ix + 1).concat(IDX.books.slice(0, ix)).find(b => !peek(b.id).mast && b.id !== id); }
 function retention(id) { const ks = Object.keys(S.it).filter(k => k.startsWith(id + ':')); if (!ks.length) return null; const td = day(); return ks.filter(k => S.it[k].d > td).length / ks.length; }
 function skillScores() {
  return SKILLS.map(s => { let a = 0, w = 0; IDX.books.forEach(b => { const x = b.skills[s]; if (!x) return; const p = peek(b.id); let v = (p.l.length / b.n) * .5 + (p.mast ? .5 : 0); const r = retention(b.id); if (r !== null) v *= .7 + .3 * r; a += v * x; w += x; }); return w ? a / w : 0; });
@@ -124,8 +127,9 @@ function confetti(n = 140) {
  const P = Array.from({ length: n }, () => ({ x: innerWidth / 2 + (Math.random() - .5) * 120, y: innerHeight * .45, vx: (Math.random() - .5) * 16, vy: -Math.random() * 15 - 4, s: 5 + Math.random() * 7, r: Math.random() * 6, c: col[Math.random() * col.length | 0] }));
  let f = 0; (function tick() { x.clearRect(0, 0, c.width, c.height); P.forEach(p => { p.vy += .4; p.x += p.vx; p.y += p.vy; p.r += .2; p.vx *= .99; x.save(); x.translate(p.x, p.y); x.rotate(p.r); x.fillStyle = p.c; x.fillRect(-p.s / 2, -p.s / 3, p.s, p.s * .6); x.restore(); }); if (++f < 150) requestAnimationFrame(tick); else x.clearRect(0, 0, c.width, c.height); })();
 }
-function stName(i) { return i < 4 ? t('st0') + ' ' + (i + 1) : t('st' + i); }
-const DAYK = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'];
+function stName(i) { return t('s' + i); }
+const SES = [0, 1, 2, 3];
+const sesIcon = i => i % 2 ? ICON.moon : ICON.sun;
 /* ---------- chrome ---------- */
 function chrome() {
  const r = (location.hash || '#/').split('/')[1] || '', due = dueKeys().length;
@@ -147,12 +151,12 @@ function vToday() {
   `<polygon class="poly" points="${pts.map(p => p.join(',')).join(' ')}"/></svg>`;
  let wk = '';
  if (id) {
-  const m = BY[id], p = peek(id), n = nextStation(id), wkN = IDX.books.findIndex(b => b.id === id) + 1, started = p.st.some(x => x);
+  const m = BY[id], p = peek(id), n = nextStation(id), wkN = IDX.books.findIndex(b => b.id === id) + 1, started = p.st.some(x => x) || p.l.length > 0;
   wk = `<section class="card week" data-shelf="${m.shelf}"><div class="wtop">${cover(m)}</div><div>
    <span class="eyebrow">${t('weekBook')} · ${t('week')} ${wkN} ${t('of')} ${IDX.books.length}</span>
    <h2 class="h2">${esc(T(m.title))}</h2><p class="mut">${esc(T(m.oneLine))}</p>
-   <div class="days">${DAYK.map((d, i) => `<button class="day ${p.st[i] ? 'dn' : i === n ? 'nx' : ''}" data-st="${i}"><b>${t(d)}</b>${i < 4 ? t('r0') : t('r' + i)}</button>`).join('')}</div>
-   <div class="row"><button class="btn c1 shine" data-st="${n}">${ICON.sun}${started ? t('cont') : t('start')}: ${stName(n)} · ~10 ${t('min')}</button><a class="btn gh" href="#/book/${id}">${t('open')}</a></div></div></section>`;
+   <div class="days">${SES.map(i => `<button class="day ${p.st[i] ? 'dn' : i === n ? 'nx' : ''}" data-st="${i}">${sesIcon(i)}<b>${t(i < 2 ? 'd1' : 'd2')} · ${t(i % 2 ? 'pm' : 'am')}</b>${t('r' + i)}</button>`).join('')}</div>
+   <div class="row"><button class="btn c1 shine" data-st="${n}">${sesIcon(n)}${started ? t('cont') : t('start')}: ${stName(n)} · ~${mins(n, m.n)} ${t('min')}</button><a class="btn gh" href="#/book/${id}">${t('open')}</a></div></div></section>`;
  } else wk = `<section class="card c"><h2 class="h2">${t('allDone')}</h2></section>`;
  return `<section class="hero"><div class="hello"><span class="eyebrow">${t(h < 12 ? 'morning' : h < 18 ? 'noon' : 'evening')}</span>
   <h1 class="h1">${t('heroA')}<br><em>${t('heroB')}</em></h1><p class="mut" style="max-width:46ch">${t('heroP')}</p>
@@ -165,31 +169,34 @@ function vToday() {
 function vLibrary() {
  const mast = IDX.books.filter(b => peek(b.id).mast).length;
  return `<span class="eyebrow">${IDX.books.length} ${t('booksN')} · ${IDX.books.reduce((a, b) => a + b.n, 0)} ${t('ideasN')} · ${mast} ${t('done').toLowerCase()}</span><h1 class="h1" style="margin:8px 0 12px">${t('libH')}</h1><p class="mut" style="max-width:62ch">${t('libP')}</p>` +
-  SHELVES.map(s => `<section class="shelf" data-shelf="${s}"><div class="shelf-h"><h2 class="h2">${t('s_' + s)}</h2><span class="mut sm">${t('d_' + s)}</span></div><div class="plank">${IDX.books.filter(b => b.shelf === s).map((b, i) => `<div class="bk" style="--i:${i}">${cover(b)}</div>`).join('')}</div></section>`).join('') +
+  SHELVES.map(s => `<section class="shelf" data-shelf="${s}"><div class="shelf-h"><h2 class="h2">${t('s_' + s)}</h2><span class="chip">${IDX.books.filter(b => b.shelf === s).length} ${t('booksN')} · ${IDX.books.filter(b => b.shelf === s && peek(b.id).mast).length} ✓</span><span class="mut sm">${t('d_' + s)}</span></div><div class="plank">${IDX.books.filter(b => b.shelf === s).map((b, i) => `<div class="bk" style="--i:${i}">${cover(b)}</div>`).join('')}</div></section>`).join('') +
   `<section class="sec"><h2 class="h2">${t('next')}</h2><p class="mut" style="max-width:62ch">${t('nextP')}</p><div class="wish">${WISH.map((w, i) => `<button data-w="${i}" class="${S.wish.includes(w[0]) ? 'on' : ''}"><i>✓</i><span><b>${esc(w[0])}</b><span>${esc(w[1])} · ${esc(w[2][S.lang === 'el' ? 1 : 0])}</span></span></button>`).join('')}</div></section>`;
 }
 async function vBook(id) {
  const m = BY[id]; if (!m) return vLibrary();
  const b = await book(id), p = peek(id), n = nextStation(id), ch = chunks(b.ideas.length);
- const sd = i => i < 4 ? ch[i].length + ' ' + t('sd0') : t('sd' + i);
+ const sd = i => (i < 2 ? ch[i].length + ' ' + t('sd0') : t('sd' + i)) + ' · ~' + mins(i, b.ideas.length) + ' ' + t('min');
+ const same = IDX.books.filter(x => x.shelf === b.shelf && x.id !== id);
  return `<div data-shelf="${b.shelf}"><section class="bh">${cover(m, { link: false })}<div><span class="eyebrow">${t('s_' + b.shelf)} · ${esc(S.lang === 'el' ? b.authorEl : b.author)} · ${b.year < 0 ? Math.abs(b.year) + (S.lang === 'el' ? ' π.Χ.' : ' BC') : b.year}</span>
   <h1 class="h1">${esc(T(b.title))}</h1><div class="row" style="margin-top:8px">${Object.keys(b.skills).map(s => `<span class="chip">${t(s)}</span>`).join('')}<span class="chip">${b.ideas.length} ${t('ideasN')}</span>${p.mast ? `<span class="chip" style="--c:var(--gold)">${t('done')}</span>` : ''}</div>
-  <p class="one">${esc(T(b.oneLine))}</p><div class="row" style="margin-top:22px"><button class="btn c1 shine" data-st="${n}">${p.st.some(x => x) ? t('cont') : t('start')}: ${stName(n)}</button>${S.cur !== id && !p.mast && curId() !== id ? `<button class="btn gh" id="mk">${t('makeCur')}</button>` : ''}</div></div></section>
+  <p class="one">${esc(T(b.oneLine))}</p><div class="row" style="margin-top:22px"><button class="btn c1 shine" data-st="${n}">${p.st.some(x => x) || p.l.length ? t('cont') : t('start')}: ${stName(n)}</button>${S.cur !== id && !p.mast && curId() !== id ? `<button class="btn gh" id="mk">${t('makeCur')}</button>` : ''}</div></div></section>
   <section class="sec grid2"><div class="card"><h3>${t('story')}</h3><p>${esc(T(b.story))}</p></div><div class="card"><h3>${t('forYou')}</h3><p>${esc(T(b.forYou))}</p></div></section>
-  <section class="sec"><h2 class="h2">${t('stations')}</h2><div class="card" style="margin-top:12px;padding:8px 18px">${[0, 1, 2, 3, 4, 5, 6].map(i => `<button class="stn ${p.st[i] ? 'dn' : i === n ? 'nx' : ''}" data-st="${i}"><span class="n">${p.st[i] ? '✓' : i + 1}</span><span><b>${t(DAYK[i])} · ${stName(i)}</b><span>${sd(i)}</span></span><span class="go">${p.st[i] ? t('again') : t('start')} →</span></button>`).join('')}</div></section>
+  <section class="sec"><h2 class="h2">${t('stations')}</h2><div class="card" style="margin-top:12px;padding:8px 18px">${SES.map(i => `<button class="stn ${p.st[i] ? 'dn' : i === n ? 'nx' : ''}" data-st="${i}"><span class="n">${p.st[i] ? '✓' : i + 1}</span><span><b>${t('w' + i)} · ${stName(i)}</b><span>${sd(i)}</span></span><span class="go">${p.st[i] ? t('again') : t('start')} →</span></button>`).join('')}</div></section>
   <section class="sec"><h2 class="h2">${t('allIdeas')}</h2><div class="card" style="margin-top:12px;padding:6px 18px">${b.ideas.map((d, i) => `<details class="idea"><summary><span class="n">${i + 1}</span><span>${esc(T(d.title))}</span>${p.l.includes(i) ? '<span class="ck">✓</span>' : ''}</summary><div class="bd"><p>${esc(T(d.explain))}</p><div class="blk"><span class="lab">${t('example')}</span>${esc(T(d.example))}</div><div class="blk use"><span class="lab">${t('use')}</span>${esc(T(d.apply))}</div></div></details>`).join('')}</div></section>
   <section class="sec"><h2 class="h2">${t('terms')}</h2><div class="terms" style="margin-top:12px">${b.pairs.map(x => `<div><b>${esc(T(x.a))}</b>${esc(T(x.b))}</div>`).join('')}</div></section>
   <section class="sec"><h2 class="h2">${t('missions')}</h2><div class="card" style="margin-top:12px;padding:8px 18px">${b.missions.map((x, i) => `<button class="ms ${p.m.includes(i) ? 'on' : ''}" data-m="${i}"><i>✓</i><span>${esc(T(x))}</span></button>`).join('')}</div></section>
   <section class="sec"><div class="mantra"><small>${t('mantra')}</small>${esc(T(b.mantra))}</div></section>
-  <section class="sec grid2"><div class="card warn"><h3>${t('careful')}</h3><p>${esc(T(b.careful))}</p></div><div class="card"><h3>${t('connects')}</h3>${b.connects.filter(c => BY[c.book]).map(c => `<a class="cn" href="#/book/${c.book}">${cover(BY[c.book], { link: false, bare: true })}<span><b>${esc(T(BY[c.book].title))}</b><span>${esc(T(c.note))}</span></span></a>`).join('')}</div></section></div>`;
+  <section class="sec grid2"><div class="card warn"><h3>${t('careful')}</h3><p>${esc(T(b.careful))}</p></div><div class="card"><h3>${t('connects')}</h3>${b.connects.filter(c => BY[c.book]).map(c => `<a class="cn" href="#/book/${c.book}">${cover(BY[c.book], { link: false, bare: true })}<span><b>${esc(T(BY[c.book].title))}</b><span>${esc(T(c.note))}</span></span></a>`).join('')}</div></section>
+  ${same.length ? `<section class="sec"><h2 class="h2">${t('more')}</h2><div class="plank">${same.map((x, i) => `<div class="bk" style="--i:${i}">${cover(x)}</div>`).join('')}</div></section>` : ''}</div>`;
 }
 function vPlan() {
- const cur = curId(), startD = S.start ? new Date(S.start + 'T12:00') : null;
- const fmt = d => d.toLocaleDateString(S.lang === 'el' ? 'el-GR' : 'en-GB', { day: 'numeric', month: 'short' });
- return `<span class="eyebrow">${t('plan')}</span><h1 class="h1" style="margin:8px 0 12px">${t('planH')}</h1><p class="mut" style="max-width:62ch">${t('planP')}</p>
-  <div class="rhythm">${DAYK.map((d, i) => `<div><b>${t(d)}</b>${i < 4 ? t('r0') : t('r' + i)}</div>`).join('')}</div>
-  <section class="sec card" style="padding:8px 14px">${IDX.books.map((b, i) => { const p = peek(b.id); let when = t('weeksLeft'); if (startD) { const a = new Date(startD); a.setDate(a.getDate() + i * 7); const z = new Date(a); z.setDate(z.getDate() + 6); when = fmt(a) + ' – ' + fmt(z); }
-   return `<div class="wk ${b.id === cur ? 'cur' : ''}" data-shelf="${b.shelf}" style="--i:${Math.min(i, 12)}"><div class="w"><small>${t('week')}</small>${i + 1}</div>${cover(b, { bare: true })}<div><b>${esc(T(b.title))}</b><span>${t('s_' + b.shelf)} · ${p.mast ? t('done') : when}</span></div>${p.mast ? `<span class="chip" style="--c:var(--gold)">✓ ${t('done')}</span>` : b.id === cur ? `<span class="chip">${t('current')}</span>` : `<button class="btn gh sm" data-cur="${b.id}">${t('makeCur')}</button>`}</div>`; }).join('')}</section>`;
+ const cur = curId(), fmt = d => new Date(d + 'T12:00').toLocaleDateString(S.lang === 'el' ? 'el-GR' : 'en-GB', { day: 'numeric', month: 'short' });
+ const todo = IDX.books.filter(b => !peek(b.id).mast && b.id !== cur); if (cur) todo.unshift(BY[cur]);
+ const when = {}; todo.forEach((b, k) => { when[b.id] = fmt(addDays(2 * k)) + ' – ' + fmt(addDays(2 * k + 1)); });
+ return `<span class="eyebrow">${IDX.books.length} ${t('booksN')} · ${t('approx')} ${IDX.books.length * 2} ${S.lang === 'el' ? 'μέρες' : 'days'}</span><h1 class="h1" style="margin:8px 0 12px">${t('planH')}</h1><p class="mut" style="max-width:62ch">${t('planP')}</p>
+  <div class="rhythm">${SES.map(i => `<div>${sesIcon(i)}<b>${t('w' + i)}</b>${stName(i)}</div>`).join('')}</div>
+  <section class="sec card" style="padding:8px 14px">${IDX.books.map((b, i) => { const p = peek(b.id);
+   return `<div class="wk ${b.id === cur ? 'cur' : ''}" data-shelf="${b.shelf}" style="--i:${Math.min(i, 12)}"><div class="w"><small>${t('week')}</small>${i + 1}</div>${cover(b, { bare: true })}<div><b>${esc(T(b.title))}</b><span>${t('s_' + b.shelf)} · ${b.n} ${t('ideasN')} · ${p.mast ? t('mastOn') + ' ' + fmt(p.mast) : when[b.id]}</span></div>${p.mast ? `<span class="chip" style="--c:var(--gold)">✓ ${t('done')}</span>` : b.id === cur ? `<span class="chip">${t('current')}</span>` : `<button class="btn gh sm" data-cur="${b.id}">${t('makeCur')}</button>`}</div>`; }).join('')}</section>`;
 }
 function vReview() {
  const due = dueKeys().length, has = Object.keys(S.it).length;
@@ -224,18 +231,17 @@ async function render() {
  on('#rst', function () { if (this.dataset.ok) { S = Object.assign(DEF(), { lang: S.lang }); save(); render(); } else { this.dataset.ok = 1; this.textContent = t('resetQ'); } });
  if (r !== 'book' || !render.same) scrollTo(0, 0); render.same = false;
 }
-function toggleMission(id, i) { const p = bs(id), k = p.m.indexOf(i); if (k < 0) { p.m.push(i); S.xp += 40; touch(); if (!p.st[5]) { p.st[5] = 1; S.xp += 50; } } else p.m.splice(k, 1); save(); chrome(); }
+function toggleMission(id, i) { const p = bs(id), k = p.m.indexOf(i); if (k < 0) { p.m.push(i); S.xp += 40; touch(); } else p.m.splice(k, 1); save(); chrome(); }
 function touch() { const d = day(); S.days[d] = 1; if (!S.start) { const x = new Date(); x.setDate(x.getDate() - ((x.getDay() + 6) % 7)); S.start = day(x); } }
 function grade(key, ok) { const it = S.it[key] || { x: 0 }; if (ok) { it.x = Math.min(it.x + 1, INT.length); it.d = addDays(INT[it.x - 1]); } else { it.x = 0; it.d = day(); } S.it[key] = it; }
 function getQ(b, k) { const i = +k.slice(1); if (k[0] === 'c') return b.ideas[i] && Object.assign({ kind: 'c', idea: i }, b.ideas[i].check); if (k[0] === 's') return b.scenarios[i] && Object.assign({ kind: 's' }, b.scenarios[i]); return b.truefalse[i] && Object.assign({ kind: 't' }, b.truefalse[i]); }
 /* ---------- sessions ---------- */
 async function station(id, i) {
  if (!id) return; const b = await book(id), steps = [];
- if (i < 4) chunks(b.ideas.length)[i].forEach(n => { steps.push({ type: 'idea', b, i: n }); steps.push({ type: 'q', b, k: 'c' + n }); });
- else if (i === 4) { shuffle(b.scenarios.map((_, n) => 's' + n)).forEach(k => steps.push({ type: 'q', b, k })); steps.push({ type: 'pairs', b }); shuffle(b.truefalse.map((_, n) => 't' + n)).forEach(k => steps.push({ type: 'q', b, k })); }
- else if (i === 5) steps.push({ type: 'missions', b });
+ if (i < 2) chunks(b.ideas.length)[i].forEach(n => { steps.push({ type: 'idea', b, i: n }); steps.push({ type: 'q', b, k: 'c' + n }); });
+ else if (i === 2) { shuffle(b.scenarios.map((_, n) => 's' + n)).forEach(k => steps.push({ type: 'q', b, k })); steps.push({ type: 'pairs', b }); shuffle(b.truefalse.map((_, n) => 't' + n)).forEach(k => steps.push({ type: 'q', b, k })); steps.push({ type: 'missions', b }); }
  else { const c = shuffle(b.ideas.map((_, n) => 'c' + n)).slice(0, 9), s = shuffle(b.scenarios.map((_, n) => 's' + n)).slice(0, 3), f = shuffle(b.truefalse.map((_, n) => 't' + n)).slice(0, 3); shuffle(c.concat(s, f)).forEach(k => steps.push({ type: 'q', b, k })); }
- run({ shelf: b.shelf, steps, retry: i < 5, test: i === 6, book: b, st: i });
+ run({ shelf: b.shelf, steps, retry: i < 3, test: i === 3, book: b, st: i });
 }
 async function review(n) {
  let keys = shuffle(dueKeys()).slice(0, n);
@@ -292,7 +298,7 @@ function run(o) {
   } else if (s.type === 'missions') {
    const p = bs(s.b.id);
    const el = put(`<span class="chip q-k">${t('st5')}</span><h2 class="q-t">${t('misH')}</h2><p class="mut" style="margin:-10px 0 14px">${t('misP')}</p><div class="card" style="padding:6px 16px">${s.b.missions.map((x, i) => `<button class="ms ${p.m.includes(i) ? 'on' : ''}" data-m="${i}"><i>✓</i><span>${esc(T(x))}</span></button>`).join('')}</div><div class="mantra" style="margin-top:18px"><small>${t('mantra')}</small>${esc(T(s.b.mantra))}</div>`);
-   const upd = () => p.m.length ? nextBtn(t('finish'), go) : nextBtn(t('later'), close, 'gh');
+   const upd = () => p.m.length ? nextBtn(t('finish'), go) : nextBtn(t('later'), go);
    $$('.ms', el).forEach(x => x.onclick = () => { toggleMission(s.b.id, +x.dataset.m); x.classList.toggle('on'); bar(); upd(); }); upd();
   }
  }
@@ -300,7 +306,7 @@ function run(o) {
   document.onkeydown = null; const pct = total ? Math.round(ok / total * 100) : 100; let title = o.rev ? t('e_rev') : t('e_done'), sub = t('tomorrow'), extra = '', pass = true;
   if (o.book && !o.rev) {
    const p = bs(o.book.id);
-   if (o.test) { pass = pct >= 80; p.best = Math.max(p.best, pct); if (pass) { if (!p.mast) { p.mast = day(); S.xp += 300; } p.st[6] = 1; title = t('e_pass'); sub = t('e_passP'); if (S.cur === o.book.id) S.cur = null; } else { title = t('e_fail'); sub = t('e_failP'); const ids = [...new Set(missed.map(m => getQ(m.b, m.k)).map(q => q.idea).filter(x => x !== undefined))]; extra = `<div class="card" style="text-align:left;margin-top:18px;padding:8px 18px">${ids.map(i => `<details class="idea"><summary><span class="n">${i + 1}</span><span>${esc(T(o.book.ideas[i].title))}</span></summary><div class="bd"><p>${esc(T(o.book.ideas[i].explain))}</p></div></details>`).join('')}</div>`; } }
+   if (o.test) { pass = pct >= 80; p.best = Math.max(p.best, pct); if (pass) { if (!p.mast) { p.mast = day(); S.xp += 300; } p.st[3] = 1; title = t('e_pass'); sub = t('e_passP'); if (S.cur === o.book.id) S.cur = null; } else { title = t('e_fail'); sub = t('e_failP'); const ids = [...new Set(missed.map(m => getQ(m.b, m.k)).map(q => q.idea).filter(x => x !== undefined))]; extra = `<div class="card" style="text-align:left;margin-top:18px;padding:8px 18px">${ids.map(i => `<details class="idea"><summary><span class="n">${i + 1}</span><span>${esc(T(o.book.ideas[i].title))}</span></summary><div class="bd"><p>${esc(T(o.book.ideas[i].explain))}</p></div></details>`).join('')}</div>`; } }
    else if (!p.st[o.st]) { p.st[o.st] = 1; S.xp += 50; }
   }
   touch(); save(); bar(); $('.st-bar i', stage).style.width = '100%';
@@ -310,7 +316,9 @@ function run(o) {
    <div class="pills"><div class="pill">${ok} / ${total}<small>${t('correct')}</small></div><div class="pill" style="animation-delay:.1s">+${S.xp - xp0} XP<small>${t('level')} ${level() + 1}</small></div><div class="pill" style="animation-delay:.2s">${streak()}<small>${t('streak')}</small></div></div>${extra}</div>`);
   requestAnimationFrame(() => requestAnimationFrame(() => { const f = $('.ring .fg', stage); if (f) f.style.strokeDashoffset = C * (1 - pct / 100); }));
   if (pass && (o.test || pct >= 80)) confetti(o.test ? 220 : 90);
-  if (o.test && !pass) { setFoot(`<div><button class="btn gh" id="bk">${t('back')}</button><button class="btn c1" id="go">${t('again')}</button></div>`); $('#bk', foot).onclick = close; $('#go', foot).onclick = () => { close(); station(o.book.id, 6); }; }
+  const nb = o.test && pass ? nextAfter(o.book.id) : null;
+  if (nb) { $('.end', stage).insertAdjacentHTML('beforeend', `<div class="card nextbk" data-shelf="${nb.shelf}">${cover(nb, { link: false })}<div><span class="eyebrow">${t('nextBook')}</span><b>${esc(T(nb.title))}</b><span class="mut sm">${esc(T(nb.oneLine))}</span></div></div>`); setFoot(`<div><button class="btn gh" id="bk">${t('later2')}</button><button class="btn c1" id="go">${t('startNext')}</button></div>`); $('#bk', foot).onclick = close; $('#go', foot).onclick = () => { S.cur = nb.id; save(); close(); station(nb.id, 0); }; }
+  else if (o.test && !pass) { setFoot(`<div><button class="btn gh" id="bk">${t('back')}</button><button class="btn c1" id="go">${t('again')}</button></div>`); $('#bk', foot).onclick = close; $('#go', foot).onclick = () => { close(); station(o.book.id, 3); }; }
   else nextBtn(t('back'), close);
  }
  bar(); steps.length ? show() : close();

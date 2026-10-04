@@ -1,0 +1,626 @@
+{
+  "id": "homo-deus",
+  "title": {"en": "Homo Deus: A Brief History of Tomorrow", "el": "Homo Deus: Μια σύντομη ιστορία του μέλλοντος"},
+  "author": "Yuval Noah Harari",
+  "authorEl": "Γιουβάλ Νώε Χαράρι",
+  "year": 2016,
+  "shelf": "wisdom",
+  "skills": {"wisdom": 3, "strategy": 2, "mindset": 1},
+  "oneLine": {
+    "en": "Having tamed famine, plague and war, humans now chase immortality, happiness and godlike powers, and in doing so may hand authority from human feelings to data and algorithms.",
+    "el": "Αφού δάμασε την πείνα, τις επιδημίες και τον πόλεμο, ο άνθρωπος κυνηγά πια την αθανασία, την ευτυχία και θεϊκές δυνάμεις, και ίσως έτσι παραδώσει την εξουσία από τα συναισθήματά του στα δεδομένα και στους αλγορίθμους."
+  },
+  "story": {
+    "en": "Yuval Noah Harari, a history professor at the Hebrew University of Jerusalem, became world famous with Sapiens, a history of our past. In Homo Deus he turns to the future. He asks what humans will want once the old disasters are under control, and what happens when computers understand us better than we understand ourselves. It became a global bestseller and is still read as a guide to the age of AI.",
+    "el": "Ο Γιουβάλ Νώε Χαράρι, καθηγητής ιστορίας στο Εβραϊκό Πανεπιστήμιο της Ιερουσαλήμ, έγινε παγκοσμίως γνωστός με το Sapiens, μια ιστορία του παρελθόντος μας. Στο Homo Deus στρέφεται στο μέλλον. Ρωτά τι θα θέλουν οι άνθρωποι όταν οι παλιές καταστροφές είναι υπό έλεγχο, και τι γίνεται όταν οι υπολογιστές μάς καταλαβαίνουν καλύτερα απ' όσο καταλαβαίνουμε εμείς τον εαυτό μας. Έγινε παγκόσμιο best seller και διαβάζεται ακόμη ως οδηγός για την εποχή της τεχνητής νοημοσύνης."
+  },
+  "forYou": {
+    "en": "You build your business with AI every day, and your clients are doctors and psychologists whose work is about health, the mind and feelings. This book explains the big forces behind that: why people pay for health and happiness, why algorithms are taking over decisions, and which human skills will still matter. It helps you decide where to put your own time as AI does more of the work.",
+    "el": "Χτίζεις την επιχείρησή σου με AI κάθε μέρα, και οι πελάτες σου είναι γιατροί και ψυχολόγοι που η δουλειά τους αφορά την υγεία, τον νου και τα συναισθήματα. Το βιβλίο εξηγεί τις μεγάλες δυνάμεις πίσω από αυτά: γιατί ο κόσμος πληρώνει για υγεία και ευτυχία, γιατί οι αλγόριθμοι παίρνουν τις αποφάσεις, και ποιες ανθρώπινες ικανότητες θα μετρούν ακόμη. Σε βοηθά να αποφασίσεις πού θα βάζεις τον δικό σου χρόνο όσο το AI κάνει όλο και περισσότερη δουλειά."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Famine, plague and war, tamed", "el": "Πείνα, επιδημίες, πόλεμος: δαμασμένα"},
+      "explain": {
+        "en": "For thousands of years the three great enemies of humanity were famine, plague and war. People saw them as acts of God. Harari argues that in the early 21st century they have become manageable problems. They still happen, but now more people die from eating too much than too little, from old age than from infections, and by suicide than in war.",
+        "el": "Για χιλιάδες χρόνια, οι τρεις μεγάλοι εχθροί της ανθρωπότητας ήταν η πείνα, οι επιδημίες και ο πόλεμος. Ο κόσμος τους έβλεπε ως θέλημα Θεού. Ο Χαράρι υποστηρίζει ότι στις αρχές του 21ου αιώνα έγιναν προβλήματα που μπορούμε να διαχειριστούμε. Συμβαίνουν ακόμη, αλλά πλέον περισσότεροι άνθρωποι πεθαίνουν επειδή τρώνε πολύ παρά επειδή τρώνε λίγο, από γηρατειά παρά από λοιμώξεις, και από αυτοκτονία παρά στον πόλεμο."
+      },
+      "example": {
+        "en": "Harari gives figures for 2012. Of about 56 million deaths worldwide, around 620,000 came from human violence of all kinds, about 800,000 were suicides, and about 1.5 million came from diabetes. Hence his famous line that sugar is now more dangerous than gunpowder.",
+        "el": "Ο Χαράρι δίνει στοιχεία για το 2012. Από περίπου 56 εκατομμύρια θανάτους σε όλο τον κόσμο, γύρω στις 620.000 οφείλονταν σε κάθε είδους ανθρώπινη βία, περίπου 800.000 ήταν αυτοκτονίες και περίπου 1,5 εκατομμύριο οφείλονταν στον διαβήτη. Από εκεί και η γνωστή του φράση ότι η ζάχαρη είναι πια πιο επικίνδυνη από το μπαρούτι."
+      },
+      "apply": {
+        "en": "Your agency's old enemies were no clients and no money. With 200+ sites, the new dangers are overload, slow replies and missed renewals. Write the three things most likely to hurt you this year, not the ones that scared you when you started, and plan for those.",
+        "el": "Οι παλιοί εχθροί της επιχείρησής σου ήταν η έλλειψη πελατών και χρημάτων. Με πάνω από 200 σελίδες, οι νέοι κίνδυνοι είναι ο φόρτος, οι αργές απαντήσεις και οι χαμένες ανανεώσεις. Γράψε τα τρία πράγματα που είναι πιο πιθανό να σε βλάψουν φέτος, όχι αυτά που σε φόβιζαν στην αρχή, και σχεδίασε γι' αυτά."
+      },
+      "check": {
+        "q": {"en": "What does Harari mean by saying famine, plague and war are tamed?", "el": "Τι εννοεί ο Χαράρι όταν λέει ότι η πείνα, οι επιδημίες και ο πόλεμος δαμάστηκαν;"},
+        "options": [
+          {"en": "They have disappeared completely from the world", "el": "Εξαφανίστηκαν εντελώς από τον κόσμο"},
+          {"en": "They are still acts of God beyond our control", "el": "Είναι ακόμη θέλημα Θεού, έξω από τον έλεγχό μας"},
+          {"en": "They still happen but are now manageable problems", "el": "Συμβαίνουν ακόμη, αλλά είναι πια προβλήματα που διαχειριζόμαστε"}
+        ],
+        "answer": 2,
+        "why": {"en": "He does not say they are gone; he says they are no longer unstoppable forces.", "el": "Δεν λέει ότι χάθηκαν· λέει ότι δεν είναι πια ασταμάτητες δυνάμεις."}
+      }
+    },
+    {
+      "title": {"en": "New goal one: beat death", "el": "Νέος στόχος πρώτος: να νικήσουμε τον θάνατο"},
+      "explain": {
+        "en": "Success breeds ambition. With old disasters under control, Harari expects humans to aim at three new goals. The first is immortality, or at least much longer life. For modern people death is no longer a mystery from heaven, but a technical problem: every death has a technical cause, and technical problems invite technical solutions. The rich will try it first.",
+        "el": "Η επιτυχία γεννά φιλοδοξία. Με τις παλιές καταστροφές υπό έλεγχο, ο Χαράρι περιμένει ότι οι άνθρωποι θα στοχεύσουν σε τρεις νέους στόχους. Ο πρώτος είναι η αθανασία, ή τουλάχιστον μια πολύ μεγαλύτερη ζωή. Για τον σύγχρονο άνθρωπο ο θάνατος δεν είναι πια μυστήριο από τον ουρανό, αλλά τεχνικό πρόβλημα: κάθε θάνατος έχει τεχνική αιτία, και τα τεχνικά προβλήματα ζητούν τεχνικές λύσεις. Οι πλούσιοι θα το δοκιμάσουν πρώτοι."
+      },
+      "example": {
+        "en": "In 2013 Google launched Calico, a company whose mission is to fight ageing. Harari quotes Bill Maris, then head of Google Ventures, who said that if asked whether it is possible to live to 500, his answer was yes.",
+        "el": "Το 2013 η Google ίδρυσε την Calico, μια εταιρεία με αποστολή να πολεμήσει τη γήρανση. Ο Χαράρι παραθέτει τον Μπιλ Μάρις, τότε επικεφαλής της Google Ventures, που είπε ότι αν τον ρωτούσαν αν μπορεί κανείς να ζήσει 500 χρόνια, η απάντησή του θα ήταν ναι."
+      },
+      "apply": {
+        "en": "Health and longer life are among the strongest desires people pay for, and your dentists, dermatologists and physiotherapists sell exactly that. On their sites, describe the patient's result clearly and honestly, in calm professional words, before listing equipment or degrees.",
+        "el": "Η υγεία και η μακροζωία είναι από τις πιο δυνατές επιθυμίες για τις οποίες πληρώνει ο κόσμος, και οι οδοντίατροι, οι δερματολόγοι και οι φυσικοθεραπευτές σου πουλούν ακριβώς αυτό. Στις σελίδες τους, περίγραψε καθαρά και τίμια το αποτέλεσμα για τον ασθενή, με ήρεμο επαγγελματικό λόγο, πριν απαριθμήσεις μηχανήματα και πτυχία."
+      },
+      "check": {
+        "q": {"en": "How do modern people see death, according to Harari?", "el": "Πώς βλέπει τον θάνατο ο σύγχρονος άνθρωπος, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "As a technical problem that could be solved", "el": "Ως τεχνικό πρόβλημα που μπορεί να λυθεί"},
+          {"en": "As a sacred mystery no one should touch", "el": "Ως ιερό μυστήριο που κανείς δεν πρέπει να αγγίξει"},
+          {"en": "As a topic only philosophers care about", "el": "Ως θέμα που ενδιαφέρει μόνο τους φιλοσόφους"}
+        ],
+        "answer": 0,
+        "why": {"en": "Every death now has a technical cause, so people start to look for a technical fix.", "el": "Κάθε θάνατος έχει πια τεχνική αιτία, γι' αυτό οι άνθρωποι αρχίζουν να ψάχνουν τεχνική λύση."}
+      }
+    },
+    {
+      "title": {"en": "New goal two: happiness", "el": "Νέος στόχος δεύτερος: η ευτυχία"},
+      "explain": {
+        "en": "The second goal is lasting happiness. Since Epicurus, thinkers have said happiness is the point of life, and modern states now measure well-being. But biology gets in the way: our pleasant feelings fade fast, because evolution made us always want more. Harari predicts the push for happiness will move from politics and economics to biochemistry: drugs, and direct work on the brain.",
+        "el": "Ο δεύτερος στόχος είναι η διαρκής ευτυχία. Από τον Επίκουρο και μετά, στοχαστές λένε ότι η ευτυχία είναι ο σκοπός της ζωής, και τα σύγχρονα κράτη μετρούν πια την ευημερία. Η βιολογία όμως μπαίνει εμπόδιο: τα ευχάριστα συναισθήματα σβήνουν γρήγορα, γιατί η εξέλιξη μάς έφτιαξε να θέλουμε πάντα περισσότερα. Ο Χαράρι προβλέπει ότι το κυνήγι της ευτυχίας θα περάσει από την πολιτική και την οικονομία στη βιοχημεία: στα φάρμακα και στην απευθείας παρέμβαση στον εγκέφαλο."
+      },
+      "example": {
+        "en": "In 1954 researchers James Olds and Peter Milner placed electrodes in rats' brains, in areas linked to pleasure. Rats that could stimulate these areas by pressing a lever pressed it again and again, sometimes ignoring food. Pleasure, it seemed, could be switched on directly.",
+        "el": "Το 1954 οι ερευνητές Τζέιμς Όλντς και Πίτερ Μίλνερ έβαλαν ηλεκτρόδια στον εγκέφαλο αρουραίων, σε περιοχές που συνδέονται με την ευχαρίστηση. Οι αρουραίοι που μπορούσαν να τις διεγείρουν πατώντας έναν μοχλό τον πατούσαν ξανά και ξανά, αγνοώντας μερικές φορές ακόμη και το φαγητό. Η ευχαρίστηση, όπως φάνηκε, μπορούσε να ανάψει απευθείας."
+      },
+      "apply": {
+        "en": "Do not expect the next milestone, 300 sites or a new car, to make you happy for long; the feeling fades in weeks. Instead, plan a normal week you would enjoy living: the kind of work you like, real rest, people you love, and protect it.",
+        "el": "Μην περιμένεις ότι το επόμενο ορόσημο, οι 300 σελίδες ή ένα καινούργιο αυτοκίνητο, θα σε κάνει ευτυχισμένο για πολύ· το συναίσθημα σβήνει σε λίγες εβδομάδες. Σχεδίασε καλύτερα μια κανονική εβδομάδα που θα χαιρόσουν να ζεις: δουλειά που σου αρέσει, πραγματική ξεκούραση, ανθρώπους που αγαπάς, και προστάτευσέ τη."
+      },
+      "check": {
+        "q": {"en": "Why is lasting happiness hard for humans, in Harari's view?", "el": "Γιατί η διαρκής ευτυχία είναι δύσκολη για τον άνθρωπο, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "Because governments refuse to measure it", "el": "Επειδή οι κυβερνήσεις αρνούνται να τη μετρήσουν"},
+          {"en": "Because pleasant feelings fade fast by design of evolution", "el": "Επειδή τα ευχάριστα συναισθήματα σβήνουν γρήγορα, έτσι μας έφτιαξε η εξέλιξη"},
+          {"en": "Because modern life has fewer pleasures than the past", "el": "Επειδή η σύγχρονη ζωή έχει λιγότερες απολαύσεις από το παρελθόν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Evolution keeps us wanting more, so satisfaction never lasts on its own.", "el": "Η εξέλιξη μάς κρατά να θέλουμε περισσότερα, οπότε η ικανοποίηση δεν κρατά από μόνη της."}
+      }
+    },
+    {
+      "title": {"en": "New goal three: become gods", "el": "Νέος στόχος τρίτος: να γίνουμε θεοί"},
+      "explain": {
+        "en": "The third goal is to upgrade humans into something like gods, Homo Deus. Harari means gods like those of Greek myth: beings with powers such as creating life, reshaping bodies and controlling things with the mind. He sees three paths: biological engineering, merging people with machines (cyborgs), and creating completely non-organic beings.",
+        "el": "Ο τρίτος στόχος είναι να αναβαθμίσουμε τον άνθρωπο σε κάτι σαν θεό, τον Homo Deus. Ο Χαράρι εννοεί θεούς σαν αυτούς της ελληνικής μυθολογίας: όντα με δυνάμεις όπως να δημιουργούν ζωή, να αλλάζουν σώματα και να ελέγχουν πράγματα με τον νου. Βλέπει τρεις δρόμους: τη βιολογική μηχανική, την ένωση ανθρώπου και μηχανής (τους cyborgs) και τη δημιουργία εντελώς μη οργανικών όντων."
+      },
+      "example": {
+        "en": "In 2024, after the book was written, a paralysed American man with a Neuralink brain implant moved a computer cursor and played online chess using only his thoughts. It is a small, real step down the cyborg path Harari describes.",
+        "el": "Το 2024, μετά τη συγγραφή του βιβλίου, ένας παράλυτος Αμερικανός με εμφύτευμα Neuralink στον εγκέφαλο κίνησε τον κέρσορα ενός υπολογιστή και έπαιξε σκάκι online μόνο με τη σκέψη του. Είναι ένα μικρό, πραγματικό βήμα στον δρόμο των cyborgs που περιγράφει ο Χαράρι."
+      },
+      "apply": {
+        "en": "You already have a small superpower: AI lets one person build what used to need a team. List three tasks AI already does for you and one new task to hand over this month, like first drafts of Greek copy or reel scripts that you then check.",
+        "el": "Έχεις ήδη μια μικρή υπερδύναμη: το AI σε αφήνει να φτιάχνεις μόνος ό,τι παλιά ήθελε ομάδα. Γράψε τρεις δουλειές που ήδη κάνει για σένα το AI και μία νέα που θα του δώσεις αυτόν τον μήνα, όπως πρώτα προσχέδια κειμένων ή σενάρια για reels που μετά ελέγχεις."
+      },
+      "check": {
+        "q": {"en": "What kind of gods does Harari mean by Homo Deus?", "el": "Τι είδους θεούς εννοεί ο Χαράρι με τον Homo Deus;"},
+        "options": [
+          {"en": "All-knowing beings who are perfect in every way", "el": "Παντογνώστες, τέλειους σε όλα"},
+          {"en": "Spirits that live outside the physical world", "el": "Πνεύματα που ζουν έξω από τον υλικό κόσμο"},
+          {"en": "Beings with special powers, like the gods of Greek myth", "el": "Όντα με ειδικές δυνάμεις, σαν τους θεούς της ελληνικής μυθολογίας"}
+        ],
+        "answer": 2,
+        "why": {"en": "He means upgraded humans with new abilities, not perfect, all-knowing beings.", "el": "Εννοεί αναβαθμισμένους ανθρώπους με νέες ικανότητες, όχι τέλεια όντα που τα ξέρουν όλα."}
+      }
+    },
+    {
+      "title": {"en": "History to break free", "el": "Ιστορία για να ελευθερωθείς"},
+      "explain": {
+        "en": "Why study history if we want to know the future? Not to predict it, says Harari, but to free ourselves from the past. Much of what feels natural was made by people at a certain time, so it can change. He also notes a paradox: predictions change behaviour, so a good forecast can stop itself from coming true.",
+        "el": "Γιατί να μελετάμε την ιστορία, αν θέλουμε να ξέρουμε το μέλλον; Όχι για να το προβλέψουμε, λέει ο Χαράρι, αλλά για να ελευθερωθούμε από το παρελθόν. Πολλά από όσα μοιάζουν φυσικά τα έφτιαξαν άνθρωποι σε συγκεκριμένη εποχή, άρα μπορούν να αλλάξουν. Επισημαίνει και ένα παράδοξο: οι προβλέψεις αλλάζουν τη συμπεριφορά, οπότε μια καλή πρόβλεψη μπορεί να εμποδίσει τον εαυτό της να βγει αληθινή."
+      },
+      "example": {
+        "en": "Harari asks why so many people want a green lawn. Lawns began as status symbols around the castles of French and English nobles, showing they could waste land and labour. The idea passed to the White House and then to millions of suburban homes. A lawn is a story, not a law of nature.",
+        "el": "Ο Χαράρι ρωτά γιατί τόσοι άνθρωποι θέλουν ένα πράσινο γκαζόν. Το γκαζόν ξεκίνησε ως σύμβολο κύρους γύρω από τα κάστρα Γάλλων και Άγγλων ευγενών, για να δείχνει ότι μπορούσαν να σπαταλούν γη και εργασία. Η ιδέα πέρασε στον Λευκό Οίκο και μετά σε εκατομμύρια σπίτια των προαστίων. Το γκαζόν είναι ιστορία, όχι νόμος της φύσης."
+      },
+      "apply": {
+        "en": "Find one «that is how it is done» in your market and ask where it came from, for example that a website must be paid upfront. Your 0€ build model exists because you questioned such a habit. Look for the next one: contracts, maintenance, or how clients send content.",
+        "el": "Βρες ένα «έτσι γίνεται» στην αγορά σου και ρώτα από πού ήρθε, για παράδειγμα ότι η ιστοσελίδα πληρώνεται προκαταβολικά. Το μοντέλο σου με κατασκευή 0€ υπάρχει επειδή αμφισβήτησες μια τέτοια συνήθεια. Ψάξε την επόμενη: στα συμβόλαια, στη συντήρηση ή στο πώς στέλνουν οι πελάτες υλικό."
+      },
+      "check": {
+        "q": {"en": "Why does Harari tell the history of the lawn?", "el": "Γιατί ο Χαράρι διηγείται την ιστορία του γκαζόν;"},
+        "options": [
+          {"en": "To give advice on gardening", "el": "Για να δώσει συμβουλές κηπουρικής"},
+          {"en": "To show that what feels natural was made by people", "el": "Για να δείξει ότι αυτό που μοιάζει φυσικό το έφτιαξαν άνθρωποι"},
+          {"en": "To prove that nobles were smarter than others", "el": "Για να αποδείξει ότι οι ευγενείς ήταν πιο έξυπνοι"}
+        ],
+        "answer": 1,
+        "why": {"en": "Knowing how a habit started frees you to keep it or change it.", "el": "Όταν ξέρεις πώς ξεκίνησε μια συνήθεια, είσαι ελεύθερος να την κρατήσεις ή να την αλλάξεις."}
+      }
+    },
+    {
+      "title": {"en": "How the strong treat the weak", "el": "Πώς φέρεται ο δυνατός στον αδύναμο"},
+      "explain": {
+        "en": "To guess how a superior being might treat humans, Harari says, look at how humans treat animals. Farming turned animals into production machines, and modern industry ignores their emotional needs. Yet science shows that mammals and birds have feelings and social needs like ours. Old religions and humanism both put humans at the centre and justified this.",
+        "el": "Για να μαντέψεις πώς μπορεί να φερθεί ένα ανώτερο ον στον άνθρωπο, λέει ο Χαράρι, κοίτα πώς φέρεται ο άνθρωπος στα ζώα. Η γεωργία έκανε τα ζώα μηχανές παραγωγής, και η σύγχρονη βιομηχανία αγνοεί τις συναισθηματικές τους ανάγκες. Κι όμως η επιστήμη δείχνει ότι τα θηλαστικά και τα πουλιά έχουν συναισθήματα και κοινωνικές ανάγκες σαν τις δικές μας. Και οι παλιές θρησκείες και ο ανθρωπισμός έβαλαν τον άνθρωπο στο κέντρο και το δικαιολόγησαν."
+      },
+      "example": {
+        "en": "In the 1950s psychologist Harry Harlow separated baby monkeys from their mothers and gave them two fake mothers: one of wire that gave milk, one of soft cloth that gave nothing. The babies clung to the cloth mother and went to the wire one only to feed. They needed comfort, not just food.",
+        "el": "Τη δεκαετία του 1950 ο ψυχολόγος Χάρι Χάρλοου χώρισε μωρά πιθήκους από τις μητέρες τους και τους έδωσε δύο ψεύτικες μητέρες: μία από σύρμα που έδινε γάλα και μία από μαλακό ύφασμα που δεν έδινε τίποτα. Τα μωρά κρέμονταν από την υφασμάτινη και πήγαιναν στη συρμάτινη μόνο για να φάνε. Χρειάζονταν τρυφερότητα, όχι μόνο τροφή."
+      },
+      "apply": {
+        "en": "You hold more power than most clients: they cannot judge code, hosting or prices. Use it fairly. Explain every cost in plain words, never let a client lose their domain because they did not understand renewals, and treat the least technical client with the most patience.",
+        "el": "Έχεις περισσότερη δύναμη από τους περισσότερους πελάτες σου: δεν μπορούν να κρίνουν κώδικα, φιλοξενία ή τιμές. Χρησιμοποίησέ τη δίκαια. Εξήγα κάθε κόστος με απλά λόγια, μην αφήσεις ποτέ πελάτη να χάσει το domain του επειδή δεν κατάλαβε τις ανανεώσεις, και δείξε τη μεγαλύτερη υπομονή στον λιγότερο τεχνικό πελάτη."
+      },
+      "check": {
+        "q": {"en": "What did Harlow's monkeys show?", "el": "Τι έδειξαν οι πίθηκοι του Χάρλοου;"},
+        "options": [
+          {"en": "That animals have emotional needs beyond food", "el": "Ότι τα ζώα έχουν συναισθηματικές ανάγκες πέρα από την τροφή"},
+          {"en": "That monkeys prefer metal objects to cloth", "el": "Ότι οι πίθηκοι προτιμούν τα μεταλλικά αντικείμενα από το ύφασμα"},
+          {"en": "That baby animals do not need mothers at all", "el": "Ότι τα μωρά ζώα δεν χρειάζονται καθόλου μητέρα"}
+        ],
+        "answer": 0,
+        "why": {"en": "They chose comfort over milk, proving needs that farming usually ignores.", "el": "Διάλεξαν την τρυφερότητα αντί για το γάλα, απόδειξη για ανάγκες που η κτηνοτροφία συνήθως αγνοεί."}
+      }
+    },
+    {
+      "title": {"en": "Organisms are algorithms", "el": "Οι οργανισμοί είναι αλγόριθμοι"},
+      "explain": {
+        "en": "An algorithm is a set of steps for making a calculation or decision. Harari reports the dominant view in the life sciences: feelings are biochemical algorithms, shaped by evolution to calculate the odds of survival and reproduction. Fear, hunger and desire are fast calculations. If that is true, then in principle computers could one day run such algorithms better than our bodies.",
+        "el": "Αλγόριθμος είναι μια σειρά βημάτων για να γίνει ένας υπολογισμός ή μια απόφαση. Ο Χαράρι μεταφέρει την κυρίαρχη άποψη στις βιολογικές επιστήμες: τα συναισθήματα είναι βιοχημικοί αλγόριθμοι, που η εξέλιξη έφτιαξε για να υπολογίζουν τις πιθανότητες επιβίωσης και αναπαραγωγής. Ο φόβος, η πείνα και η επιθυμία είναι γρήγοροι υπολογισμοί. Αν αυτό ισχύει, τότε θεωρητικά οι υπολογιστές θα μπορούσαν κάποτε να τρέχουν τέτοιους αλγορίθμους καλύτερα από το σώμα μας."
+      },
+      "example": {
+        "en": "Harari's example: a hungry baboon sees bananas near a lion. In seconds its feelings weigh how hungry it is, how close the lion is, whether the lion looks asleep, and how fast it can run. Fear or courage wins, and that is the answer of the calculation.",
+        "el": "Το παράδειγμα του Χαράρι: ένας πεινασμένος μπαμπουίνος βλέπει μπανάνες κοντά σε ένα λιοντάρι. Μέσα σε δευτερόλεπτα τα συναισθήματά του ζυγίζουν πόσο πεινά, πόσο κοντά είναι το λιοντάρι, αν μοιάζει να κοιμάται και πόσο γρήγορα μπορεί να τρέξει. Νικά ο φόβος ή το θάρρος, και αυτό είναι το αποτέλεσμα του υπολογισμού."
+      },
+      "apply": {
+        "en": "A doctor on a cold call also runs a fast feeling-calculation: risk against reward. Feed it the right inputs in the first 30 seconds: no upfront cost, a real site of a colleague nearby, and changes until they are happy. Lower the fear, raise the trust.",
+        "el": "Ένας γιατρός σε ένα cold call κάνει κι αυτός έναν γρήγορο υπολογισμό με τα συναισθήματα: ρίσκο απέναντι σε όφελος. Δώσ' του τα σωστά δεδομένα στα πρώτα 30 δευτερόλεπτα: κανένα κόστος από την αρχή, μια πραγματική σελίδα συναδέλφου εκεί κοντά, και αλλαγές μέχρι να μείνει ευχαριστημένος. Μείωσε τον φόβο, ανέβασε την εμπιστοσύνη."
+      },
+      "check": {
+        "q": {"en": "What are feelings, in the view Harari reports?", "el": "Τι είναι τα συναισθήματα, σύμφωνα με την άποψη που μεταφέρει ο Χαράρι;"},
+        "options": [
+          {"en": "Messages from an immortal soul", "el": "Μηνύματα από μια αθάνατη ψυχή"},
+          {"en": "Random noise with no purpose", "el": "Τυχαίος θόρυβος χωρίς σκοπό"},
+          {"en": "Biochemical calculations shaped by evolution", "el": "Βιοχημικοί υπολογισμοί που διαμόρφωσε η εξέλιξη"}
+        ],
+        "answer": 2,
+        "why": {"en": "In this view feelings are fast algorithms that compute survival odds.", "el": "Σε αυτή την άποψη τα συναισθήματα είναι γρήγοροι αλγόριθμοι που υπολογίζουν πιθανότητες επιβίωσης."}
+      }
+    },
+    {
+      "title": {"en": "The unsolved mystery of the mind", "el": "Το άλυτο μυστήριο του νου"},
+      "explain": {
+        "en": "Science has found no evidence of a soul. But it also cannot explain the mind: how electrical and chemical signals in the brain become the inner feeling of pain, love or the colour red. Harari stresses that we do not know what consciousness is or what it is for. That matters, because without knowing it we cannot say which animals or machines have it.",
+        "el": "Η επιστήμη δεν βρήκε στοιχεία για ψυχή. Αλλά ούτε μπορεί να εξηγήσει τον νου: πώς τα ηλεκτρικά και χημικά σήματα του εγκεφάλου γίνονται το εσωτερικό βίωμα του πόνου, της αγάπης ή του κόκκινου χρώματος. Ο Χαράρι τονίζει ότι δεν ξέρουμε τι είναι η συνείδηση ούτε σε τι χρησιμεύει. Αυτό μετρά, γιατί χωρίς να το ξέρουμε δεν μπορούμε να πούμε ποια ζώα ή ποιες μηχανές την έχουν."
+      },
+      "example": {
+        "en": "In 1995 the philosopher David Chalmers named this «the hard problem of consciousness». Brain scans can show which areas light up when you see red, but nobody can yet explain why there is something it feels like to see red at all.",
+        "el": "Το 1995 ο φιλόσοφος Ντέιβιντ Τσάλμερς το ονόμασε «δύσκολο πρόβλημα της συνείδησης». Οι τομογραφίες δείχνουν ποιες περιοχές του εγκεφάλου ανάβουν όταν βλέπεις κόκκινο, αλλά κανείς δεν μπορεί ακόμη να εξηγήσει γιατί υπάρχει καν μια εσωτερική αίσθηση του κόκκινου."
+      },
+      "apply": {
+        "en": "Analytics show clicks, not how a patient felt on a client's site. Twice a month, watch one real person use a new site on their phone and ask what they felt: calm, confused, trusting? Fix what the numbers cannot see.",
+        "el": "Τα analytics δείχνουν κλικ, όχι πώς ένιωσε ένας ασθενής στη σελίδα ενός πελάτη σου. Δύο φορές τον μήνα, δες έναν πραγματικό άνθρωπο να χρησιμοποιεί μια νέα σελίδα στο κινητό του και ρώτα τι ένιωσε: ηρεμία, μπέρδεμα, εμπιστοσύνη; Διόρθωσε ό,τι δεν μπορούν να δουν οι αριθμοί."
+      },
+      "check": {
+        "q": {"en": "What does science still not know about the mind?", "el": "Τι δεν ξέρει ακόμη η επιστήμη για τον νου;"},
+        "options": [
+          {"en": "How brain signals become inner experience", "el": "Πώς τα σήματα του εγκεφάλου γίνονται εσωτερικό βίωμα"},
+          {"en": "Which parts of the brain use electricity", "el": "Ποια μέρη του εγκεφάλου χρησιμοποιούν ηλεκτρισμό"},
+          {"en": "Whether humans have a brain at all", "el": "Αν ο άνθρωπος έχει καν εγκέφαλο"}
+        ],
+        "answer": 0,
+        "why": {"en": "We can map brain activity, but not explain why it feels like something.", "el": "Μπορούμε να χαρτογραφούμε τη δραστηριότητα του εγκεφάλου, όχι να εξηγήσουμε γιατί τη βιώνουμε."}
+      }
+    },
+    {
+      "title": {"en": "The web of shared stories", "el": "Ο ιστός των κοινών ιστοριών"},
+      "explain": {
+        "en": "Harari sees three levels of reality. Objective things exist anyway, like gravity. Subjective things exist in one mind, like my headache. Intersubjective things exist because many people believe in them together: money, nations, companies, laws, gods. Humans rule the planet because these shared stories let millions of strangers cooperate flexibly. When the shared belief breaks, power can vanish overnight.",
+        "el": "Ο Χαράρι βλέπει τρία επίπεδα πραγματικότητας. Τα αντικειμενικά υπάρχουν έτσι κι αλλιώς, όπως η βαρύτητα. Τα υποκειμενικά υπάρχουν σε ένα μυαλό, όπως ο δικός μου πονοκέφαλος. Τα διυποκειμενικά υπάρχουν επειδή πολλοί άνθρωποι πιστεύουν μαζί σε αυτά: το χρήμα, τα έθνη, οι εταιρείες, οι νόμοι, οι θεοί. Ο άνθρωπος κυριαρχεί στον πλανήτη επειδή αυτές οι κοινές ιστορίες επιτρέπουν σε εκατομμύρια αγνώστους να συνεργάζονται ευέλικτα. Όταν σπάσει η κοινή πίστη, η εξουσία μπορεί να χαθεί μέσα σε μια νύχτα."
+      },
+      "example": {
+        "en": "In December 1989 the Romanian dictator Nicolae Ceaușescu spoke to a huge crowd in Bucharest. Suddenly people began to boo. Within days the shared belief in his power collapsed, the army switched sides, and he was executed on Christmas Day.",
+        "el": "Τον Δεκέμβριο του 1989 ο Ρουμάνος δικτάτορας Νικολάε Τσαουσέσκου μιλούσε σε ένα τεράστιο πλήθος στο Βουκουρέστι. Ξαφνικά ο κόσμος άρχισε να γιουχάρει. Μέσα σε λίγες μέρες η κοινή πίστη στη δύναμή του κατέρρευσε, ο στρατός άλλαξε πλευρά και εκτελέστηκε ανήμερα τα Χριστούγεννα."
+      },
+      "apply": {
+        "en": "Advon's reputation is an intersubjective reality: it exists because clients and their colleagues believe in it together. Feed it every week: ask happy clients for a Google review, and treat every complaint fast, because doctors talk to doctors.",
+        "el": "Η φήμη της Advon είναι διυποκειμενική πραγματικότητα: υπάρχει επειδή πελάτες και συνάδελφοί τους πιστεύουν μαζί σε αυτήν. Τάιζέ τη κάθε εβδομάδα: ζήτα από ευχαριστημένους πελάτες κριτική στο Google και λύνε γρήγορα κάθε παράπονο, γιατί οι γιατροί μιλούν μεταξύ τους."
+      },
+      "check": {
+        "q": {"en": "Which of these is intersubjective?", "el": "Ποιο από αυτά είναι διυποκειμενικό;"},
+        "options": [
+          {"en": "Gravity", "el": "Η βαρύτητα"},
+          {"en": "The value of a company brand", "el": "Η αξία ενός εταιρικού brand"},
+          {"en": "My own headache", "el": "Ο δικός μου πονοκέφαλος"}
+        ],
+        "answer": 1,
+        "why": {"en": "A brand's value exists only because many people share a belief in it.", "el": "Η αξία ενός brand υπάρχει μόνο επειδή πολλοί άνθρωποι μοιράζονται την πίστη σε αυτήν."}
+      }
+    },
+    {
+      "title": {"en": "When paper beats reality", "el": "Όταν το χαρτί νικά την πραγματικότητα"},
+      "explain": {
+        "en": "Writing and bureaucracy made shared stories even stronger. Once things are recorded, people start to serve the documents. When the papers and reality disagree, reality is often forced to give way. Schools chase grades instead of learning, and officials chase targets instead of results. Stories are useful tools, Harari says, but they must never replace the real world they describe.",
+        "el": "Η γραφή και η γραφειοκρατία έκαναν τις κοινές ιστορίες ακόμη πιο δυνατές. Μόλις κάτι καταγραφεί, οι άνθρωποι αρχίζουν να υπηρετούν τα έγγραφα. Όταν τα χαρτιά και η πραγματικότητα διαφωνούν, συχνά η πραγματικότητα αναγκάζεται να υποχωρήσει. Τα σχολεία κυνηγούν βαθμούς αντί για μάθηση, και οι υπάλληλοι στόχους αντί για αποτελέσματα. Οι ιστορίες είναι χρήσιμα εργαλεία, λέει ο Χαράρι, αλλά δεν πρέπει ποτέ να αντικαταστήσουν τον πραγματικό κόσμο που περιγράφουν."
+      },
+      "example": {
+        "en": "During China's Great Leap Forward, from 1958, local officials under pressure reported impossible harvests. The state collected grain based on these invented numbers, leaving villages without food. In the famine that followed, tens of millions of people died.",
+        "el": "Στο «Μεγάλο Άλμα προς τα Εμπρός» της Κίνας, από το 1958, τοπικοί αξιωματούχοι υπό πίεση ανέφεραν αδύνατες σοδειές. Το κράτος μάζευε σιτηρά με βάση αυτούς τους φανταστικούς αριθμούς και άφηνε τα χωριά χωρίς τροφή. Στον λιμό που ακολούθησε πέθαναν δεκάδες εκατομμύρια άνθρωποι."
+      },
+      "apply": {
+        "en": "Your CRM is a story about your business, not the business. Once a week, compare it with reality: is each «paid» really in the bank, is each «live» site really online? Fix the record, and never let a team target reward pretty numbers over real ones.",
+        "el": "Το CRM σου είναι μια ιστορία για την επιχείρηση, όχι η ίδια η επιχείρηση. Μία φορά την εβδομάδα σύγκρινέ το με την πραγματικότητα: κάθε «πληρώθηκε» είναι όντως στην τράπεζα, κάθε σελίδα «live» είναι όντως online; Διόρθωσε την καταγραφή και μην αφήσεις ποτέ έναν στόχο της ομάδας να ανταμείβει ωραίους αριθμούς αντί για αληθινούς."
+      },
+      "check": {
+        "q": {"en": "What went wrong in the Great Leap Forward, in Harari's telling?", "el": "Τι πήγε στραβά στο Μεγάλο Άλμα, όπως το λέει ο Χαράρι;"},
+        "options": [
+          {"en": "The weather destroyed every harvest at once", "el": "Ο καιρός κατέστρεψε ταυτόχρονα όλες τις σοδειές"},
+          {"en": "Invented numbers on paper overruled real harvests", "el": "Φανταστικοί αριθμοί στο χαρτί υπερίσχυσαν των πραγματικών σοδειών"},
+          {"en": "Other countries refused to sell food to China", "el": "Άλλες χώρες αρνήθηκαν να πουλήσουν τρόφιμα στην Κίνα"}
+        ],
+        "answer": 1,
+        "why": {"en": "The state trusted the reports over reality, and people starved.", "el": "Το κράτος πίστεψε τις αναφορές αντί για την πραγματικότητα, και ο κόσμος πέθανε από πείνα."}
+      }
+    },
+    {
+      "title": {"en": "The modern deal: power for meaning", "el": "Η σύγχρονη συμφωνία: δύναμη αντί για νόημα"},
+      "explain": {
+        "en": "In the past, people believed life was part of a cosmic plan. That gave meaning but limited power: you accepted your fate. Modernity made a deal: humans give up meaning in exchange for power. There is no plan, but nothing stops us from doing anything we are able to do. The engine of this deal is the belief in endless economic growth.",
+        "el": "Παλιά, οι άνθρωποι πίστευαν ότι η ζωή είναι μέρος ενός κοσμικού σχεδίου. Αυτό έδινε νόημα αλλά περιόριζε τη δύναμη: δεχόσουν τη μοίρα σου. Η νεωτερικότητα έκανε μια συμφωνία: ο άνθρωπος παραιτείται από το νόημα με αντάλλαγμα τη δύναμη. Δεν υπάρχει σχέδιο, αλλά και τίποτα δεν μας εμποδίζει να κάνουμε ό,τι είμαστε ικανοί να κάνουμε. Η μηχανή αυτής της συμφωνίας είναι η πίστη στην ατελείωτη οικονομική ανάπτυξη."
+      },
+      "example": {
+        "en": "After China opened its economy from 1978, decades of rapid growth lifted hundreds of millions of people out of extreme poverty. Modern states treat growth as the cure for almost every problem, from unemployment to war.",
+        "el": "Αφού η Κίνα άνοιξε την οικονομία της από το 1978, δεκαετίες γρήγορης ανάπτυξης έβγαλαν εκατοντάδες εκατομμύρια ανθρώπους από την ακραία φτώχεια. Τα σύγχρονα κράτη βλέπουν την ανάπτυξη ως φάρμακο για σχεδόν κάθε πρόβλημα, από την ανεργία ως τον πόλεμο."
+      },
+      "apply": {
+        "en": "Growth is a tool, not a meaning. Write in one sentence why you build Advon, for example freedom, craft or helping local professionals. Then set a limit: the number of new sites per month above which quality drops, and grow only as your team grows.",
+        "el": "Η ανάπτυξη είναι εργαλείο, όχι νόημα. Γράψε σε μία πρόταση γιατί χτίζεις την Advon, για παράδειγμα για ελευθερία, για τη δουλειά καθαυτή ή για να βοηθάς τους τοπικούς επαγγελματίες. Μετά βάλε ένα όριο: πόσες νέες σελίδες τον μήνα είναι το ταβάνι πριν πέσει η ποιότητα, και μεγάλωνε μόνο όσο μεγαλώνει η ομάδα σου."
+      },
+      "check": {
+        "q": {"en": "What did modern humans give up in the modern deal?", "el": "Από τι παραιτήθηκε ο σύγχρονος άνθρωπος στη σύγχρονη συμφωνία;"},
+        "options": [
+          {"en": "Belief in a cosmic plan that gave meaning", "el": "Από την πίστη σε ένα κοσμικό σχέδιο που έδινε νόημα"},
+          {"en": "Their power over nature and technology", "el": "Από τη δύναμή του πάνω στη φύση και την τεχνολογία"},
+          {"en": "Economic growth and trade", "el": "Από την οικονομική ανάπτυξη και το εμπόριο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Meaning from above was traded for power to act without limits.", "el": "Το νόημα «από πάνω» ανταλλάχθηκε με τη δύναμη να δρα χωρίς όρια."}
+      }
+    },
+    {
+      "title": {"en": "Humanism: trust your feelings", "el": "Ανθρωπισμός: εμπιστέψου τα συναισθήματά σου"},
+      "explain": {
+        "en": "Without a cosmic plan, where does meaning come from? Humanism answers: from inside us. Human feelings become the highest authority. In politics the voter knows best. In economics the customer is always right. In art, beauty is in the eye of the beholder. In ethics, if it feels good and harms no one, it is fine. In education, think for yourself.",
+        "el": "Χωρίς κοσμικό σχέδιο, από πού έρχεται το νόημα; Ο ανθρωπισμός απαντά: από μέσα μας. Τα ανθρώπινα συναισθήματα γίνονται η ανώτατη αυθεντία. Στην πολιτική, ο ψηφοφόρος ξέρει καλύτερα. Στην οικονομία, ο πελάτης έχει πάντα δίκιο. Στην τέχνη, η ομορφιά είναι στο μάτι του θεατή. Στην ηθική, αν σου κάνει καλό και δεν βλάπτει κανέναν, είναι εντάξει. Στην εκπαίδευση, σκέψου μόνος σου."
+      },
+      "example": {
+        "en": "In 1917 Marcel Duchamp sent an ordinary urinal, signed and titled Fountain, to an art exhibition. Harari uses it to show the humanist idea of art: if people feel something is art, then it is art. No priest or king decides it any more.",
+        "el": "Το 1917 ο Μαρσέλ Ντισάν έστειλε σε μια έκθεση τέχνης ένα συνηθισμένο ουρητήριο, υπογεγραμμένο, με τίτλο «Κρήνη». Ο Χαράρι το χρησιμοποιεί για να δείξει την ανθρωπιστική ιδέα της τέχνης: αν οι άνθρωποι νιώθουν ότι κάτι είναι τέχνη, τότε είναι. Δεν το αποφασίζει πια κανένας ιερέας ή βασιλιάς."
+      },
+      "apply": {
+        "en": "Your clients are humanists about their own site: their feeling is the final judge. On the video call, ask how the site makes them feel before you defend your choices. Then guide them with your experience, but let them feel it is their site.",
+        "el": "Οι πελάτες σου είναι ανθρωπιστές όσον αφορά τη σελίδα τους: το συναίσθημά τους είναι ο τελικός κριτής. Στη βιντεοκλήση, ρώτα «Πώς σας φαίνεται, τι νιώθετε βλέποντάς τη;» πριν υπερασπιστείς τις επιλογές σου. Μετά καθοδήγησέ τους με την εμπειρία σου, αλλά άφησέ τους να νιώσουν ότι είναι δική τους η σελίδα."
+      },
+      "check": {
+        "q": {"en": "What is the highest authority in humanism?", "el": "Ποια είναι η ανώτατη αυθεντία στον ανθρωπισμό;"},
+        "options": [
+          {"en": "The scriptures of the old religions", "el": "Τα ιερά κείμενα των παλιών θρησκειών"},
+          {"en": "The decisions of experts and computers", "el": "Οι αποφάσεις των ειδικών και των υπολογιστών"},
+          {"en": "Human feelings and experiences", "el": "Τα ανθρώπινα συναισθήματα και βιώματα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Humanism moved authority from gods to what humans feel and experience.", "el": "Ο ανθρωπισμός μετέφερε την εξουσία από τους θεούς σε ό,τι νιώθει και βιώνει ο άνθρωπος."}
+      }
+    },
+    {
+      "title": {"en": "The humanist wars", "el": "Οι πόλεμοι των ανθρωπισμών"},
+      "explain": {
+        "en": "Humanism split into three branches. Liberal humanism trusts each individual's feelings and free choices. Socialist humanism looks at the feelings of others and of whole classes. Evolutionary humanism, which fed Nazism, says conflict improves humanity and the strong should win. The 20th century was a war between them, and by its end liberalism had won.",
+        "el": "Ο ανθρωπισμός χωρίστηκε σε τρεις κλάδους. Ο φιλελεύθερος ανθρωπισμός εμπιστεύεται τα συναισθήματα και τις ελεύθερες επιλογές κάθε ατόμου. Ο σοσιαλιστικός ανθρωπισμός κοιτά τα συναισθήματα των άλλων και ολόκληρων τάξεων. Ο εξελικτικός ανθρωπισμός, που τροφοδότησε τον ναζισμό, λέει ότι η σύγκρουση βελτιώνει την ανθρωπότητα και ότι πρέπει να νικά ο δυνατός. Ο 20ός αιώνας ήταν ένας πόλεμος ανάμεσά τους, και στο τέλος του νίκησε ο φιλελευθερισμός."
+      },
+      "example": {
+        "en": "Evolutionary humanism was defeated in 1945. The Cold War between the liberal West and the socialist East ended when the Soviet Union collapsed in 1991. By the 2000s most of the world, even if not democratic, spoke the liberal language of individual choice and markets.",
+        "el": "Ο εξελικτικός ανθρωπισμός ηττήθηκε το 1945. Ο Ψυχρός Πόλεμος ανάμεσα στη φιλελεύθερη Δύση και τη σοσιαλιστική Ανατολή τελείωσε με την κατάρρευση της Σοβιετικής Ένωσης το 1991. Ως τη δεκαετία του 2000, το μεγαλύτερο μέρος του κόσμου, ακόμη κι όπου δεν υπήρχε δημοκρατία, μιλούσε τη φιλελεύθερη γλώσσα της ατομικής επιλογής και της αγοράς."
+      },
+      "apply": {
+        "en": "Liberal culture says the customer chooses. Use it well: instead of asking a client «what do you want?», show two finished design directions on the call and let them pick. Clear choices respect their freedom and speed up decisions.",
+        "el": "Η φιλελεύθερη κουλτούρα λέει ότι επιλέγει ο πελάτης. Αξιοποίησέ το σωστά: αντί να ρωτάς έναν πελάτη «τι θέλετε;», δείξε στην κλήση δύο έτοιμες κατευθύνσεις σχεδίου και άφησέ τον να διαλέξει. Οι καθαρές επιλογές σέβονται την ελευθερία του και επιταχύνουν τις αποφάσεις."
+      },
+      "check": {
+        "q": {"en": "Which humanist branch had won by the end of the 20th century?", "el": "Ποιος κλάδος του ανθρωπισμού είχε νικήσει στο τέλος του 20ού αιώνα;"},
+        "options": [
+          {"en": "Evolutionary humanism", "el": "Ο εξελικτικός ανθρωπισμός"},
+          {"en": "Liberal humanism", "el": "Ο φιλελεύθερος ανθρωπισμός"},
+          {"en": "Socialist humanism", "el": "Ο σοσιαλιστικός ανθρωπισμός"}
+        ],
+        "answer": 1,
+        "why": {"en": "After 1945 and 1991, liberalism with free individuals and markets was left on top.", "el": "Μετά το 1945 και το 1991, ο φιλελευθερισμός με ελεύθερα άτομα και αγορές βρέθηκε στην κορυφή."}
+      }
+    },
+    {
+      "title": {"en": "Science versus free will", "el": "Η επιστήμη απέναντι στην ελεύθερη βούληση"},
+      "explain": {
+        "en": "Liberalism rests on the belief that each person has a free, inner self that makes choices. Harari argues that the life sciences undermine this. Our decisions come from genes, hormones and neurons, either determined or random, never free. Experiments can even change what people want by stimulating the brain. If there is no free self, the liberal story starts to crack.",
+        "el": "Ο φιλελευθερισμός στηρίζεται στην πίστη ότι κάθε άνθρωπος έχει έναν ελεύθερο εσωτερικό εαυτό που αποφασίζει. Ο Χαράρι υποστηρίζει ότι οι βιολογικές επιστήμες το υπονομεύουν. Οι αποφάσεις μας βγαίνουν από γονίδια, ορμόνες και νευρώνες, είτε προκαθορισμένες είτε τυχαίες, ποτέ ελεύθερες. Τα πειράματα μπορούν ακόμη και να αλλάξουν τι θέλει κάποιος, διεγείροντας τον εγκέφαλό του. Αν δεν υπάρχει ελεύθερος εαυτός, η φιλελεύθερη ιστορία αρχίζει να ραγίζει."
+      },
+      "example": {
+        "en": "Harari tells how science journalist Sally Adee tried a helmet that sends weak electric currents into the brain, used in US military sniper training. With it on, she hit far more targets, and said the nagging inner voice of doubt simply went quiet.",
+        "el": "Ο Χαράρι διηγείται πώς η δημοσιογράφος επιστήμης Σάλι Άντι δοκίμασε ένα κράνος που στέλνει ασθενή ηλεκτρικά ρεύματα στον εγκέφαλο, το οποίο χρησιμοποιούσε ο αμερικανικός στρατός στην εκπαίδευση ελεύθερων σκοπευτών. Φορώντας το, πέτυχε πολύ περισσότερους στόχους και είπε ότι η εσωτερική φωνή της αμφιβολίας απλώς σώπασε."
+      },
+      "apply": {
+        "en": "If willpower is weaker than you think, design your surroundings instead. Put your phone in another room during call blocks, set the Meta ad budget limit before the week starts, and keep only today's three tasks on your screen.",
+        "el": "Αν η θέληση είναι πιο αδύναμη απ' όσο νομίζεις, σχεδίασε καλύτερα το περιβάλλον σου. Βάλε το κινητό σε άλλο δωμάτιο όσο κάνεις τα τηλεφωνήματα, όρισε το όριο budget της διαφήμισης στη Meta πριν ξεκινήσει η εβδομάδα και κράτα στην οθόνη μόνο τις τρεις δουλειές της ημέρας."
+      },
+      "check": {
+        "q": {"en": "Why is the end of free will a problem for liberalism?", "el": "Γιατί το τέλος της ελεύθερης βούλησης είναι πρόβλημα για τον φιλελευθερισμό;"},
+        "options": [
+          {"en": "Because it makes elections more expensive", "el": "Επειδή κάνει τις εκλογές πιο ακριβές"},
+          {"en": "Because liberalism is built on trusting the free individual", "el": "Επειδή ο φιλελευθερισμός είναι χτισμένος στην εμπιστοσύνη στο ελεύθερο άτομο"},
+          {"en": "Because scientists are against democracy", "el": "Επειδή οι επιστήμονες είναι κατά της δημοκρατίας"}
+        ],
+        "answer": 1,
+        "why": {"en": "If choices are not free, the voter and customer lose their special authority.", "el": "Αν οι επιλογές δεν είναι ελεύθερες, ο ψηφοφόρος και ο πελάτης χάνουν την ιδιαίτερη αυθεντία τους."}
+      }
+    },
+    {
+      "title": {"en": "Two selves: living and telling", "el": "Δύο εαυτοί: αυτός που ζει και αυτός που αφηγείται"},
+      "explain": {
+        "en": "Harari uses Daniel Kahneman's research to show that we have two selves. The experiencing self lives moment by moment. The narrating self writes the story afterwards, remembering mainly the peak and the end and ignoring how long things lasted. It is the narrating self that makes our decisions. So even the «I» that chooses is a story our brain keeps editing.",
+        "el": "Ο Χαράρι χρησιμοποιεί την έρευνα του Ντάνιελ Κάνεμαν για να δείξει ότι έχουμε δύο εαυτούς. Ο εαυτός που βιώνει ζει τη στιγμή. Ο εαυτός που αφηγείται γράφει την ιστορία μετά, θυμάται κυρίως την κορύφωση και το τέλος και αγνοεί πόσο κράτησαν τα πράγματα. Αυτός που αφηγείται είναι που παίρνει τις αποφάσεις μας. Άρα και το «εγώ» που επιλέγει είναι μια ιστορία που ο εγκέφαλος διορθώνει συνέχεια."
+      },
+      "example": {
+        "en": "In Kahneman's experiment, people held a hand in painfully cold water for 60 seconds. Another time they did 60 seconds and then 30 more while the water warmed slightly. Asked which to repeat, most chose the longer one, because its ending felt less bad.",
+        "el": "Στο πείραμα του Κάνεμαν, οι συμμετέχοντες κράτησαν το χέρι τους σε παγωμένο νερό για 60 δευτερόλεπτα. Μια άλλη φορά το κράτησαν 60 δευτερόλεπτα και μετά άλλα 30, ενώ το νερό ζεσταινόταν λίγο. Όταν ρωτήθηκαν ποιο θα επαναλάμβαναν, οι περισσότεροι διάλεξαν το μεγαλύτερο, επειδή το τέλος του ήταν λιγότερο άσχημο."
+      },
+      "apply": {
+        "en": "Clients remember the end. Finish every project on a high: a short launch call, a clear handover message with their new site on screen, and a thank-you. That final moment is the story they will tell their colleagues.",
+        "el": "Οι πελάτες θυμούνται το τέλος. Κλείσε κάθε έργο ψηλά: μια σύντομη κλήση για το live, ένα καθαρό μήνυμα παράδοσης με τη νέα τους σελίδα στην οθόνη και ένα ευχαριστώ. Αυτή η τελευταία στιγμή είναι η ιστορία που θα πουν στους συναδέλφους τους."
+      },
+      "check": {
+        "q": {"en": "Why did most people choose the longer cold-water trial?", "el": "Γιατί οι περισσότεροι διάλεξαν τη μεγαλύτερη δοκιμή με το κρύο νερό;"},
+        "options": [
+          {"en": "They did not understand the instructions", "el": "Δεν κατάλαβαν τις οδηγίες"},
+          {"en": "They were paid more for the longer one", "el": "Πληρώνονταν περισσότερο για τη μεγαλύτερη"},
+          {"en": "The narrating self remembered its milder ending", "el": "Ο εαυτός που αφηγείται θυμόταν το πιο ήπιο τέλος της"}
+        ],
+        "answer": 2,
+        "why": {"en": "Memory weighs the end and ignores duration, so the longer trial felt better.", "el": "Η μνήμη ζυγίζει το τέλος και αγνοεί τη διάρκεια, γι' αυτό η μεγαλύτερη δοκιμή φάνηκε καλύτερη."}
+      }
+    },
+    {
+      "title": {"en": "The great decoupling", "el": "Η μεγάλη αποσύνδεση"},
+      "explain": {
+        "en": "Throughout history, intelligence and consciousness went together: only beings that feel could do smart tasks. Now they are splitting apart. Computers with no feelings at all can drive, diagnose and play games better than humans. For the economy, Harari says, intelligence is what matters, not consciousness. So we must ask which is really more valuable.",
+        "el": "Σε όλη την ιστορία, η νοημοσύνη και η συνείδηση πήγαιναν μαζί: μόνο όντα που νιώθουν μπορούσαν να κάνουν έξυπνες δουλειές. Τώρα χωρίζουν. Υπολογιστές χωρίς κανένα συναίσθημα μπορούν να οδηγούν, να κάνουν διαγνώσεις και να παίζουν παιχνίδια καλύτερα από τους ανθρώπους. Για την οικονομία, λέει ο Χαράρι, μετρά η νοημοσύνη, όχι η συνείδηση. Άρα πρέπει να ρωτήσουμε ποια από τις δύο αξίζει πραγματικά περισσότερο."
+      },
+      "example": {
+        "en": "In 1997 IBM's Deep Blue beat world chess champion Garry Kasparov. In 2016 Google DeepMind's AlphaGo beat Go master Lee Sedol 4 to 1, making moves that experts first called mistakes and later called brilliant. Neither machine felt anything.",
+        "el": "Το 1997 ο Deep Blue της IBM νίκησε τον παγκόσμιο πρωταθλητή σκακιού Γκάρι Κασπάροφ. Το 2016 το AlphaGo της Google DeepMind νίκησε τον μεγάλο παίκτη του Go Λι Σεντόλ με 4-1, με κινήσεις που οι ειδικοί αρχικά τις είπαν λάθη και μετά ιδιοφυείς. Καμία από τις δύο μηχανές δεν ένιωθε τίποτα."
+      },
+      "apply": {
+        "en": "Split your work into two lists: tasks that need only intelligence (layouts, code, first-draft copy) and tasks that need a feeling human (trust on a cold call, calming an angry client, reading a doctor's taste). Hand the first list to AI and spend your hours on the second.",
+        "el": "Χώρισε τη δουλειά σου σε δύο λίστες: δουλειές που θέλουν μόνο νοημοσύνη (διάταξη, κώδικας, πρώτα κείμενα) και δουλειές που θέλουν άνθρωπο που νιώθει (εμπιστοσύνη σε ένα cold call, ηρεμία σε έναν θυμωμένο πελάτη, κατανόηση του γούστου ενός γιατρού). Δώσε την πρώτη στο AI και βάλε τις ώρες σου στη δεύτερη."
+      },
+      "check": {
+        "q": {"en": "What is the great decoupling?", "el": "Τι είναι η μεγάλη αποσύνδεση;"},
+        "options": [
+          {"en": "Intelligence separating from consciousness", "el": "Ο χωρισμός της νοημοσύνης από τη συνείδηση"},
+          {"en": "Countries cutting their trade links", "el": "Οι χώρες που κόβουν τους εμπορικούς δεσμούς τους"},
+          {"en": "People leaving social media for good", "el": "Οι άνθρωποι που φεύγουν οριστικά από τα social media"}
+        ],
+        "answer": 0,
+        "why": {"en": "Machines now do intelligent tasks without any feelings at all.", "el": "Οι μηχανές κάνουν πια έξυπνες δουλειές χωρίς κανένα συναίσθημα."}
+      }
+    },
+    {
+      "title": {"en": "The useless class", "el": "Η «άχρηστη τάξη»"},
+      "explain": {
+        "en": "Harari warns that as algorithms beat humans at more tasks, many people may become economically useless. He does not mean worthless as humans, but not needed by the economy or the army. New jobs will appear, but they may need constant retraining that many cannot manage. The danger is not only poverty but a crisis of meaning.",
+        "el": "Ο Χαράρι προειδοποιεί ότι όσο οι αλγόριθμοι ξεπερνούν τους ανθρώπους σε περισσότερες δουλειές, πολλοί άνθρωποι ίσως γίνουν οικονομικά «άχρηστοι». Δεν εννοεί χωρίς αξία ως άνθρωποι, αλλά ότι η οικονομία και ο στρατός δεν θα τους χρειάζονται. Νέες δουλειές θα εμφανιστούν, αλλά ίσως θέλουν συνεχή επανεκπαίδευση που πολλοί δεν θα αντέξουν. Ο κίνδυνος δεν είναι μόνο η φτώχεια αλλά και μια κρίση νοήματος."
+      },
+      "example": {
+        "en": "Harari cites a 2013 Oxford study by Carl Benedikt Frey and Michael Osborne, which estimated that about 47 percent of US jobs were at high risk of being automated within a couple of decades, from telemarketers and cashiers to paralegals.",
+        "el": "Ο Χαράρι αναφέρει μια μελέτη του 2013 από την Οξφόρδη, των Καρλ Μπένεντικτ Φρέι και Μάικλ Όσμπορν, που υπολόγισε ότι περίπου το 47 τοις εκατό των θέσεων εργασίας στις ΗΠΑ κινδύνευαν σοβαρά να αυτοματοποιηθούν μέσα σε δύο περίπου δεκαετίες, από τηλεπωλητές και ταμίες ως βοηθούς δικηγόρων."
+      },
+      "apply": {
+        "en": "Protect yourself and your team by learning every month. When you hire, train people in what AI does badly: real conversations, sales calls, client care. And give each person a clear role they are proud of, not just tasks a machine could do.",
+        "el": "Προστάτευσε τον εαυτό σου και την ομάδα σου μαθαίνοντας κάθε μήνα. Όταν προσλαμβάνεις, εκπαίδευσε τους ανθρώπους σε ό,τι το AI κάνει άσχημα: πραγματικές συζητήσεις, τηλεφωνικές πωλήσεις, φροντίδα πελατών. Και δώσε σε καθέναν έναν σαφή ρόλο που να τον κάνει περήφανο, όχι απλώς δουλειές που θα έκανε μια μηχανή."
+      },
+      "check": {
+        "q": {"en": "What does Harari mean by a useless class?", "el": "Τι εννοεί ο Χαράρι με την «άχρηστη τάξη»;"},
+        "options": [
+          {"en": "People who have no value as human beings", "el": "Ανθρώπους χωρίς καμία αξία ως ανθρώπινα όντα"},
+          {"en": "People the economy no longer needs", "el": "Ανθρώπους που η οικονομία δεν χρειάζεται πια"},
+          {"en": "People who refuse to use technology", "el": "Ανθρώπους που αρνούνται να χρησιμοποιούν τεχνολογία"}
+        ],
+        "answer": 1,
+        "why": {"en": "He means economically unneeded, not worthless; that is why he calls it a danger.", "el": "Εννοεί οικονομικά περιττούς, όχι άνευ αξίας· γι' αυτό το βλέπει ως κίνδυνο."}
+      }
+    },
+    {
+      "title": {"en": "Algorithms that know you better", "el": "Αλγόριθμοι που σε ξέρουν καλύτερα"},
+      "explain": {
+        "en": "Once algorithms know us better than we know ourselves, authority will shift from our feelings to them. People will ask an app whom to date, which job to take and what is wrong with their health, and they will follow the answer because it works better. Liberalism may fall not through revolution but through convenience.",
+        "el": "Όταν οι αλγόριθμοι θα μας ξέρουν καλύτερα απ' όσο ξέρουμε εμείς τον εαυτό μας, η εξουσία θα περάσει από τα συναισθήματά μας σε αυτούς. Ο κόσμος θα ρωτά μια εφαρμογή με ποιον να βγει, ποια δουλειά να πάρει και τι έχει η υγεία του, και θα ακολουθεί την απάντηση επειδή δουλεύει καλύτερα. Ο φιλελευθερισμός ίσως πέσει όχι από επανάσταση, αλλά από ευκολία."
+      },
+      "example": {
+        "en": "In a 2015 study, researchers including Michal Kosinski used people's Facebook likes to predict their personality. With about 70 likes the computer judged a person better than their friends did, and with about 300 likes better than their own spouse.",
+        "el": "Σε μια μελέτη του 2015, ερευνητές ανάμεσά τους ο Μιχάλ Κοσίνσκι χρησιμοποίησαν τα likes των ανθρώπων στο Facebook για να προβλέψουν την προσωπικότητά τους. Με περίπου 70 likes ο υπολογιστής έκρινε κάποιον καλύτερα από τους φίλους του, και με περίπου 300 likes καλύτερα ακόμη κι από τον σύζυγο ή τη σύζυγό του."
+      },
+      "apply": {
+        "en": "Use this power honestly. In Meta ads, let the algorithm find doctors with broad targeting and strong, true creative, rather than hand-picking narrow audiences. And on client sites, load tracking only after the visitor accepts cookies, as the law requires.",
+        "el": "Χρησιμοποίησε αυτή τη δύναμη τίμια. Στις διαφημίσεις της Meta, άφησε τον αλγόριθμο να βρει τους γιατρούς με ευρεία στόχευση και δυνατό, αληθινό δημιουργικό, αντί να διαλέγεις με το χέρι στενά κοινά. Και στις σελίδες των πελατών, φόρτωνε εργαλεία παρακολούθησης μόνο αφού ο επισκέπτης αποδεχτεί τα cookies, όπως ορίζει ο νόμος."
+      },
+      "check": {
+        "q": {"en": "How does Harari think liberalism might end?", "el": "Πώς πιστεύει ο Χαράρι ότι μπορεί να τελειώσει ο φιλελευθερισμός;"},
+        "options": [
+          {"en": "Through a violent revolution against democracy", "el": "Με μια βίαιη επανάσταση κατά της δημοκρατίας"},
+          {"en": "Through a return to old religions", "el": "Με μια επιστροφή στις παλιές θρησκείες"},
+          {"en": "Through people trusting algorithms because it is easier", "el": "Με τους ανθρώπους να εμπιστεύονται τους αλγορίθμους επειδή είναι πιο εύκολο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Convenience, not force, moves authority from our feelings to the algorithms.", "el": "Η ευκολία, όχι η βία, μεταφέρει την εξουσία από τα συναισθήματά μας στους αλγορίθμους."}
+      }
+    },
+    {
+      "title": {"en": "Techno-humanism: upgrade the mind", "el": "Τεχνοανθρωπισμός: αναβάθμισε τον νου"},
+      "explain": {
+        "en": "Harari describes two new techno-religions. The first, techno-humanism, keeps humanist values but says Homo sapiens has run its course: we should use technology to upgrade our minds and bodies. The risk is that we upgrade what the system needs, like attention and discipline, and downgrade what it does not, like dreams and deep feelings, without noticing what we lose.",
+        "el": "Ο Χαράρι περιγράφει δύο νέες «τεχνοθρησκείες». Η πρώτη, ο τεχνοανθρωπισμός, κρατά τις ανθρωπιστικές αξίες αλλά λέει ότι ο Homo sapiens έκανε τον κύκλο του: πρέπει να χρησιμοποιήσουμε την τεχνολογία για να αναβαθμίσουμε νου και σώμα. Ο κίνδυνος είναι να αναβαθμίσουμε ό,τι χρειάζεται το σύστημα, όπως προσοχή και πειθαρχία, και να υποβαθμίσουμε ό,τι δεν χρειάζεται, όπως τα όνειρα και τα βαθιά συναισθήματα, χωρίς να καταλάβουμε τι χάνουμε."
+      },
+      "example": {
+        "en": "Cochlear implants already turn sound into electrical signals sent straight to the hearing nerve, letting hundreds of thousands of deaf people hear. Techno-humanists see such medical tools as first steps toward upgrading healthy minds as well.",
+        "el": "Τα κοχλιακά εμφυτεύματα μετατρέπουν ήδη τον ήχο σε ηλεκτρικά σήματα που πηγαίνουν κατευθείαν στο ακουστικό νεύρο, και έτσι εκατοντάδες χιλιάδες κωφοί άνθρωποι ακούνε. Οι τεχνοανθρωπιστές βλέπουν τέτοια ιατρικά εργαλεία ως πρώτα βήματα για να αναβαθμίσουμε και υγιή μυαλά."
+      },
+      "apply": {
+        "en": "Before you add a new tool or habit that boosts productivity, ask what it takes away: deep thinking, sleep, time with people. Keep two evenings a week completely free of work apps, and notice what ideas come back.",
+        "el": "Πριν προσθέσεις ένα νέο εργαλείο ή μια συνήθεια που ανεβάζει την παραγωγικότητα, ρώτα τι σου παίρνει: βαθιά σκέψη, ύπνο, χρόνο με ανθρώπους. Κράτα δύο βράδια την εβδομάδα εντελώς χωρίς εφαρμογές δουλειάς και πρόσεξε ποιες ιδέες επιστρέφουν."
+      },
+      "check": {
+        "q": {"en": "What is the main risk of techno-humanism, according to Harari?", "el": "Ποιος είναι ο βασικός κίνδυνος του τεχνοανθρωπισμού, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "Upgrading useful skills while losing deeper human abilities", "el": "Να αναβαθμίσουμε χρήσιμες ικανότητες και να χάσουμε βαθύτερες ανθρώπινες"},
+          {"en": "That the technology will never work at all", "el": "Ότι η τεχνολογία δεν θα δουλέψει ποτέ"},
+          {"en": "That it will be too cheap for companies", "el": "Ότι θα είναι πολύ φθηνή για τις εταιρείες"}
+        ],
+        "answer": 0,
+        "why": {"en": "We may sharpen what the system needs and lose what it does not, without noticing.", "el": "Ίσως ακονίσουμε ό,τι χρειάζεται το σύστημα και χάσουμε ό,τι δεν χρειάζεται, χωρίς να το καταλάβουμε."}
+      }
+    },
+    {
+      "title": {"en": "Dataism: the data religion", "el": "Νταταϊσμός: η θρησκεία των δεδομένων"},
+      "explain": {
+        "en": "The second techno-religion is Dataism. It says the universe is a flow of data and organisms are algorithms, so the value of anything is how much it adds to data processing. Its commandment: record, upload, share. Humans may end up as small chips in a giant system. Harari closes with three open questions: is life just data processing, what is worth more, intelligence or consciousness, and what happens when algorithms know us best?",
+        "el": "Η δεύτερη τεχνοθρησκεία είναι ο νταταϊσμός. Λέει ότι το σύμπαν είναι ροή δεδομένων και οι οργανισμοί αλγόριθμοι, άρα η αξία κάθε πράγματος είναι πόσο προσθέτει στην επεξεργασία δεδομένων. Η εντολή του: κατέγραψε, ανέβασε, μοιράσου. Ο άνθρωπος ίσως καταλήξει ένα μικρό τσιπ σε ένα γιγάντιο σύστημα. Ο Χαράρι κλείνει με τρία ανοιχτά ερωτήματα: είναι η ζωή απλώς επεξεργασία δεδομένων, τι αξίζει περισσότερο, η νοημοσύνη ή η συνείδηση, και τι γίνεται όταν οι αλγόριθμοι μας ξέρουν καλύτερα;"
+      },
+      "example": {
+        "en": "Harari reads the Cold War through Dataism. The Soviet Union processed information centrally, with planners in Moscow setting prices and output. Capitalism let millions of buyers and sellers process data freely through prices. The distributed system worked better, so capitalism won.",
+        "el": "Ο Χαράρι διαβάζει τον Ψυχρό Πόλεμο με το μάτι του νταταϊσμού. Η Σοβιετική Ένωση επεξεργαζόταν την πληροφορία κεντρικά, με σχεδιαστές στη Μόσχα να ορίζουν τιμές και παραγωγή. Ο καπιταλισμός άφηνε εκατομμύρια αγοραστές και πωλητές να επεξεργάζονται ελεύθερα δεδομένα μέσα από τις τιμές. Το κατανεμημένο σύστημα δούλεψε καλύτερα, γι' αυτό νίκησε ο καπιταλισμός."
+      },
+      "apply": {
+        "en": "Let data flow inside your agency: every lead, call, payment and change request in one CRM, not in your head or scattered chats. But remember the open question: use the data to serve real people, and keep asking what the numbers miss.",
+        "el": "Άφησε τα δεδομένα να ρέουν μέσα στην επιχείρηση: κάθε lead, τηλεφώνημα, πληρωμή και αίτημα αλλαγής σε ένα CRM, όχι στο μυαλό σου ή σε σκόρπια chats. Θυμήσου όμως το ανοιχτό ερώτημα: χρησιμοποίησε τα δεδομένα για να υπηρετείς πραγματικούς ανθρώπους και ρώτα συνέχεια τι χάνουν οι αριθμοί."
+      },
+      "check": {
+        "q": {"en": "What is the supreme value in Dataism?", "el": "Ποια είναι η ανώτατη αξία στον νταταϊσμό;"},
+        "options": [
+          {"en": "The feelings of each individual", "el": "Τα συναισθήματα κάθε ατόμου"},
+          {"en": "The free flow of information", "el": "Η ελεύθερη ροή της πληροφορίας"},
+          {"en": "The will of a creator god", "el": "Το θέλημα ενός θεού δημιουργού"}
+        ],
+        "answer": 1,
+        "why": {"en": "Dataism values things by how much they add to data processing and flow.", "el": "Ο νταταϊσμός μετρά την αξία των πραγμάτων με το πόσο προσθέτουν στην επεξεργασία και τη ροή δεδομένων."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A dentist on a cold call sounds interested but scared of hidden costs. What do you do?", "el": "Ένας οδοντίατρος σε cold call ακούγεται ενδιαφερόμενος αλλά φοβάται κρυφά κόστη. Τι κάνεις;"},
+      "options": [
+        {"en": "Talk longer about the technology behind your sites", "el": "Μιλάς περισσότερο για την τεχνολογία πίσω από τις σελίδες σου"},
+        {"en": "Give his fast risk-calculation the facts: 0€ build, clear yearly cost, a colleague's site", "el": "Δίνεις στον γρήγορο υπολογισμό ρίσκου του τα στοιχεία: κατασκευή 0€, σαφές ετήσιο κόστος, σελίδα συναδέλφου"},
+        {"en": "Push him to decide immediately", "el": "Τον πιέζεις να αποφασίσει αμέσως"}
+      ],
+      "answer": 1,
+      "why": {"en": "Feelings are fast calculations; lower the fear and raise trust with real inputs.", "el": "Τα συναισθήματα είναι γρήγοροι υπολογισμοί· μείωσε τον φόβο και ανέβασε την εμπιστοσύνη με πραγματικά στοιχεία."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "Your CRM says 40 clients paid this month, but the bank shows less. What do you trust?", "el": "Το CRM σου λέει ότι πλήρωσαν 40 πελάτες αυτόν τον μήνα, αλλά η τράπεζα δείχνει λιγότερα. Τι εμπιστεύεσαι;"},
+      "options": [
+        {"en": "The bank, and you fix the CRM to match reality", "el": "Την τράπεζα, και διορθώνεις το CRM ώστε να συμφωνεί με την πραγματικότητα"},
+        {"en": "The CRM, since it is your official record", "el": "Το CRM, αφού είναι η επίσημη καταγραφή σου"},
+        {"en": "Neither; you ignore it until year end", "el": "Κανένα· το αγνοείς μέχρι το τέλος της χρονιάς"}
+      ],
+      "answer": 0,
+      "why": {"en": "Never let the paper story overrule reality, as in the Great Leap Forward.", "el": "Μην αφήνεις ποτέ την ιστορία στο χαρτί να υπερισχύει της πραγματικότητας, όπως στο Μεγάλο Άλμα."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "AI can now write most of your site code. How do you spend the freed hours?", "el": "Το AI γράφει πια το μεγαλύτερο μέρος του κώδικα. Πώς ξοδεύεις τις ώρες που ελευθερώθηκαν;"},
+      "options": [
+        {"en": "On more coding by hand to compete with the AI", "el": "Σε περισσότερο κώδικα με το χέρι για να ανταγωνιστείς το AI"},
+        {"en": "On scrolling, since the work does itself now", "el": "Σε scrolling, αφού η δουλειά γίνεται πια μόνη της"},
+        {"en": "On human work: calls, trust, taste and client care", "el": "Σε ανθρώπινη δουλειά: τηλεφωνήματα, εμπιστοσύνη, γούστο και φροντίδα πελατών"}
+      ],
+      "answer": 2,
+      "why": {"en": "With intelligence decoupled from consciousness, put human time where feeling matters.", "el": "Με τη νοημοσύνη αποσυνδεδεμένη από τη συνείδηση, βάλε τον ανθρώπινο χρόνο εκεί που μετρά το συναίσθημα."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "You are about to close a big site project. How do you make the client remember it well?", "el": "Είσαι έτοιμος να κλείσεις ένα μεγάλο έργο. Πώς κάνεις τον πελάτη να το θυμάται καλά;"},
+      "options": [
+        {"en": "Send the final invoice by email and move on", "el": "Στέλνεις το τελικό τιμολόγιο με email και προχωράς"},
+        {"en": "End on a high: launch call, clear handover and thanks", "el": "Κλείνεις ψηλά: κλήση για το live, καθαρή παράδοση και ευχαριστώ"},
+        {"en": "Add extra pages at the end to look generous", "el": "Προσθέτεις επιπλέον σελίδες στο τέλος για να φανείς γενναιόδωρος"}
+      ],
+      "answer": 1,
+      "why": {"en": "The narrating self remembers peaks and endings, so design a good ending.", "el": "Ο εαυτός που αφηγείται θυμάται κορυφώσεις και τέλη, γι' αυτό σχεδίασε ένα καλό τέλος."},
+      "idea": 14
+    },
+    {
+      "q": {"en": "You hit 250 sites but feel no lasting joy. What does Harari's view suggest?", "el": "Έφτασες τις 250 σελίδες αλλά δεν νιώθεις διαρκή χαρά. Τι προτείνει η ματιά του Χαράρι;"},
+      "options": [
+        {"en": "Pleasure fades by design; build a good normal week instead", "el": "Η ευχαρίστηση σβήνει από τη φύση της· χτίσε μια καλή κανονική εβδομάδα"},
+        {"en": "Set a bigger target so the joy finally lasts", "el": "Βάλε μεγαλύτερο στόχο για να κρατήσει επιτέλους η χαρά"},
+        {"en": "Something is wrong with you personally", "el": "Κάτι πάει στραβά προσωπικά με σένα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Evolution makes satisfaction short; chasing bigger peaks will not change that.", "el": "Η εξέλιξη κάνει την ικανοποίηση σύντομη· το κυνήγι μεγαλύτερων κορυφών δεν το αλλάζει."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "A tool offers to track visitors on client sites from the first second, before any consent. What do you do?", "el": "Ένα εργαλείο προσφέρεται να παρακολουθεί τους επισκέπτες στις σελίδες των πελατών από το πρώτο δευτερόλεπτο, πριν από κάθε συγκατάθεση. Τι κάνεις;"},
+      "options": [
+        {"en": "Use it, because more data is always better", "el": "Το χρησιμοποιείς, γιατί τα περισσότερα δεδομένα είναι πάντα καλύτερα"},
+        {"en": "Use it only on sites of clients who will not notice", "el": "Το βάζεις μόνο σε σελίδες πελατών που δεν θα το προσέξουν"},
+        {"en": "Load tracking only after the visitor accepts", "el": "Φορτώνεις την παρακολούθηση μόνο αφού ο επισκέπτης αποδεχτεί"}
+      ],
+      "answer": 2,
+      "why": {"en": "Algorithms that know people well are powerful; use that power honestly and within the law.", "el": "Οι αλγόριθμοι που ξέρουν καλά τους ανθρώπους είναι δυνατοί· χρησιμοποίησε αυτή τη δύναμη τίμια και νόμιμα."},
+      "idea": 17
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Harari says famine, plague and war have completely disappeared.", "el": "Ο Χαράρι λέει ότι η πείνα, οι επιδημίες και ο πόλεμος εξαφανίστηκαν εντελώς."}, "answer": false, "why": {"en": "He says they are now manageable, not gone.", "el": "Λέει ότι έγιναν διαχειρίσιμα, όχι ότι χάθηκαν."}},
+    {"s": {"en": "The new human agenda includes immortality, happiness and divinity.", "el": "Η νέα ανθρώπινη ατζέντα περιλαμβάνει αθανασία, ευτυχία και θεότητα."}, "answer": true, "why": {"en": "These are the three new goals Harari expects humans to chase.", "el": "Αυτοί είναι οι τρεις νέοι στόχοι που περιμένει ο Χαράρι να κυνηγήσει ο άνθρωπος."}},
+    {"s": {"en": "Money and companies are intersubjective: they exist because many believe in them.", "el": "Το χρήμα και οι εταιρείες είναι διυποκειμενικά: υπάρχουν επειδή πολλοί πιστεύουν σε αυτά."}, "answer": true, "why": {"en": "They are shared stories, not physical facts like gravity.", "el": "Είναι κοινές ιστορίες, όχι φυσικά γεγονότα όπως η βαρύτητα."}},
+    {"s": {"en": "In humanism, the highest authority is the scripture of a god.", "el": "Στον ανθρωπισμό, ανώτατη αυθεντία είναι το ιερό κείμενο ενός θεού."}, "answer": false, "why": {"en": "Humanism makes human feelings and experiences the highest authority.", "el": "Ο ανθρωπισμός κάνει ανώτατη αυθεντία τα ανθρώπινα συναισθήματα και βιώματα."}},
+    {"s": {"en": "In the great decoupling, machines become intelligent without being conscious.", "el": "Στη μεγάλη αποσύνδεση, οι μηχανές γίνονται έξυπνες χωρίς να έχουν συνείδηση."}, "answer": true, "why": {"en": "Intelligence and consciousness, once together, now separate.", "el": "Η νοημοσύνη και η συνείδηση, που πήγαιναν μαζί, τώρα χωρίζουν."}},
+    {"s": {"en": "Harari presents his scenarios as firm predictions of what will happen.", "el": "Ο Χαράρι παρουσιάζει τα σενάριά του ως σίγουρες προβλέψεις."}, "answer": false, "why": {"en": "He calls them possibilities meant to widen our thinking, not prophecies.", "el": "Τα λέει πιθανότητες για να ανοίξει η σκέψη μας, όχι προφητείες."}},
+    {"s": {"en": "In Dataism, the value of anything depends on how much it adds to data flow.", "el": "Στον νταταϊσμό, η αξία κάθε πράγματος εξαρτάται από το πόσο προσθέτει στη ροή δεδομένων."}, "answer": true, "why": {"en": "Record, upload, share: data flow is the supreme value.", "el": "Κατέγραψε, ανέβασε, μοιράσου: η ροή των δεδομένων είναι η ανώτατη αξία."}},
+    {"s": {"en": "In Kahneman's cold-water test, people preferred the shorter trial.", "el": "Στο τεστ του Κάνεμαν με το κρύο νερό, οι συμμετέχοντες προτίμησαν τη συντομότερη δοκιμή."}, "answer": false, "why": {"en": "Most chose the longer one because its end was milder.", "el": "Οι περισσότεροι διάλεξαν τη μεγαλύτερη, επειδή το τέλος της ήταν πιο ήπιο."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Homo Deus", "el": "Homo Deus (θεάνθρωπος)"}, "b": {"en": "Humans upgraded with godlike powers", "el": "Άνθρωποι αναβαθμισμένοι με θεϊκές δυνάμεις"}},
+    {"a": {"en": "Intersubjective", "el": "Διυποκειμενικό"}, "b": {"en": "Real because many people believe in it", "el": "Υπαρκτό επειδή το πιστεύουν πολλοί μαζί"}},
+    {"a": {"en": "Humanism", "el": "Ανθρωπισμός"}, "b": {"en": "Human feelings as the highest authority", "el": "Τα ανθρώπινα συναισθήματα ως ανώτατη αυθεντία"}},
+    {"a": {"en": "Great decoupling", "el": "Μεγάλη αποσύνδεση"}, "b": {"en": "Intelligence separating from consciousness", "el": "Η νοημοσύνη χωρίζει από τη συνείδηση"}},
+    {"a": {"en": "Useless class", "el": "Άχρηστη τάξη"}, "b": {"en": "People the economy no longer needs", "el": "Άνθρωποι που η οικονομία δεν χρειάζεται πια"}},
+    {"a": {"en": "Dataism", "el": "Νταταϊσμός"}, "b": {"en": "Belief that data flow is the supreme value", "el": "Η πίστη ότι η ροή δεδομένων είναι η ύψιστη αξία"}}
+  ],
+  "missions": [
+    {"en": "Split this week's work into two columns, AI can do it and needs a feeling human, and move one task to the AI column.", "el": "Χώρισε τη δουλειά της εβδομάδας σε δύο στήλες, «το κάνει το AI» και «θέλει άνθρωπο που νιώθει», και μετάφερε μία δουλειά στη στήλη του AI."},
+    {"en": "Compare ten «paid» entries in your CRM with your bank account and fix any that do not match.", "el": "Σύγκρινε δέκα εγγραφές «πληρώθηκε» στο CRM με τον τραπεζικό σου λογαριασμό και διόρθωσε όσες δεν ταιριάζουν."},
+    {"en": "Find one «this is how it is done» habit in your market and write where it came from and whether you should keep it.", "el": "Βρες μία συνήθεια «έτσι γίνεται» στην αγορά σου και γράψε από πού ήρθε και αν πρέπει να την κρατήσεις."},
+    {"en": "Write a short, warm handover message to use at the end of every project, so clients remember a good ending.", "el": "Γράψε ένα σύντομο, ζεστό μήνυμα παράδοσης για το τέλος κάθε έργου, ώστε οι πελάτες να θυμούνται ένα ωραίο κλείσιμο."},
+    {"en": "Spend one evening this week with no work apps at all and note one idea that came to you.", "el": "Πέρασε ένα βράδυ αυτή την εβδομάδα χωρίς καμία εφαρμογή δουλειάς και σημείωσε μία ιδέα που σου ήρθε."}
+  ],
+  "mantra": {"en": "Let machines calculate; I keep the feeling, the meaning and the trust.", "el": "Οι μηχανές ας υπολογίζουν· εγώ κρατώ το συναίσθημα, το νόημα και την εμπιστοσύνη."},
+  "careful": {
+    "en": "Harari himself says these are possibilities, not predictions. Critics dispute several points. COVID-19 and the war in Ukraine showed plague and war are far from tamed. Many biologists and philosophers reject the claim that organisms are just algorithms, and the free-will experiments he cites are read in different ways. Calling humanism and liberalism religions is contested, and the useless class is speculation. Read it as a set of sharp questions, not as a map of the future.",
+    "el": "Ο ίδιος ο Χαράρι λέει ότι αυτά είναι πιθανότητες, όχι προβλέψεις. Οι επικριτές αμφισβητούν αρκετά σημεία. Ο COVID-19 και ο πόλεμος στην Ουκρανία έδειξαν ότι οι επιδημίες και ο πόλεμος απέχουν πολύ από το να έχουν δαμαστεί. Πολλοί βιολόγοι και φιλόσοφοι απορρίπτουν την ιδέα ότι οι οργανισμοί είναι απλώς αλγόριθμοι, και τα πειράματα για την ελεύθερη βούληση που αναφέρει ερμηνεύονται με διαφορετικούς τρόπους. Το να λέγονται θρησκείες ο ανθρωπισμός και ο φιλελευθερισμός είναι αμφιλεγόμενο, και η «άχρηστη τάξη» είναι εικασία. Διάβασέ το ως σύνολο από κοφτερά ερωτήματα, όχι ως χάρτη του μέλλοντος."
+  },
+  "connects": [
+    {"book": "sapiens", "note": {"en": "Sapiens tells how shared stories built our past; Homo Deus asks what happens when new stories, like Dataism, take over our future.", "el": "Το Sapiens λέει πώς οι κοινές ιστορίες έχτισαν το παρελθόν μας· το Homo Deus ρωτά τι γίνεται όταν νέες ιστορίες, όπως ο νταταϊσμός, πάρουν το μέλλον μας."}},
+    {"book": "zero-to-one", "note": {"en": "Thiel is an optimist who funds efforts to beat ageing; Harari describes the same push for immortality, but with much more worry about who wins and who is left behind.", "el": "Ο Τιλ είναι αισιόδοξος και χρηματοδοτεί προσπάθειες κατά της γήρανσης· ο Χαράρι περιγράφει το ίδιο κυνήγι της αθανασίας, αλλά με πολύ περισσότερη ανησυχία για το ποιος κερδίζει και ποιος μένει πίσω."}},
+    {"book": "mans-search-for-meaning", "note": {"en": "Harari says modern people traded meaning for power; Frankl shows that meaning is still what keeps a human being alive, even in the worst conditions.", "el": "Ο Χαράρι λέει ότι ο σύγχρονος άνθρωπος αντάλλαξε το νόημα με τη δύναμη· ο Φράνκλ δείχνει ότι το νόημα είναι ακόμη αυτό που κρατά τον άνθρωπο ζωντανό, ακόμη και στις χειρότερες συνθήκες."}}
+  ]
+}

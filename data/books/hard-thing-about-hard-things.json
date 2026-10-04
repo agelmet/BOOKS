@@ -1,0 +1,626 @@
+{
+  "id": "hard-thing-about-hard-things",
+  "title": {"en": "The Hard Thing About Hard Things", "el": "Το δύσκολο με τα δύσκολα"},
+  "author": "Ben Horowitz",
+  "authorEl": "Μπεν Χόροβιτς",
+  "year": 2014,
+  "shelf": "business",
+  "skills": {"leadership": 3, "strategy": 2, "mindset": 2},
+  "oneLine": {
+    "en": "Running a company is mostly about the hard moments with no right answer; you get through them with honesty, courage and clear rules, not with recipes.",
+    "el": "Το να τρέχεις μια εταιρεία είναι κυρίως οι δύσκολες στιγμές χωρίς σωστή απάντηση· τις περνάς με ειλικρίνεια, θάρρος και καθαρούς κανόνες, όχι με συνταγές."
+  },
+  "story": {
+    "en": "Ben Horowitz co-founded Loudcloud in 1999, took it public in the 2001 crash, nearly lost it, turned it into the software company Opsware and sold it to HP in 2007 for 1.6 billion dollars. He then co-founded the venture firm Andreessen Horowitz. The book grew from his blog. Founders still read it because it talks honestly about layoffs, firing friends and fear, which most business books skip.",
+    "el": "Ο Μπεν Χόροβιτς ίδρυσε μαζί με άλλους τη Loudcloud το 1999, την έβγαλε στο χρηματιστήριο μέσα στο κραχ του 2001, παραλίγο να τη χάσει, τη μετέτρεψε στην εταιρεία λογισμικού Opsware και την πούλησε στην HP το 2007 για 1,6 δισ. δολάρια. Μετά ίδρυσε με τον Marc Andreessen το επενδυτικό fund Andreessen Horowitz. Το βιβλίο γεννήθηκε από το blog του. Οι ιδρυτές το διαβάζουν ακόμη γιατί μιλά τίμια για απολύσεις, για φίλους που πρέπει να απομακρύνεις και για τον φόβο, θέματα που τα περισσότερα βιβλία προσπερνούν."
+  },
+  "forYou": {
+    "en": "You are moving from doing everything yourself to leading a small team. Soon you will face the hard things: a helper who is not working out, a month with no cash, a big decision about a side project. This book does not give you a recipe, but it shows how a real founder handled these moments, so you are ready before they come.",
+    "el": "Περνάς από το να κάνεις τα πάντα μόνος σου στο να ηγείσαι μιας μικρής ομάδας. Σύντομα θα έρθουν τα δύσκολα: ένας συνεργάτης που δεν αποδίδει, ένας μήνας χωρίς ρευστό, μια μεγάλη απόφαση για ένα side project. Το βιβλίο δεν σου δίνει συνταγή, σου δείχνει όμως πώς τα χειρίστηκε ένας πραγματικός ιδρυτής, ώστε να είσαι έτοιμος πριν σου συμβούν."
+  },
+  "ideas": [
+    {
+      "title": {"en": "No recipe for hard things", "el": "Για τα δύσκολα δεν υπάρχει συνταγή"},
+      "explain": {
+        "en": "Most management books explain how to do things right when things go well. Horowitz says the hard part is different: you must let a friend go, the money is running out, the market changes under you. No formula solves these. What helps is the experience of people who lived through similar moments, and the honesty to face the problem instead of hunting for a trick.",
+        "el": "Τα περισσότερα βιβλία μάνατζμεντ εξηγούν πώς κάνεις τα πράγματα σωστά όταν όλα πάνε καλά. Ο Χόροβιτς λέει ότι τα δύσκολα είναι άλλο πράγμα: πρέπει να απομακρύνεις έναν φίλο, τα χρήματα τελειώνουν, η αγορά αλλάζει κάτω από τα πόδια σου. Καμία φόρμουλα δεν τα λύνει. Βοηθά η εμπειρία όσων πέρασαν κάτι παρόμοιο και η ειλικρίνεια να κοιτάξεις το πρόβλημα κατάματα, αντί να ψάχνεις κόλπο."
+      },
+      "example": {
+        "en": "Horowitz started writing these lessons as blog posts while running Andreessen Horowitz. Founders kept asking him the same questions: how to lay people off, when to sell, how to replace an executive. The book collects his honest answers, drawn from his years at Loudcloud and Opsware.",
+        "el": "Ο Χόροβιτς άρχισε να γράφει αυτά τα μαθήματα σε blog, ενώ έτρεχε την Andreessen Horowitz. Οι ιδρυτές τού έκαναν συνέχεια τις ίδιες ερωτήσεις: πώς κάνεις απολύσεις, πότε πουλάς, πώς αντικαθιστάς ένα στέλεχος. Το βιβλίο μαζεύει τις ειλικρινείς απαντήσεις του, βγαλμένες από τα χρόνια του στη Loudcloud και στην Opsware."
+      },
+      "apply": {
+        "en": "Write this week's hardest decision in one sentence, for example a client who never pays or a helper who is not working out. Stop waiting for the perfect answer. List two options, ask one person who has faced the same thing, and decide by Friday.",
+        "el": "Γράψε σε μία πρόταση την πιο δύσκολη απόφαση της εβδομάδας, για παράδειγμα έναν πελάτη που δεν πληρώνει ποτέ ή έναν συνεργάτη που δεν αποδίδει. Σταμάτα να περιμένεις την τέλεια απάντηση. Γράψε δύο επιλογές, ρώτα έναν άνθρωπο που έχει περάσει το ίδιο και αποφάσισε ως την Παρασκευή."
+      },
+      "check": {
+        "q": {"en": "What does Horowitz say about the hardest business problems?", "el": "Τι λέει ο Χόροβιτς για τα πιο δύσκολα προβλήματα μιας επιχείρησης;"},
+        "options": [
+          {"en": "A good method solves them every time", "el": "Μια καλή μέθοδος τα λύνει κάθε φορά"},
+          {"en": "They have no formula; you face them with experience and honesty", "el": "Δεν έχουν φόρμουλα· τα αντιμετωπίζεις με εμπειρία και ειλικρίνεια"},
+          {"en": "Only very large companies ever have them", "el": "Τα έχουν μόνο οι πολύ μεγάλες εταιρείες"}
+        ],
+        "answer": 1,
+        "why": {"en": "His whole point is that hard things have no recipe, only lessons from people who faced them.", "el": "Όλη η ουσία του είναι ότι τα δύσκολα δεν έχουν συνταγή, μόνο μαθήματα από όσους τα πέρασαν."}
+      }
+    },
+    {
+      "title": {"en": "The Struggle", "el": "Ο Αγώνας"},
+      "explain": {
+        "en": "The Struggle is when you wonder why you started, when everyone seems to doubt you and you begin to doubt yourself. Every founder goes through it, even the famous ones. Horowitz's advice: do not carry it all alone, share the load with people who can help; remember there is usually another move; and stay in the game long enough, because luck often comes to those still standing.",
+        "el": "Ο Αγώνας είναι η στιγμή που αναρωτιέσαι γιατί ξεκίνησες, που όλοι μοιάζουν να σε αμφισβητούν κι αρχίζεις να αμφισβητείς κι εσύ τον εαυτό σου. Τον περνά κάθε ιδρυτής, ακόμη και οι διάσημοι. Η συμβουλή του Χόροβιτς: μην τα σηκώνεις όλα μόνος, μοίρασε το βάρος με όσους μπορούν να βοηθήσουν· θυμήσου ότι συνήθως υπάρχει κι άλλη κίνηση· και μείνε στο παιχνίδι αρκετά, γιατί η τύχη συχνά έρχεται σε όσους είναι ακόμη όρθιοι."
+      },
+      "example": {
+        "en": "In 2001 the dot-com crash hit Loudcloud just as it needed money to survive. Horowitz describes months of sleepless nights and jokes that he slept like a baby: waking up every two hours and crying. He still kept the company alive through the worst year of his working life.",
+        "el": "Το 2001 το κραχ των dot-com χτύπησε τη Loudcloud ακριβώς όταν χρειαζόταν χρήματα για να επιβιώσει. Ο Χόροβιτς περιγράφει μήνες χωρίς ύπνο και αστειεύεται ότι κοιμόταν σαν μωρό: ξυπνούσε κάθε δύο ώρες κι έκλαιγε. Παρ' όλα αυτά κράτησε την εταιρεία ζωντανή στη χειρότερη χρονιά της καριέρας του."
+      },
+      "apply": {
+        "en": "Next time a bad week makes you want to quit, write your three biggest problems on paper and send them to one person you trust, someone who also runs a business. Then choose one small action for each problem today. Moving, even slowly, breaks the feeling of being stuck.",
+        "el": "Την επόμενη φορά που μια κακή εβδομάδα σε κάνει να θέλεις να τα παρατήσεις, γράψε σε χαρτί τα τρία μεγαλύτερα προβλήματα και στείλ' τα σε έναν άνθρωπο που εμπιστεύεσαι και έχει κι αυτός επιχείρηση. Μετά διάλεξε μία μικρή κίνηση για κάθε πρόβλημα, σήμερα. Η κίνηση, έστω και αργή, σπάει την αίσθηση ότι κόλλησες."
+      },
+      "check": {
+        "q": {"en": "What does Horowitz advise during the Struggle?", "el": "Τι συμβουλεύει ο Χόροβιτς στη διάρκεια του Αγώνα;"},
+        "options": [
+          {"en": "Share the load and stay in the game long enough", "el": "Να μοιράζεσαι το βάρος και να μένεις αρκετά στο παιχνίδι"},
+          {"en": "Hide your doubts from everyone so nobody panics", "el": "Να κρύβεις τις αμφιβολίες σου από όλους για να μην πανικοβληθεί κανείς"},
+          {"en": "Quit early, before the losses grow", "el": "Να τα παρατάς νωρίς, πριν μεγαλώσουν οι ζημιές"}
+        ],
+        "answer": 0,
+        "why": {"en": "Carrying it alone makes it heavier; persistence keeps you around for the lucky break.", "el": "Όταν τα κουβαλάς μόνος γίνονται βαρύτερα· η επιμονή σε κρατά εκεί όταν έρθει η καλή στιγμή."}
+      }
+    },
+    {
+      "title": {"en": "There is always a move", "el": "Πάντα υπάρχει μια κίνηση"},
+      "explain": {
+        "en": "When things look hopeless, the leader's job is to keep searching for the move that saves the company. Horowitz compares it to chess rather than checkers: if you look hard enough, there is usually a move. Giving up is the only sure way to lose. Creative, unusual moves often appear only after you accept that the normal ones are gone.",
+        "el": "Όταν όλα μοιάζουν χαμένα, η δουλειά του ηγέτη είναι να ψάχνει την κίνηση που θα σώσει την εταιρεία. Ο Χόροβιτς το παρομοιάζει με σκάκι και όχι με ντάμα: αν ψάξεις αρκετά, συνήθως υπάρχει κίνηση. Ο μόνος σίγουρος τρόπος να χάσεις είναι να τα παρατήσεις. Οι δημιουργικές, ασυνήθιστες κινήσεις συχνά εμφανίζονται μόνο αφού δεχτείς ότι οι συνηθισμένες τελείωσαν."
+      },
+      "example": {
+        "en": "In 2002 Loudcloud's hosting business was running out of cash. Horowitz sold that business and its customers to EDS for about 63 million dollars, kept the software his team had built to run it, and turned the company into Opsware, a software seller. Five years later HP bought Opsware for 1.6 billion dollars.",
+        "el": "Το 2002 η επιχείρηση φιλοξενίας της Loudcloud έμενε χωρίς ρευστό. Ο Χόροβιτς πούλησε αυτό το κομμάτι και τους πελάτες του στην EDS για περίπου 63 εκατ. δολάρια, κράτησε το λογισμικό που είχε φτιάξει η ομάδα του για να το τρέχει και μετέτρεψε την εταιρεία στην Opsware, που πουλούσε λογισμικό. Πέντε χρόνια μετά η HP αγόρασε την Opsware για 1,6 δισ. δολάρια."
+      },
+      "apply": {
+        "en": "If a big client leaves or your ads stop bringing calls, write ten possible moves before you decide anything, even strange ones: a new niche such as lawyers, a referral deal with an accountant, a smaller yearly plan. Pick the best two and test them for two weeks.",
+        "el": "Αν φύγει ένας μεγάλος πελάτης ή οι διαφημίσεις σταματήσουν να φέρνουν τηλέφωνα, γράψε δέκα πιθανές κινήσεις πριν αποφασίσεις οτιδήποτε, ακόμη και παράξενες: μια νέα κατηγορία πελατών όπως οι δικηγόροι, μια συμφωνία συστάσεων με έναν λογιστή, ένα μικρότερο ετήσιο πακέτο. Διάλεξε τις δύο καλύτερες και δοκίμασέ τες για δύο εβδομάδες."
+      },
+      "check": {
+        "q": {"en": "What saved Loudcloud in 2002?", "el": "Τι έσωσε τη Loudcloud το 2002;"},
+        "options": [
+          {"en": "A lucky new investor who paid off its debts", "el": "Ένας τυχερός νέος επενδυτής που ξόφλησε τα χρέη της"},
+          {"en": "Cutting prices until clients came back", "el": "Η μείωση των τιμών ώσπου να γυρίσουν οι πελάτες"},
+          {"en": "An unusual move: selling the old business and keeping the software", "el": "Μια ασυνήθιστη κίνηση: πούλησε την παλιά δουλειά και κράτησε το λογισμικό"}
+        ],
+        "answer": 2,
+        "why": {"en": "Horowitz found a move nobody expected and turned the company into Opsware.", "el": "Ο Χόροβιτς βρήκε μια κίνηση που δεν περίμενε κανείς και έκανε την εταιρεία Opsware."}
+      }
+    },
+    {
+      "title": {"en": "Nobody cares", "el": "Δεν ενδιαφέρει κανέναν"},
+      "explain": {
+        "en": "When something goes wrong, it is tempting to explain why it was not your fault: the economy, the competitor, bad luck. Horowitz's blunt lesson is that nobody cares. Investors, staff and clients do not want excuses; they want to see what you do next. Spend no energy on what could have been and all of it on what you can still do.",
+        "el": "Όταν κάτι στραβώνει, μπαίνεις στον πειρασμό να εξηγήσεις γιατί δεν φταις εσύ: η οικονομία, ο ανταγωνιστής, η κακή τύχη. Το ωμό μάθημα του Χόροβιτς είναι ότι δεν ενδιαφέρει κανέναν. Επενδυτές, ομάδα και πελάτες δεν θέλουν δικαιολογίες· θέλουν να δουν τι θα κάνεις μετά. Μη σπαταλάς ενέργεια σε ό,τι θα μπορούσε να είχε γίνει· βάλ' τη όλη σε ό,τι μπορείς ακόμη να κάνεις."
+      },
+      "example": {
+        "en": "Horowitz writes that in Loudcloud's worst months he felt the crash was deeply unfair and wanted others to see it. He learned that no one wanted the explanation, only the plan. Every hour spent feeling sorry for the company was an hour taken from saving it.",
+        "el": "Ο Χόροβιτς γράφει ότι στους χειρότερους μήνες της Loudcloud ένιωθε πως το κραχ ήταν βαθιά άδικο και ήθελε να το δουν κι οι άλλοι. Έμαθε ότι κανείς δεν ήθελε την εξήγηση, μόνο το σχέδιο. Κάθε ώρα που περνούσε λυπώντας την εταιρεία ήταν μια ώρα που έκλεβε από τη διάσωσή της."
+      },
+      "apply": {
+        "en": "When a month of cold calling goes badly, skip the story about summer, holidays or the economy. Write one line: what you will change next week. For example, call psychologists after 2 pm instead of at 10 am, or open with a site from a colleague in their own city.",
+        "el": "Όταν ένας μήνας με cold calls πάει άσχημα, άφησε στην άκρη την ιστορία για το καλοκαίρι, τις γιορτές ή την οικονομία. Γράψε μία γραμμή: τι θα αλλάξεις την επόμενη εβδομάδα. Για παράδειγμα, πάρε τους ψυχολόγους μετά τις 2 το μεσημέρι αντί για τις 10 το πρωί ή άνοιξε με το site ενός συναδέλφου τους από την ίδια πόλη."
+      },
+      "check": {
+        "q": {"en": "What does «nobody cares» mean in the book?", "el": "Τι σημαίνει στο βιβλίο το «δεν ενδιαφέρει κανέναν»;"},
+        "options": [
+          {"en": "Clients never care about the quality of your work", "el": "Οι πελάτες δεν νοιάζονται ποτέ για την ποιότητα της δουλειάς σου"},
+          {"en": "Excuses do not help; only your next action counts", "el": "Οι δικαιολογίες δεν βοηθούν· μετράει μόνο η επόμενη κίνησή σου"},
+          {"en": "You should hide your problems from everyone", "el": "Πρέπει να κρύβεις τα προβλήματά σου από όλους"}
+        ],
+        "answer": 1,
+        "why": {"en": "People judge you by what you do about the problem, not by how well you explain it.", "el": "Οι άλλοι σε κρίνουν από το τι κάνεις για το πρόβλημα, όχι από το πόσο καλά το εξηγείς."}
+      }
+    },
+    {
+      "title": {"en": "Tell it like it is", "el": "Πες τα όπως είναι"},
+      "explain": {
+        "en": "Leaders often hide bad news to keep everyone positive. Horowitz says this destroys trust: people see the problems anyway and stop believing you. Tell your team the truth, early. A problem shared with several smart people gets solved faster than one hidden in your head. And an honest leader keeps his credibility for the day he really needs it.",
+        "el": "Οι ηγέτες συχνά κρύβουν τα άσχημα νέα για να κρατήσουν όλους θετικούς. Ο Χόροβιτς λέει ότι έτσι καταστρέφεται η εμπιστοσύνη: οι άλλοι βλέπουν τα προβλήματα ούτως ή άλλως και παύουν να σε πιστεύουν. Πες στην ομάδα σου την αλήθεια, νωρίς. Ένα πρόβλημα που το μοιράζεσαι με αρκετούς έξυπνους ανθρώπους λύνεται γρηγορότερα από ένα που μένει κρυμμένο στο κεφάλι σου. Κι ένας ειλικρινής ηγέτης κρατά την αξιοπιστία του για τη μέρα που θα τη χρειαστεί πραγματικά."
+      },
+      "example": {
+        "en": "Horowitz describes the classic mistake: a CEO who answers every question with «everything is great». Staff see clients leaving and conclude he is either blind or lying. Either way they stop listening, and the best people, who have other options, leave first.",
+        "el": "Ο Χόροβιτς περιγράφει το κλασικό λάθος: έναν CEO που σε κάθε ερώτηση απαντά «όλα πάνε τέλεια». Οι εργαζόμενοι βλέπουν πελάτες να φεύγουν και συμπεραίνουν ότι ή δεν βλέπει ή λέει ψέματα. Όπως και να 'χει, παύουν να τον ακούν, και φεύγουν πρώτοι οι καλύτεροι, που έχουν άλλες επιλογές."
+      },
+      "apply": {
+        "en": "If a client's site will be late, say it first, before they ask: «Your site will be ready on Thursday instead of Monday, because we are still waiting for the photos. Shall we put up a first version with the ones we have?» Share real numbers with your team too.",
+        "el": "Αν το site ενός πελάτη θα καθυστερήσει, πες το πρώτος, πριν ρωτήσει: «Το site σας θα είναι έτοιμο την Πέμπτη αντί για τη Δευτέρα, γιατί περιμένουμε ακόμη τις φωτογραφίες. Θέλετε να ανεβάσουμε μια πρώτη εκδοχή με όσες έχουμε;» Μοιράσου και με την ομάδα σου τα πραγματικά νούμερα."
+      },
+      "check": {
+        "q": {"en": "Why does hiding bad news hurt a leader?", "el": "Γιατί βλάπτει έναν ηγέτη το να κρύβει τα άσχημα νέα;"},
+        "options": [
+          {"en": "Because bad news is always bigger than it looks", "el": "Γιατί τα άσχημα νέα είναι πάντα μεγαλύτερα απ' ό,τι φαίνονται"},
+          {"en": "Because the law requires full transparency", "el": "Γιατί ο νόμος απαιτεί πλήρη διαφάνεια"},
+          {"en": "Because people see it anyway and stop trusting him", "el": "Γιατί οι άλλοι το βλέπουν ούτως ή άλλως και παύουν να τον εμπιστεύονται"}
+        ],
+        "answer": 2,
+        "why": {"en": "Hidden problems are rarely hidden; what gets lost is your credibility.", "el": "Τα κρυμμένα προβλήματα σπάνια μένουν κρυφά· αυτό που χάνεται είναι η αξιοπιστία σου."}
+      }
+    },
+    {
+      "title": {"en": "Lead bullets, not silver bullets", "el": "Μολυβένιες σφαίρες, όχι ασημένιες"},
+      "explain": {
+        "en": "When a competitor beats you, you want a clever trick: a partnership, a big campaign, a sudden change of strategy. Horowitz calls these silver bullets and says they almost never exist. Usually the real answer is the boring, hard one: make your product better. He calls this using lead bullets, many ordinary shots instead of one magic shot.",
+        "el": "Όταν σε κερδίζει ένας ανταγωνιστής, θέλεις ένα έξυπνο κόλπο: μια συνεργασία, μια μεγάλη καμπάνια, μια ξαφνική αλλαγή στρατηγικής. Ο Χόροβιτς τα λέει ασημένιες σφαίρες και λέει ότι σχεδόν ποτέ δεν υπάρχουν. Συνήθως η πραγματική απάντηση είναι η βαρετή και δύσκολη: κάνε το προϊόν σου καλύτερο. Αυτό το λέει μολυβένιες σφαίρες, πολλές συνηθισμένες βολές αντί για μία μαγική."
+      },
+      "example": {
+        "en": "Opsware kept losing deals to a rival called BladeLogic. Managers proposed shortcuts, such as new partnerships or repositioning the product. Horowitz said there was no silver bullet and put the team on making the product better. Months later Opsware's product was stronger and it began winning those deals back.",
+        "el": "Η Opsware έχανε συνέχεια συμφωνίες από έναν ανταγωνιστή, την BladeLogic. Τα στελέχη πρότειναν συντομεύσεις, όπως νέες συνεργασίες ή διαφορετική παρουσίαση του προϊόντος. Ο Χόροβιτς είπε ότι ασημένια σφαίρα δεν υπάρχει και έβαλε την ομάδα να βελτιώσει το προϊόν. Μήνες αργότερα το προϊόν της Opsware ήταν καλύτερο και άρχισε να κερδίζει ξανά αυτές τις συμφωνίες."
+      },
+      "apply": {
+        "en": "If doctors keep choosing another agency, do not hunt for a magic ad. Ask the last three who said no exactly why, then fix the real weaknesses: a faster first draft, better examples for each specialty, a clearer price on the call. Many small fixes beat one trick.",
+        "el": "Αν οι γιατροί επιλέγουν συνέχεια άλλη εταιρεία, μην ψάχνεις τη μαγική διαφήμιση. Ρώτα τους τρεις τελευταίους που είπαν όχι γιατί ακριβώς, και διόρθωσε τις πραγματικές αδυναμίες: πιο γρήγορο πρώτο σχέδιο, καλύτερα παραδείγματα για κάθε ειδικότητα, πιο καθαρή τιμή στο τηλέφωνο. Πολλές μικρές διορθώσεις κερδίζουν ένα κόλπο."
+      },
+      "check": {
+        "q": {"en": "What is a «lead bullet» in Horowitz's sense?", "el": "Τι είναι η «μολυβένια σφαίρα» με την έννοια του Χόροβιτς;"},
+        "options": [
+          {"en": "The hard, ordinary work of improving the product", "el": "Η σκληρή, συνηθισμένη δουλειά της βελτίωσης του προϊόντος"},
+          {"en": "An aggressive attack on a competitor's reputation", "el": "Μια επιθετική κίνηση κατά της φήμης του ανταγωνιστή"},
+          {"en": "A cheap marketing trick that works fast", "el": "Ένα φτηνό κόλπο μάρκετινγκ που πιάνει γρήγορα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Lead bullets are many unglamorous efforts that actually fix the problem.", "el": "Μολυβένιες σφαίρες είναι πολλές ταπεινές προσπάθειες που λύνουν πραγματικά το πρόβλημα."}
+      }
+    },
+    {
+      "title": {"en": "Lay people off the right way", "el": "Οι απολύσεις με τον σωστό τρόπο"},
+      "explain": {
+        "en": "Horowitz gives clear steps for a leader's worst job. Get your own head right first. Do not delay once you decide, because news leaks. Be clear that the company failed, not the people. Have each manager tell their own people, face to face. Speak to the whole company. And stay visible afterwards: those who stay judge you by how you treated those who left.",
+        "el": "Ο Χόροβιτς δίνει καθαρά βήματα για τη χειρότερη δουλειά ενός ηγέτη. Πρώτα βάλε σε τάξη το δικό σου μυαλό. Μην καθυστερείς όταν αποφασίσεις, γιατί τα νέα διαρρέουν. Να είναι ξεκάθαρο ότι απέτυχε η εταιρεία, όχι οι άνθρωποι. Κάθε προϊστάμενος να το πει ο ίδιος στους δικούς του, πρόσωπο με πρόσωπο. Μίλα σε όλη την εταιρεία. Και μείνε ορατός μετά: όσοι μένουν σε κρίνουν από το πώς φέρθηκες σε όσους έφυγαν."
+      },
+      "example": {
+        "en": "After the 2001 crash Loudcloud had to cut staff more than once. Horowitz insisted that each manager personally tell their own people, not HR and not a stranger. He argued that people remember for years how they were let go, and so do the colleagues watching.",
+        "el": "Μετά το κραχ του 2001 η Loudcloud αναγκάστηκε να μειώσει προσωπικό περισσότερες από μία φορές. Ο Χόροβιτς επέμεινε κάθε προϊστάμενος να το πει ο ίδιος στους ανθρώπους του, όχι το τμήμα προσωπικού ούτε κάποιος άγνωστος. Υποστήριζε ότι οι άνθρωποι θυμούνται για χρόνια πώς τους έδιωξαν, και το ίδιο θυμούνται κι οι συνάδελφοι που παρακολουθούν."
+      },
+      "apply": {
+        "en": "If you ever have to end work with a freelancer or employee, do it yourself, by call or face to face, never by text. Give the real reason in one sentence, thank them for specific work, pay everything you owe on time, and offer a reference if they deserve it.",
+        "el": "Αν ποτέ χρειαστεί να σταματήσεις τη συνεργασία με έναν freelancer ή υπάλληλο, κάν' το ο ίδιος, με τηλέφωνο ή από κοντά, ποτέ με μήνυμα. Πες τον πραγματικό λόγο σε μία πρόταση, ευχαρίστησέ τον για συγκεκριμένη δουλειά, πλήρωσε ό,τι χρωστάς στην ώρα του και πρότεινε συστατική αν την αξίζει."
+      },
+      "check": {
+        "q": {"en": "Who should tell each person they are being let go?", "el": "Ποιος πρέπει να πει σε κάθε άνθρωπο ότι απολύεται;"},
+        "options": [
+          {"en": "An outside HR firm, to keep emotions out", "el": "Μια εξωτερική εταιρεία προσωπικού, για να μη μπουν συναισθήματα"},
+          {"en": "Their own manager, in person", "el": "Ο δικός του προϊστάμενος, από κοντά"},
+          {"en": "Nobody; a clear email is kinder", "el": "Κανείς· ένα καθαρό email είναι πιο ευγενικό"}
+        ],
+        "answer": 1,
+        "why": {"en": "The person who hired and led them owes them that conversation face to face.", "el": "Ο άνθρωπος που τους προσέλαβε και τους καθοδήγησε τούς χρωστά αυτή τη συζήτηση πρόσωπο με πρόσωπο."}
+      }
+    },
+    {
+      "title": {"en": "Replacing someone you trusted", "el": "Όταν αντικαθιστάς κάποιον που εμπιστεύτηκες"},
+      "explain": {
+        "en": "When a senior person fails, Horowitz says the first fault is usually yours: you hired badly or gave a vague role. Find what went wrong in your own process before replacing them. Then tell the person clearly and quickly, with respect, and do not let it drag on. Even demoting a loyal friend must be done honestly; kindness without clarity hurts both of you.",
+        "el": "Όταν ένα στέλεχος αποτυγχάνει, ο Χόροβιτς λέει ότι το πρώτο λάθος είναι συνήθως δικό σου: διάλεξες λάθος ή έδωσες θολό ρόλο. Βρες τι στράβωσε στη δική σου διαδικασία πριν τον αντικαταστήσεις. Μετά πες το στον άνθρωπο καθαρά και γρήγορα, με σεβασμό, και μην το τραβάς σε μάκρος. Ακόμη και τον υποβιβασμό ενός πιστού φίλου τον κάνεις με ειλικρίνεια· η καλοσύνη χωρίς σαφήνεια πληγώνει και τους δύο."
+      },
+      "example": {
+        "en": "Horowitz describes a common startup case: a loyal early employee runs a team of 10, but the company now needs someone who can lead 100. The honest move is to say this directly, bring in the stronger leader, and offer the friend a real role that fits, instead of hinting for months.",
+        "el": "Ο Χόροβιτς περιγράφει μια συνηθισμένη περίπτωση στις startups: ένας πιστός άνθρωπος από την αρχή τρέχει μια ομάδα 10 ατόμων, αλλά η εταιρεία χρειάζεται πλέον κάποιον που να μπορεί να οδηγήσει 100. Η τίμια κίνηση είναι να του το πεις ευθέως, να φέρεις τον πιο δυνατό ηγέτη και να προσφέρεις στον φίλο έναν πραγματικό ρόλο που του ταιριάζει, αντί να υπονοείς για μήνες."
+      },
+      "apply": {
+        "en": "Before replacing anyone, write what you got wrong when you chose them: no test task, no clear role, no check of past work. Fix that first. Then tell the person directly, with the reason in one sentence and a clear next step, not with vague hints over weeks.",
+        "el": "Πριν αντικαταστήσεις κάποιον, γράψε τι έκανες λάθος όταν τον διάλεξες: χωρίς δοκιμαστική εργασία, χωρίς σαφή ρόλο, χωρίς έλεγχο προηγούμενης δουλειάς. Διόρθωσέ το πρώτα. Μετά μίλα του ευθέως, με τον λόγο σε μία πρόταση κι ένα σαφές επόμενο βήμα, όχι με θολά υπονοούμενα για εβδομάδες."
+      },
+      "check": {
+        "q": {"en": "When a senior hire fails, where does Horowitz look first?", "el": "Όταν ένα στέλεχος αποτυγχάνει, πού κοιτά πρώτα ο Χόροβιτς;"},
+        "options": [
+          {"en": "At the person's lack of effort", "el": "Στην έλλειψη προσπάθειας του ανθρώπου"},
+          {"en": "At the market conditions", "el": "Στις συνθήκες της αγοράς"},
+          {"en": "At his own hiring process and the role he gave", "el": "Στη δική του διαδικασία επιλογής και στον ρόλο που έδωσε"}
+        ],
+        "answer": 2,
+        "why": {"en": "If you do not fix how you hire, you will repeat the same mistake with the next person.", "el": "Αν δεν διορθώσεις τον τρόπο που επιλέγεις, θα κάνεις το ίδιο λάθος και με τον επόμενο."}
+      }
+    },
+    {
+      "title": {"en": "Hire for strength", "el": "Προσλάμβανε για τα δυνατά σημεία"},
+      "explain": {
+        "en": "Before hiring a senior person, know exactly what you need them to do; if you never did the job yourself, learn enough to judge it. Write down the strengths that matter most. Hire for strength, not for lack of weakness: someone with no flaws and no real talent adds little. And beware big-company managers: they are used to running a machine that already works.",
+        "el": "Πριν προσλάβεις ένα στέλεχος, να ξέρεις ακριβώς τι χρειάζεσαι να κάνει· αν δεν έχεις κάνει ποτέ ο ίδιος αυτή τη δουλειά, μάθε αρκετά για να την κρίνεις. Γράψε τα δυνατά σημεία που μετράνε περισσότερο. Προσλάμβανε για τη δύναμη, όχι για την απουσία αδυναμιών: κάποιος χωρίς ελαττώματα αλλά και χωρίς πραγματικό ταλέντο προσφέρει λίγα. Και πρόσεχε τα στελέχη από μεγάλες εταιρείες: έχουν συνηθίσει να τρέχουν μια μηχανή που ήδη δουλεύει."
+      },
+      "example": {
+        "en": "Horowitz explains why big-company executives often fail in startups. In a large firm, work arrives on your desk and a team is ready to do it. In a startup you must create the work yourself. He calls it a rhythm mismatch: the big-company manager waits, while the startup needs someone who makes things happen.",
+        "el": "Ο Χόροβιτς εξηγεί γιατί τα στελέχη μεγάλων εταιρειών συχνά αποτυγχάνουν στις startups. Σε μια μεγάλη εταιρεία η δουλειά έρχεται στο γραφείο σου κι υπάρχει ομάδα έτοιμη να την κάνει. Σε μια startup πρέπει να τη δημιουργήσεις μόνος σου. Το λέει ασυμφωνία ρυθμού: το στέλεχος της μεγάλης εταιρείας περιμένει, ενώ η startup χρειάζεται κάποιον που κάνει τα πράγματα να συμβαίνουν."
+      },
+      "apply": {
+        "en": "Before hiring your first salesperson, write the three things they must do: make 60 calls a day, book video meetings with professionals, handle «I will think about it» calmly. Test candidates with a role-play call on exactly that. Choose the one who is excellent at it, even if weaker elsewhere.",
+        "el": "Πριν προσλάβεις τον πρώτο σου πωλητή, γράψε τα τρία πράγματα που πρέπει να κάνει: 60 τηλέφωνα τη μέρα, ραντεβού σε βιντεοκλήση με επαγγελματίες, ψύχραιμη διαχείριση του «θα το σκεφτώ». Δοκίμασε τους υποψηφίους με ένα παιχνίδι ρόλων πάνω ακριβώς σ' αυτά. Διάλεξε όποιον είναι εξαιρετικός εκεί, ακόμη κι αν υστερεί αλλού."
+      },
+      "check": {
+        "q": {"en": "What does «hire for strength, not lack of weakness» mean?", "el": "Τι σημαίνει «προσλάμβανε για τη δύναμη, όχι για την απουσία αδυναμιών»;"},
+        "options": [
+          {"en": "Choose the person who is world-class at what matters most", "el": "Διάλεξε αυτόν που είναι κορυφαίος σε ό,τι μετράει περισσότερο"},
+          {"en": "Choose the person with the fewest flaws overall", "el": "Διάλεξε αυτόν με τα λιγότερα ελαττώματα συνολικά"},
+          {"en": "Choose the person who is physically strongest", "el": "Διάλεξε αυτόν που είναι σωματικά πιο δυνατός"}
+        ],
+        "answer": 0,
+        "why": {"en": "Great strength in the key area creates value; a flawless average person rarely does.", "el": "Μια μεγάλη δύναμη στο κρίσιμο σημείο δημιουργεί αξία· ένας άψογος μέτριος σπάνια."}
+      }
+    },
+    {
+      "title": {"en": "People, products, profits", "el": "Άνθρωποι, προϊόντα, κέρδη"},
+      "explain": {
+        "en": "Horowitz's rule: take care of the people, the products and the profits, in that order. Profits matter, but they come from good products, and good products come from good people. A good place to work is one where people can focus on the work, trust the company to succeed, and know their effort matters to them and to the company.",
+        "el": "Ο κανόνας του Χόροβιτς: φρόντισε τους ανθρώπους, τα προϊόντα και τα κέρδη, με αυτή τη σειρά. Τα κέρδη μετράνε, αλλά βγαίνουν από καλά προϊόντα, και τα καλά προϊόντα βγαίνουν από καλούς ανθρώπους. Καλό μέρος για δουλειά είναι εκεί όπου οι άνθρωποι μπορούν να συγκεντρωθούν στη δουλειά, εμπιστεύονται ότι η εταιρεία θα πετύχει και ξέρουν ότι η προσπάθειά τους μετράει και για τους ίδιους και για την εταιρεία."
+      },
+      "example": {
+        "en": "Costco pays its warehouse staff well above the US retail average and keeps far lower staff turnover than its rivals. Customers meet experienced, motivated employees, and the company stays steadily profitable. People first did not cost Costco its profits; it helped produce them.",
+        "el": "Η Costco πληρώνει το προσωπικό της αρκετά πάνω από τον μέσο όρο του λιανεμπορίου στις ΗΠΑ και έχει πολύ μικρότερη εναλλαγή προσωπικού από τους ανταγωνιστές. Οι πελάτες βρίσκουν έμπειρους, πρόθυμους υπαλλήλους και η εταιρεία μένει σταθερά κερδοφόρα. Το «πρώτα οι άνθρωποι» δεν της στοίχισε τα κέρδη· τη βοήθησε να τα βγάλει."
+      },
+      "apply": {
+        "en": "Before chasing more sales this month, check the order. Does your helper know exactly what to do and get paid on time? Is your site template the best you can make? Only then push for profit. Ask your helper this week: «What gets in the way of your work?»",
+        "el": "Πριν κυνηγήσεις περισσότερες πωλήσεις αυτόν τον μήνα, έλεγξε τη σειρά. Ο συνεργάτης σου ξέρει ακριβώς τι να κάνει και πληρώνεται στην ώρα του; Το πρότυπο των site σου είναι το καλύτερο που μπορείς; Μόνο μετά πίεσε για κέρδος. Ρώτα τον συνεργάτη σου αυτή την εβδομάδα: «Τι σε δυσκολεύει στη δουλειά σου;»"
+      },
+      "check": {
+        "q": {"en": "In what order does Horowitz say to take care of things?", "el": "Με ποια σειρά λέει ο Χόροβιτς να φροντίζεις τα πράγματα;"},
+        "options": [
+          {"en": "Profits, products, people", "el": "Κέρδη, προϊόντα, άνθρωποι"},
+          {"en": "Products, profits, people", "el": "Προϊόντα, κέρδη, άνθρωποι"},
+          {"en": "People, products, profits", "el": "Άνθρωποι, προϊόντα, κέρδη"}
+        ],
+        "answer": 2,
+        "why": {"en": "Good people build good products, and good products bring the profits.", "el": "Οι καλοί άνθρωποι φτιάχνουν καλά προϊόντα και τα καλά προϊόντα φέρνουν τα κέρδη."}
+      }
+    },
+    {
+      "title": {"en": "Train your people", "el": "Εκπαίδευσε τους ανθρώπους σου"},
+      "explain": {
+        "en": "Many companies train salespeople but expect everyone else to figure things out alone. Horowitz calls training one of a manager's most important jobs. Without it, new people learn by guessing, quality varies and good people leave. Start with simple written basics: what good work looks like in this role and which mistakes to avoid. Managers should teach it themselves.",
+        "el": "Πολλές εταιρείες εκπαιδεύουν τους πωλητές τους, αλλά από όλους τους άλλους περιμένουν να τα βγάλουν πέρα μόνοι τους. Ο Χόροβιτς λέει την εκπαίδευση μία από τις πιο σημαντικές δουλειές ενός προϊσταμένου. Χωρίς αυτήν, οι νέοι μαθαίνουν μαντεύοντας, η ποιότητα ανεβοκατεβαίνει και οι καλοί φεύγουν. Ξεκίνα με απλά, γραμμένα βασικά: πώς είναι η καλή δουλειά σε αυτόν τον ρόλο και ποια λάθη να αποφεύγονται. Να τα διδάσκουν οι ίδιοι οι προϊστάμενοι."
+      },
+      "example": {
+        "en": "At Netscape in the 1990s Horowitz wrote a short document called Good Product Manager, Bad Product Manager. It described in plain words what a good product manager does and what a bad one does. He used it to train new people, and it became famous in Silicon Valley as a model of clear training.",
+        "el": "Στη Netscape, τη δεκαετία του '90, ο Χόροβιτς έγραψε ένα σύντομο κείμενο με τίτλο «Καλός product manager, κακός product manager». Περιέγραφε με απλά λόγια τι κάνει ένας καλός υπεύθυνος προϊόντος και τι ένας κακός. Το χρησιμοποιούσε για να εκπαιδεύει τους νέους και έγινε διάσημο στη Silicon Valley ως πρότυπο καθαρής εκπαίδευσης."
+      },
+      "apply": {
+        "en": "Write a one-page guide for your next helper: what a good first draft looks like, which photos to use, how to reply politely in the client chat, and the five mistakes clients dislike most. Walk them through it on a 30-minute call, then review their first site together.",
+        "el": "Γράψε έναν οδηγό μιας σελίδας για τον επόμενο συνεργάτη σου: πώς είναι ένα καλό πρώτο σχέδιο, ποιες φωτογραφίες χρησιμοποιούμε, πώς απαντάμε ευγενικά στο chat των πελατών και τα πέντε λάθη που ενοχλούν περισσότερο τους πελάτες. Πέρασέ τον από αυτόν σε μια κλήση μισής ώρας και μετά ελέγξτε μαζί το πρώτο του site."
+      },
+      "check": {
+        "q": {"en": "Who should train new people, according to Horowitz?", "el": "Ποιος πρέπει να εκπαιδεύει τους νέους, κατά τον Χόροβιτς;"},
+        "options": [
+          {"en": "Nobody; good people learn by themselves", "el": "Κανείς· οι καλοί μαθαίνουν μόνοι τους"},
+          {"en": "Their managers, with clear written basics", "el": "Οι προϊστάμενοί τους, με καθαρά γραμμένα βασικά"},
+          {"en": "Only outside trainers once a year", "el": "Μόνο εξωτερικοί εκπαιδευτές, μία φορά τον χρόνο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Training is part of the manager's job, and writing it down makes quality repeatable.", "el": "Η εκπαίδευση είναι μέρος της δουλειάς του προϊσταμένου, και όταν γράφεται, η ποιότητα επαναλαμβάνεται."}
+      }
+    },
+    {
+      "title": {"en": "The one-on-one belongs to them", "el": "Η κατ' ιδίαν συνάντηση είναι δική τους"},
+      "explain": {
+        "en": "Regular one-on-one meetings are where information flows up from your team. Horowitz says the meeting belongs to the employee, not the manager: they bring the agenda, the worries and the ideas. Ask open questions, listen far more than you talk, and then act on what you hear, or people stop telling you things.",
+        "el": "Οι τακτικές κατ' ιδίαν συναντήσεις είναι το σημείο όπου η πληροφορία ανεβαίνει από την ομάδα προς εσένα. Ο Χόροβιτς λέει ότι η συνάντηση ανήκει στον εργαζόμενο, όχι στον προϊστάμενο: εκείνος φέρνει τα θέματα, τις ανησυχίες και τις ιδέες. Κάνε ανοιχτές ερωτήσεις, άκου πολύ περισσότερο απ' όσο μιλάς και μετά κάνε κάτι με όσα ακούς, αλλιώς θα σταματήσουν να σου λένε."
+      },
+      "example": {
+        "en": "Horowitz suggests questions like: if we could improve in any way, how would we do it? What is the number one problem in our company? What is not fun about working here? Such questions surface problems that never appear in status reports, like a process everyone hates but nobody mentions.",
+        "el": "Ο Χόροβιτς προτείνει ερωτήσεις όπως: αν μπορούσαμε να βελτιωθούμε σε κάτι, πώς θα το κάναμε; Ποιο είναι το νούμερο ένα πρόβλημα της εταιρείας μας; Τι δεν είναι ευχάριστο στη δουλειά εδώ; Τέτοιες ερωτήσεις βγάζουν στην επιφάνεια προβλήματα που δεν φαίνονται ποτέ στις αναφορές, όπως μια διαδικασία που όλοι μισούν αλλά κανείς δεν την αναφέρει."
+      },
+      "apply": {
+        "en": "Book a 20-minute call each week with everyone who works with you, even a freelancer. Let them start. Ask «What slowed you down this week?» and «What would you change in how we work?» Write the answers down and fix one thing before the next call.",
+        "el": "Κλείσε μια κλήση 20 λεπτών κάθε εβδομάδα με όποιον δουλεύει μαζί σου, ακόμη και με έναν freelancer. Άφησέ τον να ξεκινήσει. Ρώτα «Τι σε καθυστέρησε αυτή την εβδομάδα;» και «Τι θα άλλαζες στον τρόπο που δουλεύουμε;» Γράψε τις απαντήσεις και διόρθωσε ένα πράγμα πριν την επόμενη κλήση."
+      },
+      "check": {
+        "q": {"en": "Who sets the agenda in a one-on-one, according to Horowitz?", "el": "Ποιος ορίζει τα θέματα σε μια κατ' ιδίαν συνάντηση, κατά τον Χόροβιτς;"},
+        "options": [
+          {"en": "The manager, to keep it efficient", "el": "Ο προϊστάμενος, για να είναι αποδοτική"},
+          {"en": "Nobody; it should be a casual chat", "el": "Κανείς· πρέπει να είναι χαλαρή κουβέντα"},
+          {"en": "The employee", "el": "Ο εργαζόμενος"}
+        ],
+        "answer": 2,
+        "why": {"en": "The meeting exists so problems and ideas flow up from the employee.", "el": "Η συνάντηση υπάρχει για να ανεβαίνουν τα προβλήματα και οι ιδέες από τον εργαζόμενο."}
+      }
+    },
+    {
+      "title": {"en": "Minimise politics", "el": "Κράτα την πολιτική στο ελάχιστο"},
+      "explain": {
+        "en": "Politics means people getting ahead through influence instead of results. Horowitz says the leader usually creates it by accident, for example by giving a raise to whoever complains loudest. To prevent it, hire people whose ambition is for the company and not only for themselves, and use clear, fair processes for pay, promotions and who does what. Never reward lobbying.",
+        "el": "Πολιτική σημαίνει ότι κάποιοι προχωρούν με επιρροή και όχι με αποτελέσματα. Ο Χόροβιτς λέει ότι συνήθως τη δημιουργεί κατά λάθος ο ίδιος ο ηγέτης, για παράδειγμα δίνοντας αύξηση σε όποιον διαμαρτύρεται πιο δυνατά. Για να την προλάβεις, προσλάμβανε ανθρώπους που η φιλοδοξία τους αφορά την εταιρεία και όχι μόνο τον εαυτό τους, και έχε καθαρές, δίκαιες διαδικασίες για αμοιβές, προαγωγές και αρμοδιότητες. Μην ανταμείβεις ποτέ τα παρασκήνια."
+      },
+      "example": {
+        "en": "Horowitz describes the trap: a strong employee brings you another job offer and asks for more money. If you say yes outside any process, the news spreads and everyone learns that threats work. Soon pay follows pressure, not performance, and politics takes over the company.",
+        "el": "Ο Χόροβιτς περιγράφει την παγίδα: ένας καλός εργαζόμενος σού φέρνει μια άλλη πρόταση δουλειάς και ζητά περισσότερα χρήματα. Αν πεις ναι έξω από κάθε διαδικασία, το μαθαίνουν όλοι και καταλαβαίνουν ότι οι απειλές πιάνουν. Σύντομα οι αμοιβές ακολουθούν την πίεση και όχι την απόδοση, και η πολιτική κυριεύει την εταιρεία."
+      },
+      "apply": {
+        "en": "Write a simple pay rule before you have a team, for example a fixed amount per site delivered and a bonus per client renewal. Share it openly. When someone asks for an exception, answer calmly: «Let's look at it in the next review, with the same rules for everyone.»",
+        "el": "Γράψε έναν απλό κανόνα αμοιβών πριν φτιάξεις ομάδα, για παράδειγμα σταθερό ποσό ανά site που παραδίδεται και μπόνους ανά ανανέωση πελάτη. Μοιράσου τον ανοιχτά. Όταν κάποιος ζητήσει εξαίρεση, απάντησε ήρεμα: «Ας το δούμε στην επόμενη αξιολόγηση, με τους ίδιους κανόνες για όλους.»"
+      },
+      "check": {
+        "q": {"en": "How does a leader accidentally create politics?", "el": "Πώς δημιουργεί κατά λάθος πολιτική ένας ηγέτης;"},
+        "options": [
+          {"en": "By rewarding whoever pushes hardest outside a fair process", "el": "Ανταμείβοντας όποιον πιέζει περισσότερο, έξω από μια δίκαιη διαδικασία"},
+          {"en": "By writing clear rules for pay", "el": "Γράφοντας καθαρούς κανόνες για τις αμοιβές"},
+          {"en": "By hiring people who want the company to win", "el": "Προσλαμβάνοντας ανθρώπους που θέλουν να κερδίσει η εταιρεία"}
+        ],
+        "answer": 0,
+        "why": {"en": "Once lobbying works, everyone starts lobbying.", "el": "Μόλις τα παρασκήνια πιάσουν, όλοι αρχίζουν να τα κάνουν."}
+      }
+    },
+    {
+      "title": {"en": "Titles and the weakest link", "el": "Οι τίτλοι και ο πιο αδύναμος κρίκος"},
+      "explain": {
+        "en": "Titles and promotions tell everyone what the company values. Horowitz warns about the Peter Principle, where people are promoted until they reach a job they cannot do. He adds his own Law of Crappy People: for any title, quality slowly drifts down to the weakest person holding it, because everyone compares themselves to that person. So promote carefully, with clear criteria.",
+        "el": "Οι τίτλοι και οι προαγωγές δείχνουν σε όλους τι εκτιμά η εταιρεία. Ο Χόροβιτς προειδοποιεί για την Αρχή του Πίτερ: οι άνθρωποι προάγονται ώσπου να φτάσουν σε μια θέση που δεν μπορούν να κάνουν. Προσθέτει και τον δικό του «νόμο των κακών στελεχών»: σε κάθε τίτλο η ποιότητα πέφτει σιγά σιγά στο επίπεδο του πιο αδύναμου που τον έχει, γιατί όλοι συγκρίνονται μαζί του. Γι' αυτό κάνε προαγωγές προσεκτικά, με σαφή κριτήρια."
+      },
+      "example": {
+        "en": "In a fast-growing startup, naming someone head of sales costs nothing on day one. A year later ten salespeople compare themselves with that person. If he is weak, each of them thinks: if he got that title, I deserve it too. The bar for the whole team drops to his level.",
+        "el": "Σε μια startup που μεγαλώνει γρήγορα, το να ονομάσεις κάποιον υπεύθυνο πωλήσεων δεν κοστίζει τίποτα την πρώτη μέρα. Έναν χρόνο μετά, δέκα πωλητές συγκρίνονται μαζί του. Αν είναι αδύναμος, ο καθένας σκέφτεται: αφού πήρε εκείνος τον τίτλο, τον αξίζω κι εγώ. Ο πήχης όλης της ομάδας πέφτει στο δικό του επίπεδο."
+      },
+      "apply": {
+        "en": "When you give your first title, such as head of design, write two lines on what earns it, for example eight sites a month with no client complaints. Hold everyone to that same bar. A modest, honest title now saves an awkward demotion later.",
+        "el": "Όταν δώσεις τον πρώτο σου τίτλο, όπως υπεύθυνος σχεδιασμού, γράψε δύο γραμμές για το τι τον κερδίζει, για παράδειγμα οκτώ site τον μήνα χωρίς παράπονα πελατών. Κράτα τον ίδιο πήχη για όλους. Ένας μετριοπαθής, τίμιος τίτλος τώρα σε γλιτώνει από έναν άβολο υποβιβασμό αργότερα."
+      },
+      "check": {
+        "q": {"en": "What does the Law of Crappy People say?", "el": "Τι λέει ο «νόμος των κακών στελεχών»;"},
+        "options": [
+          {"en": "Bad employees always leave on their own", "el": "Οι κακοί εργαζόμενοι φεύγουν πάντα μόνοι τους"},
+          {"en": "Quality at each title drifts toward its weakest holder", "el": "Η ποιότητα σε κάθε τίτλο τείνει προς τον πιο αδύναμο που τον έχει"},
+          {"en": "Big titles make people work harder", "el": "Οι μεγάλοι τίτλοι κάνουν τους ανθρώπους να δουλεύουν περισσότερο"}
+        ],
+        "answer": 1,
+        "why": {"en": "People benchmark themselves against the weakest person with the same title.", "el": "Οι άνθρωποι συγκρίνουν τον εαυτό τους με τον πιο αδύναμο που έχει τον ίδιο τίτλο."}
+      }
+    },
+    {
+      "title": {"en": "Management debt", "el": "Το χρέος της διοίκησης"},
+      "explain": {
+        "en": "Management debt is a shortcut that seems smart today and costs a lot later, like a loan with interest. Horowitz gives three classic cases: putting two people in one job to avoid choosing; overpaying one person who threatens to leave, which upsets everyone else; and skipping feedback and reviews because there is no time. All of them get paid back later, with interest.",
+        "el": "Το χρέος της διοίκησης είναι μια συντόμευση που σήμερα μοιάζει έξυπνη και αργότερα κοστίζει ακριβά, σαν δάνειο με τόκο. Ο Χόροβιτς δίνει τρεις κλασικές περιπτώσεις: βάζεις δύο ανθρώπους στην ίδια θέση για να μη διαλέξεις· πληρώνεις παραπάνω κάποιον που απειλεί να φύγει, και θυμώνουν όλοι οι άλλοι· παραλείπεις το feedback και τις αξιολογήσεις γιατί «δεν υπάρχει χρόνος». Όλα πληρώνονται αργότερα, με τόκο."
+      },
+      "example": {
+        "en": "The two-in-a-box case: a startup cannot choose between two good engineers, so it makes both co-heads of the team. Now everyone has two bosses, decisions slow down and each leader blames the other. Horowitz says the choice was not avoided, only postponed, and it became harder.",
+        "el": "Η περίπτωση των δύο σε μία θέση: μια startup δεν μπορεί να διαλέξει ανάμεσα σε δύο καλούς μηχανικούς, οπότε τους κάνει και τους δύο συνυπεύθυνους της ομάδας. Τώρα όλοι έχουν δύο αφεντικά, οι αποφάσεις αργούν και ο ένας ρίχνει το φταίξιμο στον άλλον. Ο Χόροβιτς λέει ότι η επιλογή δεν αποφεύχθηκε, απλώς αναβλήθηκε κι έγινε δυσκολότερη."
+      },
+      "apply": {
+        "en": "Never split one job between two people because choosing feels awkward. When you add a helper, give one person clear ownership of each task: one owns the client chat, one owns building sites. Give five minutes of feedback every Friday, even when nothing is wrong.",
+        "el": "Μη μοιράζεις ποτέ μια δουλειά σε δύο ανθρώπους επειδή σε φέρνει σε δύσκολη θέση η επιλογή. Όταν βάζεις συνεργάτη, δώσε σε έναν άνθρωπο καθαρή ευθύνη για κάθε εργασία: ένας έχει το chat των πελατών, ένας το στήσιμο των site. Δίνε πέντε λεπτά feedback κάθε Παρασκευή, ακόμη κι όταν όλα πάνε καλά."
+      },
+      "check": {
+        "q": {"en": "Which is an example of management debt?", "el": "Ποιο είναι παράδειγμα χρέους διοίκησης;"},
+        "options": [
+          {"en": "Making two people co-heads to avoid a hard choice", "el": "Να κάνεις δύο ανθρώπους συνυπεύθυνους για να αποφύγεις μια δύσκολη επιλογή"},
+          {"en": "Writing a training guide for new staff", "el": "Να γράψεις οδηγό εκπαίδευσης για τους νέους"},
+          {"en": "Holding weekly one-on-ones", "el": "Να κάνεις εβδομαδιαίες κατ' ιδίαν συναντήσεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "It avoids pain now but creates confusion and conflict later.", "el": "Αποφεύγεις τον πόνο τώρα, αλλά δημιουργείς σύγχυση και συγκρούσεις αργότερα."}
+      }
+    },
+    {
+      "title": {"en": "When smart people are bad employees", "el": "Όταν οι έξυπνοι είναι κακοί συνεργάτες"},
+      "explain": {
+        "en": "Some very talented people are still bad for a company. Horowitz describes three types. The Heretic is smart but keeps turning colleagues against the company. The Flake is brilliant but unreliable. The Jerk is so rude that others stop speaking openly. Talent does not excuse damage to the team. Tell them clearly once what must change; if it does not change, let them go.",
+        "el": "Κάποιοι πολύ ταλαντούχοι άνθρωποι κάνουν παρ' όλα αυτά κακό σε μια εταιρεία. Ο Χόροβιτς περιγράφει τρεις τύπους. Ο Αιρετικός είναι έξυπνος, αλλά στρέφει συνεχώς τους συναδέλφους εναντίον της εταιρείας. Ο Αναξιόπιστος είναι λαμπρός, αλλά δεν μπορείς να βασιστείς πάνω του. Ο Αγενής είναι τόσο απότομος που οι άλλοι σταματούν να μιλούν ανοιχτά. Το ταλέντο δεν δικαιολογεί τη ζημιά στην ομάδα. Πες του μία φορά καθαρά τι πρέπει ν' αλλάξει· αν δεν αλλάξει, προχώρα χωρίς αυτόν."
+      },
+      "example": {
+        "en": "Horowitz explains why the Jerk is so costly: in meetings, colleagues stop raising problems because they fear being humiliated. The company loses the honest information it needs. One brilliant person who silences ten others makes the whole team less intelligent.",
+        "el": "Ο Χόροβιτς εξηγεί γιατί ο Αγενής κοστίζει τόσο: στις συσκέψεις οι συνάδελφοι σταματούν να θέτουν προβλήματα από φόβο μήπως τους ξεφτιλίσει. Η εταιρεία χάνει την ειλικρινή πληροφορία που χρειάζεται. Ένας λαμπρός άνθρωπος που φιμώνει άλλους δέκα κάνει όλη την ομάδα λιγότερο έξυπνη."
+      },
+      "apply": {
+        "en": "If a talented freelancer makes great designs but misses half the deadlines or mocks clients behind their backs, say it once, clearly: «Your work is excellent, but these two things must change.» Give two weeks. If nothing changes, end the collaboration, however good the work.",
+        "el": "Αν ένας ταλαντούχος freelancer κάνει υπέροχα σχέδια αλλά χάνει τις μισές προθεσμίες ή κοροϊδεύει τους πελάτες πίσω από την πλάτη τους, πες το μία φορά, καθαρά: «Η δουλειά σου είναι εξαιρετική, αλλά αυτά τα δύο πρέπει ν' αλλάξουν.» Δώσε δύο εβδομάδες. Αν δεν αλλάξει τίποτα, σταμάτα τη συνεργασία, όσο καλή κι αν είναι η δουλειά."
+      },
+      "check": {
+        "q": {"en": "Why can a brilliant but rude person hurt the team?", "el": "Γιατί μπορεί να βλάψει την ομάδα ένας λαμπρός αλλά αγενής άνθρωπος;"},
+        "options": [
+          {"en": "Because rude people always work slowly", "el": "Γιατί οι αγενείς δουλεύουν πάντα αργά"},
+          {"en": "Because others stop sharing problems openly", "el": "Γιατί οι άλλοι σταματούν να λένε ανοιχτά τα προβλήματα"},
+          {"en": "Because clients can tell from the website", "el": "Γιατί οι πελάτες το καταλαβαίνουν από την ιστοσελίδα"}
+        ],
+        "answer": 1,
+        "why": {"en": "The damage is the honest communication he kills, not his own work.", "el": "Η ζημιά είναι η ειλικρινής επικοινωνία που σκοτώνει, όχι η δική του δουλειά."}
+      }
+    },
+    {
+      "title": {"en": "Program your culture", "el": "Προγραμμάτισε την κουλτούρα σου"},
+      "explain": {
+        "en": "Culture is not values printed on a wall. Horowitz says it is what people actually do every day, and the best way to shape it is with a few small, surprising rules that make people ask why. A good rule is easy to remember, linked to something truly important, and visible in daily life, so people keep talking about it.",
+        "el": "Η κουλτούρα δεν είναι αξίες τυπωμένες σε έναν τοίχο. Ο Χόροβιτς λέει ότι είναι αυτό που κάνουν πραγματικά οι άνθρωποι κάθε μέρα, και ο καλύτερος τρόπος να τη διαμορφώσεις είναι λίγοι μικροί, απρόσμενοι κανόνες που κάνουν τους άλλους να ρωτήσουν «γιατί;». Ένας καλός κανόνας θυμάται εύκολα, συνδέεται με κάτι πραγματικά σημαντικό και φαίνεται στην καθημερινότητα, ώστε να συζητιέται συνέχεια."
+      },
+      "example": {
+        "en": "At Andreessen Horowitz, partners who are late to a meeting with an entrepreneur pay a fine of 10 dollars for every minute. The money is small, but the rule is unusual and everyone talks about it. It shows clearly that the firm respects founders' time.",
+        "el": "Στην Andreessen Horowitz, όποιος συνεταίρος αργεί σε ραντεβού με έναν επιχειρηματία πληρώνει πρόστιμο 10 δολάρια για κάθε λεπτό. Το ποσό είναι μικρό, αλλά ο κανόνας είναι ασυνήθιστος και τον συζητούν όλοι. Δείχνει καθαρά ότι η εταιρεία σέβεται τον χρόνο των ιδρυτών."
+      },
+      "apply": {
+        "en": "Choose one rule that shows what you stand for, for example: every client message gets an answer within two working hours, or every first draft is ready within seven days. Explain the reason to every new helper, and keep the rule yourself first.",
+        "el": "Διάλεξε έναν κανόνα που δείχνει τι πρεσβεύεις, για παράδειγμα: κάθε μήνυμα πελάτη απαντιέται μέσα σε δύο εργάσιμες ώρες ή κάθε πρώτο σχέδιο είναι έτοιμο μέσα σε επτά μέρες. Εξήγησε τον λόγο σε κάθε νέο συνεργάτη και τήρησέ τον πρώτος εσύ."
+      },
+      "check": {
+        "q": {"en": "What makes a culture rule work, according to Horowitz?", "el": "Τι κάνει έναν κανόνα κουλτούρας να πιάνει, κατά τον Χόροβιτς;"},
+        "options": [
+          {"en": "It is long, detailed and signed by everyone", "el": "Είναι μακροσκελής, λεπτομερής και υπογεγραμμένος από όλους"},
+          {"en": "It is kept secret from clients", "el": "Μένει μυστικός από τους πελάτες"},
+          {"en": "It is surprising, memorable and tied to something important", "el": "Είναι απρόσμενος, θυμάται εύκολα και συνδέεται με κάτι σημαντικό"}
+        ],
+        "answer": 2,
+        "why": {"en": "A rule people ask about gets repeated, and repetition builds culture.", "el": "Έναν κανόνα που κάνει τους άλλους να ρωτούν τον επαναλαμβάνουν, κι η επανάληψη χτίζει κουλτούρα."}
+      }
+    },
+    {
+      "title": {"en": "Peacetime and wartime CEO", "el": "Ηγέτης σε ειρήνη και σε πόλεμο"},
+      "explain": {
+        "en": "A peacetime leader runs a company that is winning: he grows the market, encourages creativity and builds agreement. A wartime leader runs a company facing a threat to its life: he focuses on one goal, breaks normal habits to win and gives direct orders. Neither style is better. The skill is knowing which time you are in and switching when it changes.",
+        "el": "Ο ηγέτης της ειρήνης τρέχει μια εταιρεία που κερδίζει: μεγαλώνει την αγορά, ενθαρρύνει τη δημιουργικότητα, χτίζει συναίνεση. Ο ηγέτης του πολέμου τρέχει μια εταιρεία που απειλείται να χαθεί: εστιάζει σε έναν στόχο, σπάει τις συνήθειες για να κερδίσει και δίνει ευθείες εντολές. Κανένα στυλ δεν είναι καλύτερο. Η τέχνη είναι να ξέρεις σε ποια περίοδο βρίσκεσαι και να αλλάζεις όταν αλλάζει."
+      },
+      "example": {
+        "en": "In 1985 Intel was losing the memory-chip market to Japanese makers. Andy Grove, then Intel's president, made the wartime decision to leave memory chips, the business Intel was built on, and bet on microprocessors. It meant painful layoffs, but it made Intel a giant.",
+        "el": "Το 1985 η Intel έχανε την αγορά των τσιπ μνήμης από τους Ιάπωνες κατασκευαστές. Ο Andy Grove, τότε πρόεδρος της Intel, πήρε την απόφαση «πολέμου» να εγκαταλείψει τα τσιπ μνήμης, τη δουλειά πάνω στην οποία είχε χτιστεί η Intel, και να ποντάρει στους μικροεπεξεργαστές. Σήμαινε επώδυνες απολύσεις, αλλά έκανε την Intel κολοσσό."
+      },
+      "apply": {
+        "en": "Notice your mode. If five clients leave in a month or you have cash for only six weeks, lead in wartime: one goal, collecting cash, a daily check, side projects paused. When things are calm, switch back: test new niches, ask helpers for ideas, plan the year.",
+        "el": "Πρόσεξε σε ποια κατάσταση είσαι. Αν σε έναν μήνα φύγουν πέντε πελάτες ή έχεις ρευστό μόνο για έξι εβδομάδες, ηγήσου όπως στον πόλεμο: ένας στόχος, να μπουν χρήματα, καθημερινός έλεγχος, τα side projects σε παύση. Όταν ηρεμήσουν τα πράγματα, γύρνα πίσω: δοκίμασε νέες κατηγορίες πελατών, ζήτα ιδέες από τους συνεργάτες, σχεδίασε τη χρονιά."
+      },
+      "check": {
+        "q": {"en": "What is the key skill about peacetime and wartime?", "el": "Ποια είναι η βασική δεξιότητα για την ειρήνη και τον πόλεμο;"},
+        "options": [
+          {"en": "Always lead in wartime mode to stay sharp", "el": "Να ηγείσαι πάντα σαν σε πόλεμο, για να μένεις σε εγρήγορση"},
+          {"en": "Knowing which time you are in and switching style", "el": "Να ξέρεις σε ποια περίοδο είσαι και να αλλάζεις στυλ"},
+          {"en": "Always lead in peacetime mode to keep people happy", "el": "Να ηγείσαι πάντα σαν σε ειρήνη, για να είναι όλοι ευχαριστημένοι"}
+        ],
+        "answer": 1,
+        "why": {"en": "Each style fits a different situation; the mistake is using the wrong one.", "el": "Κάθε στυλ ταιριάζει σε άλλη κατάσταση· το λάθος είναι να χρησιμοποιείς το λάθος."}
+      }
+    },
+    {
+      "title": {"en": "Manage your own mind", "el": "Διαχειρίσου το δικό σου μυαλό"},
+      "explain": {
+        "en": "Horowitz calls managing your own psychology the hardest leadership skill. Every leader feels fear. The difference between a hero and a coward is not the feeling but what they do next. Each hard, right decision makes you a little braver; each easy, wrong one makes you weaker. Know too whether you love deciding or love executing, and train the side that is weaker.",
+        "el": "Ο Χόροβιτς λέει ότι η πιο δύσκολη δεξιότητα ηγεσίας είναι να διαχειρίζεσαι την ψυχολογία σου. Κάθε ηγέτης φοβάται. Η διαφορά ανάμεσα στον ήρωα και στον δειλό δεν είναι το συναίσθημα, αλλά τι κάνουν μετά. Κάθε δύσκολη, σωστή απόφαση σε κάνει λίγο πιο θαρραλέο· κάθε εύκολη, λάθος σε κάνει πιο αδύναμο. Μάθε επίσης αν σου αρέσει περισσότερο να αποφασίζεις ή να εκτελείς, και εξάσκησε την πιο αδύναμη πλευρά."
+      },
+      "example": {
+        "en": "Horowitz describes how a leader who avoids one painful decision, such as confronting a weak manager, finds the next one even harder. Small cowardly choices pile up until the company is in trouble. Small brave ones build courage, the way training builds muscle.",
+        "el": "Ο Χόροβιτς περιγράφει πώς ένας ηγέτης που αποφεύγει μια επώδυνη απόφαση, όπως να μιλήσει σε έναν αδύναμο προϊστάμενο, βρίσκει την επόμενη ακόμη πιο δύσκολη. Οι μικρές δειλές επιλογές μαζεύονται ώσπου η εταιρεία να βρεθεί σε μπελάδες. Οι μικρές γενναίες χτίζουν θάρρος, όπως η προπόνηση χτίζει μυς."
+      },
+      "apply": {
+        "en": "Write down the one decision you keep avoiding: chasing a late payment, raising a price, telling a client a request is outside the deal. Do it today, politely: «The hosting payment was due on the 10th. Could you settle it by Friday?»",
+        "el": "Γράψε τη μία απόφαση που αποφεύγεις συνέχεια: να κυνηγήσεις μια καθυστερημένη πληρωμή, να ανεβάσεις μια τιμή, να πεις σε έναν πελάτη ότι ένα αίτημα είναι εκτός συμφωνίας. Κάν' το σήμερα, ευγενικά: «Η πληρωμή της φιλοξενίας έληγε στις 10 του μήνα. Θα μπορούσατε να τη διευθετήσετε ως την Παρασκευή;»"
+      },
+      "check": {
+        "q": {"en": "What separates a hero from a coward, according to Horowitz?", "el": "Τι ξεχωρίζει τον ήρωα από τον δειλό, κατά τον Χόροβιτς;"},
+        "options": [
+          {"en": "The hero feels no fear", "el": "Ο ήρωας δεν νιώθει φόβο"},
+          {"en": "The hero has more experience", "el": "Ο ήρωας έχει περισσότερη εμπειρία"},
+          {"en": "What each one does while feeling the same fear", "el": "Τι κάνει ο καθένας ενώ νιώθει τον ίδιο φόβο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Both feel fear; courage is acting rightly anyway.", "el": "Και οι δύο φοβούνται· θάρρος είναι να πράττεις σωστά παρ' όλα αυτά."}
+      }
+    },
+    {
+      "title": {"en": "Should you sell?", "el": "Να πουλήσεις ή όχι;"},
+      "explain": {
+        "en": "Selling a company is one of the hardest decisions. Horowitz's test: if you are early in a very large market and can become number one, keep building. If the market is small or slow, or you cannot lead it, a good offer may be the best result for your team and investors. Decide with facts and honesty, not with ego or exhaustion.",
+        "el": "Η πώληση μιας εταιρείας είναι από τις πιο δύσκολες αποφάσεις. Το κριτήριο του Χόροβιτς: αν είσαι νωρίς σε μια πολύ μεγάλη αγορά και μπορείς να γίνεις πρώτος, συνέχισε να χτίζεις. Αν η αγορά είναι μικρή ή αργή, ή δεν μπορείς να την οδηγήσεις, μια καλή προσφορά ίσως είναι το καλύτερο αποτέλεσμα για την ομάδα και τους επενδυτές. Αποφάσισε με στοιχεία και ειλικρίνεια, όχι με εγωισμό ή κούραση."
+      },
+      "example": {
+        "en": "In 2007 HP offered to buy Opsware for about 1.6 billion dollars. Horowitz studied whether the market would grow fast enough for Opsware to become a much larger leader on its own. He judged it would take many years and real risk, so he sold, sharing a big result with the team.",
+        "el": "Το 2007 η HP πρότεινε να αγοράσει την Opsware για περίπου 1,6 δισ. δολάρια. Ο Χόροβιτς εξέτασε αν η αγορά θα μεγάλωνε αρκετά γρήγορα ώστε η Opsware να γίνει μόνη της πολύ μεγαλύτερος ηγέτης. Έκρινε ότι θα χρειάζονταν πολλά χρόνια και σοβαρό ρίσκο, οπότε πούλησε και μοιράστηκε ένα μεγάλο αποτέλεσμα με την ομάδα."
+      },
+      "apply": {
+        "en": "Once a year, ask about each side project: is this a big, early market where I can become number one? If yes, invest more time. If no, close it, sell it or keep it small, and give the hours back to the agency that pays your bills.",
+        "el": "Μία φορά τον χρόνο, ρώτα για κάθε side project: είναι μεγάλη αγορά, στην αρχή της, όπου μπορώ να γίνω πρώτος; Αν ναι, βάλε περισσότερο χρόνο. Αν όχι, κλείσ' το, πούλησέ το ή κράτα το μικρό, και δώσε τις ώρες πίσω στην εταιρεία που πληρώνει τους λογαριασμούς σου."
+      },
+      "check": {
+        "q": {"en": "When does Horowitz say it makes sense to keep building rather than sell?", "el": "Πότε λέει ο Χόροβιτς ότι έχει νόημα να συνεχίσεις αντί να πουλήσεις;"},
+        "options": [
+          {"en": "When the market is huge, early, and you can be number one", "el": "Όταν η αγορά είναι τεράστια, στην αρχή της, και μπορείς να γίνεις πρώτος"},
+          {"en": "When you feel tired but proud", "el": "Όταν νιώθεις κουρασμένος αλλά περήφανος"},
+          {"en": "Whenever the offer is lower than you hoped", "el": "Όποτε η προσφορά είναι χαμηλότερη απ' όσο ήλπιζες"}
+        ],
+        "answer": 0,
+        "why": {"en": "The size and stage of the market, and your chance to lead it, decide the value of staying.", "el": "Το μέγεθος και το στάδιο της αγοράς, και η πιθανότητα να την οδηγήσεις, κρίνουν την αξία του να μείνεις."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Your ads stopped bringing calls and two clients cancelled in one week. You feel like closing the agency. What do you do first?", "el": "Οι διαφημίσεις σου σταμάτησαν να φέρνουν τηλέφωνα και δύο πελάτες ακύρωσαν μέσα σε μία εβδομάδα. Σου έρχεται να κλείσεις την εταιρεία. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Close it before the losses grow", "el": "Την κλείνεις πριν μεγαλώσουν οι ζημιές"},
+        {"en": "List ten possible moves and test the best two", "el": "Γράφεις δέκα πιθανές κινήσεις και δοκιμάζεις τις δύο καλύτερες"},
+        {"en": "Wait quietly for the market to improve", "el": "Περιμένεις ήσυχα να φτιάξει η αγορά"}
+      ],
+      "answer": 1,
+      "why": {"en": "There is always a move; your job is to keep searching for it.", "el": "Πάντα υπάρχει μια κίνηση· η δουλειά σου είναι να συνεχίσεις να την ψάχνεις."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "A helper asks for a raise «or I go to another agency». The others will hear about it. What do you do?", "el": "Ένας συνεργάτης σου ζητά αύξηση «αλλιώς πάω σε άλλη εταιρεία». Θα το μάθουν και οι υπόλοιποι. Τι κάνεις;"},
+      "options": [
+        {"en": "Pay him quietly to keep him", "el": "Τον πληρώνεις αθόρυβα για να τον κρατήσεις"},
+        {"en": "Fire him for disloyalty", "el": "Τον διώχνεις για απιστία"},
+        {"en": "Review it with your clear pay rule, the same for everyone", "el": "Το εξετάζεις με τον καθαρό κανόνα αμοιβών σου, ίδιο για όλους"}
+      ],
+      "answer": 2,
+      "why": {"en": "Rewarding threats outside a fair process teaches everyone to play politics.", "el": "Αν ανταμείβεις απειλές έξω από μια δίκαιη διαδικασία, μαθαίνεις σε όλους να κάνουν πολιτική."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "A client's site will be three days late because you were overloaded. The client has not noticed yet. What do you do?", "el": "Το site ενός πελάτη θα καθυστερήσει τρεις μέρες γιατί είχες φόρτο. Ο πελάτης δεν το έχει καταλάβει ακόμη. Τι κάνεις;"},
+      "options": [
+        {"en": "Tell him now, with the new date and an option", "el": "Του το λες τώρα, με τη νέα ημερομηνία και μια εναλλακτική"},
+        {"en": "Say nothing and hope he does not ask", "el": "Δεν λες τίποτα και ελπίζεις να μη ρωτήσει"},
+        {"en": "Blame missing photos, even though you have them", "el": "Ρίχνεις το φταίξιμο σε φωτογραφίες που λείπουν, αν και τις έχεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "Telling it like it is keeps trust; hiding or inventing excuses destroys it.", "el": "Όταν τα λες όπως είναι, κρατάς την εμπιστοσύνη· όταν κρύβεις ή εφευρίσκεις δικαιολογίες, τη χάνεις."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "A rival agency wins more doctors than you. A friend suggests a viral ad trick. What does Horowitz suggest instead?", "el": "Μια ανταγωνίστρια εταιρεία κερδίζει περισσότερους γιατρούς από σένα. Ένας φίλος προτείνει ένα viral κόλπο σε διαφήμιση. Τι θα πρότεινε ο Χόροβιτς;"},
+      "options": [
+        {"en": "Copy the rival's prices exactly", "el": "Να αντιγράψεις ακριβώς τις τιμές του ανταγωνιστή"},
+        {"en": "Find out why you lose and fix the product, step by step", "el": "Να μάθεις γιατί χάνεις και να βελτιώσεις το προϊόν, βήμα βήμα"},
+        {"en": "Try the viral trick first, it is cheaper", "el": "Να δοκιμάσεις πρώτα το viral κόλπο, είναι φθηνότερο"}
+      ],
+      "answer": 1,
+      "why": {"en": "No silver bullet: lead bullets, real improvements, win the deals back.", "el": "Ασημένια σφαίρα δεν υπάρχει: οι μολυβένιες, οι πραγματικές βελτιώσεις, ξανακερδίζουν τις συμφωνίες."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "You have cash for only six weeks. Your helper wants to spend the month redesigning your own logo. What do you do?", "el": "Έχεις ρευστό μόνο για έξι εβδομάδες. Ο συνεργάτης σου θέλει να περάσει τον μήνα ξανασχεδιάζοντας το δικό σας λογότυπο. Τι κάνεις;"},
+      "options": [
+        {"en": "Let him, creativity keeps people happy", "el": "Τον αφήνεις, η δημιουργικότητα κρατά τους ανθρώπους ευχαριστημένους"},
+        {"en": "Ask the team to vote on priorities", "el": "Ζητάς από την ομάδα να ψηφίσει προτεραιότητες"},
+        {"en": "Switch to wartime: one goal, getting paid, logo later", "el": "Περνάς σε λογική πολέμου: ένας στόχος, να πληρωθείτε, το λογότυπο αργότερα"}
+      ],
+      "answer": 2,
+      "why": {"en": "When the company's life is at risk, a wartime leader focuses everyone on one goal.", "el": "Όταν κινδυνεύει η ζωή της εταιρείας, ο ηγέτης του πολέμου στρέφει όλους σε έναν στόχο."},
+      "idea": 17
+    },
+    {
+      "q": {"en": "A friend you hired is not good at his job, and you have hinted for weeks. Nothing changes. What now?", "el": "Ένας φίλος που προσέλαβες δεν τα πάει καλά στη δουλειά του και του το υπονοείς εδώ και εβδομάδες. Τίποτα δεν αλλάζει. Τι κάνεις τώρα;"},
+      "options": [
+        {"en": "Keep hinting, he will understand eventually", "el": "Συνεχίζεις τα υπονοούμενα, κάποια στιγμή θα καταλάβει"},
+        {"en": "Check your own hiring mistake, then tell him clearly and offer a fitting role", "el": "Ελέγχεις το δικό σου λάθος στην επιλογή και μετά του μιλάς καθαρά, προτείνοντας έναν ρόλο που του ταιριάζει"},
+        {"en": "Stop giving him work without explaining", "el": "Σταματάς να του δίνεις δουλειά χωρίς εξηγήσεις"}
+      ],
+      "answer": 1,
+      "why": {"en": "Kindness without clarity hurts both; own your part and be direct.", "el": "Η καλοσύνη χωρίς σαφήνεια πληγώνει και τους δύο· ανέλαβε το μερίδιό σου και μίλα ευθέως."},
+      "idea": 7
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Horowitz says that for the hardest business problems there is usually a reliable formula.", "el": "Ο Χόροβιτς λέει ότι για τα πιο δύσκολα προβλήματα μιας επιχείρησης συνήθως υπάρχει μια αξιόπιστη φόρμουλα."}, "answer": false, "why": {"en": "His whole point is that hard things have no recipe.", "el": "Όλη η ουσία του είναι ότι τα δύσκολα δεν έχουν συνταγή."}},
+    {"s": {"en": "Loudcloud survived by selling its hosting business and becoming the software company Opsware.", "el": "Η Loudcloud επέζησε πουλώντας τη δουλειά της φιλοξενίας και γινόμενη η εταιρεία λογισμικού Opsware."}, "answer": true, "why": {"en": "That unusual move in 2002 saved the company.", "el": "Αυτή η ασυνήθιστη κίνηση το 2002 έσωσε την εταιρεία."}},
+    {"s": {"en": "In a layoff, Horowitz prefers HR or outsiders to deliver the news, to protect managers.", "el": "Στις απολύσεις ο Χόροβιτς προτιμά να ανακοινώνουν τα νέα το τμήμα προσωπικού ή τρίτοι, για να προστατευτούν οι προϊστάμενοι."}, "answer": false, "why": {"en": "Each manager should tell their own people, face to face.", "el": "Κάθε προϊστάμενος πρέπει να το πει ο ίδιος στους δικούς του, πρόσωπο με πρόσωπο."}},
+    {"s": {"en": "A one-on-one meeting should be driven by the employee's agenda.", "el": "Μια κατ' ιδίαν συνάντηση πρέπει να κινείται με τα θέματα του εργαζόμενου."}, "answer": true, "why": {"en": "Its purpose is to let problems and ideas flow up to you.", "el": "Ο σκοπός της είναι να ανεβαίνουν σε σένα τα προβλήματα και οι ιδέες."}},
+    {"s": {"en": "Putting two people in one job to avoid choosing is a form of management debt.", "el": "Το να βάλεις δύο ανθρώπους σε μία θέση για να μη διαλέξεις είναι μορφή χρέους διοίκησης."}, "answer": true, "why": {"en": "It postpones a hard choice and adds confusion with interest.", "el": "Αναβάλλει μια δύσκολη επιλογή και προσθέτει σύγχυση, με τόκο."}},
+    {"s": {"en": "A wartime leader is always better than a peacetime leader.", "el": "Ο ηγέτης του πολέμου είναι πάντα καλύτερος από τον ηγέτη της ειρήνης."}, "answer": false, "why": {"en": "Each fits a different situation; the skill is knowing which one you are in.", "el": "Ο καθένας ταιριάζει σε άλλη κατάσταση· η τέχνη είναι να ξέρεις σε ποια βρίσκεσαι."}},
+    {"s": {"en": "Horowitz says great leaders do not feel fear.", "el": "Ο Χόροβιτς λέει ότι οι μεγάλοι ηγέτες δεν φοβούνται."}, "answer": false, "why": {"en": "Everyone feels fear; courage is what you do with it.", "el": "Όλοι φοβούνται· θάρρος είναι το τι κάνεις με τον φόβο."}},
+    {"s": {"en": "Horowitz's order of priorities is people, then products, then profits.", "el": "Η σειρά προτεραιοτήτων του Χόροβιτς είναι πρώτα οι άνθρωποι, μετά τα προϊόντα και μετά τα κέρδη."}, "answer": true, "why": {"en": "Good people make good products, which make the profits.", "el": "Οι καλοί άνθρωποι φτιάχνουν καλά προϊόντα, κι αυτά φέρνουν τα κέρδη."}}
+  ],
+  "pairs": [
+    {"a": {"en": "The Struggle", "el": "Ο Αγώνας"}, "b": {"en": "The founder's darkest moments of doubt", "el": "Οι πιο σκοτεινές στιγμές αμφιβολίας του ιδρυτή"}},
+    {"a": {"en": "Lead bullets", "el": "Μολυβένιες σφαίρες"}, "b": {"en": "Hard, ordinary work that fixes the product", "el": "Σκληρή, συνηθισμένη δουλειά που διορθώνει το προϊόν"}},
+    {"a": {"en": "Management debt", "el": "Χρέος διοίκησης"}, "b": {"en": "Easy shortcuts now that cost more later", "el": "Εύκολες συντομεύσεις τώρα που κοστίζουν αργότερα"}},
+    {"a": {"en": "Wartime CEO", "el": "Ηγέτης του πολέμου"}, "b": {"en": "Leads with focus when survival is at stake", "el": "Ηγείται με εστίαση όταν κινδυνεύει η επιβίωση"}},
+    {"a": {"en": "One-on-one", "el": "Κατ' ιδίαν συνάντηση"}, "b": {"en": "The employee's meeting, with their agenda", "el": "Η συνάντηση του εργαζόμενου, με τα δικά του θέματα"}},
+    {"a": {"en": "Politics", "el": "Πολιτική"}, "b": {"en": "Getting ahead by influence instead of results", "el": "Να προχωράς με επιρροή αντί για αποτελέσματα"}}
+  ],
+  "missions": [
+    {"en": "Write the one decision you keep avoiding and take the first step on it today.", "el": "Γράψε τη μία απόφαση που αποφεύγεις και κάνε σήμερα το πρώτο βήμα."},
+    {"en": "Ask the last three prospects who said no exactly why, and list one fix for each answer.", "el": "Ρώτα τους τρεις τελευταίους υποψήφιους πελάτες που είπαν όχι γιατί ακριβώς, και γράψε μία διόρθωση για κάθε απάντηση."},
+    {"en": "Write a one-page guide of what a good first draft looks like in your agency.", "el": "Γράψε έναν οδηγό μιας σελίδας για το πώς είναι ένα καλό πρώτο σχέδιο στην εταιρεία σου."},
+    {"en": "Hold a 20-minute one-on-one with a helper and let them set the agenda.", "el": "Κάνε μια κατ' ιδίαν κλήση 20 λεπτών με έναν συνεργάτη και άφησέ τον να ορίσει τα θέματα."},
+    {"en": "Decide whether this month is peacetime or wartime for your agency, and write the one goal it implies.", "el": "Αποφάσισε αν αυτός ο μήνας είναι ειρήνη ή πόλεμος για την εταιρεία σου, και γράψε τον έναν στόχο που προκύπτει."}
+  ],
+  "mantra": {"en": "There is always a move. Tell it like it is, then make it.", "el": "Πάντα υπάρχει μια κίνηση. Πες τα όπως είναι και κάν' την."},
+  "careful": {
+    "en": "This is one founder's experience, not research. Horowitz led venture-funded companies with boards, investors and hundreds of staff, so some advice, on executives or large layoffs, fits a small agency only loosely. His story also has survivor bias: others who did the same things failed. The war language can sound macho; the lasting lessons are honesty, clear processes and courage, which work at any size.",
+    "el": "Πρόκειται για την εμπειρία ενός ιδρυτή, όχι για έρευνα. Ο Χόροβιτς ηγήθηκε εταιρειών με επενδυτικά κεφάλαια, διοικητικά συμβούλια και εκατοντάδες εργαζόμενους, οπότε κάποιες συμβουλές, για στελέχη ή μεγάλες απολύσεις, ταιριάζουν μόνο χαλαρά σε μια μικρή εταιρεία. Η ιστορία του έχει και μεροληψία επιβίωσης: άλλοι έκαναν τα ίδια και απέτυχαν. Η πολεμική γλώσσα μπορεί να ακούγεται μάτσο· τα μαθήματα που μένουν είναι η ειλικρίνεια, οι καθαρές διαδικασίες και το θάρρος, που δουλεύουν σε κάθε μέγεθος."
+  },
+  "connects": [
+    {"book": "zero-to-one", "note": {"en": "Thiel shows how to build something new; Horowitz shows what it feels like to keep it alive when everything breaks.", "el": "Ο Thiel δείχνει πώς χτίζεις κάτι καινούργιο· ο Χόροβιτς δείχνει πώς είναι να το κρατάς ζωντανό όταν όλα σπάνε."}},
+    {"book": "obstacle-is-the-way", "note": {"en": "Both say the crisis itself is where you grow, if you keep acting instead of complaining.", "el": "Και τα δύο λένε ότι η κρίση είναι το σημείο όπου μεγαλώνεις, αν συνεχίζεις να δρας αντί να παραπονιέσαι."}},
+    {"book": "who-not-how", "note": {"en": "Sullivan tells you to find the right people; Horowitz shows the hard part of hiring, training and sometimes letting them go.", "el": "Ο Sullivan σού λέει να βρεις τους σωστούς ανθρώπους· ο Χόροβιτς δείχνει το δύσκολο κομμάτι: να τους επιλέξεις, να τους εκπαιδεύσεις και καμιά φορά να τους αποχωριστείς."}}
+  ]
+}

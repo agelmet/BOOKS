@@ -1,0 +1,601 @@
+{
+  "id": "storybrand",
+  "title": {"en": "Building a StoryBrand: Clarify Your Message So Customers Will Listen", "el": "Χτίζοντας ένα StoryBrand: Κάνε το μήνυμά σου ξεκάθαρο για να σε ακούσουν οι πελάτες"},
+  "author": "Donald Miller",
+  "authorEl": "Ντόναλντ Μίλερ",
+  "year": 2017,
+  "shelf": "talk",
+  "skills": {"communication": 3, "sales": 2, "persuasion": 2},
+  "oneLine": {
+    "en": "Customers care about their own story, not yours: make them the hero, be the guide with a clear plan, and say it so simply a caveman would get it.",
+    "el": "Τον πελάτη τον νοιάζει η δική του ιστορία, όχι η δική σου: κάν' τον ήρωα, γίνε ο οδηγός με ένα καθαρό σχέδιο και πες το τόσο απλά που να το πιάνει κι ένας άνθρωπος των σπηλαίων."
+  },
+  "story": {
+    "en": "Donald Miller first became known as a bestselling memoir writer. While learning how screenwriters build stories, he noticed that the same structure that holds us in a film could fix the confusing messages of most companies. He built a marketing firm around the idea and in 2017 published this book, with its seven-part SB7 framework. Small businesses love it because it turns vague marketing into a simple fill-in-the-blanks script.",
+    "el": "Ο Ντόναλντ Μίλερ έγινε αρχικά γνωστός ως συγγραφέας αυτοβιογραφικών best seller. Μαθαίνοντας πώς χτίζουν τις ιστορίες τους οι σεναριογράφοι, πρόσεξε ότι η ίδια δομή που μας κρατά καρφωμένους σε μια ταινία μπορεί να διορθώσει τα μπερδεμένα μηνύματα των περισσότερων εταιρειών. Έστησε μια εταιρεία μάρκετινγκ γύρω από αυτή την ιδέα και το 2017 έβγαλε αυτό το βιβλίο, με το σύστημα επτά βημάτων SB7. Οι μικρές επιχειρήσεις το λατρεύουν γιατί κάνει το θολό μάρκετινγκ ένα απλό σενάριο που απλώς συμπληρώνεις."
+  },
+  "forYou": {
+    "en": "Your homepage, your ads and your first ten seconds on the phone all have one job: make a busy doctor instantly understand what you offer, how it helps him and what to do next. This book gives you that script. It also improves every site you build for clients: each hero, section and button can follow the same seven steps.",
+    "el": "Η αρχική σου σελίδα, οι διαφημίσεις σου και τα πρώτα δέκα δευτερόλεπτα στο τηλέφωνο έχουν όλα μία δουλειά: να καταλάβει αμέσως ένας πολυάσχολος γιατρός τι προσφέρεις, πώς τον βοηθά και τι να κάνει μετά. Το βιβλίο σού δίνει αυτό το σενάριο. Βελτιώνει επίσης κάθε σελίδα που φτιάχνεις για πελάτες: κάθε πρώτη οθόνη, κάθε ενότητα και κάθε κουμπί μπορεί να ακολουθεί τα ίδια επτά βήματα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "If you confuse, you lose", "el": "Αν μπερδεύεις, χάνεις"},
+      "explain": {
+        "en": "Miller's starting point: companies waste money on marketing because their message is unclear. The brain is built to survive and to save energy, so it filters out anything that takes effort to understand. If customers must work to figure out what you offer, they ignore you. The fix is not prettier design or cleverer words; it is clarity. Story is the best tool for clarity, because it organises information.",
+        "el": "Η αφετηρία του Μίλερ: οι εταιρείες πετούν λεφτά στο μάρκετινγκ γιατί το μήνυμά τους δεν είναι καθαρό. Ο εγκέφαλος είναι φτιαγμένος να επιβιώνει και να εξοικονομεί ενέργεια, οπότε φιλτράρει ό,τι θέλει κόπο για να το καταλάβει. Αν ο πελάτης πρέπει να κουραστεί για να βρει τι προσφέρεις, σε αγνοεί. Η λύση δεν είναι πιο όμορφος σχεδιασμός ή πιο έξυπνες λέξεις· είναι η σαφήνεια. Η ιστορία είναι το καλύτερο εργαλείο σαφήνειας, γιατί βάζει την πληροφορία σε τάξη."
+      },
+      "example": {
+        "en": "The human brain is about 2% of body weight but uses roughly 20% of the body's energy. Miller uses this to explain why people skim: the brain is always looking for ways to spend less effort, so a confusing message is tuned out like background noise.",
+        "el": "Ο ανθρώπινος εγκέφαλος είναι περίπου το 2% του βάρους του σώματος, αλλά καταναλώνει γύρω στο 20% της ενέργειάς του. Ο Μίλερ το χρησιμοποιεί για να εξηγήσει γιατί ο κόσμος διαβάζει διαγώνια: ο εγκέφαλος ψάχνει πάντα τρόπους να ξοδέψει λιγότερο κόπο, οπότε ένα μπερδεμένο μήνυμα χάνεται σαν θόρυβος στο βάθος."
+      },
+      "apply": {
+        "en": "Show the advonmedia.com homepage to someone outside your industry for five seconds, then hide it. Ask: what does this company do, and what should I do next? If they hesitate on either answer, rewrite until they can say both instantly.",
+        "el": "Δείξε την αρχική σελίδα του advonmedia.com σε κάποιον εκτός του χώρου σου για πέντε δευτερόλεπτα και μετά κρύψ' την. Ρώτα: τι κάνει αυτή η εταιρεία και τι πρέπει να κάνω μετά; Αν διστάσει σε οποιαδήποτε από τις δύο απαντήσεις, ξαναγράψε μέχρι να τις λέει αμέσως."
+      },
+      "check": {
+        "q": {"en": "Why do customers ignore confusing messages?", "el": "Γιατί οι πελάτες αγνοούν τα μπερδεμένα μηνύματα;"},
+        "options": [
+          {"en": "The brain saves energy and filters out what is hard to process", "el": "Ο εγκέφαλος εξοικονομεί ενέργεια και φιλτράρει ό,τι είναι δύσκολο να επεξεργαστεί"},
+          {"en": "They actually prefer long, detailed explanations", "el": "Στην πραγματικότητα προτιμούν μεγάλες, λεπτομερείς εξηγήσεις"},
+          {"en": "They only ever care about the price", "el": "Τους νοιάζει πάντα μόνο η τιμή"}
+        ],
+        "answer": 0,
+        "why": {"en": "Unclear messages cost mental energy, so the brain simply skips them.", "el": "Τα ασαφή μηνύματα κοστίζουν πνευματική ενέργεια, οπότε ο εγκέφαλος απλώς τα προσπερνά."}
+      }
+    },
+    {
+      "title": {"en": "The Grunt Test", "el": "Το τεστ του ανθρώπου των σπηλαίων"},
+      "explain": {
+        "en": "Miller's simple check is the Grunt Test: could a caveman look at your website for a few seconds and grunt back three answers? What do you offer? How will it make my life better? What do I need to do to buy it? If your first screen fails any of the three, you lose people before they read anything else.",
+        "el": "Ο απλός έλεγχος του Μίλερ είναι το «Grunt Test»: θα μπορούσε ένας άνθρωπος των σπηλαίων να κοιτάξει τη σελίδα σου λίγα δευτερόλεπτα και να σου απαντήσει με ένα γρύλισμα σε τρία πράγματα; Τι προσφέρεις; Πώς θα κάνει τη ζωή μου καλύτερη; Τι πρέπει να κάνω για να το αγοράσω; Αν η πρώτη οθόνη σου αποτυγχάνει σε ένα από τα τρία, χάνεις τον κόσμο πριν διαβάσει οτιδήποτε άλλο."
+      },
+      "example": {
+        "en": "Google's homepage passes the Grunt Test instantly: a search box and a button. Within a second you know what it offers, how it helps you, and what to do next. Nothing on the page competes with that one action.",
+        "el": "Η αρχική σελίδα του Google περνά το τεστ αμέσως: ένα κουτί αναζήτησης και ένα κουμπί. Μέσα σε ένα δευτερόλεπτο ξέρεις τι προσφέρει, πώς σε βοηθά και τι να κάνεις μετά. Τίποτα στη σελίδα δεν ανταγωνίζεται αυτή τη μία κίνηση."
+      },
+      "apply": {
+        "en": "Run the Grunt Test on every client site before you send the draft: in the first screen a stranger must see what the client does, for example «Paediatric dentist in Marousi», how it helps, and one clear button like «Book an appointment». Then test your own hero the same way.",
+        "el": "Κάνε το τεστ σε κάθε σελίδα πελάτη πριν στείλεις το προσχέδιο: στην πρώτη οθόνη ένας άγνωστος πρέπει να δει τι κάνει ο πελάτης, για παράδειγμα «Παιδοδοντίατρος στο Μαρούσι», πώς βοηθά, και ένα καθαρό κουμπί όπως «Κλείστε ραντεβού». Μετά έλεγξε με τον ίδιο τρόπο και τη δική σου πρώτη οθόνη."
+      },
+      "check": {
+        "q": {"en": "Which three questions make up the Grunt Test?", "el": "Ποιες τρεις ερωτήσεις κάνει το τεστ;"},
+        "options": [
+          {"en": "Who founded you, when and where?", "el": "Ποιος σας ίδρυσε, πότε και πού;"},
+          {"en": "What do you offer, how does it help me, how do I buy?", "el": "Τι προσφέρεις, πώς με βοηθά, πώς το αγοράζω;"},
+          {"en": "How big, how cheap and how fast are you?", "el": "Πόσο μεγάλοι, πόσο φθηνοί και πόσο γρήγοροι είστε;"}
+        ],
+        "answer": 1,
+        "why": {"en": "Those three answers are all a visitor needs to decide whether to stay.", "el": "Αυτές οι τρεις απαντήσεις είναι ό,τι χρειάζεται ένας επισκέπτης για να αποφασίσει αν θα μείνει."}
+      }
+    },
+    {
+      "title": {"en": "The customer is the hero", "el": "Ο πελάτης είναι ο ήρωας"},
+      "explain": {
+        "en": "Almost every good story has the same shape, and Miller turns it into the SB7 framework: a character who wants something has a problem, meets a guide who gives them a plan and calls them to action, which helps them avoid failure and ends in success. The key move: your customer is the hero, not your company. You are the guide who helps the hero win.",
+        "el": "Σχεδόν κάθε καλή ιστορία έχει το ίδιο σχήμα, και ο Μίλερ το κάνει το σύστημα SB7: ένας ήρωας που θέλει κάτι έχει ένα πρόβλημα, συναντά έναν οδηγό που του δίνει ένα σχέδιο και τον καλεί σε δράση, κι αυτό τον βοηθά να αποφύγει την αποτυχία και να φτάσει στην επιτυχία. Η κρίσιμη κίνηση: ήρωας είναι ο πελάτης σου, όχι η εταιρεία σου. Εσύ είσαι ο οδηγός που βοηθά τον ήρωα να νικήσει."
+      },
+      "example": {
+        "en": "In «Star Wars», Luke Skywalker is the hero; Obi-Wan and Yoda are the guides who train him and give him a plan. In «The Hunger Games», Katniss is the hero and Haymitch is her guide. We remember the hero's journey, but the guide makes it possible.",
+        "el": "Στον «Πόλεμο των Άστρων», ήρωας είναι ο Λουκ Σκαϊγουόκερ· ο Όμπι-Γουάν και ο Γιόντα είναι οι οδηγοί που τον εκπαιδεύουν και του δίνουν σχέδιο. Στους «Αγώνες Πείνας», ηρωίδα είναι η Κάτνις και οδηγός της ο Χέιμιτς. Θυμόμαστε το ταξίδι του ήρωα, αλλά ο οδηγός είναι αυτός που το κάνει δυνατό."
+      },
+      "apply": {
+        "en": "Rewrite your homepage so the doctor is the subject of almost every sentence: not «We are a creative agency with 200+ sites», but «Patients search for you online. Make sure they find a site that earns their trust.» Advon appears only as the helper.",
+        "el": "Ξαναγράψε την αρχική σου σελίδα ώστε υποκείμενο σχεδόν κάθε πρότασης να είναι ο γιατρός: όχι «Είμαστε μια δημιουργική εταιρεία με 200+ σελίδες», αλλά «Οι ασθενείς σάς αναζητούν στο ίντερνετ. Φροντίστε να βρίσκουν μια σελίδα που κερδίζει την εμπιστοσύνη τους». Η Advon εμφανίζεται μόνο ως αυτή που βοηθά."
+      },
+      "check": {
+        "q": {"en": "What role should your company play in the customer's story?", "el": "Τι ρόλο πρέπει να παίζει η εταιρεία σου στην ιστορία του πελάτη;"},
+        "options": [
+          {"en": "The hero who saves the day", "el": "Τον ήρωα που σώζει την κατάσταση"},
+          {"en": "The villain the customer must fight", "el": "Τον κακό που πρέπει να πολεμήσει ο πελάτης"},
+          {"en": "The guide who helps the hero win", "el": "Τον οδηγό που βοηθά τον ήρωα να νικήσει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Customers see themselves as heroes; they are looking for a guide, not a rival hero.", "el": "Ο πελάτης βλέπει τον εαυτό του ως ήρωα· ψάχνει οδηγό, όχι έναν άλλον ήρωα να τον ανταγωνίζεται."}
+      }
+    },
+    {
+      "title": {"en": "1. A hero who wants one thing", "el": "1. Ένας ήρωας που θέλει ένα πράγμα"},
+      "explain": {
+        "en": "Step one: a character who wants something. A story only starts when the hero wants something specific, so define one clear thing your customer wants. Tie it to survival: saving time or money, gaining status, building resources, belonging, meaning. List ten wants and the story blurs. Name one, and you open a «story gap» the customer wants closed.",
+        "el": "Πρώτο βήμα: ένας ήρωας που θέλει κάτι. Η ιστορία ξεκινά μόνο όταν ο ήρωας θέλει κάτι συγκεκριμένο, οπότε όρισε ένα καθαρό πράγμα που θέλει ο πελάτης σου. Δέσ' το με την επιβίωση: να κερδίσει χρόνο ή χρήματα, κύρος, πόρους, να ανήκει κάπου, να βρει νόημα. Αν απαριθμήσεις δέκα επιθυμίες, η ιστορία θολώνει. Ονόμασε μία, και ανοίγεις ένα «κενό στην ιστορία» που ο πελάτης θέλει να κλείσει."
+      },
+      "example": {
+        "en": "Domino's grew in the 1980s on one promise: hot pizza delivered in 30 minutes or less. Hungry customers wanted one thing, food that arrives fast and hot, and the whole message was built around that single desire. The company dropped the guarantee in 1993 after lawsuits over driver safety.",
+        "el": "Η Domino's μεγάλωσε τη δεκαετία του '80 με μία υπόσχεση: ζεστή πίτσα στην πόρτα σου σε 30 λεπτά ή λιγότερο. Ο πεινασμένος πελάτης ήθελε ένα πράγμα, φαγητό που έρχεται γρήγορα και ζεστό, και όλο το μήνυμα χτίστηκε γύρω από αυτή τη μία επιθυμία. Η εταιρεία κατάργησε την εγγύηση το 1993, μετά από αγωγές για την ασφάλεια των διανομέων."
+      },
+      "apply": {
+        "en": "Name the doctor's one desire at the top of advonmedia.com: «New patients who find you and trust you online.» Put it in the first screen, not in the fourth section. On calls, ask what he wants most for his practice this year and link your offer only to that.",
+        "el": "Γράψε τη μία επιθυμία του γιατρού στην κορυφή του advonmedia.com: «Νέοι ασθενείς που σας βρίσκουν και σας εμπιστεύονται στο ίντερνετ». Βάλ' τη στην πρώτη οθόνη, όχι στην τέταρτη ενότητα. Στα τηλεφωνήματα, ρώτα τι θέλει περισσότερο για το ιατρείο του φέτος και σύνδεσε την προσφορά σου μόνο με αυτό."
+      },
+      "check": {
+        "q": {"en": "Why should your message focus on one desire?", "el": "Γιατί το μήνυμά σου πρέπει να εστιάζει σε μία επιθυμία;"},
+        "options": [
+          {"en": "Because customers only ever have one problem", "el": "Γιατί ο πελάτης έχει πάντα μόνο ένα πρόβλημα"},
+          {"en": "Because listing many wants blurs the story", "el": "Γιατί όταν απαριθμείς πολλές επιθυμίες η ιστορία θολώνει"},
+          {"en": "Because one desire is easier to design", "el": "Γιατί μία επιθυμία σχεδιάζεται πιο εύκολα"}
+        ],
+        "answer": 1,
+        "why": {"en": "One clear want opens a story gap; many wants confuse, and confused people tune out.", "el": "Μία καθαρή επιθυμία ανοίγει κενό στην ιστορία· πολλές μπερδεύουν, και όποιος μπερδεύεται, αποσυνδέεται."}
+      }
+    },
+    {
+      "title": {"en": "2. Name the villain", "el": "2. Ονόμασε τον κακό"},
+      "explain": {
+        "en": "Step two: the hero has a problem. Stories need conflict, and the clearest way to show it is a villain. In marketing, the villain is the root cause of the customer's problem. Miller says it should be real, single and relatable, something people already resent. Naming the villain gives customers something to fight and makes your product feel like their weapon.",
+        "el": "Δεύτερο βήμα: ο ήρωας έχει ένα πρόβλημα. Οι ιστορίες θέλουν σύγκρουση, και ο πιο καθαρός τρόπος να τη δείξεις είναι ένας κακός. Στο μάρκετινγκ, ο κακός είναι η ρίζα του προβλήματος του πελάτη. Ο Μίλερ λέει ότι πρέπει να είναι πραγματικός, ένας και αναγνωρίσιμος, κάτι που ο κόσμος ήδη αντιπαθεί. Όταν ονομάζεις τον κακό, δίνεις στον πελάτη κάτι να πολεμήσει, και το προϊόν σου μοιάζει με το όπλο του."
+      },
+      "example": {
+        "en": "Since 2010 the US insurer Allstate has run ads starring «Mayhem», a man who plays the things that cause accidents: a deer on the road, a falling tree branch, a blind spot. The villain makes an abstract risk concrete and a little funny, and the insurer becomes the obvious protection.",
+        "el": "Από το 2010 η αμερικανική ασφαλιστική Allstate κάνει διαφημίσεις με πρωταγωνιστή τον «Mayhem», δηλαδή το «Χάος», έναν άντρα που υποδύεται ό,τι προκαλεί ατυχήματα: ένα ελάφι στον δρόμο, ένα κλαδί που πέφτει, ένα τυφλό σημείο. Ο κακός κάνει έναν αφηρημένο κίνδυνο χειροπιαστό και λίγο αστείο, και η ασφαλιστική γίνεται η προφανής προστασία."
+      },
+      "apply": {
+        "en": "Name your clients' villain: the old or missing website that quietly sends patients to a colleague. Say it on calls: «A good doctor's biggest enemy online is an old site that makes him look worse than he is.» Never make a competitor or the client himself the villain.",
+        "el": "Ονόμασε τον κακό των πελατών σου: την παλιά ή ανύπαρκτη σελίδα που στέλνει αθόρυβα τους ασθενείς σε έναν συνάδελφο. Πες το στα τηλεφωνήματα: «Ο μεγαλύτερος εχθρός ενός καλού γιατρού στο ίντερνετ είναι μια παλιά σελίδα που τον δείχνει χειρότερο απ' ό,τι είναι». Μην κάνεις ποτέ κακό έναν ανταγωνιστή ή τον ίδιο τον πελάτη."
+      },
+      "check": {
+        "q": {"en": "What makes a good villain in your marketing?", "el": "Τι κάνει έναν καλό «κακό» στο μάρκετινγκ σου;"},
+        "options": [
+          {"en": "A real root cause of the problem that people already dislike", "el": "Μια πραγματική ρίζα του προβλήματος που ο κόσμος ήδη αντιπαθεί"},
+          {"en": "Your biggest competitor, named directly", "el": "Ο μεγαλύτερος ανταγωνιστής σου, με το όνομά του"},
+          {"en": "The customer's own past decisions", "el": "Οι παλιές αποφάσεις του ίδιου του πελάτη"}
+        ],
+        "answer": 0,
+        "why": {"en": "A real, relatable cause gives customers something to fight without blaming anyone.", "el": "Μια πραγματική, αναγνωρίσιμη αιτία δίνει στον πελάτη κάτι να πολεμήσει χωρίς να κατηγορεί κανέναν."}
+      }
+    },
+    {
+      "title": {"en": "Three levels of problem", "el": "Τρία επίπεδα προβλήματος"},
+      "explain": {
+        "en": "Miller says customers face problems on three levels. External: the visible, practical issue. Internal: how it makes them feel, such as frustrated, embarrassed or worried. Philosophical: why it is simply wrong, a sense of «this should not be». Companies tend to sell solutions to external problems, but people buy solutions to internal ones. Speak to all three, the internal most of all.",
+        "el": "Ο Μίλερ λέει ότι οι πελάτες έχουν προβλήματα σε τρία επίπεδα. Εξωτερικό: το ορατό, πρακτικό ζήτημα. Εσωτερικό: πώς τους κάνει να νιώθουν, εκνευρισμένους, αμήχανους ή ανήσυχους. Φιλοσοφικό: γιατί είναι απλώς λάθος, η αίσθηση ότι «αυτό δεν θα έπρεπε να συμβαίνει». Οι εταιρείες συνήθως πουλούν λύσεις σε εξωτερικά προβλήματα, αλλά ο κόσμος αγοράζει λύσεις σε εσωτερικά. Μίλα και στα τρία, και πάνω απ' όλα στο εσωτερικό."
+      },
+      "example": {
+        "en": "CarMax sells used cars, an external problem. But it saw the internal one: many people dread haggling and fear being cheated by car salesmen. With fixed, no-haggle prices it sold relief from that fear, and it grew into the largest used-car retailer in the United States.",
+        "el": "Η CarMax πουλά μεταχειρισμένα αυτοκίνητα, που είναι εξωτερικό πρόβλημα. Είδε όμως και το εσωτερικό: πολλοί σιχαίνονται το παζάρι και φοβούνται ότι θα τους κοροϊδέψει ο πωλητής. Με σταθερές τιμές χωρίς παζάρι πούλησε ανακούφιση από αυτόν τον φόβο, και έγινε η μεγαλύτερη αλυσίδα μεταχειρισμένων αυτοκινήτων στις Ηνωμένες Πολιτείες."
+      },
+      "apply": {
+        "en": "Name all three in your pitch. External: «You have no site, or an old one.» Internal: «It is a bit awkward when a patient asks for your website.» Philosophical: «A good doctor should not lose patients because of a bad website.» Lead your ads with the internal one.",
+        "el": "Ονόμασε και τα τρία στην παρουσίασή σου. Εξωτερικό: «Δεν έχετε σελίδα ή έχετε μια παλιά». Εσωτερικό: «Είναι λίγο άβολο όταν ένας ασθενής σάς ζητά τη σελίδα σας». Φιλοσοφικό: «Ένας καλός γιατρός δεν πρέπει να χάνει ασθενείς εξαιτίας μιας κακής σελίδας». Στις διαφημίσεις ξεκίνα από το εσωτερικό."
+      },
+      "check": {
+        "q": {"en": "According to Miller, what do people mostly pay to solve?", "el": "Κατά τον Μίλερ, τι πληρώνει κυρίως ο κόσμος για να λύσει;"},
+        "options": [
+          {"en": "The external, practical problem", "el": "Το εξωτερικό, πρακτικό πρόβλημα"},
+          {"en": "The philosophical problem", "el": "Το φιλοσοφικό πρόβλημα"},
+          {"en": "The internal problem: how it makes them feel", "el": "Το εσωτερικό πρόβλημα: πώς τους κάνει να νιώθουν"}
+        ],
+        "answer": 2,
+        "why": {"en": "The feeling behind the practical issue is what drives the buying decision.", "el": "Το συναίσθημα πίσω από το πρακτικό ζήτημα είναι αυτό που οδηγεί στην απόφαση αγοράς."}
+      }
+    },
+    {
+      "title": {"en": "3. Be the guide, not the hero", "el": "3. Γίνε ο οδηγός, όχι ο ήρωας"},
+      "explain": {
+        "en": "Step three: the hero meets a guide. Heroes are not complete; they need help. Many companies make the mistake of casting themselves as the hero, talking about their history, awards and passion. Customers are not looking for another hero; they are looking for a guide. Once you play the guide, every message shifts from «look at us» to «here is how we help you win».",
+        "el": "Τρίτο βήμα: ο ήρωας συναντά έναν οδηγό. Οι ήρωες δεν είναι πλήρεις· χρειάζονται βοήθεια. Πολλές εταιρείες κάνουν το λάθος να βάζουν τον εαυτό τους στον ρόλο του ήρωα, μιλώντας για την ιστορία τους, τα βραβεία τους και το πάθος τους. Ο πελάτης δεν ψάχνει άλλον ήρωα· ψάχνει οδηγό. Μόλις παίξεις τον οδηγό, κάθε μήνυμα αλλάζει από «κοιτάξτε εμάς» σε «έτσι σας βοηθάμε να κερδίσετε»."
+      },
+      "example": {
+        "en": "In 2015 Jay-Z relaunched the music service Tidal at a press event where famous artists stood on stage and signed a declaration about artists' rights. The message was about the musicians, not about what listeners would gain. Despite all the star power, the launch was widely mocked and the service grew slowly.",
+        "el": "Το 2015 ο Jay-Z παρουσίασε ξανά την υπηρεσία μουσικής Tidal σε μια εκδήλωση όπου διάσημοι καλλιτέχνες ανέβηκαν στη σκηνή και υπέγραψαν μια διακήρυξη για τα δικαιώματα των καλλιτεχνών. Το μήνυμα αφορούσε τους μουσικούς, όχι τι θα κέρδιζαν οι ακροατές. Παρά τα τόσα αστέρια, η παρουσίαση έγινε στόχος χλευασμού και η υπηρεσία μεγάλωσε αργά."
+      },
+      "apply": {
+        "en": "Cut «about us» talk from the first half of every call and ad. Instead of «we are the best agency, we use AI and the latest design», say «you focus on your patients; we make sure they find you and trust you». Talk about Advon only to show you can help.",
+        "el": "Κόψε το «ποιοι είμαστε» από το πρώτο μισό κάθε τηλεφωνήματος και κάθε διαφήμισης. Αντί για «είμαστε η καλύτερη εταιρεία, δουλεύουμε με AI και τον πιο σύγχρονο σχεδιασμό», πες «εσείς ασχολείστε με τους ασθενείς σας· εμείς φροντίζουμε να σας βρίσκουν και να σας εμπιστεύονται». Μίλα για την Advon μόνο για να δείξεις ότι μπορείς να βοηθήσεις."
+      },
+      "check": {
+        "q": {"en": "Why did Tidal's launch fail to connect with listeners?", "el": "Γιατί η παρουσίαση του Tidal δεν άγγιξε τους ακροατές;"},
+        "options": [
+          {"en": "The monthly price was far too high", "el": "Η μηνιαία τιμή ήταν υπερβολικά υψηλή"},
+          {"en": "The artists cast themselves as the heroes", "el": "Οι καλλιτέχνες έβαλαν τον εαυτό τους στον ρόλο του ήρωα"},
+          {"en": "The app did not work on phones", "el": "Η εφαρμογή δεν δούλευε στα κινητά"}
+        ],
+        "answer": 1,
+        "why": {"en": "The story was about the stars, not the customer, so listeners saw nothing in it for them.", "el": "Η ιστορία αφορούσε τα αστέρια, όχι τον πελάτη, οπότε ο ακροατής δεν είδε τι κερδίζει ο ίδιος."}
+      }
+    },
+    {
+      "title": {"en": "Empathy plus authority", "el": "Ενσυναίσθηση και κύρος"},
+      "explain": {
+        "en": "A guide needs two things. Empathy: showing you understand how the customer feels, as in «we know how frustrating it is». Authority: showing you are competent to help, through reviews, numbers, awards or client logos. You do not need to brag, just give enough proof that you have done this before. Empathy builds trust, authority builds confidence; you need both.",
+        "el": "Ένας οδηγός χρειάζεται δύο πράγματα. Ενσυναίσθηση: να δείχνεις ότι καταλαβαίνεις πώς νιώθει ο πελάτης, όπως στο «ξέρουμε πόσο εκνευριστικό είναι». Κύρος: να δείχνεις ότι μπορείς να βοηθήσεις, με κριτικές, αριθμούς, βραβεία ή λογότυπα πελατών. Δεν χρειάζεται να καυχηθείς, αρκεί η απόδειξη ότι το έχεις ξανακάνει. Η ενσυναίσθηση χτίζει εμπιστοσύνη, το κύρος χτίζει σιγουριά· χρειάζεσαι και τα δύο."
+      },
+      "example": {
+        "en": "In a 1992 town-hall debate, a voter asked how the national debt had affected the candidates personally. President George H. W. Bush, who had been caught glancing at his watch, struggled with the question. Bill Clinton walked toward her and asked how it affected her and people she knew. He showed empathy, and went on to win.",
+        "el": "Σε ένα ντιμπέιτ του 1992 με ερωτήσεις από το κοινό, μια ψηφοφόρος ρώτησε πώς είχε επηρεάσει προσωπικά τους υποψηφίους το εθνικό χρέος. Ο πρόεδρος Τζορτζ Μπους ο πρεσβύτερος, που είχε πιαστεί να κοιτάζει το ρολόι του, δυσκολεύτηκε με την ερώτηση. Ο Μπιλ Κλίντον πλησίασε τη γυναίκα και τη ρώτησε πώς επηρέασε το χρέος την ίδια και ανθρώπους που ήξερε. Έδειξε ενσυναίσθηση, και τελικά κέρδισε."
+      },
+      "apply": {
+        "en": "Open calls with empathy: «I know you are between patients and have little time.» Then one line of authority: «We have built over 200 websites for doctors and other professionals.» On advonmedia.com, place real Google reviews next to the 200+ figure.",
+        "el": "Άνοιξε τα τηλεφωνήματα με ενσυναίσθηση: «Ξέρω ότι είστε ανάμεσα σε ασθενείς και δεν έχετε πολύ χρόνο». Μετά μία γραμμή κύρους: «Έχουμε φτιάξει πάνω από 200 ιστοσελίδες για γιατρούς και άλλους επαγγελματίες». Στο advonmedia.com, βάλε αληθινές κριτικές Google δίπλα στο 200+."
+      },
+      "check": {
+        "q": {"en": "What two qualities make a strong guide?", "el": "Ποια δύο χαρακτηριστικά κάνουν έναν δυνατό οδηγό;"},
+        "options": [
+          {"en": "Empathy and authority", "el": "Ενσυναίσθηση και κύρος"},
+          {"en": "Humor and the lowest prices", "el": "Χιούμορ και οι χαμηλότερες τιμές"},
+          {"en": "Passion and a long company history", "el": "Πάθος και μεγάλη ιστορία της εταιρείας"}
+        ],
+        "answer": 0,
+        "why": {"en": "Empathy makes customers feel understood; authority makes them believe you can deliver.", "el": "Η ενσυναίσθηση κάνει τον πελάτη να νιώθει ότι τον καταλαβαίνεις· το κύρος τον κάνει να πιστεύει ότι μπορείς να το κάνεις."}
+      }
+    },
+    {
+      "title": {"en": "4. Give them a plan", "el": "4. Δώσ' τους ένα σχέδιο"},
+      "explain": {
+        "en": "Step four: the guide gives the hero a plan. Even when people trust you, they hesitate if the next steps are unclear. A process plan lays out the three or four steps to buy or to use your product. It removes confusion and makes the decision feel like walking a short, safe path. Miller suggests giving the plan a name, such as «our easy 3-step plan».",
+        "el": "Τέταρτο βήμα: ο οδηγός δίνει στον ήρωα ένα σχέδιο. Ακόμα κι όταν ο κόσμος σε εμπιστεύεται, διστάζει αν δεν είναι καθαρά τα επόμενα βήματα. Ένα σχέδιο διαδικασίας δείχνει τα τρία ή τέσσερα βήματα για να αγοράσει ή να χρησιμοποιήσει το προϊόν σου. Διώχνει τη σύγχυση και κάνει την απόφαση να μοιάζει με έναν σύντομο, ασφαλή δρόμο. Ο Μίλερ προτείνει να δώσεις και όνομα στο σχέδιο, όπως «τα 3 εύκολα βήματα»."
+      },
+      "example": {
+        "en": "Amazon patented «1-Click» ordering in 1999: after your first purchase, buying became a single button. Removing steps removed hesitation, and the idea was valuable enough that Apple licensed it for its own online store.",
+        "el": "Η Amazon κατοχύρωσε το 1999 την παραγγελία «1-Click»: μετά την πρώτη σου αγορά, η επόμενη γινόταν με ένα μόνο κουμπί. Λιγότερα βήματα σήμαιναν λιγότερο δισταγμό, και η ιδέα είχε τόση αξία που η Apple πήρε άδεια να τη χρησιμοποιήσει στο δικό της ηλεκτρονικό κατάστημα."
+      },
+      "apply": {
+        "en": "Put a three-step plan on advonmedia.com and say it on every call: «1. You send us your photos and details. 2. We build your site for 0€ and you ask for any changes. 3. When you are happy, it goes live and you pay only hosting and domain.»",
+        "el": "Βάλε ένα σχέδιο τριών βημάτων στο advonmedia.com και πες το σε κάθε τηλεφώνημα: «1. Μας στέλνετε φωτογραφίες και στοιχεία. 2. Φτιάχνουμε τη σελίδα σας με 0€ και ζητάτε όποιες αλλαγές θέλετε. 3. Όταν είστε ευχαριστημένος, βγαίνει live και πληρώνετε μόνο φιλοξενία και domain»."
+      },
+      "check": {
+        "q": {"en": "What does a process plan remove?", "el": "Τι διώχνει ένα σχέδιο διαδικασίας;"},
+        "options": [
+          {"en": "The need to mention a price", "el": "Την ανάγκη να πεις τιμή"},
+          {"en": "The need for the customer's trust", "el": "Την ανάγκη για την εμπιστοσύνη του πελάτη"},
+          {"en": "Confusion about what to do next", "el": "Τη σύγχυση για το τι γίνεται μετά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Clear, few steps make the decision feel easy and safe.", "el": "Λίγα και καθαρά βήματα κάνουν την απόφαση να μοιάζει εύκολη και ασφαλής."}
+      }
+    },
+    {
+      "title": {"en": "The agreement plan", "el": "Το σχέδιο δεσμεύσεων"},
+      "explain": {
+        "en": "Miller also suggests an agreement plan: a short list of promises that removes the customer's fears. It answers the worries people have but rarely say aloud, such as «what if I don't like it?» or «what if they disappear after I pay?». It works like a guarantee. Keep it short, true and easy to check; it can sit quietly below your offer.",
+        "el": "Ο Μίλερ προτείνει και ένα σχέδιο δεσμεύσεων: μια σύντομη λίστα από υποσχέσεις που διώχνει τους φόβους του πελάτη. Απαντά στις ανησυχίες που έχει ο κόσμος αλλά σπάνια λέει δυνατά, όπως «κι αν δεν μου αρέσει;» ή «κι αν εξαφανιστούν μόλις πληρώσω;». Λειτουργεί σαν εγγύηση. Κράτα το σύντομο, αληθινό και εύκολο να ελεγχθεί· μπορεί να κάθεται διακριτικά κάτω από την προσφορά σου."
+      },
+      "example": {
+        "en": "Zappos sold shoes online when people were afraid to buy shoes they could not try on. Its promise of free shipping both ways and a 365-day return window removed that fear. Customers could order several sizes and send back the rest, and the company became a leader in online shoe sales.",
+        "el": "Η Zappos πουλούσε παπούτσια στο ίντερνετ τότε που ο κόσμος φοβόταν να αγοράσει παπούτσια χωρίς να τα δοκιμάσει. Η υπόσχεση για δωρεάν αποστολή και επιστροφή και για επιστροφές μέσα σε 365 μέρες έσβησε αυτόν τον φόβο. Ο πελάτης μπορούσε να παραγγείλει πολλά νούμερα και να στείλει πίσω τα υπόλοιπα, και η εταιρεία έγινε πρωτοπόρος στην ηλεκτρονική πώληση παπουτσιών."
+      },
+      "apply": {
+        "en": "Write Advon's agreement plan using only what is true: «You pay nothing for the build. Unlimited changes until it goes live. You pay hosting only once you are happy with the result.» Place it under the offer on advonmedia.com and repeat it at the end of video calls.",
+        "el": "Γράψε το σχέδιο δεσμεύσεων της Advon μόνο με αλήθειες: «Δεν πληρώνετε τίποτα για την κατασκευή. Απεριόριστες αλλαγές μέχρι να βγει live. Πληρώνετε φιλοξενία μόνο όταν μείνετε ευχαριστημένος με το αποτέλεσμα». Βάλ' το κάτω από την προσφορά στο advonmedia.com και επανάλαβέ το στο τέλος των βιντεοκλήσεων."
+      },
+      "check": {
+        "q": {"en": "What is the main job of an agreement plan?", "el": "Ποια είναι η βασική δουλειά ενός σχεδίου δεσμεύσεων;"},
+        "options": [
+          {"en": "To justify a higher price", "el": "Να δικαιολογήσει μια υψηλότερη τιμή"},
+          {"en": "To remove the customer's unspoken fears", "el": "Να διώξει τους ανείπωτους φόβους του πελάτη"},
+          {"en": "To list every service you offer", "el": "Να απαριθμήσει κάθε υπηρεσία που προσφέρεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "It answers the worries people do not say aloud, so the risk of saying yes feels lower.", "el": "Απαντά στις ανησυχίες που ο κόσμος δεν λέει δυνατά, οπότε το «ναι» μοιάζει λιγότερο ρίσκο."}
+      }
+    },
+    {
+      "title": {"en": "5. Call them to action", "el": "5. Κάλεσέ τους σε δράση"},
+      "explain": {
+        "en": "Step five: the guide calls the hero to action. Heroes do not act unless something challenges them, and customers do not buy unless you ask clearly. Use two kinds of call to action. A direct one, like «Book a call» or «Buy now», repeated and always visible. And a transitional one for people not ready yet: a free guide, checklist or video that builds trust and keeps the relationship going.",
+        "el": "Πέμπτο βήμα: ο οδηγός καλεί τον ήρωα σε δράση. Οι ήρωες δεν κινούνται αν δεν τους προκαλέσει κάτι, και οι πελάτες δεν αγοράζουν αν δεν τους το ζητήσεις καθαρά. Χρησιμοποίησε δύο είδη κλήσης σε δράση. Μια άμεση, όπως «Κλείστε ραντεβού» ή «Αγοράστε τώρα», που επαναλαμβάνεται και φαίνεται πάντα. Και μια μεταβατική για όσους δεν είναι ακόμα έτοιμοι: έναν δωρεάν οδηγό, μια λίστα ή ένα βίντεο που χτίζει εμπιστοσύνη και κρατά τη σχέση ζωντανή."
+      },
+      "example": {
+        "en": "For years Netflix's homepage was built around one big button offering a free first month. It worked as a direct call, always visible, and as a transitional one, because the free month lowered the risk for people not ready to pay. Netflix ended the free trial in most markets around 2020.",
+        "el": "Για χρόνια η αρχική σελίδα του Netflix ήταν στημένη γύρω από ένα μεγάλο κουμπί που πρόσφερε δωρεάν τον πρώτο μήνα. Λειτουργούσε ως άμεση κλήση, πάντα ορατή, αλλά και ως μεταβατική, γιατί ο δωρεάν μήνας μείωνε το ρίσκο για όσους δεν ήταν έτοιμοι να πληρώσουν. Το Netflix σταμάτησε τη δωρεάν δοκιμή στις περισσότερες αγορές γύρω στο 2020."
+      },
+      "apply": {
+        "en": "On advonmedia.com, keep one direct button top right and in the first screen: «Book a free 15-minute intro call». Add a transitional offer for the undecided, such as a free one-page PDF on what patients check on a doctor's site. Use the same two calls in your ads.",
+        "el": "Στο advonmedia.com, κράτα ένα άμεσο κουμπί πάνω δεξιά και στην πρώτη οθόνη: «Κλείστε δωρεάν γνωριμία 15 λεπτών». Πρόσθεσε μια μεταβατική προσφορά για τους αναποφάσιστους, όπως ένα δωρεάν PDF μίας σελίδας για το τι ελέγχει ο ασθενής στη σελίδα ενός γιατρού. Χρησιμοποίησε τις ίδιες δύο κλήσεις και στις διαφημίσεις σου."
+      },
+      "check": {
+        "q": {"en": "What is a transitional call to action?", "el": "Τι είναι η μεταβατική κλήση σε δράση;"},
+        "options": [
+          {"en": "A free, low-risk offer for people not ready to buy", "el": "Μια δωρεάν προσφορά χωρίς ρίσκο για όσους δεν είναι έτοιμοι να αγοράσουν"},
+          {"en": "A discount that expires tomorrow", "el": "Μια έκπτωση που λήγει αύριο"},
+          {"en": "A big button that says «Buy now»", "el": "Ένα μεγάλο κουμπί που γράφει «Αγοράστε τώρα»"}
+        ],
+        "answer": 0,
+        "why": {"en": "It keeps undecided people close and builds trust until they are ready for the direct step.", "el": "Κρατά κοντά τους αναποφάσιστους και χτίζει εμπιστοσύνη μέχρι να είναι έτοιμοι για το άμεσο βήμα."}
+      }
+    },
+    {
+      "title": {"en": "6. Show what is at stake", "el": "6. Δείξε τι διακυβεύεται"},
+      "explain": {
+        "en": "Step six: help them avoid failure. Every story needs stakes, what happens if the hero fails; without them there is no story. Tell customers, briefly and honestly, what it costs them not to act. Miller warns not to overdo fear: a pinch is enough, like salt in a recipe, and then go straight to the solution. Too much fear makes people tune out.",
+        "el": "Έκτο βήμα: βοήθησέ τους να αποφύγουν την αποτυχία. Κάθε ιστορία θέλει διακύβευμα, τι θα γίνει αν ο ήρωας αποτύχει· χωρίς αυτό δεν υπάρχει ιστορία. Πες στον πελάτη, σύντομα και ειλικρινά, τι του κοστίζει να μην κάνει τίποτα. Ο Μίλερ προειδοποιεί να μην το παρακάνεις με τον φόβο: μια πρέζα αρκεί, σαν το αλάτι στη συνταγή, και μετά κατευθείαν στη λύση. Ο πολύς φόβος κάνει τον κόσμο να κλείνεται."
+      },
+      "example": {
+        "en": "Psychologists Daniel Kahneman and Amos Tversky showed that people feel a loss roughly twice as strongly as an equal gain: losing 100 euros hurts more than finding 100 euros pleases. That is why «stop losing patients» can move people more than «get more patients».",
+        "el": "Οι ψυχολόγοι Ντάνιελ Κάνεμαν και Άμος Τβέρσκι έδειξαν ότι νιώθουμε μια απώλεια περίπου διπλάσια σε ένταση από ένα ίσο κέρδος: το να χάσεις 100 ευρώ πονά περισσότερο απ' όσο χαίρεσαι αν βρεις 100 ευρώ. Γι' αυτό το «σταματήστε να χάνετε ασθενείς» μπορεί να κινητοποιήσει περισσότερο από το «αποκτήστε περισσότερους ασθενείς»."
+      },
+      "apply": {
+        "en": "Add one honest stakes line to your pitch and homepage: «Every day without a good site, patients searching for your specialty find a colleague first.» Say it once, calmly, then move straight to the plan. No scare tactics and no invented numbers.",
+        "el": "Πρόσθεσε μία ειλικρινή φράση διακυβεύματος στην παρουσίαση και στην αρχική σου σελίδα: «Κάθε μέρα χωρίς καλή σελίδα, όσοι ψάχνουν την ειδικότητά σας βρίσκουν πρώτα έναν συνάδελφο». Πες το μία φορά, ήρεμα, και πέρνα αμέσως στο σχέδιο. Χωρίς εκφοβισμό και χωρίς επινοημένα νούμερα."
+      },
+      "check": {
+        "q": {"en": "How much fear does Miller recommend in marketing?", "el": "Πόσο φόβο προτείνει ο Μίλερ στο μάρκετινγκ;"},
+        "options": [
+          {"en": "As much as possible, to force a decision", "el": "Όσο περισσότερο γίνεται, για να πιέσεις την απόφαση"},
+          {"en": "None at all, only positive messages", "el": "Καθόλου, μόνο θετικά μηνύματα"},
+          {"en": "Just a pinch, then straight to the solution", "el": "Μόνο μια πρέζα, και μετά κατευθείαν στη λύση"}
+        ],
+        "answer": 2,
+        "why": {"en": "Some stakes give the story meaning; too much fear makes people switch off.", "el": "Λίγο διακύβευμα δίνει νόημα στην ιστορία· ο πολύς φόβος κάνει τον κόσμο να κλείνεται."}
+      }
+    },
+    {
+      "title": {"en": "7. Paint the success", "el": "7. Ζωγράφισε την επιτυχία"},
+      "explain": {
+        "en": "Step seven: end in success. People need to see where you are taking them, so show a clear, specific picture of life after they buy. Miller lists three ways stories resolve: the hero wins status or power, finds completeness, something that makes them whole like peace or relief, or reaches self-realisation, becoming who they want to be. Use images and words that show the «after».",
+        "el": "Έβδομο βήμα: η ιστορία τελειώνει με επιτυχία. Ο κόσμος πρέπει να δει πού τον πας, οπότε δείξε μια καθαρή, συγκεκριμένη εικόνα της ζωής του μετά την αγορά. Ο Μίλερ λέει ότι οι ιστορίες κλείνουν με τρεις τρόπους: ο ήρωας κερδίζει κύρος ή δύναμη, βρίσκει πληρότητα, κάτι που τον ολοκληρώνει όπως ηρεμία ή ανακούφιση, ή φτάνει στην αυτοπραγμάτωση, γίνεται αυτός που θέλει να είναι. Χρησιμοποίησε εικόνες και λέξεις που δείχνουν το «μετά»."
+      },
+      "example": {
+        "en": "Nike rarely shows shoes on their own. Its ads show ordinary people and athletes pushing past their limits, under «Just Do It». The product is only the tool; the picture is self-realisation, you at your best, and people buy into who they could become.",
+        "el": "Η Nike σπάνια δείχνει σκέτα παπούτσια. Οι διαφημίσεις της δείχνουν απλούς ανθρώπους και αθλητές να ξεπερνούν τα όριά τους, κάτω από το «Just Do It». Το προϊόν είναι απλώς το εργαλείο· η εικόνα είναι η αυτοπραγμάτωση, εσύ στο καλύτερό σου, και ο κόσμος αγοράζει αυτό που θα μπορούσε να γίνει."
+      },
+      "apply": {
+        "en": "On client sites, show the «after»: a calm waiting room, a relaxed patient, the doctor at work. In reels, show a doctor proudly opening his new site on his phone. In meetings, end with: «Imagine sending this link to a new patient tomorrow morning.»",
+        "el": "Στις σελίδες πελατών, δείξε το «μετά»: μια ήρεμη αίθουσα αναμονής, έναν χαλαρό ασθενή, τον γιατρό την ώρα της δουλειάς. Στα reels, δείξε έναν γιατρό να ανοίγει περήφανα τη νέα του σελίδα στο κινητό. Στις συναντήσεις, κλείσε με: «Φανταστείτε να στέλνετε αύριο το πρωί αυτό το link σε έναν νέο ασθενή»."
+      },
+      "check": {
+        "q": {"en": "Which is one of Miller's three kinds of success?", "el": "Ποιο είναι ένα από τα τρία είδη επιτυχίας του Μίλερ;"},
+        "options": [
+          {"en": "Lower prices for everyone", "el": "Χαμηλότερες τιμές για όλους"},
+          {"en": "Self-realisation: becoming who they want to be", "el": "Αυτοπραγμάτωση: να γίνουν αυτοί που θέλουν να είναι"},
+          {"en": "Beating every single competitor", "el": "Να νικήσουν κάθε ανταγωνιστή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Miller's three are status, completeness and self-realisation.", "el": "Τα τρία του Μίλερ είναι το κύρος, η πληρότητα και η αυτοπραγμάτωση."}
+      }
+    },
+    {
+      "title": {"en": "Sell a transformation", "el": "Πούλα μια μεταμόρφωση"},
+      "explain": {
+        "en": "Underneath success is transformation. Every hero changes during the story, and customers want to change too: from confused to confident, from invisible to respected. Miller says great brands take part in their customers' identity transformation. Ask who your customer wants to become, describe that person, help them get there, and then tell them they made it.",
+        "el": "Κάτω από την επιτυχία βρίσκεται η μεταμόρφωση. Κάθε ήρωας αλλάζει μέσα στην ιστορία, και ο πελάτης θέλει κι αυτός να αλλάξει: από μπερδεμένος σε σίγουρος, από αόρατος σε σεβαστός. Ο Μίλερ λέει ότι τα σπουδαία brands παίρνουν μέρος στη μεταμόρφωση της ταυτότητας των πελατών τους. Ρώτα ποιος θέλει να γίνει ο πελάτης σου, περίγραψε αυτόν τον άνθρωπο, βοήθησέ τον να φτάσει εκεί και μετά πες του ότι τα κατάφερε."
+      },
+      "example": {
+        "en": "The US Army's slogan «Be All You Can Be», used from 1981 to 2001, did not sell salaries or equipment. It sold a transformation: the recruit would become a stronger, more capable version of himself. It became one of the best-known advertising slogans in America.",
+        "el": "Το σύνθημα του αμερικανικού στρατού «Be All You Can Be», δηλαδή «Γίνε ό,τι καλύτερο μπορείς», που χρησιμοποιήθηκε από το 1981 έως το 2001, δεν πουλούσε μισθούς ή εξοπλισμό. Πουλούσε μια μεταμόρφωση: ο νεοσύλλεκτος θα γινόταν μια πιο δυνατή, πιο ικανή εκδοχή του εαυτού του. Έγινε ένα από τα πιο γνωστά διαφημιστικά συνθήματα στην Αμερική."
+      },
+      "apply": {
+        "en": "Describe the doctor's transformation: from «I feel awkward when patients ask for my website» to «I proudly send my link to everyone». Use these words in reels, and when a site goes live, tell the client so: «Now you look online as good as you really are.»",
+        "el": "Περίγραψε τη μεταμόρφωση του γιατρού: από «ντρέπομαι λίγο όταν οι ασθενείς ζητούν τη σελίδα μου» σε «στέλνω περήφανα το link μου σε όλους». Χρησιμοποίησε αυτές τις λέξεις στα reels, και όταν μια σελίδα βγαίνει live, πες το στον πελάτη: «Τώρα φαίνεστε στο ίντερνετ τόσο καλός όσο είστε στην πραγματικότητα»."
+      },
+      "check": {
+        "q": {"en": "What transformation should your marketing describe?", "el": "Ποια μεταμόρφωση πρέπει να περιγράφει το μάρκετινγκ σου;"},
+        "options": [
+          {"en": "Who the customer becomes thanks to you", "el": "Ποιος γίνεται ο πελάτης χάρη σε σένα"},
+          {"en": "How your company grew over the years", "el": "Πώς μεγάλωσε η εταιρεία σου με τα χρόνια"},
+          {"en": "How your product changed between versions", "el": "Πώς άλλαξε το προϊόν σου από έκδοση σε έκδοση"}
+        ],
+        "answer": 0,
+        "why": {"en": "The customer is the hero, so the change that matters is theirs, not yours.", "el": "Ήρωας είναι ο πελάτης, άρα η αλλαγή που μετράει είναι η δική του, όχι η δική σου."}
+      }
+    },
+    {
+      "title": {"en": "The one-liner", "el": "Η φράση της μίας ανάσας"},
+      "explain": {
+        "en": "Miller turns the framework into a one-liner: a short answer to «what do you do?». It has three parts: the problem, which hooks people with something they recognise; the solution, your product as the answer; and the result, life afterwards. Use it in your bio, email signature, business card, the first line of your site and the opening of every conversation.",
+        "el": "Ο Μίλερ κάνει το σύστημα μια φράση μίας ανάσας: μια σύντομη απάντηση στο «τι δουλειά κάνεις;». Έχει τρία μέρη: το πρόβλημα, που τραβά τον κόσμο με κάτι που αναγνωρίζει· τη λύση, το προϊόν σου ως απάντηση· και το αποτέλεσμα, τη ζωή μετά. Χρησιμοποίησέ τη στο bio σου, στην υπογραφή των email, στην κάρτα σου, στην πρώτη γραμμή της σελίδας σου και στην αρχή κάθε κουβέντας."
+      },
+      "example": {
+        "en": "FedEx's famous 1970s and 80s line said it all in one breath: when it absolutely, positively has to be there overnight. The problem (an urgent package), the solution (FedEx) and the result (delivered by tomorrow) fit into a sentence anyone could repeat.",
+        "el": "Η διάσημη φράση της FedEx τις δεκαετίες του '70 και του '80 τα έλεγε όλα με μία ανάσα: όταν πρέπει οπωσδήποτε, σίγουρα, να φτάσει μέσα στη νύχτα. Το πρόβλημα (ένα επείγον δέμα), η λύση (η FedEx) και το αποτέλεσμα (παραδομένο ως αύριο) χωρούσαν σε μια πρόταση που μπορούσε να επαναλάβει ο καθένας."
+      },
+      "apply": {
+        "en": "Use this one-liner on calls, in your Instagram bio and on your card: «Many doctors lose patients to colleagues with better websites. We build you a modern site with 0€ build cost, so new patients find you and trust you before they even call.»",
+        "el": "Χρησιμοποίησε αυτή τη φράση στα τηλεφωνήματα, στο bio σου στο Instagram και στην κάρτα σου: «Πολλοί γιατροί χάνουν ασθενείς από συναδέλφους με καλύτερες ιστοσελίδες. Σας φτιάχνουμε μια σύγχρονη σελίδα με 0€ κόστος κατασκευής, ώστε οι νέοι ασθενείς να σας βρίσκουν και να σας εμπιστεύονται πριν καν τηλεφωνήσουν»."
+      },
+      "check": {
+        "q": {"en": "What are the three parts of a one-liner?", "el": "Ποια είναι τα τρία μέρη της φράσης μίας ανάσας;"},
+        "options": [
+          {"en": "Name, address and phone number", "el": "Όνομα, διεύθυνση και τηλέφωνο"},
+          {"en": "Mission, vision and values", "el": "Αποστολή, όραμα και αξίες"},
+          {"en": "Problem, solution and result", "el": "Πρόβλημα, λύση και αποτέλεσμα"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is the whole SB7 story compressed: the problem hooks, the solution helps, the result shows success.", "el": "Είναι όλη η ιστορία SB7 συμπυκνωμένη: το πρόβλημα τραβά, η λύση βοηθά, το αποτέλεσμα δείχνει την επιτυχία."}
+      }
+    },
+    {
+      "title": {"en": "A website that works", "el": "Μια σελίδα που δουλεύει"},
+      "explain": {
+        "en": "Miller gives a simple website layout. At the top: a clear promise, a direct call-to-action button, and images of happy, successful customers. Then the stakes, the value (benefits, not features), the guide (empathy and proof), the plan, a short explanatory paragraph, and the call to action again. Use few words, the same button repeated, and plenty of white space. People scan; they do not read.",
+        "el": "Ο Μίλερ δίνει ένα απλό σχέδιο για ιστοσελίδες. Πάνω πάνω: μια καθαρή υπόσχεση, ένα κουμπί άμεσης δράσης και εικόνες χαρούμενων, πετυχημένων πελατών. Μετά το διακύβευμα, η αξία (οφέλη, όχι χαρακτηριστικά), ο οδηγός (ενσυναίσθηση και αποδείξεις), το σχέδιο, μια σύντομη επεξηγηματική παράγραφος και ξανά η κλήση σε δράση. Λίγες λέξεις, το ίδιο κουμπί ξανά και ξανά, και άφθονος κενός χώρος. Ο κόσμος σκανάρει· δεν διαβάζει."
+      },
+      "example": {
+        "en": "Airbnb's homepage shows the pattern: a large search box, very few words and photos of places people dream of staying. In seconds a visitor understands the offer, sees the success (the trip itself) and knows the next step: type where you want to go.",
+        "el": "Η αρχική σελίδα της Airbnb δείχνει το μοτίβο: ένα μεγάλο κουτί αναζήτησης, ελάχιστες λέξεις και φωτογραφίες από μέρη όπου ονειρεύεται κανείς να μείνει. Σε δευτερόλεπτα ο επισκέπτης καταλαβαίνει την προσφορά, βλέπει την επιτυχία (το ίδιο το ταξίδι) και ξέρει το επόμενο βήμα: γράφει πού θέλει να πάει."
+      },
+      "apply": {
+        "en": "Check advonmedia.com and every client site against the layout: promise and button at the top, real photos, a short stakes line, three benefits, real Google reviews, a three-step plan, then the button again. The «Call us» or «Book an appointment» button should appear at least three times.",
+        "el": "Έλεγξε το advonmedia.com και κάθε σελίδα πελάτη με βάση το σχέδιο: υπόσχεση και κουμπί στην κορυφή, αληθινές φωτογραφίες, μια σύντομη φράση διακυβεύματος, τρία οφέλη, αληθινές κριτικές Google, σχέδιο τριών βημάτων και ξανά το κουμπί. Το «Καλέστε μας» ή το «Κλείστε ραντεβού» πρέπει να εμφανίζεται τουλάχιστον τρεις φορές."
+      },
+      "check": {
+        "q": {"en": "What belongs at the very top of a StoryBrand homepage?", "el": "Τι μπαίνει στην κορυφή μιας αρχικής σελίδας κατά το StoryBrand;"},
+        "options": [
+          {"en": "The founding story of the company", "el": "Η ιστορία της ίδρυσης της εταιρείας"},
+          {"en": "A clear promise and a direct call to action", "el": "Μια καθαρή υπόσχεση και μια άμεση κλήση σε δράση"},
+          {"en": "A complete list of all services", "el": "Μια πλήρης λίστα με όλες τις υπηρεσίες"}
+        ],
+        "answer": 1,
+        "why": {"en": "The first screen must pass the Grunt Test: what you offer, why it helps, what to do.", "el": "Η πρώτη οθόνη πρέπει να περνά το τεστ: τι προσφέρεις, γιατί βοηθά, τι να κάνει ο επισκέπτης."}
+      }
+    },
+    {
+      "title": {"en": "Lead generator and emails", "el": "Δωρεάν υλικό και email"},
+      "explain": {
+        "en": "Miller's marketing roadmap adds two tools after the one-liner and the website. First a lead generator: a free, useful resource like a PDF, checklist or short video, given in exchange for an email address. Then a series of automated emails that keep helping and now and then ask for the sale. This turns strangers into people who trust you, without chasing each one by hand.",
+        "el": "Ο οδικός χάρτης μάρκετινγκ του Μίλερ προσθέτει δύο εργαλεία μετά τη φράση μίας ανάσας και τη σελίδα. Πρώτα ένα δωρεάν υλικό που φέρνει επαφές: ένα χρήσιμο PDF, μια λίστα ελέγχου ή ένα μικρό βίντεο, με αντάλλαγμα ένα email. Μετά μια σειρά από αυτόματα email που συνεχίζουν να βοηθούν και πού και πού ζητούν την πώληση. Έτσι οι άγνωστοι γίνονται άνθρωποι που σε εμπιστεύονται, χωρίς να κυνηγάς τον καθένα με το χέρι."
+      },
+      "example": {
+        "en": "HubSpot, a marketing software company, offered a free «Website Grader»: anyone could enter a site address and get a report on how well it worked. People who used it received helpful follow-up emails, and many later became paying customers.",
+        "el": "Η HubSpot, εταιρεία λογισμικού μάρκετινγκ, πρόσφερε δωρεάν ένα «Website Grader»: ο καθένας έβαζε τη διεύθυνση μιας σελίδας και έπαιρνε μια αναφορά για το πόσο καλά δούλευε. Όσοι το χρησιμοποιούσαν λάμβαναν χρήσιμα email στη συνέχεια, και πολλοί έγιναν αργότερα πελάτες που πλήρωναν."
+      },
+      "apply": {
+        "en": "Create one lead generator for doctors: a one-page PDF on the things a patient checks on a doctor's website in the first ten seconds. Offer it in reels and on advonmedia.com, then send three short, helpful emails over two weeks, the third inviting them to a free 15-minute call.",
+        "el": "Φτιάξε ένα δωρεάν υλικό για γιατρούς: ένα PDF μίας σελίδας με όσα ελέγχει ένας ασθενής στη σελίδα ενός γιατρού τα πρώτα δέκα δευτερόλεπτα. Πρόσφερέ το στα reels και στο advonmedia.com και μετά στείλε τρία σύντομα, χρήσιμα email μέσα σε δύο εβδομάδες, με το τρίτο να προσκαλεί σε μια δωρεάν γνωριμία 15 λεπτών."
+      },
+      "check": {
+        "q": {"en": "What is a lead generator in Miller's roadmap?", "el": "Τι είναι το δωρεάν υλικό που φέρνει επαφές στον χάρτη του Μίλερ;"},
+        "options": [
+          {"en": "A free, useful resource offered for an email address", "el": "Ένα δωρεάν, χρήσιμο υλικό με αντάλλαγμα ένα email"},
+          {"en": "A paid advertisement on Instagram", "el": "Μια πληρωμένη διαφήμιση στο Instagram"},
+          {"en": "A purchased list of phone numbers", "el": "Μια αγορασμένη λίστα με τηλέφωνα"}
+        ],
+        "answer": 0,
+        "why": {"en": "It gives value first and starts a relationship with people not ready to buy yet.", "el": "Δίνει πρώτα αξία και ξεκινά μια σχέση με όσους δεν είναι ακόμα έτοιμοι να αγοράσουν."}
+      }
+    },
+    {
+      "title": {"en": "Collect stories, ask for referrals", "el": "Μάζευε ιστορίες, ζήτα συστάσεις"},
+      "explain": {
+        "en": "The last parts of Miller's roadmap: collect and tell stories of transformation, and build a system for referrals. Ask happy customers what life was like before, what changed, and what it is like now, and use their own words. Then make it easy for them to send you others, with a simple ask and a proper thank-you. Your best marketing is your customers' own stories.",
+        "el": "Τα τελευταία κομμάτια του χάρτη του Μίλερ: μάζευε και λέγε ιστορίες μεταμόρφωσης, και στήσε ένα σύστημα για συστάσεις. Ρώτα τους ευχαριστημένους πελάτες πώς ήταν πριν, τι άλλαξε και πώς είναι τώρα, και χρησιμοποίησε τα δικά τους λόγια. Μετά κάνε τους εύκολο να σου στείλουν κι άλλους, με ένα απλό αίτημα κι ένα σωστό ευχαριστώ. Το καλύτερο μάρκετινγκ σου είναι οι ιστορίες των ίδιων των πελατών σου."
+      },
+      "example": {
+        "en": "For years Tesla ran a referral programme in which owners who brought in a buyer received rewards such as free Supercharging or credits. Enthusiastic owners became an unpaid sales force, and the brand spread largely by word of mouth rather than traditional advertising.",
+        "el": "Για χρόνια η Tesla είχε πρόγραμμα συστάσεων όπου οι ιδιοκτήτες που έφερναν αγοραστή κέρδιζαν ανταμοιβές, όπως δωρεάν φόρτιση στους Superchargers ή πιστώσεις. Οι ενθουσιασμένοι ιδιοκτήτες έγιναν μια απλήρωτη ομάδα πωλήσεων, και το brand απλώθηκε κυρίως από στόμα σε στόμα και όχι με κλασική διαφήμιση."
+      },
+      "apply": {
+        "en": "When a site goes live, ask the client three questions: what was it like before, what changed, how does it feel now. With permission, use the answers in ads. Then ask: «Do you know a colleague who would like the same?» and thank every referral properly.",
+        "el": "Όταν μια σελίδα βγαίνει live, κάνε στον πελάτη τρεις ερωτήσεις: πώς ήταν πριν, τι άλλαξε, πώς νιώθει τώρα. Με την άδειά του, χρησιμοποίησε τις απαντήσεις στις διαφημίσεις. Μετά ρώτα: «Ξέρετε κάποιον συνάδελφο που θα ήθελε το ίδιο;» και ευχαρίστησε σωστά για κάθε σύσταση."
+      },
+      "check": {
+        "q": {"en": "Which questions turn a happy client into a story?", "el": "Ποιες ερωτήσεις κάνουν έναν ευχαριστημένο πελάτη ιστορία;"},
+        "options": [
+          {"en": "How much they paid and when", "el": "Πόσα πλήρωσε και πότε"},
+          {"en": "Which competitor they used before", "el": "Ποιον ανταγωνιστή είχε πριν"},
+          {"en": "Before, what changed, and after", "el": "Πώς ήταν πριν, τι άλλαξε και πώς είναι μετά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Before, change and after is the shape of every transformation story.", "el": "Το πριν, η αλλαγή και το μετά είναι το σχήμα κάθε ιστορίας μεταμόρφωσης."}
+      }
+    },
+    {
+      "title": {"en": "Your full BrandScript", "el": "Το πλήρες BrandScript σου"},
+      "explain": {
+        "en": "Miller's tool for putting it all together is the BrandScript: one page where you fill in all seven parts: the hero and their desire, the problem (villain, external, internal, philosophical), the guide (empathy, authority), the plan, the call to action, the failure and the success. It becomes the single source for your website, ads, emails and sales talks. Share it with your team so everyone tells the same story.",
+        "el": "Το εργαλείο του Μίλερ για να τα δέσεις όλα είναι το BrandScript: μία σελίδα όπου συμπληρώνεις και τα επτά μέρη: τον ήρωα και την επιθυμία του, το πρόβλημα (κακός, εξωτερικό, εσωτερικό, φιλοσοφικό), τον οδηγό (ενσυναίσθηση, κύρος), το σχέδιο, την κλήση σε δράση, την αποτυχία και την επιτυχία. Γίνεται η μία πηγή για τη σελίδα, τις διαφημίσεις, τα email και τις κουβέντες πώλησης. Μοιράσου το με την ομάδα σου ώστε όλοι να λένε την ίδια ιστορία."
+      },
+      "example": {
+        "en": "Advon's BrandScript. Hero: a doctor who wants new patients to find and trust him. Villain: an old or missing site. Problem: patients pick colleagues; he feels invisible; good doctors should not lose patients to bad websites. Guide: «I know you have little time»; 200+ sites built. Plan: send material, approve the draft, go live. Action: book a 15-minute call. Failure: patients keep going elsewhere. Success: a site he proudly shares.",
+        "el": "Το BrandScript της Advon. Ήρωας: ένας γιατρός που θέλει να τον βρίσκουν και να τον εμπιστεύονται νέοι ασθενείς. Κακός: η παλιά ή ανύπαρκτη σελίδα. Πρόβλημα: οι ασθενείς πάνε σε συναδέλφους· νιώθει αόρατος· ένας καλός γιατρός δεν πρέπει να χάνει ασθενείς εξαιτίας μιας κακής σελίδας. Οδηγός: «Ξέρω ότι έχετε ελάχιστο χρόνο»· 200+ σελίδες. Σχέδιο: στέλνετε υλικό, εγκρίνετε το προσχέδιο, βγαίνει live. Δράση: γνωριμία 15 λεπτών. Αποτυχία: οι ασθενείς συνεχίζουν να πηγαίνουν αλλού. Επιτυχία: μια σελίδα που μοιράζεται περήφανα."
+      },
+      "apply": {
+        "en": "Print this BrandScript and use it as the source for everything: the first screen of advonmedia.com, your next reel script, your cold-call opener and the first email to a lead. Make one version per niche, for dentists and for psychologists, changing the desire and the internal problem.",
+        "el": "Τύπωσε αυτό το BrandScript και κάν' το την πηγή για όλα: την πρώτη οθόνη του advonmedia.com, το σενάριο του επόμενου reel, την εισαγωγή του cold call και το πρώτο email σε μια επαφή. Φτιάξε μία εκδοχή για κάθε κλάδο, για οδοντιάτρους και για ψυχολόγους, αλλάζοντας την επιθυμία και το εσωτερικό πρόβλημα."
+      },
+      "check": {
+        "q": {"en": "What is the BrandScript for?", "el": "Σε τι χρησιμεύει το BrandScript;"},
+        "options": [
+          {"en": "It is a legal contract with each client", "el": "Είναι νομικό συμβόλαιο με κάθε πελάτη"},
+          {"en": "It is one page that feeds all your marketing", "el": "Είναι μία σελίδα που τροφοδοτεί όλο σου το μάρκετινγκ"},
+          {"en": "It is a portfolio of your past projects", "el": "Είναι ένα portfolio με τις παλιές σου δουλειές"}
+        ],
+        "answer": 1,
+        "why": {"en": "Filled in once, it keeps your site, ads, emails and calls telling the same clear story.", "el": "Αν το συμπληρώσεις μία φορά, κάνει τη σελίδα, τις διαφημίσεις, τα email και τα τηλεφωνήματα να λένε την ίδια καθαρή ιστορία."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You are rewriting the first section of advonmedia.com. Which opening follows StoryBrand?", "el": "Ξαναγράφεις την πρώτη ενότητα του advonmedia.com. Ποια αρχή ακολουθεί το StoryBrand;"},
+      "options": [
+        {"en": "«Advon Media: a creative agency founded with passion and AI»", "el": "«Advon Media: μια δημιουργική εταιρεία που ιδρύθηκε με πάθος και AI»"},
+        {"en": "«Patients search for you online. Let them find a site that wins their trust.»", "el": "«Οι ασθενείς σάς αναζητούν στο ίντερνετ. Αφήστε τους να βρουν μια σελίδα που κερδίζει την εμπιστοσύνη τους»"},
+        {"en": "«Our awards, our team and our story»", "el": "«Τα βραβεία μας, η ομάδα μας και η ιστορία μας»"}
+      ],
+      "answer": 1,
+      "why": {"en": "The customer is the hero; Advon is the guide, so the first words are about the doctor.", "el": "Ήρωας είναι ο πελάτης· η Advon είναι ο οδηγός, άρα οι πρώτες λέξεις αφορούν τον γιατρό."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "A psychologist's draft site opens with only a poetic line: «A journey towards yourself». What do you change?", "el": "Το προσχέδιο μιας ψυχολόγου ανοίγει μόνο με μια ποιητική φράση: «Ένα ταξίδι προς τον εαυτό». Τι αλλάζεις;"},
+      "options": [
+        {"en": "Nothing, the line is beautiful", "el": "Τίποτα, η φράση είναι όμορφη"},
+        {"en": "Add more poetic lines below it", "el": "Προσθέτεις κι άλλες ποιητικές φράσεις από κάτω"},
+        {"en": "Add who she is, where she works and one clear button", "el": "Προσθέτεις ποια είναι, πού δουλεύει και ένα καθαρό κουμπί"}
+      ],
+      "answer": 2,
+      "why": {"en": "The first screen must pass the Grunt Test: what she offers, how it helps, what to do.", "el": "Η πρώτη οθόνη πρέπει να περνά το τεστ: τι προσφέρει, πώς βοηθά, τι να κάνει ο επισκέπτης."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "You are writing a Meta ad for dentists. Which line will connect most?", "el": "Γράφεις διαφήμιση στο Meta για οδοντιάτρους. Ποια φράση θα αγγίξει περισσότερο;"},
+      "options": [
+        {"en": "«Isn't it awkward when a patient asks for your website?»", "el": "«Δεν είναι άβολο όταν ένας ασθενής σάς ζητά τη σελίδα σας;»"},
+        {"en": "«Fast-loading, mobile-ready websites»", "el": "«Ιστοσελίδες που φορτώνουν γρήγορα και είναι έτοιμες για κινητά»"},
+        {"en": "«We use the latest web technologies»", "el": "«Χρησιμοποιούμε τις πιο σύγχρονες τεχνολογίες»"}
+      ],
+      "answer": 0,
+      "why": {"en": "People buy solutions to internal problems: how the situation makes them feel.", "el": "Ο κόσμος αγοράζει λύσεις σε εσωτερικά προβλήματα: πώς τον κάνει να νιώθει η κατάσταση."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "A doctor says: «Interesting, but not now, maybe in a few months.» What do you do?", "el": "Ένας γιατρός λέει: «Ενδιαφέρον, αλλά όχι τώρα, ίσως σε μερικούς μήνες». Τι κάνεις;"},
+      "options": [
+        {"en": "Push for a yes today with a deadline you made up", "el": "Πιέζεις για ένα «ναι» σήμερα με μια προθεσμία που επινόησες"},
+        {"en": "Offer a free useful PDF and stay in touch by email", "el": "Του προσφέρεις ένα δωρεάν χρήσιμο PDF και μένεις σε επαφή με email"},
+        {"en": "Thank him and never contact him again", "el": "Τον ευχαριστείς και δεν επικοινωνείς ποτέ ξανά"}
+      ],
+      "answer": 1,
+      "why": {"en": "A transitional call to action keeps undecided people close until they are ready.", "el": "Η μεταβατική κλήση σε δράση κρατά κοντά τους αναποφάσιστους μέχρι να είναι έτοιμοι."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "You want to add «what is at stake» to your homepage. Which version follows Miller?", "el": "Θέλεις να προσθέσεις στην αρχική σελίδα «τι διακυβεύεται». Ποια εκδοχή ακολουθεί τον Μίλερ;"},
+      "options": [
+        {"en": "A section full of frightening numbers", "el": "Μια ενότητα γεμάτη τρομακτικά νούμερα"},
+        {"en": "No mention of any risk at all", "el": "Καμία απολύτως αναφορά σε κίνδυνο"},
+        {"en": "One calm line about patients choosing a colleague, then the plan", "el": "Μία ήρεμη φράση για τους ασθενείς που διαλέγουν συνάδελφο, και μετά το σχέδιο"}
+      ],
+      "answer": 2,
+      "why": {"en": "A pinch of stakes gives the story meaning; too much fear makes people tune out.", "el": "Μια πρέζα διακυβεύματος δίνει νόημα στην ιστορία· ο πολύς φόβος κάνει τον κόσμο να κλείνεται."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "At a family dinner an uncle asks: «So what exactly do you do?» How do you answer?", "el": "Σε ένα οικογενειακό τραπέζι ένας θείος σε ρωτά: «Τελικά, τι ακριβώς δουλειά κάνεις;» Τι απαντάς;"},
+      "options": [
+        {"en": "Problem, solution, result in one breath", "el": "Πρόβλημα, λύση, αποτέλεσμα με μία ανάσα"},
+        {"en": "A ten-minute explanation of how websites work", "el": "Μια εξήγηση δέκα λεπτών για το πώς δουλεύουν οι ιστοσελίδες"},
+        {"en": "«Something with computers, it's complicated»", "el": "«Κάτι με υπολογιστές, είναι περίπλοκο»"}
+      ],
+      "answer": 0,
+      "why": {"en": "The one-liner works everywhere: people instantly understand and can repeat it to others.", "el": "Η φράση μίας ανάσας δουλεύει παντού: ο άλλος καταλαβαίνει αμέσως και μπορεί να την πει και σε άλλους."},
+      "idea": 14
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "In StoryBrand, your company should be the hero of the story.", "el": "Στο StoryBrand, ήρωας της ιστορίας πρέπει να είναι η εταιρεία σου."}, "answer": false, "why": {"en": "The customer is the hero; your company is the guide.", "el": "Ήρωας είναι ο πελάτης· η εταιρεία σου είναι ο οδηγός."}},
+    {"s": {"en": "Miller says companies sell solutions to external problems, but people buy solutions to internal ones.", "el": "Ο Μίλερ λέει ότι οι εταιρείες πουλούν λύσεις σε εξωτερικά προβλήματα, αλλά ο κόσμος αγοράζει λύσεις σε εσωτερικά."}, "answer": true, "why": {"en": "The feeling behind the problem is what drives the decision, as CarMax showed.", "el": "Το συναίσθημα πίσω από το πρόβλημα οδηγεί την απόφαση, όπως έδειξε η CarMax."}},
+    {"s": {"en": "The Grunt Test asks whether someone can quickly tell what you offer, how it helps and how to buy.", "el": "Το τεστ ελέγχει αν κάποιος καταλαβαίνει γρήγορα τι προσφέρεις, πώς βοηθά και πώς αγοράζει."}, "answer": true, "why": {"en": "Those are the three things a visitor must grasp within seconds.", "el": "Αυτά είναι τα τρία πράγματα που πρέπει να πιάσει ο επισκέπτης μέσα σε δευτερόλεπτα."}},
+    {"s": {"en": "Miller recommends using as much fear as possible to push people to buy.", "el": "Ο Μίλερ προτείνει να χρησιμοποιείς όσο περισσότερο φόβο γίνεται για να σπρώξεις τον κόσμο να αγοράσει."}, "answer": false, "why": {"en": "Only a pinch of fear; too much makes people switch off.", "el": "Μόνο μια πρέζα φόβου· ο πολύς κάνει τον κόσμο να κλείνεται."}},
+    {"s": {"en": "A transitional call to action is aimed at people who are not ready to buy yet.", "el": "Η μεταβατική κλήση σε δράση απευθύνεται σε όσους δεν είναι ακόμα έτοιμοι να αγοράσουν."}, "answer": true, "why": {"en": "Free guides or checklists build trust until they are ready for the direct step.", "el": "Δωρεάν οδηγοί ή λίστες χτίζουν εμπιστοσύνη μέχρι να είναι έτοιμοι για το άμεσο βήμα."}},
+    {"s": {"en": "A good guide shows both empathy and authority.", "el": "Ένας καλός οδηγός δείχνει και ενσυναίσθηση και κύρος."}, "answer": true, "why": {"en": "Empathy builds trust and authority builds confidence; you need both.", "el": "Η ενσυναίσθηση χτίζει εμπιστοσύνη και το κύρος σιγουριά· χρειάζεσαι και τα δύο."}},
+    {"s": {"en": "The more different desires you list, the clearer your message becomes.", "el": "Όσο περισσότερες διαφορετικές επιθυμίες απαριθμείς, τόσο πιο καθαρό γίνεται το μήνυμά σου."}, "answer": false, "why": {"en": "Many desires blur the story; Miller says to define one.", "el": "Πολλές επιθυμίες θολώνουν την ιστορία· ο Μίλερ λέει να ορίσεις μία."}},
+    {"s": {"en": "Miller says beautiful design matters more than a clear message.", "el": "Ο Μίλερ λέει ότι ο όμορφος σχεδιασμός μετράει περισσότερο από ένα καθαρό μήνυμα."}, "answer": false, "why": {"en": "His core point is the opposite: clarity first, because confused customers leave.", "el": "Η βασική του θέση είναι η αντίθετη: πρώτα η σαφήνεια, γιατί ο μπερδεμένος πελάτης φεύγει."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Hero", "el": "Ήρωας"}, "b": {"en": "The customer, never your company", "el": "Ο πελάτης, ποτέ η εταιρεία σου"}},
+    {"a": {"en": "Guide", "el": "Οδηγός"}, "b": {"en": "You, with empathy and authority", "el": "Εσύ, με ενσυναίσθηση και κύρος"}},
+    {"a": {"en": "Villain", "el": "Κακός"}, "b": {"en": "The root cause of the customer's problem", "el": "Η ρίζα του προβλήματος του πελάτη"}},
+    {"a": {"en": "Grunt Test", "el": "Τεστ των σπηλαίων"}, "b": {"en": "What you offer, how it helps, how to buy", "el": "Τι προσφέρεις, πώς βοηθά, πώς αγοράζει κανείς"}},
+    {"a": {"en": "Transitional call to action", "el": "Μεταβατική κλήση σε δράση"}, "b": {"en": "A free, low-risk next step", "el": "Ένα δωρεάν επόμενο βήμα χωρίς ρίσκο"}},
+    {"a": {"en": "One-liner", "el": "Φράση μίας ανάσας"}, "b": {"en": "Problem, solution and result in one sentence", "el": "Πρόβλημα, λύση και αποτέλεσμα σε μία πρόταση"}}
+  ],
+  "missions": [
+    {"en": "Fill in Advon's BrandScript on one page in Greek and compare it with your current homepage.", "el": "Συμπλήρωσε στα ελληνικά το BrandScript της Advon σε μία σελίδα και σύγκρινέ το με την τωρινή αρχική σου σελίδα."},
+    {"en": "Run the Grunt Test on advonmedia.com with two people outside your industry and write down their answers.", "el": "Κάνε το τεστ στο advonmedia.com με δύο ανθρώπους εκτός του χώρου σου και γράψε τις απαντήσεις τους."},
+    {"en": "Write your one-liner and use it as the opening of your next ten cold calls.", "el": "Γράψε τη φράση μίας ανάσας σου και χρησιμοποίησέ τη ως εισαγωγή στα επόμενα δέκα cold calls."},
+    {"en": "Draft a three-step plan and an agreement plan for under your offer and look at them on a preview, not live.", "el": "Γράψε ένα σχέδιο τριών βημάτων και ένα σχέδιο δεσμεύσεων για κάτω από την προσφορά σου και δες τα σε προεπισκόπηση, όχι live."},
+    {"en": "Ask your three newest live clients the before, change and after questions and save their answers.", "el": "Κάνε στους τρεις πιο πρόσφατους live πελάτες σου τις ερωτήσεις «πριν, τι άλλαξε, μετά» και κράτα τις απαντήσεις τους."}
+  ],
+  "mantra": {"en": "The client is the hero; I am the guide with the plan.", "el": "Ο πελάτης είναι ο ήρωας· εγώ ο οδηγός με το σχέδιο."},
+  "careful": {
+    "en": "StoryBrand is a practical copywriting framework, not research: Miller offers little evidence beyond his own client stories, and parts of the book promote his company's services. Applied rigidly, it makes every website look alike, with the same headline formula, three steps and stakes section. Stakes can slide into fear-selling if you exaggerate them. Use it to get clear, then add your own voice and real proof.",
+    "el": "Το StoryBrand είναι πρακτικό σύστημα για κείμενα, όχι έρευνα: ο Μίλερ δίνει ελάχιστες αποδείξεις πέρα από ιστορίες δικών του πελατών, και μέρη του βιβλίου προωθούν τις υπηρεσίες της εταιρείας του. Αν το εφαρμόσεις κατά γράμμα, όλες οι σελίδες μοιάζουν μεταξύ τους, με την ίδια συνταγή τίτλου, τα τρία βήματα και την ενότητα κινδύνου. Το διακύβευμα μπορεί να γλιστρήσει σε πωλήσεις με φόβο αν το φουσκώσεις. Χρησιμοποίησέ το για να γίνεις καθαρός και μετά βάλε τη δική σου φωνή και αληθινές αποδείξεις."
+  },
+  "connects": [
+    {"book": "influence", "note": {"en": "The guide's authority is Cialdini's authority and social proof at work: real reviews and the number of sites built make people trust the guide.", "el": "Το κύρος του οδηγού είναι η αυθεντία και η κοινωνική απόδειξη του Τσιαλντίνι στην πράξη: οι αληθινές κριτικές και ο αριθμός των σελίδων κάνουν τον κόσμο να εμπιστευτεί τον οδηγό."}},
+    {"book": "100m-offers", "note": {"en": "Hormozi shows how to make the offer itself irresistible; Miller shows how to explain it so clearly that people actually hear it.", "el": "Ο Χορμόζι δείχνει πώς κάνεις την ίδια την προσφορά ακαταμάχητη· ο Μίλερ δείχνει πώς να την εξηγήσεις τόσο καθαρά που ο κόσμος να την ακούσει πραγματικά."}},
+    {"book": "made-to-stick", "note": {"en": "The Heaths explain why stories and simple cores stick; Miller turns that into a step-by-step script for marketing.", "el": "Οι Χιθ εξηγούν γιατί οι ιστορίες και οι απλοί πυρήνες μένουν· ο Μίλερ το κάνει σενάριο μάρκετινγκ βήμα προς βήμα."}}
+  ]
+}

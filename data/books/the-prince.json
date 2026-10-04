@@ -1,0 +1,601 @@
+{
+  "id": "the-prince",
+  "title": {"en": "The Prince", "el": "Ο Ηγεμόνας"},
+  "author": "Niccolò Machiavelli",
+  "authorEl": "Νικολό Μακιαβέλι",
+  "year": 1532,
+  "shelf": "people",
+  "skills": {"strategy": 3, "leadership": 3, "wisdom": 1},
+  "oneLine": {
+    "en": "A leader keeps power by seeing people as they really are, building his own strength, preparing for bad luck and acting firmly, even when that is not pleasant.",
+    "el": "Ένας ηγέτης κρατά την εξουσία όταν βλέπει τους ανθρώπους όπως πραγματικά είναι, χτίζει τη δική του δύναμη, προετοιμάζεται για την κακή τύχη και πράττει σταθερά, ακόμα κι όταν αυτό δεν είναι ευχάριστο."
+  },
+  "story": {
+    "en": "Niccolò Machiavelli served the Republic of Florence as a diplomat and official for fourteen years. In 1512 the Medici family returned to power and he lost his job; in 1513 he was jailed and tortured, then withdrew to his small farm outside the city. There he wrote this short book, hoping to win the new rulers' favour, and dedicated it to Lorenzo de' Medici. It was printed in 1532, after his death. Its cold realism still shocks and teaches.",
+    "el": "Ο Νικολό Μακιαβέλι υπηρέτησε τη Δημοκρατία της Φλωρεντίας ως διπλωμάτης και αξιωματούχος για δεκατέσσερα χρόνια. Το 1512 η οικογένεια των Μεδίκων επέστρεψε στην εξουσία κι εκείνος έχασε τη θέση του· το 1513 φυλακίστηκε και βασανίστηκε, και μετά αποσύρθηκε στο μικρό του κτήμα έξω από την πόλη. Εκεί έγραψε αυτό το σύντομο βιβλίο, ελπίζοντας να κερδίσει την εύνοια των νέων αρχόντων, και το αφιέρωσε στον Λορέντσο των Μεδίκων. Τυπώθηκε το 1532, μετά τον θάνατό του. Ο ψυχρός ρεαλισμός του ακόμα σοκάρει και διδάσκει."
+  },
+  "forYou": {
+    "en": "You are building something new with a tiny team, against bigger agencies and doubtful clients. Machiavelli teaches you to see the market as it is, not as you wish it were, to rely on your own skills rather than on luck or one big client, and to be firm and respected. Take his realism and leave his cruelty and his tricks behind.",
+    "el": "Χτίζεις κάτι καινούργιο με μια μικρή ομάδα, απέναντι σε μεγαλύτερα γραφεία και επιφυλακτικούς πελάτες. Ο Μακιαβέλι σε μαθαίνει να βλέπεις την αγορά όπως είναι, όχι όπως θα ήθελες, να στηρίζεσαι στις δικές σου ικανότητες κι όχι στην τύχη ή σε έναν μεγάλο πελάτη, και να είσαι σταθερός και σεβαστός. Κράτα τον ρεαλισμό του και άφησε πίσω τη σκληρότητα και τα κόλπα του."
+  },
+  "ideas": [
+    {
+      "title": {"en": "See things as they are", "el": "Δες τα πράγματα όπως είναι"},
+      "explain": {
+        "en": "In chapter 15 Machiavelli breaks with the writers before him. Many imagined perfect states that never existed; he wants to follow the «effectual truth», how things really work. The gap between how people live and how they ought to live is so wide that a leader who acts only on ideals ruins himself among people who are not good. Start from reality, not from wishes.",
+        "el": "Στο 15ο κεφάλαιο ο Μακιαβέλι κόβει τους δεσμούς με τους συγγραφείς πριν από αυτόν. Πολλοί φαντάστηκαν τέλεια κράτη που δεν υπήρξαν ποτέ· εκείνος θέλει να ακολουθήσει την «πραγματική αλήθεια», το πώς δουλεύουν στ' αλήθεια τα πράγματα. Η απόσταση ανάμεσα στο πώς ζουν οι άνθρωποι και στο πώς θα έπρεπε να ζουν είναι τόσο μεγάλη, που ένας ηγέτης που πράττει μόνο με βάση τα ιδανικά καταστρέφεται ανάμεσα σε ανθρώπους που δεν είναι καλοί. Ξεκίνα από την πραγματικότητα, όχι από τις ευχές."
+      },
+      "example": {
+        "en": "Kodak engineer Steve Sasson built the first digital camera in 1975. Managers saw it as a threat to film, the business they wished would last, and moved slowly. Digital photography took over anyway, and Kodak filed for bankruptcy in 2012.",
+        "el": "Ο μηχανικός της Kodak Στιβ Σάσον έφτιαξε την πρώτη ψηφιακή φωτογραφική μηχανή το 1975. Τα στελέχη την είδαν ως απειλή για το φιλμ, την επιχείρηση που ήθελαν να κρατήσει για πάντα, και κινήθηκαν αργά. Η ψηφιακή φωτογραφία επικράτησε ούτως ή άλλως και η Kodak κήρυξε πτώχευση το 2012."
+      },
+      "apply": {
+        "en": "Track the real numbers of your sales for one month: calls made, people reached, meetings, signed clients, payments received. Build next month's plan on those numbers, not on how many people «should» say yes to a 0€ website. If one in 40 calls signs, ten clients need 400 calls.",
+        "el": "Κατέγραψε για έναν μήνα τα πραγματικά νούμερα των πωλήσεών σου: κλήσεις, πόσους βρήκες στο τηλέφωνο, ραντεβού, υπογραφές, πληρωμές. Στήσε το πλάνο του επόμενου μήνα πάνω σε αυτά τα νούμερα, όχι στο πόσοι «θα έπρεπε» να λένε ναι σε μια σελίδα με κατασκευή 0€. Αν υπογράφει ένας στις 40 κλήσεις, για δέκα πελάτες χρειάζεσαι 400 κλήσεις."
+      },
+      "check": {
+        "q": {"en": "What is the «effectual truth» Machiavelli wants to follow?", "el": "Ποια είναι η «πραγματική αλήθεια» που θέλει να ακολουθήσει ο Μακιαβέλι;"},
+        "options": [
+          {"en": "How things really work, not how they should", "el": "Το πώς δουλεύουν πραγματικά τα πράγματα, όχι το πώς θα έπρεπε"},
+          {"en": "The moral rules taught by the Church", "el": "Οι ηθικοί κανόνες που διδάσκει η Εκκλησία"},
+          {"en": "What the ruler wishes were true", "el": "Αυτό που εύχεται ο ηγέτης να ήταν αλήθεια"}
+        ],
+        "answer": 0,
+        "why": {"en": "He studies people as they are, because plans built on wishes fail.", "el": "Μελετά τους ανθρώπους όπως είναι, γιατί τα σχέδια που στηρίζονται σε ευχές αποτυγχάνουν."}
+      }
+    },
+    {
+      "title": {"en": "Ability meets opportunity", "el": "Η ικανότητα συναντά την ευκαιρία"},
+      "explain": {
+        "en": "Machiavelli uses two key words: virtù, meaning ability, energy and skill, and fortuna, meaning luck and circumstances. The great founders, he says, received nothing from fortune except the opportunity. Without the opportunity their ability would have been wasted; without their ability the opportunity would have passed unused. Those who rise by their own ability struggle to gain power, but keep it easily.",
+        "el": "Ο Μακιαβέλι χρησιμοποιεί δύο λέξεις-κλειδιά: virtù, δηλαδή ικανότητα, ενέργεια και δεξιοτεχνία, και fortuna, δηλαδή τύχη και περιστάσεις. Οι μεγάλοι ιδρυτές, λέει, δεν πήραν από την τύχη τίποτα άλλο εκτός από την ευκαιρία. Χωρίς την ευκαιρία η ικανότητά τους θα πήγαινε χαμένη· χωρίς την ικανότητα η ευκαιρία θα περνούσε ανεκμετάλλευτη. Όσοι ανεβαίνουν με τη δική τους ικανότητα δυσκολεύονται να πάρουν την εξουσία, αλλά την κρατούν εύκολα."
+      },
+      "example": {
+        "en": "In chapter 6 he names Moses, Cyrus, Romulus and Theseus. Moses needed the people of Israel enslaved in Egypt so that they would follow him; Cyrus needed the Persians unhappy under the Medes. The situation was the door, but each still had to walk through it.",
+        "el": "Στο 6ο κεφάλαιο αναφέρει τον Μωυσή, τον Κύρο, τον Ρωμύλο και τον Θησέα. Ο Μωυσής χρειαζόταν τον λαό του Ισραήλ σκλαβωμένο στην Αίγυπτο, για να τον ακολουθήσει· ο Κύρος χρειαζόταν τους Πέρσες δυσαρεστημένους από τους Μήδους. Η κατάσταση ήταν η πόρτα, όμως ο καθένας έπρεπε να περάσει από μέσα της."
+      },
+      "apply": {
+        "en": "Name the opportunities around you now: AI that lets one person build in days what took weeks, and Greek professionals with old sites or none. Then build the ability to use them: practise your call script daily and record only your own voice on calls to improve, so you are ready when the door opens.",
+        "el": "Ονόμασε τις ευκαιρίες που υπάρχουν γύρω σου τώρα: το AI, που επιτρέπει σε έναν άνθρωπο να φτιάξει σε μέρες ό,τι ήθελε εβδομάδες, και τους Έλληνες επαγγελματίες με παλιά σελίδα ή καμία. Μετά χτίσε την ικανότητα να τις αξιοποιήσεις: εξασκήσου κάθε μέρα στο σενάριο κλήσεων και ηχογράφησε μόνο τη δική σου φωνή για να βελτιωθείς, ώστε να είσαι έτοιμος όταν ανοίξει η πόρτα."
+      },
+      "check": {
+        "q": {"en": "What did fortune give the great founders, according to Machiavelli?", "el": "Τι έδωσε η τύχη στους μεγάλους ιδρυτές, κατά τον Μακιαβέλι;"},
+        "options": [
+          {"en": "Their power and their armies", "el": "Την εξουσία και τους στρατούς τους"},
+          {"en": "Their talent and energy", "el": "Το ταλέντο και την ενέργειά τους"},
+          {"en": "Only the opportunity", "el": "Μόνο την ευκαιρία"}
+        ],
+        "answer": 2,
+        "why": {"en": "Luck opened the door; ability made use of it.", "el": "Η τύχη άνοιξε την πόρτα· η ικανότητα την αξιοποίησε."}
+      }
+    },
+    {
+      "title": {"en": "The innovator's enemies", "el": "Οι εχθροί του καινούργιου"},
+      "explain": {
+        "en": "Nothing is harder or riskier, Machiavelli says, than bringing in a new order of things. Everyone who did well under the old way becomes your enemy, while those who might gain from the new way defend you only half-heartedly, because people do not believe in new things until they see them work. He adds that armed prophets win and unarmed ones fail: belief fades, so you need something to hold it.",
+        "el": "Τίποτα δεν είναι πιο δύσκολο ή πιο επικίνδυνο, λέει ο Μακιαβέλι, από το να φέρεις μια καινούργια τάξη πραγμάτων. Όλοι όσοι ωφελούνταν από το παλιό γίνονται εχθροί σου, ενώ όσοι μπορεί να κερδίσουν από το νέο σε υπερασπίζονται χλιαρά, γιατί οι άνθρωποι δεν πιστεύουν στα καινούργια πριν τα δουν να δουλεύουν. Προσθέτει ότι οι ένοπλοι προφήτες νικούν και οι άοπλοι χάνονται: η πίστη ξεθωριάζει, άρα χρειάζεσαι κάτι να την κρατήσει."
+      },
+      "example": {
+        "en": "His warning example is Girolamo Savonarola, the friar who dominated Florence in the 1490s with his preaching. When the crowd stopped believing in him, he had no means to keep it on his side. He was executed in Florence's main square in 1498, while Machiavelli lived in the city.",
+        "el": "Το παράδειγμα που δίνει είναι ο Τζιρόλαμο Σαβοναρόλα, ο μοναχός που κυριάρχησε στη Φλωρεντία τη δεκαετία του 1490 με τα κηρύγματά του. Όταν το πλήθος έπαψε να τον πιστεύει, δεν είχε κανένα μέσο να το κρατήσει με το μέρος του. Εκτελέστηκε στην κεντρική πλατεία της Φλωρεντίας το 1498, ενώ ο Μακιαβέλι ζούσε στην πόλη."
+      },
+      "apply": {
+        "en": "Expect resistance to your 0€ build model: older agencies will call it a trick and doubtful clients will hesitate. Do not rely on enthusiasm alone. «Arm» your offer honestly with proof: live sites of colleagues in their field, a written agreement showing the yearly cost, and your real Google reviews shown on the call.",
+        "el": "Περίμενε αντίσταση στο μοντέλο σου με κατασκευή 0€: τα παλιά γραφεία θα το πουν κόλπο και οι επιφυλακτικοί πελάτες θα διστάσουν. Μη στηρίζεσαι μόνο στον ενθουσιασμό. «Όπλισε» την προσφορά σου τίμια με αποδείξεις: ζωντανές σελίδες συναδέλφων από τον κλάδο τους, γραπτή συμφωνία με το ετήσιο κόστος και τις αληθινές σου κριτικές στο Google, που τις δείχνεις στην κλήση."
+      },
+      "check": {
+        "q": {"en": "Why do people who would gain from a new idea defend it weakly?", "el": "Γιατί όσοι θα κέρδιζαν από μια νέα ιδέα την υπερασπίζονται χλιαρά;"},
+        "options": [
+          {"en": "They secretly prefer the old way", "el": "Κρυφά προτιμούν τον παλιό τρόπο"},
+          {"en": "They do not believe in new things until they see them work", "el": "Δεν πιστεύουν στα καινούργια πριν τα δουν να δουλεύουν"},
+          {"en": "They are afraid of the ruler", "el": "Φοβούνται τον ηγέτη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Doubt is natural before results exist, so the innovator must show proof.", "el": "Η αμφιβολία είναι φυσική πριν υπάρξουν αποτελέσματα, γι' αυτό όποιος φέρνει το νέο πρέπει να δείξει αποδείξεις."}
+      }
+    },
+    {
+      "title": {"en": "Do not build on borrowed luck", "el": "Μη χτίζεις σε δανεική τύχη"},
+      "explain": {
+        "en": "Some people rise thanks to someone else's money, favour or luck. Machiavelli warns that what others gave can be taken back, and that such rulers often lack the skill to keep what they got. If you rise this way, you must quickly lay your own foundations, the ones you should have built before. Otherwise one change in your patron's fortune brings everything down.",
+        "el": "Κάποιοι ανεβαίνουν χάρη στα χρήματα, την εύνοια ή την τύχη ενός άλλου. Ο Μακιαβέλι προειδοποιεί ότι ό,τι σου έδωσαν οι άλλοι μπορούν να το πάρουν πίσω, και ότι αυτοί οι ηγέτες συχνά δεν έχουν την ικανότητα να κρατήσουν όσα πήραν. Αν ανέβεις έτσι, πρέπει γρήγορα να ρίξεις τα δικά σου θεμέλια, εκείνα που θα έπρεπε να είχες χτίσει από πριν. Αλλιώς, μία αλλαγή στην τύχη του προστάτη σου τα γκρεμίζει όλα."
+      },
+      "example": {
+        "en": "Cesare Borgia built a state in central Italy with the support of his father, Pope Alexander VI. Machiavelli admires his energy, but when Alexander died in 1503, Cesare was gravely ill, and soon the new pope, Julius II, was his enemy. Within a few years he had lost almost everything.",
+        "el": "Ο Τσέζαρε Βοργίας έχτισε ένα κράτος στην κεντρική Ιταλία με τη στήριξη του πατέρα του, του πάπα Αλέξανδρου ΣΤ΄. Ο Μακιαβέλι θαυμάζει την ενεργητικότητά του, όμως όταν ο Αλέξανδρος πέθανε το 1503, ο Τσέζαρε ήταν βαριά άρρωστος και σύντομα ο νέος πάπας, ο Ιούλιος Β΄, ήταν εχθρός του. Μέσα σε λίγα χρόνια τα είχε χάσει σχεδόν όλα."
+      },
+      "apply": {
+        "en": "Check where your new clients come from: one Meta campaign, one person who refers clients, one niche? If more than half come from a single source, open a second one this month, for example a fixed daily calling block to lawyers, so one algorithm change cannot empty your pipeline.",
+        "el": "Έλεγξε από πού έρχονται οι νέοι σου πελάτες: από μία καμπάνια στο Meta, από έναν άνθρωπο που σου στέλνει πελάτες, από έναν κλάδο; Αν πάνω από τους μισούς έρχονται από ένα σημείο, άνοιξε μια δεύτερη πηγή αυτόν τον μήνα, για παράδειγμα ένα σταθερό καθημερινό διάστημα κλήσεων σε δικηγόρους, ώστε μία αλλαγή αλγορίθμου να μη σου αδειάσει τη ροή πελατών."
+      },
+      "check": {
+        "q": {"en": "What was Cesare Borgia's weak point, for Machiavelli?", "el": "Ποιο ήταν το αδύνατο σημείο του Τσέζαρε Βοργία, για τον Μακιαβέλι;"},
+        "options": [
+          {"en": "His power rested on his father's fortune", "el": "Η δύναμή του στηριζόταν στην τύχη του πατέρα του"},
+          {"en": "He was too kind to his enemies", "el": "Ήταν υπερβολικά καλός με τους εχθρούς του"},
+          {"en": "He never had an army", "el": "Δεν είχε ποτέ στρατό"}
+        ],
+        "answer": 0,
+        "why": {"en": "What another person's luck gives you, another turn of luck can take away.", "el": "Ό,τι σου δίνει η τύχη ενός άλλου, μπορεί να σου το πάρει μια άλλη στροφή της τύχης."}
+      }
+    },
+    {
+      "title": {"en": "Treat problems while small", "el": "Γιάτρευε το πρόβλημα όσο είναι μικρό"},
+      "explain": {
+        "en": "Machiavelli compares political trouble to a wasting fever. At the start it is easy to cure but hard to see; later it is easy to see but hard to cure. A wise ruler spots dangers from far away and acts early. He also warns that you cannot escape a war by postponing it; you only give the other side time to grow stronger.",
+        "el": "Ο Μακιαβέλι παρομοιάζει τα πολιτικά προβλήματα με μια φθισική ασθένεια. Στην αρχή γιατρεύεται εύκολα αλλά διαγιγνώσκεται δύσκολα· αργότερα φαίνεται εύκολα αλλά γιατρεύεται δύσκολα. Ο σοφός ηγέτης βλέπει τους κινδύνους από μακριά και δρα νωρίς. Προειδοποιεί επίσης ότι δεν γλιτώνεις από έναν πόλεμο αναβάλλοντάς τον· απλώς δίνεις χρόνο στον άλλον να δυναμώσει."
+      },
+      "example": {
+        "en": "In chapter 3 he praises the Romans, who fought King Philip of Macedon and King Antiochus in Greece rather than wait to fight them in Italy. He contrasts them with Louis XII of France, who won and then lost Milan and Lombardy through a chain of avoidable mistakes.",
+        "el": "Στο 3ο κεφάλαιο επαινεί τους Ρωμαίους, που πολέμησαν τον βασιλιά Φίλιππο της Μακεδονίας και τον βασιλιά Αντίοχο στην Ελλάδα, αντί να περιμένουν να τους πολεμήσουν στην Ιταλία. Τους αντιπαραβάλλει με τον Λουδοβίκο ΙΒ΄ της Γαλλίας, που κέρδισε και μετά έχασε το Μιλάνο και τη Λομβαρδία με μια σειρά από λάθη που μπορούσαν να αποφευχθούν."
+      },
+      "apply": {
+        "en": "Read the client chat for early signs: slow replies, «we will see», a delayed payment, a small complaint that repeats. Call that client the same week: «I want to make sure you are happy. What would you improve?» Five minutes now beat a lost renewal next year.",
+        "el": "Διάβαζε το chat των πελατών για πρώιμα σημάδια: αργές απαντήσεις, «θα δούμε», μια πληρωμή που καθυστερεί, ένα μικρό παράπονο που επαναλαμβάνεται. Πάρε τηλέφωνο τον πελάτη μέσα στην ίδια εβδομάδα: «Θέλω να βεβαιωθώ ότι είστε ευχαριστημένος. Τι θα βελτιώνατε;» Ένα πεντάλεπτο τώρα αξίζει περισσότερο από μια ανανέωση που θα χαθεί του χρόνου."
+      },
+      "check": {
+        "q": {"en": "Why act on problems early, according to the fever image?", "el": "Γιατί να αντιμετωπίζεις νωρίς τα προβλήματα, σύμφωνα με την εικόνα της ασθένειας;"},
+        "options": [
+          {"en": "Early problems are easy to see", "el": "Τα πρώιμα προβλήματα φαίνονται εύκολα"},
+          {"en": "Problems vanish if you ignore them", "el": "Τα προβλήματα εξαφανίζονται αν τα αγνοήσεις"},
+          {"en": "Early problems are easy to cure, though hard to spot", "el": "Τα πρώιμα προβλήματα γιατρεύονται εύκολα, αν και δύσκολα τα εντοπίζεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "Early on the cure is easy; by the time everyone sees the problem, the cure is hard.", "el": "Στην αρχή η θεραπεία είναι εύκολη· όταν το πρόβλημα το βλέπουν όλοι, η θεραπεία είναι δύσκολη."}
+      }
+    },
+    {
+      "title": {"en": "Rely on your own arms", "el": "Στηρίξου στα δικά σου όπλα"},
+      "explain": {
+        "en": "Machiavelli hates mercenaries, soldiers who fight only for pay. In peace they rob you, in war they run, because they have no reason to die for you. Troops borrowed from an ally are even more dangerous, since they obey someone else. A ruler is safe only with his own forces, made of his own people. Strength you do not control is not strength.",
+        "el": "Ο Μακιαβέλι απεχθάνεται τους μισθοφόρους, στρατιώτες που πολεμούν μόνο για τον μισθό. Στην ειρήνη σε ληστεύουν, στον πόλεμο το βάζουν στα πόδια, γιατί δεν έχουν κανέναν λόγο να πεθάνουν για σένα. Τα στρατεύματα που δανείζεσαι από έναν σύμμαχο είναι ακόμα πιο επικίνδυνα, αφού υπακούν σε άλλον. Ένας ηγέτης είναι ασφαλής μόνο με δικές του δυνάμεις, από δικούς του ανθρώπους. Δύναμη που δεν ελέγχεις δεν είναι δύναμη."
+      },
+      "example": {
+        "en": "Florence hired foreign troops to retake Pisa, and in 1500 the siege collapsed when they mutinied. Machiavelli, then a government official, saw it firsthand. Later he persuaded Florence to form a militia of its own citizens, which helped force Pisa to surrender in 1509.",
+        "el": "Η Φλωρεντία προσέλαβε ξένους στρατιώτες για να ξαναπάρει την Πίζα, και το 1500 η πολιορκία κατέρρευσε όταν εκείνοι στασίασαν. Ο Μακιαβέλι, τότε κρατικός αξιωματούχος, το είδε από κοντά. Αργότερα έπεισε τη Φλωρεντία να συγκροτήσει πολιτοφυλακή από δικούς της πολίτες, που βοήθησε να παραδοθεί η Πίζα το 1509."
+      },
+      "apply": {
+        "en": "List the skills your agency depends on: sales calls, design, building, ads. For each, decide whether you own it or rent it. Keep the core in house, write down how it is done and train one person you trust, so a freelancer leaving or an AI tool changing its price cannot stop you.",
+        "el": "Γράψε τις δεξιότητες από τις οποίες εξαρτάται το γραφείο σου: τηλέφωνα πωλήσεων, design, κατασκευή, διαφημίσεις. Για καθεμία αποφάσισε αν την έχεις ή αν τη νοικιάζεις. Κράτα τον πυρήνα μέσα, κατέγραψε πώς γίνεται και εκπαίδευσε έναν άνθρωπο που εμπιστεύεσαι, ώστε να μη σε σταματήσει ένας freelancer που φεύγει ή ένα εργαλείο AI που αλλάζει τιμή."
+      },
+      "check": {
+        "q": {"en": "Why does Machiavelli distrust mercenaries?", "el": "Γιατί ο Μακιαβέλι δεν εμπιστεύεται τους μισθοφόρους;"},
+        "options": [
+          {"en": "They cost too much in wartime", "el": "Κοστίζουν πολύ σε καιρό πολέμου"},
+          {"en": "They fight only for pay, so they have no reason to stay loyal", "el": "Πολεμούν μόνο για τον μισθό, άρα δεν έχουν λόγο να μείνουν πιστοί"},
+          {"en": "They are badly trained", "el": "Είναι κακά εκπαιδευμένοι"}
+        ],
+        "answer": 1,
+        "why": {"en": "Loyalty that is only paid for disappears when danger comes.", "el": "Η πίστη που απλώς πληρώνεται εξαφανίζεται όταν έρθει ο κίνδυνος."}
+      }
+    },
+    {
+      "title": {"en": "Prepare in peacetime", "el": "Ετοιμάσου όσο έχει ειρήνη"},
+      "explain": {
+        "en": "A ruler, Machiavelli says, should never stop thinking about war, and should train even more in peace than in war: with the body, by hunting and learning the land, and with the mind, by studying great commanders. The Italian princes who lost their states should blame their own laziness, not fortune: in calm times they never imagined a storm.",
+        "el": "Ένας ηγέτης, λέει ο Μακιαβέλι, δεν πρέπει να σταματά ποτέ να σκέφτεται τον πόλεμο, και πρέπει να εκπαιδεύεται στην ειρήνη ακόμα περισσότερο απ' ό,τι στον πόλεμο: με το σώμα, κυνηγώντας και μαθαίνοντας τον τόπο, και με το μυαλό, μελετώντας μεγάλους στρατηγούς. Οι Ιταλοί ηγεμόνες που έχασαν τα κράτη τους ας κατηγορήσουν την τεμπελιά τους, όχι την τύχη: στις ήρεμες μέρες δεν φαντάστηκαν ποτέ καταιγίδα."
+      },
+      "example": {
+        "en": "Machiavelli praises Philopoemen, leader of the Achaean League. Walking in the countryside with friends in peacetime, he would stop and ask: if the enemy were on that hill and we were here, who would have the advantage? How would we attack, how would we retreat? So no surprise in war found him unready.",
+        "el": "Ο Μακιαβέλι επαινεί τον Φιλοποίμενα, αρχηγό της Αχαϊκής Συμπολιτείας. Σε περιπάτους με φίλους, σε καιρό ειρήνης, σταματούσε και ρωτούσε: αν ο εχθρός ήταν σε εκείνον τον λόφο κι εμείς εδώ, ποιος θα είχε το πλεονέκτημα; Πώς θα επιτιθέμασταν, πώς θα υποχωρούσαμε; Έτσι καμία έκπληξη στον πόλεμο δεν τον έβρισκε απροετοίμαστο."
+      },
+      "apply": {
+        "en": "Use your good months to prepare for bad ones: build a cash reserve of three months of costs, write down your sales script and the steps for each new client, and train a backup person on client changes. Once a month ask Philopoemen's kind of question: «If leads fell by half tomorrow, what would I do first?»",
+        "el": "Αξιοποίησε τους καλούς μήνες για να ετοιμαστείς για τους κακούς: φτιάξε αποθεματικό τριών μηνών εξόδων, γράψε το σενάριο πωλήσεων και τα βήματα για κάθε νέο πελάτη, και εκπαίδευσε έναν αναπληρωτή στις αλλαγές των πελατών. Μία φορά τον μήνα κάνε μια ερώτηση σαν του Φιλοποίμενα: «Αν αύριο τα leads έπεφταν στο μισό, τι θα έκανα πρώτο;»"
+      },
+      "check": {
+        "q": {"en": "Whom should the princes who lost their states blame, says Machiavelli?", "el": "Ποιον πρέπει να κατηγορήσουν οι ηγεμόνες που έχασαν τα κράτη τους, κατά τον Μακιαβέλι;"},
+        "options": [
+          {"en": "Their own idleness in calm times", "el": "Την τεμπελιά τους στις ήρεμες μέρες"},
+          {"en": "Bad fortune and nothing else", "el": "Την κακή τύχη και τίποτα άλλο"},
+          {"en": "The foreign kings who attacked", "el": "Τους ξένους βασιλιάδες που επιτέθηκαν"}
+        ],
+        "answer": 0,
+        "why": {"en": "They had time to prepare in peace and wasted it.", "el": "Είχαν χρόνο να προετοιμαστούν στην ειρήνη και τον σπατάλησαν."}
+      }
+    },
+    {
+      "title": {"en": "Hard news once, good news slowly", "el": "Το δυσάρεστο μονομιάς, το ευχάριστο σιγά σιγά"},
+      "explain": {
+        "en": "In chapter 8 Machiavelli describes rulers who took power by crime. He calls cruelty «well used» when it is done all at once, out of necessity, and then stops, and «badly used» when it grows over time. Harsh measures should come together, so they are felt less; benefits should come little by little, so they are enjoyed more. Today we keep only the timing lesson, never the cruelty.",
+        "el": "Στο 8ο κεφάλαιο ο Μακιαβέλι περιγράφει ηγέτες που πήραν την εξουσία με εγκλήματα. Λέει «καλά χρησιμοποιημένη» τη σκληρότητα όταν γίνεται μονομιάς, από ανάγκη, και μετά σταματά, και «κακά χρησιμοποιημένη» όταν μεγαλώνει με τον καιρό. Τα σκληρά μέτρα πρέπει να έρχονται μαζί, για να πονούν λιγότερο· τα καλά να δίνονται σιγά σιγά, για να τα χαίρονται περισσότερο. Σήμερα κρατάμε μόνο το μάθημα για τον χρόνο, ποτέ τη σκληρότητα."
+      },
+      "example": {
+        "en": "His example is Agathocles, who became ruler of Syracuse by having the senators and richest citizens killed in a single day, and then ruled for years without new killings. Machiavelli notes that he kept power, but adds that such deeds can win rule, not glory, and cannot be called virtue.",
+        "el": "Το παράδειγμά του είναι ο Αγαθοκλής, που έγινε ηγεμόνας των Συρακουσών βάζοντας να σκοτώσουν σε μία μέρα τους συγκλητικούς και τους πλουσιότερους πολίτες, και μετά κυβέρνησε για χρόνια χωρίς νέους φόνους. Ο Μακιαβέλι σημειώνει ότι κράτησε την εξουσία, αλλά προσθέτει ότι τέτοιες πράξεις φέρνουν εξουσία, όχι δόξα, και δεν μπορούν να λέγονται αρετή."
+      },
+      "apply": {
+        "en": "If you ever have to raise the yearly hosting price, announce it once, clearly, with the reason and the date, to all clients together, not in small rises every year. Then give the good news gradually: a speed upgrade one month, a free review of their texts a few months later.",
+        "el": "Αν χρειαστεί ποτέ να ανεβάσεις την ετήσια τιμή φιλοξενίας, ανακοίνωσέ το μία φορά, καθαρά, με τον λόγο και την ημερομηνία, σε όλους τους πελάτες μαζί, όχι με μικρές αυξήσεις κάθε χρόνο. Μετά δώσε τα καλά νέα σταδιακά: έναν μήνα μια αναβάθμιση ταχύτητας, λίγους μήνες αργότερα έναν δωρεάν έλεγχο στα κείμενά τους."
+      },
+      "check": {
+        "q": {"en": "What is the timing lesson of chapter 8?", "el": "Ποιο είναι το μάθημα του 8ου κεφαλαίου για τον χρόνο;"},
+        "options": [
+          {"en": "Spread bad news over many small steps", "el": "Μοίρασε τα κακά νέα σε πολλά μικρά βήματα"},
+          {"en": "Give all the good news at once", "el": "Δώσε όλα τα καλά νέα μαζί"},
+          {"en": "Bad news at once, good news little by little", "el": "Τα κακά νέα μονομιάς, τα καλά σιγά σιγά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Pain given once is felt less; benefits given slowly are felt more.", "el": "Ο πόνος που έρχεται μία φορά νιώθεται λιγότερο· τα καλά που έρχονται σιγά σιγά νιώθονται περισσότερο."}
+      }
+    },
+    {
+      "title": {"en": "Lean on the many", "el": "Στηρίξου στους πολλούς"},
+      "explain": {
+        "en": "Machiavelli says a ruler can rise with the help of the nobles or of the common people. The nobles want to dominate and see themselves as your equals; the people only want not to be oppressed, which is far easier to satisfy. A ruler can never be safe if the people are hostile, because they are too many. Win the many and you have a wide base.",
+        "el": "Ο Μακιαβέλι λέει ότι ένας ηγέτης μπορεί να ανέβει με τη βοήθεια των ευγενών ή του απλού λαού. Οι ευγενείς θέλουν να κυριαρχούν και θεωρούν τον εαυτό τους ίσο σου· ο λαός θέλει μόνο να μην τον καταπιέζουν, κάτι πολύ πιο εύκολο να ικανοποιηθεί. Ένας ηγέτης δεν είναι ποτέ ασφαλής αν ο λαός είναι εχθρικός, γιατί είναι πάρα πολλοί. Κέρδισε τους πολλούς και θα έχεις πλατιά βάση."
+      },
+      "example": {
+        "en": "In chapter 9 he cites Nabis, ruler of Sparta, who withstood a siege by the rest of Greece and a victorious Roman army. Machiavelli explains that Nabis survived because he had the people on his side and only needed to guard against a few.",
+        "el": "Στο 9ο κεφάλαιο αναφέρει τον Νάβη, ηγεμόνα της Σπάρτης, που άντεξε την πολιορκία της υπόλοιπης Ελλάδας και ενός νικηφόρου ρωμαϊκού στρατού. Ο Μακιαβέλι εξηγεί ότι ο Νάβης επέζησε επειδή είχε τον λαό με το μέρος του και χρειαζόταν να φυλάγεται μόνο από λίγους."
+      },
+      "apply": {
+        "en": "Build the agency on many small, happy clients, not on one big client who sets the rules. Give all of them what they really want: fast replies, no surprises on the bill, a site that works. Two hundred satisfied doctors and shop owners are a stronger base than one demanding chain.",
+        "el": "Χτίσε το γραφείο πάνω σε πολλούς μικρούς, ευχαριστημένους πελάτες, όχι σε έναν μεγάλο που βάζει τους κανόνες. Δώσε σε όλους αυτό που πραγματικά θέλουν: γρήγορες απαντήσεις, καμία έκπληξη στον λογαριασμό, μια σελίδα που δουλεύει. Διακόσιοι ικανοποιημένοι γιατροί και καταστηματάρχες είναι πιο γερή βάση από μια απαιτητική αλυσίδα."
+      },
+      "check": {
+        "q": {"en": "Why are the common people an easier base than the nobles?", "el": "Γιατί ο απλός λαός είναι πιο εύκολη βάση από τους ευγενείς;"},
+        "options": [
+          {"en": "They are richer", "el": "Είναι πιο πλούσιοι"},
+          {"en": "They only want not to be oppressed", "el": "Θέλουν μόνο να μην τους καταπιέζουν"},
+          {"en": "They never complain", "el": "Δεν παραπονιούνται ποτέ"}
+        ],
+        "answer": 1,
+        "why": {"en": "Their demand is modest, so a fair ruler can satisfy it, and they are many.", "el": "Η απαίτησή τους είναι μετριοπαθής, άρα ένας δίκαιος ηγέτης μπορεί να την ικανοποιήσει, και είναι πολλοί."}
+      }
+    },
+    {
+      "title": {"en": "Generosity you can sustain", "el": "Γενναιοδωρία που αντέχεις"},
+      "explain": {
+        "en": "A ruler who wants a name for generosity must keep giving lavishly. Soon he runs out of money, taxes his people and becomes hated. Machiavelli says it is wiser to accept a reputation for being careful with money, because thrift lets you defend yourself and do big things without burdening others. Over time people come to see that care as generosity.",
+        "el": "Ένας ηγέτης που θέλει φήμη γενναιόδωρου πρέπει να μοιράζει συνέχεια με το παραπάνω. Σύντομα του τελειώνουν τα χρήματα, φορολογεί τον λαό του και γίνεται μισητός. Ο Μακιαβέλι λέει ότι είναι σοφότερο να δεχτείς τη φήμη του προσεκτικού με τα χρήματα, γιατί η οικονομία σού επιτρέπει να αμυνθείς και να κάνεις μεγάλα πράγματα χωρίς να φορτώνεις τους άλλους. Με τον καιρό οι άνθρωποι βλέπουν αυτή την προσοχή ως γενναιοδωρία."
+      },
+      "example": {
+        "en": "Machiavelli points to the king of France of his day, Louis XII, who fought many wars without extra taxes, because his long thrift had paid for them in advance. He also notes that Pope Julius II used a generous image to get elected, then dropped it to fund his wars.",
+        "el": "Ο Μακιαβέλι δείχνει τον βασιλιά της Γαλλίας της εποχής του, τον Λουδοβίκο ΙΒ΄, που έκανε πολλούς πολέμους χωρίς έκτακτους φόρους, γιατί η μακρόχρονη οικονομία του τους είχε πληρώσει από πριν. Σημειώνει επίσης ότι ο πάπας Ιούλιος Β΄ χρησιμοποίησε την εικόνα του γενναιόδωρου για να εκλεγεί και μετά την εγκατέλειψε για να χρηματοδοτήσει τους πολέμους του."
+      },
+      "apply": {
+        "en": "Set clear limits on free extras. «Unlimited changes until it goes live» is your promise, so keep it; for after launch, write a simple list of what yearly hosting includes and what costs extra. Generosity you can keep for 200 clients builds trust; generosity you must take back later builds anger.",
+        "el": "Βάλε καθαρά όρια στα δωρεάν. Οι «απεριόριστες αλλαγές μέχρι να βγει live» είναι η υπόσχεσή σου, οπότε τήρησέ την· για μετά την παράδοση, γράψε μια απλή λίστα με το τι περιλαμβάνει η ετήσια φιλοξενία και τι χρεώνεται έξτρα. Μια γενναιοδωρία που αντέχεις για 200 πελάτες χτίζει εμπιστοσύνη· μια γενναιοδωρία που θα πρέπει να πάρεις πίσω χτίζει θυμό."
+      },
+      "check": {
+        "q": {"en": "What happens to a ruler who gives lavishly to look generous?", "el": "Τι παθαίνει ο ηγέτης που μοιράζει απλόχερα για να φαίνεται γενναιόδωρος;"},
+        "options": [
+          {"en": "He runs out of money and must burden people", "el": "Του τελειώνουν τα χρήματα και φορτώνει τον κόσμο"},
+          {"en": "He becomes loved forever", "el": "Τον αγαπούν για πάντα"},
+          {"en": "His enemies start to fear him", "el": "Οι εχθροί του αρχίζουν να τον φοβούνται"}
+        ],
+        "answer": 0,
+        "why": {"en": "Endless giving must be paid for, and the bill falls on the people, who then hate him.", "el": "Η ατέλειωτη παροχή κάποιος πρέπει να την πληρώσει, και ο λογαριασμός πέφτει στον λαό, που τότε τον μισεί."}
+      }
+    },
+    {
+      "title": {"en": "Respected, never hated", "el": "Σεβαστός, ποτέ μισητός"},
+      "explain": {
+        "en": "Is it better to be loved or feared? Ideally both, says Machiavelli, but if you must choose, fear is safer, because love depends on others while fear depends on you. Yet he insists a ruler must never be hated. Hatred comes mostly from taking people's property or harming their families. Firm, fair rules earn respect; greed and abuse earn hatred. The best fortress is not being hated.",
+        "el": "Είναι καλύτερο να σε αγαπούν ή να σε φοβούνται; Ιδανικά και τα δύο, λέει ο Μακιαβέλι, αλλά αν πρέπει να διαλέξεις, ο φόβος είναι πιο ασφαλής, γιατί η αγάπη εξαρτάται από τους άλλους ενώ ο φόβος από σένα. Επιμένει όμως ότι ένας ηγέτης δεν πρέπει ποτέ να γίνει μισητός. Το μίσος έρχεται κυρίως όταν παίρνεις την περιουσία των ανθρώπων ή πειράζεις τις οικογένειές τους. Οι σταθεροί και δίκαιοι κανόνες κερδίζουν σεβασμό· η απληστία και η κατάχρηση κερδίζουν μίσος. Το καλύτερο φρούριο είναι να μη σε μισούν."
+      },
+      "example": {
+        "en": "Machiavelli notes that Hannibal led a huge army of many nations in foreign lands without a single mutiny, thanks, he says, to his «inhuman cruelty» together with his other qualities. Scipio, too lenient with his troops, faced a mutiny in Spain and was criticised for it in the Senate.",
+        "el": "Ο Μακιαβέλι σημειώνει ότι ο Αννίβας οδήγησε έναν τεράστιο στρατό από πολλά έθνη σε ξένες χώρες χωρίς ούτε μία ανταρσία, χάρη, όπως λέει, στην «απάνθρωπη σκληρότητά» του μαζί με τις άλλες του αρετές. Ο Σκιπίωνας, υπερβολικά επιεικής με τους στρατιώτες του, είδε ανταρσία στην Ισπανία και επικρίθηκε γι' αυτό στη Σύγκλητο."
+      },
+      "apply": {
+        "en": "Be respected through firm, fair rules, never through fear: write your rules once (when renewal is due, what happens after 30 days, how changes are requested) and apply them the same way to everyone. Never touch what is theirs: no hidden charges, and never hold a client's domain hostage.",
+        "el": "Κέρδισε σεβασμό με σταθερούς και δίκαιους κανόνες, ποτέ με φόβο: γράψε μία φορά τους κανόνες σου (πότε πληρώνεται η ανανέωση, τι γίνεται μετά από 30 μέρες, πώς ζητιούνται οι αλλαγές) και εφάρμοσέ τους με τον ίδιο τρόπο σε όλους. Μην αγγίζεις ποτέ ό,τι είναι δικό τους: καμία κρυφή χρέωση και ποτέ το domain ενός πελάτη ως όμηρο."
+      },
+      "check": {
+        "q": {"en": "What must a ruler avoid at all costs, even if he is feared?", "el": "Τι πρέπει να αποφύγει πάση θυσία ένας ηγέτης, ακόμα κι αν τον φοβούνται;"},
+        "options": [
+          {"en": "Being loved", "el": "Να τον αγαπούν"},
+          {"en": "Being hated", "el": "Να τον μισούν"},
+          {"en": "Being strict", "el": "Να είναι αυστηρός"}
+        ],
+        "answer": 1,
+        "why": {"en": "Fear can be safe; hatred makes people want to get rid of you.", "el": "Ο φόβος μπορεί να είναι ασφαλής· το μίσος κάνει τους ανθρώπους να θέλουν να σε ξεφορτωθούν."}
+      }
+    },
+    {
+      "title": {"en": "Fox and lion", "el": "Αλεπού και λιοντάρι"},
+      "explain": {
+        "en": "Machiavelli says a ruler must be both a lion and a fox. The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. He goes further: a wise ruler need not keep his word when keeping it works against him, since men are not good either. This is his most notorious advice. Today take the fox's eye for traps and the lion's strength, and leave the broken promises.",
+        "el": "Ο Μακιαβέλι λέει ότι ένας ηγέτης πρέπει να είναι και λιοντάρι και αλεπού. Το λιοντάρι δεν προστατεύεται από τις παγίδες και η αλεπού δεν αμύνεται απέναντι στους λύκους. Πάει και πιο μακριά: ένας σοφός ηγέτης δεν χρειάζεται να κρατά τον λόγο του όταν αυτό στρέφεται εναντίον του, αφού ούτε οι άνθρωποι είναι καλοί. Αυτή είναι η πιο διαβόητη συμβουλή του. Σήμερα κράτα το μάτι της αλεπούς για τις παγίδες και τη δύναμη του λιονταριού, και άφησε έξω τις αθετημένες υποσχέσεις."
+      },
+      "example": {
+        "en": "In chapter 18 Machiavelli names Pope Alexander VI as a master of this: he did nothing but deceive people, always found new people to deceive, and no one ever made bigger promises or kept them less. Machiavelli describes it coolly, as a working technique of his time.",
+        "el": "Στο 18ο κεφάλαιο ο Μακιαβέλι αναφέρει τον πάπα Αλέξανδρο ΣΤ΄ ως μάστορα σε αυτό: δεν έκανε τίποτα άλλο από το να εξαπατά, έβρισκε πάντα νέους ανθρώπους να εξαπατήσει, και κανείς δεν έδωσε ποτέ μεγαλύτερες υποσχέσεις ούτε τις τήρησε λιγότερο. Ο Μακιαβέλι το περιγράφει ψυχρά, ως πρακτική της εποχής του."
+      },
+      "apply": {
+        "en": "Be the fox when checking: read every contract, verify who a «partner» really is, and spot people who want work without paying. Be the lion in standing firm on your terms. But keep every promise you make, even small ones like «I will send it today», because in a small market your word is your brand.",
+        "el": "Γίνε αλεπού στον έλεγχο: διάβαζε κάθε συμβόλαιο, έλεγχε ποιος είναι πραγματικά ένας «συνεργάτης» και εντόπιζε όσους θέλουν δουλειά χωρίς να πληρώσουν. Γίνε λιοντάρι στο να μένεις σταθερός στους όρους σου. Τήρησε όμως κάθε υπόσχεση, ακόμα και τις μικρές, όπως το «θα σας το στείλω σήμερα», γιατί σε μια μικρή αγορά ο λόγος σου είναι το brand σου."
+      },
+      "check": {
+        "q": {"en": "Why must the ruler also be a fox?", "el": "Γιατί ο ηγέτης πρέπει να είναι και αλεπού;"},
+        "options": [
+          {"en": "To charm the crowd", "el": "Για να γοητεύει το πλήθος"},
+          {"en": "To run away from battles", "el": "Για να ξεφεύγει από τις μάχες"},
+          {"en": "To recognise traps", "el": "Για να αναγνωρίζει τις παγίδες"}
+        ],
+        "answer": 2,
+        "why": {"en": "Strength alone walks into traps; cunning sees them coming.", "el": "Η δύναμη μόνη της πέφτει στις παγίδες· η πονηριά τις βλέπει να έρχονται."}
+      }
+    },
+    {
+      "title": {"en": "Seen by all, known by few", "el": "Όλοι βλέπουν, λίγοι γνωρίζουν"},
+      "explain": {
+        "en": "Machiavelli observes that people judge more with their eyes than with their hands: everyone sees what you seem to be, few experience what you really are. Most people judge by appearances and by results. He drew a cynical lesson: seem good. The honest version is just as powerful: be good, and make that goodness visible, because quality nobody sees wins no trust.",
+        "el": "Ο Μακιαβέλι παρατηρεί ότι οι άνθρωποι κρίνουν περισσότερο με τα μάτια παρά με τα χέρια: όλοι βλέπουν αυτό που φαίνεσαι, λίγοι αγγίζουν αυτό που είσαι. Οι περισσότεροι κρίνουν από την εικόνα και από τα αποτελέσματα. Εκείνος έβγαλε ένα κυνικό συμπέρασμα: να φαίνεσαι καλός. Η τίμια εκδοχή έχει την ίδια δύναμη: να είσαι καλός και να κάνεις την ποιότητά σου ορατή, γιατί η ποιότητα που δεν τη βλέπει κανείς δεν κερδίζει εμπιστοσύνη."
+      },
+      "example": {
+        "en": "In the Pepsi Challenge of the 1970s, many people in blind tastings preferred Pepsi. Yet Coca-Cola kept outselling it for decades, because people buy with the brand in view, not blindfolded. What people see shapes what they choose.",
+        "el": "Στο «Pepsi Challenge» τη δεκαετία του 1970, πολλοί σε τυφλές δοκιμές προτίμησαν την Pepsi. Κι όμως η Coca-Cola συνέχισε να πουλά περισσότερο για δεκαετίες, γιατί οι άνθρωποι αγοράζουν βλέποντας το brand, όχι με δεμένα μάτια. Αυτό που βλέπουν οι άνθρωποι διαμορφώνει αυτό που διαλέγουν."
+      },
+      "apply": {
+        "en": "Make your real quality visible in the first ten seconds of a video meeting: open with three finished sites of colleagues in the client's field, then their real Google reviews. Fix your own site's speed and photos first. Never show work or reviews that are not real.",
+        "el": "Κάνε την πραγματική σου ποιότητα ορατή στα πρώτα δέκα δευτερόλεπτα μιας βιντεοκλήσης: άνοιξε με τρεις έτοιμες σελίδες συναδέλφων από τον κλάδο του πελάτη και μετά με τις αληθινές κριτικές τους στο Google. Φτιάξε πρώτα την ταχύτητα και τις φωτογραφίες της δικής σου σελίδας. Μη δείχνεις ποτέ δουλειές ή κριτικές που δεν είναι αληθινές."
+      },
+      "check": {
+        "q": {"en": "Why does appearance matter so much, says Machiavelli?", "el": "Γιατί η εικόνα μετράει τόσο πολύ, κατά τον Μακιαβέλι;"},
+        "options": [
+          {"en": "Most people judge by what they see", "el": "Οι περισσότεροι κρίνουν από αυτό που βλέπουν"},
+          {"en": "People always test everything carefully", "el": "Οι άνθρωποι ελέγχουν πάντα τα πάντα προσεκτικά"},
+          {"en": "Rulers can hide nothing at all", "el": "Οι ηγέτες δεν μπορούν να κρύψουν τίποτα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Few people know you closely; most judge from what is visible.", "el": "Λίγοι σε γνωρίζουν από κοντά· οι περισσότεροι κρίνουν από ό,τι φαίνεται."}
+      }
+    },
+    {
+      "title": {"en": "Avoid contempt: be decisive", "el": "Μην αφήνεις να σε περιφρονούν"},
+      "explain": {
+        "en": "Besides hatred, a ruler must avoid contempt. People despise a leader who seems changeable, frivolous, cowardly or unable to decide. Machiavelli says your actions should show strength and seriousness, and your decisions should be final, so nobody even thinks of tricking you or changing your mind. A leader who wavers invites people to push.",
+        "el": "Εκτός από το μίσος, ένας ηγέτης πρέπει να αποφεύγει την περιφρόνηση. Οι άνθρωποι περιφρονούν τον ηγέτη που μοιάζει άστατος, επιπόλαιος, δειλός ή ανίκανος να αποφασίσει. Ο Μακιαβέλι λέει ότι οι πράξεις σου πρέπει να δείχνουν δύναμη και σοβαρότητα, και οι αποφάσεις σου να είναι τελεσίδικες, ώστε να μη σκεφτεί κανείς καν να σε ξεγελάσει ή να σου αλλάξει γνώμη. Ο ηγέτης που ταλαντεύεται προσκαλεί τους άλλους να τον σπρώξουν."
+      },
+      "example": {
+        "en": "Among the Roman emperors in chapter 19, Machiavelli mentions Alexander Severus, seen as soft and ruled by his mother. The army came to despise him, and his own soldiers killed him in 235 AD, even though Machiavelli says he was a good and just ruler.",
+        "el": "Ανάμεσα στους Ρωμαίους αυτοκράτορες του 19ου κεφαλαίου, ο Μακιαβέλι αναφέρει τον Αλέξανδρο Σεβήρο, που θεωρούνταν μαλθακός και τον κυβερνούσε η μητέρα του. Ο στρατός άρχισε να τον περιφρονεί και οι ίδιοι του οι στρατιώτες τον σκότωσαν το 235 μ.Χ., παρότι ο Μακιαβέλι λέει ότι ήταν καλός και δίκαιος ηγεμόνας."
+      },
+      "apply": {
+        "en": "When a client pushes for a discount on the 130€ hosting after you have given the price, do not bargain step by step. Decide your policy once and say it calmly: «The price is the same for all our clients.» Then offer value, not a lower price. In the team, make a decision, explain it and do not reopen it every week.",
+        "el": "Όταν ένας πελάτης πιέζει για έκπτωση στα 130€ της φιλοξενίας αφού του έχεις πει την τιμή, μην παζαρεύεις βήμα βήμα. Αποφάσισε την πολιτική σου μία φορά και πες την ήρεμα: «Η τιμή είναι ίδια για όλους τους πελάτες μας». Μετά πρόσφερε αξία, όχι χαμηλότερη τιμή. Στην ομάδα, πάρε μια απόφαση, εξήγησέ τη και μην την ξανανοίγεις κάθε εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What makes people despise a leader?", "el": "Τι κάνει τους ανθρώπους να περιφρονούν έναν ηγέτη;"},
+        "options": [
+          {"en": "Being strict but fair", "el": "Το να είναι αυστηρός αλλά δίκαιος"},
+          {"en": "Being careful with money", "el": "Το να είναι προσεκτικός με τα χρήματα"},
+          {"en": "Seeming changeable and unable to decide", "el": "Το να φαίνεται άστατος και ανίκανος να αποφασίσει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Wavering shows weakness, and weakness invites people to push you around.", "el": "Η ταλάντευση δείχνει αδυναμία, και η αδυναμία προσκαλεί τους άλλους να σε σπρώχνουν."}
+      }
+    },
+    {
+      "title": {"en": "Win esteem with great deeds", "el": "Κέρδισε εκτίμηση με μεγάλα έργα"},
+      "explain": {
+        "en": "Nothing makes a ruler more esteemed, Machiavelli writes, than great undertakings and rare proofs of his ability. A leader who keeps doing bold, visible things keeps people's minds busy with admiration and expectation, leaving no room for plotting. He also advises rewarding those who excel and encouraging citizens to work and build without fear of being robbed.",
+        "el": "Τίποτα δεν κάνει έναν ηγέτη τόσο εκτιμητό, γράφει ο Μακιαβέλι, όσο τα μεγάλα εγχειρήματα και τα σπάνια δείγματα της ικανότητάς του. Ο ηγέτης που κάνει συνέχεια τολμηρά και ορατά πράγματα κρατά τα μυαλά των ανθρώπων απασχολημένα με θαυμασμό και προσμονή, χωρίς χώρο για συνωμοσίες. Συμβουλεύει επίσης να επιβραβεύεις όσους διακρίνονται και να ενθαρρύνεις τους πολίτες να δουλεύουν και να χτίζουν χωρίς φόβο ότι θα τους τα πάρουν."
+      },
+      "example": {
+        "en": "His model is Ferdinand of Aragon, who went from a weak king to, in Machiavelli's words, the first king in Christendom. He began by attacking Granada, conquered in 1492, and followed with one large enterprise after another, keeping his nobles busy and his people in suspense.",
+        "el": "Πρότυπό του είναι ο Φερδινάνδος της Αραγωνίας, που από αδύναμος βασιλιάς έγινε, με τα λόγια του Μακιαβέλι, ο πρώτος βασιλιάς της χριστιανοσύνης. Ξεκίνησε με την επίθεση στη Γρανάδα, που κατακτήθηκε το 1492, και συνέχισε με το ένα μεγάλο εγχείρημα μετά το άλλο, κρατώντας απασχολημένους τους ευγενείς και τον λαό σε αναμονή."
+      },
+      "apply": {
+        "en": "Plan one visible, impressive project each quarter that shows what you can do: a stunning site for a well-known local practice, a free webinar for doctors on being found on Google, a reel series of before-and-after redesigns. Share each one widely, so clients and your team feel the agency is going somewhere.",
+        "el": "Σχεδίασε κάθε τρίμηνο ένα ορατό, εντυπωσιακό έργο που δείχνει τι μπορείς: μια εκθαμβωτική σελίδα για ένα γνωστό ιατρείο της περιοχής, ένα δωρεάν webinar για γιατρούς σχετικά με το πώς να τους βρίσκουν στο Google, μια σειρά reels με το πριν και το μετά. Μοιράσου το καθένα παντού, ώστε πελάτες και ομάδα να νιώθουν ότι το γραφείο προχωρά."
+      },
+      "check": {
+        "q": {"en": "What, says Machiavelli, makes a ruler most esteemed?", "el": "Τι κάνει, κατά τον Μακιαβέλι, έναν ηγέτη πιο εκτιμητό;"},
+        "options": [
+          {"en": "Great undertakings and rare proofs of ability", "el": "Τα μεγάλα εγχειρήματα και τα σπάνια δείγματα ικανότητας"},
+          {"en": "Avoiding every risk", "el": "Το να αποφεύγει κάθε κίνδυνο"},
+          {"en": "Spending on festivals for the people", "el": "Το να ξοδεύει σε γιορτές για τον λαό"}
+        ],
+        "answer": 0,
+        "why": {"en": "Visible, bold achievements build admiration and keep people engaged.", "el": "Τα ορατά, τολμηρά επιτεύγματα χτίζουν θαυμασμό και κρατούν τους ανθρώπους δεμένους."}
+      }
+    },
+    {
+      "title": {"en": "Never stay neutral", "el": "Μη μένεις ουδέτερος"},
+      "explain": {
+        "en": "When two powers fight near you, Machiavelli says, take a clear side. If you stay neutral, the winner will see you as a useless friend who did not help, and the loser will not shelter you. If you join one side and it wins, it owes you; if it loses, it still values you. Weak rulers choose neutrality to avoid danger, and are usually ruined by it.",
+        "el": "Όταν δύο δυνάμεις συγκρούονται κοντά σου, λέει ο Μακιαβέλι, πάρε καθαρή θέση. Αν μείνεις ουδέτερος, ο νικητής θα σε θεωρεί άχρηστο φίλο που δεν τον βοήθησε και ο ηττημένος δεν θα σε προστατέψει. Αν πας με μία πλευρά και νικήσει, σου χρωστά· αν χάσει, εξακολουθεί να σε εκτιμά. Οι αναποφάσιστοι ηγέτες διαλέγουν την ουδετερότητα για να αποφύγουν τον κίνδυνο, και συνήθως αυτή τους καταστρέφει."
+      },
+      "example": {
+        "en": "Machiavelli tells how King Antiochus urged the Achaeans to stay neutral in his war with Rome. The Roman envoy replied that if they stayed out, they would be left without thanks or dignity, the prize of the winner. The Achaeans sided with Rome.",
+        "el": "Ο Μακιαβέλι διηγείται πώς ο βασιλιάς Αντίοχος πίεζε τους Αχαιούς να μείνουν ουδέτεροι στον πόλεμό του με τη Ρώμη. Ο Ρωμαίος απεσταλμένος απάντησε ότι, αν έμεναν απέξω, θα κατέληγαν χωρίς ευγνωμοσύνη και αξιοπρέπεια, λάφυρο του νικητή. Οι Αχαιοί πήγαν με τη Ρώμη."
+      },
+      "apply": {
+        "en": "Take a clear position in your market and say it everywhere, for example «websites for Greek health professionals, built fast, with a 0€ build». A vague «we do everything for everyone» wins nobody's loyalty. When a client hesitates between two options, give your honest recommendation instead of «whatever you prefer».",
+        "el": "Πάρε μια καθαρή θέση στην αγορά σου και πες την παντού, για παράδειγμα «ιστοσελίδες για Έλληνες επαγγελματίες υγείας, γρήγορα, με κατασκευή 0€». Ένα αόριστο «κάνουμε τα πάντα για όλους» δεν κερδίζει την αφοσίωση κανενός. Όταν ένας πελάτης διστάζει ανάμεσα σε δύο επιλογές, δώσ' του την ειλικρινή σου πρόταση αντί για ένα «ό,τι προτιμάτε»."
+      },
+      "check": {
+        "q": {"en": "Why is neutrality dangerous, for Machiavelli?", "el": "Γιατί η ουδετερότητα είναι επικίνδυνη, για τον Μακιαβέλι;"},
+        "options": [
+          {"en": "It costs too much money", "el": "Κοστίζει πάρα πολλά χρήματα"},
+          {"en": "The winner sees you as useless and the loser will not help you", "el": "Ο νικητής σε θεωρεί άχρηστο και ο ηττημένος δεν θα σε βοηθήσει"},
+          {"en": "It angers your own people", "el": "Θυμώνει τον δικό σου λαό"}
+        ],
+        "answer": 1,
+        "why": {"en": "Staying out wins you no friends on either side.", "el": "Όταν μένεις απέξω, δεν κερδίζεις φίλους σε καμία πλευρά."}
+      }
+    },
+    {
+      "title": {"en": "Your circle is your mirror", "el": "Οι συνεργάτες σου σε καθρεφτίζουν"},
+      "explain": {
+        "en": "The first way to judge a ruler's intelligence, Machiavelli says, is to look at the people around him. Able and loyal ministers show a wise ruler who knows how to find and keep them. To keep a good minister, honour him, share credit and pay him well, so he does not look elsewhere. A minister who thinks more of himself than of the work cannot be trusted.",
+        "el": "Ο πρώτος τρόπος να κρίνεις την ευφυΐα ενός ηγέτη, λέει ο Μακιαβέλι, είναι να δεις τους ανθρώπους γύρω του. Ικανοί και πιστοί υπουργοί δείχνουν σοφό ηγέτη, που ξέρει να τους βρίσκει και να τους κρατά. Για να κρατήσεις έναν καλό συνεργάτη, τίμησέ τον, μοιράσου μαζί του την αναγνώριση και πλήρωσέ τον καλά, ώστε να μην ψάχνει αλλού. Ένας συνεργάτης που σκέφτεται περισσότερο τον εαυτό του παρά τη δουλειά δεν είναι αξιόπιστος."
+      },
+      "example": {
+        "en": "In chapter 22 Machiavelli says that anyone who knew Antonio da Venafro, minister of Pandolfo Petrucci, ruler of Siena, judged Pandolfo a very able man for having chosen him. The minister's quality became proof of the ruler's.",
+        "el": "Στο 22ο κεφάλαιο ο Μακιαβέλι λέει ότι όποιος γνώριζε τον Αντόνιο ντα Βενάφρο, υπουργό του Πάντολφο Πετρούτσι, ηγεμόνα της Σιένας, έκρινε τον Πάντολφο πολύ ικανό άνθρωπο επειδή τον είχε διαλέξει. Η αξία του υπουργού έγινε απόδειξη της αξίας του ηγεμόνα."
+      },
+      "apply": {
+        "en": "Hire slowly and choose people clients will be impressed by: polite on the phone, fast, careful with Greek spelling. Introduce them to clients by name, give them credit when a client praises a site, and pay them fairly and on time, so your best person grows with you rather than leaving.",
+        "el": "Πρόσλαβε αργά και διάλεξε ανθρώπους που θα εντυπωσιάσουν τους πελάτες: ευγενικούς στο τηλέφωνο, γρήγορους, προσεκτικούς με την ορθογραφία. Σύστησέ τους στους πελάτες με το όνομά τους, δώσε τους τα εύσημα όταν ένας πελάτης επαινεί μια σελίδα και πλήρωνέ τους δίκαια και στην ώρα τους, ώστε ο καλύτερός σου άνθρωπος να μεγαλώσει μαζί σου αντί να φύγει."
+      },
+      "check": {
+        "q": {"en": "What is the first sign of a ruler's intelligence?", "el": "Ποιο είναι το πρώτο σημάδι της ευφυΐας ενός ηγέτη;"},
+        "options": [
+          {"en": "The size of his palace", "el": "Το μέγεθος του παλατιού του"},
+          {"en": "The quality of his speeches", "el": "Η ποιότητα των λόγων του"},
+          {"en": "The people he chooses around him", "el": "Οι άνθρωποι που διαλέγει γύρω του"}
+        ],
+        "answer": 2,
+        "why": {"en": "Choosing and keeping able people shows the leader's own judgment.", "el": "Το να διαλέγει και να κρατά ικανούς ανθρώπους δείχνει την κρίση του ίδιου του ηγέτη."}
+      }
+    },
+    {
+      "title": {"en": "Ask for truth, not flattery", "el": "Ζήτα την αλήθεια, όχι κολακείες"},
+      "explain": {
+        "en": "Courts are full of flatterers, because people love to hear pleasant things. Machiavelli's cure: choose a few wise advisers, give them freedom to tell you the truth when you ask, and ask often, about everything. Then decide yourself and stick to it. If anyone may tell you anything at any time you lose respect, but if no one dares to speak you lose the truth.",
+        "el": "Οι αυλές είναι γεμάτες κόλακες, γιατί στους ανθρώπους αρέσει να ακούν ευχάριστα πράγματα. Η θεραπεία του Μακιαβέλι: διάλεξε λίγους σοφούς συμβούλους, δώσ' τους ελευθερία να σου λένε την αλήθεια όταν ρωτάς, και ρώτα συχνά, για όλα. Μετά αποφάσισε μόνος σου και μείνε στην απόφαση. Αν ο καθένας μπορεί να σου λέει οτιδήποτε οποτεδήποτε, χάνεις τον σεβασμό· αν δεν τολμά κανείς να μιλήσει, χάνεις την αλήθεια."
+      },
+      "example": {
+        "en": "Machiavelli quotes a priest close to Emperor Maximilian, who said the emperor consulted nobody yet never got his way. Maximilian kept his plans secret; when they became known, the people around him objected, and he gave them up. Because he never asked in advance, he kept changing course.",
+        "el": "Ο Μακιαβέλι παραθέτει έναν ιερέα από το περιβάλλον του αυτοκράτορα Μαξιμιλιανού, που έλεγε ότι ο αυτοκράτορας δεν συμβουλευόταν κανέναν κι όμως δεν έκανε ποτέ το δικό του. Ο Μαξιμιλιανός κρατούσε τα σχέδιά του μυστικά· όταν μαθεύονταν, οι γύρω του έφερναν αντιρρήσεις κι εκείνος τα εγκατέλειπε. Επειδή δεν ρωτούσε ποτέ από πριν, άλλαζε συνεχώς πορεία."
+      },
+      "apply": {
+        "en": "Before launching a new ad or offer, show it to two people who will be honest and ask: «What would make a doctor scroll past this?» After every project, ask the client one direct question: «What could we have done better?» Thank them for the criticism, then decide yourself.",
+        "el": "Πριν ανεβάσεις μια νέα διαφήμιση ή προσφορά, δείξ' τη σε δύο ανθρώπους που θα σου μιλήσουν ειλικρινά και ρώτα: «Τι θα έκανε έναν γιατρό να την προσπεράσει;» Μετά από κάθε έργο, κάνε στον πελάτη μία ευθεία ερώτηση: «Τι θα μπορούσαμε να είχαμε κάνει καλύτερα;» Ευχαρίστησε για την κριτική και μετά αποφάσισε εσύ."
+      },
+      "check": {
+        "q": {"en": "How does a ruler escape flatterers, says Machiavelli?", "el": "Πώς γλιτώνει ένας ηγέτης από τους κόλακες, κατά τον Μακιαβέλι;"},
+        "options": [
+          {"en": "By trusting no one at all", "el": "Μην εμπιστευόμενος κανέναν"},
+          {"en": "By letting a few wise advisers speak freely when asked", "el": "Αφήνοντας λίγους σοφούς συμβούλους να μιλούν ελεύθερα όταν τους ρωτά"},
+          {"en": "By punishing everyone who disagrees", "el": "Τιμωρώντας όποιον διαφωνεί"}
+        ],
+        "answer": 1,
+        "why": {"en": "Chosen advisers who may speak the truth give honest input without chaos.", "el": "Οι διαλεγμένοι σύμβουλοι που επιτρέπεται να λένε την αλήθεια δίνουν ειλικρινή γνώμη χωρίς χάος."}
+      }
+    },
+    {
+      "title": {"en": "Fortune is a river", "el": "Η τύχη είναι ποτάμι"},
+      "explain": {
+        "en": "Machiavelli thinks fortune decides about half of what happens and leaves the other half to us. He compares it to a violent river that floods the plains. You cannot stop the flood, but in calm weather you can build dikes and channels so it does less harm. He adds that success comes to those whose way of acting fits the times, so be ready to adapt.",
+        "el": "Ο Μακιαβέλι πιστεύει ότι η τύχη αποφασίζει περίπου για τα μισά από όσα συμβαίνουν και αφήνει τα άλλα μισά σε εμάς. Την παρομοιάζει με ένα ορμητικό ποτάμι που πλημμυρίζει τους κάμπους. Δεν μπορείς να σταματήσεις την πλημμύρα, μπορείς όμως στις ήρεμες μέρες να χτίσεις αναχώματα και κανάλια, ώστε να κάνει μικρότερη ζημιά. Προσθέτει ότι επιτυχία έχει όποιος ο τρόπος του ταιριάζει με την εποχή, άρα να είσαι έτοιμος να προσαρμοστείς."
+      },
+      "example": {
+        "en": "Pope Julius II, Machiavelli says, always acted boldly and fast, and the times suited him, so he always succeeded, as with his swift march on Bologna in 1506. Had times come that called for caution, he would have been ruined, because he could never have changed his nature.",
+        "el": "Ο πάπας Ιούλιος Β΄, λέει ο Μακιαβέλι, έπραττε πάντα τολμηρά και γρήγορα, και η εποχή τού ταίριαζε, οπότε πετύχαινε πάντα, όπως με τη γρήγορη εκστρατεία του στη Μπολόνια το 1506. Αν είχε έρθει εποχή που ήθελε προσοχή, θα είχε καταστραφεί, γιατί δεν θα μπορούσε ποτέ να αλλάξει τη φύση του."
+      },
+      "apply": {
+        "en": "Build your dikes now: agreements with clear renewal terms, money set aside, backups of every site, more than one way to find leads. Then review your style every six months: if Meta ads get expensive and calls work better, shift, even if ads were your winning habit.",
+        "el": "Χτίσε τώρα τα αναχώματά σου: συμφωνίες με καθαρούς όρους ανανέωσης, χρήματα στην άκρη, αντίγραφα κάθε σελίδας, περισσότερους από έναν τρόπους να βρίσκεις leads. Μετά ξανακοίτα τον τρόπο σου κάθε έξι μήνες: αν οι διαφημίσεις στο Meta ακριβύνουν και τα τηλέφωνα δουλεύουν καλύτερα, άλλαξε, ακόμα κι αν οι διαφημίσεις ήταν η νικηφόρα σου συνήθεια."
+      },
+      "check": {
+        "q": {"en": "What can you do about fortune, according to the river image?", "el": "Τι μπορείς να κάνεις για την τύχη, σύμφωνα με την εικόνα του ποταμού;"},
+        "options": [
+          {"en": "Nothing, it decides everything", "el": "Τίποτα, αυτή αποφασίζει για όλα"},
+          {"en": "Stop the flood through courage", "el": "Να σταματήσεις την πλημμύρα με θάρρος"},
+          {"en": "Build dikes in calm times to limit the damage", "el": "Να χτίσεις αναχώματα στις ήρεμες μέρες για να περιορίσεις τη ζημιά"}
+        ],
+        "answer": 2,
+        "why": {"en": "You cannot prevent the flood, but preparation decides how much it hurts.", "el": "Δεν μπορείς να αποτρέψεις την πλημμύρα, αλλά η προετοιμασία κρίνει πόσο θα πονέσει."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Your plan says 20 new clients this month, but your real numbers show one signing per 40 calls and you made 300 calls. What would Machiavelli say?", "el": "Το πλάνο σου λέει 20 νέους πελάτες αυτόν τον μήνα, αλλά τα πραγματικά σου νούμερα δείχνουν μία υπογραφή ανά 40 κλήσεις κι έκανες 300 κλήσεις. Τι θα έλεγε ο Μακιαβέλι;"},
+      "options": [
+        {"en": "Keep the plan, believing in it makes it happen", "el": "Κράτα το πλάνο, αν το πιστέψεις θα γίνει"},
+        {"en": "Plan from the real numbers: more calls or a better conversion", "el": "Σχεδίασε με βάση τα πραγματικά νούμερα: περισσότερες κλήσεις ή καλύτερο ποσοστό"},
+        {"en": "Blame the market and wait for better times", "el": "Φόρτωσέ το στην αγορά και περίμενε καλύτερες μέρες"}
+      ],
+      "answer": 1,
+      "why": {"en": "The effectual truth: plans built on wishes fail, plans built on facts can be fixed.", "el": "Η πραγματική αλήθεια: τα σχέδια πάνω σε ευχές αποτυγχάνουν, τα σχέδια πάνω σε γεγονότα διορθώνονται."},
+      "idea": 0
+    },
+    {
+      "q": {"en": "A client is two months late with the hosting payment. Which response fits Machiavelli's realism and stays ethical?", "el": "Ένας πελάτης καθυστερεί δύο μήνες την πληρωμή της φιλοξενίας. Ποια αντίδραση ταιριάζει στον ρεαλισμό του Μακιαβέλι και μένει ηθική;"},
+      "options": [
+        {"en": "Apply your written rule calmly: reminder, call, clear deadline, the same for everyone", "el": "Εφαρμόζεις ήρεμα τον γραπτό σου κανόνα: υπενθύμιση, τηλέφωνο, καθαρή προθεσμία, ίδια για όλους"},
+        {"en": "Take the site down without warning to scare him", "el": "Κατεβάζεις τη σελίδα χωρίς προειδοποίηση για να τον τρομάξεις"},
+        {"en": "Let it go so that he keeps liking you", "el": "Το αφήνεις, για να συνεχίσει να σε συμπαθεί"}
+      ],
+      "answer": 0,
+      "why": {"en": "Firm, fair rules earn respect; sudden punishment breeds hatred, and endless leniency breeds contempt.", "el": "Οι σταθεροί και δίκαιοι κανόνες κερδίζουν σεβασμό· η ξαφνική τιμωρία γεννά μίσος και η ατέλειωτη επιείκεια περιφρόνηση."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "All your sites are built by one freelancer who could leave any day. What does Machiavelli's advice point to?", "el": "Όλες σου τις σελίδες τις φτιάχνει ένας freelancer που μπορεί να φύγει οποιαδήποτε μέρα. Πού δείχνει η συμβουλή του Μακιαβέλι;"},
+      "options": [
+        {"en": "Pay him more and hope for the best", "el": "Τον πληρώνεις περισσότερο και ελπίζεις"},
+        {"en": "Find a second freelancer and stop worrying", "el": "Βρίσκεις έναν δεύτερο freelancer και ξεχνάς το θέμα"},
+        {"en": "Write down the process and train someone on your own team", "el": "Καταγράφεις τη διαδικασία και εκπαιδεύεις κάποιον από τη δική σου ομάδα"}
+      ],
+      "answer": 2,
+      "why": {"en": "Rely on your own arms: a skill you only rent can disappear when you need it most.", "el": "Στηρίξου στα δικά σου όπλα: μια ικανότητα που απλώς νοικιάζεις μπορεί να χαθεί όταν τη χρειάζεσαι περισσότερο."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "A «partner» offers you 50 clients if you sign an exclusive deal today, with no time to read it. What do you do?", "el": "Ένας «συνεργάτης» σου προσφέρει 50 πελάτες αν υπογράψεις σήμερα μια αποκλειστική συμφωνία, χωρίς χρόνο να τη διαβάσεις. Τι κάνεις;"},
+      "options": [
+        {"en": "Sign now, chances like this do not wait", "el": "Υπογράφεις τώρα, τέτοιες ευκαιρίες δεν περιμένουν"},
+        {"en": "Read the deal carefully and check who he is before deciding", "el": "Διαβάζεις προσεκτικά τη συμφωνία και ελέγχεις ποιος είναι πριν αποφασίσεις"},
+        {"en": "Say yes now and break the promise later if needed", "el": "Λες ναι τώρα και αθετείς την υπόσχεση αργότερα αν χρειαστεί"}
+      ],
+      "answer": 1,
+      "why": {"en": "Be the fox who sees the trap, but keep your word: never promise what you may break.", "el": "Γίνε η αλεπού που βλέπει την παγίδα, αλλά κράτα τον λόγο σου: μην υπόσχεσαι ό,τι μπορεί να αθετήσεις."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "Everyone on your team praises your new ad, but it brings no leads. What would Machiavelli do?", "el": "Όλοι στην ομάδα σου επαινούν τη νέα σου διαφήμιση, αλλά δεν φέρνει κανένα lead. Τι θα έκανε ο Μακιαβέλι;"},
+      "options": [
+        {"en": "Ask two honest outsiders what would make a doctor scroll past it", "el": "Ρωτάς δύο ειλικρινείς ανθρώπους απέξω τι θα έκανε έναν γιατρό να την προσπεράσει"},
+        {"en": "Trust the praise and double the budget", "el": "Εμπιστεύεσαι τους επαίνους και διπλασιάζεις τον προϋπολογισμό"},
+        {"en": "Stop all ads for good", "el": "Σταματάς οριστικά όλες τις διαφημίσεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "Flattery feels good and teaches nothing. Ask chosen people for the truth, then decide.", "el": "Η κολακεία είναι ευχάριστη και δεν διδάσκει τίποτα. Ζήτα την αλήθεια από διαλεγμένους ανθρώπους και μετά αποφάσισε."},
+      "idea": 17
+    },
+    {
+      "q": {"en": "A dentist asks you: «Should I go with the dark design or the light one?» What do you do?", "el": "Ένας οδοντίατρος σε ρωτά: «Να πάω με το σκούρο ή με το ανοιχτό design;» Τι κάνεις;"},
+      "options": [
+        {"en": "Say «whatever you prefer»", "el": "Λες «ό,τι προτιμάτε»"},
+        {"en": "Show him both options again without comment", "el": "Του ξαναδείχνεις και τις δύο επιλογές χωρίς σχόλιο"},
+        {"en": "Give your clear, honest recommendation with the reason", "el": "Δίνεις την καθαρή, ειλικρινή σου πρόταση με την αιτία"}
+      ],
+      "answer": 2,
+      "why": {"en": "Taking a clear position earns trust; staying neutral leaves the client alone with the decision.", "el": "Η καθαρή θέση κερδίζει εμπιστοσύνη· η ουδετερότητα αφήνει τον πελάτη μόνο του με την απόφαση."},
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Machiavelli wrote The Prince after losing his government post when the Medici returned.", "el": "Ο Μακιαβέλι έγραψε τον Ηγεμόνα αφού έχασε τη θέση του όταν επέστρεψαν οι Μέδικοι."}, "answer": true, "why": {"en": "He lost his job in 1512, was jailed in 1513, and wrote the book on his farm that year.", "el": "Έχασε τη θέση του το 1512, φυλακίστηκε το 1513 και έγραψε το βιβλίο στο κτήμα του την ίδια χρονιά."}},
+    {"s": {"en": "Machiavelli says it is always best to be loved and never feared.", "el": "Ο Μακιαβέλι λέει ότι είναι πάντα καλύτερο να σε αγαπούν και ποτέ να σε φοβούνται."}, "answer": false, "why": {"en": "He says that if you cannot be both, being feared is safer, as long as you are not hated.", "el": "Λέει ότι αν δεν μπορείς να έχεις και τα δύο, ο φόβος είναι πιο ασφαλής, αρκεί να μη σε μισούν."}},
+    {"s": {"en": "Machiavelli warns that a ruler must avoid being hated.", "el": "Ο Μακιαβέλι προειδοποιεί ότι ένας ηγέτης πρέπει να αποφεύγει να γίνει μισητός."}, "answer": true, "why": {"en": "Hatred, mostly caused by taking people's property, is what destroys rulers.", "el": "Το μίσος, που προκαλείται κυρίως όταν παίρνεις την περιουσία των ανθρώπων, είναι αυτό που καταστρέφει τους ηγέτες."}},
+    {"s": {"en": "Machiavelli trusted mercenary soldiers more than citizen troops.", "el": "Ο Μακιαβέλι εμπιστευόταν τους μισθοφόρους περισσότερο από τα στρατεύματα πολιτών."}, "answer": false, "why": {"en": "He calls mercenaries useless and dangerous and wants a ruler's own forces.", "el": "Λέει τους μισθοφόρους άχρηστους και επικίνδυνους και θέλει ο ηγέτης να έχει δικές του δυνάμεις."}},
+    {"s": {"en": "Machiavelli believed fortune controls everything we do.", "el": "Ο Μακιαβέλι πίστευε ότι η τύχη ελέγχει όλα όσα κάνουμε."}, "answer": false, "why": {"en": "He says fortune rules about half of our actions and leaves the other half to us.", "el": "Λέει ότι η τύχη κυβερνά περίπου τις μισές πράξεις μας και αφήνει τις άλλες μισές σε εμάς."}},
+    {"s": {"en": "Machiavelli advises taking a clear side rather than staying neutral.", "el": "Ο Μακιαβέλι συμβουλεύει να παίρνεις καθαρή θέση αντί να μένεις ουδέτερος."}, "answer": true, "why": {"en": "Neutrality leaves you with no friends on either side, he says in chapter 21.", "el": "Η ουδετερότητα σε αφήνει χωρίς φίλους σε καμία πλευρά, λέει στο 21ο κεφάλαιο."}},
+    {"s": {"en": "The phrase «the ends justify the means» appears word for word in The Prince.", "el": "Η φράση «ο σκοπός αγιάζει τα μέσα» υπάρχει αυτούσια στον Ηγεμόνα."}, "answer": false, "why": {"en": "It is a later summary. He wrote that people judge rulers by results, which is not the same claim.", "el": "Είναι μεταγενέστερη σύνοψη. Εκείνος έγραψε ότι οι άνθρωποι κρίνουν τους ηγέτες από τα αποτελέσματα, που δεν είναι το ίδιο."}},
+    {"s": {"en": "For Machiavelli, the people around a ruler show how intelligent he is.", "el": "Για τον Μακιαβέλι, οι άνθρωποι γύρω από έναν ηγέτη δείχνουν πόσο έξυπνος είναι."}, "answer": true, "why": {"en": "Chapter 22 says the first judgment of a ruler comes from the ministers he chooses.", "el": "Το 22ο κεφάλαιο λέει ότι η πρώτη κρίση για έναν ηγέτη βγαίνει από τους υπουργούς που διαλέγει."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Virtù", "el": "Virtù (ικανότητα)"}, "b": {"en": "Ability, energy and skill to act", "el": "Ικανότητα, ενέργεια και δεξιοτεχνία στη δράση"}},
+    {"a": {"en": "Fortuna", "el": "Fortuna (τύχη)"}, "b": {"en": "Luck and circumstances, about half of events", "el": "Τύχη και περιστάσεις, περίπου τα μισά γεγονότα"}},
+    {"a": {"en": "Effectual truth", "el": "Πραγματική αλήθεια"}, "b": {"en": "How things really work, not how they should", "el": "Πώς δουλεύουν πράγματι τα πράγματα, όχι πώς θα έπρεπε"}},
+    {"a": {"en": "Fox and lion", "el": "Αλεπού και λιοντάρι"}, "b": {"en": "Seeing traps, plus strength to scare wolves", "el": "Βλέπεις παγίδες και έχεις δύναμη για τους λύκους"}},
+    {"a": {"en": "Mercenaries", "el": "Μισθοφόροι"}, "b": {"en": "Paid fighters with no reason to be loyal", "el": "Πληρωμένοι πολεμιστές χωρίς λόγο να μείνουν πιστοί"}},
+    {"a": {"en": "Dikes", "el": "Αναχώματα"}, "b": {"en": "Preparations made in calm times against bad luck", "el": "Προετοιμασίες στις ήρεμες μέρες για την κακή τύχη"}}
+  ],
+  "missions": [
+    {"en": "Write last month's real sales numbers, calls, meetings, signed clients and payments, and set next month's call target from them.", "el": "Γράψε τα πραγματικά νούμερα πωλήσεων του προηγούμενου μήνα, κλήσεις, ραντεβού, υπογραφές και πληρωμές, και βάλε από αυτά τον στόχο κλήσεων του επόμενου."},
+    {"en": "List your three biggest dependencies, such as one freelancer, one ad channel and one tool, and write one backup step for each.", "el": "Γράψε τις τρεις μεγαλύτερες εξαρτήσεις σου, όπως έναν freelancer, ένα κανάλι διαφήμισης και ένα εργαλείο, και ένα βήμα εφεδρείας για την καθεμία."},
+    {"en": "Write your payment and renewal rules in five clear lines and add them to your client agreement.", "el": "Γράψε τους κανόνες πληρωμής και ανανέωσης σε πέντε καθαρές γραμμές και πρόσθεσέ τους στη συμφωνία με τους πελάτες."},
+    {"en": "Ask two honest people what would make a doctor scroll past your current ad, and write down their answers.", "el": "Ρώτα δύο ειλικρινείς ανθρώπους τι θα έκανε έναν γιατρό να προσπεράσει την τωρινή σου διαφήμιση και σημείωσε τις απαντήσεις τους."},
+    {"en": "Pick one bold, visible project for this quarter and put its first step in your calendar for this week.", "el": "Διάλεξε ένα τολμηρό, ορατό έργο για αυτό το τρίμηνο και βάλε το πρώτο του βήμα στο ημερολόγιο αυτής της εβδομάδας."}
+  ],
+  "mantra": {"en": "See things as they are, build my own strength, keep my word.", "el": "Βλέπω τα πράγματα όπως είναι, χτίζω τη δική μου δύναμη, κρατώ τον λόγο μου."},
+  "careful": {
+    "en": "«The ends justify the means» is not Machiavelli's phrase. He wrote that people judge rulers by results, an observation, not a moral rule. Much of his advice, praising well-used cruelty, killing rivals and breaking promises, is morally unacceptable today and often illegal in business, where trust is built over years. He wrote for princes in an age of constant war. Scholars still debate whether the book is sincere advice, a job application or partly satire, and his line about beating fortune like a woman is plainly sexist.",
+    "el": "Το «ο σκοπός αγιάζει τα μέσα» δεν είναι φράση του Μακιαβέλι. Εκείνος έγραψε ότι οι άνθρωποι κρίνουν τους ηγέτες από τα αποτελέσματα, μια παρατήρηση, όχι ηθικό κανόνα. Πολλές συμβουλές του, ο έπαινος της «καλά χρησιμοποιημένης» σκληρότητας, οι φόνοι αντιπάλων και οι αθετημένες υποσχέσεις, είναι σήμερα ηθικά απαράδεκτες και συχνά παράνομες στις επιχειρήσεις, όπου η εμπιστοσύνη χτίζεται με τα χρόνια. Έγραφε για ηγεμόνες σε εποχή διαρκούς πολέμου. Οι μελετητές ακόμα συζητούν αν το βιβλίο είναι ειλικρινής συμβουλή, αίτηση για δουλειά ή εν μέρει σάτιρα, και η φράση του ότι την τύχη πρέπει να τη χτυπάς σαν γυναίκα είναι καθαρά σεξιστική."
+  },
+  "connects": [
+    {"book": "art-of-war", "note": {"en": "Both are cold, practical manuals of power; Sun Tzu tries first to win without fighting, while Machiavelli expects conflict and plans for it.", "el": "Και τα δύο είναι ψυχρά, πρακτικά εγχειρίδια εξουσίας· ο Σουν Τζου προσπαθεί πρώτα να νικήσει χωρίς μάχη, ενώ ο Μακιαβέλι περιμένει τη σύγκρουση και σχεδιάζει γι' αυτήν."}},
+    {"book": "laws-of-human-nature", "note": {"en": "Robert Greene builds on Machiavelli's realism about people, but aims to understand them rather than to rule them.", "el": "Ο Ρόμπερτ Γκριν πατά πάνω στον ρεαλισμό του Μακιαβέλι για τους ανθρώπους, αλλά στοχεύει να τους καταλάβεις, όχι να τους κυβερνήσεις."}},
+    {"book": "politics", "note": {"en": "Aristotle asks what the best state and the good life are; Machiavelli rejects imagined states and asks how power really works.", "el": "Ο Αριστοτέλης ρωτά ποιο είναι το άριστο πολίτευμα και ο καλός βίος· ο Μακιαβέλι απορρίπτει τα φανταστικά κράτη και ρωτά πώς λειτουργεί πραγματικά η εξουσία."}}
+  ]
+}

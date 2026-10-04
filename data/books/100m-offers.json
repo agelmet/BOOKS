@@ -1,0 +1,576 @@
+{
+  "id": "100m-offers",
+  "title": {"en": "$100M Offers", "el": "Προσφορές 100 εκατομμυρίων"},
+  "author": "Alex Hormozi",
+  "authorEl": "Άλεξ Χορμόζι",
+  "year": 2021,
+  "shelf": "sales",
+  "skills": {"sales": 3, "strategy": 3, "persuasion": 2},
+  "oneLine": {
+    "en": "Pick a hungry market, then build an offer so valuable, so easy and so safe for the buyer that saying no feels foolish, and price it on value, not on effort.",
+    "el": "Διάλεξε μια αγορά που πεινάει και φτιάξε μια προσφορά τόσο πολύτιμη, εύκολη και ασφαλή για τον αγοραστή, που το «όχι» να μοιάζει ανόητο. Τιμολόγησε την αξία, όχι τον κόπο."
+  },
+  "story": {
+    "en": "Alex Hormozi opened gyms in his twenties, struggled for years, then found that the way he packaged what he sold mattered more than how hard he sold it. He built Gym Launch, a company that helped gym owners fill their gyms, and later the investment firm Acquisition.com with his wife Leila. This short 2021 book is his recipe for making an offer people want to buy. It became one of the most read business books among small business owners.",
+    "el": "Ο Άλεξ Χορμόζι άνοιξε γυμναστήρια στα είκοσί του, πάλεψε χρόνια και κάποια στιγμή κατάλαβε ότι μετράει περισσότερο το πώς «πακετάρεις» αυτό που πουλάς παρά το πόσο πιεστικά το πουλάς. Έστησε τη Gym Launch, μια εταιρεία που βοηθούσε ιδιοκτήτες γυμναστηρίων να γεμίσουν τα γυμναστήριά τους, και αργότερα, με τη γυναίκα του Λέιλα, την επενδυτική Acquisition.com. Αυτό το σύντομο βιβλίο του 2021 είναι η συνταγή του για προσφορές που ο κόσμος θέλει να αγοράσει. Έγινε από τα πιο διαβασμένα βιβλία ανάμεσα στους μικρούς επιχειρηματίες."
+  },
+  "forYou": {
+    "en": "You already have an unusual offer: 0 euros for the build, about 130 euros a year, unlimited changes until it goes live. Hormozi shows you how to make it even stronger and clearer: name it, add bonuses that kill objections, give honest guarantees, and choose the niches that need it most. A better offer makes every cold call and every ad easier.",
+    "el": "Έχεις ήδη μια ασυνήθιστη προσφορά: 0 ευρώ η κατασκευή, περίπου 130 ευρώ τον χρόνο, απεριόριστες αλλαγές μέχρι να βγει live. Ο Χορμόζι σού δείχνει πώς να την κάνεις ακόμη πιο δυνατή και πιο καθαρή: να της δώσεις όνομα, να βάλεις δώρα που σβήνουν τις αντιρρήσεις, να δώσεις τίμιες εγγυήσεις και να διαλέξεις τους κλάδους που τη χρειάζονται περισσότερο. Μια καλύτερη προσφορά κάνει πιο εύκολο κάθε cold call και κάθε διαφήμιση."
+  },
+  "ideas": [
+    {
+      "title": {"en": "The Grand Slam Offer", "el": "Η ακαταμάχητη προσφορά"},
+      "explain": {
+        "en": "Hormozi's goal is an offer so good that people feel stupid saying no. It is not a lower price. It is a bundle that gives far more value than it costs, solves every fear the buyer has, and cannot be compared with what others sell. When the offer is that strong, you need less sales skill, fewer calls and less advertising to win the same client.",
+        "el": "Ο στόχος του Χορμόζι είναι μια προσφορά τόσο καλή, που ο άλλος νιώθει ανόητος αν πει όχι. Δεν είναι χαμηλότερη τιμή. Είναι ένα πακέτο που δίνει πολύ περισσότερη αξία απ' όσο κοστίζει, λύνει κάθε φόβο του αγοραστή και δεν συγκρίνεται με ό,τι πουλάνε οι άλλοι. Όταν η προσφορά είναι τόσο δυνατή, χρειάζεσαι λιγότερη τεχνική πώλησης, λιγότερα τηλέφωνα και λιγότερη διαφήμιση για να κερδίσεις τον ίδιο πελάτη."
+      },
+      "example": {
+        "en": "In 1999 Netflix let people rent DVDs by post for one monthly fee, with no due dates and no late fees. Blockbuster earned a large share of its money from late fees. For many renters the Netflix deal was simply easier to say yes to, and the company kept growing while Blockbuster declined.",
+        "el": "Το 1999 το Netflix έδωσε στον κόσμο τη δυνατότητα να νοικιάζει DVD ταχυδρομικά με μία μηνιαία συνδρομή, χωρίς ημερομηνία επιστροφής και χωρίς πρόστιμα καθυστέρησης. Η Blockbuster έβγαζε μεγάλο μέρος των εσόδων της από αυτά τα πρόστιμα. Για πολλούς η πρόταση του Netflix ήταν απλώς πιο εύκολο «ναι», και η εταιρεία μεγάλωνε ενώ η Blockbuster έπεφτε."
+      },
+      "apply": {
+        "en": "Write your whole offer in three lines and read it aloud on every call: «We build your website at no cost. You pay only hosting and domain, about 130 euros a year. We make as many changes as you want until it goes live.» Then list everything included, so the doctor sees the value before the price.",
+        "el": "Γράψε όλη την προσφορά σου σε τρεις γραμμές και πες τη σε κάθε τηλεφώνημα: «Σας φτιάχνουμε την ιστοσελίδα χωρίς κόστος κατασκευής. Πληρώνετε μόνο φιλοξενία και domain, περίπου 130 ευρώ τον χρόνο. Κάνουμε όσες αλλαγές θέλετε μέχρι να βγει online». Μετά απαρίθμησε όσα περιλαμβάνει, ώστε ο γιατρός να δει την αξία πριν από την τιμή."
+      },
+      "check": {
+        "q": {"en": "What makes an offer a Grand Slam Offer?", "el": "Τι κάνει μια προσφορά «ακαταμάχητη» κατά τον Χορμόζι;"},
+        "options": [
+          {"en": "It is the cheapest option on the market", "el": "Είναι η φθηνότερη επιλογή της αγοράς"},
+          {"en": "Its value is so high that saying no feels foolish", "el": "Η αξία της είναι τόσο μεγάλη, που το «όχι» μοιάζει ανόητο"},
+          {"en": "It is sold with very strong pressure", "el": "Πουλιέται με πολύ δυνατή πίεση"}
+        ],
+        "answer": 1,
+        "why": {"en": "Hormozi wins on value and ease for the buyer, not on low price or pressure.", "el": "Ο Χορμόζι κερδίζει με αξία και ευκολία για τον αγοραστή, όχι με χαμηλή τιμή ή πίεση."}
+      }
+    },
+    {
+      "title": {"en": "Escape the commodity trap", "el": "Βγες από την παγίδα του «ίδιου»"},
+      "explain": {
+        "en": "If your offer looks like everyone else's, buyers can only compare one thing: price. That is a commodity, and the cheapest one wins. Hormozi says: make your offer so different that it is in a category of one. Then the buyer cannot line you up next to a rival, and he judges you on value instead of on price. Different beats a little better.",
+        "el": "Αν η προσφορά σου μοιάζει με όλων των άλλων, ο αγοραστής μπορεί να συγκρίνει μόνο ένα πράγμα: την τιμή. Τότε είσαι «εμπόρευμα», και κερδίζει ο φθηνότερος. Ο Χορμόζι λέει: κάνε την προσφορά σου τόσο διαφορετική, που να είναι μόνη στην κατηγορία της. Έτσι ο αγοραστής δεν μπορεί να σε βάλει δίπλα σε έναν ανταγωνιστή και σε κρίνει με βάση την αξία, όχι την τιμή. Το διαφορετικό κερδίζει το λίγο καλύτερο."
+      },
+      "example": {
+        "en": "Water is the ultimate commodity. Liquid Death sells plain water in tall cans with heavy-metal branding and jokes, at a price far above ordinary bottled water. Nobody compares it with the supermarket brand, and in 2024 the company was valued at about 1.4 billion dollars.",
+        "el": "Το νερό είναι το απόλυτο «ίδιο» προϊόν. Η Liquid Death πουλά απλό νερό σε ψηλά κουτάκια με εικόνα heavy metal και χιούμορ, σε τιμή πολύ πάνω από το συνηθισμένο εμφιαλωμένο. Κανείς δεν τη συγκρίνει με το νερό του σούπερ μάρκετ, και το 2024 η εταιρεία αποτιμήθηκε περίπου στο 1,4 δισεκατομμύριο δολάρια."
+      },
+      "apply": {
+        "en": "Stop saying «we make websites». Say what nobody else bundles: «a website for your practice with your real Google reviews, a booking button, a privacy and cookies page that follows the law, and changes until you are happy, with no build cost». Now the doctor cannot compare you with a cheap template.",
+        "el": "Σταμάτα να λες «φτιάχνουμε ιστοσελίδες». Πες αυτό που κανείς άλλος δεν δίνει μαζί: «ιστοσελίδα για το ιατρείο σας με τις πραγματικές κριτικές σας από το Google, κουμπί για ραντεβού, σελίδα απορρήτου και cookies σύμφωνη με τον νόμο, και αλλαγές μέχρι να μείνετε ικανοποιημένος, χωρίς κόστος κατασκευής». Τώρα ο γιατρός δεν μπορεί να σε συγκρίνει με ένα φθηνό έτοιμο πρότυπο."
+      },
+      "check": {
+        "q": {"en": "What happens when your offer looks like everyone else's?", "el": "Τι γίνεται όταν η προσφορά σου μοιάζει με όλων των άλλων;"},
+        "options": [
+          {"en": "Buyers trust you more because it is familiar", "el": "Ο αγοραστής σε εμπιστεύεται περισσότερο επειδή του είναι γνώριμη"},
+          {"en": "You can charge more because it is proven", "el": "Μπορείς να χρεώσεις περισσότερο επειδή είναι δοκιμασμένη"},
+          {"en": "Buyers compare only price, and the cheapest wins", "el": "Ο αγοραστής συγκρίνει μόνο την τιμή και κερδίζει ο φθηνότερος"}
+        ],
+        "answer": 2,
+        "why": {"en": "When everything looks the same, price is the only thing left to compare.", "el": "Όταν όλα μοιάζουν ίδια, το μόνο που μένει να συγκρίνεις είναι η τιμή."}
+      }
+    },
+    {
+      "title": {"en": "Find a starving crowd", "el": "Βρες ένα πλήθος που πεινάει"},
+      "explain": {
+        "en": "Hormozi ranks what matters: first the market, then the offer, then your persuasion skill. A great offer to people who do not need it fails. He checks four things in a market: they feel strong pain, they have money to spend, they are easy to find and reach, and the market is growing. The three biggest markets are health, wealth and relationships.",
+        "el": "Ο Χορμόζι βάζει σε σειρά τι μετράει: πρώτα η αγορά, μετά η προσφορά, μετά η ικανότητά σου να πείθεις. Μια εξαιρετική προσφορά σε ανθρώπους που δεν τη χρειάζονται αποτυγχάνει. Σε μια αγορά ελέγχει τέσσερα πράγματα: νιώθουν έντονο πόνο, έχουν χρήματα να ξοδέψουν, βρίσκονται και προσεγγίζονται εύκολα, και η αγορά μεγαλώνει. Οι τρεις μεγαλύτερες αγορές είναι η υγεία, τα χρήματα και οι σχέσεις."
+      },
+      "example": {
+        "en": "The copywriter Gary Halbert used to ask his students: if you opened a hamburger stand, what one advantage would you want? Better meat, better buns, a better location? His answer: a starving crowd. Hormozi uses the same picture: hunger in the market beats any clever detail in the product.",
+        "el": "Ο κειμενογράφος διαφημίσεων Γκάρι Χάλμπερτ ρωτούσε τους μαθητές του: αν άνοιγες καντίνα με χάμπουργκερ, ποιο ένα πλεονέκτημα θα ήθελες; Καλύτερο κρέας, καλύτερο ψωμί, καλύτερο σημείο; Η απάντησή του: ένα πλήθος που πεινάει. Ο Χορμόζι χρησιμοποιεί την ίδια εικόνα: η πείνα της αγοράς νικά κάθε έξυπνη λεπτομέρεια του προϊόντος."
+      },
+      "apply": {
+        "en": "Score each niche you call from 1 to 5 on the four tests: pain (do they lose patients without a site?), money, easy to find (public directories), growing. Doctors, dentists and psychologists probably score high. Spend most of your call blocks on the top two niches and drop the ones that score low.",
+        "el": "Βαθμολόγησε από 1 έως 5 κάθε κλάδο που καλείς στα τέσσερα κριτήρια: πόνος (χάνουν ασθενείς χωρίς ιστοσελίδα;), χρήματα, εύκολη εύρεση (δημόσιοι κατάλογοι), ανάπτυξη. Γιατροί, οδοντίατροι και ψυχολόγοι μάλλον βγαίνουν ψηλά. Ρίξε τα περισσότερα μπλοκ κλήσεων στους δύο πρώτους κλάδους και άφησε όσους βγαίνουν χαμηλά."
+      },
+      "check": {
+        "q": {"en": "In Hormozi's order of importance, what comes first?", "el": "Στη σειρά σημασίας του Χορμόζι, τι έρχεται πρώτο;"},
+        "options": [
+          {"en": "The market you sell to", "el": "Η αγορά στην οποία πουλάς"},
+          {"en": "Your skill at persuading", "el": "Η ικανότητά σου να πείθεις"},
+          {"en": "The design of your product", "el": "Ο σχεδιασμός του προϊόντος σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Market first, then offer, then persuasion: a hungry crowd makes everything else easier.", "el": "Πρώτα η αγορά, μετά η προσφορά, μετά η πειθώ: ένα πλήθος που πεινάει κάνει όλα τα άλλα πιο εύκολα."}
+      }
+    },
+    {
+      "title": {"en": "Niche down", "el": "Στένεψε τον στόχο"},
+      "explain": {
+        "en": "A general offer for everyone speaks to no one. Hormozi says to commit to one specific group and shape the offer around their exact problems and words. The same service, aimed at a narrow group, feels made for them, so it converts better and can be priced higher. You can widen later; at the start, depth beats breadth.",
+        "el": "Μια γενική προσφορά για όλους δεν μιλάει σε κανέναν. Ο Χορμόζι λέει να δεσμευτείς σε μία συγκεκριμένη ομάδα και να πλάσεις την προσφορά γύρω από τα δικά της προβλήματα και τις δικές της λέξεις. Η ίδια υπηρεσία, όταν στοχεύει μια στενή ομάδα, μοιάζει φτιαγμένη γι' αυτούς, άρα πουλάει καλύτερα και σηκώνει υψηλότερη τιμή. Μπορείς να ανοιχτείς αργότερα. Στην αρχή το βάθος κερδίζει το πλάτος."
+      },
+      "example": {
+        "en": "Hormozi did not sell marketing help to «small businesses». With Gym Launch he served only gym owners, learned their exact problems, and built every part of the offer around filling a gym. That narrow focus is the case study behind most of this book.",
+        "el": "Ο Χορμόζι δεν πουλούσε βοήθεια στο μάρκετινγκ σε «μικρές επιχειρήσεις». Με τη Gym Launch εξυπηρετούσε μόνο ιδιοκτήτες γυμναστηρίων, έμαθε τα ακριβή προβλήματά τους και έχτισε κάθε κομμάτι της προσφοράς γύρω από το πώς γεμίζει ένα γυμναστήριο. Αυτή η στενή εστίαση είναι η περίπτωση πίσω από το μεγαλύτερο μέρος του βιβλίου."
+      },
+      "apply": {
+        "en": "Make one page, one ad and one call opening per niche. For psychologists: «Websites for psychologists, with a calm design, your approach explained simply and a discreet contact form.» Show only psychologist sites in that meeting. Track which niche page brings the most meetings each month.",
+        "el": "Φτιάξε μία σελίδα, μία διαφήμιση και ένα άνοιγμα τηλεφωνήματος για κάθε κλάδο. Για ψυχολόγους: «Ιστοσελίδες για ψυχολόγους, με ήρεμο σχεδιασμό, την προσέγγισή σας εξηγημένη απλά και διακριτική φόρμα επικοινωνίας». Σε αυτό το ραντεβού δείξε μόνο σελίδες ψυχολόγων. Μέτρα κάθε μήνα ποιος κλάδος φέρνει τα περισσότερα ραντεβού."
+      },
+      "check": {
+        "q": {"en": "Why does a niche offer usually sell better?", "el": "Γιατί μια προσφορά για συγκεκριμένο κλάδο πουλάει συνήθως καλύτερα;"},
+        "options": [
+          {"en": "Because there are fewer competitors in total", "el": "Επειδή συνολικά υπάρχουν λιγότεροι ανταγωνιστές"},
+          {"en": "Because it is always cheaper to deliver", "el": "Επειδή είναι πάντα φθηνότερη στην παράδοση"},
+          {"en": "Because buyers feel it was made for them", "el": "Επειδή ο αγοραστής νιώθει ότι φτιάχτηκε γι' αυτόν"}
+        ],
+        "answer": 2,
+        "why": {"en": "The same service in their words and for their problems feels tailor-made, so it converts better.", "el": "Η ίδια υπηρεσία με τις δικές τους λέξεις και για τα δικά τους προβλήματα μοιάζει ραμμένη στα μέτρα τους, άρα πουλάει καλύτερα."}
+      }
+    },
+    {
+      "title": {"en": "The virtuous cycle of price", "el": "Ο καλός κύκλος της τιμής"},
+      "explain": {
+        "en": "Hormozi argues that cheap is a trap. Low prices leave thin margins, so you cannot afford great service, so results are weaker. Higher prices give you money to deliver better, and clients who pay more take it more seriously and get better results. Better results bring referrals and justify the price. Price follows value, never the hours you worked.",
+        "el": "Ο Χορμόζι υποστηρίζει ότι το φθηνό είναι παγίδα. Οι χαμηλές τιμές αφήνουν μικρό περιθώριο, άρα δεν αντέχεις εξαιρετική εξυπηρέτηση, άρα τα αποτελέσματα είναι πιο αδύναμα. Οι υψηλότερες τιμές σού δίνουν χρήματα να παραδίδεις καλύτερα, και ο πελάτης που πληρώνει περισσότερο το παίρνει πιο σοβαρά και πετυχαίνει περισσότερα. Τα καλύτερα αποτελέσματα φέρνουν συστάσεις και δικαιολογούν την τιμή. Η τιμή ακολουθεί την αξία, ποτέ τις ώρες που δούλεψες."
+      },
+      "example": {
+        "en": "In a 2008 study by Dan Ariely and colleagues, people received the same fake painkiller pill. Told it cost 2.50 dollars, about 85% reported less pain from electric shocks. Told it was discounted to 10 cents, about 61% did. The price changed what people experienced.",
+        "el": "Σε μια μελέτη του 2008, ο Νταν Αριέλι και οι συνεργάτες του έδωσαν σε ανθρώπους το ίδιο ψεύτικο παυσίπονο χάπι. Όταν άκουγαν ότι κοστίζει 2,50 δολάρια, περίπου το 85% ένιωθε λιγότερο πόνο από ηλεκτρικά τσιμπήματα. Όταν άκουγαν ότι ήταν σε έκπτωση στα 10 σεντς, μόνο περίπου το 61%. Η τιμή άλλαξε αυτό που ζούσαν."
+      },
+      "apply": {
+        "en": "Never apologise for the price on a call. Then test a second, higher plan with real extra work, for example yearly hosting plus a monthly content update and Google Business Profile care. Offer both side by side for one month and count how many choose each. Keep the plan only if you can truly deliver it.",
+        "el": "Μην ζητάς ποτέ συγγνώμη για την τιμή στο τηλέφωνο. Μετά δοκίμασε ένα δεύτερο, ακριβότερο πακέτο με πραγματική επιπλέον δουλειά, για παράδειγμα φιλοξενία μαζί με μηνιαία ενημέρωση περιεχομένου και φροντίδα του Google Business Profile. Πρόσφερε και τα δύο δίπλα δίπλα για έναν μήνα και μέτρα πόσοι διαλέγουν το καθένα. Κράτα το πακέτο μόνο αν μπορείς πραγματικά να το παραδώσεις."
+      },
+      "check": {
+        "q": {"en": "According to Hormozi, why can a higher price help the client?", "el": "Κατά τον Χορμόζι, γιατί μια υψηλότερη τιμή μπορεί να βοηθήσει τον πελάτη;"},
+        "options": [
+          {"en": "It pays for better delivery and makes him more committed", "el": "Πληρώνει καλύτερη παράδοση και τον κάνει πιο δεσμευμένο"},
+          {"en": "It makes him feel richer than his competitors", "el": "Τον κάνει να νιώθει πλουσιότερος από τους ανταγωνιστές του"},
+          {"en": "It lets you work fewer hours for the same result", "el": "Σου επιτρέπει να δουλεύεις λιγότερες ώρες για το ίδιο αποτέλεσμα"}
+        ],
+        "answer": 0,
+        "why": {"en": "More margin buys better service, and a paying client invests more effort, so results improve.", "el": "Το μεγαλύτερο περιθώριο αγοράζει καλύτερη εξυπηρέτηση και ο πελάτης που πληρώνει βάζει περισσότερη προσπάθεια, άρα τα αποτελέσματα βελτιώνονται."}
+      }
+    },
+    {
+      "title": {"en": "The value equation", "el": "Η εξίσωση της αξίας"},
+      "explain": {
+        "en": "Hormozi's core formula: value goes up with the dream outcome and with how sure the buyer feels he will get it. Value goes down with the time he must wait and the effort and sacrifice he must make. So you have four levers: make the result bigger, make it more certain, make it faster, make it easier. The last two are often the cheapest to improve.",
+        "el": "Η βασική φόρμουλα του Χορμόζι: η αξία ανεβαίνει όσο μεγαλύτερο είναι το ονειρεμένο αποτέλεσμα και όσο πιο σίγουρος νιώθει ο αγοραστής ότι θα το πετύχει. Πέφτει όσο περισσότερο πρέπει να περιμένει και όσο περισσότερο κόπο και θυσία πρέπει να κάνει. Άρα έχεις τέσσερις μοχλούς: μεγαλύτερο αποτέλεσμα, πιο σίγουρο, πιο γρήγορο, πιο εύκολο. Οι δύο τελευταίοι είναι συχνά οι φθηνότεροι να βελτιωθούν."
+      },
+      "example": {
+        "en": "Uber pulled all four levers against the taxi. Dream outcome: a car at your door. Certainty: you watch the car on a map. Time: you see exactly how many minutes. Effort: no calling, no cash, no explaining the address. Same ride, much more value.",
+        "el": "Η Uber τράβηξε και τους τέσσερις μοχλούς απέναντι στο ταξί. Ονειρεμένο αποτέλεσμα: ένα αυτοκίνητο στην πόρτα σου. Σιγουριά: βλέπεις το αυτοκίνητο στον χάρτη. Χρόνος: ξέρεις ακριβώς σε πόσα λεπτά έρχεται. Κόπος: ούτε τηλέφωνο, ούτε μετρητά, ούτε εξηγήσεις για τη διεύθυνση. Η ίδια διαδρομή, πολύ περισσότερη αξία."
+      },
+      "apply": {
+        "en": "Score your current pitch from 1 to 10 on each lever. Then fix the weakest one first. If effort is low-scoring, add: «You only send us photos and your CV; we write the texts.» If time is weak, add the real day the first draft is ready.",
+        "el": "Βαθμολόγησε την τωρινή σου παρουσίαση από 1 έως 10 σε κάθε μοχλό. Μετά διόρθωσε πρώτα τον πιο αδύναμο. Αν χωλαίνει ο κόπος, πρόσθεσε: «Μας στέλνετε μόνο φωτογραφίες και το βιογραφικό σας, τα κείμενα τα γράφουμε εμείς». Αν χωλαίνει ο χρόνος, πρόσθεσε την πραγματική μέρα που θα είναι έτοιμο το πρώτο σχέδιο."
+      },
+      "check": {
+        "q": {"en": "Which two things lower the value of an offer?", "el": "Ποια δύο πράγματα μειώνουν την αξία μιας προσφοράς;"},
+        "options": [
+          {"en": "A big result and a high price", "el": "Ένα μεγάλο αποτέλεσμα και μια υψηλή τιμή"},
+          {"en": "Waiting time and effort or sacrifice", "el": "Ο χρόνος αναμονής και ο κόπος ή η θυσία"},
+          {"en": "Guarantees and testimonials", "el": "Οι εγγυήσεις και οι κριτικές"}
+        ],
+        "answer": 1,
+        "why": {"en": "Time delay and effort sit below the line in the equation, so cutting them raises value.", "el": "Ο χρόνος και ο κόπος είναι στον παρονομαστή της εξίσωσης, άρα όταν τους μειώνεις, η αξία ανεβαίνει."}
+      }
+    },
+    {
+      "title": {"en": "Sell the dream outcome", "el": "Πούλα το ονειρεμένο αποτέλεσμα"},
+      "explain": {
+        "en": "People do not buy the thing; they buy where the thing takes them. Hormozi says the dream outcome is usually about status: how others will see them after. Describe the result in the buyer's life, not the features of your product. The bigger and more vivid the result feels to him, the more the same product is worth.",
+        "el": "Ο κόσμος δεν αγοράζει το πράγμα. Αγοράζει το πού θα τον πάει το πράγμα. Ο Χορμόζι λέει ότι το ονειρεμένο αποτέλεσμα αφορά συνήθως το κύρος: πώς θα τον βλέπουν οι άλλοι μετά. Περίγραψε το αποτέλεσμα στη ζωή του αγοραστή, όχι τα χαρακτηριστικά του προϊόντος. Όσο πιο μεγάλο και ζωντανό του φαίνεται το αποτέλεσμα, τόσο περισσότερο αξίζει το ίδιο προϊόν."
+      },
+      "example": {
+        "en": "The Harvard marketing professor Theodore Levitt liked to repeat a line he credited to a colleague: people do not want a quarter-inch drill, they want a quarter-inch hole. The drill is the product; the hole, and the shelf it lets you hang, is what the buyer pays for.",
+        "el": "Ο καθηγητής μάρκετινγκ του Χάρβαρντ Θίοντορ Λέβιτ επαναλάμβανε μια φράση που απέδιδε σε συνάδελφό του: ο κόσμος δεν θέλει ένα τρυπάνι, θέλει μια τρύπα. Το τρυπάνι είναι το προϊόν. Η τρύπα, και το ράφι που θα κρεμάσεις, είναι αυτό για το οποίο πληρώνει."
+      },
+      "apply": {
+        "en": "On the call, replace «a modern website» with the result: «When a new patient searches for a dentist in your area, he finds you, sees your real reviews and books an appointment.» In ads and reels, show the doctor's phone ringing, not the code or the design tools.",
+        "el": "Στο τηλέφωνο, αντί για «μια μοντέρνα ιστοσελίδα», πες το αποτέλεσμα: «Όταν ένας νέος ασθενής ψάχνει οδοντίατρο στην περιοχή σας, σας βρίσκει, βλέπει τις πραγματικές σας κριτικές και κλείνει ραντεβού». Στις διαφημίσεις και στα reels δείξε το τηλέφωνο του ιατρείου να χτυπά, όχι τον κώδικα ή τα εργαλεία σχεδίασης."
+      },
+      "check": {
+        "q": {"en": "What should you describe to raise the dream outcome?", "el": "Τι πρέπει να περιγράψεις για να μεγαλώσει το ονειρεμένο αποτέλεσμα;"},
+        "options": [
+          {"en": "The result in the buyer's life after buying", "el": "Το αποτέλεσμα στη ζωή του αγοραστή μετά την αγορά"},
+          {"en": "The technology you use to build it", "el": "Την τεχνολογία με την οποία το φτιάχνεις"},
+          {"en": "How many hours you will work on it", "el": "Πόσες ώρες θα δουλέψεις πάνω του"}
+        ],
+        "answer": 0,
+        "why": {"en": "Buyers pay for where the product takes them, not for the product's parts.", "el": "Ο αγοραστής πληρώνει για το πού τον πάει το προϊόν, όχι για τα κομμάτια του."}
+      }
+    },
+    {
+      "title": {"en": "Raise the perceived likelihood", "el": "Κάνε το αποτέλεσμα να μοιάζει σίγουρο"},
+      "explain": {
+        "en": "Even a great result is worth little if the buyer doubts he will get it. Hormozi calls this perceived likelihood of achievement. You raise it with proof: real results of people like him, reviews, before and after, a guarantee, a clear step-by-step plan. The key word is perceived: it is about what he believes, so show, do not just claim.",
+        "el": "Ακόμη και ένα υπέροχο αποτέλεσμα αξίζει λίγο αν ο αγοραστής αμφιβάλλει ότι θα το πετύχει. Ο Χορμόζι το λέει «αντιληπτή πιθανότητα επιτυχίας». Την ανεβάζεις με αποδείξεις: πραγματικά αποτελέσματα ανθρώπων σαν αυτόν, κριτικές, πριν και μετά, μια εγγύηση, ένα καθαρό σχέδιο βήμα βήμα. Η λέξη κλειδί είναι «αντιληπτή»: μετράει αυτό που πιστεύει ο ίδιος, γι' αυτό δείξε, μην ισχυρίζεσαι απλώς."
+      },
+      "example": {
+        "en": "Before treatment starts, Invisalign dentists show patients a 3D simulation of how their teeth should move, step by step, ending with the final smile. The patient sees the path and the finish, so a long, expensive treatment feels far more likely to work.",
+        "el": "Πριν ξεκινήσει η θεραπεία, οι οδοντίατροι που δουλεύουν με Invisalign δείχνουν στον ασθενή μια τρισδιάστατη προσομοίωση του πώς θα μετακινηθούν τα δόντια του, βήμα βήμα, μέχρι το τελικό χαμόγελο. Ο ασθενής βλέπει τη διαδρομή και τον τερματισμό, έτσι μια μακριά και ακριβή θεραπεία μοιάζει πολύ πιο σίγουρη."
+      },
+      "apply": {
+        "en": "In every video meeting show three live sites of the same specialty, then the client's own draft on drafts.advonmedia.com before he pays anything. Ask happy clients for real Google reviews and show those. Never invent a review or a number; one real colleague's site beats ten claims.",
+        "el": "Σε κάθε βιντεοκλήση δείξε τρεις ζωντανές σελίδες της ίδιας ειδικότητας και μετά το δικό του σχέδιο στο drafts.advonmedia.com πριν πληρώσει οτιδήποτε. Ζήτα από ικανοποιημένους πελάτες πραγματικές κριτικές στο Google και δείξε αυτές. Ποτέ μην επινοήσεις κριτική ή αριθμό. Η σελίδα ενός πραγματικού συναδέλφου του αξίζει περισσότερο από δέκα ισχυρισμούς."
+      },
+      "check": {
+        "q": {"en": "What is the best way to raise perceived likelihood?", "el": "Ποιος είναι ο καλύτερος τρόπος να ανέβει η αντιληπτή πιθανότητα επιτυχίας;"},
+        "options": [
+          {"en": "Promise louder and more often", "el": "Να υπόσχεσαι πιο δυνατά και πιο συχνά"},
+          {"en": "Lower the price so the risk feels small", "el": "Να ρίξεις την τιμή για να φαίνεται μικρό το ρίσκο"},
+          {"en": "Show real proof from people like the buyer", "el": "Να δείξεις πραγματικές αποδείξεις από ανθρώπους σαν τον αγοραστή"}
+        ],
+        "answer": 2,
+        "why": {"en": "Belief grows from evidence he can see, especially from people like him.", "el": "Η πίστη μεγαλώνει από αποδείξεις που βλέπει, ειδικά από ανθρώπους σαν τον ίδιο."}
+      }
+    },
+    {
+      "title": {"en": "Shrink the time delay", "el": "Μίκρυνε την αναμονή"},
+      "explain": {
+        "en": "The longer a buyer waits for the result, the less it is worth to him. Hormozi says to look for fast wins: something the client gets or feels very soon after paying, even if the full result takes longer. Speed is one of the cheapest ways to add value, because it often costs you little but means a lot to the buyer.",
+        "el": "Όσο περισσότερο περιμένει ο αγοραστής το αποτέλεσμα, τόσο λιγότερο του αξίζει. Ο Χορμόζι λέει να ψάχνεις γρήγορες νίκες: κάτι που ο πελάτης παίρνει ή νιώθει πολύ σύντομα μετά την αγορά, ακόμη κι αν το πλήρες αποτέλεσμα αργεί. Η ταχύτητα είναι από τους φθηνότερους τρόπους να προσθέσεις αξία, γιατί συχνά σου κοστίζει λίγο αλλά για τον αγοραστή σημαίνει πολλά."
+      },
+      "example": {
+        "en": "From 1973 Domino's promised pizza in 30 minutes or it was free. The pizza was ordinary; the speed was the offer, and it helped the chain grow across America. Domino's dropped the promise in 1993 after lawsuits over crashes by drivers rushing deliveries, a reminder that speed must stay safe.",
+        "el": "Από το 1973 η Domino's υποσχόταν πίτσα σε 30 λεπτά, αλλιώς δωρεάν. Η πίτσα ήταν συνηθισμένη. Η ταχύτητα ήταν η προσφορά, και βοήθησε την αλυσίδα να απλωθεί σε όλη την Αμερική. Η Domino's κατάργησε την υπόσχεση το 1993, μετά από αγωγές για τροχαία οδηγών που βιάζονταν, μια υπενθύμιση ότι η ταχύτητα πρέπει να μένει ασφαλής."
+      },
+      "apply": {
+        "en": "Give a fast first win you can truly keep: «Send us your material and within a few days you will have the first draft on a link to see on your phone.» If you build with AI in two days, say two days. Then measure how many days it really takes and never promise less than that.",
+        "el": "Δώσε μια γρήγορη πρώτη νίκη που μπορείς πραγματικά να κρατήσεις: «Μας στέλνετε το υλικό σας και σε λίγες μέρες έχετε το πρώτο σχέδιο σε έναν σύνδεσμο να το δείτε στο κινητό σας». Αν με την τεχνητή νοημοσύνη το φτιάχνεις σε δύο μέρες, πες δύο μέρες. Μετά μέτρα πόσες μέρες παίρνει στην πράξη και μην υπόσχεσαι ποτέ λιγότερες."
+      },
+      "check": {
+        "q": {"en": "Why does Hormozi like fast early wins?", "el": "Γιατί ο Χορμόζι αγαπά τις γρήγορες πρώτες νίκες;"},
+        "options": [
+          {"en": "They let you skip the full result", "el": "Σου επιτρέπουν να παραλείψεις το πλήρες αποτέλεσμα"},
+          {"en": "Waiting lowers value, so speed adds value cheaply", "el": "Η αναμονή μειώνει την αξία, άρα η ταχύτητα προσθέτει αξία φτηνά"},
+          {"en": "They justify charging the client twice", "el": "Δικαιολογούν να χρεώσεις τον πελάτη δύο φορές"}
+        ],
+        "answer": 1,
+        "why": {"en": "Time delay is a cost in the buyer's mind, and cutting it often costs you little.", "el": "Ο χρόνος αναμονής είναι κόστος στο μυαλό του αγοραστή, και το να τον μειώσεις συχνά σου κοστίζει λίγο."}
+      }
+    },
+    {
+      "title": {"en": "Cut effort and sacrifice", "el": "Κόψε τον κόπο του πελάτη"},
+      "explain": {
+        "en": "Everything the buyer must do, learn, give up or remember lowers the value of your offer. Hormozi says that the future of business is selling results with less time and less effort. Ask: what is annoying, boring or hard for the client in getting this result? Then take that part off his hands. Done for him beats done by him.",
+        "el": "Ό,τι πρέπει να κάνει, να μάθει, να θυσιάσει ή να θυμάται ο αγοραστής μειώνει την αξία της προσφοράς σου. Ο Χορμόζι λέει ότι το μέλλον των επιχειρήσεων είναι να πουλάς αποτελέσματα με λιγότερο χρόνο και λιγότερο κόπο. Ρώτα: τι είναι ενοχλητικό, βαρετό ή δύσκολο για τον πελάτη μέχρι να φτάσει στο αποτέλεσμα; Μετά πάρε αυτό το κομμάτι από τα χέρια του. Το «το κάνουμε εμείς για εσάς» κερδίζει το «το κάνετε μόνος σας»."
+      },
+      "example": {
+        "en": "Meal-kit companies such as HelloFresh sell food that is often more expensive than the supermarket. What they really sell is less effort: no planning the menu, no shopping list, no buying a whole bottle of sauce for one recipe. Millions of households pay for that.",
+        "el": "Εταιρείες με κουτιά γευμάτων, όπως η HelloFresh, πουλούν φαγητό που συχνά κοστίζει περισσότερο από το σούπερ μάρκετ. Αυτό που πουλούν στην ουσία είναι λιγότερος κόπος: χωρίς σχεδιασμό μενού, χωρίς λίστα για ψώνια, χωρίς να αγοράσεις ολόκληρο μπουκάλι σάλτσα για μία συνταγή. Εκατομμύρια νοικοκυριά πληρώνουν γι' αυτό."
+      },
+      "apply": {
+        "en": "List every step the doctor must do today to get a site from you. Then remove steps: write his texts with AI from his CV, pick photos for him, set up the domain yourself. On the call say: «All we need from you is about ten minutes and a few photos. The rest is our job.»",
+        "el": "Γράψε κάθε βήμα που πρέπει σήμερα να κάνει ο γιατρός για να πάρει ιστοσελίδα από σένα. Μετά σβήσε βήματα: γράψε τα κείμενά του με την τεχνητή νοημοσύνη από το βιογραφικό του, διάλεξε εσύ τις φωτογραφίες, στήσε εσύ το domain. Στο τηλέφωνο πες: «Από εσάς χρειαζόμαστε περίπου δέκα λεπτά και μερικές φωτογραφίες. Τα υπόλοιπα είναι δική μας δουλειά»."
+      },
+      "check": {
+        "q": {"en": "How do you add value through the effort lever?", "el": "Πώς προσθέτεις αξία μέσω του μοχλού του κόπου;"},
+        "options": [
+          {"en": "Teach the client to do more of the work", "el": "Μαθαίνεις στον πελάτη να κάνει περισσότερη δουλειά"},
+          {"en": "Take hard or boring steps off his hands", "el": "Παίρνεις από τα χέρια του τα δύσκολα ή βαρετά βήματα"},
+          {"en": "Add more features to the product", "el": "Προσθέτεις περισσότερα χαρακτηριστικά στο προϊόν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Every step the buyer no longer has to do raises the value of the same result.", "el": "Κάθε βήμα που δεν χρειάζεται πια να κάνει ο αγοραστής ανεβάζει την αξία του ίδιου αποτελέσματος."}
+      }
+    },
+    {
+      "title": {"en": "List every problem, solve each", "el": "Γράψε κάθε πρόβλημα, λύσε το καθένα"},
+      "explain": {
+        "en": "To build the offer, Hormozi writes down every obstacle the buyer will meet before, during and after buying: every fear, delay and hassle. Then he turns each problem into a named solution. A long list of solved problems becomes the offer itself. It also answers objections before the buyer even says them.",
+        "el": "Για να χτίσει την προσφορά, ο Χορμόζι γράφει κάθε εμπόδιο που θα συναντήσει ο αγοραστής πριν, κατά τη διάρκεια και μετά την αγορά: κάθε φόβο, καθυστέρηση και μπελά. Μετά μετατρέπει κάθε πρόβλημα σε λύση με όνομα. Μια μακριά λίστα από λυμένα προβλήματα γίνεται η ίδια η προσφορά. Παράλληλα απαντά στις αντιρρήσεις πριν καν τις πει ο αγοραστής."
+      },
+      "example": {
+        "en": "When Apple opened its first stores in 2001, it added the Genius Bar: free in-person help for the products people had bought. It answered a fear many buyers had before buying a computer: «what if I cannot make it work, or it breaks?» A problem became part of the offer.",
+        "el": "Όταν η Apple άνοιξε τα πρώτα της καταστήματα το 2001, πρόσθεσε το Genius Bar: δωρεάν βοήθεια από κοντά για τα προϊόντα που είχε αγοράσει ο κόσμος. Απαντούσε σε έναν φόβο που είχαν πολλοί πριν αγοράσουν υπολογιστή: «κι αν δεν μπορώ να το λειτουργήσω ή χαλάσει;». Ένα πρόβλημα έγινε κομμάτι της προσφοράς."
+      },
+      "apply": {
+        "en": "Write twenty problems doctors tell you: «no good photos», «I don't know what to write», «what if I want changes later», «GDPR scares me», «I'm bad with technology». Next to each, write your solution in one line. Put the five most common into your pitch and onto your sales page.",
+        "el": "Γράψε είκοσι προβλήματα που σου λένε οι γιατροί: «δεν έχω καλές φωτογραφίες», «δεν ξέρω τι να γράψω», «κι αν θέλω αλλαγές αργότερα», «με φοβίζει ο GDPR», «δεν τα πάω καλά με την τεχνολογία». Δίπλα σε καθένα γράψε τη λύση σου σε μία γραμμή. Βάλε τις πέντε πιο συχνές στην παρουσίασή σου και στη σελίδα πωλήσεων."
+      },
+      "check": {
+        "q": {"en": "Where do the parts of a strong offer come from?", "el": "Από πού προκύπτουν τα κομμάτια μιας δυνατής προσφοράς;"},
+        "options": [
+          {"en": "From the buyer's problems, each turned into a solution", "el": "Από τα προβλήματα του αγοραστή, το καθένα μετατρεπόμενο σε λύση"},
+          {"en": "From copying what competitors include", "el": "Από την αντιγραφή όσων βάζουν οι ανταγωνιστές"},
+          {"en": "From the features that are cheapest to add", "el": "Από τα χαρακτηριστικά που είναι φθηνότερο να προστεθούν"}
+        ],
+        "answer": 0,
+        "why": {"en": "Hormozi lists every obstacle the buyer faces and makes each one a solution in the offer.", "el": "Ο Χορμόζι γράφει κάθε εμπόδιο του αγοραστή και κάνει το καθένα λύση μέσα στην προσφορά."}
+      }
+    },
+    {
+      "title": {"en": "Choose how you deliver", "el": "Διάλεξε πώς παραδίδεις"},
+      "explain": {
+        "en": "Each solution can be delivered in many ways. Hormozi asks: do it yourself, do it with them, or do it for them? One-to-one, small group or one-to-many? In person, by phone, by video, by message, recorded? How fast do you respond? Pick the mix that gives the buyer the most value for the least cost to you, and change it as you grow.",
+        "el": "Κάθε λύση μπορεί να παραδοθεί με πολλούς τρόπους. Ο Χορμόζι ρωτά: το κάνει μόνος του ο πελάτης, το κάνετε μαζί ή το κάνεις εσύ γι' αυτόν; Ένας προς έναν, μικρή ομάδα ή ένας προς πολλούς; Από κοντά, στο τηλέφωνο, με βίντεο, με μήνυμα, ηχογραφημένο; Πόσο γρήγορα απαντάς; Διάλεξε τον συνδυασμό που δίνει στον αγοραστή την περισσότερη αξία με το μικρότερο κόστος για σένα, και άλλαξέ τον όσο μεγαλώνεις."
+      },
+      "example": {
+        "en": "Peloton sells the feeling of a personal trainer without one-to-one sessions. One instructor teaches a live or recorded class to thousands of riders at home at the same time, and riders see a leaderboard. The delivery choice is what makes the business possible.",
+        "el": "Η Peloton πουλά την αίσθηση του προσωπικού γυμναστή χωρίς ατομικές συνεδρίες. Ένας εκπαιδευτής κάνει ζωντανό ή ηχογραφημένο μάθημα σε χιλιάδες ποδηλάτες στα σπίτια τους ταυτόχρονα, και εκείνοι βλέπουν πίνακα κατάταξης. Η επιλογή του τρόπου παράδοσης είναι αυτό που κάνει την επιχείρηση δυνατή."
+      },
+      "apply": {
+        "en": "Keep the website done for them, but deliver changes through the client chat with a clear reply time you can keep, such as the same working day. Record one short video, «how to send us your material», and send it to every new client instead of explaining it on the phone each time.",
+        "el": "Κράτα την ιστοσελίδα «τα κάνουμε εμείς για εσάς», αλλά παράδιδε τις αλλαγές μέσα από το chat πελατών με σαφή χρόνο απάντησης που μπορείς να τηρείς, για παράδειγμα την ίδια εργάσιμη μέρα. Γράψε ένα σύντομο βίντεο «πώς μας στέλνετε το υλικό σας» και στείλ' το σε κάθε νέο πελάτη, αντί να το εξηγείς κάθε φορά στο τηλέφωνο."
+      },
+      "check": {
+        "q": {"en": "What is the goal when choosing delivery vehicles?", "el": "Ποιος είναι ο στόχος όταν διαλέγεις τρόπο παράδοσης;"},
+        "options": [
+          {"en": "Always do everything one-to-one in person", "el": "Να κάνεις πάντα τα πάντα ατομικά και από κοντά"},
+          {"en": "Use the newest technology available", "el": "Να χρησιμοποιείς την πιο καινούργια τεχνολογία"},
+          {"en": "Most value for the buyer at the least cost to you", "el": "Περισσότερη αξία για τον αγοραστή με το μικρότερο κόστος για σένα"}
+        ],
+        "answer": 2,
+        "why": {"en": "The right mix keeps value high while your cost of delivery stays low.", "el": "Ο σωστός συνδυασμός κρατά την αξία ψηλά και το κόστος παράδοσης χαμηλά."}
+      }
+    },
+    {
+      "title": {"en": "Trim and stack", "el": "Κόψε και στοίβαξε"},
+      "explain": {
+        "en": "Once you have a long list of possible solutions, judge each by two things: value to the buyer and cost to you. Remove what costs you a lot but means little to him. Keep and add what costs you little but means a lot. Stack what remains into one bundle. The result is an offer worth much more than it costs to deliver.",
+        "el": "Όταν έχεις μια μακριά λίστα πιθανών λύσεων, κρίνε την καθεμία με δύο μέτρα: την αξία για τον αγοραστή και το κόστος για σένα. Βγάλε ό,τι σου κοστίζει πολύ αλλά σημαίνει λίγα για εκείνον. Κράτα και πρόσθεσε ό,τι σου κοστίζει λίγο αλλά σημαίνει πολλά. Στοίβαξε όσα μένουν σε ένα πακέτο. Το αποτέλεσμα είναι μια προσφορά που αξίζει πολύ περισσότερο απ' όσο κοστίζει να την παραδώσεις."
+      },
+      "example": {
+        "en": "IKEA trimmed what was expensive to provide and not essential to many buyers: assembly and delivery are left to the customer or charged separately. It kept what is cheap for it but valuable to buyers: showrooms full of complete rooms, low prices and flat boxes you can carry home.",
+        "el": "Η IKEA έκοψε ό,τι ήταν ακριβό να το προσφέρει και δεν ήταν απαραίτητο για πολλούς αγοραστές: τη συναρμολόγηση και τη μεταφορά τις κάνει ο πελάτης ή τις πληρώνει χωριστά. Κράτησε ό,τι είναι φθηνό για εκείνη αλλά πολύτιμο για τους αγοραστές: εκθέσεις με ολόκληρα στημένα δωμάτια, χαμηλές τιμές και επίπεδα κουτιά που τα παίρνεις μόνος σου σπίτι."
+      },
+      "apply": {
+        "en": "Cut long, open-ended meetings and endless revision calls; move changes to the chat. Add cheap, high-value extras: a favicon with his logo, a Google reviews section, a privacy and cookies page, a booking button. Each takes you minutes with your tools and each is worth a lot to a doctor.",
+        "el": "Κόψε τα μακριά, ανοιχτά ραντεβού και τα ατελείωτα τηλεφωνήματα για διορθώσεις. Μετάφερε τις αλλαγές στο chat. Πρόσθεσε φθηνά αλλά πολύτιμα extra: favicon με το λογότυπό του, ενότητα με κριτικές Google, σελίδα απορρήτου και cookies, κουμπί για ραντεβού. Το καθένα σού παίρνει λίγα λεπτά με τα εργαλεία σου και το καθένα αξίζει πολλά για έναν γιατρό."
+      },
+      "check": {
+        "q": {"en": "Which items does Hormozi say to remove from the offer?", "el": "Ποια κομμάτια λέει ο Χορμόζι να βγάλεις από την προσφορά;"},
+        "options": [
+          {"en": "Cheap items, because they look unimportant", "el": "Τα φθηνά, γιατί φαίνονται ασήμαντα"},
+          {"en": "Items that sound simple to the buyer", "el": "Όσα ακούγονται απλά στον αγοραστή"},
+          {"en": "High cost to you, low value to the buyer", "el": "Όσα σου κοστίζουν πολύ και αξίζουν λίγο στον αγοραστή"}
+        ],
+        "answer": 2,
+        "why": {"en": "Trim what drains you without helping him; keep what helps him cheaply.", "el": "Κόβεις ό,τι σε στραγγίζει χωρίς να τον βοηθά και κρατάς ό,τι τον βοηθά φτηνά."}
+      }
+    },
+    {
+      "title": {"en": "Honest scarcity", "el": "Τίμια σπανιότητα"},
+      "explain": {
+        "en": "Scarcity means a limited supply: few places, few units, or a bonus only for the first ones. People want more what they might miss. Hormozi lists limited spots, limited bonuses and things never offered again. But it only works long term when it is true. If the limit is fake and buyers find out, you lose trust you cannot buy back.",
+        "el": "Σπανιότητα σημαίνει περιορισμένη ποσότητα: λίγες θέσεις, λίγα κομμάτια ή ένα δώρο μόνο για τους πρώτους. Ο κόσμος θέλει περισσότερο κάτι που μπορεί να χάσει. Ο Χορμόζι αναφέρει περιορισμένες θέσεις, περιορισμένα δώρα και πράγματα που δεν θα ξαναπροσφερθούν. Αλλά μακροπρόθεσμα λειτουργεί μόνο όταν είναι αλήθεια. Αν το όριο είναι ψεύτικο και το καταλάβουν, χάνεις εμπιστοσύνη που δεν ξαναγοράζεται."
+      },
+      "example": {
+        "en": "Hermès makes a limited number of Birkin handbags, each by a single craftsperson over many hours. Buyers often cannot just walk in and buy one; many build a purchase history with the shop first. The scarcity is real, it comes from how the bag is made, and it keeps demand very high.",
+        "el": "Η Hermès φτιάχνει περιορισμένο αριθμό τσαντών Birkin, την καθεμία ένας τεχνίτης σε πολλές ώρες δουλειάς. Συχνά δεν μπαίνεις απλώς στο κατάστημα να αγοράσεις μία. Πολλοί πρώτα χτίζουν ιστορικό αγορών με το κατάστημα. Η σπανιότητα είναι αληθινή, πηγάζει από τον τρόπο που φτιάχνεται η τσάντα, και κρατά τη ζήτηση πολύ ψηλά."
+      },
+      "apply": {
+        "en": "Count your real capacity: how many new sites can you and your team build well per week? If the number is truly limited, say it: «We take on a set number of new practices each week so each one gets attention. I have a place this week.» If it is not true, do not say it.",
+        "el": "Μέτρα την πραγματική σου δυναμικότητα: πόσες νέες ιστοσελίδες μπορείτε να φτιάξετε σωστά την εβδομάδα; Αν ο αριθμός είναι πραγματικά περιορισμένος, πες το: «Αναλαμβάνουμε συγκεκριμένο αριθμό νέων ιατρείων την εβδομάδα, ώστε το καθένα να έχει την προσοχή που χρειάζεται. Αυτή την εβδομάδα έχω μία θέση». Αν δεν ισχύει, μην το πεις."
+      },
+      "check": {
+        "q": {"en": "When is scarcity safe to use in your offer?", "el": "Πότε μπορείς να χρησιμοποιήσεις με ασφάλεια τη σπανιότητα στην προσφορά σου;"},
+        "options": [
+          {"en": "Only when the limit is real and you keep it", "el": "Μόνο όταν το όριο είναι αληθινό και το τηρείς"},
+          {"en": "Whenever sales are slow that month", "el": "Όποτε οι πωλήσεις πάνε αργά εκείνο τον μήνα"},
+          {"en": "When the buyer cannot check it", "el": "Όταν ο αγοραστής δεν μπορεί να το ελέγξει"}
+        ],
+        "answer": 0,
+        "why": {"en": "Fake scarcity is a lie; when found out, it destroys the trust your whole offer depends on.", "el": "Η ψεύτικη σπανιότητα είναι ψέμα. Όταν αποκαλυφθεί, καταστρέφει την εμπιστοσύνη πάνω στην οποία στηρίζεται όλη η προσφορά."}
+      }
+    },
+    {
+      "title": {"en": "Honest urgency", "el": "Τίμια προθεσμία"},
+      "explain": {
+        "en": "Urgency is a limit in time: a reason to decide now and not «some day». Hormozi suggests rolling start dates for groups, seasonal bonuses, seasonal prices and opportunities that end. Without a reason to act now, even interested buyers delay forever. As with scarcity, the deadline must be real, and you must keep it when it comes.",
+        "el": "Επείγον σημαίνει ένα όριο στον χρόνο: ένας λόγος να αποφασίσει κανείς τώρα και όχι «κάποια μέρα». Ο Χορμόζι προτείνει τακτές ημερομηνίες έναρξης για ομάδες, εποχικά δώρα, εποχικές τιμές και ευκαιρίες που λήγουν. Χωρίς λόγο να κινηθεί τώρα, ακόμη και ο ενδιαφερόμενος αγοραστής αναβάλλει για πάντα. Όπως και με τη σπανιότητα, η προθεσμία πρέπει να είναι πραγματική και να την τηρήσεις όταν έρθει."
+      },
+      "example": {
+        "en": "Y Combinator, the startup programme behind Airbnb and Dropbox, runs batches with fixed application deadlines. If you miss the date, you wait for the next batch. The deadline is real and announced in advance, so founders apply on time instead of «when we are ready».",
+        "el": "Το Y Combinator, το πρόγραμμα για startups από το οποίο πέρασαν η Airbnb και το Dropbox, λειτουργεί με κύκλους και σταθερές προθεσμίες αιτήσεων. Αν χάσεις την ημερομηνία, περιμένεις τον επόμενο κύκλο. Η προθεσμία είναι αληθινή και ανακοινώνεται από πριν, έτσι οι ιδρυτές κάνουν αίτηση στην ώρα τους και όχι «όταν είμαστε έτοιμοι»."
+      },
+      "apply": {
+        "en": "Use only true deadlines. If you decide to raise your yearly price from a certain date, announce it and apply it: «From 1 January the hosting becomes X; whoever starts before keeps today's price.» Or tie a bonus you really give to a season, and end it on the exact date you announced.",
+        "el": "Χρησιμοποίησε μόνο αληθινές προθεσμίες. Αν αποφασίσεις να ανεβάσεις την ετήσια τιμή από μια συγκεκριμένη ημερομηνία, ανακοίνωσέ το και εφάρμοσέ το: «Από 1η Ιανουαρίου η φιλοξενία γίνεται Χ. Όποιος ξεκινήσει πριν, κρατά τη σημερινή τιμή». Ή δέσε με μια εποχή ένα δώρο που δίνεις πραγματικά, και σταμάτα το ακριβώς την ημερομηνία που ανακοίνωσες."
+      },
+      "check": {
+        "q": {"en": "What must be true of any deadline you give a client?", "el": "Τι πρέπει να ισχύει για κάθε προθεσμία που δίνεις σε πελάτη;"},
+        "options": [
+          {"en": "It should be very short, like tonight", "el": "Να είναι πολύ σύντομη, π.χ. απόψε"},
+          {"en": "It must be real, and you must keep it", "el": "Να είναι αληθινή και να την τηρήσεις"},
+          {"en": "It can be moved if he asks nicely", "el": "Να μπορεί να μετακινηθεί αν ζητήσει ευγενικά"}
+        ],
+        "answer": 1,
+        "why": {"en": "A deadline you then ignore teaches buyers your words mean nothing.", "el": "Μια προθεσμία που μετά αγνοείς μαθαίνει στον αγοραστή ότι τα λόγια σου δεν σημαίνουν τίποτα."}
+      }
+    },
+    {
+      "title": {"en": "Bonuses that kill objections", "el": "Δώρα που σβήνουν αντιρρήσεις"},
+      "explain": {
+        "en": "Instead of discounting, Hormozi adds bonuses. Each bonus answers one specific objection or problem, has its own name and a stated value, and is presented one at a time. A list of named bonuses raises value far more than a single price cut, and protects your price. Bonuses can even be worth more than the core offer.",
+        "el": "Αντί για έκπτωση, ο Χορμόζι προσθέτει δώρα. Κάθε δώρο απαντά σε μία συγκεκριμένη αντίρρηση ή πρόβλημα, έχει δικό του όνομα και δηλωμένη αξία, και παρουσιάζεται ένα ένα. Μια λίστα από δώρα με όνομα ανεβάζει την αξία πολύ περισσότερο από μια μείωση τιμής και προστατεύει την τιμή σου. Τα δώρα μπορεί να αξίζουν ακόμη και περισσότερο από τη βασική προσφορά."
+      },
+      "example": {
+        "en": "The American TV ads for Ginsu knives in the late 1970s and 1980s made the line «But wait, there's more!» famous. After showing the knives, the presenter kept adding extra pieces to the same price. The bonuses, one after another, made the deal feel impossible to refuse.",
+        "el": "Οι αμερικανικές τηλεοπτικές διαφημίσεις για τα μαχαίρια Ginsu, στα τέλη της δεκαετίας του '70 και του '80, έκαναν διάσημη τη φράση «Μα περιμένετε, δεν είναι μόνο αυτό!». Αφού έδειχνε τα μαχαίρια, ο παρουσιαστής πρόσθετε κι άλλα κομμάτια στην ίδια τιμή. Τα δώρα, το ένα μετά το άλλο, έκαναν την προσφορά να μοιάζει αδύνατο να την αρνηθείς."
+      },
+      "apply": {
+        "en": "Turn real work you already do into named bonuses, each tied to an objection: «Bonus 1: we set up your Google Business Profile» (nobody finds me), «Bonus 2: your Google reviews on the site» (nobody trusts me), «Bonus 3: privacy and cookies page» (I fear GDPR). Present them one by one, after the core offer.",
+        "el": "Κάνε δώρα με όνομα την πραγματική δουλειά που ήδη κάνεις, και δέσε το καθένα με μια αντίρρηση: «Δώρο 1: Στήνουμε το Google Business Profile σας» (δεν με βρίσκουν), «Δώρο 2: Οι κριτικές σας από το Google μέσα στη σελίδα» (δεν με εμπιστεύονται), «Δώρο 3: Σελίδα απορρήτου και cookies» (φοβάμαι τον GDPR). Παρουσίασέ τα ένα ένα, μετά τη βασική προσφορά."
+      },
+      "check": {
+        "q": {"en": "What should each bonus do?", "el": "Τι πρέπει να κάνει κάθε δώρο;"},
+        "options": [
+          {"en": "Answer one specific objection or problem", "el": "Να απαντά σε μία συγκεκριμένη αντίρρηση ή πρόβλημα"},
+          {"en": "Fill the list so the offer looks long", "el": "Να γεμίζει τη λίστα για να φαίνεται μεγάλη η προσφορά"},
+          {"en": "Replace the core product if it is weak", "el": "Να αντικαθιστά το βασικό προϊόν αν είναι αδύναμο"}
+        ],
+        "answer": 0,
+        "why": {"en": "A bonus that removes a real objection adds value exactly where the buyer hesitates.", "el": "Ένα δώρο που σβήνει μια πραγματική αντίρρηση προσθέτει αξία ακριβώς εκεί που διστάζει ο αγοραστής."}
+      }
+    },
+    {
+      "title": {"en": "Guarantees that reverse risk", "el": "Εγγυήσεις που παίρνουν το ρίσκο"},
+      "explain": {
+        "en": "A guarantee moves the risk from the buyer to you. Hormozi describes four kinds: unconditional (money back, no questions), conditional (results promised if the client does his part), anti-guarantee (all sales final, with an honest reason) and implied (you are paid on results). A strong guarantee says: if you do not get X in Y time, I will do Z.",
+        "el": "Μια εγγύηση μεταφέρει το ρίσκο από τον αγοραστή σε σένα. Ο Χορμόζι περιγράφει τέσσερα είδη: άνευ όρων (επιστροφή χρημάτων χωρίς ερωτήσεις), υπό όρους (υπόσχεση αποτελέσματος αν ο πελάτης κάνει το δικό του κομμάτι), αντι-εγγύηση (καμία επιστροφή, με τίμια εξήγηση) και έμμεση (πληρώνεσαι με βάση το αποτέλεσμα). Μια δυνατή εγγύηση λέει: αν δεν πάρεις Χ σε Υ χρόνο, θα κάνω Ζ."
+      },
+      "example": {
+        "en": "In January 2009, in the middle of the recession, Hyundai launched Hyundai Assurance in the United States: buy a new car and, if you lose your job within a year, you can return it. People were afraid to commit to big purchases. Hyundai's US sales rose that year while most rivals' fell.",
+        "el": "Τον Ιανουάριο του 2009, μέσα στην ύφεση, η Hyundai ξεκίνησε στις ΗΠΑ το Hyundai Assurance: αγοράζεις καινούργιο αυτοκίνητο και, αν χάσεις τη δουλειά σου μέσα σε έναν χρόνο, μπορείς να το επιστρέψεις. Ο κόσμος φοβόταν να δεσμευτεί σε μεγάλες αγορές. Οι πωλήσεις της Hyundai στις ΗΠΑ ανέβηκαν εκείνη τη χρονιά, ενώ των περισσότερων ανταγωνιστών έπεσαν."
+      },
+      "apply": {
+        "en": "Say the guarantees you already keep, clearly: «You pay nothing until you have seen the finished site and you like it. We make as many changes as you want until it goes live.» Write them on your page and in the first email. Never promise a number of new patients; you cannot control that.",
+        "el": "Πες καθαρά τις εγγυήσεις που ήδη τηρείς: «Δεν πληρώνετε τίποτα μέχρι να δείτε έτοιμη την ιστοσελίδα και να σας αρέσει. Κάνουμε όσες αλλαγές θέλετε μέχρι να βγει online». Γράψ' τες στη σελίδα σου και στο πρώτο email. Μην υποσχεθείς ποτέ αριθμό νέων ασθενών. Αυτό δεν το ελέγχεις."
+      },
+      "check": {
+        "q": {"en": "What does a guarantee do in Hormozi's offer?", "el": "Τι κάνει μια εγγύηση στην προσφορά του Χορμόζι;"},
+        "options": [
+          {"en": "It hides the price until the end", "el": "Κρύβει την τιμή μέχρι το τέλος"},
+          {"en": "It promises results you cannot control", "el": "Υπόσχεται αποτελέσματα που δεν ελέγχεις"},
+          {"en": "It moves the risk from the buyer to the seller", "el": "Μεταφέρει το ρίσκο από τον αγοραστή στον πωλητή"}
+        ],
+        "answer": 2,
+        "why": {"en": "When the buyer risks less, saying yes becomes easier, as long as you can keep the promise.", "el": "Όταν ο αγοραστής ρισκάρει λιγότερο, το «ναι» γίνεται πιο εύκολο, αρκεί να μπορείς να τηρήσεις την υπόσχεση."}
+      }
+    },
+    {
+      "title": {"en": "Name it with MAGIC", "el": "Δώσ' της όνομα με το MAGIC"},
+      "explain": {
+        "en": "A good name tells the right buyer «this is for you». Hormozi's MAGIC formula: Make a magnetic reason why (a reason for now), Announce who it is for, Give them a goal, Indicate a time interval, Complete with a container word such as challenge, system or programme. You do not need all five, usually three or four. Change the name when it stops working, keep the offer.",
+        "el": "Ένα καλό όνομα λέει στον σωστό αγοραστή «αυτό είναι για σένα». Η φόρμουλα MAGIC του Χορμόζι: ένας λόγος που τραβάει (γιατί τώρα), για ποιον είναι, ποιος είναι ο στόχος, σε πόσο χρόνο, και μια λέξη-πλαίσιο όπως «πρόγραμμα», «σύστημα» ή «challenge». Δεν χρειάζονται και τα πέντε, συνήθως τρία ή τέσσερα. Όταν το όνομα κουραστεί, άλλαξέ το και κράτα την προσφορά."
+      },
+      "example": {
+        "en": "P90X, the home workout programme sold by Beachbody in the 2000s, packs the formula into four characters: P for power, 90 for the number of days, X for extreme. Its TV ads promised a clear goal in a clear time. It became one of the best-selling home fitness programmes in America.",
+        "el": "Το P90X, το πρόγραμμα γυμναστικής για το σπίτι που πουλούσε η Beachbody τη δεκαετία του 2000, χωράει τη φόρμουλα σε τέσσερις χαρακτήρες: P για «δύναμη», 90 για τις μέρες, X για «ακραίο». Οι τηλεοπτικές του διαφημίσεις υπόσχονταν καθαρό στόχο σε καθαρό χρόνο. Έγινε από τα πιο εμπορικά προγράμματα γυμναστικής για το σπίτι στην Αμερική."
+      },
+      "apply": {
+        "en": "Write three names and test them in ads for two weeks each, for example «Website for Your Practice in 7 Days, with No Build Cost» (only if 7 days is true) or «The Online Practice for Psychologists». Keep the one that brings the most meetings. Use it on calls too.",
+        "el": "Γράψε τρία ονόματα και δοκίμασε το καθένα σε διαφημίσεις για δύο εβδομάδες, για παράδειγμα «Ιστοσελίδα για το Ιατρείο σας σε 7 Μέρες, χωρίς Κόστος Κατασκευής» (μόνο αν οι 7 μέρες ισχύουν) ή «Το Ψηφιακό Γραφείο για Ψυχολόγους». Κράτα αυτό που φέρνει τα περισσότερα ραντεβού. Χρησιμοποίησέ το και στα τηλεφωνήματα."
+      },
+      "check": {
+        "q": {"en": "What is the job of the offer's name?", "el": "Ποια είναι η δουλειά του ονόματος της προσφοράς;"},
+        "options": [
+          {"en": "To sound clever and creative", "el": "Να ακούγεται έξυπνο και δημιουργικό"},
+          {"en": "To tell the right buyer it is for him and what he gets", "el": "Να λέει στον σωστό αγοραστή ότι είναι γι' αυτόν και τι θα πάρει"},
+          {"en": "To include the company name", "el": "Να περιέχει το όνομα της εταιρείας"}
+        ],
+        "answer": 1,
+        "why": {"en": "MAGIC names call out the avatar, the goal and the time, so the right person stops and listens.", "el": "Τα ονόματα MAGIC φωνάζουν τον σωστό πελάτη, τον στόχο και τον χρόνο, ώστε ο σωστός άνθρωπος να σταματήσει και να ακούσει."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A dentist says: «Another agency offered me a site for 300 euros once.» What do you do?", "el": "Ένας οδοντίατρος λέει: «Μια άλλη εταιρεία μού έδωσε προσφορά 300 ευρώ για ιστοσελίδα». Τι κάνεις;"},
+      "options": [
+        {"en": "Lower your yearly price straight away", "el": "Ρίχνεις αμέσως την ετήσια τιμή σου"},
+        {"en": "Show what your bundle includes that his quote lacks", "el": "Δείχνεις τι περιλαμβάνει το πακέτο σου που λείπει από την άλλη προσφορά"},
+        {"en": "Say the other agency is bad", "el": "Λες ότι η άλλη εταιρεία είναι κακή"}
+      ],
+      "answer": 1,
+      "why": {"en": "Leave the price comparison and make your offer a category of one: show what only you bundle.", "el": "Βγαίνεις από τη σύγκριση τιμής και κάνεις την προσφορά σου μοναδική: δείχνεις όσα δίνεις μόνο εσύ."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "Sales are slow this month. Your partner suggests saying «only two places left» on every call. What do you do?", "el": "Οι πωλήσεις πάνε αργά αυτόν τον μήνα. Ο συνεργάτης σου προτείνει να λέτε «έμειναν μόνο δύο θέσεις» σε κάθε κλήση. Τι κάνεις;"},
+      "options": [
+        {"en": "Agree, everyone does it", "el": "Συμφωνείς, όλοι το κάνουν"},
+        {"en": "Say it only to the most hesitant doctors", "el": "Το λες μόνο στους πιο διστακτικούς γιατρούς"},
+        {"en": "Refuse, and add a real bonus or guarantee instead", "el": "Αρνείσαι και προσθέτεις αντί γι' αυτό ένα αληθινό δώρο ή εγγύηση"}
+      ],
+      "answer": 2,
+      "why": {"en": "Scarcity must be real. Raise value honestly with bonuses and guarantees you can keep.", "el": "Η σπανιότητα πρέπει να είναι αληθινή. Ανέβασε την αξία τίμια, με δώρα και εγγυήσεις που μπορείς να τηρήσεις."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "Doctors often say «I don't have time to write texts for a site». How do you fix the offer?", "el": "Οι γιατροί λένε συχνά «δεν έχω χρόνο να γράψω κείμενα για ιστοσελίδα». Πώς διορθώνεις την προσφορά;"},
+      "options": [
+        {"en": "Write the texts for them from their CV", "el": "Γράφεις εσύ τα κείμενα από το βιογραφικό τους"},
+        {"en": "Send them a guide on how to write good texts", "el": "Τους στέλνεις οδηγό για το πώς να γράψουν καλά κείμενα"},
+        {"en": "Give them a longer deadline", "el": "Τους δίνεις περισσότερο χρόνο"}
+      ],
+      "answer": 0,
+      "why": {"en": "Effort and sacrifice lower value; doing it for them raises it.", "el": "Ο κόπος και η θυσία μειώνουν την αξία. Όταν το κάνεις εσύ γι' αυτούς, την ανεβάζεις."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "You must choose where to spend next month's calls: florists, psychologists or plumbers. How do you decide?", "el": "Πρέπει να διαλέξεις πού θα ρίξεις τις κλήσεις του επόμενου μήνα: ανθοπωλεία, ψυχολόγους ή υδραυλικούς. Πώς αποφασίζεις;"},
+      "options": [
+        {"en": "Pick the one you find most interesting", "el": "Διαλέγεις αυτόν που σου φαίνεται πιο ενδιαφέρων"},
+        {"en": "Score each on pain, money, ease of reach and growth", "el": "Βαθμολογείς τον καθένα σε πόνο, χρήματα, ευκολία προσέγγισης και ανάπτυξη"},
+        {"en": "Call all three equally to stay safe", "el": "Καλείς και τους τρεις εξίσου για σιγουριά"}
+      ],
+      "answer": 1,
+      "why": {"en": "Hormozi chooses the market first, with the four tests of a starving crowd.", "el": "Ο Χορμόζι διαλέγει πρώτα την αγορά, με τα τέσσερα κριτήρια ενός πλήθους που πεινάει."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "A psychologist hesitates: «What if I don't like the result?» What do you say?", "el": "Μια ψυχολόγος διστάζει: «Κι αν δεν μου αρέσει το αποτέλεσμα;». Τι λες;"},
+      "options": [
+        {"en": "«You pay nothing until you have seen it and like it.»", "el": "«Δεν πληρώνετε τίποτα μέχρι να τη δείτε και να σας αρέσει»."},
+        {"en": "«All our clients love their sites.»", "el": "«Όλοι οι πελάτες μας λατρεύουν τις σελίδες τους»."},
+        {"en": "«We guarantee you ten new clients a month.»", "el": "«Σας εγγυόμαστε δέκα νέους πελάτες τον μήνα»."}
+      ],
+      "answer": 0,
+      "why": {"en": "A real guarantee you can keep removes the risk; vague claims or result promises you cannot control do not.", "el": "Μια αληθινή εγγύηση που μπορείς να τηρήσεις αφαιρεί το ρίσκο. Οι αόριστοι ισχυρισμοί και οι υποσχέσεις για αποτελέσματα που δεν ελέγχεις όχι."},
+      "idea": 16
+    },
+    {
+      "q": {"en": "A friend opening a small bakery asks how to sell more without a price war. What do you suggest first?", "el": "Ένας φίλος που ανοίγει μικρό φούρνο ρωτά πώς να πουλήσει περισσότερο χωρίς πόλεμο τιμών. Τι του προτείνεις πρώτα;"},
+      "options": [
+        {"en": "Cut prices below the bakery next door", "el": "Να ρίξει τις τιμές κάτω από τον διπλανό φούρνο"},
+        {"en": "Spend more on ads with the same products", "el": "Να ξοδέψει περισσότερα σε διαφήμιση με τα ίδια προϊόντα"},
+        {"en": "Add named bonuses that solve customers' problems, like pre-ordering", "el": "Να προσθέσει δώρα με όνομα που λύνουν προβλήματα πελατών, όπως την προπαραγγελία"}
+      ],
+      "answer": 2,
+      "why": {"en": "Hormozi adds value with bonuses instead of discounting, which protects the price.", "el": "Ο Χορμόζι προσθέτει αξία με δώρα αντί για εκπτώσεις, κι έτσι προστατεύει την τιμή."},
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Hormozi puts the market before the offer and before persuasion skill.", "el": "Ο Χορμόζι βάζει την αγορά πριν από την προσφορά και πριν από την ικανότητα πειθούς."}, "answer": true, "why": {"en": "A hungry market makes a decent offer work; the best offer fails with people who do not need it.", "el": "Μια αγορά που πεινάει κάνει μια καλή προσφορά να πετύχει. Η καλύτερη προσφορά αποτυγχάνει σε ανθρώπους που δεν τη χρειάζονται."}},
+    {"s": {"en": "The value equation says a lower price always means more value.", "el": "Η εξίσωση της αξίας λέει ότι χαμηλότερη τιμή σημαίνει πάντα περισσότερη αξία."}, "answer": false, "why": {"en": "Price is not in the equation; value comes from outcome, likelihood, time and effort.", "el": "Η τιμή δεν είναι μέσα στην εξίσωση. Η αξία βγαίνει από το αποτέλεσμα, τη σιγουριά, τον χρόνο και τον κόπο."}},
+    {"s": {"en": "Cutting the buyer's effort can add value cheaply.", "el": "Το να μειώσεις τον κόπο του αγοραστή μπορεί να προσθέσει αξία φτηνά."}, "answer": true, "why": {"en": "Effort and time are the levers that often cost you least to improve.", "el": "Ο κόπος και ο χρόνος είναι οι μοχλοί που συχνά σου κοστίζουν λιγότερο να βελτιώσεις."}},
+    {"s": {"en": "Hormozi prefers discounts over bonuses when a buyer hesitates.", "el": "Ο Χορμόζι προτιμά την έκπτωση από τα δώρα όταν ο αγοραστής διστάζει."}, "answer": false, "why": {"en": "He adds bonuses to raise value and protect the price.", "el": "Προσθέτει δώρα για να ανεβάσει την αξία και να προστατεύσει την τιμή."}},
+    {"s": {"en": "In a commodity market, buyers end up comparing mostly price.", "el": "Σε μια αγορά «ίδιων» προϊόντων, ο αγοραστής καταλήγει να συγκρίνει κυρίως την τιμή."}, "answer": true, "why": {"en": "That is why he wants an offer in a category of one.", "el": "Γι' αυτό θέλει μια προσφορά που είναι μόνη στην κατηγορία της."}},
+    {"s": {"en": "A guarantee should promise results even when you cannot control them.", "el": "Μια εγγύηση πρέπει να υπόσχεται αποτελέσματα ακόμη κι όταν δεν τα ελέγχεις."}, "answer": false, "why": {"en": "Guarantee only what you can deliver; a broken guarantee destroys trust.", "el": "Εγγυήσου μόνο ό,τι μπορείς να παραδώσεις. Μια εγγύηση που σπάει καταστρέφει την εμπιστοσύνη."}},
+    {"s": {"en": "In MAGIC naming, the I stands for indicating a time interval.", "el": "Στο MAGIC, το I σημαίνει να δηλώσεις χρονικό διάστημα."}, "answer": true, "why": {"en": "A time frame, like 90 days, makes the goal concrete.", "el": "Ένα χρονικό πλαίσιο, όπως οι 90 μέρες, κάνει τον στόχο συγκεκριμένο."}},
+    {"s": {"en": "Hormozi says a general offer for everyone sells best.", "el": "Ο Χορμόζι λέει ότι μια γενική προσφορά για όλους πουλάει καλύτερα."}, "answer": false, "why": {"en": "He says to niche down: a specific group feels the offer was made for them.", "el": "Λέει να στενέψεις τον στόχο: μια συγκεκριμένη ομάδα νιώθει ότι η προσφορά φτιάχτηκε γι' αυτήν."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Grand Slam Offer", "el": "Ακαταμάχητη προσφορά"}, "b": {"en": "So good that saying no feels foolish", "el": "Τόσο καλή, που το «όχι» μοιάζει ανόητο"}},
+    {"a": {"en": "Starving crowd", "el": "Πλήθος που πεινάει"}, "b": {"en": "A market with pain, money and growth", "el": "Αγορά με πόνο, χρήματα και ανάπτυξη"}},
+    {"a": {"en": "Time delay", "el": "Αναμονή"}, "b": {"en": "How long until the buyer gets the result", "el": "Πόσο αργεί ο αγοραστής να δει το αποτέλεσμα"}},
+    {"a": {"en": "Trim and stack", "el": "Κόψε και στοίβαξε"}, "b": {"en": "Drop costly low-value parts, keep cheap high-value ones", "el": "Βγάζεις τα ακριβά και άχρηστα, κρατάς τα φθηνά και πολύτιμα"}},
+    {"a": {"en": "Bonus", "el": "Δώρο"}, "b": {"en": "A named extra that answers one objection", "el": "Ένα extra με όνομα που απαντά σε μία αντίρρηση"}},
+    {"a": {"en": "Guarantee", "el": "Εγγύηση"}, "b": {"en": "Moves the risk from buyer to seller", "el": "Μεταφέρει το ρίσκο από τον αγοραστή στον πωλητή"}}
+  ],
+  "missions": [
+    {"en": "Write your offer in three lines, read it aloud ten times, then use it word for word on today's calls.", "el": "Γράψε την προσφορά σου σε τρεις γραμμές, διάβασέ τη δυνατά δέκα φορές και χρησιμοποίησέ τη λέξη προς λέξη στα σημερινά τηλεφωνήματα."},
+    {"en": "List twenty problems doctors have told you and write a one-line solution next to each.", "el": "Γράψε είκοσι προβλήματα που σου έχουν πει γιατροί και δίπλα σε καθένα μια λύση σε μία γραμμή."},
+    {"en": "Turn three things you already do into named bonuses, each tied to one objection.", "el": "Κάνε τρία πράγματα που ήδη κάνεις δώρα με όνομα, το καθένα δεμένο με μία αντίρρηση."},
+    {"en": "Score your three main niches from 1 to 5 on pain, money, ease of reach and growth.", "el": "Βαθμολόγησε τους τρεις κύριους κλάδους σου από 1 έως 5 σε πόνο, χρήματα, ευκολία προσέγγισης και ανάπτυξη."},
+    {"en": "Write three MAGIC names for your offer and launch a small ad test with the best two.", "el": "Γράψε τρία ονόματα MAGIC για την προσφορά σου και ξεκίνα μια μικρή δοκιμή διαφήμισης με τα δύο καλύτερα."}
+  ],
+  "mantra": {"en": "Make it so good, so easy and so safe that no is hard.", "el": "Κάν' το τόσο καλό, εύκολο και ασφαλές, που το «όχι» να δυσκολεύει."},
+  "careful": {
+    "en": "Hormozi writes from his own success and gives few independent numbers, so his stories are survivor stories. Scarcity, urgency and guarantees are powerful because they press on fear of missing out; used falsely they become manipulation and, in the EU, can break consumer law on misleading practices. Value can be inflated with made-up bonus prices. Keep every limit, deadline, value and promise true and checkable.",
+    "el": "Ο Χορμόζι γράφει από τη δική του επιτυχία και δίνει λίγα ανεξάρτητα στοιχεία, άρα οι ιστορίες του είναι ιστορίες επιζώντων. Η σπανιότητα, ο χρόνος και οι εγγυήσεις είναι δυνατά εργαλεία επειδή πιέζουν τον φόβο ότι θα χάσεις κάτι. Αν τα χρησιμοποιήσεις ψεύτικα, γίνονται χειραγώγηση και στην ΕΕ μπορεί να παραβιάζουν τον νόμο για τις παραπλανητικές πρακτικές. Η αξία φουσκώνει εύκολα με επινοημένες τιμές για τα δώρα. Κράτα κάθε όριο, προθεσμία, αξία και υπόσχεση αληθινή και ελέγξιμη."
+  },
+  "connects": [
+    {"book": "influence", "note": {"en": "Cialdini explains why Hormozi's scarcity and proof work, and warns how easily they become tricks.", "el": "Ο Τσιαλντίνι εξηγεί γιατί λειτουργούν η σπανιότητα και οι αποδείξεις του Χορμόζι, και προειδοποιεί πόσο εύκολα γίνονται κόλπα."}},
+    {"book": "fanatical-prospecting", "note": {"en": "Hormozi makes the offer worth hearing; Blount makes sure enough people hear it every day.", "el": "Ο Χορμόζι κάνει την προσφορά να αξίζει να την ακούσεις. Ο Μπλάουντ φροντίζει να την ακούνε αρκετοί κάθε μέρα."}},
+    {"book": "zero-to-one", "note": {"en": "Thiel's monopoly and Hormozi's category of one are the same escape from competing on price.", "el": "Το μονοπώλιο του Τιλ και η «μοναδική κατηγορία» του Χορμόζι είναι η ίδια διαφυγή από τον ανταγωνισμό στην τιμή."}}
+  ]
+}

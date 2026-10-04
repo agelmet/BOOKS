@@ -1,0 +1,626 @@
+{
+  "id": "essentialism",
+  "title": {"en": "Essentialism", "el": "Essentialism: Η πειθαρχημένη επιδίωξη του λιγότερου"},
+  "author": "Greg McKeown",
+  "authorEl": "Γκρεγκ ΜακΚίον",
+  "year": 2014,
+  "shelf": "focus",
+  "skills": {"focus": 3, "strategy": 2, "communication": 1},
+  "oneLine": {
+    "en": "Do less but better: find the few things that really matter, say no to the rest with grace, and build a system that makes doing the essential easy.",
+    "el": "Κάνε λιγότερα αλλά καλύτερα: βρες τα λίγα που μετράνε πραγματικά, πες ευγενικά «όχι» στα υπόλοιπα και στήσε ένα σύστημα που κάνει το ουσιώδες εύκολο."
+  },
+  "story": {
+    "en": "Greg McKeown is a London-born leadership consultant who studied at Stanford and advised companies in Silicon Valley. The book began with a personal mistake: the day after his daughter was born, he left the hospital for a client meeting because he could not say no. In 2014 he turned that lesson into a clear method in four parts: what essentialism is, then how to explore, eliminate and execute. It became a bestseller because almost everyone feels too stretched.",
+    "el": "Ο Greg McKeown είναι σύμβουλος ηγεσίας, γεννημένος στο Λονδίνο, που σπούδασε στο Stanford και συμβούλευσε εταιρείες της Silicon Valley. Το βιβλίο ξεκίνησε από ένα προσωπικό του λάθος: την επομένη της γέννησης της κόρης του, έφυγε από το μαιευτήριο για ένα ραντεβού με πελάτη, γιατί δεν μπορούσε να πει «όχι». Το 2014 έκανε αυτό το μάθημα μια καθαρή μέθοδο σε τέσσερα μέρη: τι είναι ο εσενσιαλισμός, και μετά πώς εξερευνάς, πώς αφαιρείς και πώς εκτελείς. Έγινε best seller γιατί σχεδόν όλοι νιώθουν ότι τραβιούνται προς παντού."
+  },
+  "forYou": {
+    "en": "Your offer includes unlimited changes, you have 200+ clients, new ideas every week and side projects waiting. Success has given you more options than you can handle. This book teaches you to pick the few things that grow the agency, to say no to clients and friends without hurting the relationship, and to set clear limits so the business does not swallow your life.",
+    "el": "Η προσφορά σου περιλαμβάνει απεριόριστες αλλαγές, έχεις πάνω από 200 πελάτες, νέες ιδέες κάθε εβδομάδα και side projects που περιμένουν. Η επιτυχία σού έδωσε περισσότερες επιλογές απ' όσες σηκώνεις. Το βιβλίο σε μαθαίνει να διαλέγεις τα λίγα που μεγαλώνουν το γραφείο, να λες «όχι» σε πελάτες και φίλους χωρίς να χαλάς τη σχέση και να βάζεις καθαρά όρια, ώστε η δουλειά να μην καταπιεί τη ζωή σου."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Less but better", "el": "Λιγότερα αλλά καλύτερα"},
+      "explain": {
+        "en": "Essentialism is not about doing more things, or even about getting more done. It is about doing the right things. The non-essentialist says yes to almost everything and spreads energy thinly, making a millimetre of progress in a thousand directions. The essentialist pauses, asks what is truly essential, and puts all energy into a few things, so they go far in one direction. The motto is less, but better.",
+        "el": "Ο εσενσιαλισμός δεν σημαίνει να κάνεις περισσότερα, ούτε καν να τελειώνεις περισσότερα. Σημαίνει να κάνεις τα σωστά. Ο μη εσενσιαλιστής λέει «ναι» σχεδόν σε όλα και απλώνει την ενέργειά του λεπτά, κάνοντας ένα χιλιοστό πρόοδο σε χίλιες κατευθύνσεις. Ο εσενσιαλιστής σταματά, ρωτά τι είναι πραγματικά ουσιώδες και βάζει όλη του την ενέργεια σε λίγα πράγματα, ώστε να πάει μακριά σε μία κατεύθυνση. Το σύνθημα: λιγότερα, αλλά καλύτερα."
+      },
+      "example": {
+        "en": "The German designer Dieter Rams led design at Braun for decades and summed up his approach in three words: less, but better. His radios, razors and calculators had only what was needed. His ideas strongly influenced Apple's later designs, and McKeown borrows his motto for the whole book.",
+        "el": "Ο Γερμανός σχεδιαστής Dieter Rams οδήγησε τον σχεδιασμό της Braun για δεκαετίες και συμπύκνωσε τη φιλοσοφία του σε τρεις λέξεις: λιγότερα, αλλά καλύτερα. Τα ραδιόφωνα, οι ξυριστικές μηχανές και τα κομπιουτεράκια του είχαν μόνο ό,τι χρειαζόταν. Οι ιδέες του επηρέασαν έντονα τον μετέπειτα σχεδιασμό της Apple, και ο McKeown δανείζεται το σύνθημά του για όλο το βιβλίο."
+      },
+      "apply": {
+        "en": "Draw two arrows on paper: one with ten short lines going in all directions, one long arrow in a single direction. Under the first, list everything you are working on now. Under the second, write the two or three things that would really grow the agency. Plan next week only from the second list.",
+        "el": "Ζωγράφισε σε χαρτί δύο εικόνες: δέκα κοντές γραμμές προς όλες τις κατευθύνσεις και ένα μακρύ βέλος προς μία. Κάτω από την πρώτη γράψε όλα όσα δουλεύεις τώρα. Κάτω από τη δεύτερη, τα δύο ή τρία πράγματα που θα μεγάλωναν πραγματικά το γραφείο. Σχεδίασε την επόμενη εβδομάδα μόνο από τη δεύτερη λίστα."
+      },
+      "check": {
+        "q": {"en": "What is the main goal of an essentialist?", "el": "Ποιος είναι ο βασικός στόχος ενός εσενσιαλιστή;"},
+        "options": [
+          {"en": "To finish as many tasks as possible", "el": "Να τελειώνει όσο το δυνατόν περισσότερες δουλειές"},
+          {"en": "To work fewer hours each week", "el": "Να δουλεύει λιγότερες ώρες κάθε εβδομάδα"},
+          {"en": "To do the few right things very well", "el": "Να κάνει πολύ καλά τα λίγα σωστά πράγματα"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is about doing the right things, not more things.", "el": "Το θέμα είναι να κάνεις τα σωστά, όχι περισσότερα."}
+      }
+    },
+    {
+      "title": {"en": "The clarity paradox", "el": "Το παράδοξο της διαύγειας"},
+      "explain": {
+        "en": "McKeown describes a trap with four steps. First you have clear purpose, and that leads to success. Success brings more options and opportunities. More options spread your effort thin. Spread-thin effort weakens the very clarity that brought success. So success itself can be a cause of failure. The way out is to keep choosing, on purpose, what you will not do as you grow.",
+        "el": "Ο McKeown περιγράφει μια παγίδα σε τέσσερα βήματα. Πρώτα έχεις καθαρό σκοπό, και αυτό φέρνει επιτυχία. Η επιτυχία φέρνει περισσότερες επιλογές και ευκαιρίες. Οι περισσότερες επιλογές σκορπίζουν την προσπάθειά σου. Η σκόρπια προσπάθεια αδυνατίζει την ίδια τη διαύγεια που έφερε την επιτυχία. Έτσι, η επιτυχία μπορεί να γίνει αιτία αποτυχίας. Η έξοδος είναι να διαλέγεις συνειδητά, όσο μεγαλώνεις, τι δεν θα κάνεις."
+      },
+      "example": {
+        "en": "By 2008 Starbucks had grown so fast, adding stores and products such as warm breakfast sandwiches, that founder Howard Schultz felt it had lost its core. Back as CEO, he closed over 7,000 US stores for three hours one evening to retrain baristas, and said the sandwiches had to go because their smell covered the coffee.",
+        "el": "Ως το 2008 τα Starbucks είχαν μεγαλώσει τόσο γρήγορα, με νέα καταστήματα και προϊόντα όπως ζεστά σάντουιτς για πρωινό, που ο ιδρυτής Howard Schultz ένιωθε ότι είχαν χάσει την ουσία τους. Επιστρέφοντας ως CEO, έκλεισε πάνω από 7.000 καταστήματα στις ΗΠΑ για τρεις ώρες ένα βράδυ για να ξαναεκπαιδεύσει τους baristas, και είπε ότι τα σάντουιτς πρέπει να φύγουν γιατί η μυρωδιά τους σκέπαζε τον καφέ."
+      },
+      "apply": {
+        "en": "List every service and side project you added since you started: eshops, CRMs, video tours, apps. Next to each, write how much money and time it brought last year. Mark the ones that pull you away from the core 0€ website offer, and pause at least one of them this month.",
+        "el": "Γράψε κάθε υπηρεσία και side project που πρόσθεσες από τότε που ξεκίνησες: eshop, CRM, video tours, εφαρμογές. Δίπλα σε καθένα, γράψε πόσα χρήματα και πόσο χρόνο έφερε ή πήρε πέρσι. Σημείωσε όσα σε τραβούν μακριά από τη βασική προσφορά της ιστοσελίδας με 0€ και πάγωσε τουλάχιστον ένα αυτόν τον μήνα."
+      },
+      "check": {
+        "q": {"en": "Why can success lead to failure, according to McKeown?", "el": "Γιατί η επιτυχία μπορεί να φέρει αποτυχία, κατά τον McKeown;"},
+        "options": [
+          {"en": "It brings options that scatter your focus", "el": "Φέρνει επιλογές που σκορπίζουν την εστίασή σου"},
+          {"en": "It makes people lazy and proud", "el": "Κάνει τους ανθρώπους τεμπέληδες και αλαζόνες"},
+          {"en": "It attracts too many competitors", "el": "Τραβά πάρα πολλούς ανταγωνιστές"}
+        ],
+        "answer": 0,
+        "why": {"en": "More options pull effort in many directions and blur the original clarity.", "el": "Οι περισσότερες επιλογές τραβούν την προσπάθεια προς πολλές κατευθύνσεις και θολώνουν την αρχική διαύγεια."}
+      }
+    },
+    {
+      "title": {"en": "You can always choose", "el": "Πάντα μπορείς να διαλέξεις"},
+      "explain": {
+        "en": "The first core truth: you have the power to choose. We often forget it and say «I have to» about things we actually chose. When you forget you can choose, other people start choosing for you. McKeown says that even when you cannot control your options, you can always choose how to respond. Saying «I choose to» instead of «I have to» puts you back in charge.",
+        "el": "Η πρώτη βασική αλήθεια: έχεις τη δύναμη να διαλέγεις. Συχνά το ξεχνάμε και λέμε «πρέπει» για πράγματα που στην πραγματικότητα επιλέξαμε. Όταν ξεχνάς ότι μπορείς να διαλέξεις, αρχίζουν να διαλέγουν οι άλλοι για σένα. Ο McKeown λέει ότι ακόμα κι όταν δεν ελέγχεις τις επιλογές σου, μπορείς πάντα να διαλέξεις πώς θα αντιδράσεις. Όταν λες «επιλέγω να» αντί για «πρέπει να», παίρνεις πίσω το τιμόνι."
+      },
+      "example": {
+        "en": "In the 1960s psychologist Martin Seligman found that dogs which had learned that nothing they did could stop a mild shock later stopped trying, even when escape was easy. He called it learned helplessness. McKeown says many busy people act the same way: they stop believing they can choose.",
+        "el": "Τη δεκαετία του 1960 ο ψυχολόγος Martin Seligman βρήκε ότι σκύλοι που είχαν μάθει πως ό,τι κι αν έκαναν δεν σταματούσε ένα ελαφρύ ηλεκτροσόκ, αργότερα σταματούσαν να προσπαθούν, ακόμα κι όταν η διαφυγή ήταν εύκολη. Το ονόμασε «επίκτητη αδυναμία». Ο McKeown λέει ότι πολλοί πολυάσχολοι άνθρωποι κάνουν το ίδιο: σταματούν να πιστεύουν ότι μπορούν να διαλέξουν."
+      },
+      "apply": {
+        "en": "Catch every «I have to» about work for one day: «I have to answer this tonight», «I have to accept this change». Rewrite each as «I choose to» or «I choose not to». If a choice feels wrong once you say it that way, change it.",
+        "el": "Πιάσε για μία μέρα κάθε «πρέπει» για τη δουλειά: «πρέπει να απαντήσω απόψε», «πρέπει να δεχτώ αυτή την αλλαγή». Ξαναγράψε το καθένα σαν «επιλέγω να» ή «επιλέγω να μην». Αν μια επιλογή σού φαίνεται λάθος όταν την πεις έτσι, άλλαξέ την."
+      },
+      "check": {
+        "q": {"en": "What happens when you forget you can choose?", "el": "Τι γίνεται όταν ξεχνάς ότι μπορείς να διαλέξεις;"},
+        "options": [
+          {"en": "You become more relaxed", "el": "Γίνεσαι πιο χαλαρός"},
+          {"en": "Others start choosing for you", "el": "Αρχίζουν να διαλέγουν οι άλλοι για σένα"},
+          {"en": "You make fewer mistakes", "el": "Κάνεις λιγότερα λάθη"}
+        ],
+        "answer": 1,
+        "why": {"en": "If you do not set your priorities, someone else will.", "el": "Αν δεν ορίσεις εσύ τις προτεραιότητές σου, θα τις ορίσει κάποιος άλλος."}
+      }
+    },
+    {
+      "title": {"en": "Almost everything is noise", "el": "Σχεδόν όλα είναι θόρυβος"},
+      "explain": {
+        "en": "The second core truth: very few things really matter. Most opportunities are good, but only a handful are very valuable. The non-essentialist thinks almost everything is important. The essentialist knows that a few things deliver far more than the rest, so it is worth taking time to find them before acting. The hard part is that good opportunities look a lot like great ones at first.",
+        "el": "Η δεύτερη βασική αλήθεια: πολύ λίγα πράγματα μετράνε πραγματικά. Οι περισσότερες ευκαιρίες είναι καλές, αλλά μόνο ελάχιστες είναι πολύ πολύτιμες. Ο μη εσενσιαλιστής πιστεύει ότι σχεδόν όλα είναι σημαντικά. Ο εσενσιαλιστής ξέρει ότι λίγα πράγματα αποδίδουν πολύ περισσότερο από τα υπόλοιπα, άρα αξίζει να αφιερώσει χρόνο για να τα βρει πριν δράσει. Το δύσκολο είναι ότι στην αρχή οι καλές ευκαιρίες μοιάζουν πολύ με τις σπουδαίες."
+      },
+      "example": {
+        "en": "In the 1950s the quality expert Joseph Juran taught Japanese factories to separate the «vital few» causes of defects from the «trivial many». Instead of fixing everything a little, they fixed the few causes behind most problems. That focus on quality helped Japanese manufacturers win world markets in the following decades.",
+        "el": "Τη δεκαετία του 1950 ο ειδικός στην ποιότητα Joseph Juran δίδαξε στα ιαπωνικά εργοστάσια να ξεχωρίζουν τις «λίγες ζωτικές» αιτίες των ελαττωμάτων από τις «πολλές ασήμαντες». Αντί να διορθώνουν λίγο από όλα, διόρθωναν τις λίγες αιτίες πίσω από τα περισσότερα προβλήματα. Αυτή η εστίαση στην ποιότητα βοήθησε τους Ιάπωνες κατασκευαστές να κερδίσουν τις παγκόσμιες αγορές τις επόμενες δεκαετίες."
+      },
+      "apply": {
+        "en": "Look at where your paying clients came from last year: calls, ads, referrals, reels. Find the one or two channels that brought most of them. Put most of next month's time into those, and treat the rest as noise until the main channels are maxed out.",
+        "el": "Δες από πού ήρθαν πέρσι οι πελάτες που πληρώνουν: τηλέφωνα, διαφημίσεις, συστάσεις, reels. Βρες το ένα ή τα δύο κανάλια που έφεραν τους περισσότερους. Βάλε εκεί τον περισσότερο χρόνο του επόμενου μήνα και δες τα υπόλοιπα ως θόρυβο μέχρι να εξαντλήσεις τα βασικά κανάλια."
+      },
+      "check": {
+        "q": {"en": "What is hard about telling the essential from the rest?", "el": "Τι είναι δύσκολο στο να ξεχωρίσεις το ουσιώδες από τα υπόλοιπα;"},
+        "options": [
+          {"en": "Essential things are always boring", "el": "Τα ουσιώδη είναι πάντα βαρετά"},
+          {"en": "Good opportunities look like great ones at first", "el": "Οι καλές ευκαιρίες στην αρχή μοιάζουν με σπουδαίες"},
+          {"en": "There are no essential things in business", "el": "Στις επιχειρήσεις δεν υπάρχουν ουσιώδη"}
+        ],
+        "answer": 1,
+        "why": {"en": "That is why you need time and criteria to discern the vital few.", "el": "Γι' αυτό χρειάζεσαι χρόνο και κριτήρια για να ξεχωρίσεις τα λίγα ζωτικά."}
+      }
+    },
+    {
+      "title": {"en": "Every yes has a cost", "el": "Κάθε «ναι» έχει κόστος"},
+      "explain": {
+        "en": "The third core truth: you cannot have it all or do it all. Every choice is a trade-off. The non-essentialist asks «How can I do both?» and ends up doing both badly. The essentialist asks «Which problem do I want?» and accepts that saying yes to one thing means saying no to others. A trade-off is not a loss to avoid. It is a chance to decide what you really stand for.",
+        "el": "Η τρίτη βασική αλήθεια: δεν μπορείς να τα έχεις όλα ούτε να τα κάνεις όλα. Κάθε επιλογή είναι ανταλλαγή. Ο μη εσενσιαλιστής ρωτά «πώς θα κάνω και τα δύο;» και καταλήγει να κάνει και τα δύο άσχημα. Ο εσενσιαλιστής ρωτά «ποιο πρόβλημα θέλω να έχω;» και δέχεται ότι το «ναι» σε κάτι σημαίνει «όχι» σε άλλα. Η ανταλλαγή δεν είναι απώλεια που αποφεύγεις. Είναι ευκαιρία να αποφασίσεις τι πραγματικά πρεσβεύεις."
+      },
+      "example": {
+        "en": "In the 1950s an IKEA designer took the legs off a table so it would fit in a car. IKEA turned this into a strategy: flat boxes that customers carry home and build themselves. It handed assembly and transport to the customer, and in exchange could offer very low prices worldwide.",
+        "el": "Τη δεκαετία του 1950 ένας σχεδιαστής της IKEA έβγαλε τα πόδια από ένα τραπέζι για να χωρέσει σε αυτοκίνητο. Η IKEA το έκανε στρατηγική: επίπεδα κουτιά που ο πελάτης παίρνει σπίτι και συναρμολογεί μόνος του. Άφησε τη συναρμολόγηση και τη μεταφορά στον πελάτη, και σε αντάλλαγμα μπόρεσε να προσφέρει πολύ χαμηλές τιμές σε όλο τον κόσμο."
+      },
+      "apply": {
+        "en": "Write your own trade-offs on one page: «We build fast, modern sites for professionals. We do not do complex custom systems or logo design.» When a client asks for something outside the line, answer kindly: «This is not something we do, but I can suggest someone who does it very well.»",
+        "el": "Γράψε τις δικές σου ανταλλαγές σε μία σελίδα: «Φτιάχνουμε γρήγορες, μοντέρνες ιστοσελίδες για επαγγελματίες. Δεν φτιάχνουμε σύνθετα ειδικά συστήματα ούτε λογότυπα». Όταν ένας πελάτης ζητά κάτι έξω από τη γραμμή, απάντησε ευγενικά: «Αυτό δεν το κάνουμε εμείς, μπορώ όμως να σας προτείνω κάποιον που το κάνει πολύ καλά»."
+      },
+      "check": {
+        "q": {"en": "Which question does an essentialist ask about trade-offs?", "el": "Ποια ερώτηση κάνει ο εσενσιαλιστής για τις ανταλλαγές;"},
+        "options": [
+          {"en": "Which problem do I want?", "el": "Ποιο πρόβλημα θέλω να έχω;"},
+          {"en": "How can I do both?", "el": "Πώς θα κάνω και τα δύο;"},
+          {"en": "Who can I blame if it fails?", "el": "Ποιον θα κατηγορήσω αν αποτύχει;"}
+        ],
+        "answer": 0,
+        "why": {"en": "Accepting the trade-off lets you choose on purpose instead of doing both badly.", "el": "Όταν δέχεσαι την ανταλλαγή, διαλέγεις συνειδητά αντί να κάνεις και τα δύο άσχημα."}
+      }
+    },
+    {
+      "title": {"en": "Make space to think", "el": "Φτιάξε χώρο για σκέψη"},
+      "explain": {
+        "en": "To find the few things that matter, you need time and space to think, and busy people rarely have it. McKeown says that this space must be created on purpose, because it never appears by itself. Block time in your calendar just to think, read and look at the big picture. It feels unproductive, but without it you only react to whatever arrives next.",
+        "el": "Για να βρεις τα λίγα που μετράνε, χρειάζεσαι χρόνο και χώρο για σκέψη, και οι πολυάσχολοι σπάνια τα έχουν. Ο McKeown λέει ότι αυτός ο χώρος πρέπει να δημιουργηθεί σκόπιμα, γιατί δεν εμφανίζεται ποτέ μόνος του. Κλείσε χρόνο στο ημερολόγιο μόνο για να σκέφτεσαι, να διαβάζεις και να βλέπεις τη μεγάλη εικόνα. Μοιάζει αντιπαραγωγικό, αλλά χωρίς αυτό απλώς αντιδράς σε ό,τι φτάνει μετά."
+      },
+      "example": {
+        "en": "While he was CEO of LinkedIn, Jeff Weiner wrote that he scheduled between 90 minutes and two hours of empty time in his calendar every day, broken into short blocks. No meetings, no calls. He said those buffers were the only way to think about the company instead of just reacting.",
+        "el": "Όσο ήταν CEO του LinkedIn, ο Jeff Weiner έγραψε ότι έκλεινε στο ημερολόγιό του από 90 λεπτά ως δύο ώρες κενού χρόνου κάθε μέρα, σπασμένες σε μικρά μπλοκ. Χωρίς συναντήσεις, χωρίς τηλέφωνα. Έλεγε ότι αυτά τα κενά ήταν ο μόνος τρόπος να σκέφτεται την εταιρεία αντί απλώς να αντιδρά."
+      },
+      "apply": {
+        "en": "Book a recurring «thinking hour» every Friday morning, away from the laptop, with a notebook. Ask three questions: what is working, what should I stop, what is the next big step? Once a quarter take a half day out of the office for the same purpose.",
+        "el": "Κλείσε μια επαναλαμβανόμενη «ώρα σκέψης» κάθε Παρασκευή πρωί, μακριά από το laptop, με ένα τετράδιο. Κάνε τρεις ερωτήσεις: τι δουλεύει, τι πρέπει να σταματήσω, ποιο είναι το επόμενο μεγάλο βήμα; Μία φορά το τρίμηνο πάρε ένα μισό ρεπό έξω από το γραφείο για τον ίδιο σκοπό."
+      },
+      "check": {
+        "q": {"en": "Why do you need to block time to think?", "el": "Γιατί πρέπει να κλείνεις χρόνο για σκέψη;"},
+        "options": [
+          {"en": "Thinking is more fun than working", "el": "Η σκέψη είναι πιο διασκεδαστική από τη δουλειά"},
+          {"en": "It impresses your team and clients", "el": "Εντυπωσιάζει την ομάδα και τους πελάτες"},
+          {"en": "Without it, you only react to what arrives", "el": "Χωρίς αυτό, μόνο αντιδράς σε ό,τι φτάνει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Space to think never appears by itself in a busy week.", "el": "Ο χώρος για σκέψη δεν εμφανίζεται ποτέ μόνος του σε μια γεμάτη εβδομάδα."}
+      }
+    },
+    {
+      "title": {"en": "Find the lead", "el": "Βρες το ουσιαστικό"},
+      "explain": {
+        "en": "Think like a journalist. A good reporter does not repeat all the facts; they find the one that matters and put it first. McKeown asks you to do the same with meetings, client requests and your own life: listen for what is not being said, notice small details, and ask «what is the real point here?» Filter the facts instead of drowning in them.",
+        "el": "Σκέψου σαν δημοσιογράφος. Ένας καλός ρεπόρτερ δεν επαναλαμβάνει όλα τα γεγονότα. Βρίσκει αυτό που μετράει και το βάζει πρώτο. Ο McKeown σου ζητά να κάνεις το ίδιο στις συναντήσεις, στα αιτήματα των πελατών και στη ζωή σου: άκου τι δεν λέγεται, πρόσεξε τις μικρές λεπτομέρειες και ρώτα «ποιο είναι το πραγματικό θέμα εδώ;». Φίλτραρε τα γεγονότα αντί να πνίγεσαι σε αυτά."
+      },
+      "example": {
+        "en": "Writer Nora Ephron told how her high school journalism teacher gave the class some facts: the teachers would go to a conference next Thursday with famous speakers. Everyone wrote leads listing the speakers. The teacher said the real lead was: «There will be no school next Thursday.»",
+        "el": "Η συγγραφέας Nora Ephron διηγήθηκε πώς ο καθηγητής δημοσιογραφίας της στο λύκειο έδωσε στην τάξη κάποια στοιχεία: οι καθηγητές θα πήγαιναν την επόμενη Πέμπτη σε ένα συνέδριο με διάσημους ομιλητές. Όλοι έγραψαν εισαγωγές που απαριθμούσαν τους ομιλητές. Ο καθηγητής είπε ότι η πραγματική είδηση ήταν: «Την επόμενη Πέμπτη δεν θα γίνει μάθημα»."
+      },
+      "apply": {
+        "en": "Look for the lead when a dentist sends ten changes in the chat: often it is «I don't feel the site looks like my practice». Ask one question: «Which of these matters most to you?» After each sales meeting, write one line: the real reason they will or won't buy.",
+        "el": "Ψάξε το ουσιαστικό όταν ένας οδοντίατρος στέλνει δέκα αλλαγές στο chat: συχνά είναι «δεν νιώθω ότι η σελίδα μοιάζει με το ιατρείο μου». Κάνε μία ερώτηση: «Ποιο από αυτά είναι το πιο σημαντικό για εσάς;». Μετά από κάθε ραντεβού πώλησης, γράψε μία γραμμή: τον πραγματικό λόγο που θα αγοράσει ή όχι."
+      },
+      "check": {
+        "q": {"en": "What does «find the lead» mean for you?", "el": "Τι σημαίνει για σένα «βρες το ουσιαστικό»;"},
+        "options": [
+          {"en": "Find new leads to call every day", "el": "Να βρίσκεις νέες επαφές για τηλέφωνα κάθε μέρα"},
+          {"en": "Write down every fact you hear", "el": "Να γράφεις κάθε στοιχείο που ακούς"},
+          {"en": "Spot the one point that really matters", "el": "Να εντοπίζεις το ένα σημείο που πραγματικά μετράει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Like a journalist, you filter the facts and put the essential first.", "el": "Σαν δημοσιογράφος, φιλτράρεις τα στοιχεία και βάζεις πρώτο το ουσιώδες."}
+      }
+    },
+    {
+      "title": {"en": "Protect the asset", "el": "Προστάτεψε το κεφάλαιο"},
+      "explain": {
+        "en": "You are the most important asset you have for doing what matters. If you damage it, everything suffers. McKeown names two things busy people cut first and should not: sleep and play. Sleep is when the brain recovers and makes connections, and missing it makes judgment worse. Play, doing things just for fun, lowers stress and sparks new ideas. Both are part of the work, not a reward after it.",
+        "el": "Εσύ είσαι το πιο σημαντικό κεφάλαιο που έχεις για να κάνεις ό,τι μετράει. Αν το φθείρεις, υποφέρουν όλα. Ο McKeown ονομάζει δύο πράγματα που οι πολυάσχολοι κόβουν πρώτα ενώ δεν θα έπρεπε: τον ύπνο και το παιχνίδι. Στον ύπνο ο εγκέφαλος αναρρώνει και κάνει συνδέσεις, και όταν λείπει, η κρίση χειροτερεύει. Το παιχνίδι, το να κάνεις κάτι μόνο για τη χαρά του, ρίχνει το άγχος και γεννά νέες ιδέες. Και τα δύο είναι κομμάτι της δουλειάς, όχι ανταμοιβή μετά από αυτήν."
+      },
+      "example": {
+        "en": "Jeff Bezos has said many times that he protects eight hours of sleep a night. His reasoning: a senior leader is paid to make a small number of good, high-stakes decisions, and being tired makes those decisions worse. Extra waking hours are not worth lower quality.",
+        "el": "Ο Jeff Bezos έχει πει πολλές φορές ότι προστατεύει οκτώ ώρες ύπνου κάθε νύχτα. Το σκεπτικό του: ένας ανώτερος ηγέτης πληρώνεται για να παίρνει λίγες, καλές και κρίσιμες αποφάσεις, και η κούραση τις κάνει χειρότερες. Οι επιπλέον ώρες ξύπνιος δεν αξίζουν τη χαμηλότερη ποιότητα."
+      },
+      "apply": {
+        "en": "Set a fixed bedtime and no screens for 30 minutes before it, and keep it for two weeks. Do not take big decisions, like a hire or a price change, after midnight. Put one playful thing in your week that has nothing to do with work, such as football, music or a walk with friends.",
+        "el": "Όρισε σταθερή ώρα ύπνου και καμία οθόνη για 30 λεπτά πριν από αυτήν, και κράτα την για δύο εβδομάδες. Μην παίρνεις μεγάλες αποφάσεις, όπως μια πρόσληψη ή αλλαγή τιμής, μετά τα μεσάνυχτα. Βάλε στην εβδομάδα σου κάτι για τη χαρά του, άσχετο με τη δουλειά, όπως ποδόσφαιρο, μουσική ή βόλτα με φίλους."
+      },
+      "check": {
+        "q": {"en": "How does McKeown see sleep and play?", "el": "Πώς βλέπει ο McKeown τον ύπνο και το παιχνίδι;"},
+        "options": [
+          {"en": "As luxuries for when the work is done", "el": "Ως πολυτέλειες για όταν τελειώσει η δουλειά"},
+          {"en": "As part of doing the essential well", "el": "Ως κομμάτι του να κάνεις καλά το ουσιώδες"},
+          {"en": "As signs of a lack of ambition", "el": "Ως σημάδια έλλειψης φιλοδοξίας"}
+        ],
+        "answer": 1,
+        "why": {"en": "You are the asset. Protecting it protects the quality of everything you do.", "el": "Εσύ είσαι το κεφάλαιο. Αν το προστατεύεις, προστατεύεις την ποιότητα όλων όσων κάνεις."}
+      }
+    },
+    {
+      "title": {"en": "The 90 percent rule", "el": "Ο κανόνας του 90%"},
+      "explain": {
+        "en": "When you decide on an option, pick the most important criterion and score the option from 0 to 100. If it scores below 90, treat it as a 0 and reject it. This sounds harsh, but it stops you from filling your life with sixes and sevens, which leaves no room for the nines and tens. If it is not a clear yes, it is a clear no.",
+        "el": "Όταν αποφασίζεις για μια επιλογή, διάλεξε το πιο σημαντικό κριτήριο και βαθμολόγησέ την από το 0 ως το 100. Αν πάρει κάτω από 90, δες τη σαν 0 και απόρριψέ την. Ακούγεται σκληρό, όμως σε σταματά από το να γεμίζεις τη ζωή σου με εξάρια και εφτάρια, που δεν αφήνουν χώρο για τα εννιάρια και τα δεκάρια. Αν δεν είναι καθαρό «ναι», είναι καθαρό «όχι»."
+      },
+      "example": {
+        "en": "Entrepreneur Derek Sivers, who founded the music store CD Baby, wrote a short blog post in 2009 with his rule for new projects: if he is not saying «Hell yeah!» about it, the answer is no. McKeown uses this rule to explain extreme selection.",
+        "el": "Ο επιχειρηματίας Derek Sivers, ιδρυτής του μουσικού καταστήματος CD Baby, έγραψε το 2009 ένα σύντομο κείμενο στο blog του με τον κανόνα του για νέα projects: αν δεν φωνάζει «Ναι, χίλιες φορές ναι!» από ενθουσιασμό, η απάντηση είναι «όχι». Ο McKeown χρησιμοποιεί αυτόν τον κανόνα για να εξηγήσει την αυστηρή επιλογή."
+      },
+      "apply": {
+        "en": "Write your top criterion for new projects, for example «helps the agency get clients without me». Score every new idea: a partnership, a new service, a side app. Below 90, say no. Use the same rule on leads: a client who wants a free site and fights over 130€ a year is not a 90.",
+        "el": "Γράψε το βασικό σου κριτήριο για νέα projects, για παράδειγμα «βοηθά το γραφείο να βρίσκει πελάτες χωρίς εμένα». Βαθμολόγησε κάθε νέα ιδέα: μια συνεργασία, μια νέα υπηρεσία, μια εφαρμογή στο πλάι. Κάτω από 90, πες «όχι». Κάνε το ίδιο με τους υποψήφιους πελάτες: όποιος θέλει δωρεάν ιστοσελίδα και παζαρεύει τα 130€ τον χρόνο δεν είναι 90."
+      },
+      "check": {
+        "q": {"en": "What do you do with an option that scores 75 out of 100?", "el": "Τι κάνεις με μια επιλογή που παίρνει 75 στα 100;"},
+        "options": [
+          {"en": "Treat it as a zero and say no", "el": "Τη βλέπεις σαν μηδέν και λες «όχι»"},
+          {"en": "Accept it, since 75 is a good score", "el": "Τη δέχεσαι, το 75 είναι καλός βαθμός"},
+          {"en": "Keep it as a backup option", "el": "Την κρατάς ως εφεδρική επιλογή"}
+        ],
+        "answer": 0,
+        "why": {"en": "Below 90 is a no, so you keep room for the truly great options.", "el": "Κάτω από 90 είναι «όχι», ώστε να μένει χώρος για τις πραγματικά σπουδαίες επιλογές."}
+      }
+    },
+    {
+      "title": {"en": "One clear essential intent", "el": "Μία καθαρή ουσιαστική πρόθεση"},
+      "explain": {
+        "en": "Teams and people lose energy when the goal is vague. McKeown suggests an essential intent: one statement that is both inspiring and concrete, meaningful and measurable. A vague mission like «be the best» inspires but tells you nothing. A list of numbers is concrete but uninspiring. A good intent answers the question: if we could be truly excellent at only one thing, what would it be? One decision then rules out a thousand others.",
+        "el": "Οι ομάδες και οι άνθρωποι χάνουν ενέργεια όταν ο στόχος είναι θολός. Ο McKeown προτείνει μια «ουσιαστική πρόθεση»: μία δήλωση που είναι και εμπνευσμένη και συγκεκριμένη, και ουσιαστική και μετρήσιμη. Μια θολή αποστολή όπως «να είμαστε οι καλύτεροι» εμπνέει αλλά δεν λέει τίποτα. Μια λίστα με αριθμούς είναι συγκεκριμένη αλλά δεν εμπνέει. Μια καλή πρόθεση απαντά στην ερώτηση: αν μπορούσαμε να είμαστε πραγματικά εξαιρετικοί σε ένα μόνο πράγμα, ποιο θα ήταν; Έτσι μία απόφαση αποκλείει χίλιες άλλες."
+      },
+      "example": {
+        "en": "In 2004 Wikipedia's co-founder Jimmy Wales described its goal as a world in which every single person is given free access to the sum of all human knowledge. It inspires, and it also clearly guides choices: free, open to everyone, and as complete as possible.",
+        "el": "Το 2004 ο συνιδρυτής της Wikipedia Jimmy Wales περιέγραψε τον στόχο της ως έναν κόσμο όπου κάθε άνθρωπος έχει δωρεάν πρόσβαση στο σύνολο της ανθρώπινης γνώσης. Εμπνέει, αλλά και καθοδηγεί καθαρά τις αποφάσεις: δωρεάν, ανοιχτή σε όλους και όσο πιο πλήρης γίνεται."
+      },
+      "apply": {
+        "en": "Write the essential intent of your agency in one sentence and test it: is it inspiring, and can you tell in a year if you did it? For example: «Every independent health professional in Greece can have a top modern website without paying for the build.» Share it with your team.",
+        "el": "Γράψε την ουσιαστική πρόθεση του γραφείου σου σε μία πρόταση και έλεγξέ την: εμπνέει, και θα μπορείς σε έναν χρόνο να πεις αν την πέτυχες; Για παράδειγμα: «Κάθε ανεξάρτητος επαγγελματίας υγείας στην Ελλάδα να μπορεί να έχει μια κορυφαία, μοντέρνα ιστοσελίδα χωρίς να πληρώσει την κατασκευή». Μοιράσου την με την ομάδα σου."
+      },
+      "check": {
+        "q": {"en": "What makes a good essential intent?", "el": "Τι κάνει μια ουσιαστική πρόθεση καλή;"},
+        "options": [
+          {"en": "It is short and sounds impressive", "el": "Είναι σύντομη και ακούγεται εντυπωσιακή"},
+          {"en": "It is inspiring and concrete at the same time", "el": "Είναι ταυτόχρονα εμπνευσμένη και συγκεκριμένη"},
+          {"en": "It lists all the company's goals", "el": "Απαριθμεί όλους τους στόχους της εταιρείας"}
+        ],
+        "answer": 1,
+        "why": {"en": "It must move people and also guide clear decisions.", "el": "Πρέπει να συγκινεί τους ανθρώπους και ταυτόχρονα να καθοδηγεί καθαρές αποφάσεις."}
+      }
+    },
+    {
+      "title": {"en": "The graceful no", "el": "Το ευγενικό «όχι»"},
+      "explain": {
+        "en": "Saying no takes courage, because we fear disappointing people. McKeown's key point: separate the decision from the relationship. You can say no to the request while showing respect to the person. People may be annoyed in the short run, but over time they respect someone who protects clear priorities. A clear no is often kinder than a vague yes you will not keep.",
+        "el": "Το «όχι» θέλει θάρρος, γιατί φοβόμαστε μήπως απογοητεύσουμε τους άλλους. Το βασικό σημείο του McKeown: ξεχώρισε την απόφαση από τη σχέση. Μπορείς να πεις «όχι» στο αίτημα και ταυτόχρονα να δείξεις σεβασμό στον άνθρωπο. Οι άλλοι μπορεί να ενοχληθούν προσωρινά, αλλά με τον καιρό σέβονται κάποιον που προστατεύει καθαρές προτεραιότητες. Ένα καθαρό «όχι» είναι συχνά πιο ευγενικό από ένα θολό «ναι» που δεν θα τηρήσεις."
+      },
+      "example": {
+        "en": "Psychologist Mihaly Csikszentmihalyi once invited management thinker Peter Drucker to be interviewed for a book on creativity. Drucker politely declined, explaining that one secret of productivity is to have a very big waste-paper basket for requests. The refusal was so gracious that Csikszentmihalyi quoted it in his book.",
+        "el": "Ο ψυχολόγος Mihaly Csikszentmihalyi κάλεσε κάποτε τον στοχαστή του μάνατζμεντ Peter Drucker να δώσει συνέντευξη για ένα βιβλίο για τη δημιουργικότητα. Ο Drucker αρνήθηκε ευγενικά, εξηγώντας ότι ένα μυστικό της παραγωγικότητας είναι να έχεις ένα πολύ μεγάλο καλάθι αχρήστων για τα αιτήματα. Η άρνηση ήταν τόσο ευγενική που ο Csikszentmihalyi την παρέθεσε στο βιβλίο του."
+      },
+      "apply": {
+        "en": "Keep the warmth and lose the yes when a client asks for a new feature outside the offer: «Thank you for thinking of us for this. It is not part of what we do, so I would not do it as well as you deserve. Your site will of course keep getting all our support.»",
+        "el": "Κράτα τη ζεστασιά και άφησε το «ναι» όταν ένας πελάτης ζητά κάτι νέο έξω από την προσφορά: «Σας ευχαριστώ που μας σκεφτήκατε γι' αυτό. Δεν είναι κάτι που κάνουμε, οπότε δεν θα το έκανα τόσο καλά όσο σας αξίζει. Η ιστοσελίδα σας φυσικά θα συνεχίσει να έχει όλη μας την υποστήριξη»."
+      },
+      "check": {
+        "q": {"en": "What is the key to a graceful no?", "el": "Ποιο είναι το κλειδί για ένα ευγενικό «όχι»;"},
+        "options": [
+          {"en": "Give a long list of excuses", "el": "Να δίνεις μια μακριά λίστα δικαιολογιών"},
+          {"en": "Separate the decision from the relationship", "el": "Να ξεχωρίζεις την απόφαση από τη σχέση"},
+          {"en": "Delay the answer until they forget", "el": "Να καθυστερείς την απάντηση μέχρι να το ξεχάσουν"}
+        ],
+        "answer": 1,
+        "why": {"en": "You refuse the request, not the person, so the relationship stays healthy.", "el": "Αρνείσαι το αίτημα, όχι τον άνθρωπο, οπότε η σχέση μένει υγιής."}
+      }
+    },
+    {
+      "title": {"en": "Many ways to say no", "el": "Πολλοί τρόποι για ένα «όχι»"},
+      "explain": {
+        "en": "McKeown gives a toolkit so «no» does not always sound the same. Pause before answering, and let silence work. Say a soft «no, but»: «I can't, but I could do this smaller part.» Say «let me check my calendar and come back to you». Use an automatic email reply. Ask your boss or partner «yes, what should I drop?». Or point to someone else: «I can't, but she can.»",
+        "el": "Ο McKeown δίνει μια εργαλειοθήκη ώστε το «όχι» να μην ακούγεται πάντα ίδιο. Κάνε παύση πριν απαντήσεις και άφησε τη σιωπή να δουλέψει. Πες ένα μαλακό «όχι, αλλά»: «δεν μπορώ, μπορώ όμως να κάνω αυτό το μικρότερο κομμάτι». Πες «άσε με να δω το πρόγραμμά μου και θα σου πω». Βάλε αυτόματη απάντηση στο email. Ρώτα τον συνεργάτη σου «ναι, τι να αφήσω για να το κάνω;». Ή δείξε κάποιον άλλον: «δεν μπορώ, αλλά εκείνη μπορεί»."
+      },
+      "example": {
+        "en": "The physicist Richard Feynman said in a 1981 BBC interview that, to protect his time for physics, he let people know he was «actively irresponsible». He did not take on committee and admin roles at his university. A clear, known no saved him from countless requests.",
+        "el": "Ο φυσικός Richard Feynman είπε σε μια συνέντευξη στο BBC το 1981 ότι, για να προστατεύει τον χρόνο του για τη φυσική, είχε φροντίσει να ξέρουν όλοι ότι ήταν «ενεργά ανεύθυνος». Δεν αναλάμβανε επιτροπές και διοικητικές θέσεις στο πανεπιστήμιό του. Ένα καθαρό και γνωστό «όχι» τον γλίτωσε από αμέτρητα αιτήματα."
+      },
+      "apply": {
+        "en": "Prepare three ready sentences. For extra requests after launch: «Gladly, I'll add it to next month's round of changes.» For friends' side projects: «I can't join, but I can give you one hour of feedback.» For your team: «Yes, which of today's tasks should I move?»",
+        "el": "Ετοίμασε τρεις έτοιμες φράσεις. Για επιπλέον αιτήματα μετά το ανέβασμα: «Ευχαρίστως, θα το βάλω στον γύρο αλλαγών του επόμενου μήνα». Για τα side projects φίλων: «Δεν μπορώ να μπω, μπορώ όμως να σου δώσω μία ώρα σχόλια». Για την ομάδα σου: «Ναι, ποια από τις σημερινές δουλειές να μεταθέσω;»."
+      },
+      "check": {
+        "q": {"en": "What is the «soft no» technique?", "el": "Τι είναι η τεχνική του «μαλακού όχι»;"},
+        "options": [
+          {"en": "Saying yes and then not doing it", "el": "Να λες «ναι» και μετά να μην το κάνεις"},
+          {"en": "Avoiding the person until they stop asking", "el": "Να αποφεύγεις τον άλλον μέχρι να σταματήσει να ρωτά"},
+          {"en": "Refusing but offering a smaller alternative", "el": "Να αρνείσαι αλλά να προτείνεις κάτι μικρότερο"}
+        ],
+        "answer": 2,
+        "why": {"en": "You protect your priorities and still help in a limited way.", "el": "Προστατεύεις τις προτεραιότητές σου και βοηθάς με περιορισμένο τρόπο."}
+      }
+    },
+    {
+      "title": {"en": "Stop throwing good after bad", "el": "Σταμάτα να ρίχνεις λεφτά στα χαμένα"},
+      "explain": {
+        "en": "We keep going with bad projects because of what we already put in. That is the sunk-cost bias. We also value things more just because they are ours, the endowment effect. McKeown's test: «If I were not already in this, how much would I invest to get in now?» If the answer is nothing, get out. Admit the mistake, cut your losses and free the time for something essential.",
+        "el": "Συνεχίζουμε με κακά projects εξαιτίας όσων έχουμε ήδη βάλει. Αυτό είναι η παγίδα του «βυθισμένου κόστους». Επίσης εκτιμάμε κάτι περισσότερο απλώς επειδή είναι δικό μας, το λεγόμενο φαινόμενο της κατοχής. Το τεστ του McKeown: «Αν δεν ήμουν ήδη μέσα σε αυτό, πόσα θα επένδυα για να μπω τώρα;». Αν η απάντηση είναι τίποτα, βγες. Παραδέξου το λάθος, κόψε τις απώλειες και ελευθέρωσε τον χρόνο για κάτι ουσιώδες."
+      },
+      "example": {
+        "en": "The British and French governments kept funding the Concorde supersonic jet for years, even when it was clear it would never earn back its costs. They had already spent too much to stop. Economists still call the sunk-cost trap «the Concorde fallacy».",
+        "el": "Οι κυβερνήσεις της Βρετανίας και της Γαλλίας συνέχισαν για χρόνια να χρηματοδοτούν το υπερηχητικό αεροσκάφος Concorde, ακόμα κι όταν ήταν φανερό ότι δεν θα έβγαζε ποτέ πίσω το κόστος του. Είχαν ήδη ξοδέψει πολλά για να σταματήσουν. Οι οικονομολόγοι λένε ακόμα την παγίδα του βυθισμένου κόστους «πλάνη του Concorde»."
+      },
+      "apply": {
+        "en": "Pick one side project or tool you have spent months on. Ask: if I were starting today, would I put a single hour into this? If not, close it this week and write down what you learned. Ask the same about one difficult client who takes far more time than the 130€ a year covers.",
+        "el": "Διάλεξε ένα side project ή εργαλείο στο οποίο έχεις ρίξει μήνες. Ρώτα: αν ξεκινούσα σήμερα, θα έβαζα έστω μία ώρα σε αυτό; Αν όχι, κλείσ' το αυτή την εβδομάδα και γράψε τι έμαθες. Κάνε την ίδια ερώτηση για έναν δύσκολο πελάτη που σου τρώει πολύ περισσότερο χρόνο απ' όσο καλύπτουν τα 130€ τον χρόνο."
+      },
+      "check": {
+        "q": {"en": "What question helps you escape the sunk-cost trap?", "el": "Ποια ερώτηση σε βγάζει από την παγίδα του βυθισμένου κόστους;"},
+        "options": [
+          {"en": "If I were not in this, would I invest to get in now?", "el": "Αν δεν ήμουν μέσα, θα επένδυα για να μπω τώρα;"},
+          {"en": "How much have I already spent on this?", "el": "Πόσα έχω ήδη ξοδέψει σε αυτό;"},
+          {"en": "What will people think if I stop?", "el": "Τι θα πουν οι άλλοι αν σταματήσω;"}
+        ],
+        "answer": 0,
+        "why": {"en": "Past costs are gone either way. Only the future value counts.", "el": "Τα παλιά έξοδα έχουν χαθεί ούτως ή άλλως. Μετράει μόνο η μελλοντική αξία."}
+      }
+    },
+    {
+      "title": {"en": "Edit your life", "el": "Κάνε μοντάζ στη ζωή σου"},
+      "explain": {
+        "en": "A good editor makes a film or a book better by cutting, not by adding. McKeown asks you to edit your days and projects the same way. Cut options and activities that do not serve the goal. Condense, saying more with less. Correct course with small adjustments. And sometimes edit less: hold back from meddling when things already work. Great editing is often invisible.",
+        "el": "Ένας καλός μοντέρ ή επιμελητής κάνει μια ταινία ή ένα βιβλίο καλύτερο αφαιρώντας, όχι προσθέτοντας. Ο McKeown σού ζητά να επιμελείσαι με τον ίδιο τρόπο τις μέρες και τα projects σου. Κόψε επιλογές και δραστηριότητες που δεν υπηρετούν τον στόχο. Συμπύκνωσε, πες περισσότερα με λιγότερα. Διόρθωνε πορεία με μικρές αλλαγές. Και καμιά φορά επιμελήσου λιγότερο: μην ανακατεύεσαι όταν κάτι ήδη δουλεύει. Η καλή επιμέλεια συνήθως δεν φαίνεται."
+      },
+      "example": {
+        "en": "When Google launched in 1998, rival search sites like Yahoo were crowded portals full of news, links and ads. Google's homepage had little more than a logo and a single search box. That simple, edited page made the main job, searching, fast and obvious.",
+        "el": "Όταν βγήκε η Google το 1998, οι ανταγωνιστικές σελίδες αναζήτησης όπως το Yahoo ήταν φορτωμένες πύλες γεμάτες ειδήσεις, συνδέσμους και διαφημίσεις. Η αρχική σελίδα της Google είχε λίγα πράγματα πέρα από ένα λογότυπο και ένα πεδίο αναζήτησης. Αυτή η απλή, καθαρή σελίδα έκανε τη βασική δουλειά, την αναζήτηση, γρήγορη και προφανή."
+      },
+      "apply": {
+        "en": "Edit one thing this week. Cut your sales pitch from five minutes to two, keeping only what makes doctors say yes. Remove two sections from your standard site template that clients never read. Shorten your client onboarding message to five clear lines.",
+        "el": "Κάνε μοντάζ σε ένα πράγμα αυτή την εβδομάδα. Κόψε την παρουσίαση πώλησης από πέντε λεπτά σε δύο, κρατώντας μόνο όσα κάνουν τους γιατρούς να πουν «ναι». Αφαίρεσε δύο ενότητες από το βασικό πρότυπο ιστοσελίδας που οι πελάτες δεν διαβάζουν ποτέ. Μίκρυνε το μήνυμα υποδοχής νέου πελάτη σε πέντε καθαρές γραμμές."
+      },
+      "check": {
+        "q": {"en": "How does an editor make work better?", "el": "Πώς κάνει καλύτερη μια δουλειά ο επιμελητής;"},
+        "options": [
+          {"en": "By adding more features and details", "el": "Προσθέτοντας περισσότερα στοιχεία και λεπτομέρειες"},
+          {"en": "By cutting what does not serve the goal", "el": "Κόβοντας ό,τι δεν υπηρετεί τον στόχο"},
+          {"en": "By changing everything every week", "el": "Αλλάζοντας τα πάντα κάθε εβδομάδα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Removing the non-essential lets the essential stand out.", "el": "Όταν βγάζεις το μη ουσιώδες, το ουσιώδες ξεχωρίζει."}
+      }
+    },
+    {
+      "title": {"en": "Set limits in advance", "el": "Βάλε όρια από πριν"},
+      "explain": {
+        "en": "Boundaries are a source of freedom, not a cage. If you decide your limits ahead of time, you do not have to fight the same battle with every request. Non-essentialists think limits make them less helpful. Essentialists know that without limits, other people's priorities fill their whole life. Make clear rules about time, scope and availability, and share them before the problem appears.",
+        "el": "Τα όρια είναι πηγή ελευθερίας, όχι κλουβί. Αν αποφασίσεις τα όριά σου από πριν, δεν χρειάζεται να δίνεις την ίδια μάχη με κάθε αίτημα. Οι μη εσενσιαλιστές πιστεύουν ότι τα όρια τους κάνουν λιγότερο εξυπηρετικούς. Οι εσενσιαλιστές ξέρουν ότι χωρίς όρια, οι προτεραιότητες των άλλων γεμίζουν όλη τους τη ζωή. Βάλε καθαρούς κανόνες για τον χρόνο, το εύρος της δουλειάς και τη διαθεσιμότητα, και πες τους πριν εμφανιστεί το πρόβλημα."
+      },
+      "example": {
+        "en": "In 2011 Volkswagen agreed with its works council to stop its servers sending emails to the company phones of some of its German staff from 30 minutes after their shift ended until 30 minutes before the next one began. The limit was set once, in advance, for everyone.",
+        "el": "Το 2011 η Volkswagen συμφώνησε με το συμβούλιο των εργαζομένων της να σταματούν οι servers να στέλνουν email στα εταιρικά κινητά μέρους των υπαλλήλων της στη Γερμανία από 30 λεπτά μετά το τέλος της βάρδιας μέχρι 30 λεπτά πριν από την επόμενη. Το όριο μπήκε μία φορά, από πριν, για όλους."
+      },
+      "apply": {
+        "en": "Write your client rules and add them to the welcome message: «We reply to messages Monday to Friday, 10:00 to 18:00. Changes are gathered and done in rounds. A site that is down gets help at any time.» Then keep the rules yourself, or clients will not either.",
+        "el": "Γράψε τους κανόνες σου για τους πελάτες και πρόσθεσέ τους στο μήνυμα υποδοχής: «Απαντάμε στα μηνύματα Δευτέρα με Παρασκευή, 10:00 με 18:00. Οι αλλαγές συγκεντρώνονται και γίνονται σε γύρους. Αν η ιστοσελίδα σας πέσει, βοηθάμε οποιαδήποτε ώρα». Μετά τήρησε τους κανόνες κι εσύ, αλλιώς δεν θα τους τηρήσουν ούτε οι πελάτες."
+      },
+      "check": {
+        "q": {"en": "How does McKeown see boundaries?", "el": "Πώς βλέπει ο McKeown τα όρια;"},
+        "options": [
+          {"en": "As a source of freedom", "el": "Ως πηγή ελευθερίας"},
+          {"en": "As a sign of being unhelpful", "el": "Ως σημάδι ότι δεν είσαι εξυπηρετικός"},
+          {"en": "As rules only for big companies", "el": "Ως κανόνες μόνο για μεγάλες εταιρείες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Limits set in advance stop other people's priorities from taking over your time.", "el": "Τα όρια που μπαίνουν από πριν εμποδίζουν τις προτεραιότητες των άλλων να καταλάβουν τον χρόνο σου."}
+      }
+    },
+    {
+      "title": {"en": "Build a buffer", "el": "Κράτα περιθώριο"},
+      "explain": {
+        "en": "Things almost always take longer than we expect. Psychologists call it the planning fallacy, and it happens even when we know about it. The non-essentialist plans for the best case and then panics. The essentialist adds a buffer: extra time, extra money, a plan B. A simple rule from McKeown: add 50% to your time estimates. Then surprises become small problems, not crises.",
+        "el": "Τα πράγματα σχεδόν πάντα παίρνουν περισσότερο χρόνο απ' όσο περιμένουμε. Οι ψυχολόγοι το λένε «πλάνη του σχεδιασμού», και συμβαίνει ακόμα κι όταν το ξέρουμε. Ο μη εσενσιαλιστής σχεδιάζει για το καλύτερο σενάριο και μετά πανικοβάλλεται. Ο εσενσιαλιστής κρατά περιθώριο: επιπλέον χρόνο, επιπλέον χρήματα, ένα σχέδιο Β. Ένας απλός κανόνας του McKeown: πρόσθεσε 50% στις εκτιμήσεις χρόνου. Έτσι οι εκπλήξεις γίνονται μικρά προβλήματα, όχι κρίσεις."
+      },
+      "example": {
+        "en": "The Sydney Opera House was planned to open in 1963 at a cost of about 7 million Australian dollars. It actually opened in 1973, ten years late, and cost about 102 million. It became a world icon, but almost nobody involved guessed how long it would really take.",
+        "el": "Η Όπερα του Σίδνεϊ σχεδιαζόταν να ανοίξει το 1963 με κόστος περίπου 7 εκατομμύρια αυστραλιανά δολάρια. Τελικά άνοιξε το 1973, δέκα χρόνια αργότερα, και κόστισε περίπου 102 εκατομμύρια. Έγινε παγκόσμιο σύμβολο, αλλά σχεδόν κανείς από όσους δούλεψαν δεν μάντεψε πόσο θα κρατούσε στην πραγματικότητα."
+      },
+      "apply": {
+        "en": "Promise five days when a site takes you three. Keep one empty afternoon a week for surprises, like a client emergency or a down server. Keep a cash buffer for slow months, so a late-paying client never forces a panic decision.",
+        "el": "Υποσχέσου πέντε μέρες όταν μια ιστοσελίδα σού παίρνει τρεις. Κράτα ένα άδειο απόγευμα την εβδομάδα για τα απρόοπτα, όπως ένα επείγον πελάτη ή έναν server που έπεσε. Κράτα ένα αποθεματικό για τους αδύναμους μήνες, ώστε ένας πελάτης που αργεί να πληρώσει να μη σε σπρώχνει ποτέ σε αποφάσεις πανικού."
+      },
+      "check": {
+        "q": {"en": "What is the planning fallacy?", "el": "Τι είναι η «πλάνη του σχεδιασμού»;"},
+        "options": [
+          {"en": "Planning too far into the future", "el": "Να σχεδιάζεις πολύ μακριά στο μέλλον"},
+          {"en": "Making plans with too many people", "el": "Να κάνεις σχέδια με πάρα πολλούς ανθρώπους"},
+          {"en": "Underestimating how long things will take", "el": "Να υποτιμάς πόσο θα πάρουν τα πράγματα"}
+        ],
+        "answer": 2,
+        "why": {"en": "We almost always expect things to go faster than they do, so a buffer is needed.", "el": "Σχεδόν πάντα περιμένουμε τα πράγματα να γίνουν πιο γρήγορα, γι' αυτό χρειάζεται περιθώριο."}
+      }
+    },
+    {
+      "title": {"en": "Remove the bottleneck", "el": "Βγάλε το φρένο"},
+      "explain": {
+        "en": "To get more done, you do not always need to add effort. Often it is better to remove the obstacles that slow everything down. Find the one constraint, the slowest step, that holds back the whole process. Improving any other step makes little difference. Clear the biggest obstacle, then find the next one. Subtracting the right thing can speed up everything.",
+        "el": "Για να κάνεις περισσότερα δεν χρειάζεται πάντα να βάλεις περισσότερη προσπάθεια. Συχνά είναι καλύτερο να βγάλεις τα εμπόδια που καθυστερούν τα πάντα. Βρες τον έναν περιορισμό, το πιο αργό βήμα, που κρατά πίσω όλη τη διαδικασία. Αν βελτιώσεις οποιοδήποτε άλλο βήμα, η διαφορά είναι μικρή. Καθάρισε το μεγαλύτερο εμπόδιο και μετά βρες το επόμενο. Αν αφαιρέσεις το σωστό, επιταχύνονται όλα."
+      },
+      "example": {
+        "en": "In Eliyahu Goldratt's business novel The Goal, a manager leads a scout hike. The line keeps stretching because of Herbie, the slowest boy. He puts Herbie at the front and shares out the heavy things in his backpack. The whole group then moves faster, because the slowest point set everyone's speed.",
+        "el": "Στο επιχειρηματικό μυθιστόρημα του Eliyahu Goldratt «Ο Στόχος», ένας διευθυντής οδηγεί μια πεζοπορία προσκόπων. Η σειρά συνέχεια απλώνεται εξαιτίας του Herbie, του πιο αργού παιδιού. Βάζει τον Herbie μπροστά και μοιράζει στους άλλους τα βαριά πράγματα του σακιδίου του. Τότε όλη η ομάδα κινείται πιο γρήγορα, γιατί το πιο αργό σημείο όριζε την ταχύτητα όλων."
+      },
+      "apply": {
+        "en": "Map your process from first call to live site and mark where clients get stuck. If it is waiting for photos and texts, that is your Herbie. Remove it: send one simple form with examples on day one and offer to write the texts with AI from a short phone chat.",
+        "el": "Χαρτογράφησε τη διαδικασία από το πρώτο τηλέφωνο μέχρι την ιστοσελίδα online και σημείωσε πού κολλάνε οι πελάτες. Αν είναι η αναμονή για φωτογραφίες και κείμενα, αυτός είναι ο δικός σου Herbie. Βγάλ' τον: στείλε από την πρώτη μέρα μία απλή φόρμα με παραδείγματα και πρότεινε να γράψετε τα κείμενα με AI μετά από μια σύντομη τηλεφωνική κουβέντα."
+      },
+      "check": {
+        "q": {"en": "Why did moving Herbie to the front help?", "el": "Γιατί βοήθησε που ο Herbie μπήκε μπροστά;"},
+        "options": [
+          {"en": "The slowest point sets the speed of the whole group", "el": "Το πιο αργό σημείο ορίζει την ταχύτητα όλης της ομάδας"},
+          {"en": "Herbie felt more motivated at the front", "el": "Ο Herbie είχε περισσότερο κίνητρο μπροστά"},
+          {"en": "The fast boys could rest more often", "el": "Τα γρήγορα παιδιά μπορούσαν να ξεκουράζονται πιο συχνά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Fixing the constraint speeds up everything; fixing other steps does little.", "el": "Αν διορθώσεις τον περιορισμό, επιταχύνονται όλα. Αν διορθώσεις άλλα βήματα, αλλάζουν λίγα."}
+      }
+    },
+    {
+      "title": {"en": "Small wins, steady progress", "el": "Μικρές νίκες, σταθερή πρόοδος"},
+      "explain": {
+        "en": "Non-essentialists start big and try to do everything at once, then stall. Essentialists start small and celebrate progress. Small, visible wins build momentum and keep motivation high. McKeown suggests asking: what is the minimum viable progress I can make today? Also start early: do the smallest useful step long before the deadline, so the work flows instead of piling up.",
+        "el": "Οι μη εσενσιαλιστές ξεκινούν μεγαλεπήβολα, προσπαθούν να τα κάνουν όλα μαζί και μετά κολλάνε. Οι εσενσιαλιστές ξεκινούν μικρά και γιορτάζουν την πρόοδο. Οι μικρές, ορατές νίκες χτίζουν ορμή και κρατούν ψηλά το κίνητρο. Ο McKeown προτείνει την ερώτηση: ποια είναι η ελάχιστη χρήσιμη πρόοδος που μπορώ να κάνω σήμερα; Και ξεκίνα νωρίς: κάνε το μικρότερο χρήσιμο βήμα πολύ πριν από το deadline, ώστε η δουλειά να κυλά αντί να στοιβάζεται."
+      },
+      "example": {
+        "en": "Teresa Amabile of Harvard and Steven Kramer studied nearly 12,000 daily diary entries from 238 office workers. The thing that most often lifted people's mood and motivation was simply making progress in meaningful work, even small progress. They called it the progress principle.",
+        "el": "Η Teresa Amabile του Harvard και ο Steven Kramer μελέτησαν σχεδόν 12.000 καθημερινές σημειώσεις ημερολογίου από 238 εργαζόμενους γραφείου. Αυτό που πιο συχνά ανέβαζε τη διάθεση και το κίνητρο ήταν απλώς η πρόοδος σε μια δουλειά με νόημα, ακόμα και μικρή. Το ονόμασαν «αρχή της προόδου»."
+      },
+      "apply": {
+        "en": "Break your sales playbook into tiny steps: today, only the opening line; tomorrow, the three most common objections. Send new clients a first draft within 48 hours: a small, quick win for them and for you. Each evening, write one line about the progress you made.",
+        "el": "Σπάσε το εγχειρίδιο πωλήσεων σε μικροσκοπικά βήματα: σήμερα μόνο την πρώτη φράση, αύριο τις τρεις πιο συχνές αντιρρήσεις. Στείλε στους νέους πελάτες ένα πρώτο δείγμα μέσα σε 48 ώρες: μια μικρή, γρήγορη νίκη για εκείνους και για σένα. Κάθε βράδυ γράψε μία γραμμή για την πρόοδο που έκανες."
+      },
+      "check": {
+        "q": {"en": "What did the diary study find motivates people most?", "el": "Τι βρήκε η μελέτη των ημερολογίων ότι δίνει το περισσότερο κίνητρο;"},
+        "options": [
+          {"en": "Big bonuses at the end of the year", "el": "Μεγάλα μπόνους στο τέλος της χρονιάς"},
+          {"en": "Making progress in meaningful work", "el": "Η πρόοδος σε δουλειά με νόημα"},
+          {"en": "Praise from the boss in meetings", "el": "Ο έπαινος από το αφεντικό στις συναντήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Even small progress on work that matters lifts motivation.", "el": "Ακόμα και η μικρή πρόοδος σε κάτι που μετράει ανεβάζει το κίνητρο."}
+      }
+    },
+    {
+      "title": {"en": "Make the essential automatic", "el": "Κάνε το ουσιώδες αυτόματο"},
+      "explain": {
+        "en": "Willpower and constant decisions wear you out. A routine makes the essential the default, so you do it without having to choose each time. McKeown suggests building routines around your most important work, linking them to clear triggers, and changing one small piece at a time. Once a routine is in place, your mind is free to focus on the work itself, not on whether to start.",
+        "el": "Η θέληση και οι συνεχείς αποφάσεις σε φθείρουν. Μια ρουτίνα κάνει το ουσιώδες αυτονόητο, ώστε να το κάνεις χωρίς να χρειάζεται να το επιλέγεις κάθε φορά. Ο McKeown προτείνει να χτίζεις ρουτίνες γύρω από την πιο σημαντική σου δουλειά, να τις δένεις με καθαρά ερεθίσματα και να αλλάζεις ένα μικρό κομμάτι τη φορά. Όταν η ρουτίνα στηθεί, το μυαλό σου είναι ελεύθερο να εστιάσει στην ίδια τη δουλειά και όχι στο αν θα ξεκινήσει."
+      },
+      "example": {
+        "en": "In her book The Creative Habit, the choreographer Twyla Tharp explains that her day starts at 5:30 with getting dressed and hailing a taxi to the gym. The ritual, she says, is not the workout but the taxi: once she gives the address, the decision is made.",
+        "el": "Στο βιβλίο της «The Creative Habit», η χορογράφος Twyla Tharp εξηγεί ότι η μέρα της ξεκινά στις 5:30: ντύνεται και σταματά ένα ταξί για το γυμναστήριο. Το τελετουργικό, λέει, δεν είναι η γυμναστική αλλά το ταξί: μόλις δώσει τη διεύθυνση, η απόφαση έχει παρθεί."
+      },
+      "apply": {
+        "en": "Create a start ritual for your call block: same time, same coffee, headset on, the call list opens automatically at 9:30. Do the same for the week: Monday sales, Wednesday building, Friday review. Fewer choices means more energy for the calls.",
+        "el": "Φτιάξε ένα τελετουργικό έναρξης για το μπλοκ τηλεφώνων: ίδια ώρα, ίδιος καφές, ακουστικά, η λίστα ανοίγει αυτόματα στις 9:30. Το ίδιο για την εβδομάδα: Δευτέρα πωλήσεις, Τετάρτη κατασκευή, Παρασκευή αξιολόγηση. Λιγότερες επιλογές σημαίνει περισσότερη ενέργεια για τα τηλέφωνα."
+      },
+      "check": {
+        "q": {"en": "Why does a routine help the essential get done?", "el": "Γιατί μια ρουτίνα βοηθά να γίνεται το ουσιώδες;"},
+        "options": [
+          {"en": "It removes the need to decide each time", "el": "Βγάζει την ανάγκη να αποφασίζεις κάθε φορά"},
+          {"en": "It makes the work more exciting", "el": "Κάνει τη δουλειά πιο συναρπαστική"},
+          {"en": "It lets you do several things at once", "el": "Σου επιτρέπει να κάνεις πολλά μαζί"}
+        ],
+        "answer": 0,
+        "why": {"en": "When the essential is the default, no willpower is spent on starting.", "el": "Όταν το ουσιώδες είναι η προεπιλογή, δεν ξοδεύεις θέληση για να ξεκινήσεις."}
+      }
+    },
+    {
+      "title": {"en": "What is important now?", "el": "Τι είναι σημαντικό τώρα;"},
+      "explain": {
+        "en": "The non-essentialist lives in the past or the future, worrying about what went wrong and what might go wrong. The essentialist keeps returning to one question: what is important now? Write down distracting thoughts to clear your head, then give full attention to the present task. Finally, McKeown says essentialism is not a technique you use once. It is a way of living, chosen again every day.",
+        "el": "Ο μη εσενσιαλιστής ζει στο παρελθόν ή στο μέλλον: ανησυχεί για όσα πήγαν στραβά και όσα μπορεί να πάνε. Ο εσενσιαλιστής επιστρέφει συνέχεια σε μία ερώτηση: τι είναι σημαντικό τώρα; Γράψε τις σκέψεις που σε αποσπούν για να καθαρίσει το κεφάλι σου και μετά δώσε όλη σου την προσοχή στη δουλειά που έχεις μπροστά σου. Τέλος, ο McKeown λέει ότι ο εσενσιαλισμός δεν είναι τεχνική που χρησιμοποιείς μία φορά. Είναι τρόπος ζωής, που τον ξαναδιαλέγεις κάθε μέρα."
+      },
+      "example": {
+        "en": "In his 1975 book The Miracle of Mindfulness, the Vietnamese monk Thich Nhat Hanh writes that you should wash the dishes in order to wash the dishes, not to get them done quickly so you can have tea. If you rush to the tea, you will not enjoy that either.",
+        "el": "Στο βιβλίο του «Το θαύμα της ενσυνειδητότητας» του 1975, ο Βιετναμέζος μοναχός Thich Nhat Hanh γράφει ότι πρέπει να πλένεις τα πιάτα για να πλύνεις τα πιάτα, όχι για να τα τελειώσεις γρήγορα και να πιεις τσάι. Αν βιάζεσαι για το τσάι, δεν θα το απολαύσεις ούτε αυτό."
+      },
+      "apply": {
+        "en": "Take one minute before every sales meeting: write any worries on paper and put it aside. During the meeting, think only about this doctor and her practice. When you feel scattered during the day, stop and ask out loud: «What is important now?» Then do only that.",
+        "el": "Πάρε ένα λεπτό πριν από κάθε ραντεβού πώλησης: γράψε σε χαρτί όποια ανησυχία έχεις και άφησέ το στην άκρη. Στη συνάντηση, σκέψου μόνο αυτή τη γιατρό και το ιατρείο της. Όταν μέσα στη μέρα νιώθεις σκόρπιος, σταμάτα και ρώτα δυνατά: «Τι είναι σημαντικό τώρα;». Μετά κάνε μόνο αυτό."
+      },
+      "check": {
+        "q": {"en": "What does McKeown say essentialism is in the end?", "el": "Τι λέει τελικά ο McKeown ότι είναι ο εσενσιαλισμός;"},
+        "options": [
+          {"en": "A one-time clean-up of your calendar", "el": "Ένα καθάρισμα του ημερολογίου μία φορά"},
+          {"en": "A way of living, chosen again every day", "el": "Ένας τρόπος ζωής που τον ξαναδιαλέγεις κάθε μέρα"},
+          {"en": "A tool only for managers of big teams", "el": "Ένα εργαλείο μόνο για διευθυντές μεγάλων ομάδων"}
+        ],
+        "answer": 1,
+        "why": {"en": "Pressure to do more never stops, so the choice to do less but better must be renewed daily.", "el": "Η πίεση για περισσότερα δεν σταματά ποτέ, άρα η επιλογή «λιγότερα αλλά καλύτερα» πρέπει να ανανεώνεται καθημερινά."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A client whose site is live asks you to build a booking system with payments, «just a small addition». It is outside your offer. What do you say?", "el": "Ένας πελάτης με ιστοσελίδα ήδη online σού ζητά σύστημα κρατήσεων με πληρωμές, «μια μικρή προσθήκη». Είναι έξω από την προσφορά σου. Τι λες;"},
+      "options": [
+        {"en": "«Sure, I'll find time for it somehow.»", "el": "«Βεβαίως, θα βρω χρόνο κάπως»."},
+        {"en": "Ignore the message and hope he forgets", "el": "Αγνοείς το μήνυμα και ελπίζεις να το ξεχάσει"},
+        {"en": "A warm, clear no, and suggest a tool or person who does it well", "el": "Ένα ζεστό, καθαρό «όχι», και προτείνεις εργαλείο ή άνθρωπο που το κάνει καλά"}
+      ],
+      "answer": 2,
+      "why": {"en": "Separate the decision from the relationship and offer an alternative.", "el": "Ξεχωρίζεις την απόφαση από τη σχέση και προτείνεις εναλλακτική."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A partner offers a deal to resell his hosting product. It is «pretty good», about a 70 out of 100. What do you do?", "el": "Ένας συνεργάτης σού προτείνει να μεταπωλείς το δικό του προϊόν φιλοξενίας. Είναι «αρκετά καλό», περίπου 70 στα 100. Τι κάνεις;"},
+      "options": [
+        {"en": "Decline it, because it is not a clear yes", "el": "Το αρνείσαι, γιατί δεν είναι καθαρό «ναι»"},
+        {"en": "Accept it, since 70 is above average", "el": "Το δέχεσαι, το 70 είναι πάνω από τον μέσο όρο"},
+        {"en": "Accept it and decide later if it fits", "el": "Το δέχεσαι και βλέπεις αργότερα αν ταιριάζει"}
+      ],
+      "answer": 0,
+      "why": {"en": "The 90 percent rule: anything below 90 is a no.", "el": "Ο κανόνας του 90%: ό,τι είναι κάτω από 90 είναι «όχι»."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "You spent four months on a side app. It has no users, but stopping feels like wasting those months. What does McKeown advise?", "el": "Έχεις ρίξει τέσσερις μήνες σε μια εφαρμογή στο πλάι. Δεν έχει χρήστες, αλλά αν σταματήσεις νιώθεις ότι πετάς τους μήνες. Τι συμβουλεύει ο McKeown;"},
+      "options": [
+        {"en": "Keep going, you are too deep to stop now", "el": "Συνεχίζεις, έχεις μπει πολύ βαθιά για να σταματήσεις"},
+        {"en": "Ask if you would start it today; if not, stop", "el": "Ρωτάς αν θα το ξεκινούσες σήμερα· αν όχι, σταματάς"},
+        {"en": "Add more features to attract users", "el": "Προσθέτεις περισσότερες λειτουργίες για να έρθουν χρήστες"}
+      ],
+      "answer": 1,
+      "why": {"en": "Sunk costs are gone. Only the future value matters.", "el": "Το βυθισμένο κόστος έχει χαθεί. Μετράει μόνο η μελλοντική αξία."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "You promise a new client the draft «by tomorrow», but sites usually take you three days. What is the essentialist move?", "el": "Υπόσχεσαι σε νέο πελάτη το δείγμα «μέχρι αύριο», ενώ οι ιστοσελίδες σού παίρνουν συνήθως τρεις μέρες. Ποια είναι η εσενσιαλιστική κίνηση;"},
+      "options": [
+        {"en": "Work all night to keep the promise", "el": "Δουλεύεις όλη νύχτα για να κρατήσεις την υπόσχεση"},
+        {"en": "Send a quick, unfinished version", "el": "Στέλνεις μια γρήγορη, μισοτελειωμένη εκδοχή"},
+        {"en": "Promise a date with a buffer from the start", "el": "Υπόσχεσαι από την αρχή ημερομηνία με περιθώριο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Build a buffer: things take longer than we think.", "el": "Κρατάς περιθώριο: τα πράγματα παίρνουν περισσότερο απ' όσο νομίζουμε."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "Most new sites are delayed because clients take weeks to send photos and texts. Where should you put your effort?", "el": "Οι περισσότερες νέες ιστοσελίδες καθυστερούν γιατί οι πελάτες αργούν εβδομάδες να στείλουν φωτογραφίες και κείμενα. Πού πρέπει να βάλεις την προσπάθειά σου;"},
+      "options": [
+        {"en": "Design even faster on your side", "el": "Να σχεδιάζεις ακόμα πιο γρήγορα από τη μεριά σου"},
+        {"en": "Make it very easy for clients to send material", "el": "Να κάνεις πολύ εύκολο για τους πελάτες να στέλνουν υλικό"},
+        {"en": "Take on more clients to fill the waiting time", "el": "Να πάρεις περισσότερους πελάτες για να γεμίσει ο χρόνος αναμονής"}
+      ],
+      "answer": 1,
+      "why": {"en": "That is the bottleneck. Removing it speeds up the whole process.", "el": "Αυτό είναι το σημείο που φρενάρει τα πάντα. Αν το βγάλεις, επιταχύνεται όλη η διαδικασία."},
+      "idea": 16
+    },
+    {
+      "q": {"en": "It is Sunday evening. You planned dinner with your family, but a friend asks you to help him with his new business plan tonight. What fits the book?", "el": "Κυριακή βράδυ. Έχεις κανονίσει φαγητό με την οικογένεια, αλλά ένας φίλος σού ζητά να τον βοηθήσεις απόψε με το νέο του επιχειρηματικό σχέδιο. Τι ταιριάζει με το βιβλίο;"},
+      "options": [
+        {"en": "Keep the dinner and offer the friend another time", "el": "Κρατάς το φαγητό και προτείνεις στον φίλο άλλη ώρα"},
+        {"en": "Cancel dinner, friends come first", "el": "Ακυρώνεις το φαγητό, οι φίλοι προηγούνται"},
+        {"en": "Do both and rush through each", "el": "Κάνεις και τα δύο βιαστικά"}
+      ],
+      "answer": 0,
+      "why": {"en": "A soft «no, but» protects what you chose as essential and still helps.", "el": "Ένα μαλακό «όχι, αλλά» προστατεύει ό,τι διάλεξες ως ουσιώδες και ταυτόχρονα βοηθά."},
+      "idea": 11
+    }
+  ],
+  "truefalse": [
+    {"s": {"en": "Essentialism is about getting more things done in less time.", "el": "Ο εσενσιαλισμός είναι να κάνεις περισσότερα πράγματα σε λιγότερο χρόνο."}, "answer": false, "why": {"en": "It is about doing only the right things, and doing them better.", "el": "Είναι να κάνεις μόνο τα σωστά πράγματα και να τα κάνεις καλύτερα."}},
+    {"s": {"en": "McKeown says success can lead to failure by bringing too many options.", "el": "Ο McKeown λέει ότι η επιτυχία μπορεί να φέρει αποτυχία, γιατί φέρνει πάρα πολλές επιλογές."}, "answer": true, "why": {"en": "That is the clarity paradox.", "el": "Αυτό είναι το παράδοξο της διαύγειας."}},
+    {"s": {"en": "According to the 90 percent rule, an option scoring 85 should be accepted.", "el": "Σύμφωνα με τον κανόνα του 90%, μια επιλογή με 85 πρέπει να γίνει δεκτή."}, "answer": false, "why": {"en": "Anything below 90 counts as a zero.", "el": "Ό,τι είναι κάτω από 90 μετράει ως μηδέν."}},
+    {"s": {"en": "McKeown sees sleep as a way to protect your ability to do the essential.", "el": "Ο McKeown βλέπει τον ύπνο ως τρόπο να προστατεύεις την ικανότητά σου να κάνεις το ουσιώδες."}, "answer": true, "why": {"en": "You are the asset, and sleep protects it.", "el": "Εσύ είσαι το κεφάλαιο, και ο ύπνος το προστατεύει."}},
+    {"s": {"en": "The book says you should never say no to clients.", "el": "Το βιβλίο λέει ότι δεν πρέπει να λες ποτέ «όχι» στους πελάτες."}, "answer": false, "why": {"en": "It teaches you to say no with grace, separating the decision from the relationship.", "el": "Σε μαθαίνει να λες «όχι» με ευγένεια, ξεχωρίζοντας την απόφαση από τη σχέση."}},
+    {"s": {"en": "Removing the slowest step can speed up a whole process.", "el": "Αν βγάλεις το πιο αργό βήμα, μπορεί να επιταχυνθεί όλη η διαδικασία."}, "answer": true, "why": {"en": "The constraint sets the speed of everything.", "el": "Ο περιορισμός ορίζει την ταχύτητα όλων."}},
+    {"s": {"en": "Boundaries make you less free, according to McKeown.", "el": "Κατά τον McKeown, τα όρια σε κάνουν λιγότερο ελεύθερο."}, "answer": false, "why": {"en": "He sees boundaries as a source of freedom.", "el": "Βλέπει τα όρια ως πηγή ελευθερίας."}},
+    {"s": {"en": "An essential intent should be both inspiring and concrete.", "el": "Μια ουσιαστική πρόθεση πρέπει να είναι και εμπνευσμένη και συγκεκριμένη."}, "answer": true, "why": {"en": "It must motivate and also guide clear choices.", "el": "Πρέπει να δίνει κίνητρο και να καθοδηγεί καθαρές επιλογές."}}
+  ],
+  "pairs": [
+    {"a": {"en": "Clarity paradox", "el": "Παράδοξο της διαύγειας"}, "b": {"en": "Success brings options that destroy focus", "el": "Η επιτυχία φέρνει επιλογές που διαλύουν την εστίαση"}},
+    {"a": {"en": "90 percent rule", "el": "Κανόνας του 90%"}, "b": {"en": "Not a clear yes means no", "el": "Αν δεν είναι καθαρό «ναι», είναι «όχι»"}},
+    {"a": {"en": "Sunk-cost bias", "el": "Βυθισμένο κόστος"}, "b": {"en": "Continuing because of what you already spent", "el": "Συνεχίζεις λόγω όσων έχεις ήδη ξοδέψει"}},
+    {"a": {"en": "Buffer", "el": "Περιθώριο"}, "b": {"en": "Extra time or money for surprises", "el": "Επιπλέον χρόνος ή χρήματα για απρόοπτα"}},
+    {"a": {"en": "Soft no", "el": "Μαλακό «όχι»"}, "b": {"en": "Refusing while offering a smaller alternative", "el": "Αρνείσαι αλλά προτείνεις κάτι μικρότερο"}},
+    {"a": {"en": "Essential intent", "el": "Ουσιαστική πρόθεση"}, "b": {"en": "One goal, inspiring and concrete", "el": "Ένας στόχος, εμπνευσμένος και συγκεκριμένος"}}
+  ],
+  "missions": [
+    {"en": "List every service and side project you run and pause the one that adds the least.", "el": "Γράψε κάθε υπηρεσία και side project που τρέχεις και πάγωσε αυτό που προσφέρει τα λιγότερα."},
+    {"en": "Write three ready sentences to say no gracefully to clients, friends and your team.", "el": "Γράψε τρεις έτοιμες φράσεις για να λες ευγενικά «όχι» σε πελάτες, φίλους και ομάδα."},
+    {"en": "Book a one-hour thinking block for this Friday, with a notebook and no laptop.", "el": "Κλείσε ένα μπλοκ σκέψης μίας ώρας αυτή την Παρασκευή, με τετράδιο και χωρίς laptop."},
+    {"en": "Map your process from first call to live site and circle the single biggest bottleneck.", "el": "Χαρτογράφησε τη διαδικασία από το πρώτο τηλέφωνο ως την ιστοσελίδα online και κύκλωσε το σημείο που καθυστερεί τα πάντα."},
+    {"en": "Write your agency's essential intent in one sentence and read it to someone you trust.", "el": "Γράψε την ουσιαστική πρόθεση του γραφείου σου σε μία πρόταση και διάβασέ την σε κάποιον που εμπιστεύεσαι."}
+  ],
+  "mantra": {"en": "Less, but better. If it is not a clear yes, it is a no.", "el": "Λιγότερα, αλλά καλύτερα. Αν δεν είναι καθαρό «ναι», είναι «όχι»."},
+  "careful": {
+    "en": "The advice fits people who already have options. A young founder who needs cash, or an employee with a tough boss, cannot say no as freely, and early on, saying yes to many small chances is how you discover what works. The 90 percent rule can also kill ideas that look average at first. Most examples are anecdotes, and the learned helplessness research has since been reinterpreted by Seligman himself. Use the book as a filter, not a law.",
+    "el": "Οι συμβουλές ταιριάζουν σε όσους έχουν ήδη επιλογές. Ένας νέος ιδρυτής που χρειάζεται έσοδα ή ένας υπάλληλος με δύσκολο αφεντικό δεν μπορεί να λέει «όχι» τόσο ελεύθερα, και στην αρχή, τα πολλά «ναι» σε μικρές ευκαιρίες είναι ο τρόπος να ανακαλύψεις τι δουλεύει. Ο κανόνας του 90% μπορεί επίσης να σκοτώσει ιδέες που στην αρχή μοιάζουν μέτριες. Τα περισσότερα παραδείγματα είναι ανέκδοτα, και την έρευνα για την επίκτητη αδυναμία την έχει ξαναερμηνεύσει ο ίδιος ο Seligman. Χρησιμοποίησε το βιβλίο σαν φίλτρο, όχι σαν νόμο."
+  },
+  "connects": [
+    {"book": "the-one-thing", "note": {"en": "Keller finds the one thing to say yes to; McKeown gives you the tools to say no to everything else.", "el": "Ο Keller βρίσκει το ένα πράγμα στο οποίο λες «ναι». Ο McKeown σού δίνει τα εργαλεία για να λες «όχι» σε όλα τα άλλα."}},
+    {"book": "feel-good-productivity", "note": {"en": "Abdaal's advice to do less to avoid burnout matches McKeown's, and both treat rest and play as part of good work.", "el": "Η συμβουλή του Abdaal να κάνεις λιγότερα για να μην καείς ταιριάζει με του McKeown, και οι δύο βλέπουν την ξεκούραση και το παιχνίδι ως κομμάτι της καλής δουλειάς."}},
+    {"book": "who-not-how", "note": {"en": "McKeown removes the non-essential; Sullivan hands it to the right person, two answers to the same overload.", "el": "Ο McKeown αφαιρεί το μη ουσιώδες. Ο Sullivan το δίνει στον σωστό άνθρωπο. Δύο απαντήσεις στο ίδιο παραφόρτωμα."}}
+  ]
+}
