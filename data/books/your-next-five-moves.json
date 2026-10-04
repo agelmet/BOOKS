@@ -1,0 +1,576 @@
+{
+  "id": "your-next-five-moves",
+  "title": {"en": "Your Next Five Moves", "el": "Οι επόμενες πέντε κινήσεις σου"},
+  "author": "Patrick Bet-David",
+  "authorEl": "Πάτρικ Μπετ-Ντέιβιντ",
+  "year": 2020,
+  "shelf": "business",
+  "skills": {"strategy": 3, "leadership": 2, "mindset": 2},
+  "oneLine": {
+    "en": "Run your business like a chess master: know yourself, reason clearly, build the right team, scale with systems and use power wisely, always thinking five moves ahead.",
+    "el": "Τρέξε την επιχείρησή σου σαν σκακιστής: γνώρισε τον εαυτό σου, σκέψου καθαρά, χτίσε τη σωστή ομάδα, μεγάλωσε με συστήματα και χρησιμοποίησε σωστά τη δύναμη, πάντα πέντε κινήσεις μπροστά."
+  },
+  "story": {
+    "en": "Patrick Bet-David was born in Iran, fled the war as a child, lived in a refugee camp in Germany and reached the United States at twelve. He served in the army, sold gym memberships and insurance, and in 2009 started his own insurance sales company with 66 agents. He also built Valuetainment, a large YouTube channel for entrepreneurs. This 2020 book is his practical system of five «moves» that a founder must master.",
+    "el": "Ο Patrick Bet-David γεννήθηκε στο Ιράν, έφυγε παιδί από τον πόλεμο, έζησε σε καταυλισμό προσφύγων στη Γερμανία και έφτασε στις Ηνωμένες Πολιτείες δώδεκα χρονών. Υπηρέτησε στον στρατό, πούλησε συνδρομές γυμναστηρίου και ασφάλειες, και το 2009 άνοιξε δική του εταιρεία πώλησης ασφαλειών με 66 συνεργάτες. Έφτιαξε και το Valuetainment, ένα μεγάλο κανάλι στο YouTube για επιχειρηματίες. Το βιβλίο του 2020 είναι το πρακτικό του σύστημα: πέντε «κινήσεις» που πρέπει να κατέχει ένας ιδρυτής."
+  },
+  "forYou": {
+    "en": "The author started as a salesman with no business degree and built a sales company from zero, the same road you are on. The book asks the questions you need right now: what life do you really want, which problem is the real one, who replaces you on the phone and in the building work, and how you turn 200 sites into a company that grows without eating your whole day.",
+    "el": "Ο συγγραφέας ξεκίνησε πωλητής χωρίς πτυχίο στις επιχειρήσεις και έχτισε μια εταιρεία πωλήσεων από το μηδέν, τον ίδιο δρόμο που περπατάς εσύ. Το βιβλίο κάνει τις ερωτήσεις που χρειάζεσαι τώρα: ποια ζωή θέλεις πραγματικά, ποιο είναι το αληθινό πρόβλημα, ποιος σε αντικαθιστά στο τηλέφωνο και στην κατασκευή, και πώς κάνεις τις 200 ιστοσελίδες εταιρεία που μεγαλώνει χωρίς να σου τρώει όλη τη μέρα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Chess, not checkers", "el": "Σκάκι, όχι ντάμα"},
+      "explain": {
+        "en": "Most people play business like checkers: they react to the last thing that happened and think one move ahead. Good founders play chess. Before a move they ask what the other side will do next, and what they will do after that. Five moves is the right depth. One or two moves is the amateur who gets surprised. Fifteen moves is the thinker who never acts. The order of the moves matters as much as the moves.",
+        "el": "Οι περισσότεροι παίζουν την επιχείρηση σαν ντάμα: αντιδρούν στο τελευταίο που συνέβη και σκέφτονται μία κίνηση μπροστά. Οι καλοί ιδρυτές παίζουν σκάκι. Πριν από μια κίνηση ρωτούν τι θα κάνει μετά ο άλλος, και τι θα κάνουν οι ίδιοι αμέσως μετά. Πέντε κινήσεις είναι το σωστό βάθος. Μία ή δύο κινήσεις είναι ο ερασιτέχνης που αιφνιδιάζεται. Δεκαπέντε κινήσεις είναι αυτός που σκέφτεται και δεν πράττει ποτέ. Η σειρά των κινήσεων μετρά όσο και οι ίδιες οι κινήσεις."
+      },
+      "example": {
+        "en": "In 1994 Jeff Bezos wanted to build a store that sells everything, but he did not start there. He listed about twenty product types and chose books first, because they are easy to ship and there are millions of titles. Books brought customers and trust. Music, electronics and everything else came as the next moves.",
+        "el": "Το 1994 ο Jeff Bezos ήθελε να φτιάξει ένα κατάστημα που πουλά τα πάντα, αλλά δεν ξεκίνησε από εκεί. Έγραψε περίπου είκοσι κατηγορίες προϊόντων και διάλεξε πρώτα τα βιβλία, γιατί στέλνονται εύκολα και υπάρχουν εκατομμύρια τίτλοι. Τα βιβλία έφεραν πελάτες και εμπιστοσύνη. Η μουσική, τα ηλεκτρονικά και όλα τα άλλα ήρθαν ως επόμενες κινήσεις."
+      },
+      "apply": {
+        "en": "Write your next five moves in order before you act on a big decision. For example: write down the sales call script, train one person on it, measure his results for a month, hand him your leads, use your free hours for bigger clients. Check that each move makes the next one possible.",
+        "el": "Γράψε τις επόμενες πέντε κινήσεις σου με τη σειρά πριν προχωρήσεις σε μια μεγάλη απόφαση. Για παράδειγμα: γράφεις το script των κλήσεων, εκπαιδεύεις έναν άνθρωπο πάνω του, μετράς τα αποτελέσματά του έναν μήνα, του δίνεις τα leads σου, χρησιμοποιείς τις ελεύθερες ώρες σου για μεγαλύτερους πελάτες. Έλεγξε ότι κάθε κίνηση κάνει δυνατή την επόμενη."
+      },
+      "check": {
+        "q": {"en": "Why five moves and not fifteen?", "el": "Γιατί πέντε κινήσεις και όχι δεκαπέντε;"},
+        "options": [
+          {"en": "Because planning ahead is mostly a waste", "el": "Γιατί ο σχεδιασμός είναι κυρίως χαμένος χρόνος"},
+          {"en": "Deep enough to foresee, short enough to act", "el": "Αρκετά μακριά για να προβλέψεις, αρκετά κοντά για να πράξεις"},
+          {"en": "Because chess games rarely last longer", "el": "Γιατί οι παρτίδες στο σκάκι σπάνια κρατούν περισσότερο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Too few moves and you are surprised; too many and you get stuck in analysis.", "el": "Με πολύ λίγες κινήσεις αιφνιδιάζεσαι· με πάρα πολλές κολλάς στην ανάλυση."}
+      }
+    },
+    {
+      "title": {"en": "Know who you want to be", "el": "Μάθε ποιος θέλεις να γίνεις"},
+      "explain": {
+        "en": "Move one is to master knowing yourself. Before strategy comes one question: who do you want to be? Bet-David gives a personal identity audit, a list of hard questions about your past, your pain, what you envy, what you are good and bad at. The answers show what you truly want. Then you act today like the person you plan to become. He also says to use your pain and your doubters as fuel.",
+        "el": "Η πρώτη κίνηση είναι να γνωρίσεις σε βάθος τον εαυτό σου. Πριν από τη στρατηγική υπάρχει μία ερώτηση: ποιος θέλεις να γίνεις; Ο Bet-David δίνει έναν έλεγχο προσωπικής ταυτότητας, μια λίστα με δύσκολες ερωτήσεις για το παρελθόν σου, τον πόνο σου, τι ζηλεύεις, σε τι είσαι καλός και σε τι όχι. Οι απαντήσεις δείχνουν τι θέλεις αληθινά. Μετά φέρεσαι από σήμερα σαν τον άνθρωπο που σκοπεύεις να γίνεις. Λέει ακόμα να κάνεις καύσιμο τον πόνο σου και όσους σε αμφισβητούν."
+      },
+      "example": {
+        "en": "In his early twenties Bet-David was a salesman who cared more about nightclubs than work. Then his father had a heart attack and received poor care in a public hospital, because the family could not afford better. He writes that the anger and shame of that night made him decide who he would become.",
+        "el": "Στα είκοσι κάτι του ο Bet-David ήταν ένας πωλητής που νοιαζόταν περισσότερο για τα κλαμπ παρά για τη δουλειά. Τότε ο πατέρας του έπαθε έμφραγμα και δεν είχε καλή φροντίδα σε ένα δημόσιο νοσοκομείο, γιατί η οικογένεια δεν είχε χρήματα για κάτι καλύτερο. Γράφει ότι ο θυμός και η ντροπή εκείνης της νύχτας τον έκαναν να αποφασίσει ποιος θα γίνει."
+      },
+      "apply": {
+        "en": "Block one quiet hour and answer in writing: Who do I want to be in ten years? Which moment hurt me most and what did it make me want? Who do I envy and why? Then write one habit that future person has, such as preparing every sales meeting, and begin it tomorrow.",
+        "el": "Κλείσε μία ήσυχη ώρα και απάντησε γραπτά: Ποιος θέλω να είμαι σε δέκα χρόνια; Ποια στιγμή με πόνεσε περισσότερο και τι με έκανε να θέλω; Ποιον ζηλεύω και γιατί; Μετά γράψε μία συνήθεια που έχει εκείνος ο μελλοντικός άνθρωπος, όπως το να προετοιμάζει κάθε ραντεβού πώλησης, και ξεκίνα την αύριο."
+      },
+      "check": {
+        "q": {"en": "What is the point of the personal identity audit?", "el": "Ποιος είναι ο σκοπός του ελέγχου προσωπικής ταυτότητας;"},
+        "options": [
+          {"en": "To find out honestly what you really want", "el": "Να βρεις με ειλικρίνεια τι θέλεις πραγματικά"},
+          {"en": "To prove you are better than competitors", "el": "Να αποδείξεις ότι είσαι καλύτερος από τους άλλους"},
+          {"en": "To write a nice profile for your website", "el": "Να γράψεις ένα ωραίο προφίλ για το site σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Every later move depends on knowing who you want to become; without it the strategy has no target.", "el": "Κάθε επόμενη κίνηση εξαρτάται από το ποιος θέλεις να γίνεις· χωρίς αυτό η στρατηγική δεν έχει στόχο."}
+      }
+    },
+    {
+      "title": {"en": "What drives you", "el": "Τι σε κινεί"},
+      "explain": {
+        "en": "People are pushed by different things. The book names four drivers. Advancement: the next step up, getting past survival, hitting targets. Individuality: lifestyle, freedom, status and recognition. Madness: competition, proving people wrong, wanting to be the best. Purpose: helping others, making a mark that lasts. Know your own driver, and know your «why»: do not build a business that fights against the life you want to live.",
+        "el": "Τους ανθρώπους τους σπρώχνουν διαφορετικά πράγματα. Το βιβλίο ονομάζει τέσσερα κίνητρα. Εξέλιξη: το επόμενο σκαλί, να ξεφύγεις από την επιβίωση, να πιάνεις στόχους. Ατομικότητα: τρόπος ζωής, ελευθερία, κύρος και αναγνώριση. Τρέλα: ανταγωνισμός, να διαψεύσεις όσους δεν σε πίστεψαν, να θέλεις να είσαι ο καλύτερος. Σκοπός: να βοηθάς τους άλλους, να αφήσεις κάτι που μένει. Μάθε το δικό σου κίνητρο και το «γιατί» σου: μη χτίζεις επιχείρηση που πολεμά τη ζωή που θέλεις να ζεις."
+      },
+      "example": {
+        "en": "The founders of the software company 37signals, makers of Basecamp, wanted calm work and free evenings more than maximum size. So they kept the company small on purpose, took almost no outside investment and wrote books about working reasonable hours. Their business fits the life they chose.",
+        "el": "Οι ιδρυτές της εταιρείας λογισμικού 37signals, που φτιάχνει το Basecamp, ήθελαν ήρεμη δουλειά και ελεύθερα απογεύματα περισσότερο από το μέγιστο μέγεθος. Κράτησαν λοιπόν επίτηδες την εταιρεία μικρή, δεν πήραν σχεδόν καθόλου εξωτερική χρηματοδότηση και έγραψαν βιβλία για τη δουλειά με λογικά ωράρια. Η επιχείρησή τους ταιριάζει με τη ζωή που διάλεξαν."
+      },
+      "apply": {
+        "en": "Decide which of the four drivers pushes you most today, and write the life you want in five lines: hours per week, where you live, how much you personally sell. Compare it with how Advon runs now. Ask each team member the same question, because money does not motivate everyone.",
+        "el": "Αποφάσισε ποιο από τα τέσσερα κίνητρα σε σπρώχνει περισσότερο σήμερα, και γράψε τη ζωή που θέλεις σε πέντε γραμμές: ώρες την εβδομάδα, πού ζεις, πόσο πουλάς ο ίδιος. Σύγκρινέ το με το πώς τρέχει τώρα η Advon. Κάνε την ίδια ερώτηση σε κάθε μέλος της ομάδας, γιατί τα χρήματα δεν κινητοποιούν τους πάντες."
+      },
+      "check": {
+        "q": {"en": "Why must you know your «why» before you scale?", "el": "Γιατί πρέπει να ξέρεις το «γιατί» σου πριν μεγαλώσεις;"},
+        "options": [
+          {"en": "Because investors always ask for it first", "el": "Γιατί οι επενδυτές το ζητούν πάντα πρώτο"},
+          {"en": "Because it makes a good advertising slogan", "el": "Γιατί γίνεται καλό διαφημιστικό σύνθημα"},
+          {"en": "So the business does not fight the life you want", "el": "Για να μην πολεμά η επιχείρηση τη ζωή που θέλεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "A business built against your own wishes becomes a prison, even when it makes money.", "el": "Μια επιχείρηση χτισμένη κόντρα σε όσα θέλεις γίνεται φυλακή, ακόμα κι όταν βγάζει χρήματα."}
+      }
+    },
+    {
+      "title": {"en": "The intrapreneur", "el": "Ο ενδοεπιχειρηματίας"},
+      "explain": {
+        "en": "Not everybody should start a company, and that is fine. An intrapreneur is a person who thinks and acts like an owner inside somebody else's company. He builds new things, takes responsibility and is paid well, often with a share of the results, but without carrying the full risk. For a founder the lesson is double: be honest about which path suits you, and give your best people room and rewards to act like owners.",
+        "el": "Δεν πρέπει όλοι να ανοίξουν δική τους εταιρεία, και δεν πειράζει. Ενδοεπιχειρηματίας (intrapreneur) είναι αυτός που σκέφτεται και δρα σαν ιδιοκτήτης μέσα στην εταιρεία κάποιου άλλου. Χτίζει νέα πράγματα, αναλαμβάνει ευθύνη και πληρώνεται καλά, συχνά με μερίδιο από το αποτέλεσμα, χωρίς όμως να σηκώνει όλο το ρίσκο. Για έναν ιδρυτή το μάθημα είναι διπλό: δες ειλικρινά ποιος δρόμος σου ταιριάζει, και δώσε στους καλύτερούς σου χώρο και ανταμοιβή για να φέρονται σαν ιδιοκτήτες."
+      },
+      "example": {
+        "en": "Ken Kutaragi was an engineer employed by Sony. He pushed for a video game console when many managers thought games were toys and beneath the company. He won the support of Sony's president, and the PlayStation, launched in 1994, became one of the most profitable products in Sony's history.",
+        "el": "Ο Ken Kutaragi ήταν μηχανικός, υπάλληλος της Sony. Πίεσε για μια κονσόλα βιντεοπαιχνιδιών όταν πολλά στελέχη θεωρούσαν τα παιχνίδια κάτι παιδικό και κατώτερο της εταιρείας. Κέρδισε τη στήριξη του προέδρου της Sony, και το PlayStation, που βγήκε το 1994, έγινε ένα από τα πιο κερδοφόρα προϊόντα στην ιστορία της."
+      },
+      "apply": {
+        "en": "Give one capable person full ownership of a piece of Advon, for example all client changes or all ad creatives, with a clear number to hit and a bonus tied to it. Let him decide how. Judge the result, not the method, and praise in public when he acts like an owner.",
+        "el": "Δώσε σε έναν ικανό άνθρωπο πλήρη ευθύνη για ένα κομμάτι της Advon, για παράδειγμα όλες τις αλλαγές πελατών ή όλα τα διαφημιστικά, με έναν καθαρό αριθμό-στόχο και μπόνους δεμένο με αυτόν. Άφησέ τον να αποφασίσει το πώς. Κρίνε το αποτέλεσμα, όχι τη μέθοδο, και επαίνεσέ τον δημόσια όταν φέρεται σαν ιδιοκτήτης."
+      },
+      "check": {
+        "q": {"en": "Who is an intrapreneur?", "el": "Ποιος είναι ενδοεπιχειρηματίας;"},
+        "options": [
+          {"en": "A founder who runs several companies", "el": "Ένας ιδρυτής που τρέχει πολλές εταιρείες"},
+          {"en": "An employee who acts like an owner", "el": "Ένας υπάλληλος που φέρεται σαν ιδιοκτήτης"},
+          {"en": "An investor who funds young startups", "el": "Ένας επενδυτής που χρηματοδοτεί νέες startup"}
+        ],
+        "answer": 1,
+        "why": {"en": "He builds and takes responsibility inside an existing company instead of starting his own.", "el": "Χτίζει και αναλαμβάνει ευθύνη μέσα σε μια υπάρχουσα εταιρεία αντί να ανοίξει δική του."}
+      }
+    },
+    {
+      "title": {"en": "Investment, Time, Return", "el": "Επένδυση, Χρόνος, Απόδοση"},
+      "explain": {
+        "en": "Move two is to master reasoning. A good «processor» of problems does not play the victim. He asks first what part he played in the problem himself. Then he weighs each option with three numbers, called ITR: the Investment it needs in money and effort, the Time it takes, and the Return it can bring. Start from the ideal outcome you want, look at the true facts, and compare risk with reward.",
+        "el": "Η δεύτερη κίνηση είναι να μάθεις να σκέφτεσαι σωστά. Αυτός που «επεξεργάζεται» καλά τα προβλήματα δεν το παίζει θύμα. Ρωτά πρώτα ποιο ήταν το δικό του μερίδιο στο πρόβλημα. Μετά ζυγίζει κάθε επιλογή με τρεις αριθμούς, το ITR: την Επένδυση που θέλει σε χρήμα και κόπο, τον Χρόνο που παίρνει, και την Απόδοση που μπορεί να φέρει. Ξεκίνα από το ιδανικό αποτέλεσμα που θέλεις, δες τα αληθινά δεδομένα και σύγκρινε το ρίσκο με το όφελος."
+      },
+      "example": {
+        "en": "An everyday case: a shop owner chooses between a new coffee machine and an extra employee. The machine costs a fixed sum once, works from next week and saves one hour a day. The employee costs a salary every month and needs two months of training. Written side by side, the choice becomes clear.",
+        "el": "Ένα καθημερινό παράδειγμα: ένας καταστηματάρχης διαλέγει ανάμεσα σε νέα μηχανή καφέ και έναν επιπλέον υπάλληλο. Η μηχανή κοστίζει ένα ποσό μία φορά, δουλεύει από την άλλη εβδομάδα και γλιτώνει μία ώρα την ημέρα. Ο υπάλληλος κοστίζει μισθό κάθε μήνα και θέλει δύο μήνες εκπαίδευση. Γραμμένα δίπλα δίπλα, η επιλογή γίνεται φανερή."
+      },
+      "apply": {
+        "en": "Put every bigger decision in a three-column table: investment, time, return. Compare, for example, doubling the ad budget with hiring a second caller. Write real numbers, even rough ones. Before you blame a client or the market for a lost deal, write first what you could have done differently.",
+        "el": "Βάλε κάθε μεγαλύτερη απόφαση σε έναν πίνακα με τρεις στήλες: επένδυση, χρόνος, απόδοση. Σύγκρινε, για παράδειγμα, τον διπλασιασμό του διαφημιστικού budget με την πρόσληψη δεύτερου ανθρώπου στα τηλέφωνα. Γράψε πραγματικούς αριθμούς, έστω στο περίπου. Πριν κατηγορήσεις τον πελάτη ή την αγορά για μια χαμένη συμφωνία, γράψε πρώτα τι θα μπορούσες να είχες κάνει αλλιώς."
+      },
+      "check": {
+        "q": {"en": "What does ITR help you do?", "el": "Σε τι σε βοηθά το ITR;"},
+        "options": [
+          {"en": "Find someone to blame for a failure", "el": "Να βρεις ποιος φταίει για μια αποτυχία"},
+          {"en": "Predict what competitors will do next", "el": "Να προβλέψεις τι θα κάνουν οι ανταγωνιστές"},
+          {"en": "Compare options by cost, time and payoff", "el": "Να συγκρίνεις επιλογές με κόστος, χρόνο και όφελος"}
+        ],
+        "answer": 2,
+        "why": {"en": "It turns a vague feeling into three numbers you can compare side by side.", "el": "Κάνει ένα θολό συναίσθημα τρεις αριθμούς που μπορείς να συγκρίνεις δίπλα δίπλα."}
+      }
+    },
+    {
+      "title": {"en": "Solve for X", "el": "Λύσε ως προς Χ"},
+      "explain": {
+        "en": "Treat a problem like an equation in maths: find the unknown X, the root cause, instead of fighting the symptoms. Bet-David uses three steps. Investigate: how urgent is it, what does it really cost, what is the true cause and who knows most about it. Solve: list possible solutions and the side effects of each. Implement: decide who does what by when, and what new rule stops it from happening again.",
+        "el": "Δες το πρόβλημα σαν εξίσωση στα μαθηματικά: βρες τον άγνωστο Χ, τη ρίζα, αντί να παλεύεις με τα συμπτώματα. Ο Bet-David χρησιμοποιεί τρία βήματα. Έρευνα: πόσο επείγον είναι, τι κοστίζει στ' αλήθεια, ποια είναι η πραγματική αιτία και ποιος ξέρει τα περισσότερα γι' αυτό. Λύση: γράψε τις πιθανές λύσεις και τις παρενέργειες της καθεμιάς. Εφαρμογή: όρισε ποιος κάνει τι και ως πότε, και ποιος νέος κανόνας εμποδίζει να ξανασυμβεί."
+      },
+      "example": {
+        "en": "Toyota trains its workers to ask «why» five times. A machine stopped. Why? A fuse blew. Why? The bearing was not oiled. Why? The oil pump failed. Why? Its shaft was worn. Why? Metal scraps got in. The fix is a filter on the pump, not a new fuse.",
+        "el": "Η Toyota εκπαιδεύει τους εργάτες της να ρωτούν «γιατί» πέντε φορές. Σταμάτησε μια μηχανή. Γιατί; Κάηκε μια ασφάλεια. Γιατί; Το ρουλεμάν δεν είχε λάδι. Γιατί; Χάλασε η αντλία λαδιού. Γιατί; Φθάρηκε ο άξονάς της. Γιατί; Μπήκαν μέσα ρινίσματα. Η λύση είναι ένα φίλτρο στην αντλία, όχι μια καινούργια ασφάλεια."
+      },
+      "apply": {
+        "en": "Take your most repeated problem, for example clients who delay sending photos and texts. Ask why five times until you reach the root, perhaps that nobody tells them on day one exactly what to send and by when. Fix that one cause with a rule and measure the delay again in a month.",
+        "el": "Πάρε το πρόβλημα που επαναλαμβάνεται πιο συχνά, για παράδειγμα πελάτες που αργούν να στείλουν φωτογραφίες και κείμενα. Ρώτα γιατί πέντε φορές ώσπου να φτάσεις στη ρίζα, ίσως ότι κανείς δεν τους λέει από την πρώτη μέρα τι ακριβώς να στείλουν και ως πότε. Διόρθωσε αυτή τη μία αιτία με έναν κανόνα και ξαναμέτρησε την καθυστέρηση σε έναν μήνα."
+      },
+      "check": {
+        "q": {"en": "What is the X you are solving for?", "el": "Ποιο είναι το Χ που ψάχνεις να λύσεις;"},
+        "options": [
+          {"en": "The root cause behind the symptoms", "el": "Η ρίζα που κρύβεται πίσω από τα συμπτώματα"},
+          {"en": "The person who made the mistake", "el": "Ο άνθρωπος που έκανε το λάθος"},
+          {"en": "The quickest way to calm the client", "el": "Ο πιο γρήγορος τρόπος να ηρεμήσει ο πελάτης"}
+        ],
+        "answer": 0,
+        "why": {"en": "Fixing symptoms means the problem returns; fixing the root variable ends it.", "el": "Αν διορθώνεις συμπτώματα, το πρόβλημα ξαναγυρίζει· αν διορθώσεις τη ρίζα, τελειώνει."}
+      }
+    },
+    {
+      "title": {"en": "Bigger problems, bigger rewards", "el": "Μεγάλα προβλήματα, μεγάλη αμοιβή"},
+      "explain": {
+        "en": "The market pays you according to the size and number of problems you solve for other people. Someone who solves small problems earns little. Someone who can take on big, painful, expensive problems earns a lot. So problems are not a sign that something is wrong with your business. They are the product. Each problem you learn to solve goes into your catalog, and a richer catalog makes you worth more.",
+        "el": "Η αγορά σε πληρώνει ανάλογα με το μέγεθος και το πλήθος των προβλημάτων που λύνεις για τους άλλους. Όποιος λύνει μικρά προβλήματα κερδίζει λίγα. Όποιος μπορεί να αναλάβει μεγάλα, επώδυνα, ακριβά προβλήματα κερδίζει πολλά. Άρα τα προβλήματα δεν είναι σημάδι ότι κάτι πάει στραβά στη δουλειά σου. Είναι το προϊόν. Κάθε πρόβλημα που μαθαίνεις να λύνεις μπαίνει στον κατάλογό σου, και ένας πλουσιότερος κατάλογος σε κάνει να αξίζεις περισσότερο."
+      },
+      "example": {
+        "en": "Amazon had a huge internal problem: running enough reliable servers for its own store. It solved it so well that in 2006 it began renting the same solution to other companies as Amazon Web Services. That business later became Amazon's most profitable part.",
+        "el": "Η Amazon είχε ένα τεράστιο εσωτερικό πρόβλημα: να τρέχει αρκετούς αξιόπιστους servers για το δικό της κατάστημα. Το έλυσε τόσο καλά που το 2006 άρχισε να νοικιάζει την ίδια λύση σε άλλες εταιρείες, ως Amazon Web Services. Αυτή η δραστηριότητα έγινε αργότερα το πιο κερδοφόρο κομμάτι της Amazon."
+      },
+      "apply": {
+        "en": "Ask each professional in a sales meeting what his most expensive problem is: empty appointment slots, patients who cannot find him on Google, a weak image next to a competitor. Sell the solution to that problem, not «a website». Keep a written list of the problems you now know how to solve.",
+        "el": "Ρώτα κάθε επαγγελματία στο ραντεβού πώλησης ποιο είναι το πιο ακριβό του πρόβλημα: άδεια ραντεβού, ασθενείς που δεν τον βρίσκουν στο Google, αδύναμη εικόνα δίπλα σε έναν ανταγωνιστή. Πούλα τη λύση σε αυτό το πρόβλημα, όχι «μια ιστοσελίδα». Κράτα γραπτή λίστα με τα προβλήματα που ξέρεις πια να λύνεις."
+      },
+      "check": {
+        "q": {"en": "According to the book, what decides how much you earn?", "el": "Σύμφωνα με το βιβλίο, τι καθορίζει πόσα κερδίζεις;"},
+        "options": [
+          {"en": "How many hours a week you work", "el": "Πόσες ώρες την εβδομάδα δουλεύεις"},
+          {"en": "How big the problems you solve are", "el": "Πόσο μεγάλα είναι τα προβλήματα που λύνεις"},
+          {"en": "How many years you have been in business", "el": "Πόσα χρόνια είσαι στην αγορά"}
+        ],
+        "answer": 1,
+        "why": {"en": "People pay for solved problems, and they pay most for the big, painful ones.", "el": "Ο κόσμος πληρώνει για λυμένα προβλήματα, και πληρώνει περισσότερο για τα μεγάλα και επώδυνα."}
+      }
+    },
+    {
+      "title": {"en": "Hire people better than you", "el": "Πάρε καλύτερους από σένα"},
+      "explain": {
+        "en": "Move three is to master building the right team. The lone founder who does everything is a myth that keeps companies small. Your job is to replace yourself, task by task, with people who do each thing better than you do. Each time you are replaced in one role you are free to move up to work of higher value. To keep such people, give them a path, a share of the success and real responsibility.",
+        "el": "Η τρίτη κίνηση είναι να χτίσεις τη σωστή ομάδα. Ο μοναχικός ιδρυτής που τα κάνει όλα είναι ένας μύθος που κρατά τις εταιρείες μικρές. Η δουλειά σου είναι να αντικαθιστάς τον εαυτό σου, δουλειά προς δουλειά, με ανθρώπους που κάνουν το καθετί καλύτερα από σένα. Κάθε φορά που κάποιος σε αντικαθιστά σε έναν ρόλο, ελευθερώνεσαι για δουλειά μεγαλύτερης αξίας. Για να κρατήσεις τέτοιους ανθρώπους, δώσε τους προοπτική, μερίδιο από την επιτυχία και πραγματική ευθύνη."
+      },
+      "example": {
+        "en": "The advertising legend David Ogilvy gave each new manager a set of Russian dolls. Inside the smallest was a note: if each of us hires people smaller than ourselves, we become a company of dwarfs; if we hire people bigger than ourselves, we become a company of giants.",
+        "el": "Ο θρύλος της διαφήμισης David Ogilvy έδινε σε κάθε νέο διευθυντή ένα σετ ρωσικές κούκλες. Μέσα στη μικρότερη υπήρχε ένα σημείωμα: αν ο καθένας μας προσλαμβάνει ανθρώπους μικρότερους από τον ίδιο, θα γίνουμε εταιρεία νάνων· αν προσλαμβάνουμε μεγαλύτερους από εμάς, θα γίνουμε εταιρεία γιγάντων."
+      },
+      "apply": {
+        "en": "List everything you did last week and mark the tasks someone else could do at least as well: site changes, follow-up messages, invoices. Choose the one that eats the most hours and find a person who is better at it than you. Use the freed hours only for selling and for leading.",
+        "el": "Γράψε όλα όσα έκανες την περασμένη εβδομάδα και σημείωσε τις δουλειές που κάποιος άλλος θα έκανε εξίσου καλά ή καλύτερα: αλλαγές σε ιστοσελίδες, μηνύματα follow-up, τιμολόγια. Διάλεξε αυτή που σου τρώει τις περισσότερες ώρες και βρες άνθρωπο που είναι καλύτερος από σένα σε αυτήν. Τις ώρες που ελευθερώνονται δώσε τες μόνο σε πωλήσεις και ηγεσία."
+      },
+      "check": {
+        "q": {"en": "What is the goal of the «replacement game»?", "el": "Ποιος είναι ο στόχος στο «παιχνίδι της αντικατάστασης»;"},
+        "options": [
+          {"en": "To change weak employees every few months", "el": "Να αλλάζεις τους αδύναμους υπαλλήλους κάθε λίγους μήνες"},
+          {"en": "To keep the key tasks in your own hands", "el": "Να κρατάς τις βασικές δουλειές στα δικά σου χέρια"},
+          {"en": "To hand each role to someone better and move up", "el": "Να δίνεις κάθε ρόλο σε κάποιον καλύτερο και να ανεβαίνεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "You grow only when others take over what you do, so that you can do work of higher value.", "el": "Μεγαλώνεις μόνο όταν άλλοι αναλαμβάνουν αυτά που κάνεις, ώστε εσύ να κάνεις δουλειά μεγαλύτερης αξίας."}
+      }
+    },
+    {
+      "title": {"en": "Trust equals speed", "el": "Εμπιστοσύνη ίσον ταχύτητα"},
+      "explain": {
+        "en": "When trust is high, everything moves fast: decisions take one phone call, people act without waiting for approval. When trust is low, everything is slow and expensive: checks, meetings, contracts, micromanagement. But trust is not given blindly to everyone at the same level. It is built step by step and earned with results. The more a person proves himself, the more freedom he gets, and the faster the whole company moves.",
+        "el": "Όταν υπάρχει μεγάλη εμπιστοσύνη, όλα κινούνται γρήγορα: οι αποφάσεις παίρνονται με ένα τηλεφώνημα, οι άνθρωποι πράττουν χωρίς να περιμένουν έγκριση. Όταν η εμπιστοσύνη είναι μικρή, όλα είναι αργά και ακριβά: έλεγχοι, συναντήσεις, συμβόλαια, micromanagement. Η εμπιστοσύνη όμως δεν δίνεται στα τυφλά σε όλους στον ίδιο βαθμό. Χτίζεται βήμα βήμα και κερδίζεται με αποτελέσματα. Όσο περισσότερο αποδεικνύει κάποιος την αξία του, τόσο περισσότερη ελευθερία παίρνει, και τόσο πιο γρήγορα κινείται όλη η εταιρεία."
+      },
+      "example": {
+        "en": "In 2003 Warren Buffett bought the distribution company McLane from Walmart. Because the two sides trusted each other, the deal was agreed in a single meeting of about two hours and completed in less than a month, without the long and costly checking that such deals normally need.",
+        "el": "Το 2003 ο Warren Buffett αγόρασε την εταιρεία διανομής McLane από τη Walmart. Επειδή οι δύο πλευρές εμπιστεύονταν η μία την άλλη, η συμφωνία κλείστηκε σε μία συνάντηση περίπου δύο ωρών και ολοκληρώθηκε σε λιγότερο από έναν μήνα, χωρίς τον μακρύ και ακριβό έλεγχο που θέλουν συνήθως τέτοιες συμφωνίες."
+      },
+      "apply": {
+        "en": "Write for each collaborator what he may now decide alone: reply to clients, small design choices, publishing changes. Widen that list each time he delivers well. Notice where you still check every detail out of habit, and stop in one area this week. Build the same trust with clients by keeping every small promise.",
+        "el": "Γράψε για κάθε συνεργάτη τι μπορεί πια να αποφασίζει μόνος του: απαντήσεις σε πελάτες, μικρές σχεδιαστικές επιλογές, δημοσίευση αλλαγών. Μεγάλωνε τη λίστα κάθε φορά που παραδίδει σωστά. Πρόσεξε πού ελέγχεις ακόμα κάθε λεπτομέρεια από συνήθεια, και σταμάτα σε έναν τομέα αυτή την εβδομάδα. Χτίσε την ίδια εμπιστοσύνη με τους πελάτες κρατώντας κάθε μικρή υπόσχεση."
+      },
+      "check": {
+        "q": {"en": "What does micromanagement do to a company?", "el": "Τι κάνει το micromanagement σε μια εταιρεία;"},
+        "options": [
+          {"en": "It slows everything and shows low trust", "el": "Τα καθυστερεί όλα και δείχνει λίγη εμπιστοσύνη"},
+          {"en": "It guarantees quality at no extra cost", "el": "Εξασφαλίζει ποιότητα χωρίς επιπλέον κόστος"},
+          {"en": "It makes people feel safe and loyal", "el": "Κάνει τους ανθρώπους να νιώθουν ασφαλείς και πιστοί"}
+        ],
+        "answer": 0,
+        "why": {"en": "Every extra check is a tax on speed; trust earned by results removes that tax.", "el": "Κάθε επιπλέον έλεγχος είναι φόρος στην ταχύτητα· η εμπιστοσύνη που κερδίζεται με αποτελέσματα τον αφαιρεί."}
+      }
+    },
+    {
+      "title": {"en": "Family loyalty, pro standards", "el": "Δέσιμο οικογένειας, επαγγελματικά στάνταρ"},
+      "explain": {
+        "en": "A strong culture joins two things that seem opposite. The warmth of a family: people know you care about them, you know what moves each one, you stand by them in hard moments. And the standards of a professional team: clear principles, clear numbers, and honest talk when someone falls below them. Care without accountability makes a soft company. Accountability without care makes a cold one that people leave.",
+        "el": "Μια δυνατή κουλτούρα ενώνει δύο πράγματα που μοιάζουν αντίθετα. Τη ζεστασιά της οικογένειας: οι άνθρωποι ξέρουν ότι νοιάζεσαι, ξέρεις τι κινεί τον καθένα, είσαι δίπλα τους στα δύσκολα. Και τα στάνταρ μιας επαγγελματικής ομάδας: καθαρές αρχές, καθαροί αριθμοί, και ειλικρινής κουβέντα όταν κάποιος πέφτει κάτω από αυτά. Νοιάξιμο χωρίς λογοδοσία φτιάχνει χαλαρή εταιρεία. Λογοδοσία χωρίς νοιάξιμο φτιάχνει ψυχρή εταιρεία, από όπου ο κόσμος φεύγει."
+      },
+      "example": {
+        "en": "Alex Ferguson at Manchester United defended his players in public like a father and knew their families. But when a star stopped serving the team's standards, he let him go, even David Beckham in 2003 and captain Roy Keane in 2005. He won thirteen league titles in twenty-six years.",
+        "el": "Ο Alex Ferguson στη Manchester United υπερασπιζόταν τους παίκτες του δημόσια σαν πατέρας και γνώριζε τις οικογένειές τους. Όταν όμως ένας αστέρας έπαυε να υπηρετεί τα στάνταρ της ομάδας, τον άφηνε να φύγει, ακόμα και τον David Beckham το 2003 και τον αρχηγό Roy Keane το 2005. Κέρδισε δεκατρία πρωταθλήματα σε είκοσι έξι χρόνια."
+      },
+      "apply": {
+        "en": "Write five principles of how Advon works, for example «we answer every client within one working day». Share them with the team. When someone breaks one, speak to him the same day, in private, kindly and plainly. In the same week ask him something about his life and remember the answer.",
+        "el": "Γράψε πέντε αρχές για το πώς δουλεύει η Advon, για παράδειγμα «απαντάμε σε κάθε πελάτη μέσα σε μία εργάσιμη». Μοιράσου τες με την ομάδα. Όταν κάποιος παραβεί μία, μίλησέ του την ίδια μέρα, ιδιαιτέρως, με καλοσύνη και καθαρά. Την ίδια εβδομάδα ρώτα τον κάτι για τη ζωή του και θυμήσου την απάντηση."
+      },
+      "check": {
+        "q": {"en": "What mix does a strong culture need?", "el": "Ποιο μείγμα χρειάζεται μια δυνατή κουλτούρα;"},
+        "options": [
+          {"en": "Strict rules and distance from the team", "el": "Αυστηρούς κανόνες και απόσταση από την ομάδα"},
+          {"en": "Real care together with clear accountability", "el": "Αληθινό νοιάξιμο μαζί με καθαρή λογοδοσία"},
+          {"en": "Friendship that avoids any hard talk", "el": "Φιλία που αποφεύγει κάθε δύσκολη κουβέντα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Each half alone fails: only warmth makes a soft team, only pressure makes people leave.", "el": "Το κάθε μισό μόνο του αποτυγχάνει: μόνο ζεστασιά φτιάχνει χαλαρή ομάδα, μόνο πίεση διώχνει τον κόσμο."}
+      }
+    },
+    {
+      "title": {"en": "Linear or exponential growth", "el": "Γραμμική ή εκθετική ανάπτυξη"},
+      "explain": {
+        "en": "Move four is to master the strategy to scale. Linear growth means you add a little more by working a little more: more calls by you, more hours by you. It has a ceiling, your own day. Exponential growth comes when you build things that multiply: systems that others can follow, leaders who lead others, technology and capital. To do it you must track your numbers closely, because you cannot improve what you do not measure.",
+        "el": "Η τέταρτη κίνηση είναι η στρατηγική για να μεγαλώσεις. Γραμμική ανάπτυξη σημαίνει ότι προσθέτεις λίγο ακόμα δουλεύοντας λίγο ακόμα: περισσότερες κλήσεις από σένα, περισσότερες ώρες από σένα. Έχει ταβάνι, τη δική σου μέρα. Η εκθετική ανάπτυξη έρχεται όταν χτίζεις πράγματα που πολλαπλασιάζουν: συστήματα που μπορούν να ακολουθούν άλλοι, ηγέτες που οδηγούν άλλους, τεχνολογία και κεφάλαιο. Για να το πετύχεις πρέπει να παρακολουθείς στενά τους αριθμούς σου, γιατί δεν βελτιώνεις ό,τι δεν μετράς."
+      },
+      "example": {
+        "en": "In 1954 Ray Kroc, a milkshake-machine salesman, visited the McDonald brothers' single restaurant in California. The brothers had a brilliant kitchen system but grew slowly. Kroc turned the system into a manual that any franchise owner could copy, and the chain grew to thousands of restaurants.",
+        "el": "Το 1954 ο Ray Kroc, πωλητής μηχανών για μιλκσέικ, επισκέφθηκε το ένα και μοναδικό εστιατόριο των αδελφών McDonald στην Καλιφόρνια. Οι αδελφοί είχαν ένα εξαιρετικό σύστημα κουζίνας αλλά μεγάλωναν αργά. Ο Kroc έκανε το σύστημα εγχειρίδιο που μπορούσε να αντιγράψει κάθε franchise, και η αλυσίδα έφτασε τα χιλιάδες εστιατόρια."
+      },
+      "apply": {
+        "en": "Sort your work into two lists. Linear: what grows only when you personally do more, such as your own calls. Exponential: what multiplies, such as a recorded sales script, an AI build process others can run, a referral reward for clients. Spend at least five hours a week only on the second list.",
+        "el": "Χώρισε τη δουλειά σου σε δύο λίστες. Γραμμικά: όσα μεγαλώνουν μόνο όταν κάνεις εσύ ο ίδιος περισσότερα, όπως οι δικές σου κλήσεις. Εκθετικά: όσα πολλαπλασιάζουν, όπως ένα γραμμένο script πωλήσεων, μια διαδικασία κατασκευής με AI που τρέχουν και άλλοι, μια ανταμοιβή συστάσεων για πελάτες. Δώσε τουλάχιστον πέντε ώρες την εβδομάδα μόνο στη δεύτερη λίστα."
+      },
+      "check": {
+        "q": {"en": "What makes growth exponential?", "el": "Τι κάνει την ανάπτυξη εκθετική;"},
+        "options": [
+          {"en": "Systems and leaders that multiply your effort", "el": "Συστήματα και ηγέτες που πολλαπλασιάζουν την προσπάθειά σου"},
+          {"en": "Working more hours yourself every week", "el": "Να δουλεύεις εσύ περισσότερες ώρες κάθε εβδομάδα"},
+          {"en": "Lowering prices to win more clients", "el": "Να ρίχνεις τις τιμές για να φέρεις πελάτες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Your own hours are limited; systems, leaders and technology keep working when you stop.", "el": "Οι δικές σου ώρες έχουν όριο· τα συστήματα, οι ηγέτες και η τεχνολογία δουλεύουν και όταν εσύ σταματάς."}
+      }
+    },
+    {
+      "title": {"en": "The four phases", "el": "Οι τέσσερις φάσεις"},
+      "explain": {
+        "en": "A business passes through four phases. Formulation: the idea and the first steps. Survival: the fight to bring in enough cash to stay alive. Momentum: things click and growth comes fast, which is also when ego and careless spending appear. Plateau: growth stops, and the company must reinvent itself or slowly decline. Each phase needs a different you. Know which phase you are in, and stay a little paranoid in the good ones.",
+        "el": "Μια επιχείρηση περνά από τέσσερις φάσεις. Διαμόρφωση: η ιδέα και τα πρώτα βήματα. Επιβίωση: ο αγώνας να μπαίνουν αρκετά χρήματα για να μείνεις ζωντανός. Φόρα: όλα δένουν και η ανάπτυξη έρχεται γρήγορα, και τότε εμφανίζονται ο εγωισμός και τα απρόσεκτα έξοδα. Στασιμότητα: η ανάπτυξη σταματά, και η εταιρεία πρέπει να ανανεωθεί ή να φθίνει σιγά σιγά. Κάθε φάση θέλει έναν διαφορετικό εσένα. Μάθε σε ποια φάση βρίσκεσαι, και μείνε λίγο καχύποπτος στις καλές."
+      },
+      "example": {
+        "en": "Blockbuster ruled video rental with thousands of stores and then reached its plateau. In 2000 the small company Netflix offered to sell itself for about 50 million dollars, and Blockbuster's managers refused. Blockbuster did not reinvent itself in time and went bankrupt in 2010.",
+        "el": "Η Blockbuster κυριαρχούσε στην ενοικίαση ταινιών με χιλιάδες καταστήματα και μετά έφτασε στη στασιμότητα. Το 2000 η μικρή τότε Netflix πρότεινε να πουληθεί για περίπου 50 εκατομμύρια δολάρια, και η διοίκηση της Blockbuster αρνήθηκε. Η Blockbuster δεν ανανεώθηκε έγκαιρα και χρεοκόπησε το 2010."
+      },
+      "apply": {
+        "en": "Name your phase honestly. With 200+ sites and steady sales you are probably leaving survival and entering momentum. So watch the dangers of momentum: do not raise your fixed costs quickly, do not relax on calls, and write now what you would do if sales stayed flat for six months.",
+        "el": "Πες ειλικρινά σε ποια φάση είσαι. Με 200+ ιστοσελίδες και σταθερές πωλήσεις μάλλον βγαίνεις από την επιβίωση και μπαίνεις στη φόρα. Πρόσεξε λοιπόν τους κινδύνους της φόρας: μην ανεβάζεις γρήγορα τα σταθερά έξοδα, μη χαλαρώνεις στα τηλέφωνα, και γράψε από τώρα τι θα έκανες αν οι πωλήσεις έμεναν στάσιμες έξι μήνες."
+      },
+      "check": {
+        "q": {"en": "What is the main danger in the momentum phase?", "el": "Ποιος είναι ο βασικός κίνδυνος στη φάση της φόρας;"},
+        "options": [
+          {"en": "There are too few customers to survive", "el": "Υπάρχουν πολύ λίγοι πελάτες για να επιβιώσεις"},
+          {"en": "The idea is not yet clear enough", "el": "Η ιδέα δεν είναι ακόμα αρκετά καθαρή"},
+          {"en": "Ego and careless spending when things go well", "el": "Εγωισμός και απρόσεκτα έξοδα όταν όλα πάνε καλά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Success makes founders relax and overspend, which is how momentum turns into a plateau.", "el": "Η επιτυχία κάνει τους ιδρυτές να χαλαρώνουν και να ξοδεύουν, κι έτσι η φόρα γίνεται στασιμότητα."}
+      }
+    },
+    {
+      "title": {"en": "Cash is courage", "el": "Τα μετρητά δίνουν θάρρος"},
+      "explain": {
+        "en": "A founder with no money in the bank decides out of fear. He accepts bad clients, gives discounts, cannot say no and cannot wait. A founder with a war chest, a reserve of cash kept for hard times and big chances, decides calmly. He can survive a bad quarter, keep his best people and attack when competitors are weak. So keep costs low and build the reserve before you need it.",
+        "el": "Ο ιδρυτής που δεν έχει χρήματα στην τράπεζα αποφασίζει από φόβο. Δέχεται κακούς πελάτες, δίνει εκπτώσεις, δεν μπορεί να πει όχι και δεν μπορεί να περιμένει. Ο ιδρυτής με πολεμικό ταμείο, ένα απόθεμα μετρητών για δύσκολες ώρες και μεγάλες ευκαιρίες, αποφασίζει ήρεμα. Αντέχει ένα κακό τρίμηνο, κρατά τους καλύτερούς του ανθρώπους και επιτίθεται όταν οι ανταγωνιστές είναι αδύναμοι. Γι' αυτό κράτα χαμηλά τα έξοδα και χτίσε το απόθεμα πριν το χρειαστείς."
+      },
+      "example": {
+        "en": "In September 2008, in the middle of the financial crisis, almost nobody had cash to lend or invest. Warren Buffett's Berkshire Hathaway did. He put 5 billion dollars into Goldman Sachs on very good terms for himself, a deal only someone with a full war chest could make.",
+        "el": "Τον Σεπτέμβριο του 2008, στη μέση της οικονομικής κρίσης, σχεδόν κανείς δεν είχε μετρητά να δανείσει ή να επενδύσει. Η Berkshire Hathaway του Warren Buffett είχε. Έβαλε 5 δισεκατομμύρια δολάρια στη Goldman Sachs με πολύ καλούς όρους για τον ίδιο, μια συμφωνία που μπορούσε να κάνει μόνο όποιος είχε γεμάτο ταμείο."
+      },
+      "apply": {
+        "en": "Open a separate account and move a fixed share of every payment there before you spend anything. Set a target of several months of fixed costs. Notice the next time you feel like accepting a difficult client or a bad price out of worry, and ask whether you would accept with a full reserve.",
+        "el": "Άνοιξε έναν ξεχωριστό λογαριασμό και μετάφερε εκεί ένα σταθερό ποσοστό από κάθε είσπραξη πριν ξοδέψεις οτιδήποτε. Βάλε στόχο αρκετούς μήνες σταθερών εξόδων. Πρόσεξε την επόμενη φορά που θα θέλεις να δεχτείς έναν δύσκολο πελάτη ή μια κακή τιμή από άγχος, και ρώτα αν θα δεχόσουν με γεμάτο ταμείο."
+      },
+      "check": {
+        "q": {"en": "Why does the book say «cash is courage»?", "el": "Γιατί λέει το βιβλίο ότι τα μετρητά δίνουν θάρρος;"},
+        "options": [
+          {"en": "Rich founders are braver people by nature", "el": "Οι πλούσιοι ιδρυτές είναι από τη φύση τους γενναίοι"},
+          {"en": "A reserve lets you decide calmly, not from fear", "el": "Το απόθεμα σε αφήνει να αποφασίζεις ήρεμα, όχι από φόβο"},
+          {"en": "Spending a lot shows clients you are strong", "el": "Τα πολλά έξοδα δείχνουν στους πελάτες ότι είσαι δυνατός"}
+        ],
+        "answer": 1,
+        "why": {"en": "With a war chest you can say no, wait, and move when others cannot.", "el": "Με γεμάτο ταμείο μπορείς να πεις όχι, να περιμένεις και να κινηθείς όταν οι άλλοι δεν μπορούν."}
+      }
+    },
+    {
+      "title": {"en": "Pick a Goliath, own your story", "el": "Διάλεξε Γολιάθ, πες τη δική σου ιστορία"},
+      "explain": {
+        "en": "Move five is to master power plays. Two of them go together. First, control your narrative: tell your own story, clearly and often, before competitors or gossip tell it for you. Today social media lets a small company do that for free. Second, pick a fight with a Goliath: name a much bigger rival or an old way of doing things that you are against. A clear enemy gives your team energy and tells customers at once why you are different.",
+        "el": "Η πέμπτη κίνηση είναι τα παιχνίδια δύναμης. Δύο από αυτά πάνε μαζί. Πρώτο, έλεγξε το αφήγημά σου: πες εσύ την ιστορία σου, καθαρά και συχνά, πριν την πουν για σένα οι ανταγωνιστές ή τα κουτσομπολιά. Σήμερα τα social media το επιτρέπουν σε μια μικρή εταιρεία δωρεάν. Δεύτερο, διάλεξε έναν Γολιάθ για αντίπαλο: ονόμασε έναν πολύ μεγαλύτερο ανταγωνιστή ή έναν παλιό τρόπο δουλειάς που πολεμάς. Ένας καθαρός εχθρός δίνει ενέργεια στην ομάδα και δείχνει αμέσως στους πελάτες γιατί διαφέρεις."
+      },
+      "example": {
+        "en": "In 1975 Pepsi, the eternal number two, went straight at Coca-Cola with the Pepsi Challenge: blind taste tests in shopping centres, filmed for TV, where many people chose Pepsi. Pepsi's share rose, and a shaken Coca-Cola changed its recipe in 1985, the famous New Coke failure.",
+        "el": "Το 1975 η Pepsi, το αιώνιο νούμερο δύο, χτύπησε κατευθείαν την Coca-Cola με το Pepsi Challenge: τυφλές δοκιμές γεύσης σε εμπορικά κέντρα, γυρισμένες για την τηλεόραση, όπου πολλοί διάλεγαν Pepsi. Το μερίδιο της Pepsi ανέβηκε, και η ταραγμένη Coca-Cola άλλαξε τη συνταγή της το 1985, η γνωστή αποτυχία της New Coke."
+      },
+      "apply": {
+        "en": "Name your Goliath: not a person, but the old model of agencies that charge thousands up front and deliver in months. Say it in your ads and calls: build for 0 euro, pay only hosting. Tell your own story in short videos, why you started and how you work, before anyone else describes you.",
+        "el": "Ονόμασε τον Γολιάθ σου: όχι έναν άνθρωπο, αλλά το παλιό μοντέλο των εταιρειών που χρεώνουν χιλιάδες προκαταβολικά και παραδίδουν σε μήνες. Πες το στις διαφημίσεις και στα τηλέφωνα: κατασκευή 0 ευρώ, πληρώνεις μόνο φιλοξενία. Πες την ιστορία σου σε σύντομα βίντεο, γιατί ξεκίνησες και πώς δουλεύεις, πριν σε περιγράψει κάποιος άλλος."
+      },
+      "check": {
+        "q": {"en": "Why would a small company name a giant as its rival?", "el": "Γιατί μια μικρή εταιρεία να ονομάσει αντίπαλο έναν γίγαντα;"},
+        "options": [
+          {"en": "To get sued and appear in the news", "el": "Για να της κάνουν μήνυση και να βγει στις ειδήσεις"},
+          {"en": "Because giants never answer back", "el": "Γιατί οι γίγαντες δεν απαντούν ποτέ"},
+          {"en": "It rallies the team and shows the difference", "el": "Ενώνει την ομάδα και δείχνει τη διαφορά"}
+        ],
+        "answer": 2,
+        "why": {"en": "A clear opponent makes your position simple to understand and gives your people something to fight for.", "el": "Ένας καθαρός αντίπαλος κάνει τη θέση σου εύκολη να την καταλάβει κανείς και δίνει στους ανθρώπους σου λόγο να παλέψουν."}
+      }
+    },
+    {
+      "title": {"en": "Prepare for the sit-down", "el": "Προετοιμάσου για το τραπέζι"},
+      "explain": {
+        "en": "In the chapter on negotiation Bet-David studies how powerful people prepare for an important meeting, which he calls a sit-down. They never walk in cold. They work out beforehand who will be in the room, what each person wants, what each one fears, and what leverage each side holds. Leverage means what you have that the other side needs. They also plan their answers to the hard questions. The meeting is won before it starts.",
+        "el": "Στο κεφάλαιο για τη διαπραγμάτευση ο Bet-David μελετά πώς οι ισχυροί άνθρωποι προετοιμάζονται για μια σημαντική συνάντηση. Δεν μπαίνουν ποτέ απροετοίμαστοι. Βρίσκουν από πριν ποιος θα είναι στο δωμάτιο, τι θέλει ο καθένας, τι φοβάται ο καθένας και τι μοχλό πίεσης κρατά κάθε πλευρά. Μοχλός πίεσης είναι αυτό που έχεις εσύ και χρειάζεται ο άλλος. Ετοιμάζουν και τις απαντήσεις τους στις δύσκολες ερωτήσεις. Η συνάντηση κερδίζεται πριν αρχίσει."
+      },
+      "example": {
+        "en": "Bet-David has interviewed former mafia figures such as Michael Franzese and Sammy Gravano on his channel. He says that what impressed him was not the violence but the preparation: before any sit-down they had thought through every person, every interest and every possible turn of the talk.",
+        "el": "Ο Bet-David έχει πάρει συνεντεύξεις στο κανάλι του από πρώην μέλη της μαφίας, όπως ο Michael Franzese και ο Sammy Gravano. Λέει ότι αυτό που τον εντυπωσίασε δεν ήταν η βία αλλά η προετοιμασία: πριν από κάθε τέτοια συνάντηση είχαν σκεφτεί κάθε πρόσωπο, κάθε συμφέρον και κάθε πιθανή τροπή της κουβέντας."
+      },
+      "apply": {
+        "en": "Spend ten minutes before each sales meeting on four lines: what this professional wants most, what he fears about a website, what you have that he needs, and the three objections he will raise with your answer to each. Look at his Google profile and his competitors' sites first.",
+        "el": "Αφιέρωσε δέκα λεπτά πριν από κάθε ραντεβού πώλησης σε τέσσερις γραμμές: τι θέλει περισσότερο αυτός ο επαγγελματίας, τι φοβάται σε μια ιστοσελίδα, τι έχεις εσύ που το χρειάζεται, και ποιες τρεις αντιρρήσεις θα φέρει μαζί με την απάντησή σου στην καθεμία. Κοίτα πρώτα το προφίλ του στο Google και τις ιστοσελίδες των ανταγωνιστών του."
+      },
+      "check": {
+        "q": {"en": "What is leverage in a negotiation?", "el": "Τι είναι ο μοχλός πίεσης σε μια διαπραγμάτευση;"},
+        "options": [
+          {"en": "Something you have that the other side needs", "el": "Κάτι που έχεις εσύ και το χρειάζεται ο άλλος"},
+          {"en": "Speaking louder and longer than the other", "el": "Να μιλάς πιο δυνατά και περισσότερο από τον άλλον"},
+          {"en": "A discount you offer at the very end", "el": "Μια έκπτωση που δίνεις στο τέλος"}
+        ],
+        "answer": 0,
+        "why": {"en": "Power in a talk comes from what each side needs from the other, and you find that out by preparing.", "el": "Η δύναμη σε μια κουβέντα βγαίνει από το τι χρειάζεται ο ένας από τον άλλον, και αυτό το βρίσκεις με προετοιμασία."}
+      }
+    },
+    {
+      "title": {"en": "Checkmate is freedom", "el": "Το ματ είναι η ελευθερία"},
+      "explain": {
+        "en": "What is winning the game? Not a number in the bank. It is autonomy: the freedom to run your life on your own terms, to choose your work, your time and the people around you. All five moves lead there. You know what you want, you think clearly, a team replaces you, systems multiply you, and you have the power to protect what you built. The master never stops studying and never lowers his guard.",
+        "el": "Τι σημαίνει να κερδίσεις την παρτίδα; Όχι ένας αριθμός στην τράπεζα. Είναι η αυτονομία: η ελευθερία να ζεις με τους δικούς σου όρους, να διαλέγεις τη δουλειά σου, τον χρόνο σου και τους ανθρώπους γύρω σου. Και οι πέντε κινήσεις οδηγούν εκεί. Ξέρεις τι θέλεις, σκέφτεσαι καθαρά, μια ομάδα σε αντικαθιστά, τα συστήματα σε πολλαπλασιάζουν, και έχεις τη δύναμη να προστατεύσεις ό,τι έχτισες. Ο μετρ δεν σταματά να μελετά και δεν κατεβάζει ποτέ την άμυνα."
+      },
+      "example": {
+        "en": "Bill Gates built Microsoft with strong leaders and systems around him. So in 2008 he could leave his daily job at the company and give his time to his foundation and to global health, while Microsoft kept running and growing without him at the desk.",
+        "el": "Ο Bill Gates έχτισε τη Microsoft με δυνατούς ηγέτες και συστήματα γύρω του. Έτσι το 2008 μπόρεσε να αφήσει την καθημερινή του θέση στην εταιρεία και να δώσει τον χρόνο του στο ίδρυμά του και στην παγκόσμια υγεία, ενώ η Microsoft συνέχισε να δουλεύει και να μεγαλώνει χωρίς αυτόν στο γραφείο."
+      },
+      "apply": {
+        "en": "Describe your checkmate in writing: what a normal Tuesday looks like when you have won. Then run a test this month: take two full days away from phone and laptop. Write down everything that stopped without you. That list shows exactly which systems and people you still need to build.",
+        "el": "Περίγραψε γραπτά το δικό σου ματ: πώς είναι μια κανονική Τρίτη όταν έχεις κερδίσει. Μετά κάνε ένα τεστ μέσα στον μήνα: μείνε δύο ολόκληρες μέρες μακριά από τηλέφωνο και laptop. Γράψε όλα όσα σταμάτησαν χωρίς εσένα. Αυτή η λίστα δείχνει ακριβώς ποια συστήματα και ποιους ανθρώπους πρέπει ακόμα να χτίσεις."
+      },
+      "check": {
+        "q": {"en": "What is «checkmate» for a founder?", "el": "Τι είναι το «ματ» για έναν ιδρυτή;"},
+        "options": [
+          {"en": "Destroying every competitor in the market", "el": "Να διαλύσει κάθε ανταγωνιστή στην αγορά"},
+          {"en": "Autonomy: living and working on your own terms", "el": "Αυτονομία: να ζει και να δουλεύει με τους δικούς του όρους"},
+          {"en": "Selling the company as quickly as possible", "el": "Να πουλήσει την εταιρεία όσο πιο γρήγορα γίνεται"}
+        ],
+        "answer": 1,
+        "why": {"en": "The five moves exist to give you freedom of choice, not just a bigger company.", "el": "Οι πέντε κινήσεις υπάρχουν για να σου δώσουν ελευθερία επιλογής, όχι απλώς μεγαλύτερη εταιρεία."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "For the third month in a row clients complain that changes to their sites take too long. What do you do?",
+        "el": "Τρίτο μήνα στη σειρά οι πελάτες παραπονιούνται ότι οι αλλαγές στις ιστοσελίδες τους αργούν. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Work on weekends to clear the queue faster", "el": "Δουλεύεις Σαββατοκύριακα για να αδειάσει η ουρά"},
+        {"en": "Ask why five times and fix the root cause", "el": "Ρωτάς γιατί πέντε φορές και διορθώνεις τη ρίζα"},
+        {"en": "Apologise to each client and wait for it to pass", "el": "Ζητάς συγγνώμη από κάθε πελάτη και περιμένεις να περάσει"}
+      ],
+      "answer": 1,
+      "why": {"en": "Solve for X: a problem that repeats has a root variable. Extra hours treat only the symptom.", "el": "Λύσε ως προς Χ: ένα πρόβλημα που επαναλαμβάνεται έχει ρίζα. Οι επιπλέον ώρες χτυπούν μόνο το σύμπτωμα."},
+      "idea": 5
+    },
+    {
+      "q": {
+        "en": "You can hire a caller who has more sales experience than you and may soon close more deals than you do. What do you do?",
+        "el": "Μπορείς να πάρεις έναν άνθρωπο για τα τηλέφωνα που έχει περισσότερη εμπειρία στις πωλήσεις από σένα και σύντομα ίσως κλείνει περισσότερα. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Hire him and be glad he is better", "el": "Τον παίρνεις και χαίρεσαι που είναι καλύτερος"},
+        {"en": "Pick someone weaker who will not outshine you", "el": "Διαλέγεις κάποιον πιο αδύναμο που δεν θα σε επισκιάσει"},
+        {"en": "Keep making all the calls yourself", "el": "Συνεχίζεις να κάνεις όλες τις κλήσεις μόνος σου"}
+      ],
+      "answer": 0,
+      "why": {"en": "The replacement game: you grow only by handing roles to people who do them better than you.", "el": "Το παιχνίδι της αντικατάστασης: μεγαλώνεις μόνο όταν δίνεις ρόλους σε ανθρώπους που τους κάνουν καλύτερα από σένα."},
+      "idea": 7
+    },
+    {
+      "q": {
+        "en": "You have an unusually good quarter. Your first thought is a bigger office, a new car and more subscriptions. What do you do?",
+        "el": "Έχεις ένα ασυνήθιστα καλό τρίμηνο. Η πρώτη σου σκέψη είναι μεγαλύτερο γραφείο, καινούργιο αυτοκίνητο και περισσότερες συνδρομές. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Buy them, because you earned the reward", "el": "Τα αγοράζεις, γιατί το άξιζες"},
+        {"en": "Spend it all on ads to grow even faster", "el": "Τα ρίχνεις όλα σε διαφημίσεις για να τρέξεις πιο γρήγορα"},
+        {"en": "Put most of it into your war chest first", "el": "Βάζεις πρώτα το μεγαλύτερο μέρος στο πολεμικό ταμείο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Cash is courage. Momentum is exactly the phase where careless spending hurts founders.", "el": "Τα μετρητά δίνουν θάρρος. Η φόρα είναι ακριβώς η φάση όπου τα απρόσεκτα έξοδα πληγώνουν τους ιδρυτές."},
+      "idea": 12
+    },
+    {
+      "q": {
+        "en": "Tomorrow you meet the owner of a clinic with five doctors, your biggest possible client so far. How do you prepare?",
+        "el": "Αύριο συναντάς τον ιδιοκτήτη μιας κλινικής με πέντε γιατρούς, τον μεγαλύτερο πιθανό πελάτη σου ως τώρα. Πώς προετοιμάζεσαι;"
+      },
+      "options": [
+        {"en": "Trust your experience and improvise in the room", "el": "Εμπιστεύεσαι την εμπειρία σου και αυτοσχεδιάζεις"},
+        {"en": "Prepare a long presentation about your company", "el": "Ετοιμάζεις μια μεγάλη παρουσίαση για την εταιρεία σου"},
+        {"en": "Write what he wants, fears and will object to", "el": "Γράφεις τι θέλει, τι φοβάται και τι αντιρρήσεις θα φέρει"}
+      ],
+      "answer": 2,
+      "why": {"en": "The sit-down is won beforehand, by knowing the other side's interests and your leverage.", "el": "Η συνάντηση κερδίζεται από πριν, όταν ξέρεις τι θέλει η άλλη πλευρά και ποιον μοχλό έχεις εσύ."},
+      "idea": 14
+    },
+    {
+      "q": {
+        "en": "A collaborator has delivered flawless work for a year, yet you still review every single thing before it goes to a client. What do you do?",
+        "el": "Ένας συνεργάτης παραδίδει άψογη δουλειά εδώ και έναν χρόνο, κι όμως εσύ ελέγχεις ακόμα το καθετί πριν πάει στον πελάτη. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Let him send work directly and check samples only", "el": "Τον αφήνεις να στέλνει απευθείας και ελέγχεις μόνο δείγματα"},
+        {"en": "Keep reviewing everything to stay safe", "el": "Συνεχίζεις να τα ελέγχεις όλα για σιγουριά"},
+        {"en": "Add a second person to review his work too", "el": "Βάζεις και δεύτερο άνθρωπο να ελέγχει τη δουλειά του"}
+      ],
+      "answer": 0,
+      "why": {"en": "Trust earned by results should become freedom. Checking everything slows the whole company.", "el": "Η εμπιστοσύνη που κερδίζεται με αποτελέσματα πρέπει να γίνεται ελευθερία. Όταν ελέγχεις τα πάντα, καθυστερεί όλη η εταιρεία."},
+      "idea": 8
+    },
+    {
+      "q": {
+        "en": "A friend offers you a partnership in a bar. Good money, but it means nights and weekends, and you want free evenings and time for study. What do you do?",
+        "el": "Ένας φίλος σου προτείνει συνεταιρισμό σε ένα μπαρ. Καλά λεφτά, αλλά σημαίνει νύχτες και Σαββατοκύριακα, κι εσύ θέλεις ελεύθερα βράδια και χρόνο για διάβασμα. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Accept, because more income is always good", "el": "Δέχεσαι, γιατί τα περισσότερα έσοδα είναι πάντα καλά"},
+        {"en": "Refuse, because it fights the life you want", "el": "Αρνείσαι, γιατί πολεμά τη ζωή που θέλεις"},
+        {"en": "Accept for a year and see what happens", "el": "Δέχεσαι για έναν χρόνο και βλέπεις τι θα γίνει"}
+      ],
+      "answer": 1,
+      "why": {"en": "The «why» matters: do not build a business that contradicts the life you want to live.", "el": "Το «γιατί» μετρά: μη χτίζεις επιχείρηση που έρχεται σε αντίθεση με τη ζωή που θέλεις."},
+      "idea": 2
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "The book says the best founders plan fifteen or more moves ahead.", "el": "Το βιβλίο λέει ότι οι καλύτεροι ιδρυτές σχεδιάζουν δεκαπέντε και πλέον κινήσεις μπροστά."},
+      "answer": false,
+      "why": {"en": "Five is the target: enough to foresee the reply, not so many that you never act.", "el": "Ο στόχος είναι πέντε: αρκετές για να προβλέψεις την απάντηση, όχι τόσες που να μην πράττεις ποτέ."}
+    },
+    {
+      "s": {"en": "Bet-David believes not everyone has to become a founder to do well.", "el": "Ο Bet-David πιστεύει ότι δεν χρειάζεται όλοι να γίνουν ιδρυτές για να πάνε καλά."},
+      "answer": true,
+      "why": {"en": "An intrapreneur can build, earn and grow inside someone else's company.", "el": "Ο ενδοεπιχειρηματίας μπορεί να χτίζει, να κερδίζει και να εξελίσσεται μέσα στην εταιρεία κάποιου άλλου."}
+    },
+    {
+      "s": {"en": "«Solve for X» means finding who is to blame for a problem.", "el": "«Λύσε ως προς Χ» σημαίνει να βρεις ποιος φταίει για ένα πρόβλημα."},
+      "answer": false,
+      "why": {"en": "X is the root cause, not a guilty person. You fix the cause and add a rule so it does not return.", "el": "Το Χ είναι η ρίζα, όχι ένας ένοχος. Διορθώνεις την αιτία και βάζεις κανόνα για να μην ξανασυμβεί."}
+    },
+    {
+      "s": {"en": "High trust inside a team makes decisions and work faster.", "el": "Η μεγάλη εμπιστοσύνη μέσα σε μια ομάδα κάνει τις αποφάσεις και τη δουλειά πιο γρήγορες."},
+      "answer": true,
+      "why": {"en": "Trust removes checks and approvals; micromanagement adds them and slows everything.", "el": "Η εμπιστοσύνη αφαιρεί ελέγχους και εγκρίσεις· το micromanagement τους προσθέτει και τα καθυστερεί όλα."}
+    },
+    {
+      "s": {"en": "Linear growth comes from systems and leaders that multiply your effort.", "el": "Η γραμμική ανάπτυξη έρχεται από συστήματα και ηγέτες που πολλαπλασιάζουν την προσπάθειά σου."},
+      "answer": false,
+      "why": {"en": "That is exponential growth. Linear growth is adding more by doing more yourself.", "el": "Αυτή είναι η εκθετική ανάπτυξη. Γραμμική είναι όταν προσθέτεις κάνοντας εσύ ο ίδιος περισσότερα."}
+    },
+    {
+      "s": {"en": "The four phases are formulation, survival, momentum and plateau.", "el": "Οι τέσσερις φάσεις είναι διαμόρφωση, επιβίωση, φόρα και στασιμότητα."},
+      "answer": true,
+      "why": {"en": "Each phase has its own dangers and asks for a different kind of founder.", "el": "Κάθε φάση έχει τους δικούς της κινδύνους και ζητά διαφορετικό ιδρυτή."}
+    },
+    {
+      "s": {"en": "A strong culture means treating the team as family and never confronting anyone.", "el": "Δυνατή κουλτούρα σημαίνει να βλέπεις την ομάδα σαν οικογένεια και να μη φέρνεις ποτέ κανέναν προ των ευθυνών του."},
+      "answer": false,
+      "why": {"en": "The book wants both: family-like care and professional accountability.", "el": "Το βιβλίο θέλει και τα δύο: νοιάξιμο σαν οικογένεια και επαγγελματική λογοδοσία."}
+    },
+    {
+      "s": {"en": "According to the book, people pay more to those who solve bigger problems.", "el": "Σύμφωνα με το βιβλίο, ο κόσμος πληρώνει περισσότερα σε όσους λύνουν μεγαλύτερα προβλήματα."},
+      "answer": true,
+      "why": {"en": "Your income follows the size of the problems in your catalog.", "el": "Το εισόδημά σου ακολουθεί το μέγεθος των προβλημάτων που έχεις στον κατάλογό σου."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "ITR", "el": "Κανόνας ITR"}, "b": {"en": "Investment, time and return of each option", "el": "Επένδυση, χρόνος και απόδοση κάθε επιλογής"}},
+    {"a": {"en": "Solve for X", "el": "Λύσε ως προς Χ"}, "b": {"en": "Find the root cause, not the symptom", "el": "Βρες τη ρίζα, όχι το σύμπτωμα"}},
+    {"a": {"en": "Intrapreneur", "el": "Ενδοεπιχειρηματίας"}, "b": {"en": "Employee who thinks and acts like an owner", "el": "Υπάλληλος που σκέφτεται και δρα σαν ιδιοκτήτης"}},
+    {"a": {"en": "War chest", "el": "Πολεμικό ταμείο"}, "b": {"en": "Cash kept for hard times and big chances", "el": "Μετρητά για δύσκολες ώρες και μεγάλες ευκαιρίες"}},
+    {"a": {"en": "Plateau", "el": "Στασιμότητα"}, "b": {"en": "Phase where growth stops and you must reinvent", "el": "Φάση όπου η ανάπτυξη σταματά και θέλει ανανέωση"}},
+    {"a": {"en": "Leverage", "el": "Μοχλός πίεσης"}, "b": {"en": "What you have that the other side needs", "el": "Αυτό που έχεις και το χρειάζεται ο άλλος"}}
+  ],
+  "missions": [
+    {"en": "Write your next five moves for the biggest decision in front of you, in the right order.", "el": "Γράψε τις επόμενες πέντε κινήσεις σου για τη μεγαλύτερη απόφαση που έχεις μπροστά σου, με τη σωστή σειρά."},
+    {"en": "Answer in writing: who do I want to be in ten years, and which of the four drivers pushes me most?", "el": "Απάντησε γραπτά: ποιος θέλω να είμαι σε δέκα χρόνια, και ποιο από τα τέσσερα κίνητρα με σπρώχνει περισσότερο;"},
+    {"en": "Take one problem that keeps coming back and ask «why» five times until you reach the root.", "el": "Πάρε ένα πρόβλημα που ξαναγυρίζει συνέχεια και ρώτα «γιατί» πέντε φορές ώσπου να φτάσεις στη ρίζα."},
+    {"en": "List last week's tasks and circle one that somebody else could do better than you.", "el": "Κατάγραψε τις δουλειές της περασμένης εβδομάδας και κύκλωσε μία που κάποιος άλλος θα έκανε καλύτερα από σένα."},
+    {"en": "Prepare your next sales meeting on paper: what he wants, what he fears, his three objections and your answers.", "el": "Προετοίμασε γραπτά το επόμενο ραντεβού πώλησης: τι θέλει, τι φοβάται, οι τρεις αντιρρήσεις του και οι απαντήσεις σου."}
+  ],
+  "mantra": {"en": "I think five moves ahead, then I make the first one today.", "el": "Σκέφτομαι πέντε κινήσεις μπροστά και κάνω την πρώτη σήμερα."},
+  "careful": {
+    "en": "The book rests on the author's own story and opinions, not on research, so it shows what worked for one man in one industry. His company sells insurance through a multi-level network of agents, a model many people criticise. The praise of rivalry, enemies and lessons from mobsters can push you toward aggression and overwork. Take the questions and the tools, and judge the war language with a cool head.",
+    "el": "Το βιβλίο στηρίζεται στην προσωπική ιστορία και τις απόψεις του συγγραφέα, όχι σε έρευνα, άρα δείχνει τι δούλεψε για έναν άνθρωπο σε έναν κλάδο. Η εταιρεία του πουλά ασφάλειες μέσα από ένα πολυεπίπεδο δίκτυο συνεργατών, ένα μοντέλο που πολλοί επικρίνουν. Ο έπαινος στον ανταγωνισμό, στους εχθρούς και στα μαθήματα από μαφιόζους μπορεί να σε σπρώξει σε επιθετικότητα και υπερκόπωση. Κράτα τις ερωτήσεις και τα εργαλεία, και δες με ψυχραιμία τη γλώσσα του πολέμου."
+  },
+  "connects": [
+    {"book": "who-not-how", "note": {"en": "Sullivan's question «who can do this for me?» is the same idea as Bet-David's replacement game.", "el": "Η ερώτηση του Sullivan «ποιος μπορεί να το κάνει για μένα;» είναι η ίδια ιδέα με το παιχνίδι της αντικατάστασης του Bet-David."}},
+    {"book": "be-2-0", "note": {"en": "Collins also puts people before strategy and keeps cash for the storm, but backs it with research instead of one life story.", "el": "Και ο Collins βάζει τους ανθρώπους πριν από τη στρατηγική και κρατά μετρητά για την καταιγίδα, αλλά το στηρίζει σε έρευνα αντί για μία προσωπική ιστορία."}},
+    {"book": "e-myth", "note": {"en": "Gerber explains in detail how to build the systems that Bet-David says turn linear growth into exponential growth.", "el": "Ο Gerber εξηγεί αναλυτικά πώς στήνονται τα συστήματα που, κατά τον Bet-David, κάνουν τη γραμμική ανάπτυξη εκθετική."}}
+  ]
+}

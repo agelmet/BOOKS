@@ -1,0 +1,511 @@
+{
+  "id": "four-agreements",
+  "title": {"en": "The Four Agreements", "el": "Οι Τέσσερις Συμφωνίες"},
+  "author": "Don Miguel Ruiz",
+  "authorEl": "Ντον Μιγκέλ Ρουίς",
+  "year": 1997,
+  "shelf": "mind",
+  "skills": {"mindset": 3, "communication": 2, "wisdom": 1},
+  "oneLine": {
+    "en": "Most of your suffering comes from rules you never chose; replace them with four simple promises to yourself and you become free.",
+    "el": "Το μεγαλύτερο μέρος της ταλαιπωρίας σου βγαίνει από κανόνες που δεν διάλεξες ποτέ· βάλε στη θέση τους τέσσερις απλές υποσχέσεις στον εαυτό σου και ελευθερώνεσαι."
+  },
+  "story": {
+    "en": "Don Miguel Ruiz grew up in Mexico in a family of healers, studied medicine, and after a near-fatal car crash turned to the old Toltec teachings of his family. In 1997 he packed them into a tiny book with four rules for living. It stayed on bestseller lists for years because the rules are easy to remember and hard to follow, and they work on everyday pain: guilt, gossip, hurt feelings, misunderstandings.",
+    "el": "Ο Ντον Μιγκέλ Ρουίς μεγάλωσε στο Μεξικό σε οικογένεια θεραπευτών, σπούδασε ιατρική και, μετά από ένα τροχαίο που παραλίγο να του κοστίσει τη ζωή, στράφηκε στην παλιά διδασκαλία των Τολτέκων που κρατούσε η οικογένειά του. Το 1997 την έκλεισε σε ένα μικρό βιβλίο με τέσσερις κανόνες ζωής. Έμεινε χρόνια στα μπεστ σέλερ γιατί οι κανόνες θυμούνται εύκολα, εφαρμόζονται δύσκολα και χτυπούν τον καθημερινό πόνο: ενοχές, κουτσομπολιό, πληγωμένο εγωισμό, παρεξηγήσεις."
+  },
+  "forYou": {
+    "en": "You hear «no» many times a day on cold calls, you wait for clients who go silent, and you carry the whole agency on your back. This book gives you four habits that protect your energy: clean words, a thick skin, clear questions instead of guesses, and honest effort without self-punishment. That is exactly what a seller and a leader needs.",
+    "el": "Ακούς «όχι» πολλές φορές τη μέρα στα cold calls, περιμένεις πελάτες που εξαφανίζονται και κουβαλάς όλο το γραφείο στην πλάτη σου. Το βιβλίο σού δίνει τέσσερις συνήθειες που προστατεύουν την ενέργειά σου: καθαρά λόγια, γερό στομάχι, ξεκάθαρες ερωτήσεις αντί για μαντεψιές και τίμια προσπάθεια χωρίς αυτομαστίγωμα. Αυτά ακριβώς χρειάζεται ένας πωλητής και ένας άνθρωπος που ηγείται."
+  },
+  "ideas": [
+    {
+      "title": {"en": "You were domesticated", "el": "Σε εξημέρωσαν"},
+      "explain": {
+        "en": "As a child you did not choose your beliefs. Parents, school, religion and society taught you what is good, bad, beautiful and shameful, using reward and punishment, the way we train a dog. Ruiz calls this domestication. You said yes to all of it, and those yeses became a «Book of Law» in your head. You now live inside this shared dream, mostly out of fear of being rejected.",
+        "el": "Παιδί δεν διάλεξες εσύ τι θα πιστεύεις. Γονείς, σχολείο, θρησκεία και κοινωνία σού έμαθαν τι είναι καλό, κακό, ωραίο και ντροπή, με ανταμοιβή και τιμωρία, όπως εκπαιδεύουμε έναν σκύλο. Ο Ρουίς το λέει εξημέρωση. Είπες «ναι» σε όλα, και αυτά τα «ναι» έγιναν ένα «Βιβλίο του Νόμου» μέσα στο κεφάλι σου. Τώρα ζεις μέσα σε αυτό το κοινό όνειρο, κυρίως από φόβο μήπως σε απορρίψουν."
+      },
+      "example": {
+        "en": "Ruiz describes how a child gets attention when it does what the adults want and gets punished when it does not. Soon the child behaves well just to earn the reward, and later it does not need anyone: it rewards and punishes itself with the same rules.",
+        "el": "Ο Ρουίς περιγράφει πώς ένα παιδί παίρνει προσοχή όταν κάνει αυτό που θέλουν οι μεγάλοι και τιμωρείται όταν δεν το κάνει. Γρήγορα φέρεται «σωστά» μόνο για την ανταμοιβή, και αργότερα δεν χρειάζεται κανέναν: ανταμείβει και τιμωρεί μόνο του τον εαυτό του με τους ίδιους κανόνες."
+      },
+      "apply": {
+        "en": "Write down three rules you follow in business without ever having chosen them, for example «a serious company must have an office» or «asking for money is rude». Next to each one write who taught it to you and whether it still helps you today.",
+        "el": "Γράψε τρεις κανόνες που ακολουθείς στη δουλειά χωρίς να τους έχεις διαλέξει ποτέ, για παράδειγμα «μια σοβαρή εταιρεία πρέπει να έχει γραφείο» ή «είναι αγένεια να ζητάς λεφτά». Δίπλα σε καθέναν σημείωσε ποιος σου τον έμαθε και αν σε βοηθά ακόμα σήμερα."
+      },
+      "check": {
+        "q": {"en": "What does Ruiz mean by «domestication»?", "el": "Τι εννοεί ο Ρουίς με τη λέξη «εξημέρωση»;"},
+        "options": [
+          {"en": "Learning good manners at school", "el": "Το να μαθαίνεις καλούς τρόπους στο σχολείο"},
+          {"en": "Being trained by reward and punishment to accept others' rules", "el": "Το ότι σε εκπαίδευσαν με ανταμοιβή και τιμωρία να δεχτείς ξένους κανόνες"},
+          {"en": "Choosing your own beliefs as an adult", "el": "Το ότι διαλέγεις μόνος τις πεποιθήσεις σου ως ενήλικας"}
+        ],
+        "answer": 1,
+        "why": {"en": "Your beliefs were installed in you as a child through reward and punishment; you never chose them.", "el": "Οι πεποιθήσεις σου μπήκαν μέσα σου από παιδί με ανταμοιβή και τιμωρία· δεν τις διάλεξες ποτέ."}
+      }
+    },
+    {
+      "title": {"en": "The Judge and the Victim", "el": "Ο Κριτής και το Θύμα"},
+      "explain": {
+        "en": "Inside your mind live two characters. The Judge reads the Book of Law and condemns everything you do, think and feel. The Victim takes the blame and says «I am not good enough». Ruiz calls the pair, together with the old beliefs, a parasite: it feeds on your fear and drains your energy. No one abuses you more than you abuse yourself.",
+        "el": "Μέσα στο μυαλό σου ζουν δύο πρόσωπα. Ο Κριτής διαβάζει το Βιβλίο του Νόμου και καταδικάζει ό,τι κάνεις, σκέφτεσαι και νιώθεις. Το Θύμα δέχεται την κατηγορία και λέει «δεν αξίζω». Ο Ρουίς ονομάζει το δίδυμο αυτό, μαζί με τις παλιές πεποιθήσεις, παράσιτο: τρέφεται από τον φόβο σου και σου ρουφά την ενέργεια. Κανείς δεν σου φέρεται χειρότερα απ' όσο φέρεσαι εσύ στον εαυτό σου."
+      },
+      "example": {
+        "en": "Ruiz notes that humans are the only animal that pays a thousand times for one mistake. A deer that escapes the lion goes back to eating. A person makes one error, judges it, feels guilty, and then replays it and pays again every time the memory returns.",
+        "el": "Ο Ρουίς παρατηρεί ότι ο άνθρωπος είναι το μόνο ζώο που πληρώνει χίλιες φορές για το ίδιο λάθος. Το ελάφι που γλίτωσε από το λιοντάρι ξαναβόσκει ήρεμο. Ο άνθρωπος κάνει ένα λάθος, το κρίνει, νιώθει ενοχή και μετά το ξαναπαίζει και ξαναπληρώνει κάθε φορά που το θυμάται."
+      },
+      "apply": {
+        "en": "Notice the voice after a bad call or a lost client: «you ruined it again». Name it out loud: «that is the Judge». Then ask one useful question only: what will I do differently next time? Pay for the mistake once, then close the file.",
+        "el": "Πρόσεξε τη φωνή μετά από ένα κακό τηλεφώνημα ή έναν πελάτη που χάθηκε: «πάλι τα έκανες θάλασσα». Πες το φωναχτά: «αυτός είναι ο Κριτής». Μετά κάνε μόνο μία χρήσιμη ερώτηση: τι θα κάνω αλλιώς την επόμενη φορά; Πλήρωσε το λάθος μία φορά και κλείσε τον φάκελο."
+      },
+      "check": {
+        "q": {"en": "What does the inner Judge do?", "el": "Τι κάνει ο εσωτερικός Κριτής;"},
+        "options": [
+          {"en": "Condemns you again and again by old rules", "el": "Σε καταδικάζει ξανά και ξανά με παλιούς κανόνες"},
+          {"en": "Protects you from making mistakes", "el": "Σε προστατεύει από το να κάνεις λάθη"},
+          {"en": "Helps you judge other people fairly", "el": "Σε βοηθά να κρίνεις δίκαια τους άλλους"}
+        ],
+        "answer": 0,
+        "why": {"en": "The Judge uses the Book of Law to punish you repeatedly for the same mistake, and the Victim accepts it.", "el": "Ο Κριτής χρησιμοποιεί το Βιβλίο του Νόμου για να σε τιμωρεί ξανά για το ίδιο λάθος, και το Θύμα το δέχεται."}
+      }
+    },
+    {
+      "title": {"en": "Break the old agreements", "el": "Σπάσε τις παλιές συμφωνίες"},
+      "explain": {
+        "en": "Every belief you hold is an agreement: at some point you said «yes, this is true». Each agreement costs energy to keep alive, and fear-based ones cost the most, so you wake up already tired. The way out is not to fight the whole system at once. You adopt four new agreements that are strong enough to break thousands of small old ones and give you your energy back.",
+        "el": "Κάθε πεποίθησή σου είναι μια συμφωνία: κάποια στιγμή είπες «ναι, έτσι είναι». Κάθε συμφωνία θέλει ενέργεια για να μένει ζωντανή, και όσες στηρίζονται στον φόβο κοστίζουν περισσότερο· γι' αυτό ξυπνάς ήδη κουρασμένος. Η λύση δεν είναι να πολεμήσεις όλο το σύστημα μαζί. Υιοθετείς τέσσερις νέες συμφωνίες, αρκετά δυνατές για να σπάσουν χιλιάδες μικρές παλιές και να σου δώσουν πίσω την ενέργειά σου."
+      },
+      "example": {
+        "en": "Roger Bannister ran a mile in under four minutes in 1954, something many believed the body could not do. Within weeks another runner did it too, and soon many more. The track had not changed. The shared agreement «it is impossible» had.",
+        "el": "Ο Ρότζερ Μπάνιστερ έτρεξε το 1954 το μίλι σε λιγότερο από τέσσερα λεπτά, κάτι που πολλοί πίστευαν ότι το σώμα δεν αντέχει. Μέσα σε λίγες εβδομάδες το έκανε και άλλος δρομέας, και σύντομα πολλοί ακόμη. Ο στίβος δεν είχε αλλάξει. Είχε αλλάξει η κοινή συμφωνία «δεν γίνεται»."
+      },
+      "apply": {
+        "en": "Pick one agreement that holds your agency back, such as «doctors never buy on the phone» or «I am not a real businessman because I did not study business». Write the opposite sentence and collect three real facts from your own 200 sites that prove it.",
+        "el": "Διάλεξε μία συμφωνία που κρατά πίσω το γραφείο σου, όπως «οι γιατροί δεν αγοράζουν ποτέ από το τηλέφωνο» ή «δεν είμαι κανονικός επιχειρηματίας γιατί δεν σπούδασα business». Γράψε την αντίθετη πρόταση και βρες τρία αληθινά στοιχεία από τις 200 σελίδες σου που την αποδεικνύουν."
+      },
+      "check": {
+        "q": {"en": "Why does Ruiz call beliefs «agreements»?", "el": "Γιατί ο Ρουίς ονομάζει τις πεποιθήσεις «συμφωνίες»;"},
+        "options": [
+          {"en": "Because other people signed them for you", "el": "Γιατί τις υπέγραψαν άλλοι για λογαριασμό σου"},
+          {"en": "Because they are written in law books", "el": "Γιατί είναι γραμμένες σε βιβλία νόμων"},
+          {"en": "Because you once said yes to them, so you can also unsay it", "el": "Γιατί κάποτε τους είπες «ναι», άρα μπορείς και να το πάρεις πίσω"}
+        ],
+        "answer": 2,
+        "why": {"en": "A belief has power only because you agreed to it. What you agreed to, you can replace.", "el": "Μια πεποίθηση έχει δύναμη μόνο επειδή συμφώνησες μαζί της. Ό,τι συμφώνησες, μπορείς και να το αλλάξεις."}
+      }
+    },
+    {
+      "title": {"en": "Be impeccable with your word", "el": "Να είσαι άψογος με τον λόγο σου"},
+      "explain": {
+        "en": "The first agreement is the most important and the hardest. Your word creates: it builds trust, plans and moods, or it destroys them. Impeccable means «without sin», and for Ruiz a sin is anything you do against yourself. So speak with integrity, say only what you mean, and never use words against yourself, with guilt, shame or «I am useless». This is the foundation of your freedom.",
+        "el": "Η πρώτη συμφωνία είναι η πιο σημαντική και η πιο δύσκολη. Ο λόγος σου δημιουργεί: χτίζει εμπιστοσύνη, σχέδια και διάθεση, ή τα γκρεμίζει. «Άψογος» σημαίνει «χωρίς αμαρτία», και για τον Ρουίς αμαρτία είναι ό,τι κάνεις ενάντια στον εαυτό σου. Μίλα λοιπόν με ακεραιότητα, λέγε μόνο ό,τι εννοείς και μη στρέφεις ποτέ τις λέξεις εναντίον σου, με ενοχή, ντροπή ή «είμαι άχρηστος». Αυτό είναι το θεμέλιο της ελευθερίας σου."
+      },
+      "example": {
+        "en": "In the book, a tired mother with a headache snaps at her little girl, who is singing happily: your voice is ugly, be quiet. The girl believes it, stops singing, and grows up shy about her voice even though it is beautiful. One sentence became a lifelong agreement.",
+        "el": "Στο βιβλίο, μια κουρασμένη μητέρα με πονοκέφαλο ξεσπά στο κοριτσάκι της που τραγουδά χαρούμενο: έχεις άσχημη φωνή, σταμάτα. Το κορίτσι το πιστεύει, σταματά να τραγουδά και μεγαλώνει ντροπαλό για τη φωνή του, ενώ είναι όμορφη. Μία φράση έγινε συμφωνία για μια ζωή."
+      },
+      "apply": {
+        "en": "Promise clients only what you will deliver: if a draft takes up to ten days, say ten, not three. And catch the sentences you say about yourself. Replace «I am bad at sales» with a fact: «today I made twenty calls and booked one meeting».",
+        "el": "Υποσχέσου στους πελάτες μόνο ό,τι θα παραδώσεις: αν το draft θέλει έως δέκα μέρες, πες δέκα, όχι τρεις. Και πιάσε τις φράσεις που λες για τον εαυτό σου. Αντί για «δεν το 'χω με τις πωλήσεις», πες ένα γεγονός: «σήμερα έκανα είκοσι τηλεφωνήματα και έκλεισα ένα ραντεβού»."
+      },
+      "check": {
+        "q": {"en": "What does «impeccable with your word» mean?", "el": "Τι σημαίνει «άψογος με τον λόγο σου»;"},
+        "options": [
+          {"en": "Speaking politely and with perfect grammar", "el": "Να μιλάς ευγενικά και με σωστή γραμματική"},
+          {"en": "Saying only what you mean and never turning words against yourself or others", "el": "Να λες μόνο ό,τι εννοείς και να μη στρέφεις τις λέξεις εναντίον σου ή εναντίον άλλων"},
+          {"en": "Always telling people what they want to hear", "el": "Να λες πάντα στους άλλους αυτό που θέλουν να ακούσουν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Impeccable means «without sin»: no words used against yourself (guilt, shame) or against others.", "el": "«Άψογος» σημαίνει «χωρίς αμαρτία»: καμία λέξη ενάντια στον εαυτό σου (ενοχή, ντροπή) ή ενάντια στους άλλους."}
+      }
+    },
+    {
+      "title": {"en": "Gossip is poison", "el": "Το κουτσομπολιό είναι δηλητήριο"},
+      "explain": {
+        "en": "Ruiz says words work like spells. A kind word can lift someone for years, and a cruel one can stay in their head just as long. The worst misuse of the word is gossip. It works like a computer virus: one person passes a bad opinion to another, who now sees the target through it and passes it on. In the end everyone is infected and nobody sees clearly.",
+        "el": "Ο Ρουίς λέει ότι οι λέξεις δουλεύουν σαν ξόρκια. Μια καλή κουβέντα μπορεί να σηκώνει κάποιον για χρόνια, και μια σκληρή να μένει στο μυαλό του το ίδιο πολύ. Η χειρότερη κακή χρήση του λόγου είναι το κουτσομπολιό. Μοιάζει με ιό υπολογιστή: ο ένας περνά μια κακή γνώμη στον άλλο, εκείνος βλέπει πια τον τρίτο μέσα από αυτήν και τη μεταδίδει. Στο τέλος όλοι είναι μολυσμένοι και κανείς δεν βλέπει καθαρά."
+      },
+      "example": {
+        "en": "The book's example: you are about to start a class you looked forward to. A former student tells you the teacher is arrogant and unfair. You walk in already disliking the teacher, you notice only what fits the story, and you repeat it to others.",
+        "el": "Το παράδειγμα του βιβλίου: πρόκειται να ξεκινήσεις ένα μάθημα που περίμενες με χαρά. Ένας παλιός μαθητής σου λέει ότι ο καθηγητής είναι αλαζόνας και άδικος. Μπαίνεις στην τάξη ήδη με αντιπάθεια, προσέχεις μόνο ό,τι ταιριάζει με την ιστορία και τη λες και σε άλλους."
+      },
+      "apply": {
+        "en": "Never speak badly about competitors on a call or about a difficult client in front of your team. When a prospect complains about their old web designer, do not join in. Say «I do not know what happened there, here is what we do» and move on.",
+        "el": "Μη μιλάς ποτέ άσχημα για ανταγωνιστές στο τηλέφωνο ούτε για έναν δύσκολο πελάτη μπροστά στην ομάδα σου. Όταν ένας υποψήφιος πελάτης κατηγορεί τον προηγούμενο κατασκευαστή του, μη σιγοντάρεις. Πες «δεν ξέρω τι έγινε εκεί, να σας πω τι κάνουμε εμείς» και προχώρα."
+      },
+      "check": {
+        "q": {"en": "Why does Ruiz compare gossip to a computer virus?", "el": "Γιατί ο Ρουίς παρομοιάζει το κουτσομπολιό με ιό υπολογιστή;"},
+        "options": [
+          {"en": "It only harms people who use computers", "el": "Γιατί βλάπτει μόνο όσους χρησιμοποιούν υπολογιστή"},
+          {"en": "It is quickly deleted and forgotten", "el": "Γιατί σβήνεται γρήγορα και ξεχνιέται"},
+          {"en": "It spreads from mind to mind and distorts how each one sees", "el": "Γιατί περνά από μυαλό σε μυαλό και αλλοιώνει το πώς βλέπει ο καθένας"}
+        ],
+        "answer": 2,
+        "why": {"en": "A bad opinion you receive changes how you see the person, and then you pass it on.", "el": "Μια κακή γνώμη που δέχεσαι αλλάζει το πώς βλέπεις τον άλλο, και μετά τη μεταδίδεις κι εσύ."}
+      }
+    },
+    {
+      "title": {"en": "Take nothing personally", "el": "Μην παίρνεις τίποτα προσωπικά"},
+      "explain": {
+        "en": "What other people say and do is a projection of their own world: their mood, their fears, their agreements. It is not about you, even when they insult you directly. Taking it personally means you agreed with their poison. Ruiz adds that this goes for praise too. When you no longer need others' opinion to feel fine, nobody can hurt you and you can say yes or no without guilt.",
+        "el": "Ό,τι λένε και κάνουν οι άλλοι είναι προβολή του δικού τους κόσμου: της διάθεσης, των φόβων, των συμφωνιών τους. Δεν αφορά εσένα, ακόμη κι όταν σε βρίζουν κατάμουτρα. Αν το πάρεις προσωπικά, σημαίνει ότι συμφώνησες με το δηλητήριό τους. Ο Ρουίς προσθέτει ότι το ίδιο ισχύει και για τον έπαινο. Όταν δεν χρειάζεσαι πια τη γνώμη των άλλων για να είσαι καλά, κανείς δεν μπορεί να σε πληγώσει και λες «ναι» ή «όχι» χωρίς ενοχές."
+      },
+      "example": {
+        "en": "J.K. Rowling's first Harry Potter manuscript was turned down by about a dozen publishers before a small one took it in 1997. The rejections said nothing true about the book. They showed each publisher's own taste, fears and guesses about what would sell.",
+        "el": "Το πρώτο χειρόγραφο του Χάρι Πότερ της Τζ. Κ. Ρόουλινγκ απορρίφθηκε από καμιά δωδεκαριά εκδότες πριν το πάρει ένας μικρός οίκος το 1997. Οι απορρίψεις δεν έλεγαν τίποτα αληθινό για το βιβλίο. Έδειχναν το γούστο, τους φόβους και τις προβλέψεις κάθε εκδότη για το τι πουλάει."
+      },
+      "apply": {
+        "en": "Remind yourself before every calling session: a doctor who hangs up is reacting to his full waiting room, not to you. Log the «no» as a number, breathe once, and dial the next one with the same voice you had on the first call.",
+        "el": "Θύμισε στον εαυτό σου πριν από κάθε γύρο τηλεφωνημάτων: ο γιατρός που σου το κλείνει αντιδρά στη γεμάτη αίθουσα αναμονής του, όχι σε σένα. Γράψε το «όχι» σαν νούμερο, πάρε μια ανάσα και κάλεσε τον επόμενο με την ίδια φωνή που είχες στο πρώτο τηλεφώνημα."
+      },
+      "check": {
+        "q": {"en": "A prospect is rude to you on the phone. According to Ruiz, what does it show?", "el": "Ένας υποψήφιος πελάτης σού μιλά απότομα στο τηλέφωνο. Τι δείχνει αυτό κατά τον Ρουίς;"},
+        "options": [
+          {"en": "His own state and his own world", "el": "Τη δική του κατάσταση και τον δικό του κόσμο"},
+          {"en": "That your offer is bad", "el": "Ότι η προσφορά σου είναι κακή"},
+          {"en": "That you are not made for sales", "el": "Ότι δεν είσαι φτιαγμένος για πωλήσεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "Others' behaviour is a projection of their own reality, not a verdict on you.", "el": "Η συμπεριφορά των άλλων είναι προβολή της δικής τους πραγματικότητας, όχι ετυμηγορία για σένα."}
+      }
+    },
+    {
+      "title": {"en": "Do not make assumptions", "el": "Μην κάνεις υποθέσεις"},
+      "explain": {
+        "en": "We guess what others think, believe our guess, take it personally and react, and so we create drama out of nothing. We also assume others know what we want without being told. The cure is courage: ask questions until things are clear, and say plainly what you want. Others may answer no, and you may too, but everyone knows where they stand. Clear communication removes most misunderstandings.",
+        "el": "Μαντεύουμε τι σκέφτεται ο άλλος, πιστεύουμε τη μαντεψιά μας, την παίρνουμε προσωπικά και αντιδρούμε· έτσι φτιάχνουμε δράμα από το τίποτα. Υποθέτουμε επίσης ότι οι άλλοι ξέρουν τι θέλουμε χωρίς να το πούμε. Το φάρμακο είναι το θάρρος: ρώτα μέχρι να ξεκαθαρίσει το πράγμα και πες καθαρά τι θέλεις. Μπορεί να ακούσεις «όχι», μπορεί να το πεις κι εσύ, αλλά όλοι ξέρουν πού βρίσκονται. Η καθαρή επικοινωνία σβήνει τις περισσότερες παρεξηγήσεις."
+      },
+      "example": {
+        "en": "In 1999 NASA lost the Mars Climate Orbiter, a 125-million-dollar spacecraft. One team's software sent numbers in American units and the other team's software read them as metric. Each side assumed the other used the same units and nobody asked.",
+        "el": "Το 1999 η NASA έχασε το Mars Climate Orbiter, ένα διαστημόπλοιο 125 εκατομμυρίων δολαρίων. Το λογισμικό της μιας ομάδας έστελνε αριθμούς σε αμερικανικές μονάδες και της άλλης τους διάβαζε ως μετρικές. Κάθε πλευρά υπέθεσε ότι η άλλη δούλευε με τις ίδιες μονάδες και κανείς δεν ρώτησε."
+      },
+      "apply": {
+        "en": "Stop guessing why a client went quiet after the draft. Send one clear question: «Is something in the draft not what you expected, or is it just a busy week?» And when a client asks for «something more modern», ask for one example site before you touch anything.",
+        "el": "Πάψε να μαντεύεις γιατί ένας πελάτης σώπασε μετά το draft. Στείλε μία καθαρή ερώτηση: «Υπάρχει κάτι στο draft που δεν ήταν αυτό που περιμένατε, ή απλώς έχετε φορτωμένη εβδομάδα;» Κι όταν ένας πελάτης ζητά «κάτι πιο μοντέρνο», ζήτα ένα παράδειγμα σελίδας πριν αγγίξεις οτιδήποτε."
+      },
+      "check": {
+        "q": {"en": "What replaces assumptions, according to the third agreement?", "el": "Τι μπαίνει στη θέση των υποθέσεων, σύμφωνα με την τρίτη συμφωνία;"},
+        "options": [
+          {"en": "Better guesses based on experience", "el": "Καλύτερες μαντεψιές, βασισμένες στην εμπειρία"},
+          {"en": "The courage to ask and to say clearly what you want", "el": "Το θάρρος να ρωτάς και να λες καθαρά τι θέλεις"},
+          {"en": "Waiting patiently until the other person explains", "el": "Η υπομονή να περιμένεις ώσπου να εξηγήσει ο άλλος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Asking questions and stating your wishes clearly is the only way to know instead of guess.", "el": "Μόνο αν ρωτήσεις και πεις καθαρά τι θέλεις ξέρεις, αντί να μαντεύεις."}
+      }
+    },
+    {
+      "title": {"en": "Always do your best", "el": "Κάνε πάντα το καλύτερό σου"},
+      "explain": {
+        "en": "The fourth agreement makes the other three a habit. Your best is not a fixed level. It changes from moment to moment: higher when you are rested and healthy, lower when you are sick or tired. Do no more and no less than today's best. If you push beyond it you burn out, and if you do less you invite regret. When you truly did your best, the Judge has nothing to accuse you of.",
+        "el": "Η τέταρτη συμφωνία κάνει τις άλλες τρεις συνήθεια. Το καλύτερό σου δεν είναι σταθερό επίπεδο. Αλλάζει από στιγμή σε στιγμή: ψηλότερα όταν είσαι ξεκούραστος και υγιής, χαμηλότερα όταν είσαι άρρωστος ή κουρασμένος. Κάνε ούτε περισσότερο ούτε λιγότερο από το σημερινό καλύτερό σου. Αν το ξεπεράσεις, καίγεσαι· αν κάνεις λιγότερο, έρχονται οι τύψεις. Όταν έκανες πραγματικά το καλύτερό σου, ο Κριτής δεν έχει τι να σου προσάψει."
+      },
+      "example": {
+        "en": "John Wooden, who won ten national college basketball titles with UCLA, defined success as the peace of mind of knowing you made the effort to become the best you are capable of. He famously talked to his players about effort and preparation far more than about winning.",
+        "el": "Ο Τζον Γούντεν, που πήρε δέκα πρωταθλήματα κολεγιακού μπάσκετ στις ΗΠΑ με το UCLA, όριζε την επιτυχία ως την ηρεμία που νιώθεις όταν ξέρεις ότι προσπάθησες να γίνεις όσο καλός μπορείς. Είναι γνωστό ότι στους παίκτες του μιλούσε πολύ περισσότερο για προσπάθεια και προετοιμασία παρά για νίκες."
+      },
+      "apply": {
+        "en": "Judge your day by effort, not by results you do not control. On a strong day your best may be forty calls; on a day with fever it may be ten good ones. Ask at night «did I give what I had today?» and if yes, sleep without the Judge.",
+        "el": "Κρίνε τη μέρα σου από την προσπάθεια, όχι από αποτελέσματα που δεν ελέγχεις. Σε μια δυνατή μέρα το καλύτερό σου μπορεί να είναι σαράντα τηλεφωνήματα· με πυρετό, δέκα καλά. Ρώτα το βράδυ «έδωσα ό,τι είχα σήμερα;» και, αν ναι, κοιμήσου χωρίς τον Κριτή."
+      },
+      "check": {
+        "q": {"en": "What is true about «your best»?", "el": "Τι ισχύει για «το καλύτερό σου»;"},
+        "options": [
+          {"en": "It must be the same high level every day", "el": "Πρέπει να είναι το ίδιο ψηλό επίπεδο κάθε μέρα"},
+          {"en": "It means working until you are exhausted", "el": "Σημαίνει να δουλεύεις μέχρι να εξαντληθείς"},
+          {"en": "It changes with your condition, and that is fine", "el": "Αλλάζει ανάλογα με την κατάστασή σου, και αυτό είναι εντάξει"}
+        ],
+        "answer": 2,
+        "why": {"en": "Your best when sick is lower than when healthy. Doing today's real best is enough to silence the Judge.", "el": "Το καλύτερό σου όταν είσαι άρρωστος είναι χαμηλότερο απ' ό,τι όταν είσαι υγιής. Το πραγματικό σημερινό καλύτερο αρκεί για να σωπάσει ο Κριτής."}
+      }
+    },
+    {
+      "title": {"en": "Act for the love of it", "el": "Κάνε το επειδή το αγαπάς"},
+      "explain": {
+        "en": "Domestication taught you to act for a reward or to avoid punishment. That is why so many people drag themselves through the week and live only for payday and the weekend. Ruiz asks you to switch the motive: act because you enjoy the action itself. Then you naturally do your best, the work feels lighter, and the rewards come anyway, often bigger than the ones you were chasing.",
+        "el": "Η εξημέρωση σου έμαθε να ενεργείς για μια ανταμοιβή ή για να γλιτώσεις την τιμωρία. Γι' αυτό τόσοι άνθρωποι σέρνονται όλη την εβδομάδα και ζουν μόνο για τον μισθό και το Σαββατοκύριακο. Ο Ρουίς σου ζητά να αλλάξεις κίνητρο: να ενεργείς επειδή χαίρεσαι την ίδια την πράξη. Τότε κάνεις φυσικά το καλύτερό σου, η δουλειά ελαφραίνει και οι ανταμοιβές έρχονται έτσι κι αλλιώς, συχνά μεγαλύτερες από αυτές που κυνηγούσες."
+      },
+      "example": {
+        "en": "Ruiz uses the film character Forrest Gump. Forrest has no big ideas, but whatever he does, running, ping-pong, shrimp fishing, he does fully and without expecting a prize. The rewards arrive on their own. It is fiction, but the point is clear: action first, reward second.",
+        "el": "Ο Ρουίς φέρνει ως παράδειγμα τον ήρωα της ταινίας Φόρεστ Γκαμπ. Ο Φόρεστ δεν έχει μεγάλες ιδέες, αλλά ό,τι κάνει, τρέξιμο, πινγκ πονγκ, ψάρεμα γαρίδας, το κάνει ολόκληρος και χωρίς να περιμένει βραβείο. Οι ανταμοιβές έρχονται μόνες τους. Είναι μυθοπλασία, αλλά το νόημα είναι καθαρό: πρώτα η πράξη, μετά η ανταμοιβή."
+      },
+      "apply": {
+        "en": "Find the part of each task you can enjoy for itself: the craft of a beautiful hero section, the game of opening a cold call well. Start the session for that, not for the sale. Measure the money at the end of the month, not during the call.",
+        "el": "Βρες σε κάθε δουλειά το κομμάτι που μπορείς να χαρείς για το ίδιο: τη μαστοριά ενός όμορφου hero, το παιχνίδι ενός καλού ανοίγματος στο cold call. Ξεκίνα γι' αυτό, όχι για την πώληση. Τα λεφτά μέτρα τα στο τέλος του μήνα, όχι την ώρα του τηλεφωνήματος."
+      },
+      "check": {
+        "q": {"en": "What change of motive does Ruiz ask for?", "el": "Ποια αλλαγή κινήτρου ζητά ο Ρουίς;"},
+        "options": [
+          {"en": "From fear of punishment and hunger for reward to enjoying the action itself", "el": "Από τον φόβο της τιμωρίας και τη δίψα για ανταμοιβή στη χαρά της ίδιας της πράξης"},
+          {"en": "From small rewards to bigger rewards", "el": "Από μικρές ανταμοιβές σε μεγαλύτερες ανταμοιβές"},
+          {"en": "From working alone to working for others", "el": "Από το να δουλεύεις μόνος στο να δουλεύεις για άλλους"}
+        ],
+        "answer": 0,
+        "why": {"en": "Acting only for reward is the old domestication. Acting for the love of the action is freedom.", "el": "Το να ενεργείς μόνο για την ανταμοιβή είναι η παλιά εξημέρωση. Το να ενεργείς από αγάπη για την πράξη είναι ελευθερία."}
+      }
+    },
+    {
+      "title": {"en": "Stalk your habits", "el": "Στήσε καρτέρι στις συνήθειές σου"},
+      "explain": {
+        "en": "Knowing the four agreements changes nothing. Practice does. Ruiz says freedom grows like a muscle: you become a «warrior» who first becomes aware of the old programme and then hunts it. Like a jaguar stalking its prey, you watch your own reactions, catch one bad habit, and replace it. Then the next one. You will fall many times. Each time you simply start again, and repetition makes the master.",
+        "el": "Το να ξέρεις τις τέσσερις συμφωνίες δεν αλλάζει τίποτα. Η εξάσκηση αλλάζει. Ο Ρουίς λέει ότι η ελευθερία δυναμώνει σαν μυς: γίνεσαι «πολεμιστής» που πρώτα αντιλαμβάνεται το παλιό πρόγραμμα και μετά το κυνηγά. Σαν τζάγκουαρ που παραμονεύει το θήραμά του, παρατηρείς τις αντιδράσεις σου, πιάνεις μία κακή συνήθεια και την αντικαθιστάς. Μετά την επόμενη. Θα πέσεις πολλές φορές. Κάθε φορά απλώς ξαναρχίζεις· η επανάληψη φτιάχνει τον μάστορα."
+      },
+      "example": {
+        "en": "Ruiz compares it to how you learned everything else: as a baby you fell again and again before you walked, and nobody thought you had failed. You learned to write and to drive the same way, by repeating until the action needed no thought.",
+        "el": "Ο Ρουίς το συγκρίνει με το πώς έμαθες όλα τα άλλα: μωρό έπεσες ξανά και ξανά πριν περπατήσεις, και κανείς δεν σκέφτηκε ότι απέτυχες. Με τον ίδιο τρόπο έμαθες να γράφεις και να οδηγείς, επαναλαμβάνοντας μέχρι η κίνηση να μη θέλει σκέψη."
+      },
+      "apply": {
+        "en": "Choose one habit for this week only, for example interrupting clients before they finish. Keep a small tally on paper every time you catch it. Do not punish yourself for the marks. Seeing them is the practice, and next week pick the next habit.",
+        "el": "Διάλεξε μία μόνο συνήθεια για αυτή την εβδομάδα, για παράδειγμα ότι διακόπτεις τους πελάτες πριν τελειώσουν. Βάζε μια γραμμούλα σε ένα χαρτί κάθε φορά που την πιάνεις. Μη μαλώνεις τον εαυτό σου για τις γραμμές. Το ότι τις βλέπεις είναι η εξάσκηση· την άλλη εβδομάδα πιάσε την επόμενη συνήθεια."
+      },
+      "check": {
+        "q": {"en": "How do the agreements become part of you?", "el": "Πώς γίνονται οι συμφωνίες κομμάτι σου;"},
+        "options": [
+          {"en": "By understanding them well once", "el": "Αν τις καταλάβεις καλά μία φορά"},
+          {"en": "By daily practice, catching one habit at a time", "el": "Με καθημερινή εξάσκηση, πιάνοντας μία συνήθεια τη φορά"},
+          {"en": "By waiting until you feel ready", "el": "Αν περιμένεις μέχρι να νιώσεις έτοιμος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Freedom is like a muscle: awareness first, then patient repetition, starting again after every fall.", "el": "Η ελευθερία είναι σαν μυς: πρώτα επίγνωση, μετά υπομονετική επανάληψη, και ξανά από την αρχή μετά από κάθε πέσιμο."}
+      }
+    },
+    {
+      "title": {"en": "Forgive, above all yourself", "el": "Συγχώρεσε, πρώτα απ' όλα εσένα"},
+      "explain": {
+        "en": "Old hurts are like infected wounds: everyone who touches them makes you react. Ruiz's medicine is forgiveness. You forgive those who hurt you, not because they deserve it but because you do not want to keep paying for what they did. You forgive God or life for what seemed unfair. And, most important, you forgive yourself. You know it worked when you can touch the wound and it no longer hurts.",
+        "el": "Οι παλιές πληγές μοιάζουν με μολυσμένα τραύματα: όποιος τις αγγίξει, αντιδράς. Το φάρμακο του Ρουίς είναι η συγχώρεση. Συγχωρείς όσους σε πλήγωσαν, όχι επειδή το αξίζουν αλλά επειδή δεν θέλεις να πληρώνεις άλλο για ό,τι έκαναν. Συγχωρείς τον Θεό ή τη ζωή για ό,τι σου φάνηκε άδικο. Και, το σπουδαιότερο, συγχωρείς τον εαυτό σου. Ξέρεις ότι έπιασε όταν αγγίζεις την πληγή και δεν πονά πια."
+      },
+      "example": {
+        "en": "Nelson Mandela spent 27 years in prison. When he became president of South Africa in 1994 he invited former jailers to his inauguration and worked with the people who had locked him up. He chose reconciliation over revenge, and the country avoided the civil war many expected.",
+        "el": "Ο Νέλσον Μαντέλα έμεινε 27 χρόνια στη φυλακή. Όταν έγινε πρόεδρος της Νότιας Αφρικής το 1994, κάλεσε πρώην δεσμοφύλακές του στην ορκωμοσία του και συνεργάστηκε με όσους τον είχαν κλείσει μέσα. Διάλεξε τη συμφιλίωση αντί για την εκδίκηση, και η χώρα γλίτωσε τον εμφύλιο που πολλοί περίμεναν."
+      },
+      "apply": {
+        "en": "List the people you still replay in your head: a client who never paid, a partner who let you down, and yourself for an old business mistake. For each write one line: «I stop paying for this». Keep any lesson and drop the grudge.",
+        "el": "Γράψε τους ανθρώπους που ακόμα ξαναπαίζεις στο μυαλό σου: έναν πελάτη που δεν πλήρωσε ποτέ, έναν συνεργάτη που σε άφησε ξεκρέμαστο, κι εσένα για ένα παλιό επαγγελματικό λάθος. Για καθέναν γράψε μία γραμμή: «σταματώ να πληρώνω γι' αυτό». Κράτα το μάθημα και άσε τη μνησικακία."
+      },
+      "check": {
+        "q": {"en": "Why forgive someone who hurt you, according to Ruiz?", "el": "Γιατί να συγχωρέσεις κάποιον που σε πλήγωσε, κατά τον Ρουίς;"},
+        "options": [
+          {"en": "Because they have earned it", "el": "Επειδή το έχει κερδίσει"},
+          {"en": "Because good people never get angry", "el": "Επειδή οι καλοί άνθρωποι δεν θυμώνουν ποτέ"},
+          {"en": "Because you stop paying for what they did", "el": "Επειδή έτσι παύεις να πληρώνεις εσύ για ό,τι έκανε"}
+        ],
+        "answer": 2,
+        "why": {"en": "Forgiveness is for your own healing; the grudge poisons you, not them.", "el": "Η συγχώρεση είναι για τη δική σου γιατρειά· η μνησικακία δηλητηριάζει εσένα, όχι εκείνον."}
+      }
+    },
+    {
+      "title": {"en": "Death as a teacher", "el": "Ο θάνατος ως δάσκαλος"},
+      "explain": {
+        "en": "Ruiz calls it the initiation of death. Imagine the angel of death standing next to you, reminding you that this day may be your last. Nothing is really yours to keep. Seen this way, most worries shrink: what others think, old quarrels, being right. What matters becomes obvious. You stop fearing life, you say what you feel to the people you love, and you enjoy today instead of saving it for later.",
+        "el": "Ο Ρουίς το λέει μύηση του θανάτου. Φαντάσου τον άγγελο του θανάτου δίπλα σου να σου θυμίζει ότι αυτή η μέρα μπορεί να είναι η τελευταία σου. Τίποτα δεν είναι πραγματικά δικό σου για πάντα. Έτσι οι περισσότερες έγνοιες μικραίνουν: τι λέει ο κόσμος, παλιοί καβγάδες, ποιος έχει δίκιο. Φαίνεται αμέσως τι μετράει. Παύεις να φοβάσαι τη ζωή, λες στους δικούς σου ό,τι νιώθεις και χαίρεσαι το σήμερα αντί να το φυλάς για αργότερα."
+      },
+      "example": {
+        "en": "Steve Jobs told Stanford graduates in 2005 that every morning he asked himself in the mirror whether he would want to do today's plan if it were his last day. When the answer was no for too many days in a row, he knew something had to change.",
+        "el": "Ο Στιβ Τζομπς είπε το 2005 στους αποφοίτους του Στάνφορντ ότι κάθε πρωί ρωτούσε τον εαυτό του στον καθρέφτη αν θα ήθελε να κάνει το σημερινό πρόγραμμα, αν ήταν η τελευταία του μέρα. Όταν η απάντηση ήταν «όχι» για πολλές μέρες στη σειρά, ήξερε ότι κάτι έπρεπε να αλλάξει."
+      },
+      "apply": {
+        "en": "Ask Jobs's question before you plan the week. Cross out one thing you do only to look good to others, and add one thing you keep postponing: the call to your parents, the bold offer, the difficult conversation with a client who drains you.",
+        "el": "Κάνε την ερώτηση του Τζομπς πριν προγραμματίσεις την εβδομάδα. Σβήσε ένα πράγμα που κάνεις μόνο για να φανείς καλός στους άλλους και πρόσθεσε ένα που όλο αναβάλλεις: το τηλέφωνο στους γονείς σου, την τολμηρή προσφορά, τη δύσκολη κουβέντα με έναν πελάτη που σε στραγγίζει."
+      },
+      "check": {
+        "q": {"en": "What is the «initiation of death» for?", "el": "Σε τι χρησιμεύει η «μύηση του θανάτου»;"},
+        "options": [
+          {"en": "To make you sad about the end", "el": "Για να σε λυπήσει για το τέλος"},
+          {"en": "To show you what matters and remove the fear of living", "el": "Για να δεις τι μετράει και να φύγει ο φόβος να ζήσεις"},
+          {"en": "To prepare a detailed plan for old age", "el": "Για να φτιάξεις λεπτομερές πλάνο για τα γεράματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Living as if time is short clears away what is unimportant and frees you to live fully today.", "el": "Όταν ζεις σαν να μην έχεις χρόνο, φεύγουν τα ασήμαντα και ελευθερώνεσαι να ζήσεις ολόκληρα το σήμερα."}
+      }
+    },
+    {
+      "title": {"en": "Back to the wild human", "el": "Πίσω στον άγριο άνθρωπο"},
+      "explain": {
+        "en": "Freedom, for Ruiz, is not about politics or money. It is being yourself. A child of two or three is a «wild human»: it laughs, plays, explores, says what it wants, lives in the present and is not afraid of what others think. Domestication buried that child. The goal of all the practice is to get back there as an adult, free from the need to be approved.",
+        "el": "Η ελευθερία, για τον Ρουίς, δεν έχει να κάνει με πολιτική ή χρήματα. Είναι το να είσαι ο εαυτός σου. Ένα παιδί δύο τριών χρονών είναι «άγριος άνθρωπος»: γελά, παίζει, εξερευνά, λέει τι θέλει, ζει στο παρόν και δεν φοβάται τι θα πουν οι άλλοι. Η εξημέρωση έθαψε αυτό το παιδί. Ο σκοπός όλης της εξάσκησης είναι να ξαναφτάσεις εκεί ως ενήλικας, ελεύθερος από την ανάγκη να σε εγκρίνουν."
+      },
+      "example": {
+        "en": "Watch small children in a playground. They fight over a toy and five minutes later play together again, with no grudge. They dance without checking who is looking. Ruiz points to exactly this: they do not carry the past and they do not need approval to enjoy themselves.",
+        "el": "Κοίτα μικρά παιδιά σε μια παιδική χαρά. Μαλώνουν για ένα παιχνίδι και σε πέντε λεπτά παίζουν πάλι μαζί, χωρίς κακία. Χορεύουν χωρίς να κοιτούν ποιος τα βλέπει. Αυτό ακριβώς δείχνει ο Ρουίς: δεν κουβαλούν το παρελθόν και δεν χρειάζονται έγκριση για να περάσουν καλά."
+      },
+      "apply": {
+        "en": "Catch one decision this week that you are making only for approval: a price you lower so the client will like you, a post you soften so nobody objects. Decide it again as if nobody were watching, and see which version is really yours.",
+        "el": "Πιάσε αυτή την εβδομάδα μία απόφαση που παίρνεις μόνο για να σε εγκρίνουν: μια τιμή που ρίχνεις για να σε συμπαθήσει ο πελάτης, ένα post που το μαλακώνεις για να μη διαφωνήσει κανείς. Ξαναπάρ' την σαν να μη σε βλέπει κανείς και δες ποια εκδοχή είναι πραγματικά δική σου."
+      },
+      "check": {
+        "q": {"en": "What is freedom in this book?", "el": "Τι είναι ελευθερία σε αυτό το βιβλίο;"},
+        "options": [
+          {"en": "Being yourself without needing others' approval", "el": "Να είσαι ο εαυτός σου χωρίς να χρειάζεσαι την έγκριση των άλλων"},
+          {"en": "Having enough money to stop working", "el": "Να έχεις αρκετά χρήματα ώστε να μη δουλεύεις"},
+          {"en": "Doing whatever you want to other people", "el": "Να κάνεις στους άλλους ό,τι σου καπνίσει"}
+        ],
+        "answer": 0,
+        "why": {"en": "The «wild human» is free like a small child: present, playful and not ruled by fear of rejection.", "el": "Ο «άγριος άνθρωπος» είναι ελεύθερος όπως ένα μικρό παιδί: παρών, παιχνιδιάρης και όχι δέσμιος του φόβου της απόρριψης."}
+      }
+    },
+    {
+      "title": {"en": "Dream a new dream", "el": "Ονειρέψου ένα νέο όνειρο"},
+      "explain": {
+        "en": "Ruiz says your life is a dream your mind paints all day long. Until now others held the brush. With the four agreements you take it back and become the artist: master of your own dream. The result is what he calls heaven on earth, here and now, a life where you see with love instead of fear. Nothing outside has to change first. Your way of seeing does.",
+        "el": "Ο Ρουίς λέει ότι η ζωή σου είναι ένα όνειρο που το μυαλό σου ζωγραφίζει όλη μέρα. Ως τώρα το πινέλο το κρατούσαν άλλοι. Με τις τέσσερις συμφωνίες το παίρνεις πίσω και γίνεσαι ο καλλιτέχνης, κύριος του δικού σου ονείρου. Το αποτέλεσμα είναι αυτό που ονομάζει παράδεισο στη γη, εδώ και τώρα: μια ζωή όπου βλέπεις με αγάπη αντί για φόβο. Δεν χρειάζεται να αλλάξει πρώτα κάτι έξω. Αλλάζει ο τρόπος που βλέπεις."
+      },
+      "example": {
+        "en": "Ruiz's own life is the example. He was on the path to a medical career when a serious car crash shook him. He left the life everyone expected of him, studied with his mother and a shaman, and built a new life as a teacher and writer.",
+        "el": "Παράδειγμα είναι η ζωή του ίδιου του Ρουίς. Πήγαινε για καριέρα γιατρού όταν ένα σοβαρό τροχαίο τον ταρακούνησε. Άφησε τη ζωή που όλοι περίμεναν από αυτόν, μαθήτευσε δίπλα στη μητέρα του και σε έναν σαμάνο, και έχτισε μια καινούργια ζωή ως δάσκαλος και συγγραφέας."
+      },
+      "apply": {
+        "en": "Write half a page describing an ordinary Tuesday three years from now, as you would paint it yourself: how many hours you work, who makes the calls, what you build, who you have dinner with. Then check which part of today's week already moves toward it.",
+        "el": "Γράψε μισή σελίδα για μια συνηθισμένη Τρίτη σε τρία χρόνια, όπως θα τη ζωγράφιζες εσύ: πόσες ώρες δουλεύεις, ποιος κάνει τα τηλεφωνήματα, τι χτίζεις, με ποιον τρως το βράδυ. Μετά δες ποιο κομμάτι της σημερινής σου εβδομάδας πηγαίνει ήδη προς τα εκεί."
+      },
+      "check": {
+        "q": {"en": "What does «master of your own dream» mean?", "el": "Τι σημαίνει «κύριος του δικού σου ονείρου»;"},
+        "options": [
+          {"en": "You control what other people do", "el": "Ελέγχεις το τι κάνουν οι άλλοι"},
+          {"en": "You sleep better and remember your dreams", "el": "Κοιμάσαι καλύτερα και θυμάσαι τα όνειρά σου"},
+          {"en": "You choose your own beliefs and how you see your life", "el": "Διαλέγεις εσύ τις πεποιθήσεις σου και το πώς βλέπεις τη ζωή σου"}
+        ],
+        "answer": 2,
+        "why": {"en": "The dream is your view of life. Rewriting your agreements means you paint it, not society.", "el": "Το όνειρο είναι το πώς βλέπεις τη ζωή. Όταν ξαναγράφεις τις συμφωνίες σου, το ζωγραφίζεις εσύ και όχι η κοινωνία."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A dentist you cold call says «I am not interested, stop bothering people» and hangs up. What do you do?", "el": "Ένας οδοντίατρος που παίρνεις cold call λέει «δεν ενδιαφέρομαι, μην ενοχλείτε τον κόσμο» και το κλείνει. Τι κάνεις;"},
+      "options": [
+        {"en": "Stop calling for the day because you clearly annoy people", "el": "Σταματάς τα τηλεφωνήματα για σήμερα, αφού προφανώς ενοχλείς"},
+        {"en": "Note the no, remember it is about his day, and dial the next number", "el": "Σημειώνεις το «όχι», θυμάσαι ότι αφορά τη δική του μέρα και παίρνεις τον επόμενο"},
+        {"en": "Call back to explain that he was rude", "el": "Τον ξαναπαίρνεις για να του εξηγήσεις ότι ήταν αγενής"}
+      ],
+      "answer": 1,
+      "why": {"en": "His reaction is a projection of his own state. Taking it personally only costs you the next calls.", "el": "Η αντίδρασή του είναι προβολή της δικής του κατάστασης. Αν το πάρεις προσωπικά, χάνεις απλώς τα επόμενα τηλεφωνήματα."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "A client has not answered for six days after you sent the first draft. You start thinking he hates it. What do you do?", "el": "Ένας πελάτης δεν απαντά έξι μέρες αφότου έστειλες το πρώτο draft. Αρχίζεις να σκέφτεσαι ότι δεν του άρεσε καθόλου. Τι κάνεις;"},
+      "options": [
+        {"en": "Send a short, clear question asking what he thinks and whether anything is unclear", "el": "Στέλνεις μια σύντομη, καθαρή ερώτηση: τι γνώμη έχει και αν κάτι δεν είναι ξεκάθαρο"},
+        {"en": "Redesign the whole site to be safe", "el": "Ξανασχεδιάζεις όλη τη σελίδα για σιγουριά"},
+        {"en": "Wait in silence so you do not seem pushy", "el": "Περιμένεις αμίλητος για να μη φανείς πιεστικός"}
+      ],
+      "answer": 0,
+      "why": {"en": "You are guessing. One honest question replaces days of invented drama.", "el": "Μαντεύεις. Μία ειλικρινής ερώτηση αντικαθιστά μέρες φανταστικού δράματος."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "A prospect starts complaining that his previous web designer was a crook and waits for you to agree. What do you do?", "el": "Ένας υποψήφιος πελάτης αρχίζει να λέει ότι ο προηγούμενος κατασκευαστής του ήταν απατεώνας και περιμένει να συμφωνήσεις. Τι κάνεις;"},
+      "options": [
+        {"en": "Agree and add your own stories about bad agencies", "el": "Συμφωνείς και προσθέτεις δικές σου ιστορίες για κακά γραφεία"},
+        {"en": "Defend the other designer strongly", "el": "Υπερασπίζεσαι με πάθος τον άλλο κατασκευαστή"},
+        {"en": "Say you do not know that story and explain how you work", "el": "Λες ότι δεν ξέρεις την ιστορία και εξηγείς πώς δουλεύεις εσύ"}
+      ],
+      "answer": 2,
+      "why": {"en": "Joining gossip spreads poison and makes him wonder what you will say about him later.", "el": "Αν μπεις στο κουτσομπολιό, απλώνεις δηλητήριο και εκείνος αναρωτιέται τι θα λες αργότερα για τον ίδιο."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "You have a fever but had planned forty calls today. What does the fourth agreement say?", "el": "Έχεις πυρετό, αλλά είχες προγραμματίσει σαράντα τηλεφωνήματα σήμερα. Τι λέει η τέταρτη συμφωνία;"},
+      "options": [
+        {"en": "Do all forty anyway; less is failure", "el": "Κάνε και τα σαράντα· οτιδήποτε λιγότερο είναι αποτυχία"},
+        {"en": "Do the best that today's body allows and do not judge yourself", "el": "Κάνε το καλύτερο που αντέχει σήμερα το σώμα σου και μην κρίνεις τον εαυτό σου"},
+        {"en": "Do nothing and feel guilty about it", "el": "Μην κάνεις τίποτα και νιώσε ενοχές"}
+      ],
+      "answer": 1,
+      "why": {"en": "Your best changes with your condition. Doing today's real best leaves the Judge without a case.", "el": "Το καλύτερό σου αλλάζει με την κατάστασή σου. Αν κάνεις το πραγματικό σημερινό καλύτερο, ο Κριτής δεν έχει υπόθεση."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "You promised a client a site in three days to close the deal, knowing it needs a week. He now asks where it is. What should you have done?", "el": "Υποσχέθηκες σε πελάτη σελίδα σε τρεις μέρες για να κλείσεις τη συμφωνία, ενώ ήξερες ότι θέλει μία εβδομάδα. Τώρα ρωτά πού είναι. Τι έπρεπε να είχες κάνει;"},
+      "options": [
+        {"en": "Promised two days to impress him more", "el": "Να υποσχεθείς δύο μέρες για να τον εντυπωσιάσεις περισσότερο"},
+        {"en": "Avoided giving any date at all", "el": "Να μη δώσεις καμία ημερομηνία"},
+        {"en": "Said the true time from the start", "el": "Να πεις από την αρχή τον αληθινό χρόνο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Being impeccable with your word means saying only what you mean and can deliver.", "el": "Άψογος με τον λόγο σου σημαίνει να λες μόνο ό,τι εννοείς και μπορείς να παραδώσεις."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "It is late at night and you keep replaying a mistake you made with a client two years ago. What helps?", "el": "Είναι αργά το βράδυ και ξαναπαίζεις στο μυαλό σου ένα λάθος που έκανες με έναν πελάτη πριν από δύο χρόνια. Τι βοηθά;"},
+      "options": [
+        {"en": "See that the Judge is charging you again, keep the lesson and forgive yourself", "el": "Να δεις ότι ο Κριτής σε χρεώνει ξανά, να κρατήσεις το μάθημα και να συγχωρέσεις τον εαυτό σου"},
+        {"en": "Go through every detail once more until you feel bad enough", "el": "Να περάσεις κάθε λεπτομέρεια άλλη μία φορά, μέχρι να νιώσεις αρκετά άσχημα"},
+        {"en": "Decide that you should never take risky clients again", "el": "Να αποφασίσεις ότι δεν ξαναπαίρνεις ποτέ πελάτη με ρίσκο"}
+      ],
+      "answer": 0,
+      "why": {"en": "You already paid for that mistake. Paying again every night is the Judge and the Victim at work.", "el": "Αυτό το λάθος το έχεις ήδη πληρώσει. Το να ξαναπληρώνεις κάθε βράδυ είναι δουλειά του Κριτή και του Θύματος."},
+      "idea": 1
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "According to Ruiz, you chose most of your beliefs yourself as an adult.", "el": "Κατά τον Ρουίς, τις περισσότερες πεποιθήσεις σου τις διάλεξες μόνος σου ως ενήλικας."},
+      "answer": false,
+      "why": {"en": "They were given to you as a child through domestication; you only agreed.", "el": "Σου τις έδωσαν παιδί, με την εξημέρωση· εσύ απλώς συμφώνησες."}
+    },
+    {
+      "s": {"en": "Being impeccable with your word includes how you talk to yourself.", "el": "Το να είσαι άψογος με τον λόγο σου αφορά και το πώς μιλάς στον εαυτό σου."},
+      "answer": true,
+      "why": {"en": "Guilt and self-insults are words used against yourself, which is what the first agreement forbids.", "el": "Οι ενοχές και οι βρισιές προς τον εαυτό σου είναι λόγια εναντίον σου· αυτό ακριβώς απαγορεύει η πρώτη συμφωνία."}
+    },
+    {
+      "s": {"en": "The second agreement says criticism is not about you, but praise is.", "el": "Η δεύτερη συμφωνία λέει ότι η κριτική δεν αφορά εσένα, αλλά ο έπαινος ναι."},
+      "answer": false,
+      "why": {"en": "Both come from the other person's world. Do not take either one personally.", "el": "Και τα δύο βγαίνουν από τον κόσμο του άλλου. Μην παίρνεις προσωπικά κανένα από τα δύο."}
+    },
+    {
+      "s": {"en": "Your best is lower when you are sick, and that still counts as doing your best.", "el": "Το καλύτερό σου είναι χαμηλότερο όταν είσαι άρρωστος, και πάλι μετράει ως «το καλύτερό σου»."},
+      "answer": true,
+      "why": {"en": "Ruiz says your best changes from moment to moment with your condition.", "el": "Ο Ρουίς λέει ότι το καλύτερό σου αλλάζει από στιγμή σε στιγμή, ανάλογα με την κατάστασή σου."}
+    },
+    {
+      "s": {"en": "Assumptions are harmless as long as you keep them to yourself.", "el": "Οι υποθέσεις είναι ακίνδυνες, αρκεί να τις κρατάς για τον εαυτό σου."},
+      "answer": false,
+      "why": {"en": "You believe your guess, take it personally and react. The damage starts inside you.", "el": "Πιστεύεις τη μαντεψιά σου, την παίρνεις προσωπικά και αντιδράς. Η ζημιά ξεκινά μέσα σου."}
+    },
+    {
+      "s": {"en": "You forgive for your own sake, not because the other person deserves it.", "el": "Συγχωρείς για το δικό σου καλό, όχι επειδή το αξίζει ο άλλος."},
+      "answer": true,
+      "why": {"en": "Forgiveness ends your own suffering; the grudge hurts you, not them.", "el": "Η συγχώρεση σταματά τη δική σου ταλαιπωρία· η μνησικακία βλάπτει εσένα, όχι εκείνον."}
+    },
+    {
+      "s": {"en": "Once you understand the four agreements, they work by themselves.", "el": "Μόλις καταλάβεις τις τέσσερις συμφωνίες, δουλεύουν από μόνες τους."},
+      "answer": false,
+      "why": {"en": "They need daily practice. You will break them often and start again.", "el": "Θέλουν καθημερινή εξάσκηση. Θα τις παραβιάζεις συχνά και θα ξαναρχίζεις."}
+    },
+    {
+      "s": {"en": "Ruiz wants you to act for the joy of the action, not for the reward.", "el": "Ο Ρουίς θέλει να ενεργείς για τη χαρά της πράξης, όχι για την ανταμοιβή."},
+      "answer": true,
+      "why": {"en": "Acting for reward or from fear is the old domestication; enjoying the action is freedom.", "el": "Το να ενεργείς για ανταμοιβή ή από φόβο είναι η παλιά εξημέρωση· η χαρά της πράξης είναι ελευθερία."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Domestication", "el": "Εξημέρωση"}, "b": {"en": "Being trained as a child with reward and punishment", "el": "Η εκπαίδευσή σου από παιδί με ανταμοιβή και τιμωρία"}},
+    {"a": {"en": "The Judge", "el": "Ο Κριτής"}, "b": {"en": "Inner voice that condemns you by old rules", "el": "Η εσωτερική φωνή που σε καταδικάζει με παλιούς κανόνες"}},
+    {"a": {"en": "The Victim", "el": "Το Θύμα"}, "b": {"en": "The part of you that accepts the blame", "el": "Το κομμάτι σου που δέχεται την κατηγορία"}},
+    {"a": {"en": "Impeccable word", "el": "Άψογος λόγος"}, "b": {"en": "No words against yourself or others", "el": "Καμία λέξη ενάντια σε σένα ή στους άλλους"}},
+    {"a": {"en": "Stalking", "el": "Καρτέρι"}, "b": {"en": "Watching your habits to catch them one by one", "el": "Παρατηρείς τις συνήθειές σου και τις πιάνεις μία μία"}},
+    {"a": {"en": "Initiation of death", "el": "Μύηση του θανάτου"}, "b": {"en": "Living each day as if it could be the last", "el": "Ζεις κάθε μέρα σαν να είναι η τελευταία"}}
+  ],
+  "missions": [
+    {"en": "Spend one full workday without one bad word about anyone, yourself included, and count how many times you nearly slipped.", "el": "Πέρνα μια ολόκληρη εργάσιμη μέρα χωρίς ούτε μία κακή κουβέντα για κανέναν, ούτε για σένα, και μέτρα πόσες φορές παραλίγο να σου ξεφύγει."},
+    {"en": "Write after your next ten calls, next to each «no», one possible reason that has nothing to do with you.", "el": "Γράψε μετά τα επόμενα δέκα τηλεφωνήματα, δίπλα σε κάθε «όχι», έναν πιθανό λόγο που δεν έχει καμία σχέση με σένα."},
+    {"en": "Find one assumption you are making about a client or a team member today and replace it with a direct question to them.", "el": "Βρες μία υπόθεση που κάνεις σήμερα για έναν πελάτη ή για κάποιον από την ομάδα και αντικατάστησέ την με μια ευθεία ερώτηση προς τον ίδιο."},
+    {"en": "Write down the sentence your Judge repeats most often and, under it, what you would say to a friend in the same situation.", "el": "Γράψε τη φράση που επαναλαμβάνει πιο συχνά ο Κριτής σου και, από κάτω, τι θα έλεγες σε έναν φίλο στην ίδια θέση."},
+    {"en": "Choose one person you still hold a grudge against and write a short note of forgiveness that you do not need to send.", "el": "Διάλεξε έναν άνθρωπο στον οποίο κρατάς ακόμη κακία και γράψε ένα σύντομο σημείωμα συγχώρεσης, που δεν χρειάζεται να στείλεις."}
+  ],
+  "mantra": {
+    "en": "Clean words, nothing personal, no guessing, my best today.",
+    "el": "Καθαρός λόγος, τίποτα προσωπικά, καμία μαντεψιά, το καλύτερό μου σήμερα."
+  },
+  "careful": {
+    "en": "The four rules are sound everyday psychology, but the frame around them is spiritual, not scientific: there is no evidence for the Toltec cosmology, and historians doubt how old these teachings really are. Taken to the extreme, «nothing is personal» can become a way to ignore fair criticism or to stay with people who treat you badly. Some feedback is about you and worth hearing. And real trauma often needs professional help, not only forgiveness.",
+    "el": "Οι τέσσερις κανόνες είναι υγιής καθημερινή ψυχολογία, όμως το πλαίσιο γύρω τους είναι πνευματικό, όχι επιστημονικό: δεν υπάρχουν αποδείξεις για την κοσμολογία των Τολτέκων, και οι ιστορικοί αμφιβάλλουν για το πόσο παλιά είναι στ' αλήθεια αυτή η διδασκαλία. Στα άκρα του, το «τίποτα δεν είναι προσωπικό» γίνεται δικαιολογία για να αγνοείς δίκαιη κριτική ή να μένεις δίπλα σε ανθρώπους που σου φέρονται άσχημα. Κάποιο feedback αφορά όντως εσένα και αξίζει να το ακούσεις. Και ένα βαθύ τραύμα θέλει συχνά ειδικό, όχι μόνο συγχώρεση."
+  },
+  "connects": [
+    {"book": "meditations", "note": {"en": "Marcus Aurelius says the same thing 1,800 years earlier: it is not events or people that hurt you but your opinion about them.", "el": "Ο Μάρκος Αυρήλιος λέει το ίδιο 1.800 χρόνια νωρίτερα: δεν σε πληγώνουν τα γεγονότα ή οι άνθρωποι, αλλά η γνώμη σου γι' αυτά."}},
+    {"book": "inner-game-of-tennis", "note": {"en": "Gallwey's Self 1, the voice that judges every shot, is Ruiz's Judge on a tennis court, and both books quiet it by observing without judging.", "el": "Ο «Εαυτός 1» του Gallwey, η φωνή που κρίνει κάθε χτύπημα, είναι ο Κριτής του Ρουίς σε γήπεδο τένις· και τα δύο βιβλία τον ησυχάζουν με παρατήρηση χωρίς κριτική."}},
+    {"book": "laws-of-human-nature", "note": {"en": "Greene agrees that people's behaviour reflects their own inner world, but he asks you to study and read it carefully rather than simply let it go.", "el": "Ο Greene συμφωνεί ότι η συμπεριφορά των ανθρώπων καθρεφτίζει τον δικό τους εσωτερικό κόσμο, αλλά σου ζητά να τη μελετάς και να τη διαβάζεις προσεκτικά, όχι απλώς να την προσπερνάς."}}
+  ]
+}

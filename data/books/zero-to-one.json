@@ -1,0 +1,558 @@
+{
+  "id": "zero-to-one",
+  "title": {"en": "Zero to One", "el": "Από το Μηδέν στο Ένα (Zero to One)"},
+  "author": "Peter Thiel with Blake Masters",
+  "authorEl": "Πίτερ Τιλ με τον Μπλέικ Μάστερς",
+  "year": 2014,
+  "shelf": "business",
+  "skills": {"strategy": 3, "sales": 2, "leadership": 1},
+  "oneLine": {
+    "en": "Do not copy what works; build something new that nobody else offers, own a small market completely, and grow from there.",
+    "el": "Μην αντιγράφεις ό,τι δουλεύει· φτιάξε κάτι καινούριο που δεν το προσφέρει κανείς, κυριάρχησε σε μια μικρή αγορά και μεγάλωσε από εκεί."
+  },
+  "story": {
+    "en": "Peter Thiel co-founded PayPal, was the first outside investor in Facebook and started Palantir and the fund Founders Fund. In 2012 he taught a class on startups at Stanford. A student, Blake Masters, took detailed notes that spread online, and together they turned them into this short book in 2014. People read it because it goes against the usual startup advice: avoid competition, plan boldly, and look for truths others miss.",
+    "el": "Ο Peter Thiel ήταν συνιδρυτής της PayPal, ο πρώτος εξωτερικός επενδυτής του Facebook και ίδρυσε την Palantir και το fund Founders Fund. Το 2012 δίδαξε στο Stanford ένα μάθημα για startups. Ένας φοιτητής, ο Blake Masters, κράτησε αναλυτικές σημειώσεις που διαδόθηκαν στο ίντερνετ, και το 2014 τις έκαναν μαζί αυτό το μικρό βιβλίο. Διαβάζεται γιατί πάει κόντρα στις συνηθισμένες συμβουλές: απόφυγε τον ανταγωνισμό, κάνε τολμηρό σχέδιο και ψάξε αλήθειες που οι άλλοι δεν βλέπουν."
+  },
+  "forYou": {
+    "en": "Web design is a crowded market where everyone looks the same and fights on price. Your 0 euro build is already a move away from that. Thiel helps you think further: which small group of Greek professionals can Advon own completely, what makes you ten times better for them, and why selling is as important as the product you build.",
+    "el": "Η κατασκευή ιστοσελίδων είναι γεμάτη αγορά, όπου όλοι μοιάζουν ίδιοι και παλεύουν στην τιμή. Η κατασκευή με 0 ευρώ είναι ήδη ένα βήμα μακριά από αυτό. Ο Thiel σε βοηθά να το πας παραπέρα: ποια μικρή ομάδα Ελλήνων επαγγελματιών μπορεί η Advon να κατακτήσει ολοκληρωτικά, τι σε κάνει δέκα φορές καλύτερο γι' αυτούς, και γιατί η πώληση μετρά όσο και το προϊόν που φτιάχνεις."
+  },
+  "ideas": [
+    {
+      "title": {"en": "The contrarian question", "el": "Η ερώτηση κόντρα στο ρεύμα"},
+      "explain": {
+        "en": "Thiel asks everyone he interviews: what important truth do very few people agree with you on? It is hard, because school teaches us to repeat what everyone already believes. A good answer has the form: most people believe X, but the truth is the opposite. The business version: what valuable company is nobody building? Great businesses start from such an answer, not from following the crowd.",
+        "el": "Ο Thiel ρωτά όποιον περνά συνέντευξη μαζί του: σε ποια σημαντική αλήθεια συμφωνούν μαζί σου ελάχιστοι άνθρωποι; Είναι δύσκολη ερώτηση, γιατί το σχολείο μάς μαθαίνει να επαναλαμβάνουμε όσα πιστεύουν ήδη όλοι. Μια καλή απάντηση έχει τη μορφή: οι περισσότεροι πιστεύουν το Χ, όμως η αλήθεια είναι το αντίθετο. Στις επιχειρήσεις γίνεται: ποια πολύτιμη εταιρεία δεν τη χτίζει κανείς; Οι σπουδαίες επιχειρήσεις ξεκινούν από μια τέτοια απάντηση, όχι από το να ακολουθείς το πλήθος."
+      },
+      "example": {
+        "en": "After the dot-com crash of 2000, Silicon Valley 'learned' four rules: move in small steps, stay lean with no fixed plan, improve on existing competitors, focus on product and not sales. Thiel argues the opposite of each is closer to the truth: be bold, plan, avoid competition, and sell.",
+        "el": "Μετά το σκάσιμο της φούσκας του ίντερνετ το 2000, η Silicon Valley «έμαθε» τέσσερις κανόνες: κάνε μικρά βήματα, μείνε ευέλικτος χωρίς σταθερό σχέδιο, βελτίωσε κάτι που κάνουν ήδη οι ανταγωνιστές, δώσε βάρος στο προϊόν και όχι στην πώληση. Ο Thiel υποστηρίζει ότι το αντίθετο του καθενός είναι πιο κοντά στην αλήθεια: τόλμα, κάνε σχέδιο, απόφυγε τον ανταγωνισμό και πούλα."
+      },
+      "apply": {
+        "en": "Write your own answer for your market: 'Most web agencies believe ____, but I have seen the opposite.' For example: 'that the build is where the money is.' If you can fill the gap with something you have proof for, build your offer and your ads around it.",
+        "el": "Γράψε τη δική σου απάντηση για την αγορά σου: «Τα περισσότερα γραφεία ιστοσελίδων πιστεύουν ότι ____, όμως εγώ έχω δει το αντίθετο». Για παράδειγμα: «ότι τα χρήματα βγαίνουν από την κατασκευή». Αν το κενό γεμίζει με κάτι για το οποίο έχεις αποδείξεις, χτίσε πάνω του την προσφορά και τις διαφημίσεις σου."
+      },
+      "check": {
+        "q": {"en": "What makes a good answer to the contrarian question?", "el": "Τι κάνει καλή μια απάντηση στην ερώτηση του Thiel;"},
+        "options": [
+          {"en": "It is true, important, and most people disagree", "el": "Είναι αληθινή, σημαντική και οι περισσότεροι διαφωνούν"},
+          {"en": "It is shocking, even if it is not true", "el": "Σοκάρει, ακόμα κι αν δεν είναι αληθινή"},
+          {"en": "It is something everyone already accepts", "el": "Είναι κάτι που το δέχονται ήδη όλοι"}
+        ],
+        "answer": 0,
+        "why": {"en": "The point is not to be different for show, but to see a real truth others miss.", "el": "Ο στόχος δεν είναι να διαφέρεις για το θεαθήναι, αλλά να δεις μια πραγματική αλήθεια που οι άλλοι χάνουν."}
+      }
+    },
+    {
+      "title": {"en": "From 0 to 1, not 1 to n", "el": "Από το 0 στο 1, όχι από το 1 στο n"},
+      "explain": {
+        "en": "There are two kinds of progress. Going from 1 to n means copying something that already works: more of the same, spread wider. Thiel calls this horizontal progress, or globalization. Going from 0 to 1 means making something that did not exist. He calls this vertical progress, or technology, meaning any new and better way of doing things. Copying is easier to imagine, but new things create the most value.",
+        "el": "Υπάρχουν δύο είδη προόδου. Από το 1 στο n σημαίνει αντιγράφω κάτι που ήδη δουλεύει: περισσότερο από το ίδιο, σε περισσότερα μέρη. Ο Thiel το λέει οριζόντια πρόοδο, ή παγκοσμιοποίηση. Από το 0 στο 1 σημαίνει φτιάχνω κάτι που δεν υπήρχε. Το λέει κάθετη πρόοδο, ή τεχνολογία, δηλαδή κάθε νέο και καλύτερο τρόπο να γίνεται κάτι. Η αντιγραφή φαντάζει πιο εύκολη, όμως το καινούριο είναι αυτό που δημιουργεί τη μεγαλύτερη αξία."
+      },
+      "example": {
+        "en": "Thiel's own picture: if you take one typewriter and build a hundred, that is 1 to n. If you have a typewriter and build a word processor, that is 0 to 1. He adds that the next Bill Gates will not build an operating system.",
+        "el": "Η εικόνα του ίδιου του Thiel: αν πάρεις μία γραφομηχανή και φτιάξεις εκατό, αυτό είναι από το 1 στο n. Αν έχεις μια γραφομηχανή και φτιάξεις επεξεργαστή κειμένου, αυτό είναι από το 0 στο 1. Και προσθέτει ότι ο επόμενος Bill Gates δεν θα φτιάξει λειτουργικό σύστημα."
+      },
+      "apply": {
+        "en": "List what Advon does that is 1 to n (a site like every agency makes) and what is 0 to 1 for your clients (0 euro build, a private chat for changes, a draft in days). Put your time and your ad message on the second list.",
+        "el": "Γράψε τι κάνει η Advon που είναι από το 1 στο n (μια ιστοσελίδα όπως τη φτιάχνει κάθε γραφείο) και τι είναι από το 0 στο 1 για τους πελάτες σου (κατασκευή με 0 ευρώ, προσωπικό chat για αλλαγές, draft σε λίγες μέρες). Ρίξε τον χρόνο σου και το μήνυμα των διαφημίσεων στη δεύτερη λίστα."
+      },
+      "check": {
+        "q": {"en": "Which is an example of going from 0 to 1?", "el": "Ποιο είναι παράδειγμα «από το 0 στο 1»;"},
+        "options": [
+          {"en": "Opening a tenth branch of a known chain", "el": "Να ανοίξεις το δέκατο κατάστημα μιας γνωστής αλυσίδας"},
+          {"en": "Copying a rival's product at a lower price", "el": "Να αντιγράψεις το προϊόν ενός ανταγωνιστή πιο φθηνά"},
+          {"en": "Creating a way of working that did not exist", "el": "Να δημιουργήσεις έναν τρόπο δουλειάς που δεν υπήρχε"}
+        ],
+        "answer": 2,
+        "why": {"en": "0 to 1 is making something new; the other two repeat what already exists.", "el": "Από το 0 στο 1 σημαίνει φτιάχνω κάτι νέο· τα άλλα δύο επαναλαμβάνουν κάτι που υπάρχει ήδη."}
+      }
+    },
+    {
+      "title": {"en": "Monopoly beats competition", "el": "Το μονοπώλιο νικά τον ανταγωνισμό"},
+      "explain": {
+        "en": "In perfect competition everyone sells the same thing, prices fall and nobody keeps any profit. A creative monopoly is a company so good at what it does that nobody offers a close substitute. It can set its own prices, keep its profit and use it to treat staff well, plan for years and invent more. Thiel does not mean cheating or blocking rivals. He means being so much better that you stand alone.",
+        "el": "Στον τέλειο ανταγωνισμό όλοι πουλούν το ίδιο πράγμα, οι τιμές πέφτουν και κανείς δεν κρατά κέρδος. Δημιουργικό μονοπώλιο είναι μια εταιρεία τόσο καλή σε αυτό που κάνει, που κανείς δεν προσφέρει κάτι κοντινό. Ορίζει μόνη της τις τιμές της, κρατά το κέρδος της και το χρησιμοποιεί για να φροντίζει τους ανθρώπους της, να σχεδιάζει χρόνια μπροστά και να εφευρίσκει κι άλλα. Ο Thiel δεν εννοεί απάτη ή μπλοκάρισμα ανταγωνιστών. Εννοεί να είσαι τόσο καλύτερος που μένεις μόνος σου."
+      },
+      "example": {
+        "en": "In 2012 US airlines carried millions of passengers but earned only about 37 cents per passenger trip. Google, with far less revenue, kept 21 percent of it as profit and was worth more than three times all US airlines combined. Airlines compete. Google owns search.",
+        "el": "Το 2012 οι αμερικανικές αεροπορικές μετέφεραν εκατομμύρια επιβάτες, αλλά κέρδιζαν μόλις 37 σεντς περίπου ανά επιβάτη σε κάθε πτήση. Η Google, με πολύ μικρότερα έσοδα, κρατούσε το 21 τοις εκατό ως κέρδος και άξιζε πάνω από τρεις φορές όσο όλες οι αμερικανικές αεροπορικές μαζί. Οι αεροπορικές ανταγωνίζονται. Η Google έχει δική της την αναζήτηση."
+      },
+      "apply": {
+        "en": "Stop comparing your price with other web agencies. Ask instead: for which client is there no real alternative to Advon? Describe that client in one line, for example a doctor who wants a serious site with no upfront cost and no technical work, and aim everything at him.",
+        "el": "Σταμάτα να συγκρίνεις την τιμή σου με άλλα γραφεία ιστοσελίδων. Ρώτα καλύτερα: για ποιον πελάτη δεν υπάρχει πραγματική εναλλακτική στην Advon; Περίγραψέ τον σε μία γραμμή, π.χ. ένας γιατρός που θέλει σοβαρή ιστοσελίδα χωρίς προκαταβολή και χωρίς τεχνικά, και στόχευσε τα πάντα σε αυτόν."
+      },
+      "check": {
+        "q": {"en": "Why does Thiel say competition is bad for a business?", "el": "Γιατί ο Thiel λέει ότι ο ανταγωνισμός κάνει κακό σε μια επιχείρηση;"},
+        "options": [
+          {"en": "It makes customers trust companies less", "el": "Κάνει τους πελάτες να εμπιστεύονται λιγότερο τις εταιρείες"},
+          {"en": "It pushes prices down until the profit is gone", "el": "Ρίχνει τις τιμές μέχρι να εξαφανιστεί το κέρδος"},
+          {"en": "It is forbidden by law in most countries", "el": "Απαγορεύεται από τον νόμο στις περισσότερες χώρες"}
+        ],
+        "answer": 1,
+        "why": {"en": "When many sell the same thing, they fight on price and nobody has money left to build the future.", "el": "Όταν πολλοί πουλούν το ίδιο, παλεύουν στην τιμή και σε κανέναν δεν μένουν χρήματα για να χτίσει το μέλλον."}
+      }
+    },
+    {
+      "title": {"en": "Competition is a trap", "el": "Ο ανταγωνισμός είναι παγίδα"},
+      "explain": {
+        "en": "We are trained from school to compete, so we see rivals as proof we are on the right road. Thiel says competition is an ideology that bends our thinking: we copy rivals, fixate on them and forget the customer. Both sides lie, too. Monopolies pretend to have many rivals so nobody bothers them. Small firms pretend to be unique by describing their market very narrowly. Ask honestly which one you are.",
+        "el": "Από το σχολείο μάς εκπαιδεύουν να ανταγωνιζόμαστε, κι έτσι βλέπουμε τους αντιπάλους ως απόδειξη ότι είμαστε στον σωστό δρόμο. Ο Thiel λέει ότι ο ανταγωνισμός είναι ιδεολογία που στραβώνει τη σκέψη: αντιγράφουμε τους αντιπάλους, κολλάμε πάνω τους και ξεχνάμε τον πελάτη. Και οι δύο πλευρές λένε ψέματα. Τα μονοπώλια κάνουν πως έχουν πολλούς αντιπάλους για να μην τα ενοχλεί κανείς. Οι μικροί κάνουν πως είναι μοναδικοί, ορίζοντας την αγορά τους πολύ στενά. Ρώτα ειλικρινά ποιος από τους δύο είσαι."
+      },
+      "example": {
+        "en": "In 1999 PayPal and Elon Musk's X.com had offices four blocks apart and copied each other's every move while burning money. With the crash coming, the two teams met in a cafe and in March 2000 agreed a 50-50 merger instead of fighting to the death.",
+        "el": "Το 1999 η PayPal και η X.com του Elon Musk είχαν γραφεία σε απόσταση τεσσάρων τετραγώνων και αντέγραφαν η μία κάθε κίνηση της άλλης, καίγοντας χρήματα. Με την κρίση να πλησιάζει, οι δύο ομάδες συναντήθηκαν σε ένα καφέ και τον Μάρτιο του 2000 συμφώνησαν συγχώνευση 50-50 αντί να πολεμήσουν μέχρις εσχάτων."
+      },
+      "apply": {
+        "en": "When a prospect says 'another agency offers it cheaper', do not drop your price to match. Say calmly what only you do, and let him go if he buys on price alone. If you catch yourself watching a rival's every post, spend that hour calling leads.",
+        "el": "Όταν ένας υποψήφιος πελάτης πει «ένα άλλο γραφείο το κάνει πιο φθηνά», μη ρίξεις την τιμή για να τον φτάσεις. Πες ήρεμα τι κάνεις μόνο εσύ, και άφησέ τον να φύγει αν αγοράζει μόνο με βάση την τιμή. Αν πιάσεις τον εαυτό σου να παρακολουθεί κάθε ανάρτηση ενός ανταγωνιστή, δώσε εκείνη την ώρα σε τηλεφωνήματα."
+      },
+      "check": {
+        "q": {"en": "How do small firms fool themselves, according to Thiel?", "el": "Πώς ξεγελούν τον εαυτό τους οι μικρές εταιρείες, κατά τον Thiel;"},
+        "options": [
+          {"en": "They say they have too many rivals", "el": "Λένε ότι έχουν υπερβολικά πολλούς αντιπάλους"},
+          {"en": "They refuse to describe their market at all", "el": "Αρνούνται να περιγράψουν την αγορά τους"},
+          {"en": "They define their market so narrowly they seem unique", "el": "Ορίζουν την αγορά τους τόσο στενά που μοιάζουν μοναδικές"}
+        ],
+        "answer": 2,
+        "why": {"en": "Thiel's example is a restaurant claiming to be the only British food in Palo Alto, while it really competes with every restaurant.", "el": "Το παράδειγμα του Thiel είναι ένα εστιατόριο που λέει ότι είναι το μόνο με βρετανική κουζίνα στο Palo Alto, ενώ στην ουσία ανταγωνίζεται κάθε εστιατόριο."}
+      }
+    },
+    {
+      "title": {"en": "Four marks of a monopoly", "el": "Τα τέσσερα σημάδια του μονοπωλίου"},
+      "explain": {
+        "en": "Lasting monopolies share some of four features. Proprietary technology: something you have that is at least ten times better than the nearest alternative, so the gap is obvious. Network effects: the product gets more useful as more people use it. Economies of scale: the bigger you get, the cheaper each sale becomes. Brand: a strong name people trust, which only works when there is real substance under it.",
+        "el": "Τα μονοπώλια που αντέχουν έχουν κάποια από τέσσερα χαρακτηριστικά. Δική τους τεχνολογία: κάτι που έχεις και είναι τουλάχιστον δέκα φορές καλύτερο από την πιο κοντινή εναλλακτική, ώστε η διαφορά να βγάζει μάτι. Φαινόμενα δικτύου: το προϊόν γίνεται πιο χρήσιμο όσο περισσότεροι το χρησιμοποιούν. Οικονομίες κλίμακας: όσο μεγαλώνεις, τόσο φθηνότερη γίνεται κάθε πώληση. Brand: ένα δυνατό όνομα που ο κόσμος εμπιστεύεται, το οποίο δουλεύει μόνο όταν από κάτω υπάρχει πραγματική ουσία."
+      },
+      "example": {
+        "en": "Amazon began with at least ten times more books than any bookstore, because it did not need shelves. Facebook grows more useful with each friend who joins. Apple has a famous brand, but under it sit real advantages in hardware, software and scale.",
+        "el": "Η Amazon ξεκίνησε με τουλάχιστον δέκα φορές περισσότερα βιβλία από κάθε βιβλιοπωλείο, επειδή δεν χρειαζόταν ράφια. Το Facebook γίνεται πιο χρήσιμο με κάθε φίλο που μπαίνει. Η Apple έχει διάσημο brand, αλλά από κάτω υπάρχουν πραγματικά πλεονεκτήματα σε συσκευές, λογισμικό και μέγεθος."
+      },
+      "apply": {
+        "en": "Find your ten times. Compared with a classic agency: ten times lower cost to start (0 euros against a large upfront fee) or ten times faster to a first draft. Say that number plainly in the call and in the ad. A small improvement is not enough to make anyone switch.",
+        "el": "Βρες το δικό σου «δέκα φορές». Σε σύγκριση με ένα κλασικό γραφείο: δέκα φορές χαμηλότερο κόστος εκκίνησης (0 ευρώ αντί για μεγάλη προκαταβολή) ή δέκα φορές πιο γρήγορα το πρώτο draft. Πες αυτό το νούμερο καθαρά στο τηλέφωνο και στη διαφήμιση. Μια μικρή βελτίωση δεν φτάνει για να αλλάξει κανείς."
+      },
+      "check": {
+        "q": {"en": "How much better should proprietary technology be?", "el": "Πόσο καλύτερη πρέπει να είναι η δική σου τεχνολογία;"},
+        "options": [
+          {"en": "About ten times better than the closest substitute", "el": "Περίπου δέκα φορές καλύτερη από την κοντινότερη εναλλακτική"},
+          {"en": "A little better, around ten percent", "el": "Λίγο καλύτερη, γύρω στο δέκα τοις εκατό"},
+          {"en": "The same, but with nicer advertising", "el": "Ίδια, αλλά με ωραιότερη διαφήμιση"}
+        ],
+        "answer": 0,
+        "why": {"en": "Small improvements are hard to notice and hard to sell; a tenfold gap is undeniable.", "el": "Τις μικρές βελτιώσεις δύσκολα τις προσέχει κανείς και δύσκολα πουλιούνται· μια διαφορά δέκα φορές δεν αμφισβητείται."}
+      }
+    },
+    {
+      "title": {"en": "Start small and dominate", "el": "Ξεκίνα μικρά και κυριάρχησε"},
+      "explain": {
+        "en": "Every startup should begin with a very small market: a tight group of specific people with the same need and few or no rivals. Win almost all of it. Then move to the next, slightly bigger, related market. A large share of a tiny market beats a tiny share of a huge one, where you are invisible and everyone competes. Thiel also says: do not make a show of 'disrupting' big players. Just avoid the fight.",
+        "el": "Κάθε startup πρέπει να ξεκινά από μια πολύ μικρή αγορά: μια σφιχτή ομάδα συγκεκριμένων ανθρώπων με την ίδια ανάγκη και λίγους ή καθόλου αντιπάλους. Κέρδισέ τη σχεδόν ολόκληρη. Μετά πέρνα στην επόμενη, λίγο μεγαλύτερη, συγγενική αγορά. Το μεγάλο μερίδιο σε μια μικροσκοπική αγορά νικά το μικροσκοπικό μερίδιο σε μια τεράστια, όπου είσαι αόρατος και ανταγωνίζονται όλοι. Ο Thiel λέει ακόμα: μην το παίζεις ότι θα «ανατρέψεις» τους μεγάλους. Απλώς απόφυγε τη μάχη."
+      },
+      "example": {
+        "en": "Facebook started only for Harvard students and reached most of them within weeks, then went campus by campus. Amazon started with books only. PayPal first aimed at a few thousand eBay 'PowerSellers' and within three months served about a quarter of them.",
+        "el": "Το Facebook ξεκίνησε μόνο για τους φοιτητές του Harvard και μέσα σε λίγες εβδομάδες είχε τους περισσότερους· μετά προχώρησε πανεπιστήμιο το πανεπιστήμιο. Η Amazon ξεκίνησε μόνο με βιβλία. Η PayPal στόχευσε πρώτα σε λίγες χιλιάδες «PowerSellers» του eBay και σε τρεις μήνες εξυπηρετούσε περίπου το ένα τέταρτό τους."
+      },
+      "apply": {
+        "en": "Choose one narrow group, for example psychologists in Athens or dentists in one city, and try to become the name they all know: a month of calls only to them, their own examples in the ad, referrals from one to the next. Only then open the next group.",
+        "el": "Διάλεξε μια στενή ομάδα, π.χ. ψυχολόγους στην Αθήνα ή οδοντιάτρους σε μία πόλη, και προσπάθησε να γίνεις το όνομα που ξέρουν όλοι τους: ένας μήνας τηλεφωνήματα μόνο σε αυτούς, δικά τους παραδείγματα στη διαφήμιση, συστάσεις από τον έναν στον άλλον. Μόνο μετά άνοιξε την επόμενη ομάδα."
+      },
+      "check": {
+        "q": {"en": "Which is the better starting position?", "el": "Ποια είναι η καλύτερη αφετηρία;"},
+        "options": [
+          {"en": "1 percent of a 100 billion dollar market", "el": "Το 1% μιας αγοράς 100 δισεκατομμυρίων δολαρίων"},
+          {"en": "80 percent of a 1 million dollar market", "el": "Το 80% μιας αγοράς 1 εκατομμυρίου δολαρίων"},
+          {"en": "No clear market, to stay flexible", "el": "Καμία ξεκάθαρη αγορά, για ευελιξία"}
+        ],
+        "answer": 1,
+        "why": {"en": "Owning a small market gives you profit and a base to expand; 1 percent of a giant market means endless competition.", "el": "Όταν κατέχεις μια μικρή αγορά έχεις κέρδος και βάση για να επεκταθείς· το 1% μιας τεράστιας αγοράς σημαίνει ατελείωτο ανταγωνισμό."}
+      }
+    },
+    {
+      "title": {"en": "Last-mover advantage", "el": "Το πλεονέκτημα του τελευταίου"},
+      "explain": {
+        "en": "Everyone talks about being first. Thiel says being first is only a tactic. What matters is being the last one standing: making the final great improvement in a market and then enjoying years of profit. A company's value is all the money it will make in the future, so the question is not how fast you grow today but whether you will still be here in ten or twenty years.",
+        "el": "Όλοι μιλούν για το ποιος θα μπει πρώτος. Ο Thiel λέει ότι το να είσαι πρώτος είναι απλώς τακτική. Σημασία έχει να είσαι ο τελευταίος που μένει όρθιος: να κάνεις την τελευταία μεγάλη βελτίωση σε μια αγορά και μετά να απολαμβάνεις χρόνια κερδών. Η αξία μιας εταιρείας είναι όλα τα χρήματα που θα βγάλει στο μέλλον, άρα το ερώτημα δεν είναι πόσο γρήγορα μεγαλώνεις σήμερα αλλά αν θα υπάρχεις ακόμα σε δέκα ή είκοσι χρόνια."
+      },
+      "example": {
+        "en": "In 2001 Thiel calculated that most of PayPal's value would come from profits in 2011 and later. Google was not the first search engine and Facebook was not the first social network. Each came later, was far better and stayed. He quotes the chess champion Capablanca: study the endgame first.",
+        "el": "Το 2001 ο Thiel υπολόγισε ότι το μεγαλύτερο μέρος της αξίας της PayPal θα ερχόταν από κέρδη του 2011 και μετά. Η Google δεν ήταν η πρώτη μηχανή αναζήτησης και το Facebook δεν ήταν το πρώτο κοινωνικό δίκτυο. Ήρθαν αργότερα, ήταν πολύ καλύτερα και έμειναν. Αναφέρει και τον πρωταθλητή του σκακιού Capablanca: μελέτα πρώτα το φινάλε."
+      },
+      "apply": {
+        "en": "Your income is yearly hosting, so your endgame is renewals. Before chasing new signings, check: how many clients renew each year, and why do some leave? One extra call to a quiet client before his renewal date may be worth more than ten cold calls.",
+        "el": "Το εισόδημά σου είναι η ετήσια φιλοξενία, άρα το δικό σου φινάλε είναι οι ανανεώσεις. Πριν κυνηγήσεις νέες υπογραφές, δες: πόσοι πελάτες ανανεώνουν κάθε χρόνο και γιατί κάποιοι φεύγουν; Ένα τηλεφώνημα παραπάνω σε έναν σιωπηλό πελάτη πριν από την ανανέωσή του μπορεί να αξίζει περισσότερο από δέκα cold calls."
+      },
+      "check": {
+        "q": {"en": "What does 'last-mover advantage' mean?", "el": "Τι σημαίνει «πλεονέκτημα του τελευταίου»;"},
+        "options": [
+          {"en": "Enter a market after it has stopped growing", "el": "Να μπεις σε μια αγορά αφού σταματήσει να μεγαλώνει"},
+          {"en": "Always wait for others to try things first", "el": "Να περιμένεις πάντα να δοκιμάσουν πρώτα οι άλλοι"},
+          {"en": "Be the one who lasts and profits for years", "el": "Να είσαι αυτός που αντέχει και κερδίζει για χρόνια"}
+        ],
+        "answer": 2,
+        "why": {"en": "Value comes from future profits, so durability matters more than who arrived first.", "el": "Η αξία βγαίνει από τα μελλοντικά κέρδη, άρα η αντοχή μετρά περισσότερο από το ποιος ήρθε πρώτος."}
+      }
+    },
+    {
+      "title": {"en": "Definite optimism", "el": "Αισιοδοξία με σχέδιο"},
+      "explain": {
+        "en": "You can see the future as definite (you can shape it with a plan) or indefinite (it is random, so keep all options open). You can also be optimistic or pessimistic. Thiel says today's West is indefinitely optimistic: it expects things to get better but has no plan. He wants definite optimism: a clear picture of a better future and the work to build it. You are not a lottery ticket. A bad plan beats no plan.",
+        "el": "Μπορείς να βλέπεις το μέλλον ως καθορισμένο (το διαμορφώνεις με σχέδιο) ή ως ακαθόριστο (είναι τυχαίο, άρα κράτα όλες τις πόρτες ανοιχτές). Μπορείς επίσης να είσαι αισιόδοξος ή απαισιόδοξος. Ο Thiel λέει ότι η σημερινή Δύση είναι αισιόδοξη χωρίς σχέδιο: περιμένει ότι τα πράγματα θα πάνε καλύτερα, αλλά δεν ξέρει πώς. Εκείνος θέλει αισιοδοξία με σχέδιο: καθαρή εικόνα ενός καλύτερου μέλλοντος και δουλειά για να χτιστεί. Δεν είσαι λαχνός. Ένα κακό σχέδιο είναι καλύτερο από το κανένα."
+      },
+      "example": {
+        "en": "In July 2006 Yahoo offered one billion dollars for Facebook. Thiel, on the board, thought they should consider it. Mark Zuckerberg, then 22, opened the meeting by saying it would be short because they were not selling. He had a clear plan for where the company could go.",
+        "el": "Τον Ιούλιο του 2006 η Yahoo πρόσφερε ένα δισεκατομμύριο δολάρια για το Facebook. Ο Thiel, μέλος του συμβουλίου, πίστευε ότι έπρεπε να το σκεφτούν. Ο Mark Zuckerberg, 22 χρονών τότε, άνοιξε τη συνεδρίαση λέγοντας ότι θα είναι σύντομη γιατί δεν πουλάνε. Είχε καθαρό σχέδιο για το πού μπορούσε να φτάσει η εταιρεία."
+      },
+      "apply": {
+        "en": "Write a one-page plan for the next twelve months with real numbers: sites live, calls per week, ad budget, the one hire. Put it where you see it daily. When a new shiny idea appears, check it against the page before saying yes.",
+        "el": "Γράψε ένα σχέδιο μίας σελίδας για τους επόμενους δώδεκα μήνες με πραγματικά νούμερα: ιστοσελίδες live, κλήσεις την εβδομάδα, ποσό για διαφημίσεις, η μία πρόσληψη. Βάλ' το κάπου που το βλέπεις κάθε μέρα. Όταν εμφανιστεί μια νέα λαμπερή ιδέα, έλεγξέ τη με βάση τη σελίδα πριν πεις ναι."
+      },
+      "check": {
+        "q": {"en": "What does a definite optimist do?", "el": "Τι κάνει ο αισιόδοξος με σχέδιο;"},
+        "options": [
+          {"en": "Believes things will improve and waits", "el": "Πιστεύει ότι τα πράγματα θα βελτιωθούν και περιμένει"},
+          {"en": "Pictures a better future and plans to build it", "el": "Βλέπει ένα καλύτερο μέλλον και σχεδιάζει πώς θα το χτίσει"},
+          {"en": "Keeps every option open as long as possible", "el": "Κρατά ανοιχτή κάθε επιλογή όσο περισσότερο γίνεται"}
+        ],
+        "answer": 1,
+        "why": {"en": "Definite means having a concrete plan; optimism means believing the plan can make things better.", "el": "«Με σχέδιο» σημαίνει συγκεκριμένο πλάνο· αισιοδοξία σημαίνει ότι πιστεύεις πως το πλάνο μπορεί να φέρει κάτι καλύτερο."}
+      }
+    },
+    {
+      "title": {"en": "The power law", "el": "Ο νόμος της δύναμης"},
+      "explain": {
+        "en": "Results in business are not spread evenly. A few things bring almost everything, and the best one often brings more than all the others together. Investors forget this and spread money thinly. People forget it too: not all clients, channels, products or uses of your time are equal. One will matter far more than the rest. So think hard about what to focus on, and do not treat everything as equally important.",
+        "el": "Τα αποτελέσματα στις επιχειρήσεις δεν μοιράζονται ισόποσα. Λίγα πράγματα φέρνουν σχεδόν τα πάντα, και το καλύτερο φέρνει συχνά περισσότερα απ' όλα τα άλλα μαζί. Οι επενδυτές το ξεχνούν και σκορπίζουν τα χρήματά τους. Το ξεχνούν και οι άνθρωποι: δεν είναι ίσοι όλοι οι πελάτες, τα κανάλια, τα προϊόντα ή οι τρόποι να ξοδεύεις τον χρόνο σου. Ένα θα μετρήσει πολύ περισσότερο από τα υπόλοιπα. Σκέψου λοιπόν σοβαρά πού θα εστιάσεις και μην αντιμετωπίζεις τα πάντα ως ίδιας σημασίας."
+      },
+      "example": {
+        "en": "In Founders Fund's 2005 fund, the Facebook investment returned more than all the other investments combined. Palantir, the second best, was on course to return more than all the rest except Facebook. Two companies carried the whole fund.",
+        "el": "Στο fund του 2005 της Founders Fund, η επένδυση στο Facebook απέδωσε περισσότερα απ' όλες τις άλλες επενδύσεις μαζί. Η Palantir, η δεύτερη καλύτερη, πήγαινε να αποδώσει περισσότερα απ' όλες τις υπόλοιπες εκτός από το Facebook. Δύο εταιρείες σήκωσαν ολόκληρο το fund."
+      },
+      "apply": {
+        "en": "Take your last 50 clients and mark where each came from: cold call, Meta ad, referral. Then mark which specialty. You will probably find one channel and one or two specialties that bring most of them. Move your hours and your ad money there.",
+        "el": "Πάρε τους τελευταίους 50 πελάτες σου και σημείωσε από πού ήρθε ο καθένας: cold call, διαφήμιση στο Meta, σύσταση. Μετά σημείωσε την ειδικότητα. Μάλλον θα βρεις ένα κανάλι και μία ή δύο ειδικότητες που φέρνουν τους περισσότερους. Πήγαινε εκεί τις ώρες σου και τα χρήματα των διαφημίσεων."
+      },
+      "check": {
+        "q": {"en": "What does the power law say about results?", "el": "Τι λέει ο νόμος της δύναμης για τα αποτελέσματα;"},
+        "options": [
+          {"en": "A few things outweigh all the rest combined", "el": "Λίγα πράγματα βαραίνουν περισσότερο απ' όλα τα άλλα μαζί"},
+          {"en": "Every effort brings about the same return", "el": "Κάθε προσπάθεια φέρνει περίπου την ίδια απόδοση"},
+          {"en": "Spreading your bets widely is the safest path", "el": "Το να απλώνεις τα στοιχήματά σου είναι ο ασφαλέστερος δρόμος"}
+        ],
+        "answer": 0,
+        "why": {"en": "Returns are extremely uneven, so focus on the few things that can be huge.", "el": "Οι αποδόσεις είναι πολύ άνισες, γι' αυτό εστίασε στα λίγα πράγματα που μπορούν να γίνουν τεράστια."}
+      }
+    },
+    {
+      "title": {"en": "Secrets", "el": "Μυστικά"},
+      "explain": {
+        "en": "A secret is an important truth that is hard but possible to find, and that most people do not see or do not agree with. Thiel says many people stopped looking because they think everything easy is done and everything else is impossible. But secrets remain: secrets of nature (how the world works) and secrets about people (what they hide or do not know about themselves). Every great company is built on one.",
+        "el": "Μυστικό είναι μια σημαντική αλήθεια που είναι δύσκολο αλλά εφικτό να βρεθεί, και που οι περισσότεροι δεν τη βλέπουν ή δεν τη δέχονται. Ο Thiel λέει ότι πολλοί σταμάτησαν να ψάχνουν, γιατί νομίζουν ότι τα εύκολα έχουν γίνει και όλα τα άλλα είναι αδύνατα. Όμως μυστικά υπάρχουν ακόμα: μυστικά της φύσης (πώς δουλεύει ο κόσμος) και μυστικά για τους ανθρώπους (τι κρύβουν ή τι δεν ξέρουν για τον εαυτό τους). Κάθε σπουδαία εταιρεία είναι χτισμένη πάνω σε ένα."
+      },
+      "example": {
+        "en": "Before Airbnb, travellers saw only hotels and owners saw only empty rooms nobody would pay for. Airbnb saw unused supply and unmet demand where others saw nothing. Uber and Lyft did the same with cars. The answer was in plain sight, but few believed it.",
+        "el": "Πριν από την Airbnb, οι ταξιδιώτες έβλεπαν μόνο ξενοδοχεία και οι ιδιοκτήτες μόνο άδεια δωμάτια που κανείς δεν θα πλήρωνε. Η Airbnb είδε αχρησιμοποίητη προσφορά και ακάλυπτη ζήτηση εκεί που οι άλλοι δεν έβλεπαν τίποτα. Η Uber και η Lyft έκαναν το ίδιο με τα αυτοκίνητα. Η απάντηση ήταν μπροστά στα μάτια όλων, αλλά λίγοι την πίστεψαν."
+      },
+      "apply": {
+        "en": "After your next ten calls, write down what professionals say that surprised you: what they really fear, what they are ashamed of, what they wish someone would just do for them. One of these lines may be a secret about your market that other agencies never hear.",
+        "el": "Μετά τις επόμενες δέκα κλήσεις σου, γράψε τι είπαν οι επαγγελματίες που σε ξάφνιασε: τι φοβούνται πραγματικά, για τι ντρέπονται, τι θα ήθελαν απλώς να τους το κάνει κάποιος. Μία από αυτές τις φράσεις μπορεί να είναι ένα μυστικό της αγοράς σου που τα άλλα γραφεία δεν ακούν ποτέ."
+      },
+      "check": {
+        "q": {"en": "What is a 'secret' for Thiel?", "el": "Τι είναι «μυστικό» για τον Thiel;"},
+        "options": [
+          {"en": "Something that can never be known", "el": "Κάτι που δεν μπορεί να γίνει ποτέ γνωστό"},
+          {"en": "Private information about a competitor", "el": "Εμπιστευτικές πληροφορίες για έναν ανταγωνιστή"},
+          {"en": "A hard but findable truth most people miss", "el": "Μια δύσκολη αλλά εφικτή αλήθεια που οι περισσότεροι χάνουν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Secrets sit between the easy, which everyone knows, and the impossible, which nobody can know.", "el": "Τα μυστικά βρίσκονται ανάμεσα στα εύκολα, που τα ξέρουν όλοι, και στα αδύνατα, που δεν μπορεί να τα μάθει κανείς."}
+      }
+    },
+    {
+      "title": {"en": "Foundations", "el": "Τα θεμέλια"},
+      "explain": {
+        "en": "Thiel's law: a startup messed up at its foundation cannot be fixed. The first decisions last: who your co-founders are, who owns what, who runs the company day to day, who sits on the board. Choose co-founders like a marriage, with shared history, not someone you met last week. Keep the board small. Everyone should be full time and own a share, and the chief executive's salary should stay low.",
+        "el": "Ο νόμος του Thiel: μια startup που χάλασε στα θεμέλια δεν διορθώνεται. Οι πρώτες αποφάσεις μένουν: ποιοι είναι οι συνιδρυτές, ποιος έχει τι ποσοστό, ποιος τρέχει την εταιρεία καθημερινά, ποιος κάθεται στο διοικητικό συμβούλιο. Διάλεξε συνιδρυτή όπως θα διάλεγες σύντροφο ζωής, με κοινή ιστορία, όχι κάποιον που γνώρισες την περασμένη εβδομάδα. Κράτα το συμβούλιο μικρό. Όλοι να είναι πλήρους απασχόλησης και να έχουν μερίδιο, και ο μισθός του επικεφαλής να μένει χαμηλός."
+      },
+      "example": {
+        "en": "Thiel's first startup investment was in a company of his friend Luke Nosek. Nosek had met his co-founder at a networking event and the two started a company without knowing each other. They did not get along, the company failed and Thiel lost his money.",
+        "el": "Η πρώτη επένδυση του Thiel σε startup ήταν σε μια εταιρεία του φίλου του Luke Nosek. Ο Nosek είχε γνωρίσει τον συνιδρυτή του σε μια εκδήλωση δικτύωσης και ξεκίνησαν εταιρεία χωρίς να γνωρίζονται. Δεν ταίριαξαν, η εταιρεία απέτυχε και ο Thiel έχασε τα χρήματά του."
+      },
+      "apply": {
+        "en": "Before you take a partner or a key person into Advon, work with them on one small paid project first. Then write on one page who decides what, who owns what, and what happens if one of you leaves. Agree it while everyone is still friendly.",
+        "el": "Πριν βάλεις συνεταίρο ή βασικό άνθρωπο στην Advon, δούλεψε πρώτα μαζί του σε ένα μικρό έργο με αμοιβή. Μετά γράψτε σε μία σελίδα ποιος αποφασίζει τι, ποιος έχει τι, και τι γίνεται αν φύγει ένας από τους δύο. Συμφωνήστε το όσο είστε ακόμα όλοι φίλοι."
+      },
+      "check": {
+        "q": {"en": "What does 'Thiel's law' say?", "el": "Τι λέει ο «νόμος του Thiel»;"},
+        "options": [
+          {"en": "Early mistakes are easy to fix later", "el": "Τα λάθη της αρχής διορθώνονται εύκολα αργότερα"},
+          {"en": "A startup with a broken foundation cannot be fixed", "el": "Μια startup με χαλασμένα θεμέλια δεν διορθώνεται"},
+          {"en": "A big board protects the founders", "el": "Ένα μεγάλο συμβούλιο προστατεύει τους ιδρυτές"}
+        ],
+        "answer": 1,
+        "why": {"en": "Partners, ownership and control are set at the start and are very hard to change afterwards.", "el": "Οι συνεταίροι, τα ποσοστά και ο έλεγχος ορίζονται στην αρχή και αλλάζουν πολύ δύσκολα μετά."}
+      }
+    },
+    {
+      "title": {"en": "Culture: a kind of cult", "el": "Κουλτούρα: κάτι σαν αίρεση"},
+      "explain": {
+        "en": "A startup is a small group of people on a mission, and its culture is simply what those people are like together. Thiel says the best startups look a bit like cults: people are deeply committed and believe something outsiders miss. The opposite is a consulting firm, where nobody is attached. Hire people who want to work with this team on this mission, not for perks. And give every person one clear thing to own.",
+        "el": "Μια startup είναι μια μικρή ομάδα ανθρώπων με αποστολή, και κουλτούρα της είναι απλώς το πώς είναι αυτοί οι άνθρωποι μαζί. Ο Thiel λέει ότι οι καλύτερες startups θυμίζουν λίγο αίρεση: οι άνθρωποι είναι βαθιά δεμένοι και πιστεύουν κάτι που οι απ' έξω δεν βλέπουν. Το αντίθετο είναι μια εταιρεία συμβούλων, όπου κανείς δεν δένεται. Πάρε ανθρώπους που θέλουν να δουλέψουν με αυτή την ομάδα σε αυτή την αποστολή, όχι για τις παροχές. Και δώσε στον καθένα ένα καθαρό πράγμα που είναι δικό του."
+      },
+      "example": {
+        "en": "At PayPal Thiel made each person responsible for exactly one thing and judged them only on that. It ended fights over who does what. The team stayed so close that after the sale to eBay they founded or funded Tesla, SpaceX, LinkedIn, YouTube, Yelp and Palantir: the 'PayPal Mafia'.",
+        "el": "Στην PayPal ο Thiel έκανε κάθε άνθρωπο υπεύθυνο για ένα ακριβώς πράγμα και τον έκρινε μόνο γι' αυτό. Έτσι τελείωσαν οι καβγάδες για το ποιος κάνει τι. Η ομάδα έμεινε τόσο δεμένη που, μετά την πώληση στο eBay, ίδρυσαν ή χρηματοδότησαν τις Tesla, SpaceX, LinkedIn, YouTube, Yelp και Palantir: τη λεγόμενη «PayPal Mafia»."
+      },
+      "apply": {
+        "en": "Give each person who works with you one thing that is fully theirs, for example 'all client changes done within 24 hours'. Judge them on that alone. When you hire, ask: 'Why do you want to work here, with us?' A generic answer is a warning sign.",
+        "el": "Δώσε σε κάθε άνθρωπο που δουλεύει μαζί σου ένα πράγμα που είναι ολόκληρο δικό του, π.χ. «όλες οι αλλαγές πελατών έτοιμες μέσα σε 24 ώρες». Κρίνε τον μόνο γι' αυτό. Όταν προσλαμβάνεις, ρώτα: «Γιατί θέλεις να δουλέψεις εδώ, μαζί μας;» Μια γενικόλογη απάντηση είναι καμπανάκι."
+      },
+      "check": {
+        "q": {"en": "Why did Thiel give each person only one responsibility?", "el": "Γιατί ο Thiel έδινε σε κάθε άνθρωπο μόνο μία ευθύνη;"},
+        "options": [
+          {"en": "To stop internal fights over the same tasks", "el": "Για να σταματήσουν οι εσωτερικοί καβγάδες για τις ίδιες δουλειές"},
+          {"en": "To pay each person a smaller salary", "el": "Για να πληρώνει στον καθένα μικρότερο μισθό"},
+          {"en": "To keep people from learning new skills", "el": "Για να μη μαθαίνουν οι άνθρωποι νέες δεξιότητες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Clear ownership removes competition inside the team, which is what destroys small companies.", "el": "Η καθαρή ευθύνη βγάζει τον ανταγωνισμό μέσα από την ομάδα, που είναι αυτό που διαλύει τις μικρές εταιρείες."}
+      }
+    },
+    {
+      "title": {"en": "Sales matters as much as product", "el": "Η πώληση μετρά όσο και το προϊόν"},
+      "explain": {
+        "en": "Engineers like to believe that a great product sells itself. Thiel calls this a lie: if you build it, they will not come unless you bring them. Distribution, meaning how you reach and win customers, is part of the product's design. The method depends on the price: personal sales for big deals, advertising for cheap mass products, viral spread for free ones. In between lies a dead zone. Usually one channel does most of the work.",
+        "el": "Οι μηχανικοί θέλουν να πιστεύουν ότι το καλό προϊόν πουλιέται μόνο του. Ο Thiel το λέει ψέμα: αν το φτιάξεις, δεν θα έρθουν, εκτός αν τους φέρεις εσύ. Η διανομή, δηλαδή το πώς φτάνεις και κερδίζεις πελάτες, είναι μέρος του σχεδιασμού του προϊόντος. Η μέθοδος εξαρτάται από την τιμή: προσωπική πώληση για μεγάλες συμφωνίες, διαφήμιση για φθηνά μαζικά προϊόντα, διάδοση από στόμα σε στόμα για τα δωρεάν. Ανάμεσα υπάρχει μια νεκρή ζώνη. Συνήθως ένα κανάλι κάνει την περισσότερη δουλειά."
+      },
+      "example": {
+        "en": "PayPal tried big advertising and it did not work. What worked was paying people to join: 10 dollars for signing up and 10 more for each friend referred. It cost money per customer but brought growth of about 7 percent a day, doubling the user base every ten days.",
+        "el": "Η PayPal δοκίμασε μεγάλες διαφημίσεις και δεν δούλεψαν. Αυτό που δούλεψε ήταν να πληρώνει τον κόσμο για να γραφτεί: 10 δολάρια για την εγγραφή και άλλα 10 για κάθε φίλο που έφερνε. Κόστιζε χρήματα ανά πελάτη, αλλά έφερε ανάπτυξη περίπου 7 τοις εκατό την ημέρα, διπλασιάζοντας τους χρήστες κάθε δέκα μέρες."
+      },
+      "apply": {
+        "en": "Work out two numbers: what a client is worth to you over the years he stays, and what it costs to win one by cold call and by Meta ad (your hours plus ad spend). Keep the channel where the gap is biggest and feed it most of your effort.",
+        "el": "Βγάλε δύο νούμερα: πόσα αξίζει για σένα ένας πελάτης στα χρόνια που μένει, και πόσο σου κοστίζει να κερδίσεις έναν με cold call και έναν με διαφήμιση στο Meta (οι ώρες σου μαζί με το ποσό της διαφήμισης). Κράτα το κανάλι με τη μεγαλύτερη διαφορά και δώσ' του το μεγαλύτερο μέρος της προσπάθειάς σου."
+      },
+      "check": {
+        "q": {"en": "What does Thiel think of 'build it and they will come'?", "el": "Τι πιστεύει ο Thiel για το «φτιάξ' το και θα έρθουν»;"},
+        "options": [
+          {"en": "It is true for every good product", "el": "Ισχύει για κάθε καλό προϊόν"},
+          {"en": "It is true only for cheap products", "el": "Ισχύει μόνο για τα φθηνά προϊόντα"},
+          {"en": "It is false; you need a plan to reach customers", "el": "Δεν ισχύει· χρειάζεσαι σχέδιο για να φτάσεις στους πελάτες"}
+        ],
+        "answer": 2,
+        "why": {"en": "Even a great product fails without distribution; selling must be designed in from the start.", "el": "Ακόμα κι ένα εξαιρετικό προϊόν αποτυγχάνει χωρίς διανομή· η πώληση σχεδιάζεται από την αρχή."}
+      }
+    },
+    {
+      "title": {"en": "Man and machine", "el": "Άνθρωπος και μηχανή"},
+      "explain": {
+        "en": "Many fear that computers will replace people. Thiel disagrees. People and computers are good at different things: computers process huge amounts of data fast, people understand situations, make plans and judge. So they do not compete. They complete each other. The most valuable companies will not ask which jobs a machine can take away. They will ask how a machine can help a person do what was impossible before.",
+        "el": "Πολλοί φοβούνται ότι οι υπολογιστές θα αντικαταστήσουν τους ανθρώπους. Ο Thiel διαφωνεί. Άνθρωποι και υπολογιστές είναι καλοί σε διαφορετικά πράγματα: οι υπολογιστές επεξεργάζονται γρήγορα τεράστιους όγκους δεδομένων, οι άνθρωποι καταλαβαίνουν καταστάσεις, κάνουν σχέδια και κρίνουν. Άρα δεν ανταγωνίζονται. Συμπληρώνουν ο ένας τον άλλον. Οι πιο πολύτιμες εταιρείες δεν θα ρωτούν ποιες δουλειές μπορεί να πάρει μια μηχανή. Θα ρωτούν πώς μια μηχανή βοηθά έναν άνθρωπο να κάνει αυτό που πριν ήταν αδύνατο."
+      },
+      "example": {
+        "en": "Around 2000 PayPal was losing more than 10 million dollars a month to credit card fraud. Pure software failed, because the thieves adapted. Max Levchin's team built 'Igor': the computer flagged suspicious payments and human analysts made the final call. PayPal turned its first profit soon after.",
+        "el": "Γύρω στο 2000 η PayPal έχανε πάνω από 10 εκατομμύρια δολάρια τον μήνα από απάτες με πιστωτικές κάρτες. Το σκέτο λογισμικό απέτυχε, γιατί οι απατεώνες προσαρμόζονταν. Η ομάδα του Max Levchin έφτιαξε τον «Igor»: ο υπολογιστής σημάδευε τις ύποπτες πληρωμές και άνθρωποι αναλυτές έπαιρναν την τελική απόφαση. Λίγο αργότερα η PayPal έβγαλε το πρώτο της κέρδος."
+      },
+      "apply": {
+        "en": "You already build with AI. Draw the line clearly: the machine does the volume (drafts, code, first versions of texts), you do what needs judgement (the client's real wish, taste, the final check, the relationship). Never send a client something no human has looked at.",
+        "el": "Χτίζεις ήδη με AI. Τράβα καθαρά τη γραμμή: η μηχανή κάνει τον όγκο (drafts, κώδικα, πρώτες εκδοχές κειμένων), εσύ κάνεις ό,τι θέλει κρίση (τι θέλει στ' αλήθεια ο πελάτης, γούστο, τελικός έλεγχος, σχέση). Μη στέλνεις ποτέ σε πελάτη κάτι που δεν το έχει δει ανθρώπινο μάτι."
+      },
+      "check": {
+        "q": {"en": "How does Thiel see people and computers?", "el": "Πώς βλέπει ο Thiel ανθρώπους και υπολογιστές;"},
+        "options": [
+          {"en": "As rivals fighting for the same jobs", "el": "Ως αντιπάλους που παλεύουν για τις ίδιες δουλειές"},
+          {"en": "As partners with different strengths", "el": "Ως συνεργάτες με διαφορετικά δυνατά σημεία"},
+          {"en": "As the same thing at different speeds", "el": "Ως το ίδιο πράγμα σε διαφορετικές ταχύτητες"}
+        ],
+        "answer": 1,
+        "why": {"en": "Computers handle data, people handle judgement; together they beat either one alone.", "el": "Οι υπολογιστές χειρίζονται δεδομένα, οι άνθρωποι την κρίση· μαζί νικούν τον καθένα χωριστά."}
+      }
+    },
+    {
+      "title": {"en": "The seven questions", "el": "Οι επτά ερωτήσεις"},
+      "explain": {
+        "en": "Every business must answer seven questions. Engineering: is it a real breakthrough, not a small gain? Timing: is now the right moment? Monopoly: do you start with a big share of a small market? People: is the team right? Distribution: can you actually deliver and sell it? Durability: will your position hold in 10 or 20 years? Secret: have you seen an opportunity others miss? Good answers to five or six may be enough.",
+        "el": "Κάθε επιχείρηση πρέπει να απαντήσει σε επτά ερωτήσεις. Τεχνολογία: είναι πραγματικό άλμα και όχι μικρή βελτίωση; Χρονική στιγμή: είναι τώρα η ώρα; Μονοπώλιο: ξεκινάς με μεγάλο μερίδιο σε μικρή αγορά; Άνθρωποι: είναι σωστή η ομάδα; Διανομή: μπορείς πραγματικά να το φτάσεις στον πελάτη και να το πουλήσεις; Αντοχή: θα κρατήσεις τη θέση σου σε 10 ή 20 χρόνια; Μυστικό: έχεις δει μια ευκαιρία που οι άλλοι δεν βλέπουν; Καλές απαντήσεις σε πέντε ή έξι μπορεί να αρκούν."
+      },
+      "example": {
+        "en": "Around 2010 dozens of clean energy companies failed. Solyndra made solar cells that were not better than standard panels, and many firms were run by salesmen in suits with no plan to reach customers. Tesla, in the same field, had good answers to all seven questions and survived.",
+        "el": "Γύρω στο 2010 δεκάδες εταιρείες καθαρής ενέργειας απέτυχαν. Η Solyndra έφτιαχνε ηλιακά στοιχεία που δεν ήταν καλύτερα από τα συνηθισμένα πάνελ, και πολλές εταιρείες τις έτρεχαν πωλητές με κοστούμια, χωρίς σχέδιο για το πώς θα φτάσουν στον πελάτη. Η Tesla, στον ίδιο χώρο, είχε καλές απαντήσεις και στις επτά ερωτήσεις και επιβίωσε."
+      },
+      "apply": {
+        "en": "Score Advon from 1 to 5 on each of the seven questions, honestly, in ten minutes. Circle the two lowest scores. Those two are your strategy work for the next quarter. Do the same before you start any new product or side project.",
+        "el": "Βαθμολόγησε την Advon από το 1 ως το 5 σε καθεμία από τις επτά ερωτήσεις, ειλικρινά, μέσα σε δέκα λεπτά. Κύκλωσε τους δύο χαμηλότερους βαθμούς. Αυτά τα δύο είναι η στρατηγική σου δουλειά για το επόμενο τρίμηνο. Κάνε το ίδιο πριν ξεκινήσεις οποιοδήποτε νέο προϊόν ή παράλληλο εγχείρημα."
+      },
+      "check": {
+        "q": {"en": "What does the 'durability' question ask?", "el": "Τι ρωτά η ερώτηση της «αντοχής»;"},
+        "options": [
+          {"en": "Whether your product is physically strong", "el": "Αν το προϊόν σου είναι ανθεκτικό ως υλικό"},
+          {"en": "Whether the founders can work long hours", "el": "Αν οι ιδρυτές αντέχουν πολλές ώρες δουλειάς"},
+          {"en": "Whether your market position will hold for decades", "el": "Αν η θέση σου στην αγορά θα κρατήσει για δεκαετίες"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is about being defensible 10 and 20 years from now, the last-mover idea.", "el": "Αφορά το αν θα μπορείς να υπερασπιστείς τη θέση σου σε 10 και 20 χρόνια, η ιδέα του «τελευταίου»."}
+      }
+    },
+    {
+      "title": {"en": "The founder's paradox", "el": "Το παράδοξο του ιδρυτή"},
+      "explain": {
+        "en": "Thiel ends with founders. Many are unusual people with extreme traits, and the public first praises them and then blames them for everything. Yet companies need a founder: one person with the authority and vision to make long-term bets that a committee of managers never would. His warning goes both ways. A company should value its odd founder. And the founder must never believe his own myth.",
+        "el": "Ο Thiel κλείνει με τους ιδρυτές. Πολλοί είναι ασυνήθιστοι άνθρωποι με ακραία χαρακτηριστικά, και ο κόσμος πρώτα τους αποθεώνει και μετά τους φορτώνει τα πάντα. Κι όμως οι εταιρείες χρειάζονται ιδρυτή: έναν άνθρωπο με το κύρος και το όραμα να βάλει μακροπρόθεσμα στοιχήματα που μια επιτροπή από μάνατζερ δεν θα έβαζε ποτέ. Η προειδοποίησή του πάει και προς τις δύο πλευρές. Η εταιρεία πρέπει να εκτιμά τον ιδιόρρυθμο ιδρυτή της. Και ο ιδρυτής δεν πρέπει ποτέ να πιστέψει τον δικό του μύθο."
+      },
+      "example": {
+        "en": "Apple pushed Steve Jobs out in 1985 and drifted for years. He came back in 1997, when the company was close to bankruptcy, cut most products and then launched the iPod, iPhone and iPad. Apple became the most valuable company in the world.",
+        "el": "Η Apple έδιωξε τον Steve Jobs το 1985 και για χρόνια πήγαινε χωρίς πυξίδα. Εκείνος γύρισε το 1997, όταν η εταιρεία ήταν κοντά στη χρεοκοπία, έκοψε τα περισσότερα προϊόντα και μετά έβγαλε το iPod, το iPhone και το iPad. Η Apple έγινε η πιο πολύτιμη εταιρεία στον κόσμο."
+      },
+      "apply": {
+        "en": "Keep the long-term bets for yourself: the offer, the niche, the brand. Nobody else will make them. At the same time ask one person you trust to tell you each month where you are wrong, and thank them when they do.",
+        "el": "Κράτα για σένα τα μακροπρόθεσμα στοιχήματα: την προσφορά, την εξειδίκευση, το brand. Κανείς άλλος δεν θα τα βάλει. Ταυτόχρονα ζήτα από έναν άνθρωπο που εμπιστεύεσαι να σου λέει κάθε μήνα πού κάνεις λάθος, και ευχαρίστησέ τον όταν το κάνει."
+      },
+      "check": {
+        "q": {"en": "What is the risk for the founder himself?", "el": "Ποιος είναι ο κίνδυνος για τον ίδιο τον ιδρυτή;"},
+        "options": [
+          {"en": "Starting to believe his own myth", "el": "Να αρχίσει να πιστεύει τον δικό του μύθο"},
+          {"en": "Making plans that reach too far ahead", "el": "Να κάνει σχέδια που κοιτούν πολύ μακριά"},
+          {"en": "Caring too much about the product", "el": "Να νοιάζεται υπερβολικά για το προϊόν"}
+        ],
+        "answer": 0,
+        "why": {"en": "Founders are needed for bold bets, but one who thinks he cannot be wrong becomes dangerous.", "el": "Οι ιδρυτές χρειάζονται για τα τολμηρά στοιχήματα, αλλά όποιος νομίζει ότι δεν κάνει ποτέ λάθος γίνεται επικίνδυνος."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A dentist says: 'Another company quoted me 100 euros less.' What would Thiel do?", "el": "Ένας οδοντίατρος λέει: «Μια άλλη εταιρεία μού έδωσε προσφορά 100 ευρώ πιο κάτω». Τι θα έκανε ο Thiel;"},
+      "options": [
+        {"en": "Match the price so you do not lose him", "el": "Θα έριχνε την τιμή για να μην τον χάσει"},
+        {"en": "Show what only you offer and hold your price", "el": "Θα έδειχνε τι προσφέρει μόνο εκείνος και θα κρατούσε την τιμή"},
+        {"en": "Speak badly of the other company", "el": "Θα μιλούσε άσχημα για την άλλη εταιρεία"}
+      ],
+      "answer": 1,
+      "why": {"en": "Fighting on price is competition that eats all profit. Stand on what makes you different.", "el": "Η μάχη στην τιμή είναι ανταγωνισμός που τρώει όλο το κέρδος. Στάσου σε αυτό που σε κάνει διαφορετικό."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "You want to grow. Which plan fits the book best?", "el": "Θέλεις να μεγαλώσεις. Ποιο σχέδιο ταιριάζει περισσότερο με το βιβλίο;"},
+      "options": [
+        {"en": "Become the known name for one specialty in one city first", "el": "Να γίνεις πρώτα το γνωστό όνομα για μία ειδικότητα σε μία πόλη"},
+        {"en": "Advertise to every business in Greece at once", "el": "Να διαφημιστείς σε κάθε επιχείρηση στην Ελλάδα ταυτόχρονα"},
+        {"en": "Add ten new services to attract everyone", "el": "Να προσθέσεις δέκα νέες υπηρεσίες για να τραβήξεις τους πάντες"}
+      ],
+      "answer": 0,
+      "why": {"en": "Dominate a small market, then expand to the next one beside it.", "el": "Κυριάρχησε σε μια μικρή αγορά και μετά πέρνα στη διπλανή."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "Your sites are beautiful, but few new clients arrive. A friend says: 'Good work sells itself, be patient.' What do you do?", "el": "Οι ιστοσελίδες σου είναι πανέμορφες, αλλά έρχονται λίγοι νέοι πελάτες. Ένας φίλος λέει: «Η καλή δουλειά πουλιέται μόνη της, κάνε υπομονή». Τι κάνεις;"},
+      "options": [
+        {"en": "Wait; quality will be noticed in time", "el": "Περιμένεις· η ποιότητα θα φανεί με τον καιρό"},
+        {"en": "Make the sites even more beautiful", "el": "Κάνεις τις ιστοσελίδες ακόμα πιο όμορφες"},
+        {"en": "Fix distribution: calls, ads, referrals, and measure them", "el": "Φτιάχνεις τη διανομή: κλήσεις, διαφημίσεις, συστάσεις, και τις μετράς"}
+      ],
+      "answer": 2,
+      "why": {"en": "Thiel calls 'build it and they will come' a lie. Selling deserves as much design as the product.", "el": "Ο Thiel θεωρεί ψέμα το «φτιάξ' το και θα έρθουν». Η πώληση θέλει τόσο σχεδιασμό όσο και το προϊόν."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "You have five projects running: the agency, a directory site, an app, video services, eshops. Each gets a few hours a week. What does the power law suggest?", "el": "Τρέχεις πέντε πράγματα μαζί: το γραφείο, έναν κατάλογο, μια εφαρμογή, υπηρεσίες βίντεο, eshops. Το καθένα παίρνει λίγες ώρες την εβδομάδα. Τι λέει ο νόμος της δύναμης;"},
+      "options": [
+        {"en": "Keep all five equal to spread the risk", "el": "Κράτα και τα πέντε ίσα για να μοιράσεις το ρίσκο"},
+        {"en": "Find the one with the biggest potential and give it most of your time", "el": "Βρες αυτό με τη μεγαλύτερη προοπτική και δώσ' του τον περισσότερο χρόνο σου"},
+        {"en": "Add a sixth in case the others fail", "el": "Πρόσθεσε κι ένα έκτο, μήπως αποτύχουν τα άλλα"}
+      ],
+      "answer": 1,
+      "why": {"en": "One thing will likely bring more than all the others combined; equal attention wastes it.", "el": "Ένα πράγμα θα φέρει πιθανότατα περισσότερα απ' όλα τα άλλα μαζί· η ίση προσοχή το αδικεί."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "Someone you met last month at an event proposes to become your 50-50 partner. He seems great. What is the wise move?", "el": "Κάποιος που γνώρισες τον περασμένο μήνα σε μια εκδήλωση προτείνει να γίνετε συνεταίροι 50-50. Φαίνεται εξαιρετικός. Ποια είναι η σοφή κίνηση;"},
+      "options": [
+        {"en": "Work together on a small project first and agree roles in writing", "el": "Να δουλέψετε πρώτα μαζί σε ένα μικρό έργο και να γράψετε τους ρόλους"},
+        {"en": "Sign quickly before he changes his mind", "el": "Να υπογράψεις γρήγορα πριν αλλάξει γνώμη"},
+        {"en": "Refuse every partner on principle", "el": "Να αρνείσαι κάθε συνεταίρο από θέση αρχής"}
+      ],
+      "answer": 0,
+      "why": {"en": "Foundations cannot be repaired later; a co-founder needs shared history, like a marriage.", "el": "Τα θεμέλια δεν διορθώνονται μετά· ο συνιδρυτής θέλει κοινή ιστορία, όπως ένας γάμος."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A relative says: 'Do not plan so much, life is luck. Just see what comes.' You are deciding your next year. What does Thiel answer?", "el": "Ένας συγγενής σού λέει: «Μην κάνεις τόσα σχέδια, η ζωή είναι τύχη. Δες τι θα φέρει». Αποφασίζεις την επόμενη χρονιά σου. Τι απαντά ο Thiel;"},
+      "options": [
+        {"en": "He is right; keep all options open", "el": "Έχει δίκιο· κράτα όλες τις πόρτες ανοιχτές"},
+        {"en": "Luck exists, so effort does not matter", "el": "Η τύχη υπάρχει, άρα η προσπάθεια δεν μετρά"},
+        {"en": "Make a concrete plan and work it; you are not a lottery ticket", "el": "Κάνε συγκεκριμένο σχέδιο και δούλεψέ το· δεν είσαι λαχνός"}
+      ],
+      "answer": 2,
+      "why": {"en": "Definite optimism: the future is better for those who plan and build it.", "el": "Αισιοδοξία με σχέδιο: το μέλλον είναι καλύτερο για όσους το σχεδιάζουν και το χτίζουν."},
+      "idea": 7
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "For Thiel, copying a successful business model is progress from 0 to 1.", "el": "Για τον Thiel, το να αντιγράψεις ένα πετυχημένο μοντέλο είναι πρόοδος από το 0 στο 1."},
+      "answer": false,
+      "why": {"en": "Copying is 1 to n. 0 to 1 means creating something new.", "el": "Η αντιγραφή είναι από το 1 στο n. Από το 0 στο 1 σημαίνει δημιουργώ κάτι νέο."}
+    },
+    {
+      "s": {"en": "A creative monopoly earns its position by being far better, not by blocking rivals.", "el": "Ένα δημιουργικό μονοπώλιο κερδίζει τη θέση του επειδή είναι πολύ καλύτερο, όχι επειδή μπλοκάρει αντιπάλους."},
+      "answer": true,
+      "why": {"en": "Thiel praises companies that give customers something nobody else can, not bullies.", "el": "Ο Thiel επαινεί τις εταιρείες που δίνουν στον πελάτη κάτι που δεν μπορεί κανείς άλλος, όχι όσες εκβιάζουν την αγορά."}
+    },
+    {
+      "s": {"en": "A startup should aim at the biggest possible market from day one.", "el": "Μια startup πρέπει να στοχεύει στη μεγαλύτερη δυνατή αγορά από την πρώτη μέρα."},
+      "answer": false,
+      "why": {"en": "Start with a small market you can dominate, then scale up step by step.", "el": "Ξεκίνα από μια μικρή αγορά που μπορείς να κατακτήσεις και μεγάλωσε βήμα βήμα."}
+    },
+    {
+      "s": {"en": "Being the first in a market is less important than being the one who lasts.", "el": "Το να είσαι πρώτος σε μια αγορά μετρά λιγότερο από το να είσαι αυτός που αντέχει."},
+      "answer": true,
+      "why": {"en": "That is the last-mover advantage: value comes from profits far in the future.", "el": "Αυτό είναι το πλεονέκτημα του τελευταίου: η αξία βγαίνει από κέρδη μακριά στο μέλλον."}
+    },
+    {
+      "s": {"en": "Thiel believes a great product does not need a sales plan.", "el": "Ο Thiel πιστεύει ότι ένα εξαιρετικό προϊόν δεν χρειάζεται σχέδιο πωλήσεων."},
+      "answer": false,
+      "why": {"en": "He says distribution matters as much as the product and must be planned.", "el": "Λέει ότι η διανομή μετρά όσο και το προϊόν και πρέπει να σχεδιάζεται."}
+    },
+    {
+      "s": {"en": "The power law means one of your efforts may outweigh all the others together.", "el": "Ο νόμος της δύναμης σημαίνει ότι μία προσπάθειά σου μπορεί να βαραίνει περισσότερο απ' όλες τις άλλες μαζί."},
+      "answer": true,
+      "why": {"en": "Results are very uneven, which is why focus matters.", "el": "Τα αποτελέσματα είναι πολύ άνισα, γι' αυτό μετρά η εστίαση."}
+    },
+    {
+      "s": {"en": "Thiel expects computers to replace most human workers soon.", "el": "Ο Thiel περιμένει ότι οι υπολογιστές θα αντικαταστήσουν σύντομα τους περισσότερους εργαζόμενους."},
+      "answer": false,
+      "why": {"en": "He argues people and machines have different strengths and work best together.", "el": "Υποστηρίζει ότι άνθρωποι και μηχανές έχουν διαφορετικά δυνατά σημεία και δουλεύουν καλύτερα μαζί."}
+    },
+    {
+      "s": {"en": "Thiel says a startup with a bad foundation cannot be repaired later.", "el": "Ο Thiel λέει ότι μια startup με κακά θεμέλια δεν διορθώνεται αργότερα."},
+      "answer": true,
+      "why": {"en": "This is 'Thiel's law': partners, ownership and control must be right from the start.", "el": "Αυτός είναι ο «νόμος του Thiel»: συνεταίροι, ποσοστά και έλεγχος πρέπει να είναι σωστά από την αρχή."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "0 to 1", "el": "Από το 0 στο 1"}, "b": {"en": "Creating something that did not exist", "el": "Δημιουργείς κάτι που δεν υπήρχε"}},
+    {"a": {"en": "1 to n", "el": "Από το 1 στο n"}, "b": {"en": "Copying what already works", "el": "Αντιγράφεις κάτι που ήδη δουλεύει"}},
+    {"a": {"en": "Creative monopoly", "el": "Δημιουργικό μονοπώλιο"}, "b": {"en": "So good that no close substitute exists", "el": "Τόσο καλό που δεν υπάρχει κοντινή εναλλακτική"}},
+    {"a": {"en": "Network effect", "el": "Φαινόμενο δικτύου"}, "b": {"en": "More users make the product more useful", "el": "Περισσότεροι χρήστες το κάνουν πιο χρήσιμο"}},
+    {"a": {"en": "Secret", "el": "Μυστικό"}, "b": {"en": "A hard truth that few people see", "el": "Μια δύσκολη αλήθεια που βλέπουν λίγοι"}},
+    {"a": {"en": "Distribution", "el": "Διανομή"}, "b": {"en": "How you reach and win customers", "el": "Το πώς φτάνεις και κερδίζεις πελάτες"}}
+  ],
+  "missions": [
+    {"en": "Write your answer to the question: what important truth about my market do few people agree with me on?", "el": "Γράψε την απάντησή σου στην ερώτηση: σε ποια σημαντική αλήθεια για την αγορά μου συμφωνούν μαζί μου ελάχιστοι;"},
+    {"en": "Name the one small group of clients you could win almost completely, in one sentence.", "el": "Ονόμασε σε μία πρόταση τη μία μικρή ομάδα πελατών που θα μπορούσες να κερδίσεις σχεδόν ολόκληρη."},
+    {"en": "Count where your last 20 clients came from and circle the channel that brought the most.", "el": "Μέτρα από πού ήρθαν οι τελευταίοι 20 πελάτες σου και κύκλωσε το κανάλι που έφερε τους περισσότερους."},
+    {"en": "Score Advon from 1 to 5 on each of the seven questions and mark the two weakest.", "el": "Βαθμολόγησε την Advon από το 1 ως το 5 σε καθεμία από τις επτά ερωτήσεις και σημείωσε τις δύο πιο αδύναμες."},
+    {"en": "Write in one line what you do ten times better than a classic web agency, and say it in your next call.", "el": "Γράψε σε μία γραμμή τι κάνεις δέκα φορές καλύτερα από ένα κλασικό γραφείο ιστοσελίδων και πες το στο επόμενο τηλεφώνημα."}
+  ],
+  "mantra": {"en": "Do not compete. Build what nobody else offers.", "el": "Μην ανταγωνίζεσαι. Φτιάξε αυτό που δεν προσφέρει κανείς άλλος."},
+  "careful": {
+    "en": "Thiel learns from a handful of giant winners, which is survivorship bias: many who followed the same advice failed unseen. His praise of monopoly is disputed. Economists and regulators point out that monopolies can raise prices, squeeze suppliers and block newcomers. The book is written for venture-funded tech startups, so not all of it fits a service business. And he is selling his own worldview as an investor. Use the questions; do not treat the answers as laws.",
+    "el": "Ο Thiel βγάζει συμπεράσματα από μια χούφτα τεράστιους νικητές, κι αυτό είναι μεροληψία επιβίωσης: πολλοί που ακολούθησαν τις ίδιες συμβουλές απέτυχαν χωρίς να τους δει κανείς. Ο έπαινός του για το μονοπώλιο αμφισβητείται. Οικονομολόγοι και ρυθμιστικές αρχές επισημαίνουν ότι τα μονοπώλια μπορούν να ανεβάζουν τιμές, να πιέζουν προμηθευτές και να κλείνουν τον δρόμο στους νέους. Το βιβλίο γράφτηκε για startups τεχνολογίας με επενδυτές, άρα δεν ταιριάζει ολόκληρο σε μια επιχείρηση υπηρεσιών. Κι ο ίδιος προβάλλει τη δική του κοσμοθεωρία ως επενδυτής. Κράτα τις ερωτήσεις· μη δεις τις απαντήσεις ως νόμους."
+  },
+  "connects": [
+    {"book": "the-founders", "note": {"en": "The Founders tells the full PayPal story that Thiel uses here as his main source of lessons.", "el": "Το The Founders διηγείται ολόκληρη την ιστορία της PayPal, από την οποία ο Thiel αντλεί εδώ τα περισσότερα μαθήματά του."}},
+    {"book": "e-myth", "note": {"en": "Thiel tells you what unique thing to build; Gerber tells you how to make it run every day without you.", "el": "Ο Thiel σού λέει ποιο μοναδικό πράγμα να χτίσεις· ο Gerber πώς θα δουλεύει κάθε μέρα χωρίς εσένα."}},
+    {"book": "your-next-five-moves", "note": {"en": "Both ask you to plan moves ahead like a chess player; Thiel's version is to study the endgame first.", "el": "Και τα δύο σού ζητούν να σχεδιάζεις κινήσεις μπροστά σαν σκακιστής· η εκδοχή του Thiel είναι να μελετάς πρώτα το φινάλε."}}
+  ]
+}

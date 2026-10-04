@@ -1,0 +1,558 @@
+{
+  "id": "procrastination-puzzle",
+  "title": {"en": "Solving the Procrastination Puzzle", "el": "Λύνοντας τον Γρίφο της Αναβλητικότητας"},
+  "author": "Timothy A. Pychyl",
+  "authorEl": "Τίμοθι Πίτσιλ",
+  "year": 2013,
+  "shelf": "focus",
+  "skills": {"focus": 3, "mindset": 2},
+  "oneLine": {
+    "en": "Procrastination is not a time problem but a feelings problem: you delay to feel better now, and the cure is to start anyway, in a tiny way.",
+    "el": "Η αναβλητικότητα δεν είναι πρόβλημα χρόνου αλλά συναισθημάτων: αναβάλλεις για να νιώσεις καλύτερα τώρα, και η λύση είναι να ξεκινήσεις παρ' όλα αυτά, με κάτι πολύ μικρό."
+  },
+  "story": {
+    "en": "Timothy Pychyl is a psychology professor at Carleton University in Canada who has studied procrastination for more than twenty years. He first released this short guide himself in 2010 and a major publisher reissued it in 2013. Each chapter is a few pages: one idea, the research behind it, one strategy. People read it because it is brief, kind and based on real studies.",
+    "el": "Ο Timothy Pychyl είναι καθηγητής ψυχολογίας στο Πανεπιστήμιο Carleton του Καναδά και μελετά την αναβλητικότητα πάνω από είκοσι χρόνια. Αυτόν τον σύντομο οδηγό τον έβγαλε πρώτα μόνος του το 2010 και το 2013 τον επανεξέδωσε μεγάλος εκδοτικός οίκος. Κάθε κεφάλαιο είναι λίγες σελίδες: μία ιδέα, η έρευνα πίσω της, μία στρατηγική. Διαβάζεται γιατί είναι σύντομος, ζεστός και στηρίζεται σε πραγματικές μελέτες."
+  },
+  "forYou": {
+    "en": "Your income depends on tasks that are easy to put off: the next cold call after a rude no, the follow-up to a silent prospect, the message to a client who pays late. None of them is hard. They are just unpleasant. This book explains why you slip to easier work at those moments and gives you simple ways to pick up the phone anyway.",
+    "el": "Το εισόδημά σου κρέμεται από δουλειές που αναβάλλονται εύκολα: το επόμενο cold call μετά από ένα αγενές «όχι», το follow-up σε κάποιον που δεν απαντά, το μήνυμα στον πελάτη που αργεί να πληρώσει. Καμία δεν είναι δύσκολη. Είναι απλώς δυσάρεστες. Το βιβλίο εξηγεί γιατί εκείνη τη στιγμή γλιστράς σε πιο εύκολη δουλειά και σου δίνει απλούς τρόπους να σηκώσεις το τηλέφωνο έτσι κι αλλιώς."
+  },
+  "ideas": [
+    {
+      "title": {"en": "What procrastination really is", "el": "Τι είναι πραγματικά η αναβλητικότητα"},
+      "explain": {
+        "en": "Procrastination is when you freely choose to delay something you intended to do, although you know the delay will probably hurt you. That makes it an irrational kind of self-harm. Not every delay counts. If you postpone a task because something more important came up, or because you need more information, that is a sensible decision. All procrastination is delay, but not all delay is procrastination.",
+        "el": "Αναβλητικότητα είναι όταν επιλέγεις ελεύθερα να καθυστερήσεις κάτι που είχες σκοπό να κάνεις, ενώ ξέρεις ότι η καθυστέρηση μάλλον θα σου κάνει κακό. Γι' αυτό είναι ένα παράλογο είδος αυτοτραυματισμού. Δεν μετρά όμως κάθε καθυστέρηση. Αν μεταθέσεις μια δουλειά επειδή προέκυψε κάτι σημαντικότερο ή επειδή χρειάζεσαι περισσότερα στοιχεία, αυτό είναι λογική απόφαση. Κάθε αναβλητικότητα είναι καθυστέρηση, αλλά κάθε καθυστέρηση δεν είναι αναβλητικότητα."
+      },
+      "example": {
+        "en": "You planned to call ten prospects at 10:00. If a live site goes down and you fix it first, that is a wise delay. If you spend the hour tidying your desktop folders because calling feels uncomfortable, that is procrastination.",
+        "el": "Είχες σκοπό να πάρεις δέκα υποψήφιους πελάτες στις 10:00. Αν πέσει μια live ιστοσελίδα και τη φτιάξεις πρώτα, αυτή είναι συνετή καθυστέρηση. Αν περάσεις την ώρα τακτοποιώντας φακέλους στον υπολογιστή επειδή τα τηλέφωνα σε φέρνουν σε δύσκολη θέση, αυτή είναι αναβλητικότητα."
+      },
+      "apply": {
+        "en": "Ask one honest question each time you move a task: am I delaying because something truly matters more, or because this task feels bad? Write the three tasks you moved most often this month. Next to each, write the true reason in five words.",
+        "el": "Κάνε μία ειλικρινή ερώτηση κάθε φορά που μεταθέτεις μια δουλειά: την καθυστερώ επειδή κάτι άλλο μετρά πραγματικά περισσότερο ή επειδή αυτή η δουλειά με κάνει να νιώθω άσχημα; Γράψε τις τρεις δουλειές που μετέθεσες πιο συχνά αυτόν τον μήνα. Δίπλα στην καθεμία γράψε τον αληθινό λόγο σε πέντε λέξεις."
+      },
+      "check": {
+        "q": {"en": "Which of these is procrastination?", "el": "Ποιο από αυτά είναι αναβλητικότητα;"},
+        "options": [
+          {"en": "Moving a call because a client has an emergency", "el": "Μεταθέτεις ένα τηλεφώνημα γιατί ένας πελάτης έχει κάτι επείγον"},
+          {"en": "Putting off a planned call because it feels uncomfortable", "el": "Αναβάλλεις ένα τηλεφώνημα που είχες σκοπό να κάνεις, γιατί σε φέρνει σε δύσκολη θέση"},
+          {"en": "Waiting for the photos before you build the site", "el": "Περιμένεις τις φωτογραφίες πριν στήσεις την ιστοσελίδα"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is a voluntary delay of something you meant to do, for no good reason, and it will cost you.", "el": "Είναι εκούσια καθυστέρηση σε κάτι που ήθελες να κάνεις, χωρίς καλό λόγο, και θα σου κοστίσει."}
+      }
+    },
+    {
+      "title": {"en": "The real cost", "el": "Το πραγματικό κόστος"},
+      "explain": {
+        "en": "Procrastination is not a harmless habit or a funny weakness. Research links it to worse results, more stress, less happiness and even poorer health, partly because procrastinators also delay sleep, exercise and visits to the doctor. Pychyl adds a deeper cost. Time is the one thing you cannot get back. When you put off your goals, you are putting off your own life.",
+        "el": "Η αναβλητικότητα δεν είναι αθώα συνήθεια ούτε χαριτωμένη αδυναμία. Οι έρευνες τη συνδέουν με χειρότερα αποτελέσματα, περισσότερο άγχος, λιγότερη ευτυχία, ακόμα και χειρότερη υγεία, εν μέρει επειδή οι αναβλητικοί αναβάλλουν και τον ύπνο, τη γυμναστική και τον γιατρό. Ο Pychyl προσθέτει ένα βαθύτερο κόστος. Ο χρόνος είναι το μόνο πράγμα που δεν παίρνεις πίσω. Όταν αναβάλλεις τους στόχους σου, αναβάλλεις την ίδια σου τη ζωή."
+      },
+      "example": {
+        "en": "In 1997 Dianne Tice and Roy Baumeister followed students through a semester. Procrastinators felt less stress at the start. By the end they reported more stress and more illness than the others, and they received lower grades.",
+        "el": "Το 1997 η Dianne Tice και ο Roy Baumeister παρακολούθησαν φοιτητές σε ένα ολόκληρο εξάμηνο. Οι αναβλητικοί ένιωθαν λιγότερο άγχος στην αρχή. Στο τέλος όμως ανέφεραν περισσότερο άγχος και περισσότερες αρρώστιες από τους άλλους, και πήραν χαμηλότερους βαθμούς."
+      },
+      "apply": {
+        "en": "Put a price on one delay. Take a follow-up you have avoided for two weeks and write what it has cost: the meeting not booked, the yearly fee not earned, the evenings you spent thinking about it. Read that line before you decide to move the task again.",
+        "el": "Βάλε τιμή σε μία αναβολή. Πάρε ένα follow-up που αποφεύγεις εδώ και δύο εβδομάδες και γράψε τι σου έχει κοστίσει: το ραντεβού που δεν κλείστηκε, η ετήσια συνδρομή που δεν εισπράχθηκε, τα βράδια που το σκεφτόσουν. Διάβασε αυτή τη γραμμή πριν αποφασίσεις να το μεταθέσεις ξανά."
+      },
+      "check": {
+        "q": {"en": "What did the semester study of students show?", "el": "Τι έδειξε η έρευνα με τους φοιτητές στο εξάμηνο;"},
+        "options": [
+          {"en": "Procrastinators ended with more stress and lower grades", "el": "Οι αναβλητικοί κατέληξαν με περισσότερο άγχος και χαμηλότερους βαθμούς"},
+          {"en": "Procrastinators were calmer during the whole semester", "el": "Οι αναβλητικοί ήταν πιο ήρεμοι σε όλο το εξάμηνο"},
+          {"en": "Procrastinators got the same grades with less work", "el": "Οι αναβλητικοί πήραν ίδιους βαθμούς με λιγότερη δουλειά"}
+        ],
+        "answer": 0,
+        "why": {"en": "The early relief was real but short. The total bill in stress, health and results was higher.", "el": "Η αρχική ανακούφιση ήταν αληθινή αλλά σύντομη. Ο συνολικός λογαριασμός σε άγχος, υγεία και αποτελέσματα ήταν μεγαλύτερος."}
+      }
+    },
+    {
+      "title": {"en": "Giving in to feel good", "el": "Υποχωρείς για να νιώσεις καλά"},
+      "explain": {
+        "en": "The cause is not laziness or bad time management. It is a problem of handling emotions. A task makes you feel something unpleasant: boredom, fear of failing, frustration, anxiety. You escape the feeling by avoiding the task, and at once you feel better. Pychyl calls this giving in to feel good. It is a quick mood repair, and the bill goes to your future.",
+        "el": "Η αιτία δεν είναι η τεμπελιά ούτε η κακή διαχείριση χρόνου. Είναι πρόβλημα στο πώς χειρίζεσαι τα συναισθήματά σου. Μια δουλειά σε κάνει να νιώθεις κάτι δυσάρεστο: βαρεμάρα, φόβο αποτυχίας, εκνευρισμό, άγχος. Ξεφεύγεις από το συναίσθημα αποφεύγοντας τη δουλειά, και αμέσως νιώθεις καλύτερα. Ο Pychyl το λέει «υποχωρώ για να νιώσω καλά». Είναι ένα γρήγορο μπάλωμα της διάθεσης, και ο λογαριασμός πηγαίνει στο μέλλον σου."
+      },
+      "example": {
+        "en": "In a 2001 experiment by Tice, Bratslavsky and Baumeister, students put in a bad mood wasted more time on games before a test. But when they were told their mood could not change, they stopped procrastinating. The delay was an attempt to feel better.",
+        "el": "Σε ένα πείραμα του 2001 από τους Tice, Bratslavsky και Baumeister, φοιτητές που τους έφεραν σε κακή διάθεση χάζεψαν περισσότερο με παιχνίδια πριν από ένα τεστ. Όταν όμως τους είπαν ότι η διάθεσή τους δεν γίνεται να αλλάξει, σταμάτησαν να αναβάλλουν. Η αναβολή ήταν προσπάθεια να νιώσουν καλύτερα."
+      },
+      "apply": {
+        "en": "Name the feeling out loud the moment you want to escape: «This call makes me nervous.» Then stay in the chair for one minute without opening anything else. The feeling is information, not an order. Dial the number while it is still there.",
+        "el": "Πες δυνατά το συναίσθημα τη στιγμή που θέλεις να ξεφύγεις: «Αυτό το τηλεφώνημα με αγχώνει». Μετά μείνε στην καρέκλα ένα λεπτό, χωρίς να ανοίξεις τίποτα άλλο. Το συναίσθημα είναι πληροφορία, όχι εντολή. Πάρε τον αριθμό όσο το νιώθεις ακόμα."
+      },
+      "check": {
+        "q": {"en": "According to Pychyl, why do we procrastinate?", "el": "Κατά τον Pychyl, γιατί αναβάλλουμε;"},
+        "options": [
+          {"en": "Because we do not own a good calendar", "el": "Γιατί δεν έχουμε ένα καλό ημερολόγιο"},
+          {"en": "Because we are lazy by nature", "el": "Γιατί είμαστε από τη φύση μας τεμπέληδες"},
+          {"en": "Because avoiding the task makes us feel better now", "el": "Γιατί αποφεύγοντας τη δουλειά νιώθουμε καλύτερα τώρα"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is short-term mood repair: we trade the future for relief in the present.", "el": "Είναι σύντομη επιδιόρθωση της διάθεσης: ανταλλάσσουμε το μέλλον με ανακούφιση στο παρόν."}
+      }
+    },
+    {
+      "title": {"en": "Tomorrow you won't feel like it either", "el": "Ούτε αύριο θα έχεις όρεξη"},
+      "explain": {
+        "en": "When you say «I will do it tomorrow», you feel instant relief, and you truly believe that tomorrow you will have more energy and more desire. You will not. People are poor at predicting their future feelings, and they regularly underestimate how long tasks take. Tomorrow arrives, the task is exactly as unpleasant, and now there is less time. The good mood of «later» is an illusion.",
+        "el": "Όταν λες «θα το κάνω αύριο», νιώθεις αμέσως ανακούφιση και πιστεύεις ειλικρινά ότι αύριο θα έχεις περισσότερη ενέργεια και περισσότερη όρεξη. Δεν θα έχεις. Οι άνθρωποι προβλέπουν άσχημα τα μελλοντικά τους συναισθήματα και υποτιμούν συστηματικά πόσο χρόνο θέλει μια δουλειά. Το αύριο έρχεται, η δουλειά είναι το ίδιο δυσάρεστη και ο χρόνος λιγότερος. Η καλή διάθεση του «αργότερα» είναι ψευδαίσθηση."
+      },
+      "example": {
+        "en": "In a 1994 study by Roger Buehler, students predicted they would finish their thesis in about 34 days. On average they needed about 55 days, longer even than their own worst-case guess.",
+        "el": "Σε μια έρευνα του Roger Buehler το 1994, φοιτητές προέβλεψαν ότι θα τελειώσουν τη διπλωματική τους σε περίπου 34 μέρες. Κατά μέσο όρο χρειάστηκαν περίπου 55, περισσότερες ακόμα και από τη δική τους απαισιόδοξη εκτίμηση."
+      },
+      "apply": {
+        "en": "Catch the sentence «I'll feel more like it tomorrow» and treat it as an alarm, not a plan. When you hear it in your head, do the first small piece now: write the first line of the proposal or dial the first number. Add 50% to every time estimate you give a client.",
+        "el": "Πιάσε τη φράση «αύριο θα έχω περισσότερη όρεξη» και δες την ως συναγερμό, όχι ως πλάνο. Όταν την ακούσεις μέσα σου, κάνε τώρα το πρώτο μικρό κομμάτι: γράψε την πρώτη γραμμή της προσφοράς ή πάρε τον πρώτο αριθμό. Και πρόσθεσε 50% σε κάθε εκτίμηση χρόνου που δίνεις σε πελάτη."
+      },
+      "check": {
+        "q": {"en": "What is wrong with «I'll feel more like it tomorrow»?", "el": "Τι πρόβλημα έχει το «αύριο θα έχω περισσότερη όρεξη»;"},
+        "options": [
+          {"en": "Tomorrow there is usually no free time at all", "el": "Αύριο συνήθως δεν υπάρχει καθόλου ελεύθερος χρόνος"},
+          {"en": "We predict our future mood badly; the task stays unpleasant", "el": "Προβλέπουμε λάθος τη μελλοντική μας διάθεση· η δουλειά μένει δυσάρεστη"},
+          {"en": "Plans made in the evening never work", "el": "Τα πλάνα που γίνονται το βράδυ δεν πετυχαίνουν ποτέ"}
+        ],
+        "answer": 1,
+        "why": {"en": "The relief you feel now colours your forecast. Tomorrow's you faces the same task with less time.", "el": "Η ανακούφιση που νιώθεις τώρα χρωματίζει την πρόβλεψή σου. Ο αυριανός εαυτός σου έχει μπροστά του την ίδια δουλειά με λιγότερο χρόνο."}
+      }
+    },
+    {
+      "title": {"en": "Catch your excuses", "el": "Πιάσε τις δικαιολογίες σου"},
+      "explain": {
+        "en": "When you do not do what you intended, there is an uncomfortable gap between your plan and your behaviour. The mind closes the gap with a story: «I work better under pressure», «it is not that important», «I have plenty of time», «I need to be in the mood». These are rationalizations. They sound reasonable and their only job is to make the delay feel fine.",
+        "el": "Όταν δεν κάνεις αυτό που σκόπευες, δημιουργείται ένα ενοχλητικό κενό ανάμεσα στο πλάνο και στη συμπεριφορά σου. Το μυαλό κλείνει το κενό με μια ιστορία: «δουλεύω καλύτερα υπό πίεση», «δεν είναι και τόσο σημαντικό», «έχω άπλετο χρόνο», «πρέπει να έχω διάθεση». Αυτές είναι εκλογικεύσεις. Ακούγονται λογικές και η μόνη τους δουλειά είναι να κάνουν την αναβολή να φαίνεται εντάξει."
+      },
+      "example": {
+        "en": "Psychologist Joseph Ferrari tested the claim «I work best under pressure» in 2001. Chronic procrastinators working with a time limit were slower and made more errors than non-procrastinators. The pressure they said they needed made them worse.",
+        "el": "Ο ψυχολόγος Joseph Ferrari έλεγξε το 2001 τον ισχυρισμό «δουλεύω καλύτερα υπό πίεση». Οι χρόνια αναβλητικοί, όταν δούλεψαν με χρονικό όριο, ήταν πιο αργοί και έκαναν περισσότερα λάθη από τους μη αναβλητικούς. Η πίεση που έλεγαν ότι χρειάζονται τους έκανε χειρότερους."
+      },
+      "apply": {
+        "en": "Write down your three favourite excuses word for word, for example «doctors do not answer on Friday afternoon». Stick the list near the screen. When one of them appears, say «that is my excuse number two» and treat it as the signal to start immediately.",
+        "el": "Γράψε λέξη προς λέξη τις τρεις αγαπημένες σου δικαιολογίες, για παράδειγμα «οι γιατροί δεν σηκώνουν Παρασκευή απόγευμα». Κόλλησε τη λίστα κοντά στην οθόνη. Όταν εμφανιστεί κάποια, πες «αυτή είναι η δικαιολογία νούμερο δύο» και δες την ως σήμα για να ξεκινήσεις αμέσως."
+      },
+      "check": {
+        "q": {"en": "What is «I work better under pressure» in most cases?", "el": "Τι είναι στις περισσότερες περιπτώσεις το «δουλεύω καλύτερα υπό πίεση»;"},
+        "options": [
+          {"en": "A proven method for higher-quality work", "el": "Αποδεδειγμένη μέθοδος για πιο ποιοτική δουλειά"},
+          {"en": "A sign that you have strong discipline", "el": "Σημάδι ότι έχεις γερή πειθαρχία"},
+          {"en": "A story that makes the delay feel acceptable", "el": "Μια ιστορία που κάνει την αναβολή να φαίνεται αποδεκτή"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is a rationalization. Under time pressure, procrastinators actually perform worse.", "el": "Είναι εκλογίκευση. Υπό πίεση χρόνου, οι αναβλητικοί αποδίδουν στην πραγματικότητα χειρότερα."}
+      }
+    },
+    {
+      "title": {"en": "Just get started", "el": "Απλώς ξεκίνα"},
+      "explain": {
+        "en": "Do not wait until you feel like it. That feeling may never come. Motivation does not come before action, it follows it. Once you start, the task looks smaller than you imagined, you see some progress, and progress lifts your mood, which makes it easier to continue. Pychyl's central advice is three words: just get started. You do not need to want to do it. You only need to begin.",
+        "el": "Μην περιμένεις να σου έρθει η όρεξη. Μπορεί να μην έρθει ποτέ. Το κίνητρο δεν έρχεται πριν από την πράξη, την ακολουθεί. Μόλις ξεκινήσεις, η δουλειά φαίνεται μικρότερη απ' όσο φανταζόσουν, βλέπεις λίγη πρόοδο, και η πρόοδος σου φτιάχνει τη διάθεση, άρα συνεχίζεις πιο εύκολα. Η βασική συμβουλή του Pychyl είναι δύο λέξεις: απλώς ξεκίνα. Δεν χρειάζεται να θέλεις να το κάνεις. Χρειάζεται μόνο να αρχίσεις."
+      },
+      "example": {
+        "en": "Pychyl's team paged students at random moments during a week. While avoiding a task, they rated it as stressful and difficult. Once they had actually begun, they rated the same task as clearly less stressful and less difficult than before.",
+        "el": "Η ομάδα του Pychyl ειδοποιούσε φοιτητές σε τυχαίες στιγμές μέσα σε μια εβδομάδα. Όσο απέφευγαν μια εργασία, τη βαθμολογούσαν ως αγχωτική και δύσκολη. Όταν την είχαν πια ξεκινήσει, βαθμολογούσαν την ίδια εργασία ως σαφώς λιγότερο αγχωτική και λιγότερο δύσκολη από πριν."
+      },
+      "apply": {
+        "en": "Start the calling block with the easiest number on your list, before you check anything else. Do not ask yourself «do I feel ready?». Ask «what is the next action?» and do it. After the first call, the second one costs half the effort.",
+        "el": "Ξεκίνα το μπλοκ των τηλεφώνων με τον πιο εύκολο αριθμό της λίστας, πριν κοιτάξεις οτιδήποτε άλλο. Μη ρωτάς τον εαυτό σου «νιώθω έτοιμος;». Ρώτα «ποια είναι η επόμενη κίνηση;» και κάν' την. Μετά το πρώτο τηλεφώνημα, το δεύτερο θέλει τον μισό κόπο."
+      },
+      "check": {
+        "q": {"en": "What comes first, motivation or action?", "el": "Τι έρχεται πρώτο, το κίνητρο ή η πράξη;"},
+        "options": [
+          {"en": "Action: starting creates the motivation to go on", "el": "Η πράξη: το ξεκίνημα γεννά το κίνητρο για να συνεχίσεις"},
+          {"en": "Motivation: you must feel ready before you begin", "el": "Το κίνητρο: πρέπει να νιώσεις έτοιμος πριν αρχίσεις"},
+          {"en": "Neither: only deadlines make people move", "el": "Κανένα: μόνο οι προθεσμίες κινούν τους ανθρώπους"}
+        ],
+        "answer": 0,
+        "why": {"en": "A little progress improves your mood and your view of the task, so desire arrives after you start.", "el": "Λίγη πρόοδος φτιάχνει τη διάθεση και αλλάζει το πώς βλέπεις τη δουλειά, άρα η όρεξη έρχεται αφού ξεκινήσεις."}
+      }
+    },
+    {
+      "title": {"en": "The five-minute rule", "el": "Ο κανόνας των πέντε λεπτών"},
+      "explain": {
+        "en": "A practical way to get started: promise yourself only five minutes on the task. After five minutes you are free to stop. Five minutes is so small that the mind has little to resist, so the unpleasant feeling shrinks. Most times you will not stop, because the hardest part, the beginning, is already behind you. And if you do stop, you still did five minutes more than zero.",
+        "el": "Ένας πρακτικός τρόπος να ξεκινήσεις: υποσχέσου στον εαυτό σου μόνο πέντε λεπτά πάνω στη δουλειά. Μετά τα πέντε λεπτά είσαι ελεύθερος να σταματήσεις. Τα πέντε λεπτά είναι τόσο λίγα που το μυαλό δεν έχει πολλά να αντισταθεί, οπότε το δυσάρεστο συναίσθημα μικραίνει. Τις περισσότερες φορές δεν θα σταματήσεις, γιατί το πιο δύσκολο κομμάτι, η αρχή, είναι ήδη πίσω σου. Κι αν σταματήσεις, έκανες πέντε λεπτά παραπάνω από το μηδέν."
+      },
+      "example": {
+        "en": "Think of a sink full of dishes. You tell yourself you will wash only the glasses. Three minutes later the water is warm, your hands are wet, and you finish everything, because stopping now would feel stranger than going on.",
+        "el": "Σκέψου έναν νεροχύτη γεμάτο πιάτα. Λες στον εαυτό σου ότι θα πλύνεις μόνο τα ποτήρια. Τρία λεπτά μετά το νερό είναι ζεστό, τα χέρια σου βρεγμένα, και τα τελειώνεις όλα, γιατί το να σταματήσεις τώρα θα ήταν πιο παράξενο από το να συνεχίσεις."
+      },
+      "apply": {
+        "en": "Set a five-minute timer on the task you are avoiding most, such as the monthly numbers or a difficult client reply. Work only until it rings. Then decide freely whether to continue. Use it especially at the start of the calling block: five minutes, two dials.",
+        "el": "Βάλε χρονόμετρο πέντε λεπτών στη δουλειά που αποφεύγεις περισσότερο, όπως τα νούμερα του μήνα ή μια δύσκολη απάντηση σε πελάτη. Δούλεψε μόνο μέχρι να χτυπήσει. Μετά αποφάσισε ελεύθερα αν θα συνεχίσεις. Χρησιμοποίησέ το κυρίως στην αρχή των τηλεφώνων: πέντε λεπτά, δύο κλήσεις."
+      },
+      "check": {
+        "q": {"en": "Why does a five-minute promise work?", "el": "Γιατί δουλεύει η υπόσχεση των πέντε λεπτών;"},
+        "options": [
+          {"en": "Most tasks really take only five minutes", "el": "Οι περισσότερες δουλειές θέλουν πράγματι μόνο πέντε λεπτά"},
+          {"en": "It is too small to resist, and starting is the hard part", "el": "Είναι πολύ μικρή για να της αντισταθείς, και το δύσκολο είναι η αρχή"},
+          {"en": "A timer makes any task more enjoyable", "el": "Το χρονόμετρο κάνει κάθε δουλειά πιο ευχάριστη"}
+        ],
+        "answer": 1,
+        "why": {"en": "A tiny commitment lowers the bad feeling enough to begin, and once begun you usually continue.", "el": "Μια μικροσκοπική δέσμευση ρίχνει το δυσάρεστο συναίσθημα όσο χρειάζεται για να αρχίσεις, και αφού αρχίσεις συνήθως συνεχίζεις."}
+      }
+    },
+    {
+      "title": {"en": "The tiny next step", "el": "Το μικρό επόμενο βήμα"},
+      "explain": {
+        "en": "A huge, vague goal such as «write the thesis» or «grow the agency» is frightening, and fear feeds delay. A vague intention also gives you nothing to do right now. So look at the process, not the mountain. Ask what the very next concrete action is, the one you could finish in a few minutes: open the document, write the title, find the phone number. Then do only that.",
+        "el": "Ένας τεράστιος, θολός στόχος όπως «να γράψω τη διπλωματική» ή «να μεγαλώσω το γραφείο» τρομάζει, και ο φόβος τρέφει την αναβολή. Μια θολή πρόθεση επίσης δεν σου δίνει κάτι να κάνεις τώρα. Γι' αυτό κοίτα τη διαδικασία, όχι το βουνό. Ρώτα ποια είναι η αμέσως επόμενη συγκεκριμένη κίνηση, αυτή που τελειώνει σε λίγα λεπτά: άνοιξε το έγγραφο, γράψε τον τίτλο, βρες το τηλέφωνο. Και κάνε μόνο αυτό."
+      },
+      "example": {
+        "en": "Writer Anne Lamott tells how her ten-year-old brother sat frozen over a school report on birds, due the next day after months of delay. Their father put an arm around him and told him to take it bird by bird.",
+        "el": "Η συγγραφέας Anne Lamott διηγείται πώς ο δεκάχρονος αδελφός της είχε παγώσει μπροστά σε μια σχολική εργασία για τα πουλιά, που έπρεπε να παραδώσει την επόμενη μέρα μετά από μήνες αναβολής. Ο πατέρας τους τον αγκάλιασε και του είπε να την πάρει πουλί πουλί."
+      },
+      "apply": {
+        "en": "Rewrite every item on your list so it starts with a physical verb and fits in ten minutes. Not «new ad campaign» but «write three opening lines for the dentist ad». Not «sort out late payers» but «send the reminder to the first name on the list».",
+        "el": "Ξαναγράψε κάθε γραμμή της λίστας σου ώστε να αρχίζει με ένα συγκεκριμένο ρήμα και να χωράει σε δέκα λεπτά. Όχι «νέα διαφημιστική καμπάνια» αλλά «γράψε τρεις πρώτες φράσεις για τη διαφήμιση των οδοντιάτρων». Όχι «να τακτοποιήσω όσους χρωστάνε» αλλά «στείλε την υπενθύμιση στο πρώτο όνομα της λίστας»."
+      },
+      "check": {
+        "q": {"en": "Which item is written the right way on a to-do list?", "el": "Ποια γραμμή είναι γραμμένη σωστά σε μια λίστα εργασιών;"},
+        "options": [
+          {"en": "Improve the sales of the agency", "el": "Να βελτιώσω τις πωλήσεις του γραφείου"},
+          {"en": "Deal with the website of the lawyer", "el": "Να ασχοληθώ με την ιστοσελίδα του δικηγόρου"},
+          {"en": "Call the lawyer and ask for the three photos", "el": "Πάρε τον δικηγόρο και ζήτα τις τρεις φωτογραφίες"}
+        ],
+        "answer": 2,
+        "why": {"en": "It is one concrete, small action you can start this minute. The others are goals, not steps.", "el": "Είναι μία συγκεκριμένη, μικρή κίνηση που ξεκινά αυτό το λεπτό. Οι άλλες είναι στόχοι, όχι βήματα."}
+      }
+    },
+    {
+      "title": {"en": "If this, then that", "el": "Αν συμβεί αυτό, τότε κάνω εκείνο"},
+      "explain": {
+        "en": "A goal says what you want. An implementation intention says exactly when, where and how you will act: «If situation X happens, then I will do Y.» You decide in advance, so in the difficult moment there is nothing to think about. The situation itself triggers the action. Use it both to start tasks and to protect yourself from temptations and distractions.",
+        "el": "Ο στόχος λέει τι θέλεις. Η πρόθεση εφαρμογής λέει ακριβώς πότε, πού και πώς θα δράσεις: «Αν συμβεί το Χ, τότε θα κάνω το Ψ». Αποφασίζεις από πριν, οπότε στη δύσκολη στιγμή δεν έχεις τίποτα να σκεφτείς. Η ίδια η περίσταση πυροδοτεί την πράξη. Χρησιμοποίησέ τη και για να ξεκινάς δουλειές και για να προστατεύεσαι από πειρασμούς και περισπασμούς."
+      },
+      "example": {
+        "en": "Peter Gollwitzer asked students to write a report over the Christmas holiday. Among those who decided in advance exactly when and where they would write it, about 71% sent it in. Among those who only had the goal, about 32% did.",
+        "el": "Ο Peter Gollwitzer ζήτησε από φοιτητές να γράψουν μια αναφορά μέσα στις διακοπές των Χριστουγέννων. Από όσους αποφάσισαν από πριν ακριβώς πότε και πού θα τη γράψουν, την έστειλε περίπου το 71%. Από όσους είχαν απλώς τον στόχο, περίπου το 32%."
+      },
+      "apply": {
+        "en": "Write three rules on a card. «If I feel the urge to open Instagram, then the phone goes in the drawer.» «If it is 10:00, then I dial the first number.» «If a prospect says no rudely, then I breathe once and dial the next one within a minute.»",
+        "el": "Γράψε τρεις κανόνες σε μια κάρτα. «Αν μου έρθει να ανοίξω το Instagram, τότε το κινητό πάει στο συρτάρι». «Αν η ώρα είναι 10:00, τότε παίρνω τον πρώτο αριθμό». «Αν κάποιος μου πει όχι με αγένεια, τότε παίρνω μια ανάσα και καλώ τον επόμενο μέσα σε ένα λεπτό»."
+      },
+      "check": {
+        "q": {"en": "What makes an implementation intention stronger than a goal?", "el": "Τι κάνει την πρόθεση εφαρμογής πιο δυνατή από έναν στόχο;"},
+        "options": [
+          {"en": "It ties a specific action to a specific moment", "el": "Δένει μια συγκεκριμένη πράξη με μια συγκεκριμένη στιγμή"},
+          {"en": "It is more ambitious than a normal goal", "el": "Είναι πιο φιλόδοξη από έναν κανονικό στόχο"},
+          {"en": "It is shared with other people for pressure", "el": "Τη μοιράζεσαι με άλλους για να νιώθεις πίεση"}
+        ],
+        "answer": 0,
+        "why": {"en": "The decision is made beforehand, so the cue triggers the action without a debate.", "el": "Η απόφαση έχει παρθεί από πριν, άρα το ερέθισμα φέρνει την πράξη χωρίς συζήτηση."}
+      }
+    },
+    {
+      "title": {"en": "Willpower is a muscle", "el": "Η θέληση είναι μυς"},
+      "explain": {
+        "en": "Pychyl uses the view that self-control works like a muscle. It gets tired with use through the day: every decision, every temptation you resist takes a little out of it. So do your hardest and most avoided work when the muscle is fresh, usually in the morning. You can also support it: sleep enough, eat properly, and remind yourself why the task matters to you.",
+        "el": "Ο Pychyl στηρίζεται στην άποψη ότι ο αυτοέλεγχος δουλεύει σαν μυς. Κουράζεται με τη χρήση μέσα στη μέρα: κάθε απόφαση, κάθε πειρασμός που αντέχεις του παίρνει λίγο. Άρα κάνε την πιο δύσκολη δουλειά, αυτήν που αποφεύγεις περισσότερο, όταν ο μυς είναι ξεκούραστος, συνήθως το πρωί. Μπορείς και να τον στηρίξεις: κοιμήσου αρκετά, φάε σωστά και θύμισε στον εαυτό σου γιατί η δουλειά αυτή μετρά για σένα."
+      },
+      "example": {
+        "en": "In Roy Baumeister's 1998 experiment, hungry students who had to resist fresh cookies and eat radishes gave up on an unsolvable puzzle after about 8 minutes. Those allowed to eat the cookies kept trying for about 19 minutes.",
+        "el": "Στο πείραμα του Roy Baumeister το 1998, πεινασμένοι φοιτητές που έπρεπε να αντισταθούν σε φρέσκα μπισκότα και να φάνε ραπανάκια παράτησαν ένα άλυτο παζλ μετά από περίπου 8 λεπτά. Όσοι μπορούσαν να φάνε τα μπισκότα συνέχισαν να προσπαθούν περίπου 19 λεπτά."
+      },
+      "apply": {
+        "en": "Move the task you avoid most to your first working hour: the cold calls, or chasing a payment. Do it before email and before social media. Keep the afternoon for easier work such as small changes on client sites. Guard your sleep on the night before a heavy calling day.",
+        "el": "Πήγαινε τη δουλειά που αποφεύγεις περισσότερο στην πρώτη ώρα της μέρας σου: τα cold calls ή το κυνήγι μιας πληρωμής. Κάν' την πριν από το email και πριν από τα social media. Κράτα το απόγευμα για τα πιο εύκολα, όπως μικροαλλαγές σε ιστοσελίδες πελατών. Και φύλαξε τον ύπνο σου το βράδυ πριν από μια βαριά μέρα τηλεφώνων."
+      },
+      "check": {
+        "q": {"en": "When should you do the task you avoid most?", "el": "Πότε πρέπει να κάνεις τη δουλειά που αποφεύγεις περισσότερο;"},
+        "options": [
+          {"en": "Late at night, when everything is quiet", "el": "Αργά το βράδυ, που έχει ησυχία"},
+          {"en": "After you clear all the small tasks first", "el": "Αφού πρώτα ξεμπερδέψεις με όλα τα μικρά"},
+          {"en": "Early, while your self-control is still fresh", "el": "Νωρίς, όσο ο αυτοέλεγχός σου είναι ακόμα ξεκούραστος"}
+        ],
+        "answer": 2,
+        "why": {"en": "Self-control wears down with use, so the hardest task gets the first and best energy.", "el": "Ο αυτοέλεγχος φθείρεται με τη χρήση, άρα η πιο δύσκολη δουλειά παίρνει την πρώτη και καλύτερη ενέργεια."}
+      }
+    },
+    {
+      "title": {"en": "Disconnect to get going", "el": "Αποσυνδέσου για να προχωρήσεις"},
+      "explain": {
+        "en": "The internet is the perfect procrastination machine. Something more pleasant than your task is always one click away, and each click promises «just a minute». For an impulsive mind this is a trap. Pychyl's advice is not to rely on self-control in the moment but to remove the temptation in advance: close email and social media, turn off notifications, block the sites while you work.",
+        "el": "Το ίντερνετ είναι η τέλεια μηχανή αναβολής. Κάτι πιο ευχάριστο από τη δουλειά σου βρίσκεται πάντα ένα κλικ μακριά, και κάθε κλικ υπόσχεται «ένα λεπτάκι μόνο». Για ένα παρορμητικό μυαλό αυτό είναι παγίδα. Η συμβουλή του Pychyl είναι να μη στηρίζεσαι στον αυτοέλεγχο της στιγμής αλλά να βγάζεις τον πειρασμό από πριν: κλείσε email και social media, σβήσε τις ειδοποιήσεις, μπλόκαρε τις σελίδες όσο δουλεύεις."
+      },
+      "example": {
+        "en": "In a 2001 survey by Jennifer Lavoie and Pychyl, people reported that about 47% of the time they spent online was procrastination: almost half of their internet time went to avoiding something else.",
+        "el": "Σε μια έρευνα της Jennifer Lavoie και του Pychyl το 2001, οι συμμετέχοντες δήλωσαν ότι περίπου το 47% του χρόνου τους στο ίντερνετ ήταν αναβολή: σχεδόν ο μισός χρόνος online πήγαινε στο να αποφεύγουν κάτι άλλο."
+      },
+      "apply": {
+        "en": "Build the block before the temptation: put the phone on silent in a drawer, log out of Instagram on the laptop and use a site blocker during the calling and building blocks. Since Meta is also your ad tool, open it only at one fixed time a day, with a written purpose.",
+        "el": "Στήσε το εμπόδιο πριν από τον πειρασμό: κινητό στο αθόρυβο μέσα σε συρτάρι, αποσύνδεση από το Instagram στο λάπτοπ και ένα πρόγραμμα που μπλοκάρει σελίδες όσο κάνεις τηλέφωνα ή χτίζεις. Επειδή το Meta είναι και εργαλείο διαφήμισης για σένα, άνοιγέ το μόνο μία σταθερή ώρα τη μέρα, με γραμμένο σκοπό."
+      },
+      "check": {
+        "q": {"en": "What is the best defence against online distraction?", "el": "Ποια είναι η καλύτερη άμυνα απέναντι στον περισπασμό του ίντερνετ;"},
+        "options": [
+          {"en": "Trusting your willpower in the moment", "el": "Να εμπιστεύεσαι τη θέλησή σου εκείνη τη στιγμή"},
+          {"en": "Removing the temptation before you start", "el": "Να βγάλεις τον πειρασμό από τη μέση πριν ξεκινήσεις"},
+          {"en": "Allowing yourself only one minute each time", "el": "Να επιτρέπεις στον εαυτό σου ένα λεπτό κάθε φορά"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is far easier not to meet a temptation than to resist it once it is in front of you.", "el": "Είναι πολύ πιο εύκολο να μη συναντήσεις έναν πειρασμό παρά να του αντισταθείς όταν είναι μπροστά σου."}
+      }
+    },
+    {
+      "title": {"en": "Know your weak spots", "el": "Μάθε τα αδύνατα σημεία σου"},
+      "explain": {
+        "en": "Some tasks and some characters invite delay. Tasks we avoid tend to be boring, frustrating, unclear, without structure or without personal meaning. On the side of personality, the strongest links are with impulsiveness and low conscientiousness, and also with the kind of perfectionism that fears other people's judgment. This is not a sentence. It tells you where to put your strategies: add structure, add meaning, reduce temptation.",
+        "el": "Ορισμένες δουλειές και ορισμένοι χαρακτήρες προσκαλούν την αναβολή. Οι δουλειές που αποφεύγουμε είναι συνήθως βαρετές, εκνευριστικές, ασαφείς, χωρίς δομή ή χωρίς προσωπικό νόημα. Από την πλευρά του χαρακτήρα, η πιο ισχυρή σχέση είναι με την παρορμητικότητα και τη χαμηλή ευσυνειδησία, αλλά και με την τελειομανία εκείνη που φοβάται την κρίση των άλλων. Αυτό δεν είναι καταδίκη. Σου δείχνει πού να βάλεις τις στρατηγικές σου: δώσε δομή, δώσε νόημα, μείωσε τον πειρασμό."
+      },
+      "example": {
+        "en": "In 2007 Piers Steel combined the results of several hundred studies on procrastination. The strongest predictors were how unpleasant the task was, impulsiveness, low self-discipline, and rewards that lay far in the future.",
+        "el": "Το 2007 ο Piers Steel συγκέντρωσε τα αποτελέσματα μερικών εκατοντάδων μελετών για την αναβλητικότητα. Οι ισχυρότεροι παράγοντες πρόβλεψης ήταν το πόσο δυσάρεστη είναι η δουλειά, η παρορμητικότητα, η χαμηλή αυτοπειθαρχία και οι ανταμοιβές που βρίσκονται μακριά στο μέλλον."
+      },
+      "apply": {
+        "en": "Take the task you delay most and ask what makes it unpleasant. Boring? Add a timer and a target, such as twenty dials before coffee. Unclear? Write the three steps. Fear of judgment? Send the draft at 80% and let the client's feedback finish it. Meaningless? Write whom it helps.",
+        "el": "Πάρε τη δουλειά που αναβάλλεις περισσότερο και ρώτα τι την κάνει δυσάρεστη. Βαρετή; Βάλε χρονόμετρο και στόχο, π.χ. είκοσι κλήσεις πριν από τον καφέ. Ασαφής; Γράψε τα τρία βήματα. Φόβος κριτικής; Στείλε το draft στο 80% και άσε το feedback του πελάτη να το ολοκληρώσει. Χωρίς νόημα; Γράψε ποιον βοηθά."
+      },
+      "check": {
+        "q": {"en": "Which kind of task do people put off most?", "el": "Ποιο είδος δουλειάς αναβάλλουν περισσότερο οι άνθρωποι;"},
+        "options": [
+          {"en": "Boring, unclear tasks with no personal meaning", "el": "Βαρετές, ασαφείς δουλειές χωρίς προσωπικό νόημα"},
+          {"en": "Short tasks that have a clear next step", "el": "Σύντομες δουλειές με καθαρό επόμενο βήμα"},
+          {"en": "Tasks they enjoy and find interesting", "el": "Δουλειές που τους αρέσουν και τους ενδιαφέρουν"}
+        ],
+        "answer": 0,
+        "why": {"en": "The more unpleasant and vague a task feels, the more we avoid it to protect our mood.", "el": "Όσο πιο δυσάρεστη και θολή μοιάζει μια δουλειά, τόσο περισσότερο την αποφεύγουμε για να προστατέψουμε τη διάθεσή μας."}
+      }
+    },
+    {
+      "title": {"en": "Be kind to Future You", "el": "Λυπήσου τον αυριανό εαυτό σου"},
+      "explain": {
+        "en": "When you procrastinate, you hand the work to another person: yourself, later. You imagine Future You as stronger, calmer and with more time. In fact he will be the same person, more tired and closer to the deadline. We feel our future self almost like a stranger, so loading him with work costs us nothing today. The cure is empathy: picture him clearly and stop dumping on him.",
+        "el": "Όταν αναβάλλεις, δίνεις τη δουλειά σε έναν άλλον άνθρωπο: στον εαυτό σου, αργότερα. Τον φαντάζεσαι πιο δυνατό, πιο ήρεμο και με περισσότερο χρόνο. Στην πραγματικότητα θα είναι ο ίδιος άνθρωπος, πιο κουρασμένος και πιο κοντά στην προθεσμία. Τον μελλοντικό μας εαυτό τον νιώθουμε σχεδόν σαν ξένο, γι' αυτό το να του φορτώνουμε δουλειά δεν μας κοστίζει τίποτα σήμερα. Η λύση είναι η ενσυναίσθηση: φέρ' τον καθαρά στο μυαλό σου και σταμάτα να του τα φορτώνεις."
+      },
+      "example": {
+        "en": "Psychologist Hal Hershfield showed some people a digitally aged picture of their own face. In a savings exercise they then put about twice as much money aside for retirement as people who saw their present face. Seeing the future self made him real.",
+        "el": "Ο ψυχολόγος Hal Hershfield έδειξε σε κάποιους ανθρώπους μια ψηφιακά γερασμένη εικόνα του προσώπου τους. Σε μια άσκηση αποταμίευσης, αυτοί έβαλαν στην άκρη για τη σύνταξη περίπου διπλάσια χρήματα από όσους είδαν το σημερινό τους πρόσωπο. Βλέποντας τον μελλοντικό εαυτό τους, τον ένιωσαν αληθινό."
+      },
+      "apply": {
+        "en": "Picture yourself on Friday at 18:00 before you move a task. Which Friday do you want: the one with the proposal sent and a free evening, or the one where you write it tired with the client waiting? Do one thing today that Friday's you will thank you for.",
+        "el": "Φαντάσου τον εαυτό σου την Παρασκευή στις 18:00 πριν μεταθέσεις μια δουλειά. Ποια Παρασκευή θέλεις: αυτήν με την προσφορά σταλμένη και το απόγευμα ελεύθερο ή αυτήν που τη γράφεις κουρασμένος, με τον πελάτη να περιμένει; Κάνε σήμερα ένα πράγμα για το οποίο ο εαυτός σου της Παρασκευής θα σε ευχαριστήσει."
+      },
+      "check": {
+        "q": {"en": "Why is it so easy to leave work for «later»?", "el": "Γιατί είναι τόσο εύκολο να αφήνεις δουλειά για «αργότερα»;"},
+        "options": [
+          {"en": "Because later there is always more free time", "el": "Γιατί αργότερα υπάρχει πάντα περισσότερος ελεύθερος χρόνος"},
+          {"en": "Because tasks become easier as days pass", "el": "Γιατί οι δουλειές γίνονται πιο εύκολες όσο περνούν οι μέρες"},
+          {"en": "Because our future self feels like a stranger to us", "el": "Γιατί τον μελλοντικό μας εαυτό τον νιώθουμε σαν ξένο"}
+        ],
+        "answer": 2,
+        "why": {"en": "We do not feel the pain of the person we burden, even though that person is us.", "el": "Δεν νιώθουμε τον πόνο αυτού που φορτώνουμε, παρόλο που αυτός είμαστε εμείς."}
+      }
+    },
+    {
+      "title": {"en": "Forgive yourself", "el": "Συγχώρεσε τον εαυτό σου"},
+      "explain": {
+        "en": "After you procrastinate you feel guilt and shame. It seems that being hard on yourself will make you better next time. The opposite happens. Guilt is one more bad feeling attached to the task, so you avoid the task even more to escape it, and the circle closes. Forgiving yourself breaks the circle. It is not an excuse. You admit the mistake, let the feeling go and try again.",
+        "el": "Αφού αναβάλεις, νιώθεις ενοχή και ντροπή. Φαίνεται ότι, αν γίνεις σκληρός με τον εαυτό σου, την επόμενη φορά θα πας καλύτερα. Συμβαίνει το αντίθετο. Η ενοχή είναι ένα ακόμα άσχημο συναίσθημα κολλημένο στη δουλειά, άρα την αποφεύγεις ακόμα περισσότερο για να γλιτώσεις, και ο κύκλος κλείνει. Η αυτοσυγχώρεση σπάει τον κύκλο. Δεν είναι δικαιολογία. Παραδέχεσαι το λάθος, αφήνεις το συναίσθημα να φύγει και ξαναπροσπαθείς."
+      },
+      "example": {
+        "en": "In a 2010 study by Michael Wohl, Pychyl and Shannon Bennett, students who forgave themselves for procrastinating before their first exam procrastinated less before the second one. Those who stayed angry with themselves delayed just as much again.",
+        "el": "Σε μια έρευνα του 2010 από τους Michael Wohl, Pychyl και Shannon Bennett, οι φοιτητές που συγχώρεσαν τον εαυτό τους για την αναβολή πριν από την πρώτη εξέταση ανέβαλαν λιγότερο πριν από τη δεύτερη. Όσοι έμειναν θυμωμένοι με τον εαυτό τους ανέβαλαν πάλι το ίδιο."
+      },
+      "apply": {
+        "en": "Close a lost day in three sentences instead of an evening of self-blame: «Today I avoided the calls. It happened because I was afraid of rejection. Tomorrow at 10:00 I dial the first number.» Say it once, write the time in the calendar and stop thinking about it.",
+        "el": "Κλείσε μια χαμένη μέρα με τρεις προτάσεις αντί για ένα βράδυ αυτομαστίγωμα: «Σήμερα απέφυγα τα τηλέφωνα. Έγινε επειδή φοβόμουν την απόρριψη. Αύριο στις 10:00 παίρνω τον πρώτο αριθμό». Πες το μία φορά, γράψε την ώρα στο ημερολόγιο και σταμάτα να το σκέφτεσαι."
+      },
+      "check": {
+        "q": {"en": "What does guilt after procrastinating usually lead to?", "el": "Πού οδηγεί συνήθως η ενοχή μετά την αναβολή;"},
+        "options": [
+          {"en": "To better discipline the following day", "el": "Σε καλύτερη πειθαρχία την επόμενη μέρα"},
+          {"en": "To more procrastination, to escape the bad feeling", "el": "Σε περισσότερη αναβολή, για να ξεφύγεις από το άσχημο συναίσθημα"},
+          {"en": "To a clear plan for the rest of the week", "el": "Σε ένα καθαρό πλάνο για την υπόλοιπη εβδομάδα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Guilt adds a negative feeling to the task, and negative feelings are exactly what we run from.", "el": "Η ενοχή προσθέτει ένα αρνητικό συναίσθημα στη δουλειά, και από τα αρνητικά συναισθήματα ακριβώς είναι που τρέχουμε να ξεφύγουμε."}
+      }
+    },
+    {
+      "title": {"en": "You are not your feelings", "el": "Δεν είσαι τα συναισθήματά σου"},
+      "explain": {
+        "en": "You have feelings, but you are more than them. You can notice fear, boredom or doubt, accept that they are there, and still act according to what you decided. This is agency: you are the one who chooses, not the mood of the moment. The aim is not to remove the unpleasant feeling first. The aim is to carry it with you while you do the task.",
+        "el": "Έχεις συναισθήματα, αλλά είσαι κάτι παραπάνω από αυτά. Μπορείς να δεις τον φόβο, τη βαρεμάρα ή την αμφιβολία, να δεχτείς ότι είναι εκεί και παρ' όλα αυτά να πράξεις όπως αποφάσισες. Αυτό σημαίνει να είσαι εσύ στο τιμόνι: διαλέγεις εσύ, όχι η διάθεση της στιγμής. Στόχος δεν είναι να διώξεις πρώτα το δυσάρεστο συναίσθημα. Στόχος είναι να το κουβαλάς μαζί σου όσο κάνεις τη δουλειά."
+      },
+      "example": {
+        "en": "The singer Adele has spoken openly about severe stage fright, including panic before concerts. She did not wait for the fear to disappear. She walked on stage with it and performed in front of tens of thousands of people.",
+        "el": "Η τραγουδίστρια Adele έχει μιλήσει ανοιχτά για το έντονο τρακ της, ακόμα και για πανικό πριν από συναυλίες. Δεν περίμενε να φύγει ο φόβος. Ανέβαινε στη σκηνή μαζί του και τραγουδούσε μπροστά σε δεκάδες χιλιάδες ανθρώπους."
+      },
+      "apply": {
+        "en": "Say the sentence «I feel afraid of this call and I am dialling anyway» before a call that scares you, for example to a well-known surgeon. Replace «but» with «and» in your head. Then press call within five seconds, before the mind starts negotiating.",
+        "el": "Πες τη φράση «φοβάμαι αυτό το τηλεφώνημα και το κάνω έτσι κι αλλιώς» πριν από μια κλήση που σε τρομάζει, για παράδειγμα σε έναν γνωστό χειρουργό. Άλλαξε το «αλλά» σε «και» μέσα στο μυαλό σου. Μετά πάτα κλήση μέσα σε πέντε δευτερόλεπτα, πριν το μυαλό αρχίσει τα παζάρια."
+      },
+      "check": {
+        "q": {"en": "What does agency mean here?", "el": "Τι σημαίνει εδώ να είσαι εσύ στο τιμόνι;"},
+        "options": [
+          {"en": "You can feel fear and still choose to act", "el": "Μπορείς να φοβάσαι και παρ' όλα αυτά να διαλέξεις να πράξεις"},
+          {"en": "You must remove the fear before acting", "el": "Πρέπει να διώξεις τον φόβο πριν πράξεις"},
+          {"en": "You act only when the mood is right", "el": "Πράττεις μόνο όταν η διάθεση είναι η σωστή"}
+        ],
+        "answer": 0,
+        "why": {"en": "Feelings are present but they do not decide. You can act with them, not after them.", "el": "Τα συναισθήματα είναι παρόντα αλλά δεν αποφασίζουν. Μπορείς να δράσεις μαζί με αυτά, όχι αφού φύγουν."}
+      }
+    },
+    {
+      "title": {"en": "Change comes slowly", "el": "Η αλλαγή έρχεται σιγά σιγά"},
+      "explain": {
+        "en": "Pychyl closes with a warning. Reading about procrastination changes nothing by itself, and trying every strategy at once will fail. Self-change is hard and uneven: two steps forward, one step back. Pick one or two strategies that fit your biggest problem and practise them daily. Expect setbacks, forgive them and return to the plan. His phrase for the road is to be strategic, a little at a time.",
+        "el": "Ο Pychyl κλείνει με μια προειδοποίηση. Το να διαβάζεις για την αναβλητικότητα δεν αλλάζει τίποτα από μόνο του, και το να δοκιμάσεις όλες τις στρατηγικές μαζί θα αποτύχει. Η προσωπική αλλαγή είναι δύσκολη και άνιση: δύο βήματα μπροστά, ένα πίσω. Διάλεξε μία ή δύο στρατηγικές που ταιριάζουν στο μεγαλύτερό σου πρόβλημα και εξάσκησέ τες κάθε μέρα. Περίμενε πισωγυρίσματα, συγχώρεσέ τα και γύρνα στο πλάνο. Η συμβουλή του για τον δρόμο: με στρατηγική, λίγο λίγο."
+      },
+      "example": {
+        "en": "In a 2009 study at University College London, Phillippa Lally followed people building a new daily habit. On average it took 66 days to become automatic, and for some people far longer. Missing a single day did not ruin the process.",
+        "el": "Σε μια έρευνα του 2009 στο University College London, η Phillippa Lally παρακολούθησε ανθρώπους που έχτιζαν μια νέα καθημερινή συνήθεια. Κατά μέσο όρο χρειάστηκαν 66 μέρες για να γίνει αυτόματη, και για κάποιους πολύ περισσότερες. Το να χάσουν μία μέρα δεν χάλασε τη διαδικασία."
+      },
+      "apply": {
+        "en": "Choose one strategy for the next thirty days, for example the 10:00 rule for cold calls. Mark every day you kept it on a paper calendar. When you miss a day, write one line about what happened and continue the next morning without starting over.",
+        "el": "Διάλεξε μία στρατηγική για τις επόμενες τριάντα μέρες, για παράδειγμα τον κανόνα των 10:00 για τα cold calls. Σημείωνε σε ένα χάρτινο ημερολόγιο κάθε μέρα που τον τήρησες. Όταν χάσεις μια μέρα, γράψε μία γραμμή για το τι έγινε και συνέχισε το επόμενο πρωί, χωρίς να ξεκινήσεις από την αρχή."
+      },
+      "check": {
+        "q": {"en": "How should you use the strategies of the book?", "el": "Πώς πρέπει να χρησιμοποιήσεις τις στρατηγικές του βιβλίου;"},
+        "options": [
+          {"en": "Apply all of them together from tomorrow", "el": "Να τις εφαρμόσεις όλες μαζί από αύριο"},
+          {"en": "Pick one or two and practise them patiently", "el": "Να διαλέξεις μία ή δύο και να τις εξασκείς με υπομονή"},
+          {"en": "Wait for a calm period and then begin", "el": "Να περιμένεις μια ήρεμη περίοδο και μετά να αρχίσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Change is gradual. A small, steady practice survives setbacks; a total overhaul does not.", "el": "Η αλλαγή είναι σταδιακή. Μια μικρή, σταθερή εξάσκηση αντέχει τα πισωγυρίσματα· η ολική ανατροπή όχι."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "It is 10:00, your calling hour. You do not feel like it at all and think «I'll start after one more coffee». What do you do?", "el": "Είναι 10:00, η ώρα των τηλεφώνων. Δεν έχεις καμία όρεξη και σκέφτεσαι «θα αρχίσω μετά από έναν ακόμα καφέ». Τι κάνεις;"},
+      "options": [
+        {"en": "Wait until you feel ready, so the calls go well", "el": "Περιμένεις να νιώσεις έτοιμος, για να πάνε καλά οι κλήσεις"},
+        {"en": "Dial the first number now; the mood will follow", "el": "Παίρνεις τώρα τον πρώτο αριθμό· η όρεξη θα ακολουθήσει"},
+        {"en": "Watch a motivational video to get in the mood", "el": "Βλέπεις ένα βίντεο για κίνητρο, να φτιάξει η διάθεση"}
+      ],
+      "answer": 1,
+      "why": {"en": "Motivation follows action. You do not need to want to do it, you only need to start.", "el": "Το κίνητρο ακολουθεί την πράξη. Δεν χρειάζεται να το θέλεις, χρειάζεται μόνο να ξεκινήσεις."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "You wasted the whole afternoon on videos instead of finishing a proposal. In the evening you feel angry with yourself. What helps most?", "el": "Χάζεψες όλο το απόγευμα σε βίντεο αντί να τελειώσεις μια προσφορά. Το βράδυ είσαι θυμωμένος με τον εαυτό σου. Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Admit it, forgive yourself and set the exact time for tomorrow", "el": "Το παραδέχεσαι, συγχωρείς τον εαυτό σου και ορίζεις ακριβή ώρα για αύριο"},
+        {"en": "Punish yourself by working until three at night", "el": "Τιμωρείς τον εαυτό σου δουλεύοντας μέχρι τις τρεις τα ξημερώματα"},
+        {"en": "Keep blaming yourself so that it does not happen again", "el": "Συνεχίζεις να κατηγορείς τον εαυτό σου για να μην ξανασυμβεί"}
+      ],
+      "answer": 0,
+      "why": {"en": "Guilt feeds the next delay. Self-forgiveness plus a concrete plan breaks the circle.", "el": "Η ενοχή τρέφει την επόμενη αναβολή. Η αυτοσυγχώρεση μαζί με ένα συγκεκριμένο πλάνο σπάει τον κύκλο."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "On your list for three weeks: «Build the new sales system». You never touch it. What is the best fix?", "el": "Στη λίστα σου εδώ και τρεις εβδομάδες: «Να στήσω το νέο σύστημα πωλήσεων». Δεν το αγγίζεις ποτέ. Ποια είναι η καλύτερη διόρθωση;"},
+      "options": [
+        {"en": "Underline it in red so that it stands out", "el": "Το υπογραμμίζεις με κόκκινο για να ξεχωρίζει"},
+        {"en": "Keep a free weekend to do the whole thing", "el": "Κρατάς ένα ελεύθερο Σαββατοκύριακο για να το κάνεις όλο"},
+        {"en": "Replace it with one ten-minute first step", "el": "Το αντικαθιστάς με ένα πρώτο βήμα δέκα λεπτών"}
+      ],
+      "answer": 2,
+      "why": {"en": "A big vague goal frightens and gives nothing to do now. A tiny concrete step can start today.", "el": "Ένας μεγάλος, θολός στόχος τρομάζει και δεν δίνει κάτι να κάνεις τώρα. Ένα μικρό, συγκεκριμένο βήμα ξεκινά σήμερα."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "Every time a difficult call is next, you find yourself opening Instagram «for a second». What do you set up?", "el": "Κάθε φορά που έχει σειρά ένα δύσκολο τηλεφώνημα, πιάνεις τον εαυτό σου να ανοίγει το Instagram «για ένα δευτερόλεπτο». Τι στήνεις;"},
+      "options": [
+        {"en": "A promise to try harder to resist next time", "el": "Μια υπόσχεση ότι την επόμενη φορά θα αντισταθείς περισσότερο"},
+        {"en": "A reward of ten minutes of scrolling after each call", "el": "Μια ανταμοιβή δέκα λεπτών σκρολάρισμα μετά από κάθε κλήση"},
+        {"en": "A rule: if I want Instagram, the phone goes in the drawer", "el": "Έναν κανόνα: αν θέλω Instagram, το κινητό πάει στο συρτάρι"}
+      ],
+      "answer": 2,
+      "why": {"en": "An if-then rule decided in advance beats willpower in the moment.", "el": "Ένας κανόνας «αν-τότε» που αποφασίστηκε από πριν νικά τη θέληση της στιγμής."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "A client's invoice is two months late. Every day you think «I'll message him tomorrow, I'll be calmer». What is really happening?", "el": "Ένας πελάτης έχει αργήσει δύο μήνες να πληρώσει. Κάθε μέρα σκέφτεσαι «θα του γράψω αύριο, θα είμαι πιο ήρεμος». Τι συμβαίνει στην πραγματικότητα;"},
+      "options": [
+        {"en": "You are avoiding an unpleasant feeling, and tomorrow it will be the same", "el": "Αποφεύγεις ένα δυσάρεστο συναίσθημα, και αύριο θα είναι το ίδιο"},
+        {"en": "You are wisely waiting for the right moment", "el": "Περιμένεις συνετά την κατάλληλη στιγμή"},
+        {"en": "You are giving the client time to pay alone", "el": "Δίνεις στον πελάτη χρόνο να πληρώσει μόνος του"}
+      ],
+      "answer": 0,
+      "why": {"en": "We predict tomorrow's mood wrongly. The message will feel just as awkward, so send it now.", "el": "Προβλέπουμε λάθος την αυριανή διάθεση. Το μήνυμα θα είναι το ίδιο άβολο, άρα στείλ' το τώρα."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "You keep postponing the gym. On Monday evening you are tired and it is raining. Which thought helps you go?", "el": "Αναβάλλεις συνέχεια το γυμναστήριο. Δευτέρα βράδυ είσαι κουρασμένος και βρέχει. Ποια σκέψη σε βοηθά να πας;"},
+      "options": [
+        {"en": "«I will go when I have more energy.»", "el": "«Θα πάω όταν έχω περισσότερη ενέργεια»."},
+        {"en": "«I only put on my shoes and do five minutes.»", "el": "«Βάζω μόνο τα παπούτσια και κάνω πέντε λεπτά»."},
+        {"en": "«I must do a perfect full workout or nothing.»", "el": "«Ή κάνω τέλεια, ολόκληρη προπόνηση ή τίποτα»."}
+      ],
+      "answer": 1,
+      "why": {"en": "The five-minute promise is small enough to start, and starting is the hardest part.", "el": "Η υπόσχεση των πέντε λεπτών είναι αρκετά μικρή για να ξεκινήσεις, και η αρχή είναι το πιο δύσκολο."},
+      "idea": 6
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Every delay of a task is procrastination.", "el": "Κάθε καθυστέρηση μιας δουλειάς είναι αναβλητικότητα."},
+      "answer": false,
+      "why": {"en": "Delaying for a good reason is sensible. Procrastination is needless delay that you know will hurt you.", "el": "Η καθυστέρηση για καλό λόγο είναι λογική. Αναβλητικότητα είναι η άσκοπη καθυστέρηση που ξέρεις ότι θα σου κάνει κακό."}
+    },
+    {
+      "s": {"en": "Procrastination is mainly a problem of managing emotions.", "el": "Η αναβλητικότητα είναι κυρίως πρόβλημα διαχείρισης συναισθημάτων."},
+      "answer": true,
+      "why": {"en": "We avoid the task to escape the unpleasant feeling it gives us.", "el": "Αποφεύγουμε τη δουλειά για να γλιτώσουμε από το δυσάρεστο συναίσθημα που μας προκαλεί."}
+    },
+    {
+      "s": {"en": "You should wait for motivation before you begin a hard task.", "el": "Πρέπει να περιμένεις το κίνητρο πριν αρχίσεις μια δύσκολη δουλειά."},
+      "answer": false,
+      "why": {"en": "Motivation follows action. Start first and the desire grows with progress.", "el": "Το κίνητρο ακολουθεί την πράξη. Ξεκίνα πρώτα και η όρεξη μεγαλώνει με την πρόοδο."}
+    },
+    {
+      "s": {"en": "Being hard on yourself after a wasted day reduces future procrastination.", "el": "Το να είσαι σκληρός με τον εαυτό σου μετά από μια χαμένη μέρα μειώνει τη μελλοντική αναβολή."},
+      "answer": false,
+      "why": {"en": "Guilt makes the task feel even worse, so you avoid it more. Forgiveness works better.", "el": "Η ενοχή κάνει τη δουλειά ακόμα πιο δυσάρεστη, άρα την αποφεύγεις περισσότερο. Η συγχώρεση δουλεύει καλύτερα."}
+    },
+    {
+      "s": {"en": "A plan in the form «if X happens, then I do Y» makes it more likely that you act.", "el": "Ένα πλάνο της μορφής «αν συμβεί το Χ, τότε κάνω το Ψ» αυξάνει τις πιθανότητες να δράσεις."},
+      "answer": true,
+      "why": {"en": "The decision is already made, so the situation triggers the action.", "el": "Η απόφαση έχει ήδη παρθεί, άρα η περίσταση πυροδοτεί την πράξη."}
+    },
+    {
+      "s": {"en": "Tomorrow you will probably feel more like doing an unpleasant task than today.", "el": "Αύριο μάλλον θα έχεις περισσότερη όρεξη για μια δυσάρεστη δουλειά απ' ό,τι σήμερα."},
+      "answer": false,
+      "why": {"en": "That is a forecasting error. The task will feel the same and you will have less time.", "el": "Αυτό είναι λάθος πρόβλεψης. Η δουλειά θα είναι ίδια και ο χρόνος σου λιγότερος."}
+    },
+    {
+      "s": {"en": "A task usually feels less awful once you have started it.", "el": "Μια δουλειά συνήθως φαίνεται λιγότερο απαίσια μόλις την ξεκινήσεις."},
+      "answer": true,
+      "why": {"en": "Pychyl's students rated tasks as less stressful and less difficult after they had begun.", "el": "Οι φοιτητές του Pychyl βαθμολόγησαν τις εργασίες ως λιγότερο αγχωτικές και δύσκολες αφού τις είχαν ξεκινήσει."}
+    },
+    {
+      "s": {"en": "You can feel afraid of a task and still do it.", "el": "Μπορείς να φοβάσαι μια δουλειά και παρ' όλα αυτά να την κάνεις."},
+      "answer": true,
+      "why": {"en": "You are not your feelings. They are present, but you choose the action.", "el": "Δεν είσαι τα συναισθήματά σου. Είναι παρόντα, αλλά την πράξη τη διαλέγεις εσύ."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Procrastination", "el": "Αναβλητικότητα"}, "b": {"en": "Needless voluntary delay that you know will hurt you", "el": "Άσκοπη, εκούσια καθυστέρηση που ξέρεις ότι θα σε βλάψει"}},
+    {"a": {"en": "Giving in to feel good", "el": "Υποχωρώ για να νιώσω καλά"}, "b": {"en": "Avoiding a task to repair your mood now", "el": "Αποφεύγεις μια δουλειά για να φτιάξεις τη διάθεση τώρα"}},
+    {"a": {"en": "Implementation intention", "el": "Πρόθεση εφαρμογής"}, "b": {"en": "A plan: if X happens, then I do Y", "el": "Ένα πλάνο: αν συμβεί το Χ, τότε κάνω το Ψ"}},
+    {"a": {"en": "Rationalization", "el": "Εκλογίκευση"}, "b": {"en": "A reasonable-sounding story that excuses the delay", "el": "Μια λογικοφανής ιστορία που δικαιολογεί την αναβολή"}},
+    {"a": {"en": "Future self", "el": "Μελλοντικός εαυτός"}, "b": {"en": "The person who pays for today's delay", "el": "Αυτός που πληρώνει τη σημερινή αναβολή"}},
+    {"a": {"en": "Self-forgiveness", "el": "Αυτοσυγχώρεση"}, "b": {"en": "Letting go of guilt so you can try again", "el": "Αφήνεις την ενοχή για να ξαναπροσπαθήσεις"}}
+  ],
+  "missions": [
+    {"en": "Set a five-minute timer and start the one task you have avoided longest. Stop only when it rings.", "el": "Βάλε χρονόμετρο πέντε λεπτών και ξεκίνα τη δουλειά που αποφεύγεις περισσότερο καιρό. Σταμάτα μόνο όταν χτυπήσει."},
+    {"en": "Write three if-then rules for your working day on a card and place it next to your screen.", "el": "Γράψε σε μια κάρτα τρεις κανόνες «αν-τότε» για την εργάσιμη μέρα σου και βάλ' τη δίπλα στην οθόνη."},
+    {"en": "Rewrite the three vaguest items on your list as small actions that each take under ten minutes.", "el": "Ξαναγράψε τις τρεις πιο θολές γραμμές της λίστας σου ως μικρές κινήσεις που η καθεμία θέλει κάτω από δέκα λεπτά."},
+    {"en": "List your three favourite excuses word for word, and notice each time you use one this week.", "el": "Γράψε λέξη προς λέξη τις τρεις αγαπημένες σου δικαιολογίες και πρόσεξε κάθε φορά που χρησιμοποιείς μία αυτή την εβδομάδα."},
+    {"en": "Send today the one follow-up or payment reminder you have been postponing, before you open your email.", "el": "Στείλε σήμερα το ένα follow-up ή την υπενθύμιση πληρωμής που αναβάλλεις, πριν ανοίξεις το email σου."}
+  ],
+  "mantra": {"en": "I don't need to want to do it. I just need to do it.", "el": "Δεν χρειάζεται να το θέλω. Χρειάζεται μόνο να το κάνω."},
+  "careful": {
+    "en": "The book is short and most of its research was done with university students, so results may differ for a business owner. The idea that willpower drains like a fuel is now disputed: large repeat studies failed to find the effect clearly. «Just get started» is also not enough when delay comes from depression, ADHD or burnout, which need professional help. And sometimes a task you keep avoiding simply should be dropped or given to someone else.",
+    "el": "Το βιβλίο είναι σύντομο και οι περισσότερες έρευνές του έγιναν με φοιτητές, άρα τα αποτελέσματα μπορεί να διαφέρουν για έναν επιχειρηματία. Η ιδέα ότι η θέληση αδειάζει σαν καύσιμο αμφισβητείται πλέον: μεγάλες επαναληπτικές μελέτες δεν βρήκαν καθαρά το φαινόμενο. Το «απλώς ξεκίνα» επίσης δεν αρκεί όταν η αναβολή έρχεται από κατάθλιψη, ΔΕΠΥ ή εξουθένωση, που θέλουν ειδικό. Και καμιά φορά μια δουλειά που αποφεύγεις συνέχεια απλώς πρέπει να κοπεί ή να δοθεί σε άλλον."
+  },
+  "connects": [
+    {"book": "deep-work", "note": {"en": "Pychyl gets you to start the hard task; Newport shows how to protect the hours in which you do it.", "el": "Ο Pychyl σε βάζει να ξεκινήσεις τη δύσκολη δουλειά· ο Newport δείχνει πώς να προστατέψεις τις ώρες που την κάνεις."}},
+    {"book": "who-not-how", "note": {"en": "Sullivan disagrees in part: for him procrastination can be a wise signal that the task belongs to someone else.", "el": "Ο Sullivan διαφωνεί εν μέρει: γι' αυτόν η αναβολή μπορεί να είναι ένα έξυπνο σήμα ότι η δουλειά ανήκει σε κάποιον άλλον."}},
+    {"book": "meditations", "note": {"en": "Marcus Aurelius says the same in older words: do the work in front of you now, whatever you feel.", "el": "Ο Μάρκος Αυρήλιος λέει το ίδιο με παλαιότερα λόγια: κάνε τώρα τη δουλειά που έχεις μπροστά σου, ό,τι κι αν νιώθεις."}}
+  ]
+}

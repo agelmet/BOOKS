@@ -1,0 +1,558 @@
+{
+  "id": "feel-good-productivity",
+  "title": {"en": "Feel-Good Productivity", "el": "Feel-Good Productivity: Παραγωγικότητα με κέφι"},
+  "author": "Ali Abdaal",
+  "authorEl": "Άλι Αμπντάαλ",
+  "year": 2023,
+  "shelf": "focus",
+  "skills": {"focus": 3, "mindset": 2},
+  "oneLine": {
+    "en": "You do more and better work when the work feels good, so stop forcing yourself and start making your tasks energising.",
+    "el": "Κάνεις περισσότερη και καλύτερη δουλειά όταν η δουλειά σε γεμίζει, άρα σταμάτα να ζορίζεσαι και κάνε τις δουλειές σου να σου δίνουν ενέργεια."
+  },
+  "story": {
+    "en": "Ali Abdaal trained as a doctor at Cambridge and became one of the best-known productivity YouTubers. As a junior doctor he tried to cope by simply working harder, and it broke him. So he went through the psychology research and built a different method: three things that give you energy, three that unblock you when you procrastinate, and three that protect you from burnout. People read it because it is practical and kind.",
+    "el": "Ο Ali Abdaal σπούδασε ιατρική στο Cambridge και έγινε ένας από τους πιο γνωστούς YouTubers για την παραγωγικότητα. Ως νέος γιατρός προσπάθησε να τα βγάλει πέρα δουλεύοντας απλώς πιο σκληρά, και διαλύθηκε. Έψαξε λοιπόν τις έρευνες της ψυχολογίας και έφτιαξε άλλη μέθοδο: τρία πράγματα που σου δίνουν ενέργεια, τρία που σε ξεμπλοκάρουν όταν αναβάλλεις και τρία που σε προστατεύουν από το burnout. Διαβάζεται γιατί είναι πρακτικό και ανθρώπινο."
+  },
+  "forYou": {
+    "en": "You run cold calls, ads, builds and client changes almost alone, so your energy is the real limit of the business. This book shows you how to make a calling session feel like a game, how to see why you avoid a task, and how to rest so that Monday you are full again. Discipline alone will not carry 200 sites.",
+    "el": "Τρέχεις cold calls, διαφημίσεις, κατασκευές και αλλαγές πελατών σχεδόν μόνος, άρα το πραγματικό όριο της επιχείρησης είναι η ενέργειά σου. Το βιβλίο σού δείχνει πώς να κάνεις ένα δίωρο τηλεφωνημάτων να μοιάζει με παιχνίδι, πώς να καταλαβαίνεις γιατί αποφεύγεις μια δουλειά και πώς να ξεκουράζεσαι ώστε τη Δευτέρα να είσαι ξανά γεμάτος. Μόνο με πειθαρχία δεν βγαίνουν 200 ιστοσελίδες."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Feel good first, succeed after", "el": "Πρώτα νιώσε καλά, μετά πέτυχε"},
+      "explain": {
+        "en": "Most of us believe: work hard, succeed, and then you will be happy. Abdaal turns it around. When you feel good while you work, you have more energy, you think better and you keep going longer, so the results come. Forcing yourself works for a few weeks and then you crash. So the first question is not how to push harder, but how to make this task feel better.",
+        "el": "Οι περισσότεροι πιστεύουμε: δούλεψε σκληρά, πέτυχε, και μετά θα είσαι ευτυχισμένος. Ο Abdaal το γυρίζει ανάποδα. Όταν νιώθεις καλά την ώρα που δουλεύεις, έχεις περισσότερη ενέργεια, σκέφτεσαι καλύτερα και αντέχεις περισσότερο, άρα έρχονται και τα αποτελέσματα. Το ζόρι δουλεύει για λίγες εβδομάδες και μετά καταρρέεις. Η πρώτη ερώτηση λοιπόν δεν είναι πώς θα πιεστώ κι άλλο, αλλά πώς θα γίνει αυτή η δουλειά πιο ευχάριστη."
+      },
+      "example": {
+        "en": "In 1987 the psychologist Alice Isen gave people a classic puzzle: fix a candle to a wall using only a box of tacks and matches. Those who had just watched a short comedy film solved it far more often than those who watched a neutral film. A good mood made them more creative.",
+        "el": "Το 1987 η ψυχολόγος Alice Isen έδωσε σε ανθρώπους έναν κλασικό γρίφο: να στερεώσουν ένα κερί στον τοίχο μόνο με ένα κουτί πινέζες και σπίρτα. Όσοι είχαν μόλις δει ένα σύντομο κωμικό βίντεο τον έλυσαν πολύ πιο συχνά από όσους είδαν κάτι ουδέτερο. Η καλή διάθεση τους έκανε πιο δημιουργικούς."
+      },
+      "apply": {
+        "en": "Ask before every heavy block of work: what would make this feel good? Put music on while you build a site, call from a place you like, start the day with the task you enjoy for ten minutes. Then judge by the result, not by how much you suffered.",
+        "el": "Ρώτα πριν από κάθε βαριά δουλειά: τι θα την έκανε ευχάριστη; Βάλε μουσική όσο στήνεις μια ιστοσελίδα, κάνε τα τηλεφωνήματα από ένα μέρος που σου αρέσει, ξεκίνα τη μέρα με δέκα λεπτά από κάτι που γουστάρεις. Και μετά κρίνε από το αποτέλεσμα, όχι από το πόσο υπέφερες."
+      },
+      "check": {
+        "q": {"en": "What is the main claim of the book?", "el": "Ποια είναι η βασική θέση του βιβλίου;"},
+        "options": [
+          {"en": "Success comes first and happiness follows it", "el": "Πρώτα έρχεται η επιτυχία και μετά η ευτυχία"},
+          {"en": "Feeling good while you work produces the success", "el": "Το να νιώθεις καλά όσο δουλεύεις φέρνει την επιτυχία"},
+          {"en": "Hard work does not matter if you are happy", "el": "Η σκληρή δουλειά δεν μετράει αν είσαι χαρούμενος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Positive emotion is the fuel. You still work, but the good feeling comes before the results, not after.", "el": "Το θετικό συναίσθημα είναι το καύσιμο. Δουλεύεις κανονικά, αλλά η καλή διάθεση έρχεται πριν από τα αποτελέσματα, όχι μετά."}
+      }
+    },
+    {
+      "title": {"en": "Broaden and build", "el": "Ανοίγεις και χτίζεις"},
+      "explain": {
+        "en": "This is the science behind the book, from the psychologist Barbara Fredrickson. Negative emotions narrow your mind: under fear you only see the threat. Positive emotions do the opposite. They broaden what you notice, so you see more options and ideas. And over time they build things that stay with you: skills, friendships, health, resilience. A good mood today is an investment that pays later.",
+        "el": "Αυτή είναι η επιστήμη πίσω από το βιβλίο, από την ψυχολόγο Barbara Fredrickson. Τα αρνητικά συναισθήματα στενεύουν το μυαλό: όταν φοβάσαι, βλέπεις μόνο την απειλή. Τα θετικά κάνουν το αντίθετο. Ανοίγουν το βλέμμα σου, οπότε βλέπεις περισσότερες επιλογές και ιδέες. Και με τον καιρό χτίζουν πράγματα που μένουν: δεξιότητες, φιλίες, υγεία, αντοχή. Η καλή διάθεση σήμερα είναι επένδυση που αποδίδει αργότερα."
+      },
+      "example": {
+        "en": "In a 2005 experiment Fredrickson showed students short film clips. Those who watched clips that caused joy or calm then wrote down many more things they felt like doing than those who watched clips that caused fear or anger. Good feelings literally widened their list of options.",
+        "el": "Σε ένα πείραμα του 2005 η Fredrickson έδειξε σε φοιτητές μικρά βίντεο. Όσοι είδαν βίντεο που προκαλούσαν χαρά ή ηρεμία έγραψαν μετά πολύ περισσότερα πράγματα που είχαν όρεξη να κάνουν, σε σχέση με όσους είδαν βίντεο που προκαλούσαν φόβο ή θυμό. Η καλή διάθεση μεγάλωσε στην κυριολεξία τη λίστα με τις επιλογές τους."
+      },
+      "apply": {
+        "en": "Do creative work, like a new ad idea, a hero section or a sales script, when you are in a good mood, not right after a bad call. If a client has upset you, take ten minutes to walk first. A narrow, angry mind writes narrow, angry copy.",
+        "el": "Κάνε τη δημιουργική δουλειά, όπως μια νέα ιδέα για διαφήμιση, ένα hero ή ένα script πώλησης, όταν έχεις καλή διάθεση και όχι αμέσως μετά από ένα κακό τηλεφώνημα. Αν σε έχει εκνευρίσει πελάτης, περπάτα πρώτα δέκα λεπτά. Το στενεμένο, θυμωμένο μυαλό γράφει στενεμένα, θυμωμένα κείμενα."
+      },
+      "check": {
+        "q": {"en": "What do positive emotions do, according to this theory?", "el": "Τι κάνουν τα θετικά συναισθήματα, σύμφωνα με αυτή τη θεωρία;"},
+        "options": [
+          {"en": "They widen what you see and build lasting resources", "el": "Ανοίγουν το βλέμμα σου και χτίζουν εφόδια που μένουν"},
+          {"en": "They make you relaxed, so you work less hard", "el": "Σε χαλαρώνουν, άρα δουλεύεις λιγότερο σκληρά"},
+          {"en": "They help you focus only on the main threat", "el": "Σε βοηθούν να εστιάζεις μόνο στην κύρια απειλή"}
+        ],
+        "answer": 0,
+        "why": {"en": "Broaden: more options and ideas now. Build: skills, relationships and resilience over time.", "el": "Ανοίγεις: περισσότερες επιλογές και ιδέες τώρα. Χτίζεις: δεξιότητες, σχέσεις και αντοχή με τον καιρό."}
+      }
+    },
+    {
+      "title": {"en": "Play: sincere, not serious", "el": "Παιχνίδι: με ειλικρίνεια, όχι με σοβαροφάνεια"},
+      "explain": {
+        "en": "The first energiser is play. Treat work like a game you want to play well, not like a test you might fail. Be sincere: you care and you try. But do not be serious: you do not suffer over every mistake. Ask what this task would look like if it were fun. Add a side quest, a score, a small challenge. Lower the stakes, and failure becomes just data.",
+        "el": "Η πρώτη πηγή ενέργειας είναι το παιχνίδι. Δες τη δουλειά σαν παιχνίδι που θέλεις να παίξεις καλά, όχι σαν εξέταση που μπορεί να κοπείς. Παίξε με ειλικρίνεια: νοιάζεσαι και προσπαθείς. Αλλά χωρίς σοβαροφάνεια: δεν βασανίζεσαι για κάθε λάθος. Ρώτα πώς θα ήταν αυτή η δουλειά αν ήταν διασκεδαστική. Βάλε μια μικρή πρόκληση, ένα σκορ, μια παράπλευρη αποστολή. Όταν μικραίνει το διακύβευμα, η αποτυχία γίνεται απλώς πληροφορία."
+      },
+      "example": {
+        "en": "The physicist Richard Feynman felt burnt out at Cornell and decided to do physics only for fun. In the cafeteria he saw someone throw a plate that wobbled as it spun, and he worked out the maths just to play. That playful problem led him to the work that won the Nobel Prize in 1965.",
+        "el": "Ο φυσικός Richard Feynman ένιωθε εξαντλημένος στο Cornell και αποφάσισε να κάνει φυσική μόνο για πλάκα. Στην τραπεζαρία είδε κάποιον να πετάει ένα πιάτο που ταλαντευόταν καθώς γύριζε, και έλυσε τα μαθηματικά του μόνο για να παίξει. Αυτό το παιχνίδι τον οδήγησε στη δουλειά που του έδωσε το Νόμπελ το 1965."
+      },
+      "apply": {
+        "en": "Turn your calling session into a game: one point for every call, three for a real conversation, ten for a booked meeting, and try to beat yesterday's score. A no still gives you a point, so you stop fearing it. Keep the scoreboard where you can see it.",
+        "el": "Κάνε τα τηλεφωνήματα παιχνίδι: ένας πόντος για κάθε κλήση, τρεις για μια πραγματική κουβέντα, δέκα για ένα ραντεβού, και προσπάθησε να ξεπεράσεις το χθεσινό σκορ. Και το «όχι» δίνει πόντο, άρα σταματάς να το φοβάσαι. Κράτα το σκορ κάπου που το βλέπεις."
+      },
+      "check": {
+        "q": {"en": "What does sincere but not serious mean?", "el": "Τι σημαίνει «με ειλικρίνεια, όχι με σοβαροφάνεια»;"},
+        "options": [
+          {"en": "You joke around and do not care about the result", "el": "Κάνεις πλάκα και δεν σε νοιάζει το αποτέλεσμα"},
+          {"en": "You only do the tasks that are already fun", "el": "Κάνεις μόνο τις δουλειές που είναι ήδη ευχάριστες"},
+          {"en": "You try properly but hold the outcome lightly", "el": "Προσπαθείς κανονικά, αλλά δεν αγχώνεσαι για το αποτέλεσμα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Like a good game: you play to win, but a loss does not crush you, so you keep playing.", "el": "Όπως σε ένα καλό παιχνίδι: παίζεις για να κερδίσεις, αλλά η ήττα δεν σε διαλύει, οπότε συνεχίζεις να παίζεις."}
+      }
+    },
+    {
+      "title": {"en": "Power: I can do this", "el": "Δύναμη: «μπορώ να το κάνω»"},
+      "explain": {
+        "en": "The second energiser is the feeling that you are able and in control. Psychologists call it self-efficacy. It is not a gift. It grows from doing: each small thing you manage makes you more confident, so confidence comes after competence, not before. Three ways to grow it: tell yourself you can and act like it, keep a beginner's mind that is curious and unafraid to look silly, and teach what you learn.",
+        "el": "Η δεύτερη πηγή ενέργειας είναι η αίσθηση ότι μπορείς και ότι έχεις τον έλεγχο. Οι ψυχολόγοι τη λένε αυτεπάρκεια (self-efficacy). Δεν είναι χάρισμα. Μεγαλώνει με την πράξη: κάθε μικρό πράγμα που καταφέρνεις σε κάνει πιο σίγουρο, άρα η αυτοπεποίθηση έρχεται μετά την ικανότητα, όχι πριν. Τρεις τρόποι να τη μεγαλώσεις: πες στον εαυτό σου ότι μπορείς και φέρσου ανάλογα, κράτα μυαλό αρχάριου, δηλαδή περίεργο και χωρίς φόβο μήπως φανείς άσχετος, και δίδαξε ό,τι μαθαίνεις."
+      },
+      "example": {
+        "en": "In a 2014 study at Washington University in St. Louis, students read a text. Half were told they would be tested on it, half that they would teach it to someone else. Those who expected to teach remembered more and organised it better, although nobody actually taught. Preparing to teach makes you learn.",
+        "el": "Σε μια έρευνα του 2014 στο Washington University του St. Louis, φοιτητές διάβασαν ένα κείμενο. Στους μισούς είπαν ότι θα εξεταστούν και στους άλλους μισούς ότι θα το διδάξουν σε κάποιον. Όσοι περίμεναν να διδάξουν θυμούνταν περισσότερα και πιο οργανωμένα, παρότι κανείς δεν δίδαξε τελικά. Όταν ετοιμάζεσαι να διδάξεις, μαθαίνεις."
+      },
+      "apply": {
+        "en": "Pick the skill that scares you, such as speaking on camera for your ads. Record one rough 60-second video a day for two weeks as a beginner, with no judging. Then explain what you learned to someone on your team. The confidence will arrive after the practice.",
+        "el": "Διάλεξε τη δεξιότητα που σε φοβίζει, όπως το να μιλάς στην κάμερα για τις διαφημίσεις σου. Γράφε ένα πρόχειρο βίντεο 60 δευτερολέπτων τη μέρα για δύο εβδομάδες, σαν αρχάριος, χωρίς να κρίνεις. Μετά εξήγησε ό,τι έμαθες σε κάποιον από την ομάδα σου. Η σιγουριά θα έρθει μετά την εξάσκηση."
+      },
+      "check": {
+        "q": {"en": "Where does real confidence come from?", "el": "Από πού έρχεται η πραγματική αυτοπεποίθηση;"},
+        "options": [
+          {"en": "You are born with it or you are not", "el": "Ή γεννιέσαι με αυτήν ή όχι"},
+          {"en": "From doing the thing and getting better at it", "el": "Από το να κάνεις το πράγμα και να βελτιώνεσαι"},
+          {"en": "From waiting until you feel fully ready", "el": "Από το να περιμένεις μέχρι να νιώσεις έτοιμος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Competence comes first. Each small win is proof you can, and the feeling follows the proof.", "el": "Πρώτα έρχεται η ικανότητα. Κάθε μικρή επιτυχία είναι απόδειξη ότι μπορείς, και το συναίσθημα ακολουθεί την απόδειξη."}
+      }
+    },
+    {
+      "title": {"en": "People: radiators and drains", "el": "Άνθρωποι: καλοριφέρ και νεροχύτες"},
+      "explain": {
+        "en": "The third energiser is other people. Some people leave you with more energy after you talk to them: these are radiators. Others leave you empty: drains. Researchers call this relational energy. Spend more time with radiators and be one yourself. See the people around you as team-mates, not rivals. Help others, ask for help without shame, and share good news loudly. Work done together feels lighter.",
+        "el": "Η τρίτη πηγή ενέργειας είναι οι άλλοι άνθρωποι. Κάποιοι σε αφήνουν με περισσότερη ενέργεια μετά από μια κουβέντα: είναι τα «καλοριφέρ». Άλλοι σε αδειάζουν: είναι οι «νεροχύτες». Οι ερευνητές το λένε σχεσιακή ενέργεια. Πέρνα περισσότερο χρόνο με ανθρώπους-καλοριφέρ και γίνε κι εσύ ένας. Δες τους γύρω σου σαν συμπαίκτες, όχι σαν αντιπάλους. Βοήθα, ζήτα βοήθεια χωρίς ντροπή και μοιράσου τα καλά νέα δυνατά. Η δουλειά που γίνεται μαζί είναι πιο ελαφριά."
+      },
+      "example": {
+        "en": "In a 2014 Stanford experiment, people worked alone on a hard puzzle. Some were simply told they were working on it together with others and got a tip that seemed to come from a partner. That small feeling of a team made them keep trying 48% longer, and they found the task more interesting.",
+        "el": "Σε ένα πείραμα του Stanford το 2014, άνθρωποι δούλευαν μόνοι τους σε έναν δύσκολο γρίφο. Σε κάποιους είπαν απλώς ότι τον λύνουν «μαζί» με άλλους και τους έδωσαν μια συμβουλή που έμοιαζε να έρχεται από συνεργάτη. Αυτή η μικρή αίσθηση ομάδας τούς έκανε να προσπαθούν 48% περισσότερη ώρα και να βρίσκουν τη δουλειά πιο ενδιαφέρουσα."
+      },
+      "apply": {
+        "en": "Write down the five people you talk to most in a week and mark each one radiator or drain. Book a weekly call with one radiator, for example another founder, where you work side by side for an hour. Limit the drains to short, planned contact.",
+        "el": "Γράψε τους πέντε ανθρώπους με τους οποίους μιλάς περισσότερο μέσα στην εβδομάδα και σημείωσε δίπλα «καλοριφέρ» ή «νεροχύτης». Κλείσε μια σταθερή εβδομαδιαία κλήση με έναν άνθρωπο-καλοριφέρ, για παράδειγμα έναν άλλο founder, όπου δουλεύετε παράλληλα μία ώρα. Τους άλλους περιόρισέ τους σε σύντομη, προγραμματισμένη επαφή."
+      },
+      "check": {
+        "q": {"en": "What is a radiator in this book?", "el": "Τι είναι «καλοριφέρ» στο βιβλίο;"},
+        "options": [
+          {"en": "A person who works harder than everyone else", "el": "Κάποιος που δουλεύει πιο σκληρά από όλους"},
+          {"en": "A person who always agrees with your ideas", "el": "Κάποιος που συμφωνεί πάντα με τις ιδέες σου"},
+          {"en": "A person who leaves you with more energy", "el": "Κάποιος που σε αφήνει με περισσότερη ενέργεια"}
+        ],
+        "answer": 2,
+        "why": {"en": "Radiators give off warmth and energy. Drains take it. Choose who you spend your hours with.", "el": "Τα καλοριφέρ δίνουν ζεστασιά και ενέργεια. Οι νεροχύτες την τραβούν. Διάλεξε με ποιους περνάς τις ώρες σου."}
+      }
+    },
+    {
+      "title": {"en": "Procrastination is fog", "el": "Η αναβολή είναι ομίχλη"},
+      "explain": {
+        "en": "When you put something off, the usual advice is: motivate yourself or discipline yourself. Abdaal says: first find what is blocking you. The most common block is lack of clarity. You do not know exactly why you are doing it, what the first step is, or when you will do it. So ask why, then what, then when. Toyota's habit of asking why five times helps you reach the real purpose.",
+        "el": "Όταν αναβάλλεις κάτι, η συνηθισμένη συμβουλή είναι: βρες κίνητρο ή πειθαρχία. Ο Abdaal λέει: βρες πρώτα τι σε μπλοκάρει. Το πιο συχνό μπλοκάρισμα είναι η ασάφεια. Δεν ξέρεις ακριβώς γιατί το κάνεις, ποιο είναι το πρώτο βήμα ή πότε θα το κάνεις. Ρώτα λοιπόν «γιατί», μετά «τι», μετά «πότε». Η συνήθεια της Toyota να ρωτά πέντε φορές «γιατί» σε βοηθά να φτάσεις στον πραγματικό σκοπό."
+      },
+      "example": {
+        "en": "In a 2002 British study, people who wanted to exercise were split into groups. In the group that only got motivation, roughly four in ten exercised. In the group that also wrote down exactly when and where they would exercise, about nine in ten did. The plan beat the pep talk.",
+        "el": "Σε μια βρετανική έρευνα του 2002, άνθρωποι που ήθελαν να γυμνάζονται χωρίστηκαν σε ομάδες. Στην ομάδα που πήρε μόνο κίνητρο, γυμνάστηκαν περίπου τέσσερις στους δέκα. Στην ομάδα που έγραψε και πότε ακριβώς και πού θα γυμναστεί, περίπου εννιά στους δέκα. Το συγκεκριμένο πλάνο νίκησε τα λόγια εμψύχωσης."
+      },
+      "apply": {
+        "en": "Take the task you have avoided longest. Write three lines: why it matters, the very next physical step, and the exact day and hour in your calendar. If then: «If it is 10:00 on Tuesday, I open the lead list and call the first number.»",
+        "el": "Πάρε τη δουλειά που αποφεύγεις πιο πολύ καιρό. Γράψε τρεις γραμμές: γιατί μετράει, ποιο είναι το αμέσως επόμενο συγκεκριμένο βήμα, και ποια μέρα και ώρα μπαίνει στο ημερολόγιο. Με τη μορφή «αν... τότε»: «Αν είναι Τρίτη 10:00, ανοίγω τη λίστα και παίρνω τον πρώτο αριθμό»."
+      },
+      "check": {
+        "q": {"en": "You keep avoiding a task. What does the book check first?", "el": "Αποφεύγεις συνέχεια μια δουλειά. Τι ελέγχει πρώτα το βιβλίο;"},
+        "options": [
+          {"en": "Whether the why, the what and the when are clear", "el": "Αν είναι ξεκάθαρα το γιατί, το τι και το πότε"},
+          {"en": "Whether you have enough willpower this week", "el": "Αν έχεις αρκετή θέληση αυτή την εβδομάδα"},
+          {"en": "Whether the task should be punished with a fine", "el": "Αν πρέπει να βάλεις πρόστιμο στον εαυτό σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Most procrastination is uncertainty. Clear the fog and the task often starts by itself.", "el": "Η περισσότερη αναβολή είναι αβεβαιότητα. Διώξε την ομίχλη και η δουλειά συχνά ξεκινά μόνη της."}
+      }
+    },
+    {
+      "title": {"en": "NICE goals, not SMART", "el": "Στόχοι NICE, όχι SMART"},
+      "explain": {
+        "en": "Big outcome goals can scare you and they depend on things you do not control. Abdaal suggests NICE goals. Near-term: about today or this week. Input-based: about what you do, not what you get. Controllable: fully in your hands. Energising: set up so you enjoy it. He adds the crystal ball: imagine the plan failed, list the three most likely reasons, and fix them now.",
+        "el": "Οι μεγάλοι στόχοι αποτελέσματος μπορεί να σε τρομάζουν και εξαρτώνται από πράγματα που δεν ελέγχεις. Ο Abdaal προτείνει στόχους NICE. Near-term: για σήμερα ή για αυτή την εβδομάδα. Input-based: για το τι κάνεις εσύ, όχι για το τι θα πάρεις. Controllable: εντελώς στο χέρι σου. Energising: στημένοι έτσι ώστε να τους ευχαριστιέσαι. Προσθέτει και τη «γυάλινη σφαίρα»: φαντάσου ότι το σχέδιο απέτυχε, γράψε τους τρεις πιο πιθανούς λόγους και διόρθωσέ τους τώρα."
+      },
+      "example": {
+        "en": "SMART goals come from a 1981 management article by George Doran. A SMART goal says: lose ten kilos in three months. A NICE goal says: walk twenty minutes today with a podcast I like. The first one you can fail for ninety days. The second one you can win tonight.",
+        "el": "Οι στόχοι SMART ξεκίνησαν από ένα άρθρο διοίκησης του George Doran το 1981. Ένας στόχος SMART λέει: χάσε δέκα κιλά σε τρεις μήνες. Ένας στόχος NICE λέει: περπάτα είκοσι λεπτά σήμερα ακούγοντας ένα podcast που σου αρέσει. Στον πρώτο μπορείς να αποτυγχάνεις επί ενενήντα μέρες. Τον δεύτερο τον κερδίζεις απόψε."
+      },
+      "apply": {
+        "en": "Change «close five clients this month» into «make forty calls today before 13:00, with my score sheet open». You do not control who says yes. You control the forty calls. Then ask the crystal ball: what would stop me today? Remove it before you start.",
+        "el": "Άλλαξε το «κλείνω πέντε πελάτες αυτόν τον μήνα» σε «κάνω σαράντα τηλεφωνήματα σήμερα πριν τις 13:00, με το σκορ μου ανοιχτό». Το ποιος θα πει ναι δεν το ελέγχεις. Τα σαράντα τηλεφωνήματα τα ελέγχεις. Μετά ρώτα τη γυάλινη σφαίρα: τι θα με σταματούσε σήμερα; Βγάλ' το από τη μέση πριν ξεκινήσεις."
+      },
+      "check": {
+        "q": {"en": "Which of these is a NICE goal?", "el": "Ποιος από αυτούς είναι στόχος NICE;"},
+        "options": [
+          {"en": "Reach 300 live client sites by December", "el": "Να φτάσω τις 300 ιστοσελίδες ως τον Δεκέμβριο"},
+          {"en": "Call thirty dentists today before lunch", "el": "Να πάρω τριάντα οδοντιάτρους σήμερα πριν το μεσημέρι"},
+          {"en": "Double the revenue of the agency this year", "el": "Να διπλασιάσω τον τζίρο της εταιρείας φέτος"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is near-term, about your own input and fully under your control. The other two are outcomes.", "el": "Είναι κοντινός, αφορά τη δική σου προσπάθεια και είναι εντελώς στο χέρι σου. Οι άλλοι δύο είναι αποτελέσματα."}
+      }
+    },
+    {
+      "title": {"en": "Name the fear, shrink it", "el": "Πες τον φόβο με το όνομά του"},
+      "explain": {
+        "en": "The second block is fear: of failing, of being judged, of not being good enough. You cannot delete it, but you can make it small. First name it: what exactly am I afraid of here? Then test it: will this matter in ten minutes, ten weeks, ten years? Picture the worst case clearly and you usually see it is survivable. And remember that other people look at you far less than you think.",
+        "el": "Το δεύτερο μπλοκάρισμα είναι ο φόβος: ότι θα αποτύχεις, ότι θα σε κρίνουν, ότι δεν είσαι αρκετά καλός. Δεν σβήνεται, αλλά μικραίνει. Πρώτα πες τον με το όνομά του: τι ακριβώς φοβάμαι εδώ; Μετά δοκίμασέ τον: θα έχει σημασία σε δέκα λεπτά, σε δέκα εβδομάδες, σε δέκα χρόνια; Φαντάσου καθαρά το χειρότερο σενάριο και συνήθως θα δεις ότι αντέχεται. Και θυμήσου ότι οι άλλοι σε κοιτάνε πολύ λιγότερο απ' όσο νομίζεις."
+      },
+      "example": {
+        "en": "In 2000 the psychologist Thomas Gilovich asked students to walk into a room wearing an embarrassing Barry Manilow T-shirt. They guessed that about half the people in the room had noticed it. In fact only about a quarter had. This is the spotlight effect: we overestimate how much others notice us.",
+        "el": "Το 2000 ο ψυχολόγος Thomas Gilovich έβαλε φοιτητές να μπουν σε μια αίθουσα φορώντας ένα ντροπιαστικό μπλουζάκι με τον Barry Manilow. Οι ίδιοι υπολόγισαν ότι το πρόσεξαν περίπου οι μισοί. Στην πραγματικότητα το πρόσεξε μόλις ένας στους τέσσερις. Είναι το φαινόμενο του προβολέα: υπερεκτιμούμε πόσο μας προσέχουν οι άλλοι."
+      },
+      "apply": {
+        "en": "Write the worst case before a scary call: «He says no and hangs up.» Then ask the three tens. In ten minutes you are on the next call, in ten weeks you have forgotten his name. The doctor will not remember your stumble either. Then dial.",
+        "el": "Γράψε το χειρότερο σενάριο πριν από ένα τηλεφώνημα που σε αγχώνει: «Λέει όχι και το κλείνει». Μετά κάνε την ερώτηση με τα τρία δεκάρια. Σε δέκα λεπτά είσαι στο επόμενο τηλέφωνο, σε δέκα εβδομάδες έχεις ξεχάσει το όνομά του. Ούτε ο γιατρός θα θυμάται ότι κόμπιασες. Και μετά πάρε τηλέφωνο."
+      },
+      "check": {
+        "q": {"en": "What does the 10/10/10 question do?", "el": "Τι πετυχαίνει η ερώτηση 10/10/10;"},
+        "options": [
+          {"en": "It gives you ten minutes to finish the task", "el": "Σου δίνει δέκα λεπτά για να τελειώσεις τη δουλειά"},
+          {"en": "It makes you plan the next ten years in detail", "el": "Σε βάζει να σχεδιάσεις τα επόμενα δέκα χρόνια"},
+          {"en": "It shows how little the feared outcome will matter later", "el": "Δείχνει πόσο λίγο θα μετράει αργότερα αυτό που φοβάσαι"}
+        ],
+        "answer": 2,
+        "why": {"en": "Seen from ten weeks or ten years away, most feared moments are tiny. The fear loses its grip.", "el": "Από απόσταση δέκα εβδομάδων ή δέκα χρόνων, οι περισσότερες στιγμές που φοβάσαι είναι ασήμαντες. Ο φόβος χαλαρώνει."}
+      }
+    },
+    {
+      "title": {"en": "Friction decides what you do", "el": "Η τριβή αποφασίζει τι θα κάνεις"},
+      "explain": {
+        "en": "The third block is inertia: it takes more energy to start than to continue. So make starting easy. Friction is every small obstacle between you and an action. Remove friction from what you want to do: keep it visible, open, one click away. Add friction to what you want to avoid: hide it, log out, put it in another room. You win with the room you set up, not with willpower.",
+        "el": "Το τρίτο μπλοκάρισμα είναι η αδράνεια: θέλει περισσότερη ενέργεια να ξεκινήσεις παρά να συνεχίσεις. Κάνε λοιπόν εύκολη την αρχή. Τριβή είναι κάθε μικρό εμπόδιο ανάμεσα σε σένα και σε μια ενέργεια. Βγάλε την τριβή από ό,τι θέλεις να κάνεις: να είναι μπροστά σου, ανοιχτό, ένα κλικ μακριά. Βάλε τριβή σε ό,τι θέλεις να αποφύγεις: κρύψ' το, κάνε αποσύνδεση, άφησέ το σε άλλο δωμάτιο. Κερδίζεις με το πώς έχεις στήσει τον χώρο σου, όχι με τη θέληση."
+      },
+      "example": {
+        "en": "Abdaal wanted to practise guitar but never did, because the guitar was stored out of sight. He moved it onto a stand in the middle of his living room. Now picking it up took two seconds, and he started playing most days without any extra motivation.",
+        "el": "Ο Abdaal ήθελε να παίζει κιθάρα αλλά δεν έπαιζε ποτέ, γιατί η κιθάρα ήταν φυλαγμένη κάπου που δεν τη βλέπει. Την έβαλε σε μια βάση στη μέση του σαλονιού. Τώρα την έπιανε σε δύο δευτερόλεπτα, και άρχισε να παίζει σχεδόν κάθε μέρα χωρίς να χρειάζεται επιπλέον κίνητρο."
+      },
+      "apply": {
+        "en": "Prepare tomorrow tonight: leave the lead list open on the screen, the script next to it, the headset on the desk. Then add friction to the opposite: phone in another room, social apps logged out on the computer during calling hours.",
+        "el": "Ετοίμασε το αύριο από απόψε: άφησε ανοιχτή στην οθόνη τη λίστα με τα leads, το script δίπλα, τα ακουστικά πάνω στο γραφείο. Και βάλε τριβή στο αντίθετο: το κινητό σε άλλο δωμάτιο, αποσύνδεση από τα social στον υπολογιστή τις ώρες των τηλεφωνημάτων."
+      },
+      "check": {
+        "q": {"en": "How do you use friction well?", "el": "Πώς χρησιμοποιείς σωστά την τριβή;"},
+        "options": [
+          {"en": "Less of it for good actions, more for bad ones", "el": "Λιγότερη στις καλές ενέργειες, περισσότερη στις κακές"},
+          {"en": "More of it everywhere, to train your willpower", "el": "Περισσότερη παντού, για να γυμνάζεις τη θέληση"},
+          {"en": "Ignore it, because motivation is what matters", "el": "Την αγνοείς, γιατί σημασία έχει το κίνητρο"}
+        ],
+        "answer": 0,
+        "why": {"en": "We do what is easy. Make the right thing the easy thing and the wrong thing annoying.", "el": "Κάνουμε ό,τι είναι εύκολο. Κάνε το σωστό εύκολο και το λάθος κουραστικό."}
+      }
+    },
+    {
+      "title": {"en": "The five-minute rule", "el": "Ο κανόνας των πέντε λεπτών"},
+      "explain": {
+        "en": "We wait to feel motivated and then act. It works the other way: action creates motivation. So promise yourself only five minutes of the task. After five minutes you are allowed to stop. Most times you continue, because the hard part was starting. Help it along: define the very next small step, track your progress where you can see it, and find a partner who expects you to show up.",
+        "el": "Περιμένουμε να έρθει η όρεξη και μετά να κάνουμε κάτι. Γίνεται ανάποδα: η πράξη φέρνει την όρεξη. Υποσχέσου λοιπόν στον εαυτό σου μόνο πέντε λεπτά από τη δουλειά. Μετά τα πέντε λεπτά έχεις δικαίωμα να σταματήσεις. Τις περισσότερες φορές συνεχίζεις, γιατί το δύσκολο ήταν η αρχή. Βοήθησέ το: όρισε το αμέσως επόμενο μικρό βήμα, κράτα την πρόοδό σου κάπου που τη βλέπεις και βρες έναν άνθρωπο που περιμένει να εμφανιστείς."
+      },
+      "example": {
+        "en": "Abdaal compares it to Newton's first law: a body at rest stays at rest until something moves it. Everyday proof: the hardest part of the gym is putting your shoes on. People who say «I will just go for five minutes» almost never leave after five minutes.",
+        "el": "Ο Abdaal το συγκρίνει με τον πρώτο νόμο του Νεύτωνα: ένα σώμα που είναι ακίνητο μένει ακίνητο μέχρι να το κουνήσει κάτι. Απόδειξη από την καθημερινότητα: το πιο δύσκολο στο γυμναστήριο είναι να βάλεις τα παπούτσια. Όποιος λέει «θα πάω μόνο για πέντε λεπτά» σχεδόν ποτέ δεν φεύγει στα πέντε λεπτά."
+      },
+      "apply": {
+        "en": "Set a five-minute timer when you do not feel like calling and make just the first two calls. Same for invoices or a client's change list: five minutes, first item only. Tick each finished item on paper so you see the progress grow.",
+        "el": "Βάλε χρονόμετρο πέντε λεπτών όταν δεν έχεις όρεξη για τηλέφωνα και κάνε μόνο τις δύο πρώτες κλήσεις. Το ίδιο για τα τιμολόγια ή τη λίστα αλλαγών ενός πελάτη: πέντε λεπτά, μόνο το πρώτο σημείο. Σβήνε σε χαρτί ό,τι τελειώνεις, για να βλέπεις την πρόοδο να μεγαλώνει."
+      },
+      "check": {
+        "q": {"en": "Why does the five-minute rule work?", "el": "Γιατί δουλεύει ο κανόνας των πέντε λεπτών;"},
+        "options": [
+          {"en": "Five minutes is enough to finish most tasks", "el": "Πέντε λεπτά φτάνουν για τις περισσότερες δουλειές"},
+          {"en": "A timer makes you afraid of losing time", "el": "Το χρονόμετρο σε κάνει να φοβάσαι μη χάσεις χρόνο"},
+          {"en": "Starting is the hard part and action brings motivation", "el": "Το δύσκολο είναι η αρχή, και η πράξη φέρνει την όρεξη"}
+        ],
+        "answer": 2,
+        "why": {"en": "You do not wait for motivation. You start small, and the motivation shows up once you are moving.", "el": "Δεν περιμένεις την όρεξη. Ξεκινάς με κάτι μικρό και η όρεξη έρχεται μόλις μπεις σε κίνηση."}
+      }
+    },
+    {
+      "title": {"en": "Self-compassion beats guilt", "el": "Η επιείκεια νικά την ενοχή"},
+      "explain": {
+        "en": "When you waste a morning, you probably attack yourself. It feels responsible, but guilt is a negative emotion and it drains the energy you need to start again. So you procrastinate more. Abdaal's advice: forgive yourself fast and find the win. Name one small thing you did manage, even if it has nothing to do with work. Being kind to yourself is not laziness. It is how you get back to work sooner.",
+        "el": "Όταν χάνεις ένα πρωινό, μάλλον τα βάζεις με τον εαυτό σου. Μοιάζει υπεύθυνο, όμως η ενοχή είναι αρνητικό συναίσθημα και σου τρώει την ενέργεια που χρειάζεσαι για να ξαναρχίσεις. Έτσι αναβάλλεις ακόμα περισσότερο. Η συμβουλή του Abdaal: συγχώρεσε γρήγορα τον εαυτό σου και βρες τη νίκη. Πες ένα μικρό πράγμα που κατάφερες, ακόμα κι αν είναι άσχετο με τη δουλειά. Η επιείκεια δεν είναι τεμπελιά. Είναι ο τρόπος να γυρίσεις πιο γρήγορα στη δουλειά."
+      },
+      "example": {
+        "en": "Researchers at Carleton University in Canada followed first-year students in 2010. Those who forgave themselves for procrastinating before the first exam procrastinated less before the second exam and felt better. Those who kept blaming themselves delayed again.",
+        "el": "Ερευνητές του Carleton University στον Καναδά παρακολούθησαν πρωτοετείς φοιτητές το 2010. Όσοι συγχώρεσαν τον εαυτό τους που ανέβαλαν το διάβασμα πριν από την πρώτη εξέταση, ανέβαλαν λιγότερο πριν από τη δεύτερη και ένιωθαν καλύτερα. Όσοι συνέχισαν να κατηγορούν τον εαυτό τους, το ξανάκαναν."
+      },
+      "apply": {
+        "en": "Say one sentence when a day goes badly: «I did not make the calls, but I did answer two clients and I went for a walk.» Then choose one small thing for the next hour. Do not carry yesterday's guilt into today's first call.",
+        "el": "Πες μία πρόταση όταν μια μέρα πάει στραβά: «Δεν έκανα τα τηλέφωνα, αλλά απάντησα σε δύο πελάτες και βγήκα για περπάτημα». Μετά διάλεξε ένα μικρό πράγμα για την επόμενη ώρα. Μην κουβαλάς τη χθεσινή ενοχή στο πρώτο σημερινό τηλεφώνημα."
+      },
+      "check": {
+        "q": {"en": "What does guilt about procrastinating usually cause?", "el": "Τι προκαλεί συνήθως η ενοχή για την αναβολή;"},
+        "options": [
+          {"en": "It makes you sharper and faster the next day", "el": "Σε κάνει πιο γρήγορο και συγκεντρωμένο την επομένη"},
+          {"en": "It drains you, so you procrastinate even more", "el": "Σε αδειάζει, οπότε αναβάλλεις ακόμα περισσότερο"},
+          {"en": "It has no effect on your future behaviour", "el": "Δεν επηρεάζει καθόλου τη συμπεριφορά σου"}
+        ],
+        "answer": 1,
+        "why": {"en": "Guilt is a bad feeling you then try to escape, often by avoiding the task again. Forgiveness breaks the loop.", "el": "Η ενοχή είναι ένα άσχημο συναίσθημα από το οποίο προσπαθείς να ξεφύγεις, συχνά αποφεύγοντας ξανά τη δουλειά. Η συγχώρεση σπάει τον κύκλο."}
+      }
+    },
+    {
+      "title": {"en": "Three burnouts, do less", "el": "Τρία burnout και το «κάνε λιγότερα»"},
+      "explain": {
+        "en": "Abdaal describes three kinds of burnout. Overexertion: you simply do too much. Depletion: you do not rest in the right way. Misalignment: you spend your energy on things that do not matter to you. For the first one the cure is to do less. Keep an energy investment portfolio: a long list of dreams for someday, and a short list of active investments for now. Say no unless it is a clear yes, and take breaks before you need them.",
+        "el": "Ο Abdaal περιγράφει τρία είδη burnout. Από υπερπροσπάθεια: απλώς κάνεις πάρα πολλά. Από εξάντληση: δεν ξεκουράζεσαι με τον σωστό τρόπο. Από λάθος κατεύθυνση: ξοδεύεις την ενέργειά σου σε πράγματα που δεν σου λένε τίποτα. Για το πρώτο η θεραπεία είναι να κάνεις λιγότερα. Κράτα ένα «χαρτοφυλάκιο ενέργειας»: μια μεγάλη λίστα με όνειρα για κάποτε και μια μικρή λίστα με ενεργές επενδύσεις για τώρα. Λέγε όχι αν δεν είναι καθαρό ναι, και κάνε διαλείμματα πριν τα χρειαστείς."
+      },
+      "example": {
+        "en": "When Steve Jobs returned to Apple in 1997, the company sold a confusing number of products and was close to bankruptcy. He cut roughly 70% of them and kept four: a desktop and a laptop, each for consumers and for professionals. With fewer things to do, Apple recovered.",
+        "el": "Όταν ο Steve Jobs γύρισε στην Apple το 1997, η εταιρεία πουλούσε έναν χαοτικό αριθμό προϊόντων και ήταν κοντά στη χρεοκοπία. Έκοψε περίπου το 70% και κράτησε τέσσερα: έναν σταθερό και έναν φορητό, για καταναλωτές και για επαγγελματίες. Με λιγότερα πράγματα, η Apple ξαναστάθηκε στα πόδια της."
+      },
+      "apply": {
+        "en": "List every project you are running: the agency, ads, the CRM, video, the directory, the app. Move all but three to the dreams list, with no guilt. A new idea enters the active list only when one leaves. Take a real ten-minute break every ninety minutes.",
+        "el": "Γράψε όλα τα project που τρέχεις: την εταιρεία, τις διαφημίσεις, το CRM, τα βίντεο, τον κατάλογο, την εφαρμογή. Πέρασε όλα εκτός από τρία στη λίστα με τα όνειρα, χωρίς ενοχές. Μια νέα ιδέα μπαίνει στα ενεργά μόνο όταν βγει κάποια άλλη. Κάνε ένα πραγματικό δεκάλεπτο διάλειμμα κάθε ενενήντα λεπτά."
+      },
+      "check": {
+        "q": {"en": "What is the energy investment portfolio?", "el": "Τι είναι το «χαρτοφυλάκιο ενέργειας»;"},
+        "options": [
+          {"en": "A short list of active projects and a long list of dreams", "el": "Μια μικρή λίστα ενεργών project και μια μεγάλη με όνειρα"},
+          {"en": "A budget that shows where your money goes", "el": "Ένας προϋπολογισμός που δείχνει πού πάνε τα χρήματά σου"},
+          {"en": "A schedule that fills every hour of the day", "el": "Ένα πρόγραμμα που γεμίζει κάθε ώρα της μέρας"}
+        ],
+        "answer": 0,
+        "why": {"en": "Energy is limited like money. You invest it in a few things now and park the rest for later.", "el": "Η ενέργεια είναι περιορισμένη όπως τα χρήματα. Την επενδύεις τώρα σε λίγα πράγματα και τα υπόλοιπα τα αφήνεις για αργότερα."}
+      }
+    },
+    {
+      "title": {"en": "Rest that really recharges", "el": "Ξεκούραση που όντως γεμίζει"},
+      "explain": {
+        "en": "Scrolling on your phone feels like rest but leaves you more tired. Real rest is active or truly empty. Abdaal suggests calm hobbies: things you do for no result, where you feel able, free and relaxed, like cooking, music or sport. Nature recharges fast, even a short walk or a view of trees. And sometimes the right move is to write off the day and do nothing on purpose, with no guilt.",
+        "el": "Το σκρολάρισμα στο κινητό μοιάζει με ξεκούραση, αλλά σε αφήνει πιο κουρασμένο. Η πραγματική ξεκούραση είναι είτε ενεργή είτε εντελώς άδεια. Ο Abdaal προτείνει ήρεμα χόμπι: πράγματα που κάνεις χωρίς να κυνηγάς αποτέλεσμα, όπου νιώθεις ικανός, ελεύθερος και χαλαρός, όπως μαγείρεμα, μουσική ή άθλημα. Η φύση γεμίζει γρήγορα τις μπαταρίες, ακόμα και μια μικρή βόλτα ή η θέα σε δέντρα. Και καμιά φορά το σωστό είναι να χαρίσεις τη μέρα και να μην κάνεις τίποτα, επίτηδες και χωρίς ενοχές."
+      },
+      "example": {
+        "en": "In 1984 Roger Ulrich studied patients recovering from gallbladder surgery in a Pennsylvania hospital. Those whose window looked onto trees went home sooner and needed fewer strong painkillers than those whose window looked onto a brick wall. Just seeing nature helped them recover.",
+        "el": "Το 1984 ο Roger Ulrich μελέτησε ασθενείς που ανάρρωναν από εγχείρηση χολής σε ένα νοσοκομείο της Πενσυλβάνια. Όσοι είχαν παράθυρο με θέα σε δέντρα πήγαν σπίτι τους νωρίτερα και χρειάστηκαν λιγότερα ισχυρά παυσίπονα από όσους έβλεπαν έναν τοίχο από τούβλα. Και μόνο η θέα της φύσης τούς βοήθησε να αναρρώσουν."
+      },
+      "apply": {
+        "en": "Replace one scrolling break a day with a fifteen-minute walk outside without the phone. Choose one hobby that has nothing to do with business and give it two fixed evenings a week. When you are truly empty, close the laptop and call the day off.",
+        "el": "Αντικατάστησε ένα διάλειμμα με κινητό τη μέρα με δεκαπέντε λεπτά περπάτημα έξω, χωρίς το κινητό. Διάλεξε ένα χόμπι άσχετο με τη δουλειά και δώσ' του δύο σταθερά απογεύματα την εβδομάδα. Όταν είσαι πραγματικά άδειος, κλείσε το laptop και χάρισε τη μέρα."
+      },
+      "check": {
+        "q": {"en": "Which break recharges you best, according to the book?", "el": "Ποιο διάλειμμα σε γεμίζει περισσότερο, σύμφωνα με το βιβλίο;"},
+        "options": [
+          {"en": "Twenty minutes of short videos on your phone", "el": "Είκοσι λεπτά με σύντομα βίντεο στο κινητό"},
+          {"en": "Answering a few easy emails on the sofa", "el": "Να απαντήσεις μερικά εύκολα email στον καναπέ"},
+          {"en": "A short walk outside or a hobby with no goal", "el": "Μια μικρή βόλτα έξω ή ένα χόμπι χωρίς στόχο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Scrolling and light work still drain attention. Nature and calm hobbies give energy back.", "el": "Το σκρολάρισμα και η «ελαφριά» δουλειά συνεχίζουν να τρώνε προσοχή. Η φύση και τα ήρεμα χόμπι δίνουν πίσω ενέργεια."}
+      }
+    },
+    {
+      "title": {"en": "The Odyssey Plan", "el": "Το Σχέδιο Οδύσσεια"},
+      "explain": {
+        "en": "Misalignment burnout comes when you work hard on a life you never chose. To check, think long term. The Odyssey Plan asks you to write three versions of your next five years: the path you are on now, a completely different path, and the path you would take if money and other people's opinions did not matter. A second tool is the eulogy: what would you like people to say about you at your funeral?",
+        "el": "Το burnout της λάθος κατεύθυνσης έρχεται όταν δουλεύεις σκληρά για μια ζωή που δεν διάλεξες ποτέ. Για να το ελέγξεις, σκέψου μακροπρόθεσμα. Το Σχέδιο Οδύσσεια σού ζητά να γράψεις τρεις εκδοχές για τα επόμενα πέντε χρόνια: τον δρόμο που ακολουθείς τώρα, έναν εντελώς διαφορετικό δρόμο, και τον δρόμο που θα έπαιρνες αν δεν μετρούσαν τα χρήματα και η γνώμη των άλλων. Δεύτερο εργαλείο είναι ο επικήδειος: τι θα ήθελες να λένε για σένα στην κηδεία σου;"
+      },
+      "example": {
+        "en": "The Odyssey Plan comes from Bill Burnett and Dave Evans, who teach the Designing Your Life course at Stanford. Abdaal did the exercise while working as a doctor and saw that the version that excited him was not the one where he stayed in medicine full time. He later left to teach and create.",
+        "el": "Το Σχέδιο Οδύσσεια είναι των Bill Burnett και Dave Evans, που διδάσκουν το μάθημα Designing Your Life στο Stanford. Ο Abdaal έκανε την άσκηση όσο δούλευε ως γιατρός και είδε ότι η εκδοχή που τον ενθουσίαζε δεν ήταν εκείνη όπου έμενε στην ιατρική με πλήρες ωράριο. Αργότερα έφυγε για να διδάσκει και να δημιουργεί."
+      },
+      "apply": {
+        "en": "Write your three five-year versions on one page each: the agency as it grows now, a very different business, and the life you would live with no money worries. Circle what appears in all three. Those are the things your week should already contain.",
+        "el": "Γράψε τις τρεις εκδοχές σου για την επόμενη πενταετία, μία σελίδα η καθεμία: η εταιρεία όπως μεγαλώνει τώρα, μια πολύ διαφορετική δουλειά, και η ζωή που θα ζούσες αν δεν είχες καμία έγνοια για χρήματα. Κύκλωσε ό,τι εμφανίζεται και στις τρεις. Αυτά πρέπει να υπάρχουν ήδη μέσα στην εβδομάδα σου."
+      },
+      "check": {
+        "q": {"en": "What do you write in an Odyssey Plan?", "el": "Τι γράφεις σε ένα Σχέδιο Οδύσσεια;"},
+        "options": [
+          {"en": "A detailed daily timetable for the next month", "el": "Ένα αναλυτικό ημερήσιο πρόγραμμα για τον επόμενο μήνα"},
+          {"en": "Three different versions of your next five years", "el": "Τρεις διαφορετικές εκδοχές της επόμενης πενταετίας σου"},
+          {"en": "A list of your mistakes from the last five years", "el": "Μια λίστα με τα λάθη σου των τελευταίων πέντε ετών"}
+        ],
+        "answer": 1,
+        "why": {"en": "Seeing several possible futures side by side shows you which one you actually want.", "el": "Όταν βλέπεις πολλά πιθανά μέλλοντα δίπλα δίπλα, καταλαβαίνεις ποιο θέλεις πραγματικά."}
+      }
+    },
+    {
+      "title": {"en": "The 12-month celebration", "el": "Η γιορτή σε δώδεκα μήνες"},
+      "explain": {
+        "en": "Long-term values must reach your calendar. Imagine it is twelve months from now and you are at dinner with your best friend, celebrating a great year. What are you celebrating in health, in work and in relationships? Write it down. Then work backward: what should happen this month for that dinner to be real? Every morning choose three small alignment quests, one for each area, and do them today.",
+        "el": "Οι μακροχρόνιες αξίες πρέπει να φτάσουν μέχρι το ημερολόγιό σου. Φαντάσου ότι έχουν περάσει δώδεκα μήνες και τρως με τον καλύτερό σου φίλο, γιορτάζοντας μια σπουδαία χρονιά. Τι γιορτάζετε στην υγεία, στη δουλειά και στις σχέσεις; Γράψ' το. Μετά πήγαινε προς τα πίσω: τι πρέπει να γίνει αυτόν τον μήνα για να είναι αληθινό εκείνο το δείπνο; Κάθε πρωί διάλεξε τρεις μικρές αποστολές, μία για κάθε τομέα, και κάν' τες σήμερα."
+      },
+      "example": {
+        "en": "Jeff Bezos used the same move in 1994. He imagined himself at eighty looking back and asked which choice he would regret. He saw he would regret not trying the internet idea, so he left a well-paid Wall Street job and started Amazon. He calls it the regret minimisation framework.",
+        "el": "Ο Jeff Bezos έκανε την ίδια κίνηση το 1994. Φαντάστηκε τον εαυτό του στα ογδόντα να κοιτάζει πίσω και αναρωτήθηκε για ποια επιλογή θα μετάνιωνε. Είδε ότι θα μετάνιωνε αν δεν δοκίμαζε την ιδέα με το internet, οπότε άφησε μια καλοπληρωμένη δουλειά στη Wall Street και ξεκίνησε την Amazon. Το ονομάζει «πλαίσιο ελαχιστοποίησης της μεταμέλειας»."
+      },
+      "apply": {
+        "en": "Write the toast you want to make next October: one sentence each for body, business and people. Under each write this month's step. Tomorrow morning pick three quests, for example thirty minutes of exercise, forty calls, dinner with a friend.",
+        "el": "Γράψε την πρόποση που θέλεις να κάνεις του χρόνου τον Οκτώβριο: μία πρόταση για το σώμα, μία για τη δουλειά, μία για τους ανθρώπους σου. Κάτω από καθεμία γράψε το βήμα αυτού του μήνα. Αύριο το πρωί διάλεξε τρεις αποστολές, για παράδειγμα τριάντα λεπτά γυμναστική, σαράντα τηλεφωνήματα, φαγητό με έναν φίλο."
+      },
+      "check": {
+        "q": {"en": "How does the 12-month celebration work?", "el": "Πώς δουλεύει η γιορτή σε δώδεκα μήνες;"},
+        "options": [
+          {"en": "You picture next year's success and work backward to today", "el": "Φαντάζεσαι την επιτυχία του χρόνου και γυρνάς προς το σήμερα"},
+          {"en": "You reward yourself with a party every month", "el": "Ανταμείβεις τον εαυτό σου με ένα πάρτι κάθε μήνα"},
+          {"en": "You wait twelve months before judging any plan", "el": "Περιμένεις δώδεκα μήνες πριν κρίνεις ένα σχέδιο"}
+        ],
+        "answer": 0,
+        "why": {"en": "The picture of the celebration gives direction, and working backward turns it into today's small actions.", "el": "Η εικόνα της γιορτής δίνει κατεύθυνση, και το μέτρημα προς τα πίσω τη μετατρέπει σε μικρές σημερινές πράξεις."}
+      }
+    },
+    {
+      "title": {"en": "Be a productivity scientist", "el": "Γίνε επιστήμονας του εαυτού σου"},
+      "explain": {
+        "en": "The book does not end with rules. It ends with a method. No trick works for everyone, so treat every idea as an experiment. Try one thing for a week, watch two results: did I get more done, and did I feel better? Keep what works for you and drop the rest. This also removes the pressure. An experiment cannot fail, it can only teach you something.",
+        "el": "Το βιβλίο δεν τελειώνει με κανόνες. Τελειώνει με μια μέθοδο. Κανένα κόλπο δεν δουλεύει για όλους, άρα δες κάθε ιδέα σαν πείραμα. Δοκίμασε ένα πράγμα για μία εβδομάδα και κοίτα δύο αποτελέσματα: έκανα περισσότερα; ένιωσα καλύτερα; Κράτα ό,τι δουλεύει σε σένα και πέτα τα υπόλοιπα. Έτσι φεύγει και η πίεση. Ένα πείραμα δεν αποτυγχάνει, μόνο σου μαθαίνει κάτι."
+      },
+      "example": {
+        "en": "The book is built this way. It has nine chapters in three parts, energise, unblock and sustain, and each chapter gives a handful of small experiments to try instead of commandments. Abdaal says he tested these on himself as a medical student, a doctor and a business owner.",
+        "el": "Το ίδιο το βιβλίο είναι στημένο έτσι. Έχει εννέα κεφάλαια σε τρία μέρη, ενέργεια, ξεμπλοκάρισμα και αντοχή, και κάθε κεφάλαιο δίνει μερικά μικρά πειράματα να δοκιμάσεις αντί για εντολές. Ο Abdaal λέει ότι τα δοκίμασε πάνω του ως φοιτητής ιατρικής, ως γιατρός και ως επιχειρηματίας."
+      },
+      "apply": {
+        "en": "Run one experiment per week and write the result on Friday in two lines. Week one: the calling scoreboard. Week two: phone in another room. Week three: a walk instead of scrolling. After a month you will have your own tested system, not Abdaal's.",
+        "el": "Τρέξε ένα πείραμα την εβδομάδα και γράψε την Παρασκευή το αποτέλεσμα σε δύο γραμμές. Πρώτη εβδομάδα: το σκορ στα τηλεφωνήματα. Δεύτερη: το κινητό σε άλλο δωμάτιο. Τρίτη: βόλτα αντί για σκρολάρισμα. Σε έναν μήνα θα έχεις το δικό σου δοκιμασμένο σύστημα, όχι του Abdaal."
+      },
+      "check": {
+        "q": {"en": "How should you treat the tips in this book?", "el": "Πώς πρέπει να δεις τις συμβουλές του βιβλίου;"},
+        "options": [
+          {"en": "As rules to follow all at once, every day", "el": "Σαν κανόνες που ακολουθείς όλους μαζί, κάθε μέρα"},
+          {"en": "As ideas that only work for doctors and students", "el": "Σαν ιδέες που δουλεύουν μόνο σε γιατρούς και φοιτητές"},
+          {"en": "As experiments to test and keep only what works", "el": "Σαν πειράματα που δοκιμάζεις και κρατάς ό,τι δουλεύει"}
+        ],
+        "answer": 2,
+        "why": {"en": "People differ. You test one idea at a time and build a system that fits you.", "el": "Οι άνθρωποι διαφέρουν. Δοκιμάζεις μία ιδέα τη φορά και χτίζεις ένα σύστημα που σου ταιριάζει."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "It is 10:00 and you have forty cold calls to make. You feel heavy and keep checking your email instead. What do you do?", "el": "Είναι 10:00 και έχεις να κάνεις σαράντα cold calls. Νιώθεις βαρύς και όλο ανοίγεις τα email. Τι κάνεις;"},
+      "options": [
+        {"en": "Wait until after lunch, when you may feel more motivated", "el": "Περιμένεις ως το μεσημέρι, μήπως έρθει η όρεξη"},
+        {"en": "Set a five-minute timer and make only the first two calls", "el": "Βάζεις χρονόμετρο πέντε λεπτών και κάνεις μόνο τις δύο πρώτες κλήσεις"},
+        {"en": "Tell yourself you are lazy until you feel bad enough to start", "el": "Λες στον εαυτό σου ότι είσαι τεμπέλης μέχρι να ξεκινήσεις"}
+      ],
+      "answer": 1,
+      "why": {"en": "Action creates motivation. Two calls are easy to start, and once you move you usually keep going.", "el": "Η πράξη φέρνει την όρεξη. Δύο κλήσεις ξεκινούν εύκολα, και μόλις μπεις σε κίνηση συνήθως συνεχίζεις."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "You have put off recording your first video ad for three weeks. Each time you think: what if it looks ridiculous? What helps most?", "el": "Αναβάλλεις εδώ και τρεις εβδομάδες το πρώτο σου βίντεο για διαφήμιση. Κάθε φορά σκέφτεσαι: κι αν φανώ γελοίος; Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Name the fear, picture the worst case and ask if it matters in ten weeks", "el": "Λες τον φόβο με το όνομά του, βλέπεις το χειρότερο σενάριο και ρωτάς αν θα μετράει σε δέκα εβδομάδες"},
+        {"en": "Buy a better camera and lights before you try", "el": "Αγοράζεις καλύτερη κάμερα και φώτα πριν δοκιμάσεις"},
+        {"en": "Watch more videos of others until you feel confident", "el": "Βλέπεις κι άλλα βίντεο άλλων μέχρι να νιώσεις σίγουρος"}
+      ],
+      "answer": 0,
+      "why": {"en": "The block is fear, not equipment. Naming it and shrinking it lets you record a rough first version.", "el": "Το μπλοκάρισμα είναι ο φόβος, όχι ο εξοπλισμός. Όταν τον ονομάσεις και τον μικρύνεις, γράφεις μια πρώτη πρόχειρη εκδοχή."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "Your goal for the month is «sign eight new clients». By the 15th you have two and you feel like a failure. How do you reset the goal?", "el": "Ο στόχος του μήνα είναι «οκτώ νέοι πελάτες». Στις 15 έχεις δύο και νιώθεις αποτυχημένος. Πώς ξαναστήνεις τον στόχο;"},
+      "options": [
+        {"en": "Raise it to twelve so that you push yourself harder", "el": "Τον ανεβάζεις στους δώδεκα για να πιεστείς περισσότερο"},
+        {"en": "Drop goals completely and see what happens", "el": "Κόβεις εντελώς τους στόχους και βλέπεις τι θα γίνει"},
+        {"en": "Make it «forty calls and two follow-ups today», which you control", "el": "Τον κάνεις «σαράντα κλήσεις και δύο follow-up σήμερα», που είναι στο χέρι σου"}
+      ],
+      "answer": 2,
+      "why": {"en": "A NICE goal is near-term, input-based and controllable. You can win it today, and the clients follow from the inputs.", "el": "Ο στόχος NICE είναι κοντινός, αφορά την προσπάθειά σου και τον ελέγχεις. Τον κερδίζεις σήμερα, και οι πελάτες έρχονται από την προσπάθεια."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "You are running the agency, ads, a new app idea, a directory site and video production. You are exhausted and nothing moves. What does the book suggest?", "el": "Τρέχεις την εταιρεία, διαφημίσεις, μια νέα εφαρμογή, έναν κατάλογο και παραγωγή βίντεο. Είσαι εξαντλημένος και τίποτα δεν προχωρά. Τι προτείνει το βιβλίο;"},
+      "options": [
+        {"en": "Wake up two hours earlier to fit everything in", "el": "Να ξυπνάς δύο ώρες νωρίτερα για να τα χωρέσεις όλα"},
+        {"en": "Keep three active projects and park the rest as dreams", "el": "Να κρατήσεις τρία ενεργά project και τα υπόλοιπα να μπουν στα όνειρα"},
+        {"en": "Give each project thirty minutes every day", "el": "Να δίνεις σε κάθε project τριάντα λεπτά την ημέρα"}
+      ],
+      "answer": 1,
+      "why": {"en": "This is overexertion burnout. The cure is fewer active investments, not better scheduling of too many.", "el": "Είναι burnout από υπερπροσπάθεια. Η θεραπεία είναι λιγότερες ενεργές επενδύσεις, όχι καλύτερο πρόγραμμα για πάρα πολλές."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "It is Sunday evening. You are tired, and you have been on the sofa with your phone for two hours but do not feel rested. What now?", "el": "Κυριακή απόγευμα. Είσαι κουρασμένος, κάθεσαι δύο ώρες στον καναπέ με το κινητό και δεν νιώθεις ξεκούραστος. Τι κάνεις τώρα;"},
+      "options": [
+        {"en": "Go out for a walk without the phone, or cook something you like", "el": "Βγαίνεις μια βόλτα χωρίς το κινητό ή μαγειρεύεις κάτι που σου αρέσει"},
+        {"en": "Open the laptop and do some light work to feel useful", "el": "Ανοίγεις το laptop για λίγη ελαφριά δουλειά, να νιώσεις χρήσιμος"},
+        {"en": "Keep scrolling, because your body clearly needs it", "el": "Συνεχίζεις το σκρολάρισμα, αφού προφανώς το έχεις ανάγκη"}
+      ],
+      "answer": 0,
+      "why": {"en": "Scrolling is not rest. Nature and a calm hobby with no goal are what refill your energy.", "el": "Το σκρολάρισμα δεν είναι ξεκούραση. Η φύση και ένα ήρεμο χόμπι χωρίς στόχο είναι αυτά που σε γεμίζουν."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "You spent the whole morning on small things and did none of the important work. It is 14:00. What is the most useful reaction?", "el": "Πέρασες όλο το πρωί με μικροπράγματα και δεν έκανες τίποτα από τα σημαντικά. Είναι 14:00. Ποια αντίδραση σε βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Punish yourself by working until midnight", "el": "Τιμωρείς τον εαυτό σου δουλεύοντας ως τα μεσάνυχτα"},
+        {"en": "Decide the day is lost and start again tomorrow", "el": "Αποφασίζεις ότι η μέρα χάθηκε και ξεκινάς αύριο"},
+        {"en": "Forgive yourself, name one win and pick one task for the next hour", "el": "Συγχωρείς τον εαυτό σου, λες μία νίκη και διαλέγεις μία δουλειά για την επόμενη ώρα"}
+      ],
+      "answer": 2,
+      "why": {"en": "Guilt drains the energy you need to restart. Quick forgiveness plus one small step gets the afternoon back.", "el": "Η ενοχή τρώει την ενέργεια που χρειάζεσαι για να ξαναρχίσεις. Γρήγορη συγχώρεση και ένα μικρό βήμα σώζουν το απόγευμα."},
+      "idea": 10
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "According to the book, positive emotions make you think more widely and creatively.", "el": "Σύμφωνα με το βιβλίο, τα θετικά συναισθήματα σε κάνουν να σκέφτεσαι πιο ανοιχτά και δημιουργικά."},
+      "answer": true,
+      "why": {"en": "That is the broaden part of broaden-and-build: a good mood widens what you notice and consider.", "el": "Αυτό είναι το «ανοίγεις» της θεωρίας: η καλή διάθεση μεγαλώνει αυτά που προσέχεις και σκέφτεσαι."}
+    },
+    {
+      "s": {"en": "Abdaal says discipline and willpower are the best first answer to procrastination.", "el": "Ο Abdaal λέει ότι η πειθαρχία και η θέληση είναι η καλύτερη πρώτη απάντηση στην αναβολή."},
+      "answer": false,
+      "why": {"en": "He says first find the block: lack of clarity, fear or inertia. Then remove it.", "el": "Λέει πρώτα να βρεις το μπλοκάρισμα: ασάφεια, φόβος ή αδράνεια. Και μετά να το βγάλεις από τη μέση."}
+    },
+    {
+      "s": {"en": "A NICE goal is about what you will do today, not about a result months away.", "el": "Ο στόχος NICE αφορά το τι θα κάνεις σήμερα, όχι ένα αποτέλεσμα σε μερικούς μήνες."},
+      "answer": true,
+      "why": {"en": "Near-term and input-based: you can control it and finish it now.", "el": "Κοντινός και βασισμένος στην προσπάθεια: τον ελέγχεις και τον ολοκληρώνεις τώρα."}
+    },
+    {
+      "s": {"en": "You should wait until you feel confident before you try a new skill.", "el": "Πρέπει να περιμένεις να νιώσεις σίγουρος πριν δοκιμάσεις μια νέα δεξιότητα."},
+      "answer": false,
+      "why": {"en": "Confidence comes after competence. You start as a beginner and the confidence grows from practice.", "el": "Η αυτοπεποίθηση έρχεται μετά την ικανότητα. Ξεκινάς ως αρχάριος και η σιγουριά χτίζεται με την εξάσκηση."}
+    },
+    {
+      "s": {"en": "Scrolling social media is a good way to recharge between tasks.", "el": "Το σκρολάρισμα στα social είναι καλός τρόπος να γεμίσεις μπαταρίες ανάμεσα στις δουλειές."},
+      "answer": false,
+      "why": {"en": "It feels like rest but keeps draining attention. Walks, nature and hobbies recharge.", "el": "Μοιάζει με ξεκούραση αλλά συνεχίζει να τρώει προσοχή. Γεμίζεις με περπάτημα, φύση και χόμπι."}
+    },
+    {
+      "s": {"en": "Other people notice your mistakes much less than you imagine.", "el": "Οι άλλοι προσέχουν τα λάθη σου πολύ λιγότερο απ' όσο φαντάζεσαι."},
+      "answer": true,
+      "why": {"en": "This is the spotlight effect. In the T-shirt experiment people guessed double the real number.", "el": "Είναι το φαινόμενο του προβολέα. Στο πείραμα με το μπλουζάκι, οι άνθρωποι υπολόγισαν διπλάσιο αριθμό από τον πραγματικό."}
+    },
+    {
+      "s": {"en": "Feeling guilty about a wasted day helps you work better the next day.", "el": "Οι ενοχές για μια χαμένη μέρα σε βοηθούν να δουλέψεις καλύτερα την επόμενη."},
+      "answer": false,
+      "why": {"en": "Guilt drains energy and leads to more avoidance. Self-forgiveness reduced procrastination in the student study.", "el": "Η ενοχή τρώει ενέργεια και φέρνει κι άλλη αποφυγή. Στην έρευνα με τους φοιτητές, η συγχώρεση μείωσε την αναβολή."}
+    },
+    {
+      "s": {"en": "One kind of burnout comes from working hard on things that do not matter to you.", "el": "Ένα είδος burnout έρχεται όταν δουλεύεις σκληρά για πράγματα που δεν σου λένε τίποτα."},
+      "answer": true,
+      "why": {"en": "Abdaal calls it misalignment burnout. The cure is to connect daily actions with your real values.", "el": "Ο Abdaal το λέει burnout λάθος κατεύθυνσης. Η θεραπεία είναι να δέσεις τις καθημερινές πράξεις με τις πραγματικές σου αξίες."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Broaden and build", "el": "Ανοίγεις και χτίζεις"}, "b": {"en": "Good feelings widen thinking and grow lasting resources", "el": "Η καλή διάθεση ανοίγει τη σκέψη και χτίζει εφόδια"}},
+    {"a": {"en": "NICE goal", "el": "Στόχος NICE"}, "b": {"en": "Near-term, input-based, controllable, energising", "el": "Κοντινός, βασισμένος στην προσπάθεια, ελεγχόμενος, ευχάριστος"}},
+    {"a": {"en": "Radiator", "el": "Καλοριφέρ"}, "b": {"en": "A person who leaves you with more energy", "el": "Άνθρωπος που σε αφήνει με περισσότερη ενέργεια"}},
+    {"a": {"en": "Friction", "el": "Τριβή"}, "b": {"en": "Small obstacles that make an action harder to start", "el": "Μικρά εμπόδια που δυσκολεύουν το ξεκίνημα μιας ενέργειας"}},
+    {"a": {"en": "Odyssey Plan", "el": "Σχέδιο Οδύσσεια"}, "b": {"en": "Three written versions of your next five years", "el": "Τρεις γραπτές εκδοχές της επόμενης πενταετίας σου"}},
+    {"a": {"en": "Spotlight effect", "el": "Φαινόμενο του προβολέα"}, "b": {"en": "Thinking others notice you more than they do", "el": "Νομίζεις ότι σε προσέχουν περισσότερο απ' όσο ισχύει"}}
+  ],
+  "missions": [
+    {"en": "Make a score sheet for tomorrow's calls: one point per call, three per conversation, ten per meeting, and play one session with it.", "el": "Φτιάξε έναν πίνακα σκορ για τα αυριανά τηλεφωνήματα: ένας πόντος ανά κλήση, τρεις ανά κουβέντα, δέκα ανά ραντεβού, και παίξε έναν γύρο."},
+    {"en": "Write your three most important tasks for tomorrow as NICE goals, each with an exact hour in the calendar.", "el": "Γράψε τις τρεις πιο σημαντικές αυριανές δουλειές σου ως στόχους NICE, καθεμία με ακριβή ώρα στο ημερολόγιο."},
+    {"en": "List all your current projects, keep three as active and move the rest to a list called dreams.", "el": "Γράψε όλα τα project που τρέχεις, κράτα τρία ως ενεργά και πέρασε τα υπόλοιπα σε μια λίστα με τίτλο «όνειρα»."},
+    {"en": "Take a fifteen-minute walk outside without your phone in place of one scrolling break.", "el": "Κάνε δεκαπέντε λεπτά περπάτημα έξω χωρίς το κινητό, στη θέση ενός διαλείμματος με σκρολάρισμα."},
+    {"en": "Write five lines about the dinner where you celebrate your best year, twelve months from now: health, work, people.", "el": "Γράψε πέντε γραμμές για το δείπνο όπου γιορτάζεις την καλύτερή σου χρονιά, σε δώδεκα μήνες: υγεία, δουλειά, άνθρωποι."}
+  ],
+  "mantra": {"en": "If it feels good, I will do more of it and do it better.", "el": "Ό,τι με γεμίζει, το κάνω περισσότερο και το κάνω καλύτερα."},
+  "careful": {
+    "en": "The book leans on single psychology experiments, and several of them are small or have been hard to repeat, so read the exact numbers as illustrations, not laws. Abdaal's own story also has survivorship bias: he left medicine with a successful online business behind him. And some necessary work never feels good. Taxes, hard calls and deadlines sometimes need plain discipline, which this book says little about.",
+    "el": "Το βιβλίο στηρίζεται σε μεμονωμένα πειράματα ψυχολογίας, και αρκετά από αυτά είναι μικρά ή δύσκολα επαναλήφθηκαν, άρα δες τα νούμερα σαν παραδείγματα και όχι σαν νόμους. Η ιστορία του Abdaal έχει και μεροληψία επιβίωσης: άφησε την ιατρική έχοντας ήδη μια πετυχημένη διαδικτυακή επιχείρηση. Και κάποιες απαραίτητες δουλειές δεν γίνονται ποτέ ευχάριστες. Η εφορία, τα δύσκολα τηλεφωνήματα και τα deadlines θέλουν καμιά φορά σκέτη πειθαρχία, για την οποία το βιβλίο λέει λίγα."
+  },
+  "connects": [
+    {"book": "no-excuses", "note": {"en": "Brian Tracy says do it whether you feel like it or not, while Abdaal says make it feel good first. You need both tools.", "el": "Ο Brian Tracy λέει κάν' το είτε έχεις όρεξη είτε όχι, ενώ ο Abdaal λέει κάν' το πρώτα ευχάριστο. Χρειάζεσαι και τα δύο εργαλεία."}},
+    {"book": "procrastination-puzzle", "note": {"en": "Pychyl explains why we delay to repair our mood, and Abdaal gives the practical fixes: clarity, courage and an easy start.", "el": "Ο Pychyl εξηγεί γιατί αναβάλλουμε για να φτιάξουμε τη διάθεσή μας, και ο Abdaal δίνει τις πρακτικές λύσεις: σαφήνεια, θάρρος και εύκολο ξεκίνημα."}},
+    {"book": "deep-work", "note": {"en": "Newport protects your focus with strict rules, and Abdaal adds the energy and real rest that make long focus possible.", "el": "Ο Newport προστατεύει τη συγκέντρωσή σου με αυστηρούς κανόνες, και ο Abdaal προσθέτει την ενέργεια και την πραγματική ξεκούραση που την κάνουν εφικτή."}}
+  ]
+}

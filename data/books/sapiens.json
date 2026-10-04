@@ -1,0 +1,558 @@
+{
+  "id": "sapiens",
+  "title": {"en": "Sapiens: A Brief History of Humankind", "el": "Sapiens: Μια σύντομη ιστορία του ανθρώπου"},
+  "author": "Yuval Noah Harari",
+  "authorEl": "Γιουβάλ Νώε Χαράρι",
+  "year": 2011,
+  "shelf": "wisdom",
+  "skills": {"wisdom": 3, "strategy": 2, "persuasion": 2},
+  "oneLine": {
+    "en": "Humans took over the planet because we alone can believe in shared stories, such as gods, nations, money and companies, and so cooperate in huge numbers.",
+    "el": "Ο άνθρωπος κυριάρχησε στον πλανήτη επειδή μόνο εμείς πιστεύουμε σε κοινές ιστορίες, όπως θεοί, έθνη, χρήμα και εταιρείες, κι έτσι συνεργαζόμαστε κατά εκατομμύρια."
+  },
+  "story": {
+    "en": "Yuval Noah Harari is an Israeli historian at the Hebrew University of Jerusalem. The book grew out of his world history course and came out in Hebrew in 2011. It tells the whole story of our species in about four hundred pages, through three revolutions: Cognitive, Agricultural and Scientific. It sold millions of copies because it makes the reader see money, nations and companies as human inventions and ask where we are going.",
+    "el": "Ο Γιουβάλ Νώε Χαράρι είναι Ισραηλινός ιστορικός στο Εβραϊκό Πανεπιστήμιο της Ιερουσαλήμ. Το βιβλίο βγήκε από το μάθημά του για την παγκόσμια ιστορία και κυκλοφόρησε στα εβραϊκά το 2011. Λέει όλη την ιστορία του είδους μας σε περίπου τετρακόσιες σελίδες, μέσα από τρεις επαναστάσεις: τη Γνωσιακή, την Αγροτική και την Επιστημονική. Πούλησε εκατομμύρια αντίτυπα γιατί σε κάνει να δεις το χρήμα, τα έθνη και τις εταιρείες ως ανθρώπινες επινοήσεις και να αναρωτηθείς πού πηγαίνουμε."
+  },
+  "forYou": {
+    "en": "Your whole business runs on things that exist only because people believe in them: a brand, a price, a promise, a contract, trust. Sapiens shows you how such shared stories are built and why they hold. It also gives you the big picture of credit, growth and technology, so you can think about where AI is taking your work and your life.",
+    "el": "Όλη σου η επιχείρηση στηρίζεται σε πράγματα που υπάρχουν μόνο επειδή οι άνθρωποι τα πιστεύουν: ένα brand, μια τιμή, μια υπόσχεση, ένα συμβόλαιο, η εμπιστοσύνη. Το Sapiens σου δείχνει πώς χτίζονται αυτές οι κοινές ιστορίες και γιατί αντέχουν. Σου δίνει και τη μεγάλη εικόνα για την πίστωση, την ανάπτυξη και την τεχνολογία, για να σκεφτείς πού πηγαίνει η τεχνητή νοημοσύνη τη δουλειά και τη ζωή σου."
+  },
+  "ideas": [
+    {
+      "title": {"en": "An animal of no importance", "el": "Ένα ζώο χωρίς καμία σημασία"},
+      "explain": {
+        "en": "Harari starts by making us small. Humans appeared about 2.5 million years ago, and for most of that time they were ordinary animals in the middle of the food chain, with no more impact than gorillas or jellyfish. There were also several human species at the same time, not one. Fire and cooking gave a first advantage. Even 70,000 years ago, Homo sapiens was still an unimportant animal in a corner of Africa.",
+        "el": "Ο Χαράρι ξεκινά μικραίνοντάς μας. Οι άνθρωποι εμφανίστηκαν πριν από περίπου 2,5 εκατομμύρια χρόνια, και τον περισσότερο καιρό ήταν συνηθισμένα ζώα στη μέση της τροφικής αλυσίδας, με επίδραση όχι μεγαλύτερη από των γορίλων ή των μεδουσών. Επιπλέον, υπήρχαν ταυτόχρονα πολλά ανθρώπινα είδη, όχι ένα. Η φωτιά και το μαγείρεμα έδωσαν το πρώτο πλεονέκτημα. Ακόμη και πριν από 70.000 χρόνια, ο Homo sapiens ήταν ένα ασήμαντο ζώο σε μια γωνιά της Αφρικής."
+      },
+      "example": {
+        "en": "While sapiens lived in East Africa, Neanderthals lived in Europe and western Asia, Homo erectus in East Asia, and on the Indonesian island of Flores lived a dwarf human species about one metre tall. All of them were humans, and all except us have disappeared.",
+        "el": "Όσο ο sapiens ζούσε στην Ανατολική Αφρική, οι Νεάντερταλ ζούσαν στην Ευρώπη και στη δυτική Ασία, ο Homo erectus στην Ανατολική Ασία, και στο νησί Φλόρες της Ινδονησίας ζούσε ένα ανθρώπινο είδος-νάνος, ύψους περίπου ενός μέτρου. Όλοι τους ήταν άνθρωποι, και όλοι εκτός από εμάς χάθηκαν."
+      },
+      "apply": {
+        "en": "Remember this when your agency feels small next to bigger competitors. Size today says little about tomorrow. Write down the one advantage you have that they do not, for example speed with AI or your 0€ offer, and put your effort there.",
+        "el": "Θυμήσου το όταν το γραφείο σου μοιάζει μικρό δίπλα σε μεγαλύτερους ανταγωνιστές. Το μέγεθος σήμερα λέει λίγα για το αύριο. Γράψε το ένα πλεονέκτημα που έχεις εσύ και δεν έχουν εκείνοι, για παράδειγμα την ταχύτητα με την τεχνητή νοημοσύνη ή την προσφορά των 0€, και ρίξε εκεί τη δύναμή σου."
+      },
+      "check": {
+        "q": {"en": "What was Homo sapiens like 70,000 years ago, according to Harari?", "el": "Πώς ήταν ο Homo sapiens πριν από 70.000 χρόνια, σύμφωνα με τον Χαράρι;"},
+        "options": [
+          {"en": "Already the ruler of every continent on Earth", "el": "Ήδη κυρίαρχος σε κάθε ήπειρο της Γης"},
+          {"en": "The only human species that had ever existed", "el": "Το μοναδικό ανθρώπινο είδος που υπήρξε ποτέ"},
+          {"en": "An unimportant animal, one of several human species", "el": "Ένα ασήμαντο ζώο, ένα από πολλά ανθρώπινα είδη"}
+        ],
+        "answer": 2,
+        "why": {"en": "We began as a minor animal sharing the planet with other humans; our rule came late and fast.", "el": "Ξεκινήσαμε ως δευτερεύον ζώο που μοιραζόταν τον πλανήτη με άλλους ανθρώπους· η κυριαρχία μας ήρθε αργά και γρήγορα."}
+      }
+    },
+    {
+      "title": {"en": "The Cognitive Revolution", "el": "Η Γνωσιακή Επανάσταση"},
+      "explain": {
+        "en": "Between about 70,000 and 30,000 years ago something changed in how sapiens thought and spoke. Harari's key point is that our language became able to describe things that do not exist physically. A monkey can shout 'Careful, a lion!'. Only a human can say 'The lion is the spirit that protects our tribe'. Language also let us gossip, that is, track who can be trusted in the group. Fiction, he says, is our unique ability.",
+        "el": "Κάπου ανάμεσα στα 70.000 και στα 30.000 χρόνια πριν, κάτι άλλαξε στον τρόπο που σκεφτόταν και μιλούσε ο sapiens. Το βασικό σημείο του Χαράρι είναι ότι η γλώσσα μας έγινε ικανή να περιγράφει πράγματα που δεν υπάρχουν υλικά. Ένας πίθηκος μπορεί να φωνάξει «Προσοχή, λιοντάρι!». Μόνο ο άνθρωπος μπορεί να πει «Το λιοντάρι είναι το πνεύμα που προστατεύει τη φυλή μας». Η γλώσσα μάς επέτρεψε και το κουτσομπολιό, δηλαδή να ξέρουμε ποιον μπορούμε να εμπιστευτούμε στην ομάδα. Η μυθοπλασία, λέει, είναι η μοναδική μας ικανότητα."
+      },
+      "example": {
+        "en": "In the Stadel cave in Germany, archaeologists found an ivory statue more than 30,000 years old: a human body with the head of a lion. No such creature exists. It is one of the earliest proofs that humans could imagine and share something unreal.",
+        "el": "Στο σπήλαιο Στάντελ της Γερμανίας οι αρχαιολόγοι βρήκαν ένα αγαλματίδιο από ελεφαντόδοντο, ηλικίας πάνω από 30.000 χρόνων: ανθρώπινο σώμα με κεφάλι λιονταριού. Τέτοιο πλάσμα δεν υπάρχει. Είναι από τις παλαιότερες αποδείξεις ότι ο άνθρωπος μπορούσε να φανταστεί και να μοιραστεί κάτι μη πραγματικό."
+      },
+      "apply": {
+        "en": "Sell a picture of something that does not exist yet. In a meeting, do not list features. Describe the future: 'A patient searches your name at night, sees your practice and your reviews, and books in the morning.' People buy the story they can see.",
+        "el": "Πούλα την εικόνα ενός πράγματος που δεν υπάρχει ακόμη. Στο ραντεβού μην απαριθμείς χαρακτηριστικά. Περίγραψε το μέλλον: «Ένας ασθενής ψάχνει το όνομά σας το βράδυ, βλέπει το ιατρείο και τις κριτικές σας, και το πρωί κλείνει ραντεβού». Ο άνθρωπος αγοράζει την ιστορία που μπορεί να δει."
+      },
+      "check": {
+        "q": {"en": "What is unique in human language, in Harari's view?", "el": "Τι είναι μοναδικό στην ανθρώπινη γλώσσα, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "It can speak about things that do not physically exist", "el": "Μπορεί να μιλά για πράγματα που δεν υπάρχουν υλικά"},
+          {"en": "It is the only one that can warn about danger", "el": "Είναι η μόνη που μπορεί να προειδοποιεί για κίνδυνο"},
+          {"en": "It has more sounds than any animal's calls", "el": "Έχει περισσότερους ήχους από τις φωνές κάθε ζώου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Many animals warn each other; only humans talk about gods, nations and plans that no one has ever seen.", "el": "Πολλά ζώα προειδοποιούν το ένα το άλλο· μόνο οι άνθρωποι μιλούν για θεούς, έθνη και σχέδια που κανείς δεν είδε ποτέ."}
+      }
+    },
+    {
+      "title": {"en": "Shared myths, mass cooperation", "el": "Κοινοί μύθοι, μαζική συνεργασία"},
+      "explain": {
+        "en": "A group held together only by personal acquaintance stops working above roughly 150 members. Sapiens broke this limit with common myths. Two strangers who believe in the same god, nation, law or company can work together without knowing each other. And because stories can change quickly, our cooperation is flexible: we can change how we live in a few years, without waiting for our genes. This is how sapiens came to rule the world.",
+        "el": "Μια ομάδα που τη δένει μόνο η προσωπική γνωριμία παύει να λειτουργεί πάνω από περίπου 150 μέλη. Ο sapiens έσπασε αυτό το όριο με τους κοινούς μύθους. Δύο άγνωστοι που πιστεύουν στον ίδιο θεό, στο ίδιο έθνος, στον ίδιο νόμο ή στην ίδια εταιρεία μπορούν να συνεργαστούν χωρίς να γνωρίζονται. Και επειδή οι ιστορίες αλλάζουν γρήγορα, η συνεργασία μας είναι ευέλικτη: αλλάζουμε τρόπο ζωής μέσα σε λίγα χρόνια, χωρίς να περιμένουμε τα γονίδιά μας. Έτσι ο sapiens κατέληξε να κυβερνά τον κόσμο."
+      },
+      "example": {
+        "en": "Harari's example is Peugeot. The company is not its cars, its factories or its employees: all of those could be replaced and Peugeot would still exist. It is a legal fiction, a 'limited liability company', which exists because lawyers, judges and customers all agree that it does.",
+        "el": "Το παράδειγμα του Χαράρι είναι η Peugeot. Η εταιρεία δεν είναι τα αυτοκίνητά της, τα εργοστάσιά της ή οι εργαζόμενοί της: όλα αυτά θα μπορούσαν να αλλάξουν και η Peugeot θα υπήρχε ακόμη. Είναι ένα νομικό πλάσμα, μια «εταιρεία περιορισμένης ευθύνης», που υπάρχει επειδή δικηγόροι, δικαστές και πελάτες συμφωνούν ότι υπάρχει."
+      },
+      "apply": {
+        "en": "Write the story of your agency in three sentences: who you serve, what you believe, and where you are going. Repeat it to your team, in your ads and on calls. A clear common story lets people who never met you trust you and work with you.",
+        "el": "Γράψε την ιστορία του γραφείου σου σε τρεις προτάσεις: ποιους εξυπηρετείς, τι πιστεύεις και πού πηγαίνεις. Επανάλαβέ τη στην ομάδα σου, στις διαφημίσεις και στα τηλεφωνήματα. Μια καθαρή κοινή ιστορία κάνει ανθρώπους που δεν σε γνώρισαν ποτέ να σε εμπιστευτούν και να δουλέψουν μαζί σου."
+      },
+      "check": {
+        "q": {"en": "How do millions of strangers manage to cooperate?", "el": "Πώς καταφέρνουν να συνεργάζονται εκατομμύρια άγνωστοι;"},
+        "options": [
+          {"en": "They all know each other through friends of friends", "el": "Γνωρίζονται όλοι μεταξύ τους μέσω φίλων φίλων"},
+          {"en": "They believe in the same shared stories", "el": "Πιστεύουν στις ίδιες κοινές ιστορίες"},
+          {"en": "Their genes changed to make them more social", "el": "Τα γονίδιά τους άλλαξαν και τους έκαναν πιο κοινωνικούς"}
+        ],
+        "answer": 1,
+        "why": {"en": "Above about 150 people, personal ties are not enough; common beliefs do the job.", "el": "Πάνω από περίπου 150 ανθρώπους οι προσωπικοί δεσμοί δεν φτάνουν· τη δουλειά την κάνουν οι κοινές πεποιθήσεις."}
+      }
+    },
+    {
+      "title": {"en": "The deadliest species", "el": "Το πιο φονικό είδος"},
+      "explain": {
+        "en": "With its new power to cooperate, sapiens left Africa and spread everywhere. Wherever we arrived, others disappeared. The other human species vanished, the Neanderthals about 30,000 years ago, either pushed out, killed, or partly absorbed. The large animals of each new land died out soon after our arrival. Harari calls us an ecological serial killer, and stresses that this happened long before factories: hunter-gatherers with simple tools had already changed the planet.",
+        "el": "Με τη νέα του δύναμη να συνεργάζεται, ο sapiens βγήκε από την Αφρική και απλώθηκε παντού. Όπου φτάναμε, οι άλλοι χάνονταν. Τα άλλα ανθρώπινα είδη εξαφανίστηκαν, οι Νεάντερταλ πριν από περίπου 30.000 χρόνια, είτε επειδή εκτοπίστηκαν, είτε επειδή σκοτώθηκαν, είτε επειδή εν μέρει αναμείχθηκαν μαζί μας. Τα μεγάλα ζώα κάθε νέου τόπου χάθηκαν λίγο μετά την άφιξή μας. Ο Χαράρι μάς ονομάζει οικολογικό κατά συρροή δολοφόνο και τονίζει ότι αυτό έγινε πολύ πριν από τα εργοστάσια: κυνηγοί-τροφοσυλλέκτες με απλά εργαλεία είχαν ήδη αλλάξει τον πλανήτη."
+      },
+      "example": {
+        "en": "Humans reached Australia about 45,000 years ago. Within a few thousand years, 23 of the 24 Australian animal species weighing fifty kilos or more were gone, among them giant kangaroos and a marsupial lion. The same pattern repeated later in the Americas.",
+        "el": "Οι άνθρωποι έφτασαν στην Αυστραλία πριν από περίπου 45.000 χρόνια. Μέσα σε λίγες χιλιάδες χρόνια χάθηκαν τα 23 από τα 24 είδη ζώων της Αυστραλίας που ζύγιζαν πενήντα κιλά και πάνω, ανάμεσά τους γιγάντια καγκουρό και ένα μαρσιποφόρο λιοντάρι. Το ίδιο μοτίβο επαναλήφθηκε αργότερα στην Αμερική."
+      },
+      "apply": {
+        "en": "Check the side effects of your own growth before they pile up. When you add a new service or more clients, ask what it will quietly destroy: quality, the time of your team, your attention. List the three most likely damages and decide in advance how you will prevent each.",
+        "el": "Έλεγξε τις παρενέργειες της δικής σου ανάπτυξης πριν μαζευτούν. Όταν προσθέτεις νέα υπηρεσία ή περισσότερους πελάτες, ρώτα τι θα καταστρέψει αθόρυβα: την ποιότητα, τον χρόνο της ομάδας, την προσοχή σου. Γράψε τις τρεις πιο πιθανές ζημιές και αποφάσισε από πριν πώς θα προλάβεις την καθεμία."
+      },
+      "check": {
+        "q": {"en": "What does the Australian example show?", "el": "Τι δείχνει το παράδειγμα της Αυστραλίας;"},
+        "options": [
+          {"en": "That large animals cannot survive in hot climates", "el": "Ότι τα μεγάλα ζώα δεν επιβιώνουν σε ζεστά κλίματα"},
+          {"en": "That only modern industry can destroy nature", "el": "Ότι μόνο η σύγχρονη βιομηχανία μπορεί να καταστρέψει τη φύση"},
+          {"en": "That early humans already caused mass extinctions", "el": "Ότι ήδη οι πρώτοι άνθρωποι προκάλεσαν μαζικές εξαφανίσεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "The big animals vanished soon after people arrived, tens of thousands of years before any machine.", "el": "Τα μεγάλα ζώα χάθηκαν λίγο μετά την άφιξη των ανθρώπων, δεκάδες χιλιάδες χρόνια πριν από κάθε μηχανή."}
+      }
+    },
+    {
+      "title": {"en": "The agricultural trap", "el": "Η παγίδα της γεωργίας"},
+      "explain": {
+        "en": "About 12,000 years ago people began to farm. We call it progress. Harari calls it history's biggest fraud. Farming fed many more people, but the average farmer worked harder than a forager, ate a poorer diet, and suffered more from disease and hunger when a crop failed. Surplus food created kings, priests and hierarchy. It was a luxury trap: each small improvement seemed good, the population grew, and then nobody could go back.",
+        "el": "Πριν από περίπου 12.000 χρόνια οι άνθρωποι άρχισαν να καλλιεργούν. Εμείς το λέμε πρόοδο. Ο Χαράρι το λέει τη μεγαλύτερη απάτη της ιστορίας. Η γεωργία έθρεψε πολύ περισσότερους ανθρώπους, αλλά ο μέσος αγρότης δούλευε σκληρότερα από τον τροφοσυλλέκτη, έτρωγε φτωχότερα και υπέφερε περισσότερο από αρρώστιες και από πείνα όταν χανόταν η σοδειά. Το πλεόνασμα τροφής γέννησε βασιλιάδες, ιερείς και ιεραρχία. Ήταν μια παγίδα της πολυτέλειας: κάθε μικρή βελτίωση έμοιαζε καλή, ο πληθυσμός μεγάλωνε, και μετά κανείς δεν μπορούσε να γυρίσει πίσω."
+      },
+      "example": {
+        "en": "Wheat was a wild grass in a small part of the Middle East. Today it covers a huge area of the planet. To make this happen, humans cleared stones, carried water, pulled weeds and settled next to their fields. Harari says wheat domesticated us, not the other way round.",
+        "el": "Το σιτάρι ήταν ένα άγριο χορτάρι σε μια μικρή περιοχή της Μέσης Ανατολής. Σήμερα καλύπτει τεράστια έκταση του πλανήτη. Για να γίνει αυτό, οι άνθρωποι καθάρισαν πέτρες, κουβάλησαν νερό, ξερίζωσαν ζιζάνια και εγκαταστάθηκαν δίπλα στα χωράφια τους. Ο Χαράρι λέει ότι το σιτάρι εξημέρωσε εμάς, όχι το αντίστροφο."
+      },
+      "apply": {
+        "en": "Ask of every 'improvement' whether it serves you or you serve it. A new tool, a new channel, a bigger client list: each one adds work forever. Before you say yes, write what daily effort it will demand in a year, and whether your life gets better.",
+        "el": "Ρώτα για κάθε «βελτίωση» αν σε υπηρετεί ή αν την υπηρετείς εσύ. Ένα νέο εργαλείο, ένα νέο κανάλι, μια μεγαλύτερη λίστα πελατών: το καθένα προσθέτει δουλειά για πάντα. Πριν πεις ναι, γράψε τι καθημερινό κόπο θα ζητά σε έναν χρόνο, και αν η ζωή σου θα γίνει καλύτερη."
+      },
+      "check": {
+        "q": {"en": "Why does Harari call farming a fraud?", "el": "Γιατί ο Χαράρι ονομάζει τη γεωργία απάτη;"},
+        "options": [
+          {"en": "More people could live, but each one lived worse", "el": "Μπορούσαν να ζήσουν περισσότεροι, αλλά ο καθένας ζούσε χειρότερα"},
+          {"en": "It produced less food in total than hunting did", "el": "Έβγαζε συνολικά λιγότερη τροφή από το κυνήγι"},
+          {"en": "It was invented by kings to control the people", "el": "Την επινόησαν οι βασιλιάδες για να ελέγχουν τον λαό"}
+        ],
+        "answer": 0,
+        "why": {"en": "It was a success for the species in numbers and a loss for the individual in quality of life.", "el": "Ήταν επιτυχία για το είδος σε αριθμούς και απώλεια για το άτομο σε ποιότητα ζωής."}
+      }
+    },
+    {
+      "title": {"en": "Imagined orders", "el": "Φαντασιακές τάξεις"},
+      "explain": {
+        "en": "Large societies need rules that everyone accepts. Harari calls them imagined orders. They are not objective, like gravity, and not subjective, like one person's taste. They are inter-subjective: they exist in the shared belief of many people, like laws, religions, money and human rights. They feel natural because we are born into them and they are built into buildings, habits and desires. They also create hierarchies of class, race and gender, which every society presents as natural.",
+        "el": "Οι μεγάλες κοινωνίες χρειάζονται κανόνες που τους δέχονται όλοι. Ο Χαράρι τους ονομάζει φαντασιακές τάξεις. Δεν είναι αντικειμενικές, όπως η βαρύτητα, ούτε υποκειμενικές, όπως το γούστο ενός ανθρώπου. Είναι διυποκειμενικές: υπάρχουν μέσα στην κοινή πίστη πολλών ανθρώπων, όπως οι νόμοι, οι θρησκείες, το χρήμα και τα ανθρώπινα δικαιώματα. Μας φαίνονται φυσικές επειδή γεννιόμαστε μέσα τους και είναι χτισμένες στα κτίρια, στις συνήθειες και στις επιθυμίες μας. Γεννούν και ιεραρχίες τάξης, φυλής και φύλου, που κάθε κοινωνία τις παρουσιάζει ως φυσικές."
+      },
+      "example": {
+        "en": "Harari puts two texts side by side. The Code of Hammurabi, around 1776 BC, says people are divided by the gods into superiors, commoners and slaves. The American Declaration of Independence of 1776 says all men are created equal. Both, he argues, are imagined orders, not facts of biology.",
+        "el": "Ο Χαράρι βάζει δίπλα δίπλα δύο κείμενα. Ο Κώδικας του Χαμουραμπί, γύρω στο 1776 π.Χ., λέει ότι οι θεοί χώρισαν τους ανθρώπους σε ανώτερους, κοινούς και δούλους. Η Διακήρυξη της Αμερικανικής Ανεξαρτησίας του 1776 λέει ότι όλοι οι άνθρωποι πλάστηκαν ίσοι. Και τα δύο, υποστηρίζει, είναι φαντασιακές τάξεις, όχι βιολογικά δεδομένα."
+      },
+      "apply": {
+        "en": "Spot one 'rule' in your market that is only a shared belief, for example that a website must cost thousands up front. Your 0€ build already breaks it. Say it openly in ads and calls: 'Everyone thinks it has to be this way. It does not.'",
+        "el": "Εντόπισε έναν «κανόνα» της αγοράς σου που είναι απλώς κοινή πεποίθηση, για παράδειγμα ότι μια ιστοσελίδα πρέπει να κοστίζει χιλιάδες προκαταβολικά. Η κατασκευή με 0€ τον σπάει ήδη. Πες το ανοιχτά στις διαφημίσεις και στα τηλεφωνήματα: «Όλοι νομίζουν ότι έτσι πρέπει να γίνεται. Δεν ισχύει»."
+      },
+      "check": {
+        "q": {"en": "What does 'inter-subjective' mean?", "el": "Τι σημαίνει «διυποκειμενικό»;"},
+        "options": [
+          {"en": "It exists in nature whether people believe it or not", "el": "Υπάρχει στη φύση είτε το πιστεύουν οι άνθρωποι είτε όχι"},
+          {"en": "It exists because many people believe it together", "el": "Υπάρχει επειδή το πιστεύουν πολλοί άνθρωποι μαζί"},
+          {"en": "It exists only in the mind of one single person", "el": "Υπάρχει μόνο στο μυαλό ενός και μόνο ανθρώπου"}
+        ],
+        "answer": 1,
+        "why": {"en": "If one person stops believing in money or law, nothing changes; if everyone stops, it disappears.", "el": "Αν ένας πάψει να πιστεύει στο χρήμα ή στον νόμο, δεν αλλάζει τίποτα· αν πάψουν όλοι, εξαφανίζεται."}
+      }
+    },
+    {
+      "title": {"en": "Writing: memory outside the brain", "el": "Γραφή: μνήμη έξω από το μυαλό"},
+      "explain": {
+        "en": "A kingdom has to remember more than any brain can hold: who owns which field, who paid tax, who owes what. Around 3500 to 3000 BC the Sumerians solved this with writing. It began as bookkeeping, not as poetry. Later came numerals and the language of mathematics. Harari's point: big cooperation needs a system that stores and processes data outside our heads, and that system changed how humans think, toward files, categories and numbers.",
+        "el": "Ένα βασίλειο πρέπει να θυμάται περισσότερα απ' όσα χωρά οποιοδήποτε μυαλό: ποιος έχει ποιο χωράφι, ποιος πλήρωσε φόρο, ποιος χρωστά τι. Γύρω στο 3500 με 3000 π.Χ. οι Σουμέριοι το έλυσαν με τη γραφή. Ξεκίνησε ως λογιστική, όχι ως ποίηση. Αργότερα ήρθαν τα ψηφία και η γλώσσα των μαθηματικών. Το σημείο του Χαράρι: η μεγάλη συνεργασία θέλει ένα σύστημα που αποθηκεύει και επεξεργάζεται δεδομένα έξω από το κεφάλι μας, και αυτό το σύστημα άλλαξε τον τρόπο που σκέφτεται ο άνθρωπος, προς αρχεία, κατηγορίες και αριθμούς."
+      },
+      "example": {
+        "en": "One of the oldest written texts we have is a clay tablet from the city of Uruk. It records a quantity of barley received over 37 months and is signed 'Kushim'. The first name in history may belong to an accountant, not to a king or a prophet.",
+        "el": "Ένα από τα παλαιότερα γραπτά κείμενα που έχουμε είναι μια πήλινη πινακίδα από την πόλη Ουρούκ. Καταγράφει μια ποσότητα κριθαριού που παραλήφθηκε μέσα σε 37 μήνες και έχει την υπογραφή «Κουσίμ». Το πρώτο όνομα της ιστορίας ίσως ανήκει σε έναν λογιστή, όχι σε βασιλιά ή προφήτη."
+      },
+      "apply": {
+        "en": "Move everything important out of your head and into one system: leads, client stages, renewals, promises you made. With hundreds of sites, memory fails. Spend fifteen minutes today writing down the things only you remember, so the business does not depend on your brain.",
+        "el": "Βγάλε καθετί σημαντικό από το κεφάλι σου και βάλ' το σε ένα σύστημα: leads, στάδια πελατών, ανανεώσεις, υποσχέσεις που έδωσες. Με εκατοντάδες ιστοσελίδες, η μνήμη δεν φτάνει. Αφιέρωσε σήμερα δεκαπέντε λεπτά για να γράψεις όσα θυμάσαι μόνο εσύ, ώστε η επιχείρηση να μην εξαρτάται από το μυαλό σου."
+      },
+      "check": {
+        "q": {"en": "Why was writing first invented, according to the book?", "el": "Γιατί επινοήθηκε αρχικά η γραφή, σύμφωνα με το βιβλίο;"},
+        "options": [
+          {"en": "To record taxes, debts and property", "el": "Για να καταγράφει φόρους, χρέη και περιουσίες"},
+          {"en": "To write down poems and myths of the gods", "el": "Για να καταγράφει ποιήματα και μύθους των θεών"},
+          {"en": "To send love letters between distant cities", "el": "Για να στέλνονται ερωτικά γράμματα ανάμεσα σε μακρινές πόλεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "The earliest tablets are accounts: large societies needed a memory bigger than any brain.", "el": "Οι παλαιότερες πινακίδες είναι λογαριασμοί: οι μεγάλες κοινωνίες χρειάζονταν μνήμη μεγαλύτερη από κάθε μυαλό."}
+      }
+    },
+    {
+      "title": {"en": "History moves toward unity", "el": "Η ιστορία πηγαίνει προς την ενότητα"},
+      "explain": {
+        "en": "Seen from close up, history looks like chaos. Seen from far, Harari says it has a direction: many small separate worlds slowly merge into fewer and bigger ones. Today almost all humans share one political system of states, one economy, one science. Three forces pushed this, because each can treat all humans as potential members and not as 'us' against 'them': money, empires, and universal religions. He does not say this unity was planned or is good.",
+        "el": "Από κοντά, η ιστορία μοιάζει με χάος. Από μακριά, λέει ο Χαράρι, έχει κατεύθυνση: πολλοί μικροί, χωριστοί κόσμοι ενώνονται σιγά σιγά σε λιγότερους και μεγαλύτερους. Σήμερα σχεδόν όλοι οι άνθρωποι μοιράζονται ένα πολιτικό σύστημα κρατών, μία οικονομία, μία επιστήμη. Τρεις δυνάμεις το έσπρωξαν, επειδή καθεμία μπορεί να δει όλους τους ανθρώπους ως πιθανά μέλη της και όχι ως «εμείς» εναντίον «αυτών»: το χρήμα, οι αυτοκρατορίες και οι οικουμενικές θρησκείες. Δεν λέει ότι αυτή η ενότητα σχεδιάστηκε ή ότι είναι καλή."
+      },
+      "example": {
+        "en": "There are no pure local cultures. Tomatoes, the heart of Italian cooking, and the chilli peppers of Indian food both came from Mexico after 1492. The horses of the Plains Indians in North America came with the Europeans. What we call tradition is already a global mix.",
+        "el": "Καθαροί τοπικοί πολιτισμοί δεν υπάρχουν. Η ντομάτα, η καρδιά της ιταλικής κουζίνας, και οι καυτερές πιπεριές της ινδικής ήρθαν και οι δύο από το Μεξικό μετά το 1492. Τα άλογα των Ινδιάνων στις πεδιάδες της Βόρειας Αμερικής ήρθαν με τους Ευρωπαίους. Αυτό που λέμε παράδοση είναι ήδη ένα παγκόσμιο μείγμα."
+      },
+      "apply": {
+        "en": "Look at what works in bigger markets and bring it home early. Spend twenty minutes a week studying how agencies abroad sell, price and advertise. What is normal in the United States today usually reaches Greek professionals a few years later, and you can be first.",
+        "el": "Κοίτα τι δουλεύει στις μεγαλύτερες αγορές και φέρ' το νωρίς εδώ. Αφιέρωσε είκοσι λεπτά την εβδομάδα για να δεις πώς πουλάνε, τιμολογούν και διαφημίζονται τα γραφεία στο εξωτερικό. Ό,τι είναι σήμερα συνηθισμένο στην Αμερική φτάνει συνήθως στους Έλληνες επαγγελματίες λίγα χρόνια αργότερα, και μπορείς να είσαι ο πρώτος."
+      },
+      "check": {
+        "q": {"en": "Which three forces unified humankind, in Harari's account?", "el": "Ποιες τρεις δυνάμεις ένωσαν την ανθρωπότητα, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "Language, art and sport", "el": "Η γλώσσα, η τέχνη και ο αθλητισμός"},
+          {"en": "Farming, writing and the family", "el": "Η γεωργία, η γραφή και η οικογένεια"},
+          {"en": "Money, empires and universal religions", "el": "Το χρήμα, οι αυτοκρατορίες και οι οικουμενικές θρησκείες"}
+        ],
+        "answer": 2,
+        "why": {"en": "Each of the three can include every human being, so each pulled separate peoples into one world.", "el": "Καθεμία από τις τρεις μπορεί να χωρέσει κάθε άνθρωπο, γι' αυτό τράβηξε χωριστούς λαούς σε έναν κόσμο."}
+      }
+    },
+    {
+      "title": {"en": "Money, the greatest conqueror", "el": "Το χρήμα, ο μεγαλύτερος κατακτητής"},
+      "explain": {
+        "en": "Barter does not scale, because each side must want exactly what the other offers. Money solves this. It is not coins or paper. It is a system of mutual trust: I accept it because I trust that you and everyone else will accept it too. Harari calls it the most universal trust system ever invented. People who share no god, king or language still believe in the same money. Its dark side: it can replace warmer values such as loyalty and honour.",
+        "el": "Η ανταλλαγή σε είδος δεν απλώνεται, γιατί κάθε πλευρά πρέπει να θέλει ακριβώς αυτό που προσφέρει η άλλη. Το χρήμα το λύνει. Δεν είναι τα κέρματα ή το χαρτί. Είναι ένα σύστημα αμοιβαίας εμπιστοσύνης: το δέχομαι επειδή εμπιστεύομαι ότι θα το δεχτείς κι εσύ και όλοι οι άλλοι. Ο Χαράρι το ονομάζει το πιο οικουμενικό σύστημα εμπιστοσύνης που επινοήθηκε ποτέ. Άνθρωποι που δεν έχουν κοινό θεό, βασιλιά ή γλώσσα πιστεύουν παρ' όλα αυτά στο ίδιο χρήμα. Η σκοτεινή του πλευρά: μπορεί να πάρει τη θέση πιο ζεστών αξιών, όπως η πίστη και η τιμή."
+      },
+      "example": {
+        "en": "For about four thousand years cowry shells worked as money across Africa, South Asia and East Asia. Today most money is not even a physical thing: Harari notes that more than ninety per cent of it exists only as numbers on computer servers.",
+        "el": "Επί τέσσερις περίπου χιλιάδες χρόνια τα κοχύλια κάουρι λειτουργούσαν ως χρήμα σε Αφρική, Νότια και Ανατολική Ασία. Σήμερα το περισσότερο χρήμα δεν είναι καν υλικό πράγμα: ο Χαράρι σημειώνει ότι πάνω από το ενενήντα τοις εκατό υπάρχει μόνο ως αριθμοί σε διακομιστές υπολογιστών."
+      },
+      "apply": {
+        "en": "Build trust before you ask for money, because a sale is an exchange of trust. On the call, give proof first: real sites of colleagues, real Google reviews, a clear written offer. Make the first payment small and safe, so trusting you costs him little.",
+        "el": "Χτίσε εμπιστοσύνη πριν ζητήσεις χρήματα, γιατί η πώληση είναι ανταλλαγή εμπιστοσύνης. Στο τηλεφώνημα δώσε πρώτα αποδείξεις: πραγματικές ιστοσελίδες συναδέλφων, πραγματικές κριτικές Google, μια καθαρή γραπτή προσφορά. Κάνε την πρώτη πληρωμή μικρή και ασφαλή, ώστε να του κοστίζει λίγο να σε εμπιστευτεί."
+      },
+      "check": {
+        "q": {"en": "What is money, at its core, according to Harari?", "el": "Τι είναι στην ουσία του το χρήμα, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "A metal that has real value by its nature", "el": "Ένα μέταλλο που έχει πραγματική αξία από τη φύση του"},
+          {"en": "A shared trust that others will accept it too", "el": "Μια κοινή εμπιστοσύνη ότι θα το δεχτούν και οι άλλοι"},
+          {"en": "A tool the state uses mainly to collect taxes", "el": "Ένα εργαλείο του κράτους κυρίως για να μαζεύει φόρους"}
+        ],
+        "answer": 1,
+        "why": {"en": "Shells, coins and digits have worked equally well; what they share is the belief of the people who use them.", "el": "Κοχύλια, κέρματα και ψηφία δούλεψαν εξίσου καλά· το κοινό τους είναι η πίστη όσων τα χρησιμοποιούν."}
+      }
+    },
+    {
+      "title": {"en": "Empires and religions", "el": "Αυτοκρατορίες και θρησκείες"},
+      "explain": {
+        "en": "For 2,500 years the empire was the most common form of government. Empires conquered with violence, but they also mixed peoples and left behind common languages, laws and customs. Most cultures today are heirs of some empire. Universal, missionary religions did the same for belief, moving from many local gods to one truth meant for everyone. Harari also treats modern ideologies such as liberalism, communism and nationalism as religions, since they too are systems of shared belief.",
+        "el": "Επί 2.500 χρόνια η αυτοκρατορία ήταν η πιο συνηθισμένη μορφή διακυβέρνησης. Οι αυτοκρατορίες κατακτούσαν με βία, αλλά και ανακάτευαν λαούς και άφηναν πίσω τους κοινές γλώσσες, νόμους και έθιμα. Οι περισσότεροι πολιτισμοί σήμερα είναι κληρονόμοι κάποιας αυτοκρατορίας. Οι οικουμενικές, ιεραποστολικές θρησκείες έκαναν το ίδιο για την πίστη, περνώντας από πολλούς τοπικούς θεούς σε μία αλήθεια για όλους. Ο Χαράρι βλέπει ως θρησκείες και τις σύγχρονες ιδεολογίες, όπως ο φιλελευθερισμός, ο κομμουνισμός και ο εθνικισμός, αφού κι αυτές είναι συστήματα κοινής πίστης."
+      },
+      "example": {
+        "en": "In 134 BC the small Celtic town of Numantia in Spain resisted Rome until the Roman general Scipio destroyed it. Spaniards today honour Numantia as a symbol of freedom. Yet they tell its story in Spanish, a language that comes from the Latin of the conquerors.",
+        "el": "Το 134 π.Χ. η μικρή κελτική πόλη Νουμαντία στην Ισπανία αντιστάθηκε στη Ρώμη, ώσπου την κατέστρεψε ο Ρωμαίος στρατηγός Σκιπίωνας. Οι Ισπανοί σήμερα τιμούν τη Νουμαντία ως σύμβολο ελευθερίας. Όμως λένε την ιστορία της στα ισπανικά, μια γλώσσα που προέρχεται από τα λατινικά των κατακτητών."
+      },
+      "apply": {
+        "en": "Set one shared way of working that every new person and every new client enters: the same steps, the same words, the same standards. Write the five steps of a project on one page. A common 'language' lets you grow without losing control.",
+        "el": "Όρισε έναν κοινό τρόπο δουλειάς στον οποίο μπαίνει κάθε νέος συνεργάτης και κάθε νέος πελάτης: τα ίδια βήματα, οι ίδιες λέξεις, τα ίδια πρότυπα. Γράψε τα πέντε βήματα ενός έργου σε μία σελίδα. Μια κοινή «γλώσσα» σε αφήνει να μεγαλώσεις χωρίς να χάσεις τον έλεγχο."
+      },
+      "check": {
+        "q": {"en": "What does the story of Numantia show?", "el": "Τι δείχνει η ιστορία της Νουμαντίας;"},
+        "options": [
+          {"en": "That the conquered usually end up inside the empire's culture", "el": "Ότι οι κατακτημένοι συνήθως καταλήγουν μέσα στον πολιτισμό της αυτοκρατορίας"},
+          {"en": "That small towns always defeat large empires in time", "el": "Ότι οι μικρές πόλεις πάντα νικούν με τον καιρό τις μεγάλες αυτοκρατορίες"},
+          {"en": "That empires leave nothing behind when they fall", "el": "Ότι οι αυτοκρατορίες δεν αφήνουν τίποτα πίσω τους όταν πέφτουν"}
+        ],
+        "answer": 0,
+        "why": {"en": "Even the heroes of resistance are remembered in the language and culture the empire left behind.", "el": "Ακόμη και τους ήρωες της αντίστασης τους θυμούνται στη γλώσσα και στον πολιτισμό που άφησε η αυτοκρατορία."}
+      }
+    },
+    {
+      "title": {"en": "The discovery of ignorance", "el": "Η ανακάλυψη της άγνοιας"},
+      "explain": {
+        "en": "Around 1500 a new attitude appeared in Europe. Older traditions said that everything important was already known and written in the holy books. Modern science begins with 'we do not know'. It then observes, measures with mathematics, and turns new knowledge into new power. But research is expensive. So science made an alliance with empire and with capital: rulers and investors paid for it because discoveries brought land, weapons and profit, which paid for more research.",
+        "el": "Γύρω στο 1500 εμφανίστηκε στην Ευρώπη μια νέα στάση. Οι παλαιότερες παραδόσεις έλεγαν ότι καθετί σημαντικό ήταν ήδη γνωστό και γραμμένο στα ιερά βιβλία. Η σύγχρονη επιστήμη ξεκινά με το «δεν ξέρουμε». Μετά παρατηρεί, μετρά με μαθηματικά και μετατρέπει τη νέα γνώση σε νέα δύναμη. Η έρευνα όμως κοστίζει. Έτσι η επιστήμη συμμάχησε με την αυτοκρατορία και με το κεφάλαιο: ηγεμόνες και επενδυτές την πλήρωναν, γιατί οι ανακαλύψεις έφερναν γη, όπλα και κέρδος, που πλήρωναν κι άλλη έρευνα."
+      },
+      "example": {
+        "en": "In 1768 the British ship Endeavour under James Cook sailed to Tahiti so that astronomers could observe the transit of Venus. It also carried botanists and navy orders. The same voyage that measured the sky claimed Australia for Britain. Science and conquest travelled on one ship.",
+        "el": "Το 1768 το βρετανικό πλοίο Endeavour με καπετάνιο τον Τζέιμς Κουκ έπλευσε στην Ταϊτή, για να παρατηρήσουν οι αστρονόμοι τη διάβαση της Αφροδίτης. Μετέφερε επίσης βοτανολόγους και εντολές του ναυτικού. Το ίδιο ταξίδι που μέτρησε τον ουρανό διεκδίκησε την Αυστραλία για τη Βρετανία. Επιστήμη και κατάκτηση ταξίδεψαν στο ίδιο πλοίο."
+      },
+      "apply": {
+        "en": "Say 'I do not know yet, let us test it' about your ads, scripts and prices. Run one small experiment each week: two versions of an opening line, twenty calls each. Count the results and keep the winner. Measured ignorance beats confident guessing.",
+        "el": "Πες «δεν ξέρω ακόμη, ας το δοκιμάσουμε» για τις διαφημίσεις, τα σενάρια κλήσεων και τις τιμές σου. Κάνε ένα μικρό πείραμα κάθε εβδομάδα: δύο εκδοχές της πρώτης φράσης, είκοσι κλήσεις η καθεμία. Μέτρησε το αποτέλεσμα και κράτα τη νικήτρια. Η άγνοια που μετριέται νικά τη σίγουρη εικασία."
+      },
+      "check": {
+        "q": {"en": "What made modern science different from older traditions of knowledge?", "el": "Τι έκανε τη σύγχρονη επιστήμη διαφορετική από τις παλαιότερες παραδόσεις γνώσης;"},
+        "options": [
+          {"en": "It trusted the old sacred books more than before", "el": "Εμπιστεύτηκε τα παλιά ιερά βιβλία περισσότερο από πριν"},
+          {"en": "It was done only by rich men with free time", "el": "Την έκαναν μόνο πλούσιοι άνθρωποι με ελεύθερο χρόνο"},
+          {"en": "It admitted ignorance and looked for new knowledge", "el": "Παραδέχτηκε την άγνοια και αναζήτησε νέα γνώση"}
+        ],
+        "answer": 2,
+        "why": {"en": "The willingness to say 'we do not know' opened the door to observation, experiment and new power.", "el": "Η προθυμία να πούμε «δεν ξέρουμε» άνοιξε τον δρόμο στην παρατήρηση, στο πείραμα και σε νέα δύναμη."}
+      }
+    },
+    {
+      "title": {"en": "Capitalism: belief in growth", "el": "Καπιταλισμός: πίστη στην ανάπτυξη"},
+      "explain": {
+        "en": "For most of history people assumed that total wealth was fixed: if I gain, you lose. So lending was rare and costly. Science brought the idea of progress, and with it the belief that tomorrow's pie will be bigger. That belief makes credit possible: money lent today against future income. Profits are reinvested, production grows, trust in the future grows. Harari calls capitalism a religion of growth. He also notes its dark side, such as the Atlantic slave trade.",
+        "el": "Στο μεγαλύτερο μέρος της ιστορίας οι άνθρωποι θεωρούσαν ότι ο συνολικός πλούτος είναι σταθερός: αν κερδίσω εγώ, χάνεις εσύ. Γι' αυτό ο δανεισμός ήταν σπάνιος και ακριβός. Η επιστήμη έφερε την ιδέα της προόδου, και μαζί την πίστη ότι η αυριανή πίτα θα είναι μεγαλύτερη. Αυτή η πίστη κάνει δυνατή την πίστωση: χρήμα που δανείζεται σήμερα έναντι μελλοντικού εισοδήματος. Τα κέρδη επανεπενδύονται, η παραγωγή μεγαλώνει, η εμπιστοσύνη στο μέλλον μεγαλώνει. Ο Χαράρι ονομάζει τον καπιταλισμό θρησκεία της ανάπτυξης. Σημειώνει και τη σκοτεινή του πλευρά, όπως το δουλεμπόριο του Ατλαντικού."
+      },
+      "example": {
+        "en": "In the 1600s the small Dutch Republic beat the mighty Spanish Empire at sea and in trade. A key reason was credit. The Dutch repaid their loans on time and had courts that protected private property, so investors lent to them cheaply. The Dutch East India Company was financed by selling shares.",
+        "el": "Τον 17ο αιώνα η μικρή Ολλανδική Δημοκρατία νίκησε την πανίσχυρη Ισπανική Αυτοκρατορία στη θάλασσα και στο εμπόριο. Βασικός λόγος ήταν η πίστωση. Οι Ολλανδοί ξεπλήρωναν τα δάνειά τους στην ώρα τους και είχαν δικαστήρια που προστάτευαν την ιδιοκτησία, οπότε οι επενδυτές τούς δάνειζαν φτηνά. Η Ολλανδική Εταιρεία Ανατολικών Ινδιών χρηματοδοτήθηκε πουλώντας μετοχές."
+      },
+      "apply": {
+        "en": "Earn cheap 'credit' the Dutch way: keep every promise and every deadline, so clients and partners trust your future. Then reinvest. Decide a fixed share of each month's profit that goes back into ads, tools or people, before you spend on anything else.",
+        "el": "Κέρδισε φτηνή «πίστωση» όπως οι Ολλανδοί: κράτα κάθε υπόσχεση και κάθε deadline, ώστε πελάτες και συνεργάτες να εμπιστεύονται το μέλλον σου. Μετά επανεπένδυσε. Όρισε ένα σταθερό ποσοστό από το κέρδος κάθε μήνα που γυρίζει σε διαφημίσεις, εργαλεία ή ανθρώπους, πριν ξοδέψεις οπουδήποτε αλλού."
+      },
+      "check": {
+        "q": {"en": "What does credit depend on, according to Harari?", "el": "Από τι εξαρτάται η πίστωση, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "On the amount of gold a country keeps in its vaults", "el": "Από την ποσότητα χρυσού που κρατά μια χώρα στα θησαυροφυλάκιά της"},
+          {"en": "On trust that the future will be richer than today", "el": "Από την εμπιστοσύνη ότι το μέλλον θα είναι πλουσιότερο από το σήμερα"},
+          {"en": "On a king who forces the rich to lend money", "el": "Από έναν βασιλιά που αναγκάζει τους πλούσιους να δανείζουν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Nobody lends against a pie that stays the same; credit needs belief in growth.", "el": "Κανείς δεν δανείζει πάνω σε μια πίτα που μένει ίδια· η πίστωση θέλει πίστη στην ανάπτυξη."}
+      }
+    },
+    {
+      "title": {"en": "Industry and the price for nature", "el": "Η βιομηχανία και το τίμημα για τη φύση"},
+      "explain": {
+        "en": "The Industrial Revolution was a revolution in energy. Once humans learned to turn heat into movement with the steam engine, and later to use oil and electricity, production exploded. To absorb all those goods a new ethic appeared, consumerism: buying more became a virtue. The cost was paid by the natural world. Harari's worry is less that resources will run out and more that we destroy habitats and species, and treat farm animals like machines.",
+        "el": "Η Βιομηχανική Επανάσταση ήταν επανάσταση στην ενέργεια. Μόλις ο άνθρωπος έμαθε να κάνει τη θερμότητα κίνηση με την ατμομηχανή, και αργότερα να χρησιμοποιεί πετρέλαιο και ηλεκτρισμό, η παραγωγή εκτοξεύτηκε. Για να απορροφηθούν τόσα αγαθά, εμφανίστηκε μια νέα ηθική, ο καταναλωτισμός: το να αγοράζεις περισσότερα έγινε αρετή. Το κόστος το πλήρωσε ο φυσικός κόσμος. Η ανησυχία του Χαράρι δεν είναι τόσο ότι θα τελειώσουν οι πόροι, όσο ότι καταστρέφουμε βιότοπους και είδη, και φερόμαστε στα ζώα της φάρμας σαν να είναι μηχανές."
+      },
+      "example": {
+        "en": "Harari gives rough figures. All humans together weigh about 300 million tons. Our farm animals, cows, pigs, sheep and chickens, weigh about 700 million tons. All the large wild animals left on Earth, from penguins to elephants, weigh less than 100 million tons.",
+        "el": "Ο Χαράρι δίνει χοντρικούς αριθμούς. Όλοι οι άνθρωποι μαζί ζυγίζουν περίπου 300 εκατομμύρια τόνους. Τα ζώα της φάρμας μας, αγελάδες, γουρούνια, πρόβατα και κότες, ζυγίζουν περίπου 700 εκατομμύρια τόνους. Όλα τα μεγάλα άγρια ζώα που έχουν μείνει στη Γη, από πιγκουίνους ως ελέφαντες, ζυγίζουν λιγότερο από 100 εκατομμύρια τόνους."
+      },
+      "apply": {
+        "en": "Notice when an ad makes you want something you did not want yesterday. Before you buy a new tool, course or gadget for the business, wait forty-eight hours and write what problem it solves. Buy only if the problem is still real after two days.",
+        "el": "Πρόσεξε πότε μια διαφήμιση σε κάνει να θέλεις κάτι που χθες δεν ήθελες. Πριν αγοράσεις ένα νέο εργαλείο, σεμινάριο ή gadget για τη δουλειά, περίμενε σαράντα οκτώ ώρες και γράψε ποιο πρόβλημα λύνει. Αγόρασε μόνο αν το πρόβλημα είναι ακόμη υπαρκτό μετά από δύο μέρες."
+      },
+      "check": {
+        "q": {"en": "What was the core of the Industrial Revolution, for Harari?", "el": "Ποιος ήταν ο πυρήνας της Βιομηχανικής Επανάστασης για τον Χαράρι;"},
+        "options": [
+          {"en": "Learning to convert one kind of energy into another", "el": "Το ότι μάθαμε να μετατρέπουμε μια μορφή ενέργειας σε άλλη"},
+          {"en": "The discovery of new continents and new peoples", "el": "Η ανακάλυψη νέων ηπείρων και νέων λαών"},
+          {"en": "The invention of writing and of numbers", "el": "Η επινόηση της γραφής και των αριθμών"}
+        ],
+        "answer": 0,
+        "why": {"en": "Turning heat into motion freed production from muscle power, and nature paid much of the bill.", "el": "Η μετατροπή της θερμότητας σε κίνηση απελευθέρωσε την παραγωγή από τους μυς, και μεγάλο μέρος του λογαριασμού το πλήρωσε η φύση."}
+      }
+    },
+    {
+      "title": {"en": "State and market replace family", "el": "Κράτος και αγορά στη θέση της οικογένειας"},
+      "explain": {
+        "en": "For thousands of years the family and the local community were everything: your bank, your insurance, your school, your police and your pension. In the last two centuries the state and the market took over these jobs and offered a deal: become an individual. You may choose your work, partner and home. The price is weaker bonds and more loneliness. Imagined communities, the nation and consumer tribes, fill the gap. Harari adds that this era is also unusually peaceful.",
+        "el": "Επί χιλιάδες χρόνια η οικογένεια και η τοπική κοινότητα ήταν τα πάντα: η τράπεζα, η ασφάλεια, το σχολείο, η αστυνομία και η σύνταξή σου. Τους δύο τελευταίους αιώνες το κράτος και η αγορά ανέλαβαν αυτές τις δουλειές και πρότειναν μια συμφωνία: γίνε άτομο. Διαλέγεις δουλειά, σύντροφο και τόπο. Το τίμημα είναι πιο αδύναμοι δεσμοί και περισσότερη μοναξιά. Το κενό το γεμίζουν φαντασιακές κοινότητες, το έθνος και οι «φυλές» των καταναλωτών. Ο Χαράρι προσθέτει ότι η εποχή αυτή είναι και ασυνήθιστα ειρηνική."
+      },
+      "example": {
+        "en": "Even time was taken from the village. Each British town once kept its own local time. The railways needed one timetable, so in 1847 the railway companies agreed to use Greenwich time, and in 1880 a law made it the official time for all of Britain.",
+        "el": "Ακόμη και η ώρα πάρθηκε από το χωριό. Κάθε βρετανική πόλη είχε κάποτε τη δική της τοπική ώρα. Οι σιδηρόδρομοι χρειάζονταν ένα ενιαίο δρομολόγιο, έτσι το 1847 οι εταιρείες συμφώνησαν να χρησιμοποιούν την ώρα του Γκρίνουιτς, και το 1880 ένας νόμος την έκανε επίσημη ώρα για όλη τη Βρετανία."
+      },
+      "apply": {
+        "en": "Protect the bonds that no market can sell you. Block one evening each week for family or close friends and treat it like a client meeting that cannot move. In the business, give your small team a feeling of belonging, not just tasks.",
+        "el": "Προστάτεψε τους δεσμούς που καμία αγορά δεν μπορεί να σου πουλήσει. Κλείσε ένα βράδυ κάθε εβδομάδα για την οικογένεια ή τους κοντινούς φίλους και αντιμετώπισέ το σαν ραντεβού με πελάτη που δεν μετακινείται. Στη δουλειά, δώσε στη μικρή σου ομάδα την αίσθηση ότι ανήκει κάπου, όχι μόνο εργασίες."
+      },
+      "check": {
+        "q": {"en": "What deal did the state and the market offer people?", "el": "Ποια συμφωνία πρότειναν στους ανθρώπους το κράτος και η αγορά;"},
+        "options": [
+          {"en": "Stay loyal to your clan and we will protect it", "el": "Μείνε πιστός στο σόι σου κι εμείς θα το προστατεύσουμε"},
+          {"en": "Become an individual and we will provide for you", "el": "Γίνε άτομο κι εμείς θα φροντίσουμε για σένα"},
+          {"en": "Give up all your freedom in return for safety", "el": "Παράδωσε όλη σου την ελευθερία με αντάλλαγμα την ασφάλεια"}
+        ],
+        "answer": 1,
+        "why": {"en": "Pensions, schools, police and jobs moved from the family to the state and market; freedom rose and close bonds weakened.", "el": "Συντάξεις, σχολεία, αστυνομία και δουλειές πέρασαν από την οικογένεια στο κράτος και στην αγορά· η ελευθερία μεγάλωσε και οι στενοί δεσμοί αδυνάτισαν."}
+      }
+    },
+    {
+      "title": {"en": "Are we any happier?", "el": "Είμαστε άραγε πιο ευτυχισμένοι;"},
+      "explain": {
+        "en": "Harari asks the question most history books skip: did all this progress make us happier? His answer is 'probably not much'. First, happiness depends on expectations, and expectations rise with every gain. Second, it depends on body chemistry, which returns to its usual level after good and bad events. Third, meaning matters: a hard life can feel worthwhile. He also presents the Buddhist view, that peace comes when we stop chasing pleasant feelings at all.",
+        "el": "Ο Χαράρι κάνει την ερώτηση που τα περισσότερα βιβλία ιστορίας παραλείπουν: μας έκανε όλη αυτή η πρόοδος πιο ευτυχισμένους; Η απάντησή του είναι «μάλλον όχι πολύ». Πρώτον, η ευτυχία εξαρτάται από τις προσδοκίες, και οι προσδοκίες ανεβαίνουν με κάθε κέρδος. Δεύτερον, εξαρτάται από τη χημεία του σώματος, που γυρίζει στο συνηθισμένο της επίπεδο μετά από καλά και κακά γεγονότα. Τρίτον, μετράει το νόημα: μια δύσκολη ζωή μπορεί να νιώθεται ότι αξίζει. Παρουσιάζει και τη βουδιστική άποψη, ότι η γαλήνη έρχεται όταν πάψουμε εντελώς να κυνηγάμε ευχάριστα συναισθήματα."
+      },
+      "example": {
+        "en": "The psychologist Daniel Kahneman asked working women to rate each part of their day. Looking after their children scored as one of the less pleasant activities, moment by moment. Yet most parents say their children are their greatest source of happiness. Meaning and pleasure are different things.",
+        "el": "Ο ψυχολόγος Ντάνιελ Κάνεμαν ζήτησε από εργαζόμενες γυναίκες να βαθμολογήσουν κάθε κομμάτι της μέρας τους. Η φροντίδα των παιδιών βγήκε από τις λιγότερο ευχάριστες δραστηριότητες, στιγμή προς στιγμή. Κι όμως οι περισσότεροι γονείς λένε ότι τα παιδιά τους είναι η μεγαλύτερη πηγή ευτυχίας τους. Το νόημα και η ευχαρίστηση είναι διαφορετικά πράγματα."
+      },
+      "apply": {
+        "en": "Write down what 'enough' means for you this year, in clients and in free time, before you reach it. Each time you hit a goal, stop for one evening and enjoy it before raising the bar. Otherwise your expectations will always run ahead of your results.",
+        "el": "Γράψε τι σημαίνει «αρκετά» για σένα φέτος, σε πελάτες και σε ελεύθερο χρόνο, πριν φτάσεις εκεί. Κάθε φορά που πιάνεις έναν στόχο, σταμάτα ένα βράδυ και χάρου τον πριν ανεβάσεις τον πήχη. Αλλιώς οι προσδοκίες σου θα τρέχουν πάντα μπροστά από τα αποτελέσματά σου."
+      },
+      "check": {
+        "q": {"en": "Why has progress not made us much happier, in Harari's view?", "el": "Γιατί η πρόοδος δεν μας έκανε πολύ πιο ευτυχισμένους, κατά τον Χαράρι;"},
+        "options": [
+          {"en": "Because modern people own fewer things than before", "el": "Επειδή οι σύγχρονοι άνθρωποι έχουν λιγότερα πράγματα από παλιά"},
+          {"en": "Because people in the past had no problems at all", "el": "Επειδή οι άνθρωποι στο παρελθόν δεν είχαν κανένα πρόβλημα"},
+          {"en": "Because expectations rise and body chemistry resets", "el": "Επειδή οι προσδοκίες ανεβαίνουν και η χημεία του σώματος επανέρχεται"}
+        ],
+        "answer": 2,
+        "why": {"en": "We get used to every gain and soon want more, so the feeling returns to its usual level.", "el": "Συνηθίζουμε κάθε κέρδος και σύντομα θέλουμε κι άλλο, οπότε το συναίσθημα γυρίζει στο συνηθισμένο του επίπεδο."}
+      }
+    },
+    {
+      "title": {"en": "Gods who do not know what they want", "el": "Θεοί που δεν ξέρουν τι θέλουν"},
+      "explain": {
+        "en": "For four billion years life changed by natural selection. Harari ends by saying that sapiens is now replacing it with intelligent design: genetic engineering, bodies joined with machines, and perhaps intelligence that is not organic at all. We may even try to defeat death. This could end Homo sapiens and create something new, a Homo Deus. The final danger is not the power. It is that we gain the powers of gods while staying dissatisfied and unsure of what we want.",
+        "el": "Επί τέσσερα δισεκατομμύρια χρόνια η ζωή άλλαζε με τη φυσική επιλογή. Ο Χαράρι κλείνει λέγοντας ότι ο sapiens την αντικαθιστά τώρα με ευφυή σχεδιασμό: γενετική μηχανική, σώματα ενωμένα με μηχανές, και ίσως νοημοσύνη που δεν είναι καθόλου οργανική. Ίσως προσπαθήσουμε να νικήσουμε ακόμη και τον θάνατο. Αυτό μπορεί να φέρει το τέλος του Homo sapiens και να γεννήσει κάτι νέο, έναν Homo Deus. Ο τελικός κίνδυνος δεν είναι η δύναμη. Είναι ότι αποκτάμε δυνάμεις θεών ενώ μένουμε ανικανοποίητοι και δεν ξέρουμε τι θέλουμε."
+      },
+      "example": {
+        "en": "In 2000 the artist Eduardo Kac presented Alba, a rabbit made with a French laboratory. Scientists had put a jellyfish gene into her, so that she glowed green under a special light. Alba was not a product of natural selection. Someone designed her.",
+        "el": "Το 2000 ο καλλιτέχνης Εντουάρντο Κατς παρουσίασε την Άλμπα, ένα κουνέλι φτιαγμένο με ένα γαλλικό εργαστήριο. Οι επιστήμονες της είχαν βάλει ένα γονίδιο μέδουσας, ώστε να φωσφορίζει πράσινη κάτω από ειδικό φως. Η Άλμπα δεν ήταν προϊόν της φυσικής επιλογής. Κάποιος τη σχεδίασε."
+      },
+      "apply": {
+        "en": "Decide what you want before AI gives you more power to get it. Write one page: with unlimited tools, what would you build, for whom, and what kind of life do you want around it? Use that page to judge every new AI tool you add.",
+        "el": "Αποφάσισε τι θέλεις πριν η τεχνητή νοημοσύνη σου δώσει περισσότερη δύναμη για να το αποκτήσεις. Γράψε μία σελίδα: με απεριόριστα εργαλεία, τι θα έχτιζες, για ποιους, και τι ζωή θέλεις γύρω από αυτό; Με αυτή τη σελίδα να κρίνεις κάθε νέο εργαλείο τεχνητής νοημοσύνης που προσθέτεις."
+      },
+      "check": {
+        "q": {"en": "What is the final danger Harari warns about?", "el": "Ποιος είναι ο τελικός κίνδυνος για τον οποίο προειδοποιεί ο Χαράρι;"},
+        "options": [
+          {"en": "Huge power in the hands of beings who do not know what they want", "el": "Τεράστια δύναμη στα χέρια πλασμάτων που δεν ξέρουν τι θέλουν"},
+          {"en": "That technology will stop improving very soon", "el": "Ότι η τεχνολογία θα πάψει πολύ σύντομα να βελτιώνεται"},
+          {"en": "That humans will return to hunting and gathering", "el": "Ότι οι άνθρωποι θα γυρίσουν στο κυνήγι και στην τροφοσυλλογή"}
+        ],
+        "answer": 0,
+        "why": {"en": "The real question for the future is not 'what can we do' but 'what do we want to want'.", "el": "Το πραγματικό ερώτημα για το μέλλον δεν είναι «τι μπορούμε να κάνουμε» αλλά «τι θέλουμε να θέλουμε»."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You are writing a Facebook ad for psychologists. What do you put first?", "el": "Γράφεις μια διαφήμιση στο Facebook για ψυχολόγους. Τι βάζεις πρώτο;"},
+      "options": [
+        {"en": "A list of the technical features of your websites", "el": "Μια λίστα με τα τεχνικά χαρακτηριστικά των ιστοσελίδων σου"},
+        {"en": "A short picture of the future the client can see", "el": "Μια σύντομη εικόνα του μέλλοντος που ο πελάτης μπορεί να δει"},
+        {"en": "The history of your agency from its first day", "el": "Την ιστορία του γραφείου σου από την πρώτη μέρα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Humans are moved by stories about things that do not exist yet; that is the power of fiction.", "el": "Τον άνθρωπο τον κινεί η ιστορία για κάτι που δεν υπάρχει ακόμη· αυτή είναι η δύναμη της μυθοπλασίας."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "A lawyer likes your offer but says: 'How do I know you will still be here next year?' What do you do?", "el": "Ένας δικηγόρος βρίσκει καλή την προσφορά σου, αλλά λέει: «Πού ξέρω ότι θα υπάρχετε του χρόνου;» Τι κάνεις;"},
+      "options": [
+        {"en": "Lower the price so that he risks less money", "el": "Ρίχνεις την τιμή για να ρισκάρει λιγότερα χρήματα"},
+        {"en": "Tell him that he simply has to believe you", "el": "Του λες ότι απλώς πρέπει να σε πιστέψει"},
+        {"en": "Show live sites, real reviews and a written agreement", "el": "Δείχνεις live ιστοσελίδες, πραγματικές κριτικές και γραπτή συμφωνία"}
+      ],
+      "answer": 2,
+      "why": {"en": "A sale, like money, runs on trust; his question is about trust, so you answer with proof, not with a discount.", "el": "Η πώληση, όπως και το χρήμα, στηρίζεται στην εμπιστοσύνη· η ερώτησή του αφορά την εμπιστοσύνη, άρα απαντάς με αποδείξεις, όχι με έκπτωση."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "Your team has grown and people give clients different answers to the same question. What do you do?", "el": "Η ομάδα σου μεγάλωσε και ο καθένας δίνει στους πελάτες διαφορετική απάντηση στην ίδια ερώτηση. Τι κάνεις;"},
+      "options": [
+        {"en": "Give everyone one shared story and way of working", "el": "Δίνεις σε όλους μία κοινή ιστορία και έναν κοινό τρόπο δουλειάς"},
+        {"en": "Answer every client question personally from now on", "el": "Απαντάς προσωπικά σε κάθε ερώτηση πελάτη από εδώ και πέρα"},
+        {"en": "Let each person develop their own personal style", "el": "Αφήνεις τον καθένα να αναπτύξει το δικό του προσωπικό στυλ"}
+      ],
+      "answer": 0,
+      "why": {"en": "Beyond a small group, people cooperate through a shared story, not through personal contact with you.", "el": "Πέρα από μια μικρή ομάδα, οι άνθρωποι συνεργάζονται μέσα από μια κοινή ιστορία, όχι μέσα από προσωπική επαφή μαζί σου."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "You can take on a new service that brings income now but needs daily support from you forever. What do you do?", "el": "Μπορείς να αναλάβεις μια νέα υπηρεσία που φέρνει έσοδα τώρα αλλά θέλει καθημερινή υποστήριξη από σένα για πάντα. Τι κάνεις;"},
+      "options": [
+        {"en": "Accept at once, since more income is always better", "el": "Δέχεσαι αμέσως, αφού περισσότερα έσοδα είναι πάντα καλύτερα"},
+        {"en": "Count the lasting daily cost first, then decide", "el": "Μετράς πρώτα το μόνιμο καθημερινό κόστος και μετά αποφασίζεις"},
+        {"en": "Refuse, because every new thing is a trap", "el": "Αρνείσαι, γιατί κάθε καινούριο πράγμα είναι παγίδα"}
+      ],
+      "answer": 1,
+      "why": {"en": "The luxury trap: small gains can lock you into more work for a worse life, and there is no way back.", "el": "Η παγίδα της πολυτέλειας: μικρά κέρδη μπορούν να σε κλειδώσουν σε περισσότερη δουλειά και χειρότερη ζωή, χωρίς γυρισμό."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "You reached your client target for the year in October. You feel nothing and already want double. What do you do?", "el": "Έπιασες τον ετήσιο στόχο πελατών τον Οκτώβριο. Δεν νιώθεις τίποτα και θέλεις ήδη τα διπλά. Τι κάνεις;"},
+      "options": [
+        {"en": "Double the target at once and work longer hours", "el": "Διπλασιάζεις αμέσως τον στόχο και δουλεύεις περισσότερες ώρες"},
+        {"en": "Decide that goals are pointless and stop setting them", "el": "Αποφασίζεις ότι οι στόχοι δεν έχουν νόημα και παύεις να βάζεις"},
+        {"en": "Stop, enjoy it, and define what 'enough' means", "el": "Σταματάς, το χαίρεσαι και ορίζεις τι σημαίνει «αρκετά»"}
+      ],
+      "answer": 2,
+      "why": {"en": "Happiness follows expectations: if the bar rises with every success, no result will ever feel good.", "el": "Η ευτυχία ακολουθεί τις προσδοκίες: αν ο πήχης ανεβαίνει με κάθε επιτυχία, κανένα αποτέλεσμα δεν θα σε ευχαριστήσει ποτέ."},
+      "idea": 14
+    },
+    {
+      "q": {"en": "You believe that calling doctors in the afternoon works better than in the morning. A colleague believes the opposite. What do you do?", "el": "Πιστεύεις ότι τα τηλεφωνήματα σε γιατρούς πάνε καλύτερα το απόγευμα παρά το πρωί. Ένας συνεργάτης πιστεύει το αντίθετο. Τι κάνεις;"},
+      "options": [
+        {"en": "Say 'we do not know' and measure both for a week", "el": "Λες «δεν ξέρουμε» και μετράς και τα δύο για μία εβδομάδα"},
+        {"en": "Follow your opinion, since you are the owner", "el": "Ακολουθείς τη γνώμη σου, αφού εσύ είσαι το αφεντικό"},
+        {"en": "Search online for what an expert once wrote", "el": "Ψάχνεις στο ίντερνετ τι έγραψε κάποτε ένας ειδικός"}
+      ],
+      "answer": 0,
+      "why": {"en": "The scientific attitude: admit ignorance, observe, count, and let the numbers decide.", "el": "Η επιστημονική στάση: παραδέξου την άγνοια, παρατήρησε, μέτρησε, και άφησε τους αριθμούς να αποφασίσουν."},
+      "idea": 10
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "According to Harari, sapiens was once one of several human species.", "el": "Κατά τον Χαράρι, ο sapiens ήταν κάποτε ένα από πολλά ανθρώπινα είδη."},
+      "answer": true,
+      "why": {"en": "Neanderthals, Homo erectus and others lived at the same time as our ancestors.", "el": "Οι Νεάντερταλ, ο Homo erectus και άλλοι ζούσαν την ίδια εποχή με τους προγόνους μας."}
+    },
+    {
+      "s": {"en": "Harari says farming made the life of the average person easier.", "el": "Ο Χαράρι λέει ότι η γεωργία έκανε τη ζωή του μέσου ανθρώπου ευκολότερη."},
+      "answer": false,
+      "why": {"en": "He argues the opposite: more people, but harder work, poorer food and more disease for each.", "el": "Υποστηρίζει το αντίθετο: περισσότεροι άνθρωποι, αλλά σκληρότερη δουλειά, φτωχότερη τροφή και περισσότερες αρρώστιες για τον καθένα."}
+    },
+    {
+      "s": {"en": "Money works because people trust that others will accept it.", "el": "Το χρήμα λειτουργεί επειδή οι άνθρωποι εμπιστεύονται ότι θα το δεχτούν και οι άλλοι."},
+      "answer": true,
+      "why": {"en": "Its value is not in the material; it is a system of mutual trust.", "el": "Η αξία του δεν βρίσκεται στο υλικό· είναι ένα σύστημα αμοιβαίας εμπιστοσύνης."}
+    },
+    {
+      "s": {"en": "An imagined order is a lie that only fools believe.", "el": "Μια φαντασιακή τάξη είναι ένα ψέμα που το πιστεύουν μόνο οι αφελείς."},
+      "answer": false,
+      "why": {"en": "Laws, money and rights are shared beliefs that make cooperation possible; Harari does not call them lies.", "el": "Οι νόμοι, το χρήμα και τα δικαιώματα είναι κοινές πεποιθήσεις που κάνουν δυνατή τη συνεργασία· ο Χαράρι δεν τα ονομάζει ψέματα."}
+    },
+    {
+      "s": {"en": "Modern science began by admitting that we do not know everything.", "el": "Η σύγχρονη επιστήμη ξεκίνησε με την παραδοχή ότι δεν τα ξέρουμε όλα."},
+      "answer": true,
+      "why": {"en": "The admission of ignorance is what pushed people to observe and experiment.", "el": "Η παραδοχή της άγνοιας είναι αυτή που έσπρωξε τους ανθρώπους να παρατηρήσουν και να πειραματιστούν."}
+    },
+    {
+      "s": {"en": "Harari claims that modern people are clearly much happier than hunter-gatherers.", "el": "Ο Χαράρι υποστηρίζει ότι οι σύγχρονοι άνθρωποι είναι σαφώς πολύ πιο ευτυχισμένοι από τους κυνηγούς-τροφοσυλλέκτες."},
+      "answer": false,
+      "why": {"en": "He doubts it: expectations rise with every gain and body chemistry returns to its usual level.", "el": "Το αμφισβητεί: οι προσδοκίες ανεβαίνουν με κάθε κέρδος και η χημεία του σώματος γυρίζει στο συνηθισμένο της επίπεδο."}
+    },
+    {
+      "s": {"en": "Credit is possible only when people believe the future will be richer.", "el": "Η πίστωση είναι δυνατή μόνο όταν οι άνθρωποι πιστεύουν ότι το μέλλον θα είναι πλουσιότερο."},
+      "answer": true,
+      "why": {"en": "A loan is a bet on future income, so it needs trust in growth.", "el": "Το δάνειο είναι στοίχημα πάνω σε μελλοντικό εισόδημα, άρα θέλει εμπιστοσύνη στην ανάπτυξη."}
+    },
+    {
+      "s": {"en": "Large animals began to go extinct only after the Industrial Revolution.", "el": "Τα μεγάλα ζώα άρχισαν να εξαφανίζονται μόνο μετά τη Βιομηχανική Επανάσταση."},
+      "answer": false,
+      "why": {"en": "The big animals of Australia and the Americas vanished soon after the first hunter-gatherers arrived.", "el": "Τα μεγάλα ζώα της Αυστραλίας και της Αμερικής χάθηκαν λίγο μετά την άφιξη των πρώτων κυνηγών-τροφοσυλλεκτών."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Cognitive Revolution", "el": "Γνωσιακή Επανάσταση"}, "b": {"en": "New ability to speak about things that do not exist", "el": "Νέα ικανότητα να μιλάμε για πράγματα που δεν υπάρχουν"}},
+    {"a": {"en": "Inter-subjective", "el": "Διυποκειμενικό"}, "b": {"en": "Real only because many people believe it together", "el": "Αληθινό μόνο επειδή το πιστεύουν πολλοί μαζί"}},
+    {"a": {"en": "Luxury trap", "el": "Παγίδα της πολυτέλειας"}, "b": {"en": "Small comforts that become needs you cannot give up", "el": "Μικρές ανέσεις που γίνονται ανάγκες και δεν κόβονται"}},
+    {"a": {"en": "Credit", "el": "Πίστωση"}, "b": {"en": "Money given today on trust in tomorrow", "el": "Χρήμα που δίνεται σήμερα με εμπιστοσύνη στο αύριο"}},
+    {"a": {"en": "Consumerism", "el": "Καταναλωτισμός"}, "b": {"en": "The ethic that buying more is good", "el": "Η ηθική ότι το να αγοράζεις περισσότερα είναι καλό"}},
+    {"a": {"en": "Homo Deus", "el": "Homo Deus (άνθρωπος-θεός)"}, "b": {"en": "A human upgraded by bioengineering and AI", "el": "Άνθρωπος αναβαθμισμένος με βιοτεχνολογία και τεχνητή νοημοσύνη"}}
+  ],
+  "missions": [
+    {"en": "Write the story of your agency in three sentences and read it aloud to one person on your team.", "el": "Γράψε την ιστορία του γραφείου σου σε τρεις προτάσεις και διάβασέ τη δυνατά σε έναν άνθρωπο της ομάδας σου."},
+    {"en": "List five things in your work that exist only because people believe in them, and mark the one you can strengthen.", "el": "Κατάγραψε πέντε πράγματα στη δουλειά σου που υπάρχουν μόνο επειδή οι άνθρωποι τα πιστεύουν, και σημείωσε αυτό που μπορείς να δυναμώσεις."},
+    {"en": "Choose one belief about your sales that you never tested and design a one-week experiment with numbers.", "el": "Διάλεξε μία πεποίθηση για τις πωλήσεις σου που δεν δοκίμασες ποτέ και σχεδίασε ένα πείραμα μίας εβδομάδας με αριθμούς."},
+    {"en": "Find one 'luxury trap' in your day, a tool or habit that now demands more than it gives, and remove it for a week.", "el": "Βρες μία «παγίδα της πολυτέλειας» στη μέρα σου, ένα εργαλείο ή μια συνήθεια που πια ζητά περισσότερα απ' όσα δίνει, και κόψε την για μία εβδομάδα."},
+    {"en": "Write in ten minutes what 'enough' means for you this year: income, clients, free hours per week.", "el": "Γράψε σε δέκα λεπτά τι σημαίνει «αρκετά» για σένα φέτος: εισόδημα, πελάτες, ελεύθερες ώρες την εβδομάδα."}
+  ],
+  "mantra": {"en": "People follow stories they trust, so I tell a true one.", "el": "Οι άνθρωποι ακολουθούν ιστορίες που εμπιστεύονται, γι' αυτό λέω μια αληθινή."},
+  "careful": {
+    "en": "Sapiens is a brilliant big picture, not a textbook. Specialists dispute several claims. Many archaeologists see a slow growth of modern thinking in Africa, not a sudden Cognitive Revolution. Calling farming a 'fraud' and foragers happier rests on thin evidence. How much humans, and how much climate, killed the large animals is still debated. Critics such as the anthropologist Christopher Hallpike find the book careless with facts, and the last chapters are speculation about the future.",
+    "el": "Το Sapiens είναι μια λαμπρή μεγάλη εικόνα, όχι εγχειρίδιο. Οι ειδικοί αμφισβητούν αρκετούς ισχυρισμούς του. Πολλοί αρχαιολόγοι βλέπουν μια αργή ανάπτυξη της σύγχρονης σκέψης στην Αφρική, όχι μια ξαφνική Γνωσιακή Επανάσταση. Το ότι η γεωργία ήταν «απάτη» και οι τροφοσυλλέκτες πιο ευτυχισμένοι στηρίζεται σε λίγα στοιχεία. Το πόσο ευθύνεται ο άνθρωπος και πόσο το κλίμα για την εξαφάνιση των μεγάλων ζώων συζητιέται ακόμη. Επικριτές όπως ο ανθρωπολόγος Κρίστοφερ Χάλπαϊκ βρίσκουν το βιβλίο πρόχειρο στα δεδομένα, και τα τελευταία κεφάλαια είναι εικασίες για το μέλλον."
+  },
+  "connects": [
+    {"book": "plato", "note": {"en": "Plato's cave and his 'noble lie' already say what Harari says: societies live inside shared stories, and few people look behind them.", "el": "Το σπήλαιο του Πλάτωνα και το «γενναίο ψεύδος» του λένε ήδη αυτό που λέει ο Χαράρι: οι κοινωνίες ζουν μέσα σε κοινές ιστορίες, και λίγοι κοιτούν πίσω από αυτές."}},
+    {"book": "communist-manifesto", "note": {"en": "Marx explains history through class struggle and the economy; Harari explains it through shared beliefs, and treats communism itself as one more religion.", "el": "Ο Μαρξ εξηγεί την ιστορία με την πάλη των τάξεων και την οικονομία· ο Χαράρι την εξηγεί με τις κοινές πεποιθήσεις και βλέπει τον ίδιο τον κομμουνισμό ως μία ακόμη θρησκεία."}},
+    {"book": "zero-to-one", "note": {"en": "Thiel shares Harari's view that growth depends on belief in a better future, but he is far more optimistic about what technology will do for us.", "el": "Ο Thiel συμφωνεί με τον Χαράρι ότι η ανάπτυξη εξαρτάται από την πίστη σε ένα καλύτερο μέλλον, αλλά είναι πολύ πιο αισιόδοξος για το τι θα μας φέρει η τεχνολογία."}}
+  ]
+}

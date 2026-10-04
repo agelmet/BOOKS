@@ -1,0 +1,558 @@
+{
+  "id": "e-myth",
+  "title": {"en": "The E-Myth Revisited", "el": "Ο Μύθος του Επιχειρηματία (The E-Myth Revisited)"},
+  "author": "Michael E. Gerber",
+  "authorEl": "Μάικλ Γκέρμπερ",
+  "year": 1995,
+  "shelf": "business",
+  "skills": {"strategy": 3, "leadership": 3, "focus": 1},
+  "oneLine": {
+    "en": "Most small businesses fail because a good craftsman runs them like a job; build a system that works without you instead.",
+    "el": "Οι περισσότερες μικρές επιχειρήσεις αποτυγχάνουν γιατί ένας καλός τεχνίτης τις τρέχει σαν δουλειά· χτίσε ένα σύστημα που δουλεύει και χωρίς εσένα."
+  },
+  "story": {
+    "en": "Michael Gerber spent years advising small business owners in California. In 1986 he wrote The E-Myth, and in 1995 this fuller version. He tells it as a conversation with Sarah, a tired woman who owns a pie shop. His message: people who are good at a craft open a business and become slaves to it. It is still one of the most read books for small business owners, because almost every owner sees themselves in Sarah.",
+    "el": "Ο Michael Gerber δούλεψε χρόνια ως σύμβουλος μικρών επιχειρήσεων στην Καλιφόρνια. Το 1986 έγραψε το The E-Myth και το 1995 αυτή την πιο πλήρη έκδοση. Το βιβλίο είναι γραμμένο σαν κουβέντα με τη Σάρα, μια εξαντλημένη γυναίκα που έχει ένα μαγαζί με πίτες. Το μήνυμά του: όποιος είναι καλός σε μια τέχνη ανοίγει επιχείρηση και γίνεται σκλάβος της. Διαβάζεται ακόμα πολύ, γιατί σχεδόν κάθε ιδιοκτήτης βλέπει τον εαυτό του στη Σάρα."
+  },
+  "forYou": {
+    "en": "You have 200+ live sites, a tiny team and almost everything still passes through you: the calls, the builds, the changes, the clients. That is exactly the stage where Gerber says a business either breaks its owner or becomes a system. This book shows you how to turn Advon from 'Angelo doing everything' into a machine other people can run the same way every time.",
+    "el": "Έχεις 200+ ζωντανές ιστοσελίδες, μια πολύ μικρή ομάδα και σχεδόν όλα περνάνε ακόμα από σένα: τα τηλέφωνα, το χτίσιμο, οι αλλαγές, οι πελάτες. Είναι ακριβώς το σημείο όπου, κατά τον Gerber, μια επιχείρηση ή διαλύει τον ιδιοκτήτη της ή γίνεται σύστημα. Το βιβλίο σού δείχνει πώς η Advon παύει να είναι «ο Άγγελος που τα κάνει όλα» και γίνεται μηχανή που τη δουλεύουν κι άλλοι, με τον ίδιο τρόπο κάθε φορά."
+  },
+  "ideas": [
+    {
+      "title": {"en": "The E-Myth", "el": "Ο μύθος του επιχειρηματία"},
+      "explain": {
+        "en": "The myth says businesses are started by entrepreneurs with a big vision. In truth most are started by someone who is good at a craft and tired of having a boss. Gerber calls the wrong belief the fatal assumption: if you know how to do the technical work, you know how to run a business that does that work. These are two different skills. Baking well does not teach you to run a bakery.",
+        "el": "Ο μύθος λέει ότι τις επιχειρήσεις τις ξεκινούν επιχειρηματίες με μεγάλο όραμα. Στην πράξη τις ξεκινά συνήθως κάποιος που είναι καλός σε μια τέχνη και βαρέθηκε να έχει αφεντικό. Ο Gerber το λέει μοιραία παραδοχή: αφού ξέρω να κάνω την τεχνική δουλειά, ξέρω και να τρέξω επιχείρηση που κάνει αυτή τη δουλειά. Είναι δύο διαφορετικές ικανότητες. Το ότι ζυμώνεις καλά δεν σε μαθαίνει να τρέχεις φούρνο."
+      },
+      "example": {
+        "en": "In the book, Sarah baked wonderful pies, so she opened a pie shop. Three years later she worked from dawn to night, baked, cleaned, served, did the books, and had started to hate pies. The thing she loved had become the job she could not escape.",
+        "el": "Στο βιβλίο, η Σάρα έφτιαχνε υπέροχες πίτες και γι' αυτό άνοιξε μαγαζί με πίτες. Τρία χρόνια μετά δούλευε από τα χαράματα ως το βράδυ: ζύμωνε, καθάριζε, σέρβιρε, κρατούσε τα βιβλία. Και είχε αρχίσει να σιχαίνεται τις πίτες. Αυτό που αγαπούσε έγινε η δουλειά από την οποία δεν μπορούσε να ξεφύγει."
+      },
+      "apply": {
+        "en": "Write two lists. Left: the work of making websites (design, changes, publishing). Right: the work of running a website business (finding clients, money, people, systems). Count how many hours last week went to each side. The right side is the one that makes Advon grow.",
+        "el": "Γράψε δύο λίστες. Αριστερά: η δουλειά του να φτιάχνεις ιστοσελίδες (σχεδιασμός, αλλαγές, δημοσίευση). Δεξιά: η δουλειά του να τρέχεις επιχείρηση ιστοσελίδων (πελάτες, χρήματα, άνθρωποι, συστήματα). Μέτρα πόσες ώρες πήγαν την περασμένη εβδομάδα σε κάθε πλευρά. Η δεξιά είναι αυτή που μεγαλώνει την Advon."
+      },
+      "check": {
+        "q": {"en": "What is the 'fatal assumption' in the E-Myth?", "el": "Ποια είναι η «μοιραία παραδοχή» του βιβλίου;"},
+        "options": [
+          {"en": "Knowing the craft means knowing how to run the business", "el": "Αφού ξέρω την τέχνη, ξέρω και να τρέξω την επιχείρηση"},
+          {"en": "A business needs a lot of money to start", "el": "Μια επιχείρηση θέλει πολλά χρήματα για να ξεκινήσει"},
+          {"en": "Only born entrepreneurs should open a business", "el": "Μόνο οι γεννημένοι επιχειρηματίες πρέπει να ανοίγουν επιχείρηση"}
+        ],
+        "answer": 0,
+        "why": {"en": "Doing the technical work and running a business that does it are two different jobs.", "el": "Το να κάνεις την τεχνική δουλειά και το να τρέχεις επιχείρηση που την κάνει είναι δύο διαφορετικές δουλειές."}
+      }
+    },
+    {
+      "title": {"en": "Three people inside you", "el": "Τρεις άνθρωποι μέσα σου"},
+      "explain": {
+        "en": "Every owner is three people who fight each other. The Entrepreneur lives in the future and dreams. The Manager lives in the past and wants order, plans and control. The Technician lives in the present and wants to be left alone to do the work. A healthy business needs all three in balance. Gerber says the typical owner is about 10% Entrepreneur, 20% Manager and 70% Technician, and that leads to burnout.",
+        "el": "Κάθε ιδιοκτήτης είναι τρεις άνθρωποι που τσακώνονται μεταξύ τους. Ο Επιχειρηματίας ζει στο μέλλον και ονειρεύεται. Ο Μάνατζερ ζει στο παρελθόν και θέλει τάξη, πρόγραμμα και έλεγχο. Ο Τεχνίτης ζει στο παρόν και θέλει να τον αφήσουν ήσυχο να κάνει τη δουλειά. Μια υγιής επιχείρηση θέλει και τους τρεις σε ισορροπία. Κατά τον Gerber, ο τυπικός ιδιοκτήτης είναι περίπου 10% Επιχειρηματίας, 20% Μάνατζερ και 70% Τεχνίτης, κι αυτό οδηγεί σε εξάντληση."
+      },
+      "example": {
+        "en": "Sarah's Entrepreneur dreamed of the shop for one exciting week. Then her Technician took over and baked for three years. Nobody played the Manager, so there were no systems and no numbers. Nobody played the Entrepreneur, so there was no plan for where the shop was going.",
+        "el": "Ο Επιχειρηματίας της Σάρας ονειρεύτηκε το μαγαζί για μία ενθουσιώδη εβδομάδα. Μετά ανέλαβε ο Τεχνίτης της και ζύμωνε τρία χρόνια. Κανείς δεν έκανε τον Μάνατζερ, άρα δεν υπήρχαν συστήματα ούτε νούμερα. Κανείς δεν έκανε τον Επιχειρηματία, άρα δεν υπήρχε σχέδιο για το πού πάει το μαγαζί."
+      },
+      "apply": {
+        "en": "Block two fixed hours every week with no building and no client messages. In the first hour be the Entrepreneur: where should Advon be in a year? In the second be the Manager: which numbers and which process need fixing this week? Protect these hours like a client meeting.",
+        "el": "Κλείσε δύο σταθερές ώρες κάθε εβδομάδα χωρίς χτίσιμο και χωρίς μηνύματα πελατών. Την πρώτη ώρα γίνε Επιχειρηματίας: πού θέλεις να είναι η Advon σε έναν χρόνο; Τη δεύτερη γίνε Μάνατζερ: ποια νούμερα και ποια διαδικασία θέλουν διόρθωση αυτή την εβδομάδα; Φύλαξε αυτές τις ώρες όπως ένα ραντεβού με πελάτη."
+      },
+      "check": {
+        "q": {"en": "Which of the three takes over in most small business owners?", "el": "Ποιος από τους τρεις κυριαρχεί στους περισσότερους ιδιοκτήτες μικρών επιχειρήσεων;"},
+        "options": [
+          {"en": "The Entrepreneur, who keeps changing direction", "el": "Ο Επιχειρηματίας, που αλλάζει συνέχεια κατεύθυνση"},
+          {"en": "The Manager, who drowns everyone in rules", "el": "Ο Μάνατζερ, που πνίγει τους πάντες στους κανόνες"},
+          {"en": "The Technician, who just does the work", "el": "Ο Τεχνίτης, που απλώς κάνει τη δουλειά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Gerber's typical owner is about 70% Technician, so the business becomes a tiring job.", "el": "Ο τυπικός ιδιοκτήτης του Gerber είναι περίπου 70% Τεχνίτης, γι' αυτό η επιχείρηση καταλήγει μια κουραστική δουλειά."}
+      }
+    },
+    {
+      "title": {"en": "Infancy and adolescence", "el": "Νηπιακή φάση και εφηβεία"},
+      "explain": {
+        "en": "In Infancy you and the business are the same thing: if you stop, it stops. It ends when you cannot do any more work yourself. Adolescence starts when you hire help. The danger is management by abdication: you hand a task over, feel relief and stop looking. Quality drops, clients complain, and you take everything back. Then you either shrink again, grow until you crash, or just survive, exhausted.",
+        "el": "Στη Νηπιακή φάση εσύ και η επιχείρηση είστε το ίδιο πράγμα: αν σταματήσεις εσύ, σταματά κι εκείνη. Τελειώνει όταν δεν χωρά άλλη δουλειά πάνω σου. Η Εφηβεία αρχίζει όταν προσλαμβάνεις βοήθεια. Ο κίνδυνος είναι η διοίκηση με παραίτηση: δίνεις μια δουλειά, ανακουφίζεσαι και παύεις να κοιτάς. Η ποιότητα πέφτει, οι πελάτες παραπονιούνται και τα ξαναπαίρνεις όλα πάνω σου. Τότε ή μικραίνεις ξανά, ή μεγαλώνεις μέχρι να σκάσεις, ή απλώς επιβιώνεις εξαντλημένος."
+      },
+      "example": {
+        "en": "In the book Sarah hires Elizabeth, who slowly takes over the books, the ordering and the staff. Sarah is thrilled and stops checking. One day Elizabeth quits, and Sarah finds she no longer knows how her own shop works. She had not delegated. She had walked away.",
+        "el": "Στο βιβλίο η Σάρα προσλαμβάνει την Ελίζαμπεθ, που σιγά σιγά αναλαμβάνει τα βιβλία, τις παραγγελίες και το προσωπικό. Η Σάρα χαίρεται και σταματά να ελέγχει. Μια μέρα η Ελίζαμπεθ φεύγει, και η Σάρα ανακαλύπτει ότι δεν ξέρει πια πώς λειτουργεί το ίδιο της το μαγαζί. Δεν είχε αναθέσει. Είχε απλώς φύγει."
+      },
+      "apply": {
+        "en": "Hand over one task this month the right way: write the steps, show them once, agree what 'done well' looks like, and check the result every week with one number. Delegating means you still look. Never give a task away just to stop thinking about it.",
+        "el": "Δώσε αυτόν τον μήνα μία δουλειά με τον σωστό τρόπο: γράψε τα βήματα, δείξ' τα μία φορά, συμφωνήστε τι σημαίνει «έγινε καλά» και έλεγχε το αποτέλεσμα κάθε εβδομάδα με ένα νούμερο. Ανάθεση σημαίνει ότι συνεχίζεις να κοιτάς. Μη δίνεις ποτέ μια δουλειά μόνο και μόνο για να μην τη σκέφτεσαι."
+      },
+      "check": {
+        "q": {"en": "What is 'management by abdication'?", "el": "Τι είναι η «διοίκηση με παραίτηση»;"},
+        "options": [
+          {"en": "Firing people the moment they make a mistake", "el": "Να απολύεις κάποιον με το πρώτο λάθος"},
+          {"en": "Handing work over and no longer checking it", "el": "Να δίνεις μια δουλειά και να μην την ελέγχεις πια"},
+          {"en": "Doing every task yourself to be safe", "el": "Να κάνεις όλες τις δουλειές μόνος σου για σιγουριά"}
+        ],
+        "answer": 1,
+        "why": {"en": "Delegation keeps you responsible for the result; abdication is handing it over and looking away.", "el": "Στην ανάθεση μένεις υπεύθυνος για το αποτέλεσμα· στην παραίτηση δίνεις τη δουλειά και γυρνάς αλλού το βλέμμα."}
+      }
+    },
+    {
+      "title": {"en": "Maturity is a perspective", "el": "Η ωριμότητα είναι οπτική"},
+      "explain": {
+        "en": "A mature company is not just an old or big one. It is a company that knows how it got where it is and what it must do to get where it wants to go. Gerber says the great companies did not grow into maturity. They started that way. From day one the founder had a clear picture of the finished business and acted every day to close the gap between today and that picture.",
+        "el": "Ώριμη εταιρεία δεν είναι απλώς η παλιά ή η μεγάλη. Είναι η εταιρεία που ξέρει πώς έφτασε εδώ που είναι και τι πρέπει να κάνει για να φτάσει εκεί που θέλει. Κατά τον Gerber, οι σπουδαίες εταιρείες δεν ωρίμασαν στην πορεία. Ξεκίνησαν ώριμες. Από την πρώτη μέρα ο ιδρυτής είχε καθαρή εικόνα της τελικής επιχείρησης και κάθε μέρα δούλευε για να κλείσει η απόσταση ανάμεσα στο σήμερα και σε αυτή την εικόνα."
+      },
+      "example": {
+        "en": "Gerber quotes Tom Watson of IBM. Watson said IBM succeeded because he had a clear picture of how the finished company would look, and he decided it had to act like that great company long before it became one.",
+        "el": "Ο Gerber φέρνει ως παράδειγμα τον Tom Watson της IBM. Ο Watson έλεγε ότι η IBM πέτυχε επειδή είχε από την αρχή καθαρή εικόνα για το πώς θα έμοιαζε η εταιρεία όταν θα ήταν έτοιμη, και αποφάσισε ότι έπρεπε να φέρεται σαν μεγάλη εταιρεία πολύ πριν γίνει."
+      },
+      "apply": {
+        "en": "Describe on one page Advon when it is 'finished': how many sites, how many people, what each person does, what you do each day. Then ask of every decision this week: does this bring today closer to that page, or is it just today's fire?",
+        "el": "Περίγραψε σε μία σελίδα την Advon όταν θα είναι «έτοιμη»: πόσες ιστοσελίδες, πόσοι άνθρωποι, τι κάνει ο καθένας, τι κάνεις εσύ κάθε μέρα. Μετά ρώτα για κάθε απόφαση της εβδομάδας: αυτό φέρνει το σήμερα πιο κοντά σε εκείνη τη σελίδα ή είναι απλώς η φωτιά της ημέρας;"
+      },
+      "check": {
+        "q": {"en": "According to Gerber, how do great companies reach maturity?", "el": "Κατά τον Gerber, πώς φτάνουν οι σπουδαίες εταιρείες στην ωριμότητα;"},
+        "options": [
+          {"en": "They wait until they are big enough", "el": "Περιμένουν μέχρι να μεγαλώσουν αρκετά"},
+          {"en": "They hire experienced managers from outside", "el": "Προσλαμβάνουν έμπειρους μάνατζερ απ' έξω"},
+          {"en": "They act like the finished company from the start", "el": "Φέρονται από την αρχή σαν την τελική εταιρεία"}
+        ],
+        "answer": 2,
+        "why": {"en": "Maturity is a way of seeing the business, with a clear picture of the end, not an age.", "el": "Η ωριμότητα είναι τρόπος να βλέπεις την επιχείρηση, με καθαρή εικόνα του τέλους, όχι ηλικία."}
+      }
+    },
+    {
+      "title": {"en": "The turn-key revolution", "el": "Η επανάσταση του «κλειδί στο χέρι»"},
+      "explain": {
+        "en": "The big change in business was the franchise that sells a whole way of working, not just a brand name. The buyer gets a complete system, turns the key and it runs. The real product is no longer the hamburger. The real product is the business itself. The founder's job is to design a business that works the same way in anyone's hands.",
+        "el": "Η μεγάλη αλλαγή στις επιχειρήσεις ήταν το franchise που πουλά ολόκληρο τρόπο δουλειάς, όχι μόνο ένα όνομα. Ο αγοραστής παίρνει ένα πλήρες σύστημα, γυρίζει το κλειδί και δουλεύει. Το πραγματικό προϊόν δεν είναι πια το χάμπουργκερ. Το πραγματικό προϊόν είναι η ίδια η επιχείρηση. Η δουλειά του ιδρυτή είναι να σχεδιάσει μια επιχείρηση που δουλεύει το ίδιο σε όποια χέρια κι αν βρεθεί."
+      },
+      "example": {
+        "en": "Ray Kroc was a milkshake-machine salesman. In 1954 he visited the McDonald brothers' stand in California and saw teenagers produce the same burger, fast, every time. He was amazed by the system, not the food. He sold that system to franchisees and built the biggest restaurant chain in the world.",
+        "el": "Ο Ray Kroc πουλούσε μηχανές για μιλκσέικ. Το 1954 επισκέφθηκε το μαγαζί των αδελφών McDonald στην Καλιφόρνια και είδε εφήβους να βγάζουν το ίδιο μπέργκερ, γρήγορα, κάθε φορά. Δεν τον εντυπωσίασε το φαγητό αλλά το σύστημα. Αυτό το σύστημα πούλησε σε franchisees και έχτισε τη μεγαλύτερη αλυσίδα εστιατορίων στον κόσμο."
+      },
+      "apply": {
+        "en": "Look at Advon as the product. Ask: if I sold 'the Advon way' to someone in another country tomorrow, what would I hand them? Write the list of what already exists (scripts, templates, checklists) and what lives only in your head. The second list is your work.",
+        "el": "Δες την Advon ως το προϊόν. Ρώτα: αν αύριο πουλούσα «τον τρόπο της Advon» σε κάποιον σε άλλη χώρα, τι θα του παρέδιδα; Γράψε τι υπάρχει ήδη (σενάρια κλήσεων, πρότυπα, checklists) και τι ζει μόνο στο κεφάλι σου. Η δεύτερη λίστα είναι η δουλειά σου."
+      },
+      "check": {
+        "q": {"en": "What did Ray Kroc really see as his product?", "el": "Τι θεωρούσε ο Ray Kroc πραγματικό του προϊόν;"},
+        "options": [
+          {"en": "The business system itself", "el": "Το ίδιο το σύστημα της επιχείρησης"},
+          {"en": "The best-tasting burger in America", "el": "Το πιο νόστιμο μπέργκερ της Αμερικής"},
+          {"en": "The famous name of the brothers", "el": "Το γνωστό όνομα των αδελφών"}
+        ],
+        "answer": 0,
+        "why": {"en": "He sold a way of working that gave the same result in any location.", "el": "Πούλησε έναν τρόπο δουλειάς που έδινε το ίδιο αποτέλεσμα σε κάθε κατάστημα."}
+      }
+    },
+    {
+      "title": {"en": "Work on it, not in it", "el": "Δούλεψε πάνω της, όχι μέσα της"},
+      "explain": {
+        "en": "This is the most famous line of the book. Working in the business is doing today's tasks. Working on the business is designing how those tasks get done. Gerber's trick: pretend your business is the prototype for 5,000 more just like it. You may never franchise, but the thought forces you to build something that gives the same value every time, is written down, and can be copied.",
+        "el": "Είναι η πιο γνωστή φράση του βιβλίου. Δουλεύω μέσα στην επιχείρηση σημαίνει κάνω τις δουλειές της ημέρας. Δουλεύω πάνω στην επιχείρηση σημαίνει σχεδιάζω πώς γίνονται αυτές οι δουλειές. Το κόλπο του Gerber: φέρσου σαν η επιχείρησή σου να είναι το πρότυπο για άλλες 5.000 ολόιδιες. Μπορεί να μην κάνεις ποτέ franchise, αλλά η σκέψη σε αναγκάζει να χτίσεις κάτι που δίνει την ίδια αξία κάθε φορά, είναι γραμμένο και αντιγράφεται."
+      },
+      "example": {
+        "en": "McDonald's did not open thousands of stores and then work out how to run them. The method was tested and written down in one restaurant first, then copied. Kroc later opened Hamburger University in 1961 to teach the same manual to every operator.",
+        "el": "Τα McDonald's δεν άνοιξαν χιλιάδες καταστήματα για να βρουν μετά πώς θα τα τρέξουν. Η μέθοδος δοκιμάστηκε και γράφτηκε πρώτα σε ένα εστιατόριο και μετά αντιγράφηκε. Το 1961 ο Kroc άνοιξε το Hamburger University για να διδάσκει το ίδιο εγχειρίδιο σε κάθε υπεύθυνο καταστήματος."
+      },
+      "apply": {
+        "en": "Pick the job you repeat most, for example taking a new client from 'yes' to first draft. Next time you do it, write every step as you go. That page is your first piece of the prototype. Ask: could a new person follow it without calling me?",
+        "el": "Διάλεξε τη δουλειά που επαναλαμβάνεις πιο συχνά, για παράδειγμα το πώς ένας νέος πελάτης πάει από το «ναι» στο πρώτο draft. Την επόμενη φορά γράψε κάθε βήμα την ώρα που το κάνεις. Αυτή η σελίδα είναι το πρώτο κομμάτι του προτύπου. Ρώτα: θα μπορούσε ένας καινούριος να την ακολουθήσει χωρίς να με πάρει τηλέφωνο;"
+      },
+      "check": {
+        "q": {"en": "Why pretend your business is the prototype for 5,000 more?", "el": "Γιατί να φέρεσαι σαν η επιχείρησή σου να είναι πρότυπο για άλλες 5.000;"},
+        "options": [
+          {"en": "Because every business should become a franchise", "el": "Γιατί κάθε επιχείρηση πρέπει να γίνει franchise"},
+          {"en": "It forces you to build a system anyone can repeat", "el": "Σε αναγκάζει να χτίσεις σύστημα που το επαναλαμβάνει ο καθένας"},
+          {"en": "It helps you raise money from investors", "el": "Σε βοηθά να βρεις χρήματα από επενδυτές"}
+        ],
+        "answer": 1,
+        "why": {"en": "The point is not franchising. It is designing work so it does not depend on you.", "el": "Ο στόχος δεν είναι το franchise. Είναι να σχεδιάσεις τη δουλειά ώστε να μην εξαρτάται από σένα."}
+      }
+    },
+    {
+      "title": {"en": "Systems, not experts", "el": "Συστήματα, όχι ειδικοί"},
+      "explain": {
+        "en": "A business that depends on brilliant people is fragile: they are expensive, hard to find, and when they leave, the result leaves with them. Gerber wants a system-dependent business, built so that ordinary people with ordinary skills produce excellent results. He says the model should be run by people with the lowest skill level needed for the job. The system carries the quality. The person runs the system.",
+        "el": "Μια επιχείρηση που στηρίζεται σε ιδιοφυΐες είναι εύθραυστη: κοστίζουν ακριβά, βρίσκονται δύσκολα και, όταν φύγουν, φεύγει μαζί τους και το αποτέλεσμα. Ο Gerber θέλει επιχείρηση που στηρίζεται στο σύστημα, φτιαγμένη έτσι ώστε συνηθισμένοι άνθρωποι με συνηθισμένες ικανότητες να βγάζουν εξαιρετικό αποτέλεσμα. Λέει ότι το μοντέλο πρέπει να δουλεύεται από ανθρώπους με το χαμηλότερο επίπεδο δεξιοτήτων που χρειάζεται η θέση. Την ποιότητα την κρατά το σύστημα. Ο άνθρωπος τρέχει το σύστημα."
+      },
+      "example": {
+        "en": "A McDonald's restaurant is mostly staffed by teenagers in their first job, yet the fries taste the same in Athens and in Chicago. Timers, fixed portions and written steps do what a star chef would do in a restaurant that depends on its chef.",
+        "el": "Ένα κατάστημα McDonald's το δουλεύουν κυρίως έφηβοι στην πρώτη τους δουλειά, κι όμως οι πατάτες έχουν την ίδια γεύση στην Αθήνα και στο Σικάγο. Χρονόμετρα, σταθερές μερίδες και γραμμένα βήματα κάνουν αυτό που σε άλλο εστιατόριο κάνει ένας σεφ-αστέρι."
+      },
+      "apply": {
+        "en": "Before you look for 'a great salesperson', write the cold call so that a decent beginner can follow it: opening line, three questions, answers to the five usual objections, the close. Test it yourself for a week. Then hire for attitude and give them the script.",
+        "el": "Πριν ψάξεις «έναν φοβερό πωλητή», γράψε το cold call έτσι που να το ακολουθεί ένας καλός αρχάριος: πρώτη φράση, τρεις ερωτήσεις, απαντήσεις στις πέντε συνηθισμένες αντιρρήσεις, κλείσιμο. Δοκίμασέ το ο ίδιος μία εβδομάδα. Μετά προσέλαβε με κριτήριο τη διάθεση και δώσε το σενάριο."
+      },
+      "check": {
+        "q": {"en": "In a system-dependent business, where does quality come from?", "el": "Σε μια επιχείρηση που στηρίζεται στο σύστημα, από πού βγαίνει η ποιότητα;"},
+        "options": [
+          {"en": "From hiring only the most talented people", "el": "Από το ότι προσλαμβάνεις μόνο τους πιο ταλαντούχους"},
+          {"en": "From the owner checking every single job", "el": "Από το ότι ο ιδιοκτήτης ελέγχει κάθε δουλειά"},
+          {"en": "From the way the work is designed and written", "el": "Από τον τρόπο που είναι σχεδιασμένη και γραμμένη η δουλειά"}
+        ],
+        "answer": 2,
+        "why": {"en": "The system makes ordinary people produce a result that is reliably good.", "el": "Το σύστημα κάνει συνηθισμένους ανθρώπους να βγάζουν σταθερά καλό αποτέλεσμα."}
+      }
+    },
+    {
+      "title": {"en": "Discretion is the enemy", "el": "Εχθρός είναι το «όπως νομίζει ο καθένας»"},
+      "explain": {
+        "en": "When each person does a task 'their own way', the customer gets a different experience every time. Customers do not come back for a great day. They come back for the same good thing, every time. So the system leaves as little as possible to personal choice. Standard work gives predictable results, and predictability is what the customer pays for. Gerber even wants the same colours, clothes and look everywhere.",
+        "el": "Όταν ο καθένας κάνει μια δουλειά «με τον δικό του τρόπο», ο πελάτης ζει κάτι διαφορετικό κάθε φορά. Ο πελάτης δεν ξανάρχεται για μια τέλεια μέρα. Ξανάρχεται για το ίδιο καλό πράγμα, κάθε φορά. Γι' αυτό το σύστημα αφήνει όσο γίνεται λιγότερα στην προσωπική κρίση. Η τυποποιημένη δουλειά δίνει προβλέψιμο αποτέλεσμα, και την προβλεψιμότητα πληρώνει ο πελάτης. Ο Gerber θέλει μέχρι και τα ίδια χρώματα, ρούχα και εικόνα παντού."
+      },
+      "example": {
+        "en": "Gerber tells of a barber. First visit: hair washed, cut with scissors only, coffee kept warm. Wonderful. Second visit: no wash, clippers, one coffee. Third visit: different again. Nothing was bad, but he never went back, because he could not know what he would get.",
+        "el": "Ο Gerber διηγείται την ιστορία ενός κουρέα. Πρώτη φορά: λούσιμο, κούρεμα μόνο με ψαλίδι, ζεστός καφές. Υπέροχα. Δεύτερη φορά: χωρίς λούσιμο, με μηχανή, ένας καφές. Τρίτη φορά: πάλι αλλιώς. Τίποτα δεν ήταν κακό, αλλά δεν ξαναπήγε ποτέ, γιατί δεν ήξερε τι θα βρει."
+      },
+      "apply": {
+        "en": "Decide what every Advon client gets, always: the same welcome message, the same days until the first draft, the same way to send changes, the same message on the day the site goes live. Write it as a short list and keep it even when you are tired or busy.",
+        "el": "Αποφάσισε τι παίρνει κάθε πελάτης της Advon, πάντα: το ίδιο μήνυμα καλωσορίσματος, τις ίδιες μέρες ως το πρώτο draft, τον ίδιο τρόπο να στέλνει αλλαγές, το ίδιο μήνυμα τη μέρα που βγαίνει live. Γράψ' το σε μια μικρή λίστα και κράτα το ακόμα κι όταν είσαι κουρασμένος ή πνιγμένος."
+      },
+      "check": {
+        "q": {"en": "Why did Gerber stop going to the barber?", "el": "Γιατί ο Gerber σταμάτησε να πηγαίνει στον κουρέα;"},
+        "options": [
+          {"en": "The experience changed on every visit", "el": "Η εμπειρία άλλαζε σε κάθε επίσκεψη"},
+          {"en": "The haircut was badly done", "el": "Το κούρεμα ήταν κακό"},
+          {"en": "The price kept going up", "el": "Η τιμή ανέβαινε συνέχεια"}
+        ],
+        "answer": 0,
+        "why": {"en": "Each visit was fine, but with no consistency he could not trust what he would get.", "el": "Κάθε επίσκεψη ήταν εντάξει, αλλά χωρίς συνέπεια δεν μπορούσε να εμπιστευτεί τι θα πάρει."}
+      }
+    },
+    {
+      "title": {"en": "Innovate, measure, lock in", "el": "Καινοτόμησε, μέτρα, κλείδωσε"},
+      "explain": {
+        "en": "Gerber's business development process has three steps that repeat forever. Innovation: find a better way to do something, usually a small thing in how you deal with customers. Quantification: put a number on it, so you know if the new way really works. Orchestration: once it works, make it the standard that everyone follows every time, until a better way is found. Without numbers you only have opinions.",
+        "el": "Η διαδικασία ανάπτυξης της επιχείρησης έχει τρία βήματα που επαναλαμβάνονται για πάντα. Καινοτομία: βρες έναν καλύτερο τρόπο να κάνεις κάτι, συνήθως κάτι μικρό στο πώς φέρεσαι στον πελάτη. Ποσοτικοποίηση: βάλ' του νούμερο, για να ξέρεις αν ο νέος τρόπος δουλεύει στ' αλήθεια. Ενορχήστρωση: αφού δουλέψει, κάν' το κανόνα που ακολουθούν όλοι κάθε φορά, μέχρι να βρεθεί κάτι καλύτερο. Χωρίς νούμερα έχεις μόνο γνώμες."
+      },
+      "example": {
+        "en": "Shop staff usually ask 'May I help you?' and hear 'No thanks, just looking'. Gerber says that asking 'Hi, have you been in here before?' instead opens a real conversation, and he claims shops that tested it saw sales rise by 10 to 16 percent.",
+        "el": "Οι πωλητές στα μαγαζιά ρωτούν συνήθως «Μπορώ να σας βοηθήσω;» και ακούν «Όχι, απλώς κοιτάω». Ο Gerber λέει ότι η ερώτηση «Καλησπέρα, έχετε ξανάρθει στο κατάστημά μας;» ανοίγει πραγματική κουβέντα, και υποστηρίζει ότι όσα μαγαζιά το δοκίμασαν είδαν τις πωλήσεις να ανεβαίνουν 10 με 16 τοις εκατό."
+      },
+      "apply": {
+        "en": "Test one change in your cold call opening for 50 calls and count meetings booked against your old opening. If the new one wins, it becomes the script for everyone. If not, drop it and try the next idea. One test at a time.",
+        "el": "Δοκίμασε μία αλλαγή στην πρώτη φράση του cold call για 50 κλήσεις και μέτρα πόσα ραντεβού κλείνεις σε σύγκριση με την παλιά. Αν κερδίσει η καινούρια, γίνεται το σενάριο για όλους. Αν όχι, πέτα την και δοκίμασε την επόμενη ιδέα. Ένα τεστ τη φορά."
+      },
+      "check": {
+        "q": {"en": "What does 'orchestration' mean here?", "el": "Τι σημαίνει εδώ «ενορχήστρωση»;"},
+        "options": [
+          {"en": "Trying many new ideas at the same time", "el": "Να δοκιμάζεις πολλές νέες ιδέες ταυτόχρονα"},
+          {"en": "Making the proven way the standard for everyone", "el": "Να κάνεις τον δοκιμασμένο τρόπο κανόνα για όλους"},
+          {"en": "Letting each employee choose their method", "el": "Να αφήνεις κάθε υπάλληλο να διαλέγει μέθοδο"}
+        ],
+        "answer": 1,
+        "why": {"en": "After you innovate and measure, you remove choice so the good result repeats.", "el": "Αφού καινοτομήσεις και μετρήσεις, αφαιρείς την επιλογή ώστε το καλό αποτέλεσμα να επαναλαμβάνεται."}
+      }
+    },
+    {
+      "title": {"en": "Your primary aim", "el": "Ο πρωταρχικός σου σκοπός"},
+      "explain": {
+        "en": "Before the business plan comes the life plan. Gerber says the business is not your life. It is a tool that should serve your life. So first answer: what do I want my life to look like? How do I want to spend my days, with whom, with how much money and free time? Great people, he says, create their lives on purpose. Everyone else lets life happen to them.",
+        "el": "Πριν από το πλάνο της επιχείρησης έρχεται το πλάνο της ζωής. Ο Gerber λέει ότι η επιχείρηση δεν είναι η ζωή σου. Είναι εργαλείο που πρέπει να υπηρετεί τη ζωή σου. Απάντησε λοιπόν πρώτα: πώς θέλω να μοιάζει η ζωή μου; Πώς θέλω να περνώ τις μέρες μου, με ποιους, με πόσα χρήματα και πόσο ελεύθερο χρόνο; Οι σπουδαίοι άνθρωποι, λέει, φτιάχνουν τη ζωή τους συνειδητά. Οι υπόλοιποι αφήνουν τη ζωή να τους συμβαίνει."
+      },
+      "example": {
+        "en": "Gerber asks the reader to imagine their own funeral: the room, the people, and a recording of your own voice telling the story of your life. What would you want that story to be? That story, written down, is your primary aim.",
+        "el": "Ο Gerber ζητά από τον αναγνώστη να φανταστεί την κηδεία του: την αίθουσα, τους ανθρώπους και μια ηχογράφηση με τη δική σου φωνή να διηγείται την ιστορία της ζωής σου. Ποια θα ήθελες να είναι αυτή η ιστορία; Αυτή η ιστορία, γραμμένη, είναι ο πρωταρχικός σου σκοπός."
+      },
+      "apply": {
+        "en": "Write half a page: an ordinary Tuesday five years from now. Where you wake up, what you work on, how many hours, who is around you. Then check Advon against it: is the business you are building today able to give you that Tuesday?",
+        "el": "Γράψε μισή σελίδα: μια συνηθισμένη Τρίτη σε πέντε χρόνια. Πού ξυπνάς, με τι ασχολείσαι, πόσες ώρες δουλεύεις, ποιοι είναι γύρω σου. Μετά σύγκρινε την Advon με αυτό: η επιχείρηση που χτίζεις σήμερα μπορεί να σου δώσει εκείνη την Τρίτη;"
+      },
+      "check": {
+        "q": {"en": "What comes first in Gerber's plan?", "el": "Τι έρχεται πρώτο στο πλάνο του Gerber;"},
+        "options": [
+          {"en": "The revenue target for the company", "el": "Ο στόχος τζίρου της εταιρείας"},
+          {"en": "The organisation chart of the company", "el": "Το οργανόγραμμα της εταιρείας"},
+          {"en": "What you want from your own life", "el": "Το τι θέλεις από τη δική σου ζωή"}
+        ],
+        "answer": 2,
+        "why": {"en": "The business exists to serve your life, so the life picture has to come first.", "el": "Η επιχείρηση υπάρχει για να υπηρετεί τη ζωή σου, άρα πρώτα έρχεται η εικόνα της ζωής."}
+      }
+    },
+    {
+      "title": {"en": "The strategic objective", "el": "Ο στρατηγικός στόχος"},
+      "explain": {
+        "en": "This is a short, clear statement of what the business must become to deliver your primary aim. It starts with money: how big, what revenue and profit, by when, so you can live the life you described. Then: is this an opportunity worth pursuing, with enough customers who have the problem? Then: what do you really sell? Not the thing, but the feeling the customer leaves with.",
+        "el": "Είναι μια σύντομη, καθαρή περιγραφή του τι πρέπει να γίνει η επιχείρηση για να σου δώσει τον πρωταρχικό σου σκοπό. Ξεκινά από τα χρήματα: πόσο μεγάλη, με τι τζίρο και κέρδος, μέχρι πότε, ώστε να ζεις τη ζωή που περιέγραψες. Μετά: αξίζει αυτή η ευκαιρία, υπάρχουν αρκετοί πελάτες με αυτό το πρόβλημα; Μετά: τι πουλάς στ' αλήθεια; Όχι το πράγμα, αλλά το συναίσθημα με το οποίο φεύγει ο πελάτης."
+      },
+      "example": {
+        "en": "Gerber quotes Charles Revson, founder of Revlon, who said that in the factory his company makes cosmetics, but in the store it sells hope. The cosmetics are the commodity. Hope is the product people actually buy.",
+        "el": "Ο Gerber αναφέρει τον Charles Revson, ιδρυτή της Revlon, που έλεγε ότι στο εργοστάσιο η εταιρεία του φτιάχνει καλλυντικά, αλλά στο κατάστημα πουλά ελπίδα. Τα καλλυντικά είναι το εμπόρευμα. Η ελπίδα είναι το προϊόν που αγοράζει πραγματικά ο κόσμος."
+      },
+      "apply": {
+        "en": "Write three lines. One: the number of paying sites and the yearly income Advon needs in three years. Two: the hours you want to work then. Three: what a doctor really buys from you, for example 'looking serious to new patients', not 'a website'. Use line three in your ads.",
+        "el": "Γράψε τρεις γραμμές. Μία: πόσες ιστοσελίδες που πληρώνουν και τι ετήσιο εισόδημα χρειάζεται η Advon σε τρία χρόνια. Δύο: πόσες ώρες θέλεις να δουλεύεις τότε. Τρεις: τι αγοράζει πραγματικά ένας γιατρός από σένα, π.χ. «να δείχνει σοβαρός στους νέους ασθενείς», όχι «μια ιστοσελίδα». Βάλε την τρίτη γραμμή στις διαφημίσεις σου."
+      },
+      "check": {
+        "q": {"en": "In Gerber's words, what is the 'product'?", "el": "Με τα λόγια του Gerber, τι είναι το «προϊόν»;"},
+        "options": [
+          {"en": "The feeling the customer walks away with", "el": "Το συναίσθημα με το οποίο φεύγει ο πελάτης"},
+          {"en": "The physical thing the customer carries out", "el": "Το αντικείμενο που παίρνει μαζί του ο πελάτης"},
+          {"en": "The cheapest item on the price list", "el": "Το φθηνότερο είδος στον τιμοκατάλογο"}
+        ],
+        "answer": 0,
+        "why": {"en": "The thing itself is the commodity; what people buy is how it makes them feel.", "el": "Το ίδιο το πράγμα είναι το εμπόρευμα· αυτό που αγοράζει ο κόσμος είναι το πώς τον κάνει να νιώθει."}
+      }
+    },
+    {
+      "title": {"en": "Org chart and position contracts", "el": "Οργανόγραμμα και συμβόλαια θέσης"},
+      "explain": {
+        "en": "Draw the organisation chart of the finished company now, by functions and not by people: sales, marketing, operations, finance, each with a box. Today your name is in almost every box. That is fine. For each box write a position contract: the results that position must deliver, the standards, and a signature. Then replace yourself box by box, starting from the bottom, and hand each new person the contract and the manual.",
+        "el": "Σχεδίασε από τώρα το οργανόγραμμα της τελικής εταιρείας, με βάση τις λειτουργίες και όχι τα πρόσωπα: πωλήσεις, marketing, παραγωγή, οικονομικά, καθεμία σε ένα κουτάκι. Σήμερα το όνομά σου είναι σχεδόν σε κάθε κουτάκι. Δεν πειράζει. Για κάθε κουτάκι γράψε ένα συμβόλαιο θέσης: ποια αποτελέσματα οφείλει να φέρνει η θέση, με ποια πρότυπα, και μια υπογραφή. Μετά αντικατάστησε τον εαυτό σου κουτάκι κουτάκι, από κάτω προς τα πάνω, δίνοντας στον καθένα το συμβόλαιο και το εγχειρίδιο."
+      },
+      "example": {
+        "en": "In the book two brothers-in-law, Jack and Murray, start a company called Widgets Unlimited. Before anything else they draw the full chart, from chief executive down to bookkeeper, and write their own two names in every box. Then they sign a contract for each position they hold.",
+        "el": "Στο βιβλίο δύο κουνιάδοι, ο Τζακ και ο Μάρεϊ, ξεκινούν μια εταιρεία με το όνομα Widgets Unlimited. Πριν από οτιδήποτε άλλο σχεδιάζουν ολόκληρο το οργανόγραμμα, από τον διευθύνοντα σύμβουλο ως τον λογιστή, και γράφουν τα δικά τους δύο ονόματα σε κάθε κουτάκι. Μετά υπογράφουν ένα συμβόλαιο για κάθε θέση που κρατούν."
+      },
+      "apply": {
+        "en": "Draw Advon's boxes: lead finding, cold calling, building, changes, client support, billing, marketing. Put the name of whoever does each today. Choose the lowest box you least need to hold yourself, write its results and steps, and make that your next hire or handover.",
+        "el": "Σχεδίασε τα κουτάκια της Advon: εύρεση leads, cold calls, χτίσιμο, αλλαγές, εξυπηρέτηση πελατών, εισπράξεις, marketing. Γράψε ποιος κάνει το καθένα σήμερα. Διάλεξε το χαμηλότερο κουτάκι που χρειάζεται λιγότερο να το κρατάς εσύ, γράψε τα αποτελέσματα και τα βήματά του, και κάν' το την επόμενη πρόσληψη ή ανάθεσή σου."
+      },
+      "check": {
+        "q": {"en": "What does a position contract describe?", "el": "Τι περιγράφει ένα συμβόλαιο θέσης;"},
+        "options": [
+          {"en": "The salary and holidays of the employee", "el": "Τον μισθό και τις άδειες του υπαλλήλου"},
+          {"en": "The results that position is accountable for", "el": "Τα αποτελέσματα για τα οποία λογοδοτεί η θέση"},
+          {"en": "The personality needed for the job", "el": "Τον χαρακτήρα που χρειάζεται η δουλειά"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is a written agreement on what the position must achieve and to what standard.", "el": "Είναι γραπτή συμφωνία για το τι πρέπει να πετυχαίνει η θέση και με ποια πρότυπα."}
+      }
+    },
+    {
+      "title": {"en": "Manage the system, not people", "el": "Διοίκησε το σύστημα, όχι τους ανθρώπους"},
+      "explain": {
+        "en": "You do not need brilliant managers. You need a management system. The manager's job is to make sure the system is followed and to improve it: checklists for every recurring task, an operations manual that says how 'we do it here', and a simple way to see that each step was done. When something goes wrong, the first question is what is missing in the system, not who is to blame.",
+        "el": "Δεν χρειάζεσαι λαμπρούς μάνατζερ. Χρειάζεσαι σύστημα διοίκησης. Δουλειά του μάνατζερ είναι να φροντίζει ότι το σύστημα τηρείται και να το βελτιώνει: checklists για κάθε επαναλαμβανόμενη δουλειά, ένα εγχειρίδιο λειτουργίας που λέει πώς «το κάνουμε εδώ», κι έναν απλό τρόπο να φαίνεται ότι κάθε βήμα έγινε. Όταν κάτι πάει στραβά, η πρώτη ερώτηση είναι τι λείπει από το σύστημα, όχι ποιος φταίει."
+      },
+      "example": {
+        "en": "Gerber describes a small hotel where everything was right without his asking: a fire lit, his brand of coffee ready at the hour he wanted, his newspaper at the door. The manager showed him the secret: a manual with a checklist for every job, signed by the person who did it.",
+        "el": "Ο Gerber περιγράφει ένα μικρό ξενοδοχείο όπου όλα ήταν σωστά χωρίς να ζητήσει τίποτα: το τζάκι αναμμένο, ο καφές που προτιμούσε έτοιμος την ώρα που ήθελε, η εφημερίδα του στην πόρτα. Ο διευθυντής τού έδειξε το μυστικό: ένα εγχειρίδιο με checklist για κάθε δουλειά, υπογεγραμμένη από αυτόν που την έκανε."
+      },
+      "apply": {
+        "en": "Make a go-live checklist that is ticked on every site before it is published: both languages checked, phone and address correct, forms tested, mobile checked, privacy page present. When a mistake still slips through, add one line to the list so it cannot happen again.",
+        "el": "Φτιάξε μια checklist δημοσίευσης που τσεκάρεται σε κάθε ιστοσελίδα πριν βγει live: ελέγχθηκαν και οι δύο γλώσσες, τηλέφωνο και διεύθυνση σωστά, οι φόρμες δοκιμάστηκαν, το κινητό ελέγχθηκε, υπάρχει σελίδα απορρήτου. Όταν παρ' όλα αυτά ξεφύγει ένα λάθος, πρόσθεσε μία γραμμή στη λίστα για να μην ξανασυμβεί."
+      },
+      "check": {
+        "q": {"en": "A mistake reaches a client. What does Gerber ask first?", "el": "Ένα λάθος φτάνει σε πελάτη. Τι ρωτά πρώτα ο Gerber;"},
+        "options": [
+          {"en": "Who did it and how to punish them", "el": "Ποιος το έκανε και πώς θα τιμωρηθεί"},
+          {"en": "How to find a more talented employee", "el": "Πώς θα βρεθεί ένας πιο ταλαντούχος υπάλληλος"},
+          {"en": "What the system is missing that allowed it", "el": "Τι λείπει από το σύστημα και το επέτρεψε"}
+        ],
+        "answer": 2,
+        "why": {"en": "Managers manage the system; fixing the system prevents the same mistake for everyone.", "el": "Ο μάνατζερ διοικεί το σύστημα· διορθώνοντας το σύστημα, το ίδιο λάθος δεν ξανασυμβαίνει σε κανέναν."}
+      }
+    },
+    {
+      "title": {"en": "People: make work a game", "el": "Άνθρωποι: κάνε τη δουλειά παιχνίδι"},
+      "explain": {
+        "en": "Owners ask: how do I get people to do what I want? Gerber's answer: you cannot. You can only build a place where doing the work well matters more to them than not doing it. People want a game worth playing, with clear rules and a clear way to win. So explain the idea behind the work before the work itself, state the rules, and never ask people to play a game you would not play.",
+        "el": "Οι ιδιοκτήτες ρωτούν: πώς θα κάνω τους ανθρώπους να κάνουν αυτό που θέλω; Η απάντηση του Gerber: δεν μπορείς. Μπορείς μόνο να φτιάξεις ένα μέρος όπου το να γίνει καλά η δουλειά τούς ενδιαφέρει περισσότερο από το να μη γίνει. Οι άνθρωποι θέλουν ένα παιχνίδι που αξίζει, με καθαρούς κανόνες και καθαρό τρόπο να κερδίσουν. Εξήγησε λοιπόν την ιδέα πίσω από τη δουλειά πριν από την ίδια τη δουλειά, πες τους κανόνες και μη ζητάς ποτέ να παίξουν ένα παιχνίδι που δεν θα έπαιζες εσύ."
+      },
+      "example": {
+        "en": "The hotel manager tells Gerber that at his first interview the owner did not talk about tasks. He talked about what the hotel stands for and why every small detail shows who they are. The young man said nobody had ever taken a job that seriously in front of him.",
+        "el": "Ο διευθυντής του ξενοδοχείου λέει στον Gerber ότι στην πρώτη του συνέντευξη ο ιδιοκτήτης δεν μίλησε για καθήκοντα. Μίλησε για το τι πρεσβεύει το ξενοδοχείο και γιατί κάθε μικρή λεπτομέρεια δείχνει ποιοι είναι. Ο νεαρός είπε ότι κανείς δεν είχε πάρει ποτέ μια δουλειά τόσο στα σοβαρά μπροστά του."
+      },
+      "apply": {
+        "en": "Start your next interview or team talk with the idea: 'We give Greek professionals a site they are proud of, without the usual cost and stress.' Then give the rules of the game and the score, for example calls made, meetings booked, days to first draft.",
+        "el": "Ξεκίνα την επόμενη συνέντευξη ή κουβέντα με την ομάδα από την ιδέα: «Δίνουμε στους Έλληνες επαγγελματίες μια ιστοσελίδα για την οποία είναι περήφανοι, χωρίς το συνηθισμένο κόστος και άγχος». Μετά πες τους κανόνες του παιχνιδιού και το σκορ, π.χ. κλήσεις, ραντεβού, μέρες ως το πρώτο draft."
+      },
+      "check": {
+        "q": {"en": "How does Gerber say you get people to do good work?", "el": "Πώς λέει ο Gerber ότι πετυχαίνεις καλή δουλειά από τους ανθρώπους;"},
+        "options": [
+          {"en": "By watching them closely all day", "el": "Παρακολουθώντας τους στενά όλη μέρα"},
+          {"en": "By building a game with clear rules and meaning", "el": "Χτίζοντας ένα παιχνίδι με καθαρούς κανόνες και νόημα"},
+          {"en": "By paying more than every competitor", "el": "Πληρώνοντας περισσότερα από κάθε ανταγωνιστή"}
+        ],
+        "answer": 1,
+        "why": {"en": "You cannot force people; you can create a setting where doing it well matters to them.", "el": "Δεν μπορείς να αναγκάσεις κανέναν· μπορείς να φτιάξεις ένα πλαίσιο όπου η καλή δουλειά έχει σημασία γι' αυτόν."}
+      }
+    },
+    {
+      "title": {"en": "Marketing: the unconscious buyer", "el": "Marketing: ο πελάτης αποφασίζει ασυνείδητα"},
+      "explain": {
+        "en": "Forget what you want. Only what the customer wants matters, and Gerber says the customer decides with the unconscious mind, very fast, then finds reasons afterwards. You need two things. Demographics: who your customer is, such as age, job, area. Psychographics: why they buy, meaning their fears, hopes and the picture they have of themselves. Everything they see and hear first must match that picture.",
+        "el": "Ξέχνα τι θέλεις εσύ. Σημασία έχει μόνο τι θέλει ο πελάτης, και ο Gerber λέει ότι ο πελάτης αποφασίζει με το ασυνείδητο, πολύ γρήγορα, και τους λόγους τούς βρίσκει μετά. Χρειάζεσαι δύο πράγματα. Δημογραφικά: ποιος είναι ο πελάτης σου, δηλαδή ηλικία, επάγγελμα, περιοχή. Ψυχογραφικά: γιατί αγοράζει, δηλαδή τους φόβους του, τις ελπίδες του και την εικόνα που έχει για τον εαυτό του. Ό,τι δει και ακούσει πρώτο πρέπει να ταιριάζει με αυτή την εικόνα."
+      },
+      "example": {
+        "en": "Gerber claims that a salesman in a navy blue suit is trusted more than the same man in an orange one, and that IBM's blue was no accident. He also says a sales meeting is won or lost in its first three minutes. He gives these as rules of thumb.",
+        "el": "Ο Gerber υποστηρίζει ότι ένας πωλητής με σκούρο μπλε κοστούμι εμπνέει περισσότερη εμπιστοσύνη από τον ίδιο άνθρωπο με πορτοκαλί, και ότι το μπλε της IBM δεν ήταν τυχαίο. Λέει επίσης ότι μια συνάντηση πώλησης κερδίζεται ή χάνεται στα πρώτα τρία λεπτά. Τα δίνει ως πρακτικούς κανόνες."
+      },
+      "apply": {
+        "en": "Write the psychographics of your best client type in five lines: what a dentist fears (looking outdated, losing patients to the practice next door), what he hopes for, how he sees himself. Then check the first five seconds of your ad and your call against those lines.",
+        "el": "Γράψε σε πέντε γραμμές τα ψυχογραφικά του καλύτερου τύπου πελάτη σου: τι φοβάται ένας οδοντίατρος (να φαίνεται ξεπερασμένος, να χάνει ασθενείς από το διπλανό ιατρείο), τι ελπίζει, πώς βλέπει τον εαυτό του. Μετά έλεγξε τα πρώτα πέντε δευτερόλεπτα της διαφήμισης και της κλήσης σου με βάση αυτές τις γραμμές."
+      },
+      "check": {
+        "q": {"en": "What do psychographics tell you?", "el": "Τι σου λένε τα ψυχογραφικά;"},
+        "options": [
+          {"en": "Why your customer buys", "el": "Γιατί αγοράζει ο πελάτης σου"},
+          {"en": "Where your customer lives", "el": "Πού μένει ο πελάτης σου"},
+          {"en": "How much your customer earns", "el": "Πόσα βγάζει ο πελάτης σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Demographics say who the buyer is; psychographics say what moves them to buy.", "el": "Τα δημογραφικά λένε ποιος είναι ο αγοραστής· τα ψυχογραφικά λένε τι τον κάνει να αγοράσει."}
+      }
+    },
+    {
+      "title": {"en": "A business that runs without you", "el": "Μια επιχείρηση που τρέχει χωρίς εσένα"},
+      "explain": {
+        "en": "Gerber names three kinds of systems. Hard systems are things: tools, software, colours. Soft systems are ways of acting, above all a selling system with a set order and set words. Information systems are the numbers that tell you how the other two perform. Joined together they give the real goal of the book: a business that works without you, so you can grow it, sell it, or simply be free.",
+        "el": "Ο Gerber ξεχωρίζει τρία είδη συστημάτων. Τα σκληρά είναι πράγματα: εργαλεία, λογισμικό, χρώματα. Τα μαλακά είναι τρόποι συμπεριφοράς, πάνω απ' όλα ένα σύστημα πώλησης με σταθερή σειρά και σταθερά λόγια. Τα συστήματα πληροφορίας είναι τα νούμερα που δείχνουν πώς πάνε τα άλλα δύο. Όλα μαζί δίνουν τον πραγματικό στόχο του βιβλίου: μια επιχείρηση που δουλεύει χωρίς εσένα, ώστε να τη μεγαλώσεις, να την πουλήσεις ή απλώς να είσαι ελεύθερος."
+      },
+      "example": {
+        "en": "Gerber describes a selling system in fixed steps: an appointment call that only sets the meeting, a needs meeting where a scripted set of questions is asked, and a solutions meeting. He says companies that used the same words every time sold more with beginners than before with veterans.",
+        "el": "Ο Gerber περιγράφει ένα σύστημα πώλησης με σταθερά βήματα: ένα τηλεφώνημα που κλείνει μόνο το ραντεβού, μια συνάντηση αναγκών με συγκεκριμένες, γραμμένες ερωτήσεις, και μια συνάντηση με τη λύση. Λέει ότι εταιρείες που χρησιμοποιούσαν τα ίδια λόγια κάθε φορά πουλούσαν περισσότερο με αρχάριους απ' ό,τι πριν με βετεράνους."
+      },
+      "apply": {
+        "en": "Run the one-week test in your head: if you disappeared for seven days with no phone, what would stop? List those things. Each one is a system that still lives only in you. Fix the top one this month, then repeat the test.",
+        "el": "Κάνε νοερά το τεστ της μίας εβδομάδας: αν εξαφανιζόσουν επτά μέρες χωρίς τηλέφωνο, τι θα σταματούσε; Γράψε τα σε λίστα. Το καθένα είναι ένα σύστημα που ζει ακόμα μόνο μέσα σου. Φτιάξε το πρώτο αυτόν τον μήνα και ξανακάνε το τεστ."
+      },
+      "check": {
+        "q": {"en": "What is the final goal of all these systems?", "el": "Ποιος είναι ο τελικός στόχος όλων αυτών των συστημάτων;"},
+        "options": [
+          {"en": "A business that needs the owner every day", "el": "Μια επιχείρηση που χρειάζεται τον ιδιοκτήτη κάθε μέρα"},
+          {"en": "A business with no employees at all", "el": "Μια επιχείρηση χωρίς κανέναν υπάλληλο"},
+          {"en": "A business that works without the owner", "el": "Μια επιχείρηση που δουλεύει χωρίς τον ιδιοκτήτη"}
+        ],
+        "answer": 2,
+        "why": {"en": "If it only works when you are there, you own a job, not a business.", "el": "Αν δουλεύει μόνο όταν είσαι εκεί, έχεις μια δουλειά, όχι μια επιχείρηση."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You are behind on three sites and think: 'I'll just work nights this month and catch up.' What does Gerber suggest?", "el": "Έχεις μείνει πίσω σε τρεις ιστοσελίδες και σκέφτεσαι: «Θα δουλέψω βράδια αυτόν τον μήνα και θα προλάβω». Τι προτείνει ο Gerber;"},
+      "options": [
+        {"en": "Work the nights; hard work is the answer", "el": "Δούλεψε τα βράδια· η σκληρή δουλειά είναι η λύση"},
+        {"en": "Write down the build steps so someone else can do part of it", "el": "Γράψε τα βήματα του χτισίματος ώστε ένα μέρος να το κάνει άλλος"},
+        {"en": "Stop taking new clients until you catch up", "el": "Σταμάτα να παίρνεις νέους πελάτες μέχρι να προλάβεις"}
+      ],
+      "answer": 1,
+      "why": {"en": "More Technician hours keep you in Infancy. A written process lets the work leave your hands.", "el": "Περισσότερες ώρες Τεχνίτη σε κρατούν στη Νηπιακή φάση. Μια γραμμένη διαδικασία επιτρέπει στη δουλειά να φύγει από τα χέρια σου."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "You hired someone to handle client changes. Two months later a client complains that a change was done wrong. What now?", "el": "Προσέλαβες κάποιον για τις αλλαγές των πελατών. Δύο μήνες μετά ένας πελάτης παραπονιέται ότι μια αλλαγή έγινε λάθος. Τι κάνεις;"},
+      "options": [
+        {"en": "Take all changes back and do them yourself", "el": "Παίρνεις πίσω όλες τις αλλαγές και τις κάνεις εσύ"},
+        {"en": "Say nothing and hope it was a one-off", "el": "Δεν λες τίποτα και ελπίζεις να ήταν μεμονωμένο"},
+        {"en": "Add a check step to the process and review weekly", "el": "Προσθέτεις βήμα ελέγχου στη διαδικασία και κάνεις εβδομαδιαίο έλεγχο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Taking it back is the Adolescence trap. Delegation means a system plus regular checking.", "el": "Το να τα πάρεις πίσω είναι η παγίδα της Εφηβείας. Ανάθεση σημαίνει σύστημα μαζί με τακτικό έλεγχο."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "One client got a welcome call, a guide and updates. The next got only a link. Both sites are good. What is the problem?", "el": "Ένας πελάτης πήρε τηλεφώνημα καλωσορίσματος, οδηγό και ενημερώσεις. Ο επόμενος πήρε μόνο ένα link. Και οι δύο ιστοσελίδες είναι καλές. Πού είναι το πρόβλημα;"},
+      "options": [
+        {"en": "The experience is not the same every time", "el": "Η εμπειρία δεν είναι ίδια κάθε φορά"},
+        {"en": "There is none, since both sites are good", "el": "Πουθενά, αφού και οι δύο ιστοσελίδες είναι καλές"},
+        {"en": "The first client got too much attention", "el": "Ο πρώτος πελάτης πήρε υπερβολική προσοχή"}
+      ],
+      "answer": 0,
+      "why": {"en": "Like the barber, good but unpredictable service loses trust and referrals.", "el": "Όπως με τον κουρέα, η καλή αλλά απρόβλεπτη εξυπηρέτηση χάνει εμπιστοσύνη και συστάσεις."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "You have a hunch that opening the call with a question about their Google reviews works better. What do you do?", "el": "Έχεις την αίσθηση ότι το cold call πάει καλύτερα αν ανοίξεις με μια ερώτηση για τις κριτικές τους στο Google. Τι κάνεις;"},
+      "options": [
+        {"en": "Switch at once, your instinct is enough", "el": "Αλλάζεις αμέσως, το ένστικτό σου αρκεί"},
+        {"en": "Test it on 50 calls and count the meetings", "el": "Το δοκιμάζεις σε 50 κλήσεις και μετράς τα ραντεβού"},
+        {"en": "Keep the old opening, it is safer", "el": "Κρατάς την παλιά αρχή, είναι πιο ασφαλής"}
+      ],
+      "answer": 1,
+      "why": {"en": "Innovation without quantification is only an opinion. Measure, then make the winner standard.", "el": "Καινοτομία χωρίς μέτρηση είναι απλώς γνώμη. Μέτρα, και μετά κάνε τον νικητή κανόνα."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "You want to hire your first salesperson. A friend says: 'Find a star who needs no training.' What would Gerber say?", "el": "Θέλεις να προσλάβεις τον πρώτο σου πωλητή. Ένας φίλος λέει: «Βρες ένα αστέρι που δεν θέλει εκπαίδευση». Τι θα έλεγε ο Gerber;"},
+      "options": [
+        {"en": "Yes, stars are the only safe hire", "el": "Ναι, μόνο τα αστέρια είναι σίγουρη πρόσληψη"},
+        {"en": "Do not hire, keep selling alone", "el": "Μην προσλάβεις, συνέχισε να πουλάς μόνος"},
+        {"en": "First build the selling system, then hire someone willing", "el": "Χτίσε πρώτα το σύστημα πώλησης, μετά πάρε κάποιον πρόθυμο"}
+      ],
+      "answer": 2,
+      "why": {"en": "A business built on stars is expert-dependent. A written selling system makes ordinary people effective.", "el": "Μια επιχείρηση χτισμένη πάνω σε αστέρια εξαρτάται από ειδικούς. Ένα γραμμένο σύστημα πώλησης κάνει αποτελεσματικούς και τους συνηθισμένους ανθρώπους."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "Advon is growing, but you have not had a free weekend in months and feel empty. Where does Gerber tell you to start?", "el": "Η Advon μεγαλώνει, αλλά έχεις μήνες να δεις ελεύθερο Σαββατοκύριακο και νιώθεις άδειος. Από πού σου λέει ο Gerber να ξεκινήσεις;"},
+      "options": [
+        {"en": "Decide what life you want, then shape the business to it", "el": "Αποφάσισε τι ζωή θέλεις και μετά φέρε την επιχείρηση στα μέτρα της"},
+        {"en": "Push harder until the business is bigger", "el": "Πίεσε κι άλλο μέχρι να μεγαλώσει η επιχείρηση"},
+        {"en": "Close the business and get a job", "el": "Κλείσε την επιχείρηση και βρες δουλειά"}
+      ],
+      "answer": 0,
+      "why": {"en": "The primary aim comes first: the business is a tool that should serve your life.", "el": "Πρώτα ο πρωταρχικός σκοπός: η επιχείρηση είναι εργαλείο που πρέπει να υπηρετεί τη ζωή σου."},
+      "idea": 9
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Gerber says most small businesses are started by natural entrepreneurs.", "el": "Ο Gerber λέει ότι τις περισσότερες μικρές επιχειρήσεις τις ξεκινούν γεννημένοι επιχειρηματίες."},
+      "answer": false,
+      "why": {"en": "That is the myth. Most are started by technicians who wanted to leave a boss.", "el": "Αυτός είναι ο μύθος. Τις περισσότερες τις ξεκινούν τεχνίτες που ήθελαν να φύγουν από ένα αφεντικό."}
+    },
+    {
+      "s": {"en": "The Manager in you wants order, and the Entrepreneur wants change.", "el": "Ο Μάνατζερ μέσα σου θέλει τάξη και ο Επιχειρηματίας θέλει αλλαγή."},
+      "answer": true,
+      "why": {"en": "The Manager looks to the past and control; the Entrepreneur to the future and new things.", "el": "Ο Μάνατζερ κοιτά το παρελθόν και τον έλεγχο· ο Επιχειρηματίας το μέλλον και το καινούριο."}
+    },
+    {
+      "s": {"en": "The franchise prototype idea only matters if you plan to sell franchises.", "el": "Η ιδέα του προτύπου για franchise έχει νόημα μόνο αν σκοπεύεις να πουλήσεις franchise."},
+      "answer": false,
+      "why": {"en": "It is a way of thinking that makes any business repeatable and independent of you.", "el": "Είναι τρόπος σκέψης που κάνει κάθε επιχείρηση επαναλήψιμη και ανεξάρτητη από σένα."}
+    },
+    {
+      "s": {"en": "A system-dependent business lets ordinary people produce very good results.", "el": "Μια επιχείρηση που στηρίζεται στο σύστημα επιτρέπει σε συνηθισμένους ανθρώπους να βγάζουν πολύ καλό αποτέλεσμα."},
+      "answer": true,
+      "why": {"en": "The quality sits in the design of the work, not in rare talent.", "el": "Η ποιότητα βρίσκεται στον σχεδιασμό της δουλειάς, όχι σε ένα σπάνιο ταλέντο."}
+    },
+    {
+      "s": {"en": "Delegating well means you no longer need to check the work.", "el": "Σωστή ανάθεση σημαίνει ότι δεν χρειάζεται πια να ελέγχεις τη δουλειά."},
+      "answer": false,
+      "why": {"en": "That is abdication. You stay responsible and keep looking at the results.", "el": "Αυτό είναι παραίτηση. Μένεις υπεύθυνος και συνεχίζεις να κοιτάς τα αποτελέσματα."}
+    },
+    {
+      "s": {"en": "In the first org chart, the owner's name may be in every box.", "el": "Στο πρώτο οργανόγραμμα, το όνομα του ιδιοκτήτη μπορεί να είναι σε κάθε κουτάκι."},
+      "answer": true,
+      "why": {"en": "You draw the finished company first, then replace yourself one box at a time.", "el": "Σχεδιάζεις πρώτα την τελική εταιρεία και μετά αντικαθιστάς τον εαυτό σου ένα κουτάκι τη φορά."}
+    },
+    {
+      "s": {"en": "Gerber wants staff to use their own judgement in how to serve each customer.", "el": "Ο Gerber θέλει το προσωπικό να κρίνει μόνο του πώς θα εξυπηρετήσει κάθε πελάτη."},
+      "answer": false,
+      "why": {"en": "He calls discretion the enemy: standard work is what makes the experience predictable.", "el": "Θεωρεί εχθρό το «όπως νομίζει ο καθένας»: η τυποποιημένη δουλειά κάνει την εμπειρία προβλέψιμη."}
+    },
+    {
+      "s": {"en": "Your primary aim is about your life, not about the company.", "el": "Ο πρωταρχικός σου σκοπός αφορά τη ζωή σου, όχι την εταιρεία."},
+      "answer": true,
+      "why": {"en": "First you decide the life you want; the strategic objective then shapes the business to fit it.", "el": "Πρώτα αποφασίζεις τη ζωή που θέλεις· ο στρατηγικός στόχος φέρνει μετά την επιχείρηση στα μέτρα της."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Technician", "el": "Τεχνίτης"}, "b": {"en": "Lives in the present and does the work", "el": "Ζει στο παρόν και κάνει τη δουλειά"}},
+    {"a": {"en": "Abdication", "el": "Παραίτηση"}, "b": {"en": "Handing work over and not checking it", "el": "Δίνεις τη δουλειά και δεν την ελέγχεις"}},
+    {"a": {"en": "Franchise prototype", "el": "Πρότυπο για franchise"}, "b": {"en": "Build it as if 5,000 copies will follow", "el": "Χτίζεις σαν να ακολουθούν 5.000 αντίγραφα"}},
+    {"a": {"en": "Quantification", "el": "Ποσοτικοποίηση"}, "b": {"en": "Putting numbers on a change to judge it", "el": "Βάζεις νούμερα σε μια αλλαγή για να την κρίνεις"}},
+    {"a": {"en": "Position contract", "el": "Συμβόλαιο θέσης"}, "b": {"en": "The results a role must deliver", "el": "Τα αποτελέσματα που οφείλει να φέρνει μια θέση"}},
+    {"a": {"en": "Psychographics", "el": "Ψυχογραφικά"}, "b": {"en": "Why the customer buys", "el": "Γιατί αγοράζει ο πελάτης"}}
+  ],
+  "missions": [
+    {"en": "Write down, step by step, one task you did today that you will do again next week.", "el": "Γράψε βήμα βήμα μία δουλειά που έκανες σήμερα και θα ξανακάνεις την επόμενη εβδομάδα."},
+    {"en": "Draw Advon's org chart by function and write a name in every box, even if it is always yours.", "el": "Σχεδίασε το οργανόγραμμα της Advon ανά λειτουργία και γράψε ένα όνομα σε κάθε κουτάκι, ακόμα κι αν είναι πάντα το δικό σου."},
+    {"en": "Describe in half a page an ordinary Tuesday of your life five years from now.", "el": "Περίγραψε σε μισή σελίδα μια συνηθισμένη Τρίτη της ζωής σου σε πέντε χρόνια."},
+    {"en": "Pick one number to track every week, for example meetings booked per 50 calls, and write this week's value.", "el": "Διάλεξε ένα νούμερο που θα παρακολουθείς κάθε εβδομάδα, π.χ. ραντεβού ανά 50 κλήσεις, και γράψε την τιμή αυτής της εβδομάδας."},
+    {"en": "Block one hour in your calendar this week named 'On the business' and spend it only on a process.", "el": "Κλείσε μία ώρα στο ημερολόγιο αυτή την εβδομάδα με τίτλο «Πάνω στην επιχείρηση» και αφιέρωσέ τη μόνο σε μια διαδικασία."}
+  ],
+  "mantra": {"en": "I build the system; the system does the work.", "el": "Εγώ χτίζω το σύστημα· το σύστημα κάνει τη δουλειά."},
+  "careful": {
+    "en": "Gerber's model is McDonald's, and not every business should feel like fast food. Creative or expert work, like design or medicine, needs judgement, and too many rules can kill quality and drive good people away. His numbers (sales up 10 to 16 percent, the blue suit, the first three minutes) are stories, not studies. Sarah is a teaching character. The book also sells his consulting. Take the principle, systems over heroics, and adapt it with sense.",
+    "el": "Το πρότυπο του Gerber είναι τα McDonald's, και δεν ταιριάζει σε κάθε επιχείρηση να θυμίζει fast food. Η δημιουργική ή εξειδικευμένη δουλειά, όπως ο σχεδιασμός ή η ιατρική, θέλει κρίση· οι πολλοί κανόνες μπορούν να σκοτώσουν την ποιότητα και να διώξουν τους καλούς. Τα νούμερά του (πωλήσεις +10 με 16%, το μπλε κοστούμι, τα πρώτα τρία λεπτά) είναι ιστορίες, όχι μελέτες. Η Σάρα είναι διδακτικός χαρακτήρας. Το βιβλίο διαφημίζει και τις συμβουλευτικές του υπηρεσίες. Κράτα την αρχή, συστήματα αντί για ηρωισμούς, και προσάρμοσέ τη με μυαλό."
+  },
+  "connects": [
+    {"book": "who-not-how", "note": {"en": "Who Not How says find the right person for each job; Gerber adds that the person needs a written system to step into.", "el": "Το Who Not How λέει να βρεις τον κατάλληλο άνθρωπο για κάθε δουλειά· ο Gerber προσθέτει ότι αυτός ο άνθρωπος χρειάζεται ένα γραμμένο σύστημα για να πατήσει."}},
+    {"book": "be-2-0", "note": {"en": "Collins also wants a company that lasts beyond its founder, but he puts great people first, while Gerber puts the system first.", "el": "Και ο Collins θέλει μια εταιρεία που αντέχει πέρα από τον ιδρυτή της, αλλά βάζει πρώτα τους σπουδαίους ανθρώπους, ενώ ο Gerber βάζει πρώτα το σύστημα."}},
+    {"book": "zero-to-one", "note": {"en": "Thiel asks what unique thing to build; Gerber shows how to make whatever you build run the same way every day.", "el": "Ο Thiel ρωτά ποιο μοναδικό πράγμα να χτίσεις· ο Gerber δείχνει πώς ό,τι χτίσεις θα δουλεύει το ίδιο κάθε μέρα."}}
+  ]
+}

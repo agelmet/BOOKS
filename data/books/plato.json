@@ -1,0 +1,558 @@
+{
+  "id": "plato",
+  "title": {"en": "Plato: Complete Works", "el": "Πλάτων: Άπαντα"},
+  "author": "Plato",
+  "authorEl": "Πλάτων",
+  "year": -380,
+  "shelf": "wisdom",
+  "skills": {"wisdom": 3, "communication": 2, "leadership": 2},
+  "oneLine": {
+    "en": "Question everything you think you know, put reason in charge of your desires, and look past appearances to what is truly good.",
+    "el": "Αμφισβήτησε όσα νομίζεις ότι ξέρεις, βάλε τη λογική να κυβερνά τις επιθυμίες σου και ψάξε πίσω από τα φαινόμενα το αληθινά καλό."
+  },
+  "story": {
+    "en": "Plato was an Athenian, a student of Socrates and the teacher of Aristotle. After Athens executed Socrates in 399 BC, he wrote about thirty-five dialogues, most with Socrates as the main speaker, and founded the Academy, a school that lasted for centuries. The dialogues ask what justice, knowledge, love and a good life are. Almost every later Western philosopher starts from his questions, to agree or to argue.",
+    "el": "Ο Πλάτων ήταν Αθηναίος, μαθητής του Σωκράτη και δάσκαλος του Αριστοτέλη. Όταν η Αθήνα εκτέλεσε τον Σωκράτη το 399 π.Χ., έγραψε περίπου τριάντα πέντε διαλόγους, τους περισσότερους με πρωταγωνιστή τον Σωκράτη, και ίδρυσε την Ακαδημία, μια σχολή που κράτησε αιώνες. Οι διάλογοι ρωτούν τι είναι δικαιοσύνη, γνώση, έρωτας και καλή ζωή. Σχεδόν κάθε μεταγενέστερος φιλόσοφος της Δύσης ξεκινά από τα ερωτήματά του, είτε για να συμφωνήσει είτε για να διαφωνήσει."
+  },
+  "forYou": {
+    "en": "You sell by talking, and Plato is the master of the good question. He teaches you to ask before you claim, to tell real knowledge from confident opinion, to keep your word when cheating would pay, and to let reason lead your moods and appetites. That is useful in every cold call, every hiring decision and every plan you make for the agency.",
+    "el": "Πουλάς μιλώντας, και ο Πλάτων είναι ο μάστορας της καλής ερώτησης. Σου μαθαίνει να ρωτάς πριν ισχυριστείς, να ξεχωρίζεις την πραγματική γνώση από τη σίγουρη γνώμη, να κρατάς τον λόγο σου ακόμη κι όταν η πονηριά θα συνέφερε, και να αφήνεις τη λογική να οδηγεί τη διάθεση και τις ορέξεις σου. Αυτό σου χρειάζεται σε κάθε cold call, σε κάθε πρόσληψη και σε κάθε σχέδιο για το γραφείο."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Philosophy is a way of life", "el": "Η φιλοσοφία είναι τρόπος ζωής"},
+      "explain": {
+        "en": "For Plato, philosophy is not a school subject. It is a daily practice: examining how you live and caring for your soul more than for money or fame. In the Apology Socrates says a life without examination is not worth living. In the Phaedo he calls philosophy a rehearsal for death: you train yourself to depend less on the body and its fears, so that when the end comes you are ready.",
+        "el": "Για τον Πλάτωνα η φιλοσοφία δεν είναι μάθημα. Είναι καθημερινή άσκηση: εξετάζεις πώς ζεις και φροντίζεις την ψυχή σου περισσότερο από τα χρήματα ή τη φήμη (η «επιμέλεια της ψυχής»). Στην Απολογία ο Σωκράτης λέει ότι «ο ανεξέταστος βίος ου βιωτός ανθρώπω». Στον Φαίδωνα ονομάζει τη φιλοσοφία «μελέτη θανάτου»: μαθαίνεις να εξαρτάσαι λιγότερο από το σώμα και τους φόβους του, ώστε όταν έρθει το τέλος να είσαι έτοιμος."
+      },
+      "example": {
+        "en": "In the Phaedo, Socrates spends his last day in prison calmly discussing with his friends whether the soul is immortal. When the hemlock arrives he drinks it without drama, while the others cry. Plato presents this calm as the proof that his philosophy was real.",
+        "el": "Στον Φαίδωνα ο Σωκράτης περνά την τελευταία του μέρα στη φυλακή συζητώντας ήρεμα με τους φίλους του αν η ψυχή είναι αθάνατη. Όταν φτάνει το κώνειο, το πίνει χωρίς δράματα, ενώ οι άλλοι κλαίνε. Ο Πλάτων δείχνει αυτή την ηρεμία ως απόδειξη ότι η φιλοσοφία του ήταν αληθινή."
+      },
+      "apply": {
+        "en": "Take ten minutes every Sunday evening and ask yourself three questions in writing: what did I chase this week, why, and would I be proud of it at the end of my life? Then change one thing in next week's plan based on the answer.",
+        "el": "Κράτα δέκα λεπτά κάθε Κυριακή βράδυ και απάντησε γραπτά σε τρεις ερωτήσεις: τι κυνήγησα αυτή την εβδομάδα, γιατί, και θα ήμουν περήφανος γι' αυτό στο τέλος της ζωής μου; Μετά άλλαξε ένα πράγμα στο πρόγραμμα της επόμενης εβδομάδας με βάση την απάντηση."
+      },
+      "check": {
+        "q": {"en": "What does Plato mean by calling philosophy a rehearsal for death?", "el": "Τι εννοεί ο Πλάτων όταν λέει τη φιλοσοφία «μελέτη θανάτου»;"},
+        "options": [
+          {"en": "Thinking about death all day until you feel sad", "el": "Να σκέφτεσαι τον θάνατο όλη μέρα μέχρι να λυπηθείς"},
+          {"en": "Training to depend less on the body and its fears", "el": "Να ασκείσαι ώστε να εξαρτάσαι λιγότερο από το σώμα και τους φόβους του"},
+          {"en": "Studying what doctors know about how people die", "el": "Να μελετάς όσα ξέρουν οι γιατροί για το πώς πεθαίνουμε"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is a way of living: you care for the soul and loosen the grip of bodily fears and appetites.", "el": "Είναι τρόπος ζωής: φροντίζεις την ψυχή και χαλαρώνεις τη λαβή που έχουν πάνω σου οι φόβοι και οι ορέξεις του σώματος."}
+      }
+    },
+    {
+      "title": {"en": "I know that I do not know", "el": "Γνωρίζω ότι δεν γνωρίζω"},
+      "explain": {
+        "en": "Wisdom starts when you admit the limits of what you know. In the Apology Socrates explains that he is wiser than others in one small thing only: when he does not know something, he does not pretend he does. The person who is sure he already knows stops looking and stops learning. The person who sees his ignorance keeps asking, and so keeps getting closer to the truth.",
+        "el": "Η σοφία αρχίζει όταν παραδεχτείς τα όρια της γνώσης σου. Στην Απολογία ο Σωκράτης εξηγεί ότι είναι σοφότερος από τους άλλους μόνο σε ένα μικρό πράγμα: όσα δεν ξέρει, δεν νομίζει κιόλας ότι τα ξέρει. Όποιος είναι σίγουρος ότι ξέρει ήδη, σταματά να ψάχνει και να μαθαίνει. Όποιος βλέπει την άγνοιά του συνεχίζει να ρωτά, κι έτσι πλησιάζει όλο και περισσότερο την αλήθεια. Αυτή είναι η σωκρατική άγνοια."
+      },
+      "example": {
+        "en": "His friend Chaerephon asked the oracle at Delphi if anyone was wiser than Socrates. The answer was no. Puzzled, Socrates questioned politicians, poets and craftsmen. He found that they all believed they knew things they could not explain, and that this made many of them hate him.",
+        "el": "Ο φίλος του ο Χαιρεφών ρώτησε το μαντείο των Δελφών αν υπάρχει κανείς σοφότερος από τον Σωκράτη. Η απάντηση ήταν όχι. Απορημένος, ο Σωκράτης πήγε και ρώτησε πολιτικούς, ποιητές και τεχνίτες. Είδε ότι όλοι πίστευαν πως ήξεραν πράγματα που δεν μπορούσαν να εξηγήσουν, και πολλοί τον μίσησαν γι' αυτό."
+      },
+      "apply": {
+        "en": "Write down three things you are sure about in your business, for example why doctors say no on the phone. Next to each, write how you know it. Where the answer is 'I just assume', test it this week with ten real calls and count.",
+        "el": "Γράψε τρία πράγματα για τα οποία είσαι σίγουρος στη δουλειά σου, για παράδειγμα γιατί οι γιατροί λένε όχι στο τηλέφωνο. Δίπλα σε καθένα γράψε πώς το ξέρεις. Όπου η απάντηση είναι «απλώς το υποθέτω», δοκίμασέ το αυτή την εβδομάδα σε δέκα πραγματικές κλήσεις και μέτρησε."
+      },
+      "check": {
+        "q": {"en": "In what way was Socrates wiser than the experts he questioned?", "el": "Σε τι ήταν σοφότερος ο Σωκράτης από τους ειδικούς που ρώτησε;"},
+        "options": [
+          {"en": "He did not think he knew what he did not know", "el": "Δεν νόμιζε ότι ήξερε όσα δεν ήξερε"},
+          {"en": "He had studied more subjects than all of them", "el": "Είχε σπουδάσει περισσότερα πράγματα απ' όλους"},
+          {"en": "He had received secret answers from the oracle", "el": "Είχε πάρει κρυφές απαντήσεις από το μαντείο"}
+        ],
+        "answer": 0,
+        "why": {"en": "His only advantage was honesty about his own ignorance, which kept him searching.", "el": "Το μόνο του πλεονέκτημα ήταν η ειλικρίνεια για τη δική του άγνοια, που τον κρατούσε σε αναζήτηση."}
+      }
+    },
+    {
+      "title": {"en": "Dialectic: truth through questions", "el": "Διαλεκτική: η αλήθεια με ερωτήσεις"},
+      "explain": {
+        "en": "Plato's method is conversation, not lecture. Socrates asks someone to define a thing, for example courage. Then he asks more questions until the definition contradicts something the person also believes. This testing is called elenchus. It cleans out false opinions, even if no final answer is found. In the Republic, dialectic becomes the highest study: reasoning step by step, by question and answer, up to first principles.",
+        "el": "Η μέθοδος του Πλάτωνα είναι η συζήτηση, όχι η διάλεξη. Ο Σωκράτης ζητά από κάποιον να ορίσει κάτι, για παράδειγμα την ανδρεία. Μετά ρωτά ξανά και ξανά, ώσπου ο ορισμός να συγκρουστεί με κάτι άλλο που ο ίδιος άνθρωπος πιστεύει. Αυτός είναι ο «έλεγχος». Καθαρίζει τις ψεύτικες γνώμες, ακόμη κι αν δεν βρεθεί τελική απάντηση (η «απορία»). Στην Πολιτεία η διαλεκτική γίνεται η ανώτερη σπουδή: ανεβαίνεις βήμα βήμα, με ερώτηση και απάντηση, ως τις πρώτες αρχές."
+      },
+      "example": {
+        "en": "In the Euthyphro, a man is taking his own father to court for impiety and is sure he knows what piety is. Socrates asks him to define it. Each of his answers fails under questioning, and in the end Euthyphro hurries away, saying he has no time.",
+        "el": "Στον Ευθύφρονα ένας άνθρωπος πηγαίνει τον ίδιο του τον πατέρα στο δικαστήριο για ασέβεια και είναι βέβαιος ότι ξέρει τι είναι το όσιο. Ο Σωκράτης του ζητά να το ορίσει. Κάθε του απάντηση καταρρέει στις ερωτήσεις, και στο τέλος ο Ευθύφρων φεύγει βιαστικά λέγοντας ότι δεν έχει χρόνο."
+      },
+      "apply": {
+        "en": "Replace your pitch with questions in the next cold call. When a dentist says 'I do not need a website', ask: 'How do new patients find you today? What do they see when they search your name?' Let him reach the conclusion himself.",
+        "el": "Αντικατάστησε την παρουσίασή σου με ερωτήσεις στο επόμενο cold call. Όταν ένας οδοντίατρος πει «δεν χρειάζομαι ιστοσελίδα», ρώτα: «Πώς σας βρίσκουν σήμερα οι νέοι ασθενείς; Τι βλέπουν όταν ψάχνουν το όνομά σας;» Άφησέ τον να φτάσει μόνος του στο συμπέρασμα."
+      },
+      "check": {
+        "q": {"en": "What is the main job of the Socratic elenchus?", "el": "Ποια είναι η βασική δουλειά του σωκρατικού ελέγχου;"},
+        "options": [
+          {"en": "To win the debate and embarrass the other person", "el": "Να κερδίσεις τη συζήτηση και να ντροπιάσεις τον άλλον"},
+          {"en": "To give a long, complete lecture on the subject", "el": "Να δώσεις μια μεγάλη, πλήρη διάλεξη για το θέμα"},
+          {"en": "To test an opinion with questions and clear out the false", "el": "Να δοκιμάσεις μια γνώμη με ερωτήσεις και να διώξεις το ψεύτικο"}
+        ],
+        "answer": 2,
+        "why": {"en": "The questions expose contradictions, so false opinions fall away and real searching can start.", "el": "Οι ερωτήσεις φανερώνουν τις αντιφάσεις, οπότε οι ψεύτικες γνώμες πέφτουν και αρχίζει η πραγματική αναζήτηση."}
+      }
+    },
+    {
+      "title": {"en": "Virtue is knowledge", "el": "Η αρετή είναι γνώση"},
+      "explain": {
+        "en": "In the Protagoras and the Meno, Socrates argues that nobody does wrong on purpose. Everyone wants what is good for them. When people act badly, they have miscalculated: a pleasure that is close looks bigger than a harm that is far, like objects seen from near and from far. So courage, self-control and justice are really one thing: knowing what is truly good and bad. If you really knew, you would act well.",
+        "el": "Στον Πρωταγόρα και στον Μένωνα ο Σωκράτης υποστηρίζει ότι κανείς δεν κάνει το κακό με τη θέλησή του («ουδείς εκών κακός»). Όλοι θέλουμε το καλό μας. Όταν φερόμαστε άσχημα, έχουμε κάνει λάθος υπολογισμό: η ηδονή που είναι κοντά φαίνεται μεγαλύτερη από τη ζημιά που είναι μακριά, όπως τα αντικείμενα από κοντά και από μακριά. Άρα η ανδρεία, η σωφροσύνη και η δικαιοσύνη είναι στο βάθος ένα πράγμα: να ξέρεις τι είναι αληθινά καλό και κακό. Αν ήξερες πραγματικά, θα έπραττες σωστά."
+      },
+      "example": {
+        "en": "In the Protagoras, Socrates takes the common phrase 'I was overcome by pleasure', as when someone eats or drinks too much knowing it is bad. He argues that this is really an error of measurement, and that what would save us is an art of measuring pleasures and pains correctly.",
+        "el": "Στον Πρωταγόρα ο Σωκράτης παίρνει τη συνηθισμένη φράση «με νίκησε η ηδονή», όπως όταν κάποιος τρώει ή πίνει πολύ ενώ ξέρει ότι του κάνει κακό. Υποστηρίζει ότι στην ουσία είναι λάθος μέτρησης, και ότι αυτό που θα μας έσωζε είναι μια «μετρητική τέχνη» για τις ηδονές και τις λύπες."
+      },
+      "apply": {
+        "en": "Write the real cost next to your most common bad habit, for example skipping the morning calls. Put numbers on it: how many meetings and how much income per month it costs. Keep the paper on your desk so the far harm looks as big as the near comfort.",
+        "el": "Γράψε το πραγματικό κόστος δίπλα στην πιο συχνή κακή σου συνήθεια, για παράδειγμα όταν παραλείπεις τα πρωινά τηλεφωνήματα. Βάλε αριθμούς: πόσα ραντεβού και πόσα έσοδα τον μήνα σου κοστίζει. Κράτα το χαρτί στο γραφείο, ώστε η μακρινή ζημιά να φαίνεται όσο μεγάλη είναι η κοντινή βολή."
+      },
+      "check": {
+        "q": {"en": "According to Socrates, why do people do bad things?", "el": "Κατά τον Σωκράτη, γιατί οι άνθρωποι κάνουν κακά πράγματα;"},
+        "options": [
+          {"en": "Because human nature is evil from birth", "el": "Επειδή η ανθρώπινη φύση είναι κακή από γεννησιμιού"},
+          {"en": "Because they misjudge what is truly good for them", "el": "Επειδή κρίνουν λάθος τι είναι αληθινά καλό γι' αυτούς"},
+          {"en": "Because the gods push them to make mistakes", "el": "Επειδή οι θεοί τους σπρώχνουν να κάνουν λάθη"}
+        ],
+        "answer": 1,
+        "why": {"en": "For Socrates wrongdoing is ignorance: a wrong measurement of good and bad, not a wish for evil.", "el": "Για τον Σωκράτη το κακό είναι άγνοια: λάθος μέτρηση του καλού και του κακού, όχι επιθυμία για το κακό."}
+      }
+    },
+    {
+      "title": {"en": "Better to suffer wrong than do it", "el": "Καλύτερα να αδικείσαι παρά να αδικείς"},
+      "explain": {
+        "en": "In the Gorgias, Socrates says that doing injustice is worse than suffering it, because it damages your own soul, and the soul is what you live with. In the Crito he adds: never answer a wrong with another wrong, and keep your agreements. In the Republic, Glaucon tests this with the ring of Gyges, which makes its owner invisible. Plato's answer: even unseen, the unjust man is sick inside, and the just man is the happier one.",
+        "el": "Στον Γοργία ο Σωκράτης λέει ότι το να αδικείς είναι χειρότερο από το να αδικείσαι, γιατί βλάπτει τη δική σου ψυχή, και με την ψυχή σου ζεις. Στον Κρίτωνα προσθέτει: ποτέ μην απαντάς στο άδικο με άδικο, και κράτα τις συμφωνίες σου. Στην Πολιτεία ο Γλαύκων το δοκιμάζει με το δαχτυλίδι του Γύγη, που κάνει αόρατο όποιον το φορά. Η απάντηση του Πλάτωνα: ακόμη κι όταν δεν τον βλέπει κανείς, ο άδικος είναι άρρωστος μέσα του, και ο δίκαιος είναι ο πιο ευτυχισμένος."
+      },
+      "example": {
+        "en": "In the Crito, his rich friend Crito has arranged everything for Socrates to escape from prison before the execution. Socrates refuses. He has lived seventy years under the laws of Athens and accepted them, so breaking them now, just because the verdict hurts him, would be unjust.",
+        "el": "Στον Κρίτωνα ο πλούσιος φίλος του ο Κρίτων έχει κανονίσει τα πάντα για να δραπετεύσει ο Σωκράτης από τη φυλακή πριν από την εκτέλεση. Ο Σωκράτης αρνείται. Έζησε εβδομήντα χρόνια κάτω από τους νόμους της Αθήνας και τους δέχτηκε, άρα το να τους παραβεί τώρα, μόνο επειδή η απόφαση τον πονά, θα ήταν άδικο."
+      },
+      "apply": {
+        "en": "Decide your red lines before the pressure comes. Never promise a client a Google ranking or a result you cannot guarantee, even if that promise would close the sale today. Tell him plainly what you do and do not offer, and accept losing that deal.",
+        "el": "Αποφάσισε τις κόκκινες γραμμές σου πριν έρθει η πίεση. Μην υποσχεθείς ποτέ σε πελάτη θέση στο Google ή αποτέλεσμα που δεν μπορείς να εγγυηθείς, ακόμη κι αν αυτή η υπόσχεση θα έκλεινε την πώληση σήμερα. Πες του καθαρά τι προσφέρεις και τι όχι, και δέξου να χάσεις εκείνη τη συμφωνία."
+      },
+      "check": {
+        "q": {"en": "Why is doing injustice worse than suffering it, for Plato?", "el": "Γιατί για τον Πλάτωνα το να αδικείς είναι χειρότερο από το να αδικείσαι;"},
+        "options": [
+          {"en": "Because sooner or later the courts will punish you", "el": "Επειδή αργά ή γρήγορα θα σε τιμωρήσουν τα δικαστήρια"},
+          {"en": "Because other people will stop trusting your word", "el": "Επειδή οι άλλοι θα πάψουν να εμπιστεύονται τον λόγο σου"},
+          {"en": "Because it harms your own soul, even if nobody sees", "el": "Επειδή βλάπτει τη δική σου ψυχή, ακόμη κι αν δεν το δει κανείς"}
+        ],
+        "answer": 2,
+        "why": {"en": "The ring of Gyges removes punishment and reputation; what remains is the damage to the soul itself.", "el": "Το δαχτυλίδι του Γύγη αφαιρεί την τιμωρία και τη φήμη· αυτό που μένει είναι η ζημιά στην ίδια την ψυχή."}
+      }
+    },
+    {
+      "title": {"en": "The Theory of Forms", "el": "Η θεωρία των Ιδεών"},
+      "explain": {
+        "en": "Plato's most famous idea, in the Phaedo and the Republic. The things we see and touch change, break and die. So they cannot be the full reality. Behind them stand the Forms: perfect, unchanging patterns such as Beauty itself, Justice itself, the Equal itself. Beautiful things are beautiful because they share in Beauty. We reach the Forms with the mind, not the eyes. Highest of all is the Form of the Good, which Plato compares to the sun.",
+        "el": "Η πιο γνωστή ιδέα του Πλάτωνα, στον Φαίδωνα και στην Πολιτεία. Όσα βλέπουμε και αγγίζουμε αλλάζουν, χαλάνε και πεθαίνουν. Άρα δεν μπορεί να είναι η πλήρης πραγματικότητα. Πίσω τους βρίσκονται οι Ιδέες (ή Είδη): τέλεια, αμετάβλητα πρότυπα, όπως το ίδιο το Ωραίο, το ίδιο το Δίκαιο, το ίδιο το Ίσο. Τα ωραία πράγματα είναι ωραία επειδή «μετέχουν» στο Ωραίο. Τις Ιδέες τις φτάνουμε με τον νου, όχι με τα μάτια. Ανώτερη όλων είναι η Ιδέα του Αγαθού, που ο Πλάτων την παρομοιάζει με τον ήλιο."
+      },
+      "example": {
+        "en": "Draw a circle on paper. Under a magnifying glass the line is uneven, so it is not a perfect circle. Yet geometry proves exact truths about the circle. Those truths are about the perfect circle that we only think, and every drawn circle is a rough copy of it.",
+        "el": "Σχεδίασε έναν κύκλο σε ένα χαρτί. Με μεγεθυντικό φακό η γραμμή είναι ανώμαλη, άρα δεν είναι τέλειος κύκλος. Κι όμως η γεωμετρία αποδεικνύει ακριβείς αλήθειες για τον κύκλο. Αυτές αφορούν τον τέλειο κύκλο που μόνο τον σκεφτόμαστε, και κάθε ζωγραφισμένος κύκλος είναι ένα πρόχειρο αντίγραφό του."
+      },
+      "apply": {
+        "en": "Describe in one page the ideal version of your service: what the perfect client experience looks like from the first call to the live site. Then compare each real project with this model and fix the biggest gap first.",
+        "el": "Περίγραψε σε μία σελίδα την ιδανική μορφή της υπηρεσίας σου: πώς είναι η τέλεια εμπειρία του πελάτη από το πρώτο τηλεφώνημα μέχρι να βγει η ιστοσελίδα live. Μετά σύγκρινε κάθε πραγματικό έργο με αυτό το πρότυπο και διόρθωσε πρώτα το μεγαλύτερο κενό."
+      },
+      "check": {
+        "q": {"en": "What is a Form, according to Plato?", "el": "Τι είναι μια Ιδέα κατά τον Πλάτωνα;"},
+        "options": [
+          {"en": "A perfect, unchanging pattern that things only copy", "el": "Ένα τέλειο, αμετάβλητο πρότυπο που τα πράγματα απλώς αντιγράφουν"},
+          {"en": "A private thought inside one person's head", "el": "Μια προσωπική σκέψη μέσα στο κεφάλι ενός ανθρώπου"},
+          {"en": "The most beautiful physical object of its kind", "el": "Το πιο όμορφο υλικό αντικείμενο του είδους του"}
+        ],
+        "answer": 0,
+        "why": {"en": "Forms are not objects and not private thoughts: they are the stable realities that changing things share in.", "el": "Οι Ιδέες δεν είναι αντικείμενα ούτε προσωπικές σκέψεις: είναι οι σταθερές πραγματικότητες στις οποίες μετέχουν τα πράγματα που αλλάζουν."}
+      }
+    },
+    {
+      "title": {"en": "Learning is remembering", "el": "Η μάθηση είναι ανάμνηση"},
+      "explain": {
+        "en": "In the Meno and the Phaedo, Plato says the soul is immortal and saw the Forms before it entered a body. So real learning is not filling an empty head. It is recollection: the right questions wake up knowledge that is already inside. This is why Socrates compares himself to a midwife in the Theaetetus. He does not give birth to ideas; he helps the other person deliver their own.",
+        "el": "Στον Μένωνα και στον Φαίδωνα ο Πλάτων λέει ότι η ψυχή είναι αθάνατη και είδε τις Ιδέες πριν μπει σε σώμα. Άρα η αληθινή μάθηση δεν είναι να γεμίζεις ένα άδειο κεφάλι. Είναι ανάμνηση: οι σωστές ερωτήσεις ξυπνούν μια γνώση που υπάρχει ήδη μέσα μας. Γι' αυτό στον Θεαίτητο ο Σωκράτης παρομοιάζει τον εαυτό του με μαία (η «μαιευτική»). Δεν γεννά ο ίδιος τις ιδέες· βοηθά τον άλλον να γεννήσει τις δικές του."
+      },
+      "example": {
+        "en": "In the Meno, Socrates calls a slave boy who never studied geometry and asks how to double the area of a square. The boy first guesses wrong, sees his mistake, and then, only by answering questions, finds the answer: build the new square on the diagonal.",
+        "el": "Στον Μένωνα ο Σωκράτης φωνάζει ένα δουλόπαιδο που δεν έμαθε ποτέ γεωμετρία και το ρωτά πώς διπλασιάζεται το εμβαδόν ενός τετραγώνου. Το παιδί πρώτα απαντά λάθος, βλέπει το λάθος του, και μετά, μόνο απαντώντας σε ερωτήσεις, βρίσκει τη λύση: το νέο τετράγωνο χτίζεται πάνω στη διαγώνιο."
+      },
+      "apply": {
+        "en": "Train a new team member with questions, not instructions. After a call that went badly, ask: 'Where did he lose interest? What would you say differently?' An answer the person finds alone stays much longer than one you hand over.",
+        "el": "Εκπαίδευσε ένα νέο μέλος της ομάδας με ερωτήσεις, όχι με οδηγίες. Μετά από ένα τηλεφώνημα που πήγε άσχημα, ρώτα: «Σε ποιο σημείο έχασε το ενδιαφέρον του; Τι θα έλεγες αλλιώς;» Η απάντηση που βρίσκει κάποιος μόνος του μένει πολύ περισσότερο από αυτή που του δίνεις έτοιμη."
+      },
+      "check": {
+        "q": {"en": "What does the slave boy scene in the Meno try to show?", "el": "Τι θέλει να δείξει η σκηνή με το δουλόπαιδο στον Μένωνα;"},
+        "options": [
+          {"en": "That slaves in Athens were taught mathematics", "el": "Ότι οι δούλοι στην Αθήνα μάθαιναν μαθηματικά"},
+          {"en": "That knowledge can be drawn out from within by questions", "el": "Ότι η γνώση βγαίνει από μέσα μας με ερωτήσεις"},
+          {"en": "That geometry is too hard for people without school", "el": "Ότι η γεωμετρία είναι πολύ δύσκολη χωρίς σχολείο"}
+        ],
+        "answer": 1,
+        "why": {"en": "The boy is told nothing; he reaches the answer through questions, which Plato reads as recollection.", "el": "Στο παιδί δεν λένε τίποτα· φτάνει στη λύση με ερωτήσεις, και ο Πλάτων το ερμηνεύει ως ανάμνηση."}
+      }
+    },
+    {
+      "title": {"en": "The Allegory of the Cave", "el": "Η αλληγορία του σπηλαίου"},
+      "explain": {
+        "en": "In Republic Book 7, people sit chained in a cave from birth, facing a wall. Behind them a fire throws shadows of carried objects on the wall, and they take the shadows for reality. One prisoner is freed, climbs out with pain, and slowly sees real things and finally the sun, the Good. He goes back to free the others. His eyes are now bad in the dark, so they laugh at him and would kill him. Education is turning the whole soul toward the light.",
+        "el": "Στο έβδομο βιβλίο της Πολιτείας, άνθρωποι κάθονται αλυσοδεμένοι από τη γέννησή τους σε ένα σπήλαιο, με το πρόσωπο στον τοίχο. Πίσω τους μια φωτιά ρίχνει στον τοίχο σκιές αντικειμένων, και εκείνοι περνούν τις σκιές για πραγματικότητα. Ένας δεσμώτης λύνεται, ανεβαίνει με πόνο έξω και σιγά σιγά βλέπει τα αληθινά πράγματα και στο τέλος τον ήλιο, το Αγαθό. Γυρίζει πίσω να ελευθερώσει τους άλλους. Τα μάτια του δεν βλέπουν πια καλά στο σκοτάδι, γι' αυτό τον κοροϊδεύουν και θα τον σκότωναν. Παιδεία είναι να στρέψεις όλη την ψυχή προς το φως («περιαγωγή»)."
+      },
+      "example": {
+        "en": "Plato is pointing at a real event. Socrates spent his life telling Athenians that what they valued were shadows. In 399 BC a jury of about five hundred citizens found him guilty of impiety and corrupting the young, and sentenced him to death.",
+        "el": "Ο Πλάτων δείχνει ένα πραγματικό γεγονός. Ο Σωκράτης πέρασε τη ζωή του λέγοντας στους Αθηναίους ότι όσα θεωρούσαν σπουδαία ήταν σκιές. Το 399 π.Χ. ένα δικαστήριο από περίπου πεντακόσιους πολίτες τον έκρινε ένοχο για ασέβεια και διαφθορά των νέων και τον καταδίκασε σε θάνατο."
+      },
+      "apply": {
+        "en": "Expect resistance when you show a professional something new, and go slowly. A doctor who has worked for twenty years with only word of mouth will not see it at once. Show one real example from a colleague in his specialty and let his eyes adjust.",
+        "el": "Περίμενε αντίσταση όταν δείχνεις σε έναν επαγγελματία κάτι καινούριο, και πήγαινε αργά. Ένας γιατρός που δουλεύει είκοσι χρόνια μόνο με συστάσεις δεν θα το δει αμέσως. Δείξε του ένα πραγματικό παράδειγμα συναδέλφου της ειδικότητάς του και άφησε τα μάτια του να συνηθίσουν."
+      },
+      "check": {
+        "q": {"en": "What do the shadows on the cave wall stand for?", "el": "Τι συμβολίζουν οι σκιές στον τοίχο του σπηλαίου;"},
+        "options": [
+          {"en": "The souls of people who have already died", "el": "Τις ψυχές των ανθρώπων που έχουν ήδη πεθάνει"},
+          {"en": "The dreams people see when they are asleep", "el": "Τα όνειρα που βλέπουν οι άνθρωποι όταν κοιμούνται"},
+          {"en": "Appearances and opinions we mistake for reality", "el": "Τα φαινόμενα και τις γνώμες που περνάμε για πραγματικότητα"}
+        ],
+        "answer": 2,
+        "why": {"en": "The prisoners take copies of copies for the truth; only the climb out shows what is real.", "el": "Οι δεσμώτες περνούν τα αντίγραφα των αντιγράφων για αλήθεια· μόνο η ανάβαση δείχνει τι είναι πραγματικό."}
+      }
+    },
+    {
+      "title": {"en": "The soul has three parts", "el": "Η ψυχή έχει τρία μέρη"},
+      "explain": {
+        "en": "In Republic Book 4, the soul has three parts. Reason thinks and looks at the whole. Spirit is the part that gets angry, feels pride and loves honour. Appetite wants food, sex, money and comfort. A person is just, and at peace, when each part does its own job: reason rules, spirit backs reason up, and appetite obeys. When appetite or anger takes over, there is civil war inside. In the Phaedrus the picture is a charioteer with two horses.",
+        "el": "Στο τέταρτο βιβλίο της Πολιτείας η ψυχή έχει τρία μέρη. Το λογιστικό σκέφτεται και βλέπει το σύνολο. Το θυμοειδές είναι το μέρος που θυμώνει, νιώθει περηφάνια και αγαπά την τιμή. Το επιθυμητικό θέλει φαγητό, έρωτα, χρήμα και άνεση. Ο άνθρωπος είναι δίκαιος και ήρεμος όταν κάθε μέρος κάνει τη δική του δουλειά: το λογιστικό κυβερνά, το θυμοειδές το στηρίζει και το επιθυμητικό υπακούει. Όταν πάρει το πάνω χέρι η επιθυμία ή ο θυμός, μέσα σου γίνεται εμφύλιος. Στον Φαίδρο η εικόνα είναι ένας ηνίοχος με δύο άλογα."
+      },
+      "example": {
+        "en": "Plato tells of Leontius, who walked past dead bodies at the place of execution. He wanted to look and at the same time felt disgust. He fought himself, then ran to the corpses and cursed his own eyes. His anger sided with reason against appetite.",
+        "el": "Ο Πλάτων διηγείται για τον Λεόντιο, που πέρασε δίπλα από πτώματα στον τόπο των εκτελέσεων. Ήθελε να κοιτάξει και ταυτόχρονα σιχαινόταν. Πάλεψε με τον εαυτό του, μετά έτρεξε στα πτώματα και καταράστηκε τα ίδια του τα μάτια. Ο θυμός του πήρε το μέρος της λογικής εναντίον της επιθυμίας."
+      },
+      "apply": {
+        "en": "Name which part is speaking before you answer a rude client or a painful message. If it is anger or the wish for quick money, wait one hour. Then let reason write the reply, and use your pride as fuel to do the hard thing well.",
+        "el": "Ονόμασε ποιο μέρος μιλάει πριν απαντήσεις σε έναν αγενή πελάτη ή σε ένα μήνυμα που σε πείραξε. Αν είναι ο θυμός ή η δίψα για γρήγορο χρήμα, περίμενε μία ώρα. Μετά άφησε το λογιστικό να γράψει την απάντηση, και κάνε την περηφάνια σου καύσιμο για να κάνεις καλά το δύσκολο."
+      },
+      "check": {
+        "q": {"en": "When is a person just, according to the Republic?", "el": "Πότε είναι δίκαιος ένας άνθρωπος, σύμφωνα με την Πολιτεία;"},
+        "options": [
+          {"en": "When reason rules and the other two parts follow it", "el": "Όταν το λογιστικό κυβερνά και τα άλλα δύο μέρη το ακολουθούν"},
+          {"en": "When all his desires have been completely removed", "el": "Όταν όλες του οι επιθυμίες έχουν σβήσει εντελώς"},
+          {"en": "When his three parts have exactly equal power", "el": "Όταν τα τρία μέρη του έχουν ακριβώς ίση δύναμη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Justice in the soul is order: each part does its own work under the lead of reason.", "el": "Η δικαιοσύνη στην ψυχή είναι τάξη: κάθε μέρος κάνει το έργο του με οδηγό το λογιστικό."}
+      }
+    },
+    {
+      "title": {"en": "The just city and its philosopher-king", "el": "Η δίκαιη πόλη και ο φιλόσοφος-βασιλιάς"},
+      "explain": {
+        "en": "The Republic builds a city that mirrors the soul. Producers provide goods, guardians defend, and rulers decide. Justice is each class doing its own work. Rulers must be philosophers: people who love truth, know the Good, and do not want power. They are trained and tested until the age of fifty, own no property and have no private family, so they cannot be bought. Women can rule too. Until philosophers rule or rulers become philosophers, Plato says, cities will have no rest from troubles.",
+        "el": "Η Πολιτεία χτίζει μια πόλη που καθρεφτίζει την ψυχή. Οι δημιουργοί παράγουν, οι φύλακες υπερασπίζονται και οι άρχοντες αποφασίζουν. Δικαιοσύνη είναι να κάνει κάθε τάξη το δικό της έργο («τα εαυτού πράττειν»). Οι άρχοντες πρέπει να είναι φιλόσοφοι: άνθρωποι που αγαπούν την αλήθεια, γνωρίζουν το Αγαθό και δεν θέλουν την εξουσία. Εκπαιδεύονται και δοκιμάζονται ως τα πενήντα τους, δεν έχουν περιουσία ούτε δική τους οικογένεια, ώστε να μην εξαγοράζονται. Και οι γυναίκες μπορούν να κυβερνούν. Ώσπου να κυβερνήσουν οι φιλόσοφοι ή να φιλοσοφήσουν οι άρχοντες, λέει ο Πλάτων, οι πόλεις δεν θα ησυχάσουν από τα κακά."
+      },
+      "example": {
+        "en": "Plato tried it in real life. He travelled to Syracuse in Sicily, and in 367 and 361 BC he tried to turn the young tyrant Dionysius II into a philosopher-ruler. It failed completely. Dionysius did not want to study, and Plato was lucky to get home.",
+        "el": "Ο Πλάτων το δοκίμασε στην πράξη. Ταξίδεψε στις Συρακούσες της Σικελίας, και το 367 και το 361 π.Χ. προσπάθησε να κάνει τον νεαρό τύραννο Διονύσιο Β΄ φιλόσοφο-άρχοντα. Απέτυχε εντελώς. Ο Διονύσιος δεν ήθελε να μελετήσει, και ο Πλάτων στάθηκε τυχερός που γύρισε πίσω."
+      },
+      "apply": {
+        "en": "Give each role in the agency to the person who truly knows that work, and do not let the loudest voice decide. Before a big decision, ask who actually understands the subject. And as the leader, keep learning: block two hours a week only for study.",
+        "el": "Δώσε κάθε ρόλο στο γραφείο σε αυτόν που ξέρει πραγματικά τη δουλειά, και μην αφήνεις να αποφασίζει η πιο δυνατή φωνή. Πριν από μια μεγάλη απόφαση, ρώτα ποιος καταλαβαίνει στ' αλήθεια το θέμα. Και ως επικεφαλής συνέχισε να μαθαίνεις: κλείσε δύο ώρες την εβδομάδα μόνο για μελέτη."
+      },
+      "check": {
+        "q": {"en": "Why should philosophers rule, in Plato's view?", "el": "Γιατί, κατά τον Πλάτωνα, πρέπει να κυβερνούν οι φιλόσοφοι;"},
+        "options": [
+          {"en": "Because they come from the richest old families", "el": "Επειδή κατάγονται από τις πιο πλούσιες παλιές οικογένειες"},
+          {"en": "Because they know the Good and do not crave power", "el": "Επειδή γνωρίζουν το Αγαθό και δεν διψούν για εξουσία"},
+          {"en": "Because they are the best speakers in the assembly", "el": "Επειδή είναι οι καλύτεροι ρήτορες στην εκκλησία του δήμου"}
+        ],
+        "answer": 1,
+        "why": {"en": "For Plato ruling is a skill based on knowledge, and the safest ruler is the one who does not want the job.", "el": "Για τον Πλάτωνα η διακυβέρνηση είναι τέχνη που θέλει γνώση, και ο πιο ασφαλής άρχοντας είναι όποιος δεν θέλει τη θέση."}
+      }
+    },
+    {
+      "title": {"en": "How cities decay into tyranny", "el": "Πώς οι πόλεις καταλήγουν στην τυραννία"},
+      "explain": {
+        "en": "In Republic Books 8 and 9, Plato describes how regimes fall, each from too much of what it loves. The rule of the best becomes rule by honour-lovers (timocracy), then rule by the rich (oligarchy), then democracy, where freedom is the highest value. Too much freedom brings disorder, and the people choose a strong protector, who becomes a tyrant. Each regime also matches a type of person. The tyrant, a slave of his own desires, is the least happy of all.",
+        "el": "Στο όγδοο και στο ένατο βιβλίο της Πολιτείας ο Πλάτων περιγράφει πώς πέφτουν τα πολιτεύματα, το καθένα από την υπερβολή αυτού που αγαπά. Η αριστοκρατία, η εξουσία των αρίστων, γίνεται τιμοκρατία (κυβερνούν όσοι αγαπούν την τιμή), μετά ολιγαρχία (κυβερνούν οι πλούσιοι), μετά δημοκρατία, όπου η ελευθερία είναι η ανώτερη αξία. Η υπερβολική ελευθερία φέρνει αταξία, και ο λαός διαλέγει έναν δυνατό προστάτη, που γίνεται τύραννος. Κάθε πολίτευμα αντιστοιχεί και σε έναν τύπο ανθρώπου. Ο τύραννος, δούλος των επιθυμιών του, είναι ο πιο δυστυχισμένος απ' όλους."
+      },
+      "example": {
+        "en": "Plato mentions the well-known trick of asking the people for a bodyguard. Peisistratus did exactly this in Athens around 561 BC: he showed wounds, said his enemies had attacked him, received armed guards from the assembly, and used them to seize the Acropolis.",
+        "el": "Ο Πλάτων αναφέρει το γνωστό κόλπο του να ζητήσεις από τον λαό σωματοφύλακες. Ο Πεισίστρατος έκανε ακριβώς αυτό στην Αθήνα γύρω στο 561 π.Χ.: έδειξε τραύματα, είπε ότι του επιτέθηκαν οι εχθροί του, πήρε από την εκκλησία του δήμου ένοπλη φρουρά και με αυτή κατέλαβε την Ακρόπολη."
+      },
+      "apply": {
+        "en": "Ask what your business loves too much, because that is where it will break. If it is growth at any price, quality falls. If it is freedom with no rules, chaos comes. Write one simple rule this week that protects you from your favourite excess.",
+        "el": "Ρώτα τι αγαπά υπερβολικά η επιχείρησή σου, γιατί από εκεί θα σπάσει. Αν είναι η ανάπτυξη με κάθε κόστος, πέφτει η ποιότητα. Αν είναι η ελευθερία χωρίς κανόνες, έρχεται το χάος. Γράψε αυτή την εβδομάδα έναν απλό κανόνα που σε προστατεύει από την αγαπημένη σου υπερβολή."
+      },
+      "check": {
+        "q": {"en": "In Plato's account, what turns democracy into tyranny?", "el": "Στην περιγραφή του Πλάτωνα, τι μετατρέπει τη δημοκρατία σε τυραννία;"},
+        "options": [
+          {"en": "Excess freedom leads to disorder and a strong protector", "el": "Η υπερβολική ελευθερία φέρνει αταξία και έναν δυνατό προστάτη"},
+          {"en": "A foreign army conquers the city from outside", "el": "Ένας ξένος στρατός κατακτά την πόλη από έξω"},
+          {"en": "The philosophers decide to take power by force", "el": "Οι φιλόσοφοι αποφασίζουν να πάρουν την εξουσία με τη βία"}
+        ],
+        "answer": 0,
+        "why": {"en": "Each regime is ruined by the excess of its own highest value; for democracy that value is freedom.", "el": "Κάθε πολίτευμα το καταστρέφει η υπερβολή της δικής του ανώτερης αξίας· για τη δημοκρατία αυτή είναι η ελευθερία."}
+      }
+    },
+    {
+      "title": {"en": "Art copies a copy", "el": "Η τέχνη αντιγράφει το αντίγραφο"},
+      "explain": {
+        "en": "In Republic Book 10, Plato attacks poetry and painting. First, art is imitation: it copies visible things, which are already copies of the Forms, so it stands far from the truth. Second, it feeds the emotional part of the soul and weakens reason: we enjoy crying in the theatre and then cry more easily in life. In the Ion he adds that poets create by inspiration, not knowledge. So the ideal city censors stories and sends most poets away.",
+        "el": "Στο δέκατο βιβλίο της Πολιτείας ο Πλάτων επιτίθεται στην ποίηση και στη ζωγραφική. Πρώτον, η τέχνη είναι «μίμησις»: αντιγράφει τα ορατά πράγματα, που είναι ήδη αντίγραφα των Ιδεών, άρα βρίσκεται μακριά από την αλήθεια. Δεύτερον, τρέφει το συναισθηματικό μέρος της ψυχής και αδυνατίζει το λογιστικό: χαιρόμαστε να κλαίμε στο θέατρο και μετά κλαίμε πιο εύκολα στη ζωή. Στον Ίωνα προσθέτει ότι οι ποιητές δημιουργούν με έμπνευση, όχι με γνώση. Γι' αυτό η ιδανική πόλη λογοκρίνει τους μύθους και διώχνει τους περισσότερους ποιητές."
+      },
+      "example": {
+        "en": "Plato's own example is a bed. There is the Form of the bed. The carpenter makes a real bed by looking to it. The painter paints only how that bed looks from one side. He needs no knowledge of carpentry, yet his picture can fool children and simple people.",
+        "el": "Το παράδειγμα του ίδιου του Πλάτωνα είναι ένα κρεβάτι. Υπάρχει η Ιδέα του κρεβατιού. Ο μαραγκός φτιάχνει ένα πραγματικό κρεβάτι κοιτώντας προς αυτήν. Ο ζωγράφος ζωγραφίζει μόνο πώς φαίνεται το κρεβάτι από μια πλευρά. Δεν χρειάζεται να ξέρει μαραγκική, κι όμως η εικόνα του ξεγελά τα παιδιά και τους αφελείς."
+      },
+      "apply": {
+        "en": "Check every ad and every website you make against the real thing. A beautiful image that shows a practice better than it is will bring one visit and a disappointed patient. Use the client's real photos and real reviews, so the picture matches the truth.",
+        "el": "Σύγκρινε κάθε διαφήμιση και κάθε ιστοσελίδα που φτιάχνεις με το πραγματικό. Μια ωραία εικόνα που δείχνει ένα ιατρείο καλύτερο απ' ό,τι είναι θα φέρει μία επίσκεψη και έναν απογοητευμένο ασθενή. Βάλε τις αληθινές φωτογραφίες και τις αληθινές κριτικές του πελάτη, ώστε η εικόνα να ταιριάζει με την αλήθεια."
+      },
+      "check": {
+        "q": {"en": "What are Plato's two complaints about art?", "el": "Ποιες είναι οι δύο κατηγορίες του Πλάτωνα εναντίον της τέχνης;"},
+        "options": [
+          {"en": "It costs the city money and wastes working time", "el": "Κοστίζει χρήματα στην πόλη και σπαταλά χρόνο εργασίας"},
+          {"en": "It is too difficult and too boring for most people", "el": "Είναι πολύ δύσκολη και πολύ βαρετή για τους πολλούς"},
+          {"en": "It shows false images and strengthens emotion over reason", "el": "Δείχνει ψεύτικες εικόνες και δυναμώνει το συναίσθημα έναντι της λογικής"}
+        ],
+        "answer": 2,
+        "why": {"en": "Art is a copy of a copy, and it feeds the part of the soul that reason should rule.", "el": "Η τέχνη είναι αντίγραφο του αντιγράφου και τρέφει το μέρος της ψυχής που θα έπρεπε να το κυβερνά η λογική."}
+      }
+    },
+    {
+      "title": {"en": "Love as a ladder", "el": "Ο έρωτας ως σκάλα"},
+      "explain": {
+        "en": "In the Symposium, Socrates repeats what the priestess Diotima taught him. Eros is a desire for what we lack: to have the good forever. It can climb like a ladder. You start by loving one beautiful body. Then you see beauty in all bodies, then in souls and characters, then in laws and knowledge. At the top you see Beauty itself, eternal and unchanging. So desire is not the enemy of philosophy. It is the energy that pulls us upward.",
+        "el": "Στο Συμπόσιο ο Σωκράτης επαναλαμβάνει όσα του δίδαξε η ιέρεια Διοτίμα. Ο έρωτας είναι επιθυμία για αυτό που μας λείπει: να έχουμε το αγαθό για πάντα. Μπορεί να ανέβει σαν σκάλα. Ξεκινάς αγαπώντας ένα ωραίο σώμα. Μετά βλέπεις την ομορφιά σε όλα τα σώματα, μετά στις ψυχές και στους χαρακτήρες, μετά στους νόμους και στη γνώση. Στην κορυφή βλέπεις το ίδιο το Ωραίο, αιώνιο και αμετάβλητο. Άρα η επιθυμία δεν είναι εχθρός της φιλοσοφίας. Είναι η ενέργεια που μας τραβά προς τα πάνω."
+      },
+      "example": {
+        "en": "The dialogue is set at a dinner in the house of the poet Agathon in 416 BC, where each guest gives a speech on love. Aristophanes tells his famous myth: humans were once double beings, cut in half by Zeus, and each of us searches for the other half.",
+        "el": "Ο διάλογος γίνεται σε ένα δείπνο στο σπίτι του ποιητή Αγάθωνα το 416 π.Χ., όπου κάθε καλεσμένος βγάζει έναν λόγο για τον έρωτα. Ο Αριστοφάνης λέει τον περίφημο μύθο του: οι άνθρωποι ήταν κάποτε διπλά πλάσματα, ο Δίας τους έκοψε στη μέση, και ο καθένας μας ψάχνει το άλλο του μισό."
+      },
+      "apply": {
+        "en": "Follow what attracts you one step higher. You like a beautiful website: ask what makes it beautiful, then study the principle behind it, such as order, proportion and clarity. Spend twenty minutes this week turning one thing you admire into a rule you can reuse.",
+        "el": "Ακολούθησε αυτό που σε τραβά ένα σκαλί πιο πάνω. Σου αρέσει μια όμορφη ιστοσελίδα: ρώτα τι την κάνει όμορφη, και μετά μελέτησε την αρχή που κρύβεται πίσω της, όπως η τάξη, η αναλογία και η καθαρότητα. Αφιέρωσε είκοσι λεπτά αυτή την εβδομάδα για να κάνεις κάτι που θαυμάζεις κανόνα που ξαναχρησιμοποιείς."
+      },
+      "check": {
+        "q": {"en": "What stands at the top of Diotima's ladder?", "el": "Τι βρίσκεται στην κορυφή της σκάλας της Διοτίμας;"},
+        "options": [
+          {"en": "The perfect partner who completes your other half", "el": "Ο τέλειος σύντροφος που συμπληρώνει το άλλο σου μισό"},
+          {"en": "Beauty itself, eternal and beyond any single thing", "el": "Το ίδιο το Ωραίο, αιώνιο και πέρα από κάθε επιμέρους πράγμα"},
+          {"en": "A life with no desire or attraction of any kind", "el": "Μια ζωή χωρίς καμία επιθυμία και καμία έλξη"}
+        ],
+        "answer": 1,
+        "why": {"en": "Love starts with one body and rises to the Form of Beauty; the other half belongs to Aristophanes' speech.", "el": "Ο έρωτας ξεκινά από ένα σώμα και ανεβαίνει ως την Ιδέα του Ωραίου· το «άλλο μισό» είναι από τον λόγο του Αριστοφάνη."}
+      }
+    },
+    {
+      "title": {"en": "Persuasion without truth is flattery", "el": "Πειθώ χωρίς αλήθεια είναι κολακεία"},
+      "explain": {
+        "en": "In the Gorgias, Socrates says that the rhetoric of his time is not a real skill. It is flattery: it gives the crowd what pleases, not what is good, the way a pastry cook competes with a doctor. In the Phaedrus he describes good rhetoric: the speaker knows the truth of the subject and knows the soul of the listener. There he also warns that writing weakens memory and cannot answer questions, unlike a living conversation.",
+        "el": "Στον Γοργία ο Σωκράτης λέει ότι η ρητορική της εποχής του δεν είναι αληθινή τέχνη. Είναι «κολακεία»: δίνει στο πλήθος αυτό που του αρέσει, όχι αυτό που του κάνει καλό, όπως ο ζαχαροπλάστης ανταγωνίζεται τον γιατρό. Στον Φαίδρο περιγράφει την καλή ρητορική («ψυχαγωγία»): ο ομιλητής γνωρίζει την αλήθεια του θέματος και γνωρίζει την ψυχή του ακροατή. Εκεί προειδοποιεί επίσης ότι η γραφή αδυνατίζει τη μνήμη και δεν μπορεί να απαντήσει σε ερωτήσεις, σε αντίθεση με τη ζωντανή συζήτηση."
+      },
+      "example": {
+        "en": "In the Phaedrus, Socrates tells an Egyptian story. The god Theuth presents writing to King Thamus as a medicine for memory. The king answers that it will do the opposite: people will stop using their memory and will seem wise without being so.",
+        "el": "Στον Φαίδρο ο Σωκράτης λέει μια αιγυπτιακή ιστορία. Ο θεός Θευθ παρουσιάζει τη γραφή στον βασιλιά Θαμού ως φάρμακο για τη μνήμη. Ο βασιλιάς απαντά ότι θα κάνει το αντίθετο: οι άνθρωποι θα πάψουν να ασκούν τη μνήμη τους και θα φαίνονται σοφοί χωρίς να είναι."
+      },
+      "apply": {
+        "en": "Learn two things before every sales meeting: the true facts of your offer, with its limits, and what this specific person cares about. Speak to a careful accountant differently than to an ambitious young dentist. Never say a pleasant thing that is not true.",
+        "el": "Μάθε δύο πράγματα πριν από κάθε ραντεβού πώλησης: τα αληθινά στοιχεία της προσφοράς σου, μαζί με τα όριά της, και τι ενδιαφέρει τον συγκεκριμένο άνθρωπο. Μίλα διαφορετικά σε έναν προσεκτικό λογιστή και διαφορετικά σε έναν φιλόδοξο νέο οδοντίατρο. Ποτέ μη λες κάτι ευχάριστο που δεν είναι αλήθεια."
+      },
+      "check": {
+        "q": {"en": "What makes rhetoric good, according to the Phaedrus?", "el": "Τι κάνει τη ρητορική καλή, σύμφωνα με τον Φαίδρο;"},
+        "options": [
+          {"en": "Knowing the truth and the soul of the listener", "el": "Να γνωρίζεις την αλήθεια και την ψυχή του ακροατή"},
+          {"en": "Using long words and many clever figures", "el": "Να χρησιμοποιείς μεγάλες λέξεις και πολλά έξυπνα σχήματα"},
+          {"en": "Telling the audience exactly what pleases it", "el": "Να λες στο ακροατήριο ακριβώς αυτό που του αρέσει"}
+        ],
+        "answer": 0,
+        "why": {"en": "Pleasing the crowd is the flattery of the Gorgias; true rhetoric joins knowledge of the subject with knowledge of people.", "el": "Το να αρέσεις στο πλήθος είναι η κολακεία του Γοργία· η αληθινή ρητορική ενώνει τη γνώση του θέματος με τη γνώση των ανθρώπων."}
+      }
+    },
+    {
+      "title": {"en": "A world built with mathematics", "el": "Ένας κόσμος φτιαγμένος με μαθηματικά"},
+      "explain": {
+        "en": "In the Timaeus, Plato tells a 'likely story' about the universe. A good divine craftsman, the Demiurge, finds matter in disorder. He does not create from nothing. Looking at the eternal Forms as his model, he puts the chaos in order using numbers and geometry, and gives the world a soul. So the cosmos is one living, rational whole, and we can understand it because it is built on mathematics. The same dialogue contains the story of Atlantis.",
+        "el": "Στον Τίμαιο ο Πλάτων διηγείται έναν «εικότα μύθο», μια πιθανή ιστορία, για το σύμπαν. Ένας αγαθός θεϊκός τεχνίτης, ο Δημιουργός, βρίσκει την ύλη σε αταξία. Δεν δημιουργεί από το μηδέν. Κοιτώντας τις αιώνιες Ιδέες ως πρότυπο, βάζει το χάος σε τάξη με αριθμούς και γεωμετρία, και δίνει στον κόσμο ψυχή. Έτσι ο κόσμος είναι ένα ζωντανό, λογικό σύνολο, και μπορούμε να τον καταλάβουμε επειδή είναι χτισμένος πάνω στα μαθηματικά. Στον ίδιο διάλογο βρίσκεται και η ιστορία της Ατλαντίδας."
+      },
+      "example": {
+        "en": "Plato builds the four elements from regular solids: fire from the tetrahedron, earth from the cube, air from the octahedron, water from the icosahedron. They are still called the Platonic solids. In 1596 Kepler used them to try to explain the distances of the planets.",
+        "el": "Ο Πλάτων χτίζει τα τέσσερα στοιχεία από κανονικά στερεά: τη φωτιά από το τετράεδρο, τη γη από τον κύβο, τον αέρα από το οκτάεδρο, το νερό από το εικοσάεδρο. Ακόμη λέγονται πλατωνικά στερεά. Το 1596 ο Κέπλερ τα χρησιμοποίησε για να προσπαθήσει να εξηγήσει τις αποστάσεις των πλανητών."
+      },
+      "apply": {
+        "en": "Put your own chaos in order with numbers. Choose one messy part of the business, for example leads, and measure it for a week: calls made, answers, meetings, sales. Once you see the numbers, the pattern appears and you know what to fix.",
+        "el": "Βάλε τάξη στο δικό σου χάος με αριθμούς. Διάλεξε ένα μπερδεμένο κομμάτι της δουλειάς, για παράδειγμα τα leads, και μέτρησέ το μία εβδομάδα: κλήσεις, απαντήσεις, ραντεβού, πωλήσεις. Μόλις δεις τους αριθμούς, φαίνεται το μοτίβο και ξέρεις τι να διορθώσεις."
+      },
+      "check": {
+        "q": {"en": "What does the Demiurge do in the Timaeus?", "el": "Τι κάνει ο Δημιουργός στον Τίμαιο;"},
+        "options": [
+          {"en": "He creates all matter out of absolutely nothing", "el": "Δημιουργεί όλη την ύλη από το απόλυτο τίποτα"},
+          {"en": "He rules humans and punishes them for their sins", "el": "Κυβερνά τους ανθρώπους και τους τιμωρεί για τις αμαρτίες τους"},
+          {"en": "He orders existing chaos, using the Forms and mathematics", "el": "Βάζει σε τάξη το υπάρχον χάος με πρότυπο τις Ιδέες και τα μαθηματικά"}
+        ],
+        "answer": 2,
+        "why": {"en": "He is a craftsman, not a creator from nothing: he shapes disordered matter after an eternal model.", "el": "Είναι τεχνίτης, όχι δημιουργός εκ του μηδενός: πλάθει την άτακτη ύλη σύμφωνα με ένα αιώνιο πρότυπο."}
+      }
+    },
+    {
+      "title": {"en": "Second best: the rule of law", "el": "Η δεύτερη καλύτερη λύση: οι νόμοι"},
+      "explain": {
+        "en": "The Laws is Plato's last and longest work, and Socrates is absent. An old Athenian plans a new city in Crete called Magnesia. Plato now accepts that a perfect ruler is almost impossible, since power corrupts human nature. So the second best is strict written law that binds everyone, rulers too. The constitution mixes monarchy and democracy, authority and freedom. And each law has a preamble that explains its reason, so citizens are persuaded and not only commanded.",
+        "el": "Οι Νόμοι είναι το τελευταίο και μεγαλύτερο έργο του Πλάτωνα, και ο Σωκράτης λείπει. Ένας ηλικιωμένος Αθηναίος σχεδιάζει μια νέα πόλη στην Κρήτη, τη Μαγνησία. Ο Πλάτων δέχεται πια ότι ο τέλειος άρχοντας είναι σχεδόν αδύνατος, αφού η εξουσία διαφθείρει την ανθρώπινη φύση. Άρα η δεύτερη καλύτερη λύση («δεύτερος πλους») είναι αυστηροί γραπτοί νόμοι που δεσμεύουν όλους, και τους άρχοντες. Το πολίτευμα είναι μικτό: ανακατεύει μοναρχία και δημοκρατία, εξουσία και ελευθερία. Και κάθε νόμος έχει ένα «προοίμιο» που εξηγεί τον λόγο του, ώστε οι πολίτες να πείθονται και όχι μόνο να διατάζονται."
+      },
+      "example": {
+        "en": "Plato compares two doctors. The slaves' doctor gives orders in a hurry and explains nothing. The doctor of free people talks with the patient, learns his history, explains the illness and prescribes only after winning his agreement. A good lawgiver should act like the second doctor.",
+        "el": "Ο Πλάτων συγκρίνει δύο γιατρούς. Ο γιατρός των δούλων δίνει εντολές βιαστικά και δεν εξηγεί τίποτα. Ο γιατρός των ελεύθερων μιλά με τον ασθενή, μαθαίνει το ιστορικό του, του εξηγεί την αρρώστια και γράφει θεραπεία μόνο αφού κερδίσει τη συμφωνία του. Ο καλός νομοθέτης πρέπει να κάνει όπως ο δεύτερος γιατρός."
+      },
+      "apply": {
+        "en": "Write down the three rules your agency runs on, for example how a change request is handled, and add one line to each explaining why. Follow them yourself first. A written rule with a reason works when you are not in the room.",
+        "el": "Γράψε τους τρεις κανόνες με τους οποίους δουλεύει το γραφείο σου, για παράδειγμα πώς χειρίζεστε ένα αίτημα αλλαγής, και βάλε σε καθέναν μία γραμμή που εξηγεί το γιατί. Τήρησέ τους πρώτα εσύ. Ένας γραπτός κανόνας με αιτιολογία δουλεύει και όταν δεν είσαι στο δωμάτιο."
+      },
+      "check": {
+        "q": {"en": "Why does the older Plato turn to written law?", "el": "Γιατί ο ώριμος Πλάτων στρέφεται στους γραπτούς νόμους;"},
+        "options": [
+          {"en": "He decided that knowledge has no place in politics", "el": "Αποφάσισε ότι η γνώση δεν έχει θέση στην πολιτική"},
+          {"en": "A perfect ruler is nearly impossible, so law must bind all", "el": "Ο τέλειος άρχοντας είναι σχεδόν αδύνατος, άρα ο νόμος πρέπει να δεσμεύει όλους"},
+          {"en": "He came to believe that pure democracy is the best regime", "el": "Κατέληξε ότι η καθαρή δημοκρατία είναι το καλύτερο πολίτευμα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Law is the second best: it protects the city from the weakness of whoever holds power.", "el": "Ο νόμος είναι ο δεύτερος πλους: προστατεύει την πόλη από την αδυναμία όποιου έχει την εξουσία."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A dentist tells you on the phone: 'My patients come from word of mouth, a website is useless.' What do you do?", "el": "Ένας οδοντίατρος σου λέει στο τηλέφωνο: «Οι ασθενείς μου έρχονται από συστάσεις, η ιστοσελίδα είναι άχρηστη». Τι κάνεις;"},
+      "options": [
+        {"en": "Explain quickly all ten benefits of a website", "el": "Του εξηγείς γρήγορα και τα δέκα οφέλη μιας ιστοσελίδας"},
+        {"en": "Ask what a recommended patient sees when searching his name", "el": "Ρωτάς τι βλέπει ο ασθενής που του τον σύστησαν όταν ψάχνει το όνομά του"},
+        {"en": "Tell him politely that he is behind the times", "el": "Του λες ευγενικά ότι έχει μείνει πίσω"}
+      ],
+      "answer": 1,
+      "why": {"en": "Dialectic: a good question lets him test his own opinion and reach the conclusion himself.", "el": "Διαλεκτική: μια καλή ερώτηση τον αφήνει να ελέγξει μόνος του τη γνώμη του και να φτάσει στο συμπέρασμα."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "A client is ready to sign if you promise him first place on Google in a month. You cannot guarantee it. What do you do?", "el": "Ένας πελάτης είναι έτοιμος να υπογράψει αν του υποσχεθείς πρώτη θέση στο Google σε έναν μήνα. Δεν μπορείς να το εγγυηθείς. Τι κάνεις;"},
+      "options": [
+        {"en": "Promise it now and explain later if it fails", "el": "Το υπόσχεσαι τώρα και εξηγείς αργότερα αν δεν γίνει"},
+        {"en": "Say 'probably yes' so that it is not a real lie", "el": "Λες «μάλλον ναι», για να μην είναι ακριβώς ψέμα"},
+        {"en": "Say clearly what you can deliver, even if you lose him", "el": "Λες καθαρά τι μπορείς να δώσεις, ακόμη κι αν τον χάσεις"}
+      ],
+      "answer": 2,
+      "why": {"en": "Better to suffer a loss than to do a wrong: a false promise damages you more than a lost sale.", "el": "Καλύτερα να ζημιωθείς παρά να αδικήσεις: η ψεύτικη υπόσχεση σε βλάπτει περισσότερο από μια χαμένη πώληση."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "A client sends you an insulting message at night about a small delay. You feel your anger rising. What do you do?", "el": "Ένας πελάτης σου στέλνει βράδυ ένα προσβλητικό μήνυμα για μια μικρή καθυστέρηση. Νιώθεις τον θυμό να ανεβαίνει. Τι κάνεις;"},
+      "options": [
+        {"en": "Wait, then answer calmly with facts and a next step", "el": "Περιμένεις, και μετά απαντάς ήρεμα με στοιχεία και το επόμενο βήμα"},
+        {"en": "Answer at once in the same tone so he learns", "el": "Απαντάς αμέσως στον ίδιο τόνο, για να μάθει"},
+        {"en": "Ignore him for a week so that he calms down", "el": "Τον αγνοείς μία εβδομάδα για να ηρεμήσει"}
+      ],
+      "answer": 0,
+      "why": {"en": "The three-part soul: let reason rule and use spirit as its helper, not as the one in charge.", "el": "Τριμερής ψυχή: άφησε το λογιστικό να κυβερνά και το θυμοειδές να το βοηθά, όχι να διατάζει."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "You are sure that your ad fails because the price is too visible. You have never tested it. What do you do?", "el": "Είσαι σίγουρος ότι η διαφήμισή σου αποτυγχάνει επειδή η τιμή φαίνεται πολύ. Δεν το έχεις δοκιμάσει ποτέ. Τι κάνεις;"},
+      "options": [
+        {"en": "Remove the price everywhere, since you are sure", "el": "Βγάζεις την τιμή από παντού, αφού είσαι σίγουρος"},
+        {"en": "Admit it is a guess and test two versions", "el": "Παραδέχεσαι ότι είναι υπόθεση και δοκιμάζεις δύο εκδοχές"},
+        {"en": "Ask a friend who agrees with you to confirm", "el": "Ρωτάς έναν φίλο που συμφωνεί μαζί σου για να το επιβεβαιώσει"}
+      ],
+      "answer": 1,
+      "why": {"en": "Socratic ignorance: separate what you know from what you only believe, then go and find out.", "el": "Σωκρατική άγνοια: ξεχώρισε τι ξέρεις από αυτό που απλώς πιστεύεις, και μετά πήγαινε να το μάθεις."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "Your new assistant keeps making the same mistake in client messages. How do you train her?", "el": "Η νέα σου βοηθός κάνει συνέχεια το ίδιο λάθος στα μηνύματα προς τους πελάτες. Πώς την εκπαιδεύεις;"},
+      "options": [
+        {"en": "Rewrite the messages yourself every time", "el": "Ξαναγράφεις εσύ τα μηνύματα κάθε φορά"},
+        {"en": "Send her a long document with all the rules", "el": "Της στέλνεις ένα μεγάλο έγγραφο με όλους τους κανόνες"},
+        {"en": "Ask questions until she sees the mistake herself", "el": "Κάνεις ερωτήσεις ώσπου να δει μόνη της το λάθος"}
+      ],
+      "answer": 2,
+      "why": {"en": "The midwife method: what a person discovers alone, through questions, stays with them.", "el": "Μαιευτική: αυτό που ανακαλύπτει κάποιος μόνος του, με ερωτήσεις, του μένει."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "The agency is growing and every person handles client changes in a different way. Mistakes are increasing. What do you do?", "el": "Το γραφείο μεγαλώνει και ο καθένας χειρίζεται τις αλλαγές των πελατών με διαφορετικό τρόπο. Τα λάθη αυξάνονται. Τι κάνεις;"},
+      "options": [
+        {"en": "Write one clear rule with its reason, and follow it too", "el": "Γράφεις έναν σαφή κανόνα με την αιτιολογία του, και τον τηρείς κι εσύ"},
+        {"en": "Check every single change personally from now on", "el": "Ελέγχεις προσωπικά κάθε αλλαγή από εδώ και πέρα"},
+        {"en": "Trust that everyone will find the right way alone", "el": "Εμπιστεύεσαι ότι ο καθένας θα βρει μόνος του τον σωστό τρόπο"}
+      ],
+      "answer": 0,
+      "why": {"en": "The Laws: when you cannot be the perfect ruler everywhere, a written rule that explains itself does the job.", "el": "Νόμοι: όταν δεν μπορείς να είσαι παντού ο τέλειος άρχοντας, τη δουλειά την κάνει ένας γραπτός κανόνας που εξηγεί τον εαυτό του."},
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "For Plato, the things we see are less real than the Forms.", "el": "Για τον Πλάτωνα, όσα βλέπουμε είναι λιγότερο πραγματικά από τις Ιδέες."},
+      "answer": true,
+      "why": {"en": "Visible things change and pass; the Forms are perfect and unchanging, so they are the true reality.", "el": "Τα ορατά αλλάζουν και χάνονται· οι Ιδέες είναι τέλειες και αμετάβλητες, άρα είναι η αληθινή πραγματικότητα."}
+    },
+    {
+      "s": {"en": "Socrates claimed to be the wisest because he knew the most.", "el": "Ο Σωκράτης έλεγε ότι είναι ο σοφότερος επειδή ήξερε τα περισσότερα."},
+      "answer": false,
+      "why": {"en": "He said his only wisdom was not believing he knew what he did not know.", "el": "Έλεγε ότι η μόνη του σοφία ήταν πως δεν νόμιζε ότι ξέρει όσα δεν ξέρει."}
+    },
+    {
+      "s": {"en": "In the Crito, Socrates refuses to escape from prison.", "el": "Στον Κρίτωνα ο Σωκράτης αρνείται να δραπετεύσει από τη φυλακή."},
+      "answer": true,
+      "why": {"en": "He holds that answering a wrong with a wrong, and breaking his agreement with the laws, would be unjust.", "el": "Θεωρεί ότι το να απαντήσει στο άδικο με άδικο και να παραβεί τη συμφωνία του με τους νόμους θα ήταν άδικο."}
+    },
+    {
+      "s": {"en": "Plato considers democracy the best of all regimes.", "el": "Ο Πλάτων θεωρεί τη δημοκρατία το καλύτερο απ' όλα τα πολιτεύματα."},
+      "answer": false,
+      "why": {"en": "In the Republic democracy comes just before tyranny; the best city is ruled by philosophers.", "el": "Στην Πολιτεία η δημοκρατία βρίσκεται ακριβώς πριν από την τυραννία· την άριστη πόλη την κυβερνούν φιλόσοφοι."}
+    },
+    {
+      "s": {"en": "In the Republic, justice in the soul means that reason rules.", "el": "Στην Πολιτεία, δικαιοσύνη στην ψυχή σημαίνει ότι κυβερνά το λογιστικό."},
+      "answer": true,
+      "why": {"en": "Each part does its own work: reason leads, spirit supports, appetite obeys.", "el": "Κάθε μέρος κάνει το έργο του: το λογιστικό οδηγεί, το θυμοειδές στηρίζει, το επιθυμητικό υπακούει."}
+    },
+    {
+      "s": {"en": "The Demiurge of the Timaeus creates the world out of nothing.", "el": "Ο Δημιουργός του Τίμαιου φτιάχνει τον κόσμο από το τίποτα."},
+      "answer": false,
+      "why": {"en": "He finds matter already there in disorder and gives it order with mathematics.", "el": "Βρίσκει την ύλη να υπάρχει ήδη σε αταξία και της δίνει τάξη με τα μαθηματικά."}
+    },
+    {
+      "s": {"en": "In the Laws, even the rulers must obey the written law.", "el": "Στους Νόμους, ακόμη και οι άρχοντες πρέπει να υπακούν στον γραπτό νόμο."},
+      "answer": true,
+      "why": {"en": "Since no human can be trusted with unlimited power, the law stands above everyone.", "el": "Αφού κανένας άνθρωπος δεν αντέχει την απεριόριστη εξουσία, ο νόμος στέκεται πάνω απ' όλους."}
+    },
+    {
+      "s": {"en": "Plato praises poets as the best teachers of truth in the city.", "el": "Ο Πλάτων επαινεί τους ποιητές ως τους καλύτερους δασκάλους της αλήθειας στην πόλη."},
+      "answer": false,
+      "why": {"en": "He says they imitate appearances and stir emotion, and he limits their place in the ideal city.", "el": "Λέει ότι μιμούνται τα φαινόμενα και ξεσηκώνουν το συναίσθημα, και περιορίζει τη θέση τους στην ιδανική πόλη."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Elenchus", "el": "Έλεγχος"}, "b": {"en": "Testing an opinion with questions until it breaks", "el": "Δοκιμάζεις μια γνώμη με ερωτήσεις ώσπου να καταρρεύσει"}},
+    {"a": {"en": "Anamnesis", "el": "Ανάμνηση"}, "b": {"en": "Learning as remembering what the soul already knows", "el": "Μάθηση είναι να θυμάσαι όσα η ψυχή ήδη ξέρει"}},
+    {"a": {"en": "Form of the Good", "el": "Ιδέα του Αγαθού"}, "b": {"en": "The highest reality, like the sun outside the cave", "el": "Η ανώτερη πραγματικότητα, σαν τον ήλιο έξω από το σπήλαιο"}},
+    {"a": {"en": "Spirit (thymos)", "el": "Θυμοειδές"}, "b": {"en": "The part that feels anger, pride and honour", "el": "Το μέρος που νιώθει θυμό, περηφάνια και φιλοτιμία"}},
+    {"a": {"en": "Demiurge", "el": "Δημιουργός"}, "b": {"en": "The divine craftsman who orders chaos with mathematics", "el": "Ο θεϊκός τεχνίτης που τακτοποιεί το χάος με μαθηματικά"}},
+    {"a": {"en": "Mimesis", "el": "Μίμησις"}, "b": {"en": "Art as a copy of a copy", "el": "Η τέχνη ως αντίγραφο του αντιγράφου"}}
+  ],
+  "missions": [
+    {"en": "Write down one belief about your clients that you have never tested, and plan a ten-call test for it this week.", "el": "Γράψε μία πεποίθηση για τους πελάτες σου που δεν έχεις δοκιμάσει ποτέ, και σχεδίασε για αυτή την εβδομάδα μια δοκιμή δέκα κλήσεων."},
+    {"en": "Open your next cold call with two questions before you say anything about your offer, and note what you learned.", "el": "Ξεκίνα το επόμενο cold call με δύο ερωτήσεις πριν πεις οτιδήποτε για την προσφορά σου, και σημείωσε τι έμαθες."},
+    {"en": "Spend ten minutes tonight examining your day: which part of your soul was in charge at each important moment?", "el": "Αφιέρωσε δέκα λεπτά απόψε για να εξετάσεις τη μέρα σου: ποιο μέρος της ψυχής σου κυβερνούσε σε κάθε σημαντική στιγμή;"},
+    {"en": "Write your three red lines in sales, the things you will never promise or do, and put them where you see them.", "el": "Γράψε τις τρεις κόκκινες γραμμές σου στις πωλήσεις, όσα δεν θα υποσχεθείς ή δεν θα κάνεις ποτέ, και βάλε τες κάπου που τις βλέπεις."},
+    {"en": "Choose one working rule of the agency, write it in two lines with its reason, and share it with your team.", "el": "Διάλεξε έναν κανόνα δουλειάς του γραφείου, γράψε τον σε δύο γραμμές μαζί με τον λόγο του, και μοιράσου τον με την ομάδα σου."}
+  ],
+  "mantra": {"en": "I ask before I claim, and reason leads the rest of me.", "el": "Ρωτάω πριν ισχυριστώ, και η λογική οδηγεί τα υπόλοιπα μέσα μου."},
+  "careful": {
+    "en": "Plato is a starting point, not the last word. Aristotle, his own student, rejected Forms that exist apart from things, and showed that people often know the good and still do not do it. He also attacked the guardians' shared property and families. In the twentieth century Karl Popper called the Republic a model for totalitarian rule, with its censorship, fixed classes and 'noble lie'. The immortal soul, recollection and the Demiurge are beliefs without evidence, and the Timaeus is not science.",
+    "el": "Ο Πλάτων είναι αφετηρία, όχι τελευταία λέξη. Ο Αριστοτέλης, ο ίδιος του ο μαθητής, απέρριψε τις Ιδέες που υπάρχουν χωριστά από τα πράγματα και έδειξε ότι συχνά ξέρουμε το καλό και πάλι δεν το κάνουμε (ακρασία). Επέκρινε επίσης την κοινοκτημοσύνη και τις κοινές οικογένειες των φυλάκων. Τον εικοστό αιώνα ο Καρλ Πόπερ είδε στην Πολιτεία πρότυπο ολοκληρωτισμού, με τη λογοκρισία, τις κλειστές τάξεις και το «γενναίο ψεύδος». Η αθάνατη ψυχή, η ανάμνηση και ο Δημιουργός είναι πίστη χωρίς αποδείξεις, και ο Τίμαιος δεν είναι επιστήμη."
+  },
+  "connects": [
+    {"book": "nicomachean-ethics", "note": {"en": "Aristotle keeps Plato's idea that reason should rule the soul, but says virtue comes from habit and practice, not from knowledge alone.", "el": "Ο Αριστοτέλης κρατά την ιδέα του Πλάτωνα ότι η λογική πρέπει να κυβερνά την ψυχή, αλλά λέει ότι η αρετή έρχεται με τη συνήθεια και την πράξη, όχι μόνο με τη γνώση."}},
+    {"book": "politics", "note": {"en": "Aristotle's Politics answers the Republic directly: he rejects the common property of the guardians and prefers a mixed constitution, close to Plato's own Laws.", "el": "Τα Πολιτικά του Αριστοτέλη απαντούν ευθέως στην Πολιτεία: απορρίπτει την κοινοκτημοσύνη των φυλάκων και προτιμά ένα μικτό πολίτευμα, κοντά στους Νόμους του ίδιου του Πλάτωνα."}},
+    {"book": "meditations", "note": {"en": "Marcus Aurelius, an emperor who studied philosophy, is the closest history came to a philosopher-king, and his daily self-examination is Socratic.", "el": "Ο Μάρκος Αυρήλιος, ένας αυτοκράτορας που σπούδασε φιλοσοφία, είναι ό,τι πιο κοντινό έδωσε η ιστορία σε φιλόσοφο-βασιλιά, και η καθημερινή του αυτοεξέταση είναι σωκρατική."}}
+  ]
+}

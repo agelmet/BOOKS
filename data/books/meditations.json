@@ -1,0 +1,536 @@
+{
+  "id": "meditations",
+  "title": {"en": "Meditations", "el": "Τα εις εαυτόν"},
+  "author": "Marcus Aurelius",
+  "authorEl": "Μάρκος Αυρήλιος",
+  "year": 180,
+  "shelf": "mind",
+  "skills": {"wisdom": 3, "mindset": 3, "leadership": 2},
+  "oneLine": {
+    "en": "You cannot control what happens, only how you judge it and how you act, so guard your mind and do your duty to others today.",
+    "el": "Δεν ελέγχεις το τι συμβαίνει, μόνο το πώς το κρίνεις και το πώς πράττεις· φύλαξε λοιπόν τον νου σου και κάνε σήμερα το χρέος σου προς τους άλλους."
+  },
+  "story": {
+    "en": "Marcus Aurelius ruled the Roman Empire from 161 to 180 AD, through plague, betrayal and years of war on the Danube. At night, often in a military tent, he wrote short notes in Greek to himself to stay calm, fair and useful. He never meant them to be read. They survived, and people still read them because the most powerful man on earth is fighting the same problems we have: anger, laziness, fear and difficult people.",
+    "el": "Ο Μάρκος Αυρήλιος κυβέρνησε τη Ρωμαϊκή Αυτοκρατορία από το 161 έως το 180 μ.Χ., μέσα σε λοιμό, προδοσία και χρόνια πολέμου στον Δούναβη. Τα βράδια, συχνά σε στρατιωτική σκηνή, έγραφε στα ελληνικά σύντομες σημειώσεις προς τον εαυτό του, για να μένει ήρεμος, δίκαιος και χρήσιμος. Δεν τις προόριζε για αναγνώστες. Σώθηκαν, και διαβάζονται ακόμα επειδή ο ισχυρότερος άνθρωπος του κόσμου παλεύει με τα ίδια που παλεύουμε κι εμείς: θυμό, τεμπελιά, φόβο και δύσκολους ανθρώπους."
+  },
+  "forYou": {
+    "en": "Running an agency means daily things you cannot control: clients who disappear, rude answers on the phone, ads that stop working, a team member who lets you down. Marcus gives you a simple operating system for exactly that: separate what is yours to decide from what is not, treat every problem as training, and keep doing the next right action without drama.",
+    "el": "Όταν τρέχεις ένα γραφείο, κάθε μέρα φέρνει πράγματα που δεν ελέγχεις: πελάτες που εξαφανίζονται, απότομες απαντήσεις στο τηλέφωνο, διαφημίσεις που παύουν να αποδίδουν, έναν συνεργάτη που σε κρεμάει. Ο Μάρκος σου δίνει ένα απλό σύστημα για αυτά ακριβώς: ξεχώρισε τι είναι στο χέρι σου και τι όχι, δες κάθε πρόβλημα ως προπόνηση και κάνε την επόμενη σωστή πράξη χωρίς δράματα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Rule your own mind", "el": "Κυβέρνα τον νου σου"},
+      "explain": {
+        "en": "This is the base of Stoic philosophy. Some things depend on you: your judgments, your choices, your actions. Everything else does not: weather, illness, other people, results, reputation. You have no power over outside events and full power over your own mind. Spend your energy only on your side of the line. Marcus calls the deciding part of you the ruling mind, and his whole book is about keeping it in good order.",
+        "el": "Αυτή είναι η βάση της στωικής φιλοσοφίας. Κάποια πράγματα εξαρτώνται από σένα: οι κρίσεις, οι επιλογές, οι πράξεις σου. Όλα τα άλλα όχι: ο καιρός, η αρρώστια, οι άλλοι άνθρωποι, τα αποτελέσματα, η φήμη. Στα εξωτερικά γεγονότα δεν έχεις καμία εξουσία, στον νου σου έχεις απόλυτη. Ξόδευε ενέργεια μόνο στη δική σου πλευρά της γραμμής. Το κομμάτι σου που αποφασίζει ο Μάρκος το λέει «ηγεμονικόν», και όλο το βιβλίο είναι ο αγώνας του να το κρατά σε τάξη."
+      },
+      "example": {
+        "en": "US Navy pilot James Stockdale was shot down over Vietnam in 1965 and held for more than seven years, often tortured. He had studied the Stoic Epictetus and said this one distinction kept him sane: he could not control the prison, only his own choices inside it.",
+        "el": "Ο Αμερικανός πιλότος του ναυτικού Τζέιμς Στόκντεϊλ καταρρίφθηκε στο Βιετνάμ το 1965 και έμεινε αιχμάλωτος πάνω από επτά χρόνια, με συχνά βασανιστήρια. Είχε μελετήσει τον στωικό Επίκτητο και έλεγε ότι αυτή η μία διάκριση τον κράτησε στα λογικά του: δεν έλεγχε τη φυλακή, μόνο τις δικές του επιλογές μέσα σε αυτήν."
+      },
+      "apply": {
+        "en": "Draw a line down a page before a calling session. Left: what is yours, the number of calls, your opening sentence, your tone, your follow-up. Right: what is not, whether they pick up, their mood, their budget. Set your daily target only from the left column.",
+        "el": "Τράβα μια γραμμή στη μέση μιας σελίδας πριν πιάσεις τα τηλέφωνα. Αριστερά ό,τι είναι δικό σου: πόσα τηλεφωνήματα θα κάνεις, η πρώτη σου φράση, ο τόνος, το follow-up. Δεξιά ό,τι δεν είναι: αν θα το σηκώσουν, η διάθεσή τους, το μπάτζετ τους. Βάλε τον ημερήσιο στόχο μόνο από την αριστερή στήλη."
+      },
+      "check": {
+        "q": {"en": "Which of these is fully in your control, according to Marcus?", "el": "Ποιο από αυτά είναι εξ ολοκλήρου στο χέρι σου, κατά τον Μάρκο;"},
+        "options": [
+          {"en": "How you judge what happened", "el": "Το πώς κρίνεις αυτό που συνέβη"},
+          {"en": "Whether the client signs", "el": "Το αν θα υπογράψει ο πελάτης"},
+          {"en": "What people say about you", "el": "Το τι λένε οι άλλοι για σένα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Only your judgment and your actions are yours. Results and other people's opinions are outside events.", "el": "Μόνο η κρίση και οι πράξεις σου είναι δικές σου. Τα αποτελέσματα και οι γνώμες των άλλων είναι εξωτερικά γεγονότα."}
+      }
+    },
+    {
+      "title": {"en": "Your opinion makes the harm", "el": "Η ζημιά είναι η γνώμη σου"},
+      "explain": {
+        "en": "Things themselves cannot touch your soul. They stand outside, silent. What disturbs you is the opinion you add: «this is terrible», «he insulted me». Marcus says: take away the thought «I have been harmed» and the feeling of harm goes; take away the feeling and the harm itself goes. This does not mean pretending nothing happened. It means separating the bare fact from the story you tell about it.",
+        "el": "Τα πράγματα καθαυτά δεν αγγίζουν την ψυχή σου. Στέκονται έξω, αμίλητα. Αυτό που σε ταράζει είναι η γνώμη που προσθέτεις: «είναι καταστροφή», «με πρόσβαλε». Ο Μάρκος το γράφει σε τέσσερις λέξεις: «ὁ κόσμος ἀλλοίωσις, ὁ βίος ὑπόληψις», ο κόσμος είναι αλλαγή και η ζωή είναι το πώς την εκλαμβάνεις. Βγάλε τη σκέψη «με έβλαψαν» και φεύγει η αίσθηση της βλάβης· μαζί της φεύγει και η βλάβη. Δεν σημαίνει ότι κάνεις πως δεν έγινε τίποτα. Σημαίνει ότι ξεχωρίζεις το γυμνό γεγονός από την ιστορία που λες γι' αυτό."
+      },
+      "example": {
+        "en": "Psychiatrist Viktor Frankl survived Auschwitz and other Nazi camps. In «Man's Search for Meaning» (1946) he wrote that everything can be taken from a person except one thing, the freedom to choose your attitude in any situation. He saw prisoners in the same camp respond in opposite ways.",
+        "el": "Ο ψυχίατρος Βίκτορ Φρανκλ επέζησε από το Άουσβιτς και άλλα ναζιστικά στρατόπεδα. Στο «Το νόημα της ζωής» (1946) έγραψε ότι από τον άνθρωπο μπορούν να του τα πάρουν όλα εκτός από ένα: την ελευθερία να διαλέγει τη στάση του σε κάθε κατάσταση. Είδε κρατούμενους στο ίδιο στρατόπεδο να αντιδρούν με αντίθετους τρόπους."
+      },
+      "apply": {
+        "en": "Write the event in one line with no adjectives when something upsets you: «Client asked for a refund», not «client destroyed my week». Under it write the opinion you added. Then decide your next action from the first line only.",
+        "el": "Γράψε το γεγονός σε μία γραμμή, χωρίς επίθετα, όταν κάτι σε αναστατώνει: «Ο πελάτης ζήτησε τα λεφτά του πίσω», όχι «ο πελάτης μου κατέστρεψε την εβδομάδα». Από κάτω γράψε τη γνώμη που πρόσθεσες. Μετά αποφάσισε την επόμενη κίνηση μόνο από την πρώτη γραμμή."
+      },
+      "check": {
+        "q": {"en": "What actually disturbs you, according to Marcus?", "el": "Τι είναι αυτό που σε ταράζει πραγματικά, κατά τον Μάρκο;"},
+        "options": [
+          {"en": "The event itself", "el": "Το ίδιο το γεγονός"},
+          {"en": "Other people's bad intentions", "el": "Οι κακές προθέσεις των άλλων"},
+          {"en": "Your own judgment about the event", "el": "Η δική σου κρίση για το γεγονός"}
+        ],
+        "answer": 2,
+        "why": {"en": "Events are neutral and outside you. The disturbance comes from the opinion you add, and that you can change.", "el": "Τα γεγονότα είναι ουδέτερα και έξω από σένα. Η ταραχή έρχεται από τη γνώμη που προσθέτεις, και αυτή μπορείς να την αλλάξεις."}
+      }
+    },
+    {
+      "title": {"en": "Strip things bare", "el": "Δες τα πράγματα γυμνά"},
+      "explain": {
+        "en": "Fancy things control you because of the story wrapped around them. Marcus trained himself to describe them plainly and see what they really are. Once you strip away the glamour, the thing loses its power to make you chase it, fear it or feel small next to it. The same works for status, luxury and impressive people. This is simplicity: seeing clearly and needing little.",
+        "el": "Τα φανταχτερά πράγματα σε εξουσιάζουν εξαιτίας της ιστορίας που τα τυλίγει. Ο Μάρκος ασκούνταν να τα περιγράφει ξερά, για να βλέπει τι είναι στην πραγματικότητα. Όταν βγάλεις το περιτύλιγμα, το πράγμα χάνει τη δύναμη να σε βάζει να το κυνηγάς, να το φοβάσαι ή να νιώθεις μικρός δίπλα του. Το ίδιο ισχύει για το κύρος, την πολυτέλεια και τους «σπουδαίους» ανθρώπους. Αυτή είναι η απλότητα: να βλέπεις καθαρά και να χρειάζεσαι λίγα."
+      },
+      "example": {
+        "en": "In Book 6 Marcus looks at his own imperial table and robe. This famous wine, he writes, is only grape juice. This roast is a dead fish, a dead bird, a dead pig. And the purple robe of the emperor is sheep's wool dyed with the blood of a shellfish.",
+        "el": "Στο έκτο βιβλίο ο Μάρκος κοιτάζει το δικό του αυτοκρατορικό τραπέζι και τον μανδύα του. Αυτό το ξακουστό κρασί, γράφει, είναι απλώς χυμός σταφυλιού. Το ψητό είναι νεκρό ψάρι, νεκρό πουλί, νεκρό γουρούνι. Και η πορφύρα του αυτοκράτορα είναι μαλλί προβάτου βαμμένο με αίμα από κοχύλι."
+      },
+      "apply": {
+        "en": "Describe what intimidates you in bare words. A meeting with a famous surgeon is «a talk with a man who needs patients to find him online». A competitor's shiny office is «rent». Do the same before you buy an expensive tool: what does it really do?",
+        "el": "Περίγραψε με ξερά λόγια ό,τι σε φοβίζει. Το ραντεβού με έναν διάσημο χειρουργό είναι «κουβέντα με έναν άνθρωπο που θέλει να τον βρίσκουν οι ασθενείς στο ίντερνετ». Το λαμπερό γραφείο ενός ανταγωνιστή είναι «ενοίκιο». Κάνε το ίδιο πριν αγοράσεις ένα ακριβό εργαλείο: τι κάνει στ' αλήθεια;"
+      },
+      "check": {
+        "q": {"en": "Why does Marcus call the purple robe «wool dyed with shellfish blood»?", "el": "Γιατί ο Μάρκος λέει την πορφύρα «μαλλί βαμμένο με αίμα κοχυλιού»;"},
+        "options": [
+          {"en": "Because he hated being emperor", "el": "Επειδή μισούσε το ότι ήταν αυτοκράτορας"},
+          {"en": "To see the thing as it is, so its glamour cannot control him", "el": "Για να δει το πράγμα όπως είναι, ώστε η λάμψη του να μην τον εξουσιάζει"},
+          {"en": "To teach his soldiers how dye is made", "el": "Για να μάθει στους στρατιώτες του πώς φτιάχνεται η βαφή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Describing things plainly removes the story around them and with it their hold on you.", "el": "Όταν περιγράφεις τα πράγματα ξερά, φεύγει η ιστορία γύρω τους και μαζί η εξουσία τους πάνω σου."}
+      }
+    },
+    {
+      "title": {"en": "The obstacle is the way", "el": "Το εμπόδιο γίνεται δρόμος"},
+      "explain": {
+        "en": "People and events can block what you planned to do, but they cannot block your mind, which adapts and turns the block into material. Marcus writes that what stands in the way of action ends up advancing it. Every difficulty is a chance to practise a virtue: patience with a slow person, courage with a risk, fairness with someone who cheated you. The plan changes; the purpose, being a good person, never gets blocked.",
+        "el": "Οι άνθρωποι και τα γεγονότα μπορούν να μπλοκάρουν αυτό που σχεδίαζες, όχι όμως τον νου σου, που προσαρμόζεται και κάνει το εμπόδιο υλικό του. Ο Μάρκος γράφει ότι αυτό που στέκεται εμπόδιο στην πράξη τελικά την προωθεί. Κάθε δυσκολία είναι ευκαιρία να ασκήσεις μια αρετή: υπομονή με τον αργό, θάρρος μπροστά στο ρίσκο, δικαιοσύνη με όποιον σε αδίκησε. Το σχέδιο αλλάζει· ο σκοπός, να είσαι καλός άνθρωπος, δεν μπλοκάρεται ποτέ."
+      },
+      "example": {
+        "en": "Zeno of Citium was a merchant who lost his cargo in a shipwreck near Athens around 300 BC. With nothing left, he walked into a bookshop, discovered philosophy and went on to found the Stoic school. He later said the shipwreck was his most profitable voyage.",
+        "el": "Ο Ζήνων ο Κιτιεύς ήταν έμπορος που έχασε το φορτίο του σε ναυάγιο κοντά στην Αθήνα γύρω στο 300 π.Χ. Χωρίς τίποτα πια, μπήκε σε ένα βιβλιοπωλείο, ανακάλυψε τη φιλοσοφία και ίδρυσε τη Στοά. Αργότερα έλεγε ότι το ναυάγιο ήταν το πιο κερδοφόρο ταξίδι του."
+      },
+      "apply": {
+        "en": "Ask of every block «which skill is this training?». Ads got expensive: learn to write better hooks. A doctor says «I already have a site»: practise the question that shows him what it is missing. Write the block and the skill side by side, then start with the skill.",
+        "el": "Ρώτα για κάθε εμπόδιο «ποια ικανότητα μου γυμνάζει αυτό;». Ακρίβυναν οι διαφημίσεις: μάθε να γράφεις καλύτερα hooks. Ο γιατρός λέει «έχω ήδη σελίδα»: εξασκήσου στην ερώτηση που του δείχνει τι της λείπει. Γράψε δίπλα δίπλα το εμπόδιο και την ικανότητα και ξεκίνα από την ικανότητα."
+      },
+      "check": {
+        "q": {"en": "What does «the obstacle is the way» mean?", "el": "Τι σημαίνει «το εμπόδιο γίνεται δρόμος»;"},
+        "options": [
+          {"en": "Obstacles disappear if you ignore them", "el": "Τα εμπόδια χάνονται αν τα αγνοήσεις"},
+          {"en": "You should look for the hardest path on purpose", "el": "Πρέπει να ψάχνεις επίτηδες τον πιο δύσκολο δρόμο"},
+          {"en": "Each difficulty becomes a chance to practise a virtue", "el": "Κάθε δυσκολία γίνεται ευκαιρία να ασκήσεις μια αρετή"}
+        ],
+        "answer": 2,
+        "why": {"en": "The mind turns what blocks it into material for patience, courage or fairness.", "el": "Ο νους κάνει ό,τι τον εμποδίζει υλικό για υπομονή, θάρρος ή δικαιοσύνη."}
+      }
+    },
+    {
+      "title": {"en": "Love your fate", "el": "Αγάπα τη μοίρα σου"},
+      "explain": {
+        "en": "Accepting what happens is step one. Marcus goes further: welcome it, as if you had chosen it. He believed everything is woven together by nature, so what comes to you is your part of the whole. A strong fire turns whatever is thrown on it into flame and light. Later Nietzsche named this attitude amor fati, love of fate. It is not passivity: you still act, but without wasting strength on resentment.",
+        "el": "Το να δέχεσαι αυτό που συμβαίνει είναι το πρώτο βήμα. Ο Μάρκος πάει πιο πέρα: καλωσόρισέ το, σαν να το είχες διαλέξει. Πίστευε ότι όλα είναι συνυφασμένα από τη φύση, άρα ό,τι σου έρχεται είναι το δικό σου μερίδιο από το σύνολο. Η δυνατή φωτιά κάνει φλόγα και φως ό,τι της ρίξεις. Αργότερα ο Νίτσε ονόμασε αυτή τη στάση amor fati, αγάπη για τη μοίρα. Δεν είναι παθητικότητα: συνεχίζεις να πράττεις, χωρίς όμως να σπαταλάς δύναμη σε πικρία."
+      },
+      "example": {
+        "en": "In December 1914 a fire destroyed much of Thomas Edison's laboratory complex in New Jersey. Edison, aged 67, reportedly told his son to fetch his mother because she would never see a fire like it again. The next morning he started rebuilding.",
+        "el": "Τον Δεκέμβριο του 1914 μια φωτιά κατέστρεψε μεγάλο μέρος των εργαστηρίων του Τόμας Έντισον στο Νιου Τζέρσεϊ. Ο Έντισον, 67 χρονών, λέγεται ότι είπε στον γιο του να φωνάξει τη μητέρα του, γιατί τέτοια φωτιά δεν θα ξανάβλεπε. Το επόμενο πρωί άρχισε να ξαναχτίζει."
+      },
+      "apply": {
+        "en": "Say «good, this is what I have to work with» when something lands that you did not want: a big client leaves, a platform changes its rules. Give yourself ten minutes to be annoyed, then write the first three moves as if this had been your plan.",
+        "el": "Πες «ωραία, με αυτό έχω να δουλέψω» όταν σου έρχεται κάτι που δεν ήθελες: φεύγει ένας μεγάλος πελάτης, μια πλατφόρμα αλλάζει τους κανόνες. Δώσε στον εαυτό σου δέκα λεπτά να εκνευριστεί και μετά γράψε τις τρεις πρώτες κινήσεις σαν να ήταν αυτό το σχέδιό σου."
+      },
+      "check": {
+        "q": {"en": "What is the difference between amor fati and giving up?", "el": "Ποια είναι η διαφορά ανάμεσα στο amor fati και στην παραίτηση;"},
+        "options": [
+          {"en": "You embrace what happened and still act on it", "el": "Αγκαλιάζεις αυτό που έγινε και συνεχίζεις να πράττεις"},
+          {"en": "There is none; both mean doing nothing", "el": "Καμία· και τα δύο σημαίνουν ότι δεν κάνεις τίποτα"},
+          {"en": "Amor fati means believing only good things will happen", "el": "Amor fati σημαίνει να πιστεύεις ότι θα έρθουν μόνο καλά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Like fire that uses whatever is thrown on it, you accept the event fully and turn it into fuel for action.", "el": "Όπως η φωτιά αξιοποιεί ό,τι της ρίξεις, δέχεσαι ολόκληρο το γεγονός και το κάνεις καύσιμο για δράση."}
+      }
+    },
+    {
+      "title": {"en": "Be grateful, even for hardship", "el": "Ευγνωμοσύνη, ακόμα και για τα δύσκολα"},
+      "explain": {
+        "en": "The book opens with thanks. In Book 1 Marcus lists, person by person, what he learned from each: his grandfather, his mother, his teachers, his adoptive father. Gratitude for him is a daily exercise, and it covers the hard things too. Do not say «how unlucky that this happened to me». Say «how lucky that I can take it and stay myself». Hardship is the training ground where character is built.",
+        "el": "Το βιβλίο ανοίγει με ευχαριστίες. Στο πρώτο βιβλίο ο Μάρκος καταγράφει, πρόσωπο προς πρόσωπο, τι έμαθε από τον καθένα: τον παππού, τη μητέρα, τους δασκάλους, τον θετό πατέρα του. Η ευγνωμοσύνη είναι γι' αυτόν καθημερινή άσκηση, και αγκαλιάζει και τα δύσκολα. Μη λες «τι ατυχία που μου συνέβη αυτό». Λέγε «τι τύχη που μπορώ να το σηκώσω και να μείνω ο εαυτός μου». Οι δυσκολίες είναι η παλαίστρα όπου χτίζεται ο χαρακτήρας."
+      },
+      "example": {
+        "en": "From his adoptive father, the emperor Antoninus Pius, Marcus writes that he learned to work hard, to listen to anyone with a useful idea, to stay calm and to be indifferent to flattery. From his teacher Rusticus he thanks the day he was handed the lectures of Epictetus.",
+        "el": "Από τον θετό του πατέρα, τον αυτοκράτορα Αντωνίνο Πίο, ο Μάρκος γράφει ότι έμαθε να δουλεύει σκληρά, να ακούει όποιον έχει μια χρήσιμη ιδέα, να μένει ήρεμος και να μην τον αγγίζει η κολακεία. Στον δάσκαλό του Ρούστικο χρωστά τη μέρα που του έδωσε τις «Διατριβές» του Επίκτητου."
+      },
+      "apply": {
+        "en": "Write your own Book 1 in fifteen minutes: five people and the one thing each taught you. Then add two hard things from the agency's first years, a client who cheated you, a month with no sales, and what each one trained in you.",
+        "el": "Γράψε σε ένα τέταρτο το δικό σου «πρώτο βιβλίο»: πέντε ανθρώπους και το ένα πράγμα που σου έμαθε ο καθένας. Μετά πρόσθεσε δύο δύσκολα από τα πρώτα χρόνια του γραφείου, έναν πελάτη που σε κορόιδεψε, έναν μήνα χωρίς πωλήσεις, και τι γύμνασε μέσα σου το καθένα."
+      },
+      "check": {
+        "q": {"en": "How does Marcus want you to see a hardship?", "el": "Πώς θέλει ο Μάρκος να βλέπεις μια δυσκολία;"},
+        "options": [
+          {"en": "As proof that life is unfair to you", "el": "Ως απόδειξη ότι η ζωή σε αδικεί"},
+          {"en": "As training for your character that you can be thankful for", "el": "Ως προπόνηση του χαρακτήρα σου, για την οποία μπορείς να είσαι ευγνώμων"},
+          {"en": "As something to forget as fast as possible", "el": "Ως κάτι που πρέπει να ξεχάσεις όσο πιο γρήγορα γίνεται"}
+        ],
+        "answer": 1,
+        "why": {"en": "He turns «how unlucky» into «how lucky that I can bear this»: hardship is where character is trained.", "el": "Κάνει το «τι ατυχία» «τι τύχη που το αντέχω»: στις δυσκολίες γυμνάζεται ο χαρακτήρας."}
+      }
+    },
+    {
+      "title": {"en": "Expect difficult people", "el": "Περίμενε δύσκολους ανθρώπους"},
+      "explain": {
+        "en": "Marcus begins his day by telling himself: today I will meet people who are meddling, ungrateful, arrogant, dishonest and jealous. They are like this because they cannot tell good from bad; they act from ignorance, not from evil. They are still his relatives in reason, and they cannot harm his character. So he is not surprised, does not take it personally and does not hate them. He expects them and stays kind.",
+        "el": "Ο Μάρκος ξεκινά τη μέρα λέγοντας στον εαυτό του: σήμερα θα συναντήσω ανθρώπους περίεργους, αχάριστους, αλαζόνες, δόλιους και φθονερούς. Είναι έτσι επειδή δεν ξεχωρίζουν το καλό από το κακό· πράττουν από άγνοια, όχι από κακία. Παραμένουν συγγενείς του στη λογική και δεν μπορούν να βλάψουν τον χαρακτήρα του. Έτσι δεν ξαφνιάζεται, δεν το παίρνει προσωπικά και δεν τους μισεί. Τους περιμένει και μένει καλός."
+      },
+      "example": {
+        "en": "The famous opening of Book 2 is exactly this morning preparation. Marcus adds a comparison: we were born to work together like the two feet, the two hands, the upper and lower rows of teeth. To turn against each other is against nature.",
+        "el": "Η περίφημη αρχή του δεύτερου βιβλίου είναι ακριβώς αυτή η πρωινή προετοιμασία. Ο Μάρκος προσθέτει μια παρομοίωση: γεννηθήκαμε για να συνεργαζόμαστε όπως τα δύο πόδια, τα δύο χέρια, η πάνω και η κάτω σειρά των δοντιών. Το να στρεφόμαστε ο ένας εναντίον του άλλου είναι αντίθετο στη φύση."
+      },
+      "apply": {
+        "en": "Say it before you open the laptop: «Today someone will hang up on me, someone will ask for a tenth round of changes, someone will pay late». When it happens, you already knew. Answer politely, hold your terms, and do not carry it to the next call.",
+        "el": "Πες το πριν ανοίξεις το λάπτοπ: «Σήμερα κάποιος θα μου το κλείσει στα μούτρα, κάποιος θα ζητήσει δέκατο γύρο αλλαγών, κάποιος θα αργήσει να πληρώσει». Όταν συμβεί, το ήξερες ήδη. Απάντησε ευγενικά, κράτα τους όρους σου και μην το κουβαλήσεις στο επόμενο τηλεφώνημα."
+      },
+      "check": {
+        "q": {"en": "Why, according to Marcus, do people behave badly?", "el": "Γιατί, κατά τον Μάρκο, οι άνθρωποι φέρονται άσχημα;"},
+        "options": [
+          {"en": "Because they are born evil", "el": "Επειδή γεννιούνται κακοί"},
+          {"en": "Because they do not know what is truly good and bad", "el": "Επειδή δεν ξέρουν τι είναι πραγματικά καλό και κακό"},
+          {"en": "Because they want to hurt you in particular", "el": "Επειδή θέλουν να πληγώσουν ειδικά εσένα"}
+        ],
+        "answer": 1,
+        "why": {"en": "They act from ignorance. That is why he can expect them, stay calm and not take it personally.", "el": "Πράττουν από άγνοια. Γι' αυτό μπορεί να τους περιμένει, να μένει ήρεμος και να μην το παίρνει προσωπικά."}
+      }
+    },
+    {
+      "title": {"en": "The best revenge", "el": "Η καλύτερη εκδίκηση"},
+      "explain": {
+        "en": "When someone wrongs you, the natural reaction is to pay them back in the same coin. Marcus says the best way to defend yourself is not to become like them. If you lie to a liar or shout at a shouter, they have won twice: they hurt you and they changed you. Your character is the one thing they cannot take, unless you hand it over.",
+        "el": "Όταν κάποιος σε αδικεί, η φυσική αντίδραση είναι να του το ανταποδώσεις με το ίδιο νόμισμα. Ο Μάρκος γράφει: «ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι», ο καλύτερος τρόπος να αμυνθείς είναι να μη γίνεις ίδιος. Αν πεις ψέματα στον ψεύτη ή φωνάξεις σε αυτόν που φωνάζει, κέρδισε δύο φορές: σε πλήγωσε και σε άλλαξε. Ο χαρακτήρας σου είναι το μόνο που δεν μπορούν να σου πάρουν, εκτός αν τον παραδώσεις εσύ."
+      },
+      "example": {
+        "en": "In 175 AD his general Avidius Cassius declared himself emperor. Marcus told his troops he hoped to pardon him. When officers killed Cassius and brought his head, Marcus refused to look at it, had the rebel's letters burned unread and spared his family.",
+        "el": "Το 175 μ.Χ. ο στρατηγός του Αβίδιος Κάσσιος αυτοανακηρύχθηκε αυτοκράτορας. Ο Μάρκος είπε στον στρατό ότι ήλπιζε να τον συγχωρέσει. Όταν αξιωματικοί σκότωσαν τον Κάσσιο και έφεραν το κεφάλι του, αρνήθηκε να το δει, έκαψε αδιάβαστες τις επιστολές του στασιαστή και χάρισε τη ζωή στην οικογένειά του."
+      },
+      "apply": {
+        "en": "Keep your own standard when a competitor badmouths you or a client leaves an unfair comment. Reply once, with facts and good manners, or not at all. Then put the anger into the next site you build. Your work is the answer.",
+        "el": "Κράτα το δικό σου επίπεδο όταν ένας ανταγωνιστής σε θάβει ή ένας πελάτης αφήνει ένα άδικο σχόλιο. Απάντησε μία φορά, με στοιχεία και ευγένεια, ή καθόλου. Μετά ρίξε τον θυμό στην επόμενη σελίδα που θα φτιάξεις. Η δουλειά σου είναι η απάντηση."
+      },
+      "check": {
+        "q": {"en": "What is the best revenge for Marcus?", "el": "Ποια είναι η καλύτερη εκδίκηση για τον Μάρκο;"},
+        "options": [
+          {"en": "Not becoming like the person who wronged you", "el": "Να μη γίνεις σαν αυτόν που σε αδίκησε"},
+          {"en": "Paying them back a little harder", "el": "Να του το ανταποδώσεις λίγο πιο δυνατά"},
+          {"en": "Telling everyone what they did", "el": "Να πεις σε όλους τι έκανε"}
+        ],
+        "answer": 0,
+        "why": {"en": "If you copy their behaviour, they have damaged your character too. Staying yourself is the win.", "el": "Αν αντιγράψεις τη συμπεριφορά τους, χάλασαν και τον χαρακτήρα σου. Νίκη είναι να μείνεις ο εαυτός σου."}
+      }
+    },
+    {
+      "title": {"en": "Made for each other", "el": "Γεννηθήκαμε ο ένας για τον άλλον"},
+      "explain": {
+        "en": "Humans are social animals. Marcus repeats it constantly: we exist for one another, like parts of one body. What does not benefit the hive does not benefit the bee. So the purpose of your work is to be useful to others, and you should help the way a vine gives grapes: without keeping score and without expecting applause. Then you move on to the next useful thing.",
+        "el": "Ο άνθρωπος είναι κοινωνικό ζώο. Ο Μάρκος το επαναλαμβάνει συνεχώς: υπάρχουμε ο ένας για τον άλλον, σαν μέλη ενός σώματος. Ό,τι δεν ωφελεί την κυψέλη δεν ωφελεί ούτε τη μέλισσα. Άρα σκοπός της δουλειάς σου είναι να είσαι χρήσιμος στους άλλους, και να βοηθάς όπως το αμπέλι δίνει σταφύλια: χωρίς να κρατάς λογαριασμό και χωρίς να περιμένεις χειροκρότημα. Μετά πας στο επόμενο χρήσιμο πράγμα."
+      },
+      "example": {
+        "en": "During the Marcomannic wars the treasury was empty. Rather than raise taxes on the provinces, Marcus held a public auction in Rome that lasted about two months and sold palace treasures: gold cups, jewels, even his wife's silk robes. The story comes from an ancient biography of him.",
+        "el": "Στους Μαρκομαννικούς πολέμους το ταμείο ήταν άδειο. Αντί να αυξήσει τους φόρους στις επαρχίες, ο Μάρκος έκανε στη Ρώμη δημόσια δημοπρασία που κράτησε περίπου δύο μήνες και πούλησε θησαυρούς του παλατιού: χρυσά κύπελλα, κοσμήματα, ακόμη και τα μεταξωτά της γυναίκας του. Η ιστορία σώζεται σε αρχαία βιογραφία του."
+      },
+      "apply": {
+        "en": "Open every sales call with their benefit in mind, not your sale: «how will more patients find this doctor?». And do one useful thing a week for a client that is not on any invoice, a quick fix or a tip, without mentioning it again.",
+        "el": "Ξεκίνα κάθε τηλεφώνημα πώλησης έχοντας στο μυαλό σου το δικό τους όφελος, όχι την πώλησή σου: «πώς θα βρίσκουν περισσότεροι ασθενείς αυτόν τον γιατρό;». Και κάνε μία φορά την εβδομάδα κάτι χρήσιμο για έναν πελάτη που δεν γράφεται σε τιμολόγιο, μια γρήγορη διόρθωση ή μια συμβουλή, χωρίς να το ξαναθυμίσεις."
+      },
+      "check": {
+        "q": {"en": "What does «what is not good for the hive is not good for the bee» mean?", "el": "Τι σημαίνει «ό,τι δεν ωφελεί την κυψέλη δεν ωφελεί ούτε τη μέλισσα»;"},
+        "options": [
+          {"en": "The group always matters more than you", "el": "Η ομάδα μετράει πάντα περισσότερο από σένα"},
+          {"en": "You should work alone to avoid conflict", "el": "Καλύτερα να δουλεύεις μόνος για να αποφεύγεις τις συγκρούσεις"},
+          {"en": "Your own good and the common good are tied together", "el": "Το δικό σου καλό και το κοινό καλό είναι δεμένα μεταξύ τους"}
+        ],
+        "answer": 2,
+        "why": {"en": "We are parts of one whole, so harming others for gain ends up harming you.", "el": "Είμαστε μέρη ενός όλου· αν βλάψεις τους άλλους για να κερδίσεις, στο τέλος βλάπτεις εσένα."}
+      }
+    },
+    {
+      "title": {"en": "Stop debating, be one", "el": "Μην το συζητάς, γίνε"},
+      "explain": {
+        "en": "Marcus loved philosophy but distrusted talk. His sharpest line: waste no more time arguing what a good man should be; be one. Philosophy for him is something you do, hour by hour, in small actions. The same goes for mornings. When you do not want to leave the warm bed, remember that you were made to do a human being's work, as the bee and the ant do theirs.",
+        "el": "Ο Μάρκος αγαπούσε τη φιλοσοφία, αλλά δεν εμπιστευόταν τα πολλά λόγια. Η πιο κοφτή του φράση: πάψε πια να συζητάς πώς πρέπει να είναι ο καλός άνθρωπος και γίνε. Η φιλοσοφία γι' αυτόν είναι κάτι που κάνεις, ώρα την ώρα, με μικρές πράξεις. Το ίδιο ισχύει για τα πρωινά. Όταν δεν θέλεις να αφήσεις το ζεστό κρεβάτι, θυμήσου ότι φτιάχτηκες για να κάνεις το έργο του ανθρώπου, όπως η μέλισσα και το μυρμήγκι κάνουν το δικό τους."
+      },
+      "example": {
+        "en": "Book 5 opens with the emperor arguing with himself at dawn. «But it is nicer here under the blankets.» So you were born to feel nice, he answers, not to act? He points to plants, sparrows, ants and spiders, each one doing its job without complaint.",
+        "el": "Το πέμπτο βιβλίο ανοίγει με τον αυτοκράτορα να μαλώνει με τον εαυτό του την αυγή. «Μα εδώ, κάτω από τα σκεπάσματα, είναι πιο ωραία». Δηλαδή γεννήθηκες για να περνάς ωραία και όχι για να πράττεις; απαντά. Δείχνει τα φυτά, τα σπουργίτια, τα μυρμήγκια, τις αράχνες: το καθένα κάνει τη δουλειά του χωρίς παράπονο."
+      },
+      "apply": {
+        "en": "Replace one hour of reading about sales this week with one hour of selling. Before you watch another video on cold calling, make ten calls. Before you plan the perfect system for your team, do the task once yourself today and write down the steps.",
+        "el": "Αντικατάστησε αυτή την εβδομάδα μία ώρα διαβάσματος για πωλήσεις με μία ώρα πωλήσεων. Πριν δεις άλλο ένα βίντεο για cold calling, κάνε δέκα τηλεφωνήματα. Πριν σχεδιάσεις το τέλειο σύστημα για την ομάδα, κάνε σήμερα τη δουλειά μία φορά ο ίδιος και γράψε τα βήματα."
+      },
+      "check": {
+        "q": {"en": "What is philosophy for Marcus?", "el": "Τι είναι η φιλοσοφία για τον Μάρκο;"},
+        "options": [
+          {"en": "Something you practise in your actions every day", "el": "Κάτι που το ασκείς με τις πράξεις σου κάθε μέρα"},
+          {"en": "A subject for clever discussion", "el": "Ένα θέμα για έξυπνες συζητήσεις"},
+          {"en": "A way to escape from duties", "el": "Ένας τρόπος να ξεφεύγεις από τις υποχρεώσεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "He tells himself to stop arguing about the good man and simply be one.", "el": "Λέει στον εαυτό του να πάψει να συζητά για τον καλό άνθρωπο και απλώς να γίνει."}
+      }
+    },
+    {
+      "title": {"en": "Only the present is yours", "el": "Δικό σου είναι μόνο το παρόν"},
+      "explain": {
+        "en": "The past is gone and the future has not come, so the only thing you ever have, and the only thing you can ever lose, is this moment. Marcus uses it against overwhelm: do not let your mind picture your whole life and all its troubles at once. Ask only what is hard to bear in the task in front of you right now. It is usually small. Then do it with full attention.",
+        "el": "Το παρελθόν έφυγε και το μέλλον δεν ήρθε· άρα το μόνο που έχεις, και το μόνο που μπορείς να χάσεις, είναι αυτή η στιγμή. Ο Μάρκος το χρησιμοποιεί όταν νιώθει ότι πνίγεται: μην αφήνεις το μυαλό σου να φαντάζεται όλη τη ζωή και όλα τα βάσανα μαζί. Ρώτα μόνο τι είναι αβάσταχτο στη δουλειά που έχεις μπροστά σου τώρα. Συνήθως είναι κάτι μικρό. Μετά κάνε τη με όλη σου την προσοχή."
+      },
+      "example": {
+        "en": "In Book 2 he reasons that even if you lived three thousand years, you could only lose the life you are living now. The longest life and the shortest lose the same thing, the present moment, because nobody can lose what they do not have.",
+        "el": "Στο δεύτερο βιβλίο συλλογίζεται ότι, ακόμα κι αν ζούσες τρεις χιλιάδες χρόνια, θα μπορούσες να χάσεις μόνο τη ζωή που ζεις τώρα. Η πιο μακριά και η πιο σύντομη ζωή χάνουν το ίδιο πράγμα, την παρούσα στιγμή, γιατί κανείς δεν χάνει κάτι που δεν έχει."
+      },
+      "apply": {
+        "en": "Cut the mountain into the next action when the to-do list scares you: forty sites to update, leads to call, ads to fix. Write only the one task for the next 45 minutes on a card, hide the rest, and do that task as if it were the only one.",
+        "el": "Κόψε το βουνό στην επόμενη κίνηση όταν η λίστα σε τρομάζει: σαράντα σελίδες για ενημέρωση, leads για τηλέφωνο, διαφημίσεις για διόρθωση. Γράψε σε μια κάρτα μόνο τη μία δουλειά των επόμενων 45 λεπτών, κρύψε τα υπόλοιπα και κάνε τη σαν να ήταν η μοναδική."
+      },
+      "check": {
+        "q": {"en": "How does Marcus deal with feeling overwhelmed?", "el": "Πώς αντιμετωπίζει ο Μάρκος την αίσθηση ότι πνίγεται;"},
+        "options": [
+          {"en": "He plans every detail of the coming year", "el": "Σχεδιάζει κάθε λεπτομέρεια της επόμενης χρονιάς"},
+          {"en": "He thinks about how hard his past was", "el": "Σκέφτεται πόσο δύσκολο ήταν το παρελθόν του"},
+          {"en": "He looks only at the present task and asks what is unbearable in it", "el": "Κοιτά μόνο την τωρινή δουλειά και ρωτά τι είναι αβάσταχτο σε αυτήν"}
+        ],
+        "answer": 2,
+        "why": {"en": "The whole future at once crushes you. The single present task is almost always bearable.", "el": "Όλο το μέλλον μαζί σε συνθλίβει. Η μία τωρινή δουλειά σχεδόν πάντα αντέχεται."}
+      }
+    },
+    {
+      "title": {"en": "Death is natural", "el": "Ο θάνατος είναι φυσικός"},
+      "explain": {
+        "en": "Marcus thinks about death on almost every page, not to be gloomy but to be clear. Death is a work of nature, like growing up, getting grey hair or having children, and nothing natural is to be feared. It also makes everyone equal and makes time precious. You could leave life at any moment, he writes, so let that decide what you do, say and think. Stop postponing being the person you want to be.",
+        "el": "Ο Μάρκος σκέφτεται τον θάνατο σχεδόν σε κάθε σελίδα, όχι για να μαυρίσει η ψυχή του αλλά για να βλέπει καθαρά. Ο θάνατος είναι έργο της φύσης, όπως το να μεγαλώνεις, να ασπρίζουν τα μαλλιά σου ή να κάνεις παιδιά, και τίποτα φυσικό δεν είναι για φόβο. Επιπλέον κάνει όλους ίσους και τον χρόνο πολύτιμο. Μπορείς να φύγεις από τη ζωή ανά πάσα στιγμή, γράφει· αυτό ας ορίζει τι κάνεις, τι λες και τι σκέφτεσαι. Μην αναβάλλεις άλλο να γίνεις αυτός που θέλεις."
+      },
+      "example": {
+        "en": "Marcus notes that Alexander the Great and the man who drove his mules ended in exactly the same place. He himself buried most of his many children and lived through the Antonine Plague, which killed millions across the empire, so this was no theory for him.",
+        "el": "Ο Μάρκος σημειώνει ότι ο Μέγας Αλέξανδρος και ο ημιονηγός του κατέληξαν ακριβώς στο ίδιο σημείο. Ο ίδιος έθαψε τα περισσότερα από τα πολλά παιδιά του και έζησε τον Αντωνίνειο λοιμό, που σκότωσε εκατομμύρια ανθρώπους στην αυτοκρατορία· για εκείνον αυτά δεν ήταν θεωρία."
+      },
+      "apply": {
+        "en": "Use it as a filter on Sunday evening. Ask: if this were my last year of work, which three things on next week's list would still matter? Do those first. And say the good word to your parents, partner or team member today, not at some later date.",
+        "el": "Χρησιμοποίησέ το ως φίλτρο την Κυριακή το βράδυ. Ρώτα: αν αυτή ήταν η τελευταία μου χρονιά στη δουλειά, ποια τρία πράγματα από τη λίστα της επόμενης εβδομάδας θα μετρούσαν ακόμα; Κάνε πρώτα αυτά. Και την καλή κουβέντα στους γονείς, στον άνθρωπό σου ή σε κάποιον από την ομάδα πες τη σήμερα, όχι κάποτε."
+      },
+      "check": {
+        "q": {"en": "Why does Marcus keep thinking about death?", "el": "Γιατί ο Μάρκος σκέφτεται συνεχώς τον θάνατο;"},
+        "options": [
+          {"en": "Because he was depressed by the war", "el": "Επειδή ο πόλεμος τον είχε ρίξει σε κατάθλιψη"},
+          {"en": "To see what matters and stop wasting time", "el": "Για να βλέπει τι μετράει και να μη χάνει χρόνο"},
+          {"en": "To frighten himself into obeying the gods", "el": "Για να τρομάζει τον εαυτό του ώστε να υπακούει στους θεούς"}
+        ],
+        "answer": 1,
+        "why": {"en": "Death is natural and not to be feared; remembering it makes clear what deserves today's hours.", "el": "Ο θάνατος είναι φυσικός και δεν είναι για φόβο· όταν τον θυμάσαι, ξεκαθαρίζει τι αξίζει τις σημερινές ώρες."}
+      }
+    },
+    {
+      "title": {"en": "Everything flows", "el": "Τα πάντα ρέουν"},
+      "explain": {
+        "en": "Time is a river of events. As soon as something appears it is swept away and the next thing takes its place. Marcus, following Heraclitus, sees change as how nature works, not as a threat: nothing useful can happen without it. Whoever fights change fights the world. So hold loosely what you have, do not be shocked when it goes, and expect that what feels solid today will look different soon.",
+        "el": "Ο χρόνος είναι ένα ποτάμι από γεγονότα. Μόλις κάτι φανεί, παρασύρεται, και το επόμενο παίρνει τη θέση του. Ο Μάρκος, πατώντας στον Ηράκλειτο, βλέπει την αλλαγή ως τον τρόπο που δουλεύει η φύση, όχι ως απειλή: τίποτα χρήσιμο δεν γίνεται χωρίς αυτήν. Όποιος πολεμά την αλλαγή πολεμά τον κόσμο. Κράτα λοιπόν χαλαρά ό,τι έχεις, μην ξαφνιάζεσαι όταν φεύγει και να περιμένεις ότι αυτό που σήμερα μοιάζει σταθερό σύντομα θα είναι αλλιώτικο."
+      },
+      "example": {
+        "en": "In Book 7 he asks himself: are you afraid of change? But can you take a hot bath unless the firewood changes? Can you be fed unless the food changes? Then how could you yourself change, he concludes, without it being just as natural and necessary?",
+        "el": "Στο έβδομο βιβλίο ρωτά τον εαυτό του: φοβάσαι την αλλαγή; Μα μπορείς να κάνεις ζεστό λουτρό αν δεν αλλάξουν τα ξύλα; Μπορείς να τραφείς αν δεν αλλάξει η τροφή; Πώς λοιπόν θα άλλαζες εσύ ο ίδιος, καταλήγει, χωρίς αυτό να είναι εξίσου φυσικό και αναγκαίο;"
+      },
+      "apply": {
+        "en": "List three things your agency depends on that will surely change: how AI builds sites, what Meta ads cost, what doctors expect online. For each, write one small experiment you can run this month so the change finds you moving, not defending the old way.",
+        "el": "Γράψε τρία πράγματα από τα οποία εξαρτάται το γραφείο σου και σίγουρα θα αλλάξουν: πώς φτιάχνει σελίδες το AI, πόσο κοστίζουν οι διαφημίσεις στο Meta, τι περιμένουν οι γιατροί από το ίντερνετ. Για το καθένα γράψε ένα μικρό πείραμα που μπορείς να τρέξεις αυτόν τον μήνα, ώστε η αλλαγή να σε βρει σε κίνηση και όχι να υπερασπίζεσαι το παλιό."
+      },
+      "check": {
+        "q": {"en": "How does Marcus see change?", "el": "Πώς βλέπει ο Μάρκος την αλλαγή;"},
+        "options": [
+          {"en": "As the normal way nature works, needed for anything good", "el": "Ως τον κανονικό τρόπο της φύσης, απαραίτητο για καθετί καλό"},
+          {"en": "As a danger that a wise man avoids", "el": "Ως κίνδυνο που ο σοφός αποφεύγει"},
+          {"en": "As a punishment sent by the gods", "el": "Ως τιμωρία σταλμένη από τους θεούς"}
+        ],
+        "answer": 0,
+        "why": {"en": "No bath without wood burning, no food without it changing: nothing useful happens without change.", "el": "Ούτε λουτρό χωρίς να καούν ξύλα ούτε τροφή χωρίς να μεταβληθεί: τίποτα χρήσιμο δεν γίνεται χωρίς αλλαγή."}
+      }
+    },
+    {
+      "title": {"en": "The view from above", "el": "Η θέα από ψηλά"},
+      "explain": {
+        "en": "When a problem feels huge, Marcus zooms out. He pictures the whole earth from above: armies, farms, weddings, courts, markets, all at once. Then he zooms out in time: whole generations gone, famous names already forgotten. From there the insult, the delay and even fame itself look tiny. He does not conclude that nothing matters. He concludes that only acting well right now does, and the applause of others is noise.",
+        "el": "Όταν ένα πρόβλημα μοιάζει τεράστιο, ο Μάρκος απομακρύνει τον φακό. Φαντάζεται όλη τη γη από ψηλά: στρατούς, χωράφια, γάμους, δικαστήρια, αγορές, όλα μαζί. Μετά απομακρύνεται και στον χρόνο: ολόκληρες γενιές χάθηκαν, ξακουστά ονόματα ξεχάστηκαν ήδη. Από εκεί η προσβολή, η καθυστέρηση, ακόμα και η δόξα φαίνονται μικροσκοπικά. Δεν συμπεραίνει ότι τίποτα δεν έχει σημασία. Συμπεραίνει ότι σημασία έχει μόνο να πράττεις σωστά τώρα, και ότι το χειροκρότημα των άλλων είναι θόρυβος."
+      },
+      "example": {
+        "en": "On 14 February 1990 the Voyager 1 probe, about six billion kilometres away, photographed Earth as a point smaller than a pixel. Carl Sagan called it the «pale blue dot» and noted that every king, every war and every person who ever lived fit on that speck.",
+        "el": "Στις 14 Φεβρουαρίου 1990 το Voyager 1, περίπου έξι δισεκατομμύρια χιλιόμετρα μακριά, φωτογράφισε τη Γη σαν κουκκίδα μικρότερη από ένα pixel. Ο Καρλ Σαγκάν την ονόμασε «χλωμή γαλάζια κουκκίδα» και σημείωσε ότι κάθε βασιλιάς, κάθε πόλεμος και κάθε άνθρωπος που έζησε ποτέ χωρούν σε αυτόν τον κόκκο."
+      },
+      "apply": {
+        "en": "Use the «ten, ten, ten» zoom when something stings: will this matter in ten days, ten months, ten years? A lost deal rarely survives ten days. Your reputation for keeping your word survives ten years. Put today's energy where the long view points.",
+        "el": "Δοκίμασε το «δέκα, δέκα, δέκα» όταν κάτι σε τσούζει: θα μετράει σε δέκα μέρες, σε δέκα μήνες, σε δέκα χρόνια; Μια χαμένη συμφωνία σπάνια αντέχει δέκα μέρες. Η φήμη σου ότι κρατάς τον λόγο σου αντέχει δέκα χρόνια. Βάλε τη σημερινή ενέργεια εκεί που δείχνει η μακρινή ματιά."
+      },
+      "check": {
+        "q": {"en": "What is the point of looking at your life from the stars?", "el": "Ποιο είναι το νόημα του να κοιτάς τη ζωή σου από τα άστρα;"},
+        "options": [
+          {"en": "To prove that nothing you do has value", "el": "Να αποδείξεις ότι τίποτα απ' όσα κάνεις δεν έχει αξία"},
+          {"en": "To feel superior to ordinary people", "el": "Να νιώσεις ανώτερος από τους απλούς ανθρώπους"},
+          {"en": "To shrink your worries and care less about fame", "el": "Να μικρύνουν οι έγνοιες σου και να σε νοιάζει λιγότερο η δόξα"}
+        ],
+        "answer": 2,
+        "why": {"en": "From far away, insults and applause look tiny; what remains is acting well now.", "el": "Από μακριά, προσβολές και χειροκροτήματα φαίνονται μικροσκοπικά· αυτό που μένει είναι να πράττεις σωστά τώρα."}
+      }
+    },
+    {
+      "title": {"en": "Retreat into yourself", "el": "Αναχώρησε μέσα σου"},
+      "explain": {
+        "en": "People look for peace in the countryside, at the sea, in the mountains. Marcus calls this unnecessary: you can retreat into your own soul whenever you like, and there is no quieter place if your mind is in order. Keep a few short, basic truths ready, go inside for a moment, wash off the irritation and return to your work. Later readers called this place the inner citadel. Peace is something you carry, not somewhere you go.",
+        "el": "Οι άνθρωποι ψάχνουν γαλήνη στην εξοχή, στη θάλασσα, στα βουνά. Ο Μάρκος το θεωρεί περιττό: μπορείς να αναχωρήσεις στην ίδια σου την ψυχή όποτε θέλεις, και δεν υπάρχει πιο ήσυχο μέρος, αν ο νους σου είναι σε τάξη. Κράτα έτοιμες λίγες σύντομες, βασικές αλήθειες, μπες για μια στιγμή μέσα, ξέπλυνε τον εκνευρισμό και γύρνα στη δουλειά σου. Οι μεταγενέστεροι ονόμασαν αυτό το μέρος εσωτερική ακρόπολη. Τη γαλήνη την κουβαλάς· δεν πηγαίνεις σε αυτήν."
+      },
+      "example": {
+        "en": "Marcus had no chance of a quiet villa. Notes in the book show parts were written «among the Quadi» and «at Carnuntum», army bases on the Danube frontier, during years of war. His calm had to be built inside a tent, which is exactly his point.",
+        "el": "Ο Μάρκος δεν είχε την πολυτέλεια μιας ήσυχης έπαυλης. Σημειώσεις μέσα στο βιβλίο δείχνουν ότι μέρη του γράφτηκαν «στη χώρα των Κουάδων» και «στο Καρνούντο», στρατόπεδα στα σύνορα του Δούναβη, σε χρόνια πολέμου. Η ηρεμία του έπρεπε να χτιστεί μέσα σε μια σκηνή· αυτό ακριβώς λέει κι ο ίδιος."
+      },
+      "apply": {
+        "en": "Build a two-minute retreat instead of waiting for holidays. Between two hard calls, close your eyes, breathe slowly and repeat your three lines, for example: «I control my effort. This is training. Next action.» Then pick up the phone again.",
+        "el": "Φτιάξε μια αναχώρηση δύο λεπτών αντί να περιμένεις τις διακοπές. Ανάμεσα σε δύο δύσκολα τηλεφωνήματα κλείσε τα μάτια, ανάπνευσε αργά και πες τις τρεις σου φράσεις, για παράδειγμα: «Ελέγχω την προσπάθειά μου. Αυτό είναι προπόνηση. Επόμενη κίνηση». Μετά ξαναπιάσε το τηλέφωνο."
+      },
+      "check": {
+        "q": {"en": "Where does Marcus say you find peace?", "el": "Πού λέει ο Μάρκος ότι βρίσκεις τη γαλήνη;"},
+        "options": [
+          {"en": "In a house by the sea, away from people", "el": "Σε ένα σπίτι δίπλα στη θάλασσα, μακριά από κόσμο"},
+          {"en": "In your own well-ordered mind, at any moment", "el": "Στον δικό σου τακτοποιημένο νου, όποια στιγμή θέλεις"},
+          {"en": "Only after you retire from work", "el": "Μόνο αφού αποσυρθείς από τη δουλειά"}
+        ],
+        "answer": 1,
+        "why": {"en": "No place is quieter than your own soul. The retreat is internal and always available.", "el": "Κανένα μέρος δεν είναι πιο ήσυχο από την ίδια σου την ψυχή. Η αναχώρηση είναι εσωτερική και πάντα διαθέσιμη."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "Your Meta ads suddenly cost twice as much per lead and you feel panic. What is the Stoic move?", "el": "Οι διαφημίσεις σου στο Meta ξαφνικά κοστίζουν τα διπλά ανά lead και σε πιάνει πανικός. Ποια είναι η στωική κίνηση;"},
+      "options": [
+        {"en": "Complain that the platform is unfair to small businesses", "el": "Παραπονιέσαι ότι η πλατφόρμα αδικεί τις μικρές επιχειρήσεις"},
+        {"en": "Separate what you control, your creative, offer and follow-up, and work on those", "el": "Ξεχωρίζεις τι ελέγχεις, το δημιουργικό, την προσφορά, το follow-up, και δουλεύεις εκεί"},
+        {"en": "Switch everything off until prices drop again", "el": "Τα κλείνεις όλα μέχρι να ξαναπέσουν οι τιμές"}
+      ],
+      "answer": 1,
+      "why": {"en": "The auction price is outside your control. Your ad, your offer and your process are not.", "el": "Η τιμή της δημοπρασίας δεν είναι στο χέρι σου. Η διαφήμιση, η προσφορά και η διαδικασία σου είναι."},
+      "idea": 0
+    },
+    {
+      "q": {"en": "A client sends an angry message at 23:00 calling your work «amateur». What do you do?", "el": "Ένας πελάτης στέλνει στις 23:00 ένα θυμωμένο μήνυμα και λέει τη δουλειά σου «ερασιτεχνική». Τι κάνεις;"},
+      "options": [
+        {"en": "Reply at once in the same tone so he learns", "el": "Απαντάς αμέσως στον ίδιο τόνο, για να μάθει"},
+        {"en": "Lie awake repeating the word «amateur»", "el": "Μένεις ξύπνιος και επαναλαμβάνεις τη λέξη «ερασιτεχνική»"},
+        {"en": "Reduce it to the fact, answer calmly in the morning and ask what exactly he wants changed", "el": "Το κατεβάζεις στο γεγονός, απαντάς ήρεμα το πρωί και ρωτάς τι ακριβώς θέλει να αλλάξει"}
+      ],
+      "answer": 2,
+      "why": {"en": "The fact is «client is unhappy with something». The sting is your opinion about one word.", "el": "Το γεγονός είναι «ο πελάτης δεν είναι ευχαριστημένος με κάτι». Το τσούξιμο είναι η γνώμη σου για μια λέξη."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "A competitor writes online that agencies offering «0 euro websites» are scams. How do you respond?", "el": "Ένας ανταγωνιστής γράφει στο ίντερνετ ότι τα γραφεία με «ιστοσελίδες 0 ευρώ» είναι απάτη. Πώς απαντάς;"},
+      "options": [
+        {"en": "Stay polite, state your terms clearly once and let your live sites speak", "el": "Μένεις ευγενικός, εξηγείς μία φορά καθαρά τους όρους σου και αφήνεις τις live σελίδες σου να μιλήσουν"},
+        {"en": "Write a post attacking his prices and his work", "el": "Γράφεις ένα post που επιτίθεται στις τιμές και στη δουλειά του"},
+        {"en": "Create fake accounts to defend yourself", "el": "Φτιάχνεις ψεύτικους λογαριασμούς για να σε υπερασπιστούν"}
+      ],
+      "answer": 0,
+      "why": {"en": "The best revenge is not to become like him. Your character and your work are the answer.", "el": "Η καλύτερη εκδίκηση είναι να μη γίνεις σαν εκείνον. Απάντηση είναι ο χαρακτήρας και η δουλειά σου."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "Monday morning: 30 site updates, 60 leads and three complaints wait for you, and you freeze. What would Marcus do?", "el": "Δευτέρα πρωί: σε περιμένουν 30 ενημερώσεις σελίδων, 60 leads και τρία παράπονα, και παγώνεις. Τι θα έκανε ο Μάρκος;"},
+      "options": [
+        {"en": "Picture the whole week until the stress pushes him to work", "el": "Θα φανταζόταν όλη την εβδομάδα, μέχρι το άγχος να τον σπρώξει στη δουλειά"},
+        {"en": "Take only the first task, ask what is unbearable in it, and do it", "el": "Θα έπιανε μόνο την πρώτη δουλειά, θα ρωτούσε τι είναι αβάσταχτο σε αυτήν και θα την έκανε"},
+        {"en": "Wait for a calmer day to begin", "el": "Θα περίμενε μια πιο ήρεμη μέρα για να ξεκινήσει"}
+      ],
+      "answer": 1,
+      "why": {"en": "Only the present task exists. Taken alone it is almost always bearable.", "el": "Υπάρχει μόνο η τωρινή δουλειά. Μόνη της, σχεδόν πάντα αντέχεται."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A tool your whole workflow depends on is discontinued with one month's notice. What is the first step?", "el": "Ένα εργαλείο από το οποίο εξαρτάται όλη η ροή της δουλειάς σου καταργείται με προειδοποίηση ενός μήνα. Ποιο είναι το πρώτο βήμα;"},
+      "options": [
+        {"en": "Spend the week angry at the company", "el": "Περνάς την εβδομάδα θυμωμένος με την εταιρεία"},
+        {"en": "Pretend it is not happening until the last day", "el": "Κάνεις πως δεν συμβαίνει μέχρι την τελευταία μέρα"},
+        {"en": "Ask what this forces you to improve and start building the better setup", "el": "Ρωτάς τι σε αναγκάζει να βελτιώσεις αυτό και αρχίζεις να στήνεις κάτι καλύτερο"}
+      ],
+      "answer": 2,
+      "why": {"en": "What blocks the old way becomes the way: the obstacle is material for a better system.", "el": "Αυτό που κλείνει τον παλιό δρόμο γίνεται ο δρόμος: το εμπόδιο είναι υλικό για ένα καλύτερο σύστημα."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "A friend cancels on you for the third time and you feel disrespected. What is the Stoic way to handle it?", "el": "Ένας φίλος σε στήνει τρίτη φορά και νιώθεις ότι δεν σε υπολογίζει. Ποιος είναι ο στωικός τρόπος να το χειριστείς;"},
+      "options": [
+        {"en": "Expect that people are sometimes unreliable, do not take it as an attack, and tell him calmly what you need", "el": "Περιμένεις ότι οι άνθρωποι είναι ενίοτε ασυνεπείς, δεν το βλέπεις ως επίθεση και του λες ήρεμα τι χρειάζεσαι"},
+        {"en": "Cancel on him next time so he feels the same", "el": "Τον στήνεις κι εσύ την επόμενη φορά, να δει πώς είναι"},
+        {"en": "Say nothing and stay bitter for weeks", "el": "Δεν λες τίποτα και μένεις πικραμένος για εβδομάδες"}
+      ],
+      "answer": 0,
+      "why": {"en": "Marcus expects difficult behaviour each morning, sees it as ignorance rather than malice, and stays fair.", "el": "Ο Μάρκος περιμένει κάθε πρωί δύσκολες συμπεριφορές, τις βλέπει ως άγνοια και όχι ως κακία, και μένει δίκαιος."},
+      "idea": 6
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Marcus wrote the Meditations as a book for the public.", "el": "Ο Μάρκος έγραψε τα «Εις εαυτόν» ως βιβλίο για το κοινό."},
+      "answer": false,
+      "why": {"en": "They were private notes to himself, never meant to be published.", "el": "Ήταν προσωπικές σημειώσεις προς τον εαυτό του, που δεν προορίζονταν ποτέ για έκδοση."}
+    },
+    {
+      "s": {"en": "For the Stoics, your judgments are in your control but results are not.", "el": "Για τους Στωικούς, οι κρίσεις σου είναι στο χέρι σου, τα αποτελέσματα όχι."},
+      "answer": true,
+      "why": {"en": "This split between what depends on you and what does not is the base of the whole book.", "el": "Αυτός ο διαχωρισμός, τι εξαρτάται από σένα και τι όχι, είναι η βάση όλου του βιβλίου."}
+    },
+    {
+      "s": {"en": "Marcus believes people who wrong you are evil and deserve hatred.", "el": "Ο Μάρκος πιστεύει ότι όσοι σε αδικούν είναι κακοί και αξίζουν μίσος."},
+      "answer": false,
+      "why": {"en": "He says they act from ignorance of good and bad, and that we are made to work together.", "el": "Λέει ότι πράττουν από άγνοια του καλού και του κακού, και ότι είμαστε φτιαγμένοι για να συνεργαζόμαστε."}
+    },
+    {
+      "s": {"en": "Loving your fate means you stop acting and simply wait.", "el": "Το να αγαπάς τη μοίρα σου σημαίνει ότι παύεις να πράττεις και απλώς περιμένεις."},
+      "answer": false,
+      "why": {"en": "You accept what happened and then act on it, like fire that feeds on whatever is thrown in.", "el": "Δέχεσαι αυτό που έγινε και μετά πράττεις πάνω του, όπως η φωτιά που τρέφεται με ό,τι της ρίξεις."}
+    },
+    {
+      "s": {"en": "Marcus says you can find peace inside yourself without travelling anywhere.", "el": "Ο Μάρκος λέει ότι μπορείς να βρεις γαλήνη μέσα σου χωρίς να ταξιδέψεις πουθενά."},
+      "answer": true,
+      "why": {"en": "The retreat into your own soul is available at any moment if your mind is in order.", "el": "Η αναχώρηση στην ίδια σου την ψυχή είναι διαθέσιμη κάθε στιγμή, αν ο νους σου είναι σε τάξη."}
+    },
+    {
+      "s": {"en": "Thinking about death is, for Marcus, a tool for living well today.", "el": "Η σκέψη του θανάτου είναι για τον Μάρκο εργαλείο για να ζεις καλά σήμερα."},
+      "answer": true,
+      "why": {"en": "Remembering that time is limited shows what matters and stops postponement.", "el": "Όταν θυμάσαι ότι ο χρόνος είναι λίγος, βλέπεις τι μετράει και παύεις να αναβάλλεις."}
+    },
+    {
+      "s": {"en": "The view from above teaches that fame is the most lasting thing a person can win.", "el": "Η θέα από ψηλά διδάσκει ότι η δόξα είναι το πιο ανθεκτικό πράγμα που μπορεί να κερδίσει ο άνθρωπος."},
+      "answer": false,
+      "why": {"en": "It shows the opposite: famous names are forgotten quickly, so applause is not worth chasing.", "el": "Δείχνει το αντίθετο: τα ξακουστά ονόματα ξεχνιούνται γρήγορα, άρα το χειροκρότημα δεν αξίζει κυνήγι."}
+    },
+    {
+      "s": {"en": "Marcus values doing the right thing more than discussing what the right thing is.", "el": "Ο Μάρκος εκτιμά περισσότερο το να κάνεις το σωστό παρά το να συζητάς ποιο είναι το σωστό."},
+      "answer": true,
+      "why": {"en": "He tells himself to stop arguing about what a good man is and be one.", "el": "Λέει στον εαυτό του να πάψει να συζητά τι είναι ο καλός άνθρωπος και να γίνει."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Ruling mind", "el": "Ηγεμονικόν"}, "b": {"en": "The part of you that judges and decides", "el": "Το κομμάτι σου που κρίνει και αποφασίζει"}},
+    {"a": {"en": "Amor fati", "el": "Αγάπη της μοίρας"}, "b": {"en": "Loving what happens as if you chose it", "el": "Αγαπάς ό,τι συμβαίνει σαν να το διάλεξες"}},
+    {"a": {"en": "Inner citadel", "el": "Εσωτερική ακρόπολη"}, "b": {"en": "The calm place inside you that nothing can enter", "el": "Το ήρεμο μέρος μέσα σου όπου δεν μπαίνει τίποτα"}},
+    {"a": {"en": "View from above", "el": "Θέα από ψηλά"}, "b": {"en": "Zooming out until your worries look small", "el": "Απομακρύνεσαι ώσπου οι έγνοιες σου να φαίνονται μικρές"}},
+    {"a": {"en": "Purple dye", "el": "Πορφύρα"}, "b": {"en": "Glamour that hides what a thing really is", "el": "Η λάμψη που κρύβει τι είναι πραγματικά ένα πράγμα"}},
+    {"a": {"en": "The hive", "el": "Η κυψέλη"}, "b": {"en": "The common good your own good depends on", "el": "Το κοινό καλό από το οποίο εξαρτάται το δικό σου"}}
+  ],
+  "missions": [
+    {"en": "Say Marcus's morning line before work tomorrow: name three kinds of difficult people you will probably meet and how you will stay polite.", "el": "Πες αύριο πριν από τη δουλειά την πρωινή φράση του Μάρκου: ονόμασε τρία είδη δύσκολων ανθρώπων που μάλλον θα συναντήσεις και πώς θα μείνεις ευγενικός."},
+    {"en": "Write tonight's biggest worry in one line without adjectives, then mark which part is in your control and do one thing about that part.", "el": "Γράψε τη μεγαλύτερη αποψινή σου έγνοια σε μία γραμμή χωρίς επίθετα, σημείωσε ποιο κομμάτι είναι στο χέρι σου και κάνε ένα πράγμα γι' αυτό."},
+    {"en": "Take one current obstacle in the agency and write which virtue or skill it is training in you, in three sentences.", "el": "Πάρε ένα τωρινό εμπόδιο του γραφείου και γράψε σε τρεις προτάσεις ποια αρετή ή ικανότητα γυμνάζει μέσα σου."},
+    {"en": "Write your own Book 1: five people who shaped you and the one lesson you owe to each. Send a thank-you message to one of them.", "el": "Γράψε το δικό σου «πρώτο βιβλίο»: πέντε ανθρώπους που σε διαμόρφωσαν και το ένα μάθημα που χρωστάς στον καθένα. Στείλε ένα ευχαριστώ σε έναν από αυτούς."},
+    {"en": "Keep a private notebook for five evenings: three lines on what you did well, what you did badly and what you will do tomorrow.", "el": "Κράτα ένα προσωπικό τετράδιο για πέντε βράδια: τρεις γραμμές για το τι έκανες καλά, τι έκανες άσχημα και τι θα κάνεις αύριο."}
+  ],
+  "mantra": {
+    "en": "I control my judgment and my next action. Nothing else.",
+    "el": "Ελέγχω την κρίση μου και την επόμενη πράξη μου. Τίποτε άλλο."
+  },
+  "careful": {
+    "en": "These are private, repetitive notes, not a finished system, and popular quotes online are often loose paraphrases. The calm rests on a belief in a rational, well-ordered universe that nobody can prove. Acceptance can slide into passivity or into hiding real feelings. And Marcus was no saint: he ruled a slave-owning empire, Christians were persecuted under him, and he left the throne to his disastrous son Commodus. «Amor fati» is Nietzsche's phrase, not his.",
+    "el": "Πρόκειται για προσωπικές σημειώσεις με πολλές επαναλήψεις, όχι για ολοκληρωμένο σύστημα, και τα δημοφιλή «ρητά» του στο ίντερνετ είναι συχνά ελεύθερες παραφράσεις. Η ηρεμία του στηρίζεται στην πίστη σε ένα λογικό, καλοτακτοποιημένο σύμπαν, που κανείς δεν μπορεί να αποδείξει. Η αποδοχή εύκολα γλιστρά σε παθητικότητα ή σε κρυμμένα συναισθήματα. Και ο Μάρκος δεν ήταν άγιος: κυβέρνησε μια δουλοκτητική αυτοκρατορία, επί των ημερών του διώχθηκαν χριστιανοί, και άφησε τον θρόνο στον ολέθριο γιο του Κόμμοδο. Το «amor fati» είναι φράση του Νίτσε, όχι δική του."
+  },
+  "connects": [
+    {"book": "four-agreements", "note": {"en": "Ruiz's «take nothing personally» is the modern, simpler version of Marcus's point that only your own opinion can hurt you.", "el": "Το «μην παίρνεις τίποτα προσωπικά» του Ρουίς είναι η σύγχρονη, πιο απλή εκδοχή της θέσης του Μάρκου ότι μόνο η δική σου γνώμη μπορεί να σε πληγώσει."}},
+    {"book": "nicomachean-ethics", "note": {"en": "Both say a good life means practising virtue in action, but Aristotle thinks you also need some luck, health and friends, while the Stoics say virtue alone is enough.", "el": "Και οι δύο λένε ότι καλή ζωή σημαίνει να ασκείς την αρετή στην πράξη, αλλά ο Αριστοτέλης θεωρεί ότι χρειάζεσαι και λίγη τύχη, υγεία και φίλους, ενώ οι Στωικοί λένε ότι αρκεί η αρετή."}},
+    {"book": "reality-transurfing", "note": {"en": "Zeland also tells you to stop fighting events and lower their importance, but he promises that reality will then bend to you, a claim Marcus never makes.", "el": "Και ο Zeland σου λέει να πάψεις να πολεμάς τα γεγονότα και να τους δίνεις λιγότερη σημασία, αλλά υπόσχεται ότι τότε η πραγματικότητα θα σου κάνει τα χατίρια, κάτι που ο Μάρκος δεν ισχυρίζεται ποτέ."}}
+  ]
+}

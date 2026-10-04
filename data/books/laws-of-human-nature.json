@@ -1,0 +1,611 @@
+{
+  "id": "laws-of-human-nature",
+  "title": {"en": "The Laws of Human Nature", "el": "Οι Νόμοι της Ανθρώπινης Φύσης"},
+  "author": "Robert Greene",
+  "authorEl": "Ρόμπερτ Γκριν",
+  "year": 2018,
+  "shelf": "people",
+  "skills": {"persuasion": 3, "communication": 2, "wisdom": 3},
+  "oneLine": {
+    "en": "Eighteen hidden forces drive what people do, including you; learn to see them and you stop being surprised, fooled or ruled by them.",
+    "el": "Δεκαοκτώ κρυφές δυνάμεις κινούν ό,τι κάνουν οι άνθρωποι, κι εσύ μαζί· μάθε να τις βλέπεις και παύεις να ξαφνιάζεσαι, να ξεγελιέσαι ή να σε κυβερνούν."
+  },
+  "story": {
+    "en": "Robert Greene, author of The 48 Laws of Power, spent six years on this book. Each of the 18 chapters takes one force in human nature, tells the story of a historical figure who shows it, explains the psychology and ends with how to use it. People read it because it works like a manual for understanding clients, partners, rivals and, above all, themselves.",
+    "el": "Ο Ρόμπερτ Γκριν, συγγραφέας των «48 Νόμων της Εξουσίας», δούλεψε έξι χρόνια αυτό το βιβλίο. Καθένα από τα 18 κεφάλαια παίρνει μία δύναμη της ανθρώπινης φύσης, διηγείται την ιστορία ενός ιστορικού προσώπου που τη δείχνει, εξηγεί την ψυχολογία και κλείνει με το πώς τη χρησιμοποιείς. Διαβάζεται γιατί λειτουργεί σαν εγχειρίδιο για να καταλαβαίνεις πελάτες, συνεργάτες, αντιπάλους και, πάνω απ' όλα, τον εαυτό σου."
+  },
+  "forYou": {
+    "en": "Your whole day is people: a doctor who says «I will think about it», a client who delays, a collaborator who agrees and then does nothing. This book teaches you to read what is behind the words, to lower people's defences instead of fighting them, and to catch your own emotions before they cost you a sale or a decision.",
+    "el": "Όλη σου η μέρα είναι άνθρωποι: ένας γιατρός που λέει «θα το σκεφτώ», ένας πελάτης που καθυστερεί, ένας συνεργάτης που συμφωνεί και μετά δεν κάνει τίποτα. Αυτό το βιβλίο σε μαθαίνει να διαβάζεις τι κρύβεται πίσω από τα λόγια, να ρίχνεις τις άμυνες του άλλου αντί να τις πολεμάς, και να πιάνεις τα δικά σου συναισθήματα πριν σου κοστίσουν μια πώληση ή μια απόφαση."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Law 1: Master your emotional self", "el": "Νόμος 1: Κυριάρχησε στα συναισθήματά σου"},
+      "explain": {
+        "en": "We like to think we decide with logic. In truth emotions decide first and logic invents the reasons afterwards. We believe what pleases us, we follow the group, we blame others. Greene says rationality is not a gift, it is a skill you train. The main exercise: increase your reaction time. When you feel a strong emotion, wait before you act. The longer you wait, the clearer you see.",
+        "el": "Μας αρέσει να πιστεύουμε ότι αποφασίζουμε με τη λογική. Στην πραγματικότητα πρώτα αποφασίζει το συναίσθημα και μετά η λογική εφευρίσκει τους λόγους. Πιστεύουμε ό,τι μας βολεύει, ακολουθούμε την ομάδα, ρίχνουμε το φταίξιμο στους άλλους. Ο Γκριν λέει ότι η λογική δεν είναι χάρισμα, είναι δεξιότητα που προπονείς. Η βασική άσκηση: μεγάλωσε τον χρόνο αντίδρασής σου. Όταν νιώθεις ένα δυνατό συναίσθημα, περίμενε πριν ενεργήσεις. Όσο περισσότερο περιμένεις, τόσο πιο καθαρά βλέπεις."
+      },
+      "example": {
+        "en": "In 431 BC Pericles persuaded the angry Athenians not to fight Sparta's army on land, but to stay behind the walls and use the fleet. The patient plan worked. After his death the Athenians followed their passions into the Sicilian expedition, which ended in disaster.",
+        "el": "Το 431 π.Χ. ο Περικλής έπεισε τους οργισμένους Αθηναίους να μη συγκρουστούν με τον στρατό της Σπάρτης στη στεριά, αλλά να μείνουν πίσω από τα τείχη και να στηριχτούν στον στόλο. Το υπομονετικό σχέδιο δούλευε. Μετά τον θάνατό του οι Αθηναίοι ακολούθησαν τα πάθη τους στη Σικελική Εκστρατεία, που κατέληξε σε καταστροφή."
+      },
+      "apply": {
+        "en": "Wait one night before you answer a client's angry message, lower a price out of fear or fire back at a rude prospect. Write the reply, leave it in drafts and read it the next morning. Send only what the calm you would sign.",
+        "el": "Περίμενε ένα βράδυ πριν απαντήσεις στο θυμωμένο μήνυμα ενός πελάτη, πριν ρίξεις μια τιμή από φόβο ή πριν ανταποδώσεις σε έναν αγενή υποψήφιο πελάτη. Γράψε την απάντηση, άφησέ τη στα πρόχειρα και διάβασέ τη το άλλο πρωί. Στείλε μόνο ό,τι θα υπέγραφε ο ψύχραιμος εαυτός σου."
+      },
+      "check": {
+        "q": {"en": "What is the main exercise against irrational decisions?", "el": "Ποια είναι η βασική άσκηση ενάντια στις παράλογες αποφάσεις;"},
+        "options": [
+          {"en": "Trust your first feeling, it is usually right", "el": "Να εμπιστεύεσαι το πρώτο συναίσθημα, συνήθως έχει δίκιο"},
+          {"en": "Put time between the emotion and the action", "el": "Να βάζεις χρόνο ανάμεσα στο συναίσθημα και στην πράξη"},
+          {"en": "Avoid every situation that causes emotion", "el": "Να αποφεύγεις κάθε κατάσταση που προκαλεί συναίσθημα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Emotions fade with time, so waiting lets you see the situation as it is.", "el": "Τα συναισθήματα ξεθωριάζουν με τον χρόνο, άρα η αναμονή σε αφήνει να δεις την κατάσταση όπως είναι."}
+      }
+    },
+    {
+      "title": {"en": "Law 2: Turn self-love into empathy", "el": "Νόμος 2: Κάνε την αυτοαγάπη ενσυναίσθηση"},
+      "explain": {
+        "en": "Everyone is a narcissist to some degree: we all think mostly about ourselves and need attention. This is normal. The difference is where the energy goes. Deep narcissists turn it all inwards and use people. Healthy narcissists have a solid sense of themselves, so they can turn attention outwards. That outward attention is empathy: understanding how the other person feels and thinks. It is the most useful social skill.",
+        "el": "Όλοι είμαστε ως έναν βαθμό νάρκισσοι: σκεφτόμαστε κυρίως τον εαυτό μας και χρειαζόμαστε προσοχή. Αυτό είναι φυσιολογικό. Η διαφορά είναι πού πάει η ενέργεια. Ο βαθιά νάρκισσος τη γυρίζει όλη προς τα μέσα και χρησιμοποιεί τους ανθρώπους. Ο υγιής νάρκισσος έχει σταθερή εικόνα για τον εαυτό του, άρα μπορεί να στρέψει την προσοχή προς τα έξω. Αυτή η προσοχή προς τα έξω είναι η ενσυναίσθηση: να καταλαβαίνεις πώς νιώθει και πώς σκέφτεται ο άλλος. Είναι η πιο χρήσιμη κοινωνική δεξιότητα."
+      },
+      "example": {
+        "en": "When Ernest Shackleton's ship Endurance was crushed by Antarctic ice in 1915, he watched the mood of every man daily, kept the complainers close to him in his own tent and adjusted duties to each character. After almost two years, all 28 men came home alive.",
+        "el": "Όταν το πλοίο Endurance του Έρνεστ Σάκλετον συνθλίφτηκε από τους πάγους της Ανταρκτικής το 1915, εκείνος παρακολουθούσε καθημερινά τη διάθεση κάθε άντρα, κρατούσε τους γκρινιάρηδες κοντά του, στη δική του σκηνή, και προσάρμοζε τα καθήκοντα στον χαρακτήρα του καθενός. Μετά από σχεδόν δύο χρόνια, και οι 28 άντρες γύρισαν ζωντανοί."
+      },
+      "apply": {
+        "en": "Spend the first two minutes of every sales call only on the other person: how the practice is going, what worries them about patients finding them. Talk less than they do. Repeat their concern in their own words before you say anything about your offer.",
+        "el": "Αφιέρωσε τα πρώτα δύο λεπτά κάθε τηλεφωνήματος πώλησης μόνο στον άλλον: πώς πάει το ιατρείο, τι τον απασχολεί για το πώς τον βρίσκουν οι ασθενείς. Μίλα λιγότερο από εκείνον. Επανάλαβε την ανησυχία του με τα δικά του λόγια πριν πεις οτιδήποτε για την προσφορά σου."
+      },
+      "check": {
+        "q": {"en": "What separates healthy from deep narcissism?", "el": "Τι ξεχωρίζει τον υγιή από τον βαθύ ναρκισσισμό;"},
+        "options": [
+          {"en": "The healthy one can turn attention outwards to others", "el": "Ο υγιής μπορεί να στρέψει την προσοχή προς τους άλλους"},
+          {"en": "The healthy one feels no self-love at all", "el": "Ο υγιής δεν νιώθει καθόλου αγάπη για τον εαυτό του"},
+          {"en": "The deep one is always quiet and shy", "el": "Ο βαθύς είναι πάντα ήσυχος και ντροπαλός"}
+        ],
+        "answer": 0,
+        "why": {"en": "A secure sense of self frees your attention for other people, which is empathy.", "el": "Όταν νιώθεις ασφαλής με τον εαυτό σου, η προσοχή σου ελευθερώνεται για τους άλλους, και αυτό είναι ενσυναίσθηση."}
+      }
+    },
+    {
+      "title": {"en": "Law 3: See through the mask", "el": "Νόμος 3: Δες πίσω από τη μάσκα"},
+      "explain": {
+        "en": "People show the face that suits them: confident, polite, interested. Their real feelings escape through the body. A tight smile, a glance away, crossed arms, a change in the voice. Greene calls this leakage. Train yourself to watch more and talk less, and to notice when words and body disagree. The second half of the law: you also play a role, so play it well and consciously.",
+        "el": "Οι άνθρωποι δείχνουν το πρόσωπο που τους συμφέρει: σίγουροι, ευγενικοί, ενδιαφερόμενοι. Τα πραγματικά τους συναισθήματα ξεφεύγουν από το σώμα. Ένα σφιγμένο χαμόγελο, ένα βλέμμα που φεύγει, σταυρωμένα χέρια, μια αλλαγή στη φωνή. Ο Γκριν το ονομάζει «διαρροή». Εκπαίδευσε τον εαυτό σου να παρατηρεί περισσότερο και να μιλά λιγότερο, και να πιάνει πότε τα λόγια και το σώμα διαφωνούν. Το δεύτερο μισό του νόμου: κι εσύ παίζεις έναν ρόλο, οπότε παίξ' τον καλά και συνειδητά."
+      },
+      "example": {
+        "en": "At seventeen Milton Erickson was paralysed by polio and could only move his eyes. Lying in bed for months, he studied how his sisters' gestures and tones contradicted their words. He later became one of the most famous psychiatrists and hypnotherapists of his century.",
+        "el": "Στα δεκαεπτά του ο Μίλτον Έρικσον έμεινε παράλυτος από πολιομυελίτιδα και μπορούσε να κινεί μόνο τα μάτια του. Ξαπλωμένος για μήνες, μελετούσε πώς οι χειρονομίες και ο τόνος των αδελφών του διέψευδαν τα λόγια τους. Αργότερα έγινε ένας από τους πιο διάσημους ψυχιάτρους και υπνοθεραπευτές του αιώνα του."
+      },
+      "apply": {
+        "en": "Watch the face and listen to the voice at the moment you say the price in a meeting. A pause, a look down or a shorter answer tells you more than «sounds fine». Ask at once: «What part of this makes you hesitate?»",
+        "el": "Κοίτα το πρόσωπο και άκου τη φωνή τη στιγμή που λες την τιμή σε μια συνάντηση. Μια παύση, ένα βλέμμα προς τα κάτω ή μια πιο κοφτή απάντηση σου λένε περισσότερα από ένα «καλό ακούγεται». Ρώτα αμέσως: «Ποιο σημείο σάς κάνει να διστάζετε;»"
+      },
+      "check": {
+        "q": {"en": "What does Greene mean by leakage?", "el": "Τι εννοεί ο Γκριν με τη «διαρροή»;"},
+        "options": [
+          {"en": "Secrets that people tell their friends", "el": "Μυστικά που οι άνθρωποι λένε στους φίλους τους"},
+          {"en": "Lies that people tell on purpose", "el": "Ψέματα που οι άνθρωποι λένε επίτηδες"},
+          {"en": "Real feelings that escape through body and voice", "el": "Αληθινά συναισθήματα που ξεφεύγουν από το σώμα και τη φωνή"}
+        ],
+        "answer": 2,
+        "why": {"en": "People control their words far better than their body, so the body tells the truth.", "el": "Οι άνθρωποι ελέγχουν τα λόγια τους πολύ καλύτερα από το σώμα τους, άρα το σώμα λέει την αλήθεια."}
+      }
+    },
+    {
+      "title": {"en": "Law 4: Character is fate", "el": "Νόμος 4: Ο χαρακτήρας είναι μοίρα"},
+      "explain": {
+        "en": "People do not change easily. Their character, formed early in life, makes them repeat the same patterns again and again. So do not judge anyone by charm, words or reputation. Judge by history: what they did repeatedly, how they act under stress, how they treat people below them, whether they finish what they start. And look honestly at your own patterns, because they are your fate too.",
+        "el": "Οι άνθρωποι δεν αλλάζουν εύκολα. Ο χαρακτήρας τους, που διαμορφώνεται νωρίς στη ζωή, τους κάνει να επαναλαμβάνουν τα ίδια μοτίβα ξανά και ξανά. Γι' αυτό μην κρίνεις κανέναν από τη γοητεία, τα λόγια ή τη φήμη του. Κρίνε από το ιστορικό: τι έκανε επανειλημμένα, πώς φέρεται υπό πίεση, πώς φέρεται σε όσους είναι από κάτω του, αν τελειώνει ό,τι αρχίζει. Και κοίτα με ειλικρίνεια τα δικά σου μοτίβα, γιατί είναι και δική σου μοίρα."
+      },
+      "example": {
+        "en": "Howard Hughes had the image of a brilliant, daring businessman. His record showed a man who had to control every detail and finished little. In the Second World War his company won contracts for military aircraft and delivered none in time. Later he bought the film studio RKO and ran it into the ground.",
+        "el": "Ο Χάουαρντ Χιουζ είχε την εικόνα ενός λαμπρού, τολμηρού επιχειρηματία. Το ιστορικό του έδειχνε έναν άνθρωπο που έπρεπε να ελέγχει κάθε λεπτομέρεια και ολοκλήρωνε ελάχιστα. Στον Β' Παγκόσμιο Πόλεμο η εταιρεία του πήρε συμβόλαια για στρατιωτικά αεροσκάφη και δεν παρέδωσε κανένα στην ώρα του. Αργότερα αγόρασε το κινηματογραφικό στούντιο RKO και το διέλυσε."
+      },
+      "apply": {
+        "en": "Check the pattern before you trust a new collaborator or accept a difficult client. Ask how their last two collaborations ended and listen for who gets the blame. Someone who left three web designers angry will most likely leave you angry as well.",
+        "el": "Έλεγξε το μοτίβο πριν εμπιστευτείς έναν νέο συνεργάτη ή δεχτείς έναν δύσκολο πελάτη. Ρώτα πώς τελείωσαν οι δύο τελευταίες του συνεργασίες και πρόσεξε σε ποιον ρίχνει το φταίξιμο. Όποιος έφυγε θυμωμένος από τρεις web designers, κατά πάσα πιθανότητα θα φύγει θυμωμένος κι από σένα."
+      },
+      "check": {
+        "q": {"en": "What is the most reliable way to judge a person's character?", "el": "Ποιος είναι ο πιο αξιόπιστος τρόπος να κρίνεις τον χαρακτήρα ενός ανθρώπου;"},
+        "options": [
+          {"en": "Their promises about the future", "el": "Οι υποσχέσεις του για το μέλλον"},
+          {"en": "Their reputation and first impression", "el": "Η φήμη του και η πρώτη εντύπωση"},
+          {"en": "Their repeated actions over time", "el": "Οι επαναλαμβανόμενες πράξεις του μέσα στον χρόνο"}
+        ],
+        "answer": 2,
+        "why": {"en": "Character produces patterns, and patterns show up in a person's history.", "el": "Ο χαρακτήρας γεννά μοτίβα, και τα μοτίβα φαίνονται στο ιστορικό ενός ανθρώπου."}
+      }
+    },
+    {
+      "title": {"en": "Law 5: Become elusive", "el": "Νόμος 5: Γίνε δυσεύρετος"},
+      "explain": {
+        "en": "People want what they do not have and what others want. Once something is fully available, they lose interest. Desire lives in the imagination, so it needs a little distance and mystery. If you are always present, always available and explain everything, you become ordinary. Learn to step back at the right moment, to show that others want you, and to leave something for the imagination.",
+        "el": "Οι άνθρωποι θέλουν αυτό που δεν έχουν και αυτό που θέλουν οι άλλοι. Μόλις κάτι είναι εντελώς διαθέσιμο, χάνουν το ενδιαφέρον τους. Η επιθυμία ζει στη φαντασία, άρα χρειάζεται λίγη απόσταση και μυστήριο. Αν είσαι πάντα παρών, πάντα διαθέσιμος και τα εξηγείς όλα, γίνεσαι συνηθισμένος. Μάθε να κάνεις ένα βήμα πίσω την κατάλληλη στιγμή, να δείχνεις ότι σε θέλουν κι άλλοι και να αφήνεις κάτι στη φαντασία."
+      },
+      "example": {
+        "en": "Coco Chanel rarely explained herself and kept her past a mystery. According to the well-known story, when she launched Chanel No. 5 in 1921 she first scented her shop with it and gave a few bottles to chosen clients as gifts. Women began asking for it before it was officially on sale.",
+        "el": "Η Κοκό Σανέλ σπάνια έδινε εξηγήσεις και κρατούσε το παρελθόν της μυστήριο. Σύμφωνα με τη γνωστή ιστορία, όταν έβγαλε το Chanel No. 5 το 1921, πρώτα αρωμάτισε με αυτό το κατάστημά της και χάρισε λίγα μπουκάλια σε επιλεγμένες πελάτισσες. Οι γυναίκες άρχισαν να το ζητούν πριν καν βγει επίσημα στην πώληση."
+      },
+      "apply": {
+        "en": "Stop chasing a prospect with five follow-ups in a week. Say truthfully that you take a limited number of new sites each month and give the date of your next free slot. Mention a colleague of theirs you just delivered for, then let them come to you.",
+        "el": "Σταμάτα να κυνηγάς έναν υποψήφιο πελάτη με πέντε follow-up μέσα σε μια εβδομάδα. Πες, αληθινά, ότι αναλαμβάνεις περιορισμένο αριθμό νέων ιστοσελίδων κάθε μήνα και δώσε την ημερομηνία της επόμενης ελεύθερης θέσης. Ανάφερε έναν συνάδελφό του που μόλις παρέδωσες, και μετά άφησέ τον να έρθει εκείνος."
+      },
+      "check": {
+        "q": {"en": "Why does being always available lower desire?", "el": "Γιατί το να είσαι πάντα διαθέσιμος μειώνει την επιθυμία;"},
+        "options": [
+          {"en": "People assume available things are illegal", "el": "Οι άνθρωποι θεωρούν παράνομο ό,τι είναι διαθέσιμο"},
+          {"en": "Desire feeds on what is absent and wanted by others", "el": "Η επιθυμία τρέφεται από ό,τι λείπει και το θέλουν κι άλλοι"},
+          {"en": "Customers prefer sellers who never answer", "el": "Οι πελάτες προτιμούν πωλητές που δεν απαντούν ποτέ"}
+        ],
+        "answer": 1,
+        "why": {"en": "What is fully present leaves nothing for the imagination to work on.", "el": "Ό,τι είναι εντελώς παρόν δεν αφήνει τίποτα στη φαντασία να δουλέψει."}
+      }
+    },
+    {
+      "title": {"en": "Law 6: Think long-term", "el": "Νόμος 6: Σκέψου μακροπρόθεσμα"},
+      "explain": {
+        "en": "We react to what is in front of us: today's news, today's problem, today's quick gain. This makes us blind to consequences. Greene names four signs of short sight: actions with results you did not expect, endless small battles that go nowhere, nervous reaction to every piece of news, and getting lost in details. The cure is to step back and ask where this leads in a year or five.",
+        "el": "Αντιδρούμε σε ό,τι έχουμε μπροστά μας: την είδηση της ημέρας, το πρόβλημα της ημέρας, το γρήγορο κέρδος της ημέρας. Αυτό μας τυφλώνει για τις συνέπειες. Ο Γκριν ονομάζει τέσσερα σημάδια κοντόφθαλμης σκέψης: πράξεις με αποτελέσματα που δεν περίμενες, ατελείωτες μικρές μάχες που δεν βγάζουν πουθενά, νευρική αντίδραση σε κάθε είδηση, και χάσιμο μέσα στις λεπτομέρειες. Η θεραπεία είναι να κάνεις ένα βήμα πίσω και να ρωτήσεις πού οδηγεί αυτό σε έναν χρόνο ή σε πέντε."
+      },
+      "example": {
+        "en": "In 1720 England went mad for shares of the South Sea Company, pushed by its director John Blunt. The price multiplied within months and then collapsed, ruining thousands. Even Isaac Newton lost a fortune. Almost nobody had asked what the company would actually earn.",
+        "el": "Το 1720 η Αγγλία τρελάθηκε με τις μετοχές της Εταιρείας της Νότιας Θάλασσας, με τον διευθυντή της Τζον Μπλαντ να φουσκώνει το ενδιαφέρον. Η τιμή πολλαπλασιάστηκε μέσα σε μήνες και μετά κατέρρευσε, καταστρέφοντας χιλιάδες ανθρώπους. Ακόμα και ο Ισαάκ Νεύτων έχασε μια περιουσία. Σχεδόν κανείς δεν είχε ρωτήσει τι θα κέρδιζε πραγματικά η εταιρεία."
+      },
+      "apply": {
+        "en": "Ask one question before every decision that feels urgent, like a discount to close today or a client who wants everything for nothing: «If I do this with every client for two years, where does it take the business?» Decide for the two years, not for today.",
+        "el": "Κάνε μία ερώτηση πριν από κάθε απόφαση που μοιάζει επείγουσα, όπως μια έκπτωση για να κλείσεις σήμερα ή ένας πελάτης που τα θέλει όλα τζάμπα: «Αν το κάνω αυτό με κάθε πελάτη για δύο χρόνια, πού πάει την επιχείρηση;» Αποφάσισε για τα δύο χρόνια, όχι για σήμερα."
+      },
+      "check": {
+        "q": {"en": "Which is a sign of short-sighted thinking?", "el": "Ποιο είναι σημάδι κοντόφθαλμης σκέψης;"},
+        "options": [
+          {"en": "Reacting nervously to every new piece of news", "el": "Να αντιδράς νευρικά σε κάθε νέα είδηση"},
+          {"en": "Asking where a choice leads in five years", "el": "Να ρωτάς πού οδηγεί μια επιλογή σε πέντε χρόνια"},
+          {"en": "Ignoring small quarrels that lead nowhere", "el": "Να αγνοείς μικροκαβγάδες που δεν βγάζουν πουθενά"}
+        ],
+        "answer": 0,
+        "why": {"en": "Greene calls it ticker tape fever: the present moment swallows your judgment.", "el": "Ο Γκριν το περιγράφει ως πυρετό της επικαιρότητας: η στιγμή καταπίνει την κρίση σου."}
+      }
+    },
+    {
+      "title": {"en": "Law 7: Confirm their self-opinion", "el": "Νόμος 7: Επιβεβαίωσε την εικόνα τους"},
+      "explain": {
+        "en": "Every person holds three beliefs about himself: I decide freely, I am intelligent, I am a good person. If you threaten any of them, by pushing, correcting or judging, he becomes defensive and stops listening. If you confirm them, his guard drops. So listen deeply, let the idea feel like his own choice, praise something real, and never make him feel stupid. Influence begins with validation.",
+        "el": "Κάθε άνθρωπος πιστεύει τρία πράγματα για τον εαυτό του: αποφασίζω ελεύθερα, είμαι έξυπνος, είμαι καλός άνθρωπος. Αν απειλήσεις κάποιο από αυτά, πιέζοντας, διορθώνοντας ή κρίνοντας, μπαίνει σε άμυνα και παύει να ακούει. Αν τα επιβεβαιώσεις, η άμυνά του πέφτει. Γι' αυτό άκου σε βάθος, άφησε την ιδέα να μοιάζει δική του επιλογή, επαίνεσε κάτι αληθινό και μην τον κάνεις ποτέ να νιώσει χαζός. Η επιρροή ξεκινά από την αναγνώριση."
+      },
+      "example": {
+        "en": "As a new senator in 1949, Lyndon Johnson did not push his own ideas. He attached himself to the powerful, lonely senator Richard Russell, asked for his advice and listened for hours. Russell came to see him as a protégé, and within a few years Johnson led his party in the Senate.",
+        "el": "Ως νέος γερουσιαστής το 1949, ο Λίντον Τζόνσον δεν προώθησε τις δικές του ιδέες. Κόλλησε στον ισχυρό, μοναχικό γερουσιαστή Ρίτσαρντ Ράσελ, του ζητούσε συμβουλές και τον άκουγε με τις ώρες. Ο Ράσελ έφτασε να τον βλέπει σαν προστατευόμενό του, και μέσα σε λίγα χρόνια ο Τζόνσον ηγούνταν του κόμματός του στη Γερουσία."
+      },
+      "apply": {
+        "en": "Start the call by confirming all three beliefs. Intelligent: «Your reviews show patients trust you.» Autonomous: «You decide, I only show you two examples.» Good: «You clearly care that people find correct information.» Never open by saying their current site is bad.",
+        "el": "Ξεκίνα το τηλεφώνημα επιβεβαιώνοντας και τα τρία. Έξυπνος: «Οι κριτικές σας δείχνουν ότι οι ασθενείς σάς εμπιστεύονται». Αυτόνομος: «Εσείς αποφασίζετε, εγώ απλώς σας δείχνω δύο παραδείγματα». Καλός: «Φαίνεται ότι σας νοιάζει να βρίσκει ο κόσμος σωστή πληροφορία». Μην ανοίξεις ποτέ λέγοντας ότι η σημερινή του ιστοσελίδα είναι κακή."
+      },
+      "check": {
+        "q": {"en": "Which three beliefs do people defend about themselves?", "el": "Ποια τρία πράγματα υπερασπίζονται οι άνθρωποι για τον εαυτό τους;"},
+        "options": [
+          {"en": "That they are rich, famous and powerful", "el": "Ότι είναι πλούσιοι, διάσημοι και ισχυροί"},
+          {"en": "That they are autonomous, intelligent and good", "el": "Ότι είναι αυτόνομοι, έξυπνοι και καλοί"},
+          {"en": "That they are young, strong and lucky", "el": "Ότι είναι νέοι, δυνατοί και τυχεροί"}
+        ],
+        "answer": 1,
+        "why": {"en": "Threaten one of these and the person resists; confirm them and he opens up.", "el": "Αν απειλήσεις ένα από αυτά, ο άλλος αντιστέκεται· αν τα επιβεβαιώσεις, ανοίγει."}
+      }
+    },
+    {
+      "title": {"en": "Law 8: Attitude shapes reality", "el": "Νόμος 8: Η στάση σου φτιάχνει την πραγματικότητα"},
+      "explain": {
+        "en": "Two people live the same event and see different worlds. Your attitude is the lens you look through, and it shapes what happens next. A constricted attitude, fearful, hostile or resentful, sees threats everywhere and makes people pull away, which seems to prove it right. An expansive attitude sees the same obstacles as chances to learn, and people respond to it. You cannot choose events, but you can choose the lens.",
+        "el": "Δύο άνθρωποι ζουν το ίδιο γεγονός και βλέπουν διαφορετικούς κόσμους. Η στάση σου είναι ο φακός μέσα από τον οποίο κοιτάς, και διαμορφώνει αυτό που θα γίνει μετά. Η «στενή» στάση, φοβισμένη, εχθρική ή πικραμένη, βλέπει παντού απειλές και απομακρύνει τους ανθρώπους, πράγμα που μοιάζει να τη δικαιώνει. Η «ανοιχτή» στάση βλέπει τα ίδια εμπόδια ως ευκαιρίες να μάθεις, και οι άνθρωποι ανταποκρίνονται. Τα γεγονότα δεν τα διαλέγεις, τον φακό όμως ναι."
+      },
+      "example": {
+        "en": "Anton Chekhov grew up with a father who beat him and went bankrupt. At sixteen he was left alone in his home town to finish school. Instead of staying bitter he decided to understand and forgive his father, supported the family by writing, and became a doctor and a great author.",
+        "el": "Ο Άντον Τσέχοφ μεγάλωσε με έναν πατέρα που τον έδερνε και που χρεοκόπησε. Στα δεκαέξι του έμεινε μόνος στη γενέτειρά του για να τελειώσει το σχολείο. Αντί να μείνει πικραμένος, αποφάσισε να καταλάβει και να συγχωρήσει τον πατέρα του, στήριξε την οικογένεια γράφοντας και έγινε γιατρός και μεγάλος συγγραφέας."
+      },
+      "apply": {
+        "en": "Rename your bad days. After ten rejections on the phone, write «ten free lessons in objections» and note the best one. Before the next call say to yourself: «This person may need exactly this.» Your voice changes, and the answers change with it.",
+        "el": "Δώσε άλλο όνομα στις κακές σου μέρες. Μετά από δέκα απορρίψεις στο τηλέφωνο, γράψε «δέκα δωρεάν μαθήματα στις αντιρρήσεις» και σημείωσε την καλύτερη. Πριν το επόμενο τηλεφώνημα πες στον εαυτό σου: «Αυτός ο άνθρωπος ίσως χρειάζεται ακριβώς αυτό». Η φωνή σου αλλάζει, και μαζί της αλλάζουν οι απαντήσεις."
+      },
+      "check": {
+        "q": {"en": "Why does a hostile attitude seem to prove itself right?", "el": "Γιατί η εχθρική στάση μοιάζει να δικαιώνεται;"},
+        "options": [
+          {"en": "It makes people pull away, which looks like confirmation", "el": "Απομακρύνει τους ανθρώπους, και αυτό μοιάζει με επιβεβαίωση"},
+          {"en": "The world truly is hostile to everybody", "el": "Ο κόσμος είναι πράγματι εχθρικός για όλους"},
+          {"en": "Hostile people have better information", "el": "Οι εχθρικοί άνθρωποι έχουν καλύτερη πληροφόρηση"}
+        ],
+        "answer": 0,
+        "why": {"en": "Attitude shapes how others react to you, so it creates the evidence it expects.", "el": "Η στάση σου καθορίζει πώς αντιδρούν οι άλλοι, άρα φτιάχνει τα στοιχεία που περιμένει."}
+      }
+    },
+    {
+      "title": {"en": "Law 9: Confront your dark side", "el": "Νόμος 9: Αντίκρισε τη σκοτεινή σου πλευρά"},
+      "explain": {
+        "en": "Everyone has a shadow: the anger, ambition, selfishness and insecurity we learned to hide in order to be accepted. What is pushed down does not disappear. It leaks out as sudden outbursts, as traits shown too loudly, or as blaming others for what we carry ourselves. Greene's advice is to integrate the shadow: admit it, and give its energy a useful outlet. Whole people are more honest and more convincing.",
+        "el": "Όλοι έχουμε μια σκιά: τον θυμό, τη φιλοδοξία, τον εγωισμό και την ανασφάλεια που μάθαμε να κρύβουμε για να μας αποδέχονται. Ό,τι καταπιέζεται δεν εξαφανίζεται. Βγαίνει ως ξαφνικά ξεσπάσματα, ως χαρακτηριστικά που προβάλλονται υπερβολικά δυνατά, ή ως κατηγορίες στους άλλους για κάτι που κουβαλάμε εμείς. Η συμβουλή του Γκριν είναι να ενσωματώσεις τη σκιά: παραδέξου την και δώσε στην ενέργειά της μια χρήσιμη διέξοδο. Οι ολόκληροι άνθρωποι είναι πιο ειλικρινείς και πιο πειστικοί."
+      },
+      "example": {
+        "en": "Richard Nixon built a public image of a decent, self-controlled, patriotic man. The secret White House tapes revealed someone suspicious, vengeful and foul-mouthed. The side he had hidden drove the Watergate cover-up, and in 1974 he had to resign.",
+        "el": "Ο Ρίτσαρντ Νίξον έχτισε τη δημόσια εικόνα ενός αξιοπρεπούς, συγκρατημένου, πατριώτη ανθρώπου. Οι μυστικές ηχογραφήσεις του Λευκού Οίκου αποκάλυψαν κάποιον καχύποπτο, εκδικητικό και αθυρόστομο. Η πλευρά που έκρυβε οδήγησε στη συγκάλυψη του Γουότεργκεϊτ, και το 1974 αναγκάστηκε να παραιτηθεί."
+      },
+      "apply": {
+        "en": "Notice what annoys you most in others, such as arrogance or laziness, and ask where you carry a little of it yourself. Then use it: turn your competitiveness into beating last month's sales number, not into resentment towards another agency.",
+        "el": "Πρόσεξε τι σε εκνευρίζει περισσότερο στους άλλους, όπως η αλαζονεία ή η τεμπελιά, και ρώτα πού κουβαλάς κι εσύ λίγο από αυτό. Μετά αξιοποίησέ το: κάνε την ανταγωνιστικότητά σου προσπάθεια να ξεπεράσεις τις πωλήσεις του προηγούμενου μήνα, όχι πίκρα για ένα άλλο γραφείο."
+      },
+      "check": {
+        "q": {"en": "What does integrating the shadow mean?", "el": "Τι σημαίνει «ενσωματώνω τη σκιά»;"},
+        "options": [
+          {"en": "Hiding your dark traits even more carefully", "el": "Κρύβω ακόμα πιο προσεκτικά τα σκοτεινά μου στοιχεία"},
+          {"en": "Acting on every dark impulse freely", "el": "Ακολουθώ ελεύθερα κάθε σκοτεινή παρόρμηση"},
+          {"en": "Admitting your dark traits and channelling their energy", "el": "Παραδέχομαι τα σκοτεινά μου στοιχεία και διοχετεύω την ενέργειά τους"}
+        ],
+        "answer": 2,
+        "why": {"en": "What you admit you can direct; what you deny comes out by itself at the worst moment.", "el": "Ό,τι παραδέχεσαι μπορείς να το κατευθύνεις· ό,τι αρνείσαι βγαίνει μόνο του την πιο ακατάλληλη στιγμή."}
+      }
+    },
+    {
+      "title": {"en": "Law 10: Beware of envy", "el": "Νόμος 10: Πρόσεχε τον φθόνο"},
+      "explain": {
+        "en": "Envy is the emotion nobody admits. We compare ourselves constantly, and we compare most with people close to us: friends, colleagues, peers. That is why friends can envy more than enemies. The signs are small: praise with a sting, a moment of joy at your bad news, gossip, coldness after your success. Do not show off in front of equals. And when you feel envy yourself, turn it into a wish to improve.",
+        "el": "Ο φθόνος είναι το συναίσθημα που δεν παραδέχεται κανείς. Συγκρινόμαστε συνέχεια, και κυρίως με τους κοντινούς μας: φίλους, συναδέλφους, ανθρώπους του ίδιου επιπέδου. Γι' αυτό οι φίλοι μπορεί να φθονούν περισσότερο από τους εχθρούς. Τα σημάδια είναι μικρά: έπαινος με κεντρί, μια στιγμή χαράς στα κακά σου νέα, κουτσομπολιό, ψυχρότητα μετά από μια επιτυχία σου. Μην επιδεικνύεσαι μπροστά σε ίσους. Κι όταν νιώθεις εσύ φθόνο, κάν' τον θέληση να βελτιωθείς."
+      },
+      "example": {
+        "en": "The writer Mary Shelley, author of Frankenstein, trusted her close friend Jane Williams for years. Later she discovered that Jane had been telling people that Mary had made her husband, the poet Shelley, unhappy. The friend had envied her talent and position all along.",
+        "el": "Η συγγραφέας Μαίρη Σέλεϊ, που έγραψε τον «Φρανκενστάιν», εμπιστευόταν επί χρόνια τη στενή της φίλη Τζέιν Ουίλιαμς. Αργότερα ανακάλυψε ότι η Τζέιν έλεγε στον κόσμο πως η Μαίρη είχε κάνει δυστυχισμένο τον άντρα της, τον ποιητή Σέλεϊ. Η φίλη φθονούσε από την αρχή το ταλέντο και τη θέση της."
+      },
+      "apply": {
+        "en": "Share your wins quietly with peers. When you speak about growth to other freelancers or old friends, mention the luck and the help you had, and ask about their work. Keep the proud numbers for clients and ads, where they build trust instead of envy.",
+        "el": "Μοιράσου τις επιτυχίες σου διακριτικά με ανθρώπους του ίδιου επιπέδου. Όταν μιλάς για την ανάπτυξή σου σε άλλους freelancers ή σε παλιούς φίλους, ανάφερε την τύχη και τη βοήθεια που είχες, και ρώτα για τη δική τους δουλειά. Κράτα τους περήφανους αριθμούς για τους πελάτες και τις διαφημίσεις, εκεί όπου χτίζουν εμπιστοσύνη αντί για φθόνο."
+      },
+      "check": {
+        "q": {"en": "Why can friends envy more than enemies?", "el": "Γιατί οι φίλοι μπορεί να φθονούν περισσότερο από τους εχθρούς;"},
+        "options": [
+          {"en": "Friends know all your secrets", "el": "Οι φίλοι ξέρουν όλα σου τα μυστικά"},
+          {"en": "We compare ourselves most with those close to us", "el": "Συγκρινόμαστε κυρίως με όσους είναι κοντά μας"},
+          {"en": "Enemies are too busy to notice you", "el": "Οι εχθροί είναι πολύ απασχολημένοι για να σε προσέξουν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Envy grows from comparison, and comparison is strongest among equals and friends.", "el": "Ο φθόνος γεννιέται από τη σύγκριση, και η σύγκριση είναι πιο έντονη ανάμεσα σε ίσους και φίλους."}
+      }
+    },
+    {
+      "title": {"en": "Law 11: Know your limits", "el": "Νόμος 11: Μάθε τα όριά σου"},
+      "explain": {
+        "en": "Success is dangerous for the mind. After a win we forget the luck, the timing and the people who helped, and we start to believe we have a special touch. This is grandiosity. It makes us take bigger risks, stop listening and move away from the work that made us good. The answer is practical: after every success, look for the part luck played, and keep your ambitions tied to reality.",
+        "el": "Η επιτυχία είναι επικίνδυνη για το μυαλό. Μετά από μια νίκη ξεχνάμε την τύχη, τη συγκυρία και τους ανθρώπους που βοήθησαν, και αρχίζουμε να πιστεύουμε ότι έχουμε κάποιο ιδιαίτερο άγγιγμα. Αυτό είναι η μεγαλομανία. Μας κάνει να παίρνουμε μεγαλύτερα ρίσκα, να σταματάμε να ακούμε και να απομακρυνόμαστε από τη δουλειά που μας έκανε καλούς. Η απάντηση είναι πρακτική: μετά από κάθε επιτυχία, ψάξε τι ρόλο έπαιξε η τύχη, και κράτα τις φιλοδοξίες σου δεμένες με την πραγματικότητα."
+      },
+      "example": {
+        "en": "Michael Eisner revived Disney after becoming its chief in 1984 and was praised as a genius. Believing it, he pushed Euro Disney, which lost heavily in its first years, drove out his studio head Jeffrey Katzenberg and hired then quickly fired Michael Ovitz at huge cost. In 2005 he was forced out.",
+        "el": "Ο Μάικλ Άισνερ ανέστησε τη Disney όταν ανέλαβε επικεφαλής το 1984 και τον εκθείαζαν ως ιδιοφυΐα. Πιστεύοντάς το, προχώρησε την Euro Disney, που τα πρώτα χρόνια είχε βαριές ζημιές, έδιωξε τον επικεφαλής των στούντιο Τζέφρι Κάτζενμπεργκ και προσέλαβε, για να απολύσει γρήγορα με τεράστιο κόστος, τον Μάικλ Όβιτς. Το 2005 αναγκάστηκε να φύγει."
+      },
+      "apply": {
+        "en": "Write three lines after your best month: what luck gave you, who helped, and what you actually did better. Before any big jump, like hiring three people or opening a new market, test it small first. Keep doing some of the basic work yourself.",
+        "el": "Γράψε τρεις γραμμές μετά τον καλύτερο μήνα σου: τι σου έδωσε η τύχη, ποιος βοήθησε και τι έκανες πραγματικά καλύτερα εσύ. Πριν από κάθε μεγάλο άλμα, όπως να προσλάβεις τρία άτομα ή να ανοίξεις νέα αγορά, δοκίμασέ το πρώτα σε μικρή κλίμακα. Συνέχισε να κάνεις ο ίδιος ένα μέρος της βασικής δουλειάς."
+      },
+      "check": {
+        "q": {"en": "What does grandiosity make us forget after a success?", "el": "Τι μας κάνει να ξεχνάμε η μεγαλομανία μετά από μια επιτυχία;"},
+        "options": [
+          {"en": "The role of luck and of other people", "el": "Τον ρόλο της τύχης και των άλλων ανθρώπων"},
+          {"en": "The name of our competitors", "el": "Το όνομα των ανταγωνιστών μας"},
+          {"en": "The wish to succeed again", "el": "Την επιθυμία να πετύχουμε ξανά"}
+        ],
+        "answer": 0,
+        "why": {"en": "We credit everything to our own talent, so our next risks get bigger and blinder.", "el": "Τα αποδίδουμε όλα στο ταλέντο μας, οπότε τα επόμενα ρίσκα γίνονται μεγαλύτερα και πιο τυφλά."}
+      }
+    },
+    {
+      "title": {"en": "Law 12: Reconnect with both sides", "el": "Νόμος 12: Αγκάλιασε και τις δύο πλευρές"},
+      "explain": {
+        "en": "Greene, following the psychologist Jung, says every person has both masculine and feminine qualities, and that society pushes us to show only one set. A man hides sensitivity, a woman hides toughness. This makes us rigid and less capable. The complete person uses both: decisive and empathetic, analytical and intuitive, firm and warm. People who combine the two are more creative, more flexible and more attractive to others.",
+        "el": "Ο Γκριν, ακολουθώντας τον ψυχολόγο Γιουνγκ, λέει ότι κάθε άνθρωπος έχει και «αρσενικά» και «θηλυκά» στοιχεία, και ότι η κοινωνία μάς σπρώχνει να δείχνουμε μόνο τα μισά. Ο άντρας κρύβει την ευαισθησία, η γυναίκα τη σκληράδα. Αυτό μας κάνει άκαμπτους και λιγότερο ικανούς. Ο ολοκληρωμένος άνθρωπος χρησιμοποιεί και τα δύο: αποφασιστικός και με ενσυναίσθηση, αναλυτικός και διαισθητικός, σταθερός και ζεστός. Όσοι τα συνδυάζουν είναι πιο δημιουργικοί, πιο ευέλικτοι και πιο ελκυστικοί στους άλλους."
+      },
+      "example": {
+        "en": "Caterina Sforza, ruler of the Italian city of Forlì, was trained in arms as well as in court manners. When her husband was murdered in 1488 she seized the fortress and defied the conspirators, and later she held out against Cesare Borgia. She governed with both charm and steel.",
+        "el": "Η Κατερίνα Σφόρτσα, ηγεμόνας της ιταλικής πόλης Φορλί, είχε εκπαιδευτεί στα όπλα όσο και στους τρόπους της αυλής. Όταν ο άντρας της δολοφονήθηκε το 1488, κατέλαβε το φρούριο και αψήφησε τους συνωμότες, και αργότερα αντιστάθηκε στον Καίσαρα Βοργία. Κυβέρνησε και με γοητεία και με ατσάλι."
+      },
+      "apply": {
+        "en": "Find the side you use less. If you are all drive and closing, practise listening quietly in the next meeting and asking how the client feels about the draft. If you are all warmth, practise stating a price and a deadline firmly, then staying silent.",
+        "el": "Βρες την πλευρά που χρησιμοποιείς λιγότερο. Αν είσαι όλο ορμή και κλείσιμο, εξασκήσου στην επόμενη συνάντηση να ακούς ήσυχα και να ρωτάς πώς νιώθει ο πελάτης για το draft. Αν είσαι όλο ζεστασιά, εξασκήσου να λες σταθερά μια τιμή και μια προθεσμία, και μετά να μένεις σιωπηλός."
+      },
+      "check": {
+        "q": {"en": "What is the point of this law?", "el": "Ποιο είναι το νόημα αυτού του νόμου;"},
+        "options": [
+          {"en": "Men and women should swap roles completely", "el": "Άντρες και γυναίκες πρέπει να αλλάξουν εντελώς ρόλους"},
+          {"en": "Each person should hide the weaker side", "el": "Ο καθένας πρέπει να κρύβει την πιο αδύναμη πλευρά του"},
+          {"en": "A complete person develops both tough and soft qualities", "el": "Ο ολοκληρωμένος άνθρωπος αναπτύσσει και τα σκληρά και τα μαλακά στοιχεία"}
+        ],
+        "answer": 2,
+        "why": {"en": "Using only half of your qualities makes you rigid; combining them makes you flexible.", "el": "Με τα μισά σου στοιχεία γίνεσαι άκαμπτος· συνδυάζοντάς τα γίνεσαι ευέλικτος."}
+      }
+    },
+    {
+      "title": {"en": "Law 13: Find your purpose", "el": "Νόμος 13: Βρες τον σκοπό σου"},
+      "explain": {
+        "en": "Without a clear direction we drift: we change plans, follow other people's wishes and waste energy. A sense of purpose works like an inner compass. It tells you what to say no to, it gives you patience in bad periods, and it draws people to you. Greene warns about false purposes that feel good but lead nowhere: chasing only money, pleasure, attention or a fashionable cause.",
+        "el": "Χωρίς καθαρή κατεύθυνση παρασυρόμαστε: αλλάζουμε σχέδια, ακολουθούμε τις επιθυμίες των άλλων και σπαταλάμε ενέργεια. Η αίσθηση σκοπού λειτουργεί σαν εσωτερική πυξίδα. Σου λέει σε τι να πεις όχι, σου δίνει υπομονή στις κακές περιόδους και τραβά τους ανθρώπους κοντά σου. Ο Γκριν προειδοποιεί για ψεύτικους σκοπούς που ευχαριστούν αλλά δεν βγάζουν πουθενά: να κυνηγάς μόνο το χρήμα, την απόλαυση, την προσοχή ή μια ιδέα της μόδας."
+      },
+      "example": {
+        "en": "In January 1956, during the Montgomery bus boycott, Martin Luther King Jr. received a late-night threat by phone and sat alone at his kitchen table, ready to quit. He prayed and felt an inner voice telling him to stand up for justice. Days later his house was bombed, and he stayed calm.",
+        "el": "Τον Ιανουάριο του 1956, στη διάρκεια του μποϊκοτάζ των λεωφορείων στο Μοντγκόμερι, ο Μάρτιν Λούθερ Κινγκ δέχτηκε αργά τη νύχτα μια τηλεφωνική απειλή και κάθισε μόνος στο τραπέζι της κουζίνας του, έτοιμος να τα παρατήσει. Προσευχήθηκε και ένιωσε μια εσωτερική φωνή να του λέει να σταθεί όρθιος για τη δικαιοσύνη. Λίγες μέρες αργότερα έβαλαν βόμβα στο σπίτι του, κι εκείνος έμεινε ψύχραιμος."
+      },
+      "apply": {
+        "en": "Write one sentence that says why your work matters beyond income, for example «every good Greek professional deserves to be found online». Then build a ladder: the goal for the year, the month and today. Say no to projects that do not fit the sentence.",
+        "el": "Γράψε μία πρόταση που λέει γιατί η δουλειά σου μετρά πέρα από το εισόδημα, για παράδειγμα «κάθε καλός Έλληνας επαγγελματίας αξίζει να τον βρίσκουν στο ίντερνετ». Μετά φτιάξε μια σκάλα: ο στόχος της χρονιάς, του μήνα και της σημερινής ημέρας. Πες όχι σε ό,τι δεν ταιριάζει με την πρόταση."
+      },
+      "check": {
+        "q": {"en": "Which of these does Greene call a false purpose?", "el": "Ποιο από αυτά ονομάζει ο Γκριν ψεύτικο σκοπό;"},
+        "options": [
+          {"en": "A calling that fits your natural strengths", "el": "Μια κλίση που ταιριάζει στα φυσικά σου δυνατά σημεία"},
+          {"en": "Chasing money or attention for its own sake", "el": "Το κυνήγι του χρήματος ή της προσοχής ως αυτοσκοπό"},
+          {"en": "A long-term goal broken into smaller steps", "el": "Έναν μακροπρόθεσμο στόχο σπασμένο σε μικρότερα βήματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Money and attention feel like direction but give no lasting compass.", "el": "Το χρήμα και η προσοχή μοιάζουν με κατεύθυνση, αλλά δεν δίνουν πυξίδα που κρατά."}
+      }
+    },
+    {
+      "title": {"en": "Law 14: Resist the group's pull", "el": "Νόμος 14: Αντιστάσου στην έλξη της ομάδας"},
+      "explain": {
+        "en": "In a group we change without noticing. We copy the others' opinions and emotions, we feel more certain, and we see outsiders as enemies. This is why groups can do stupid or cruel things that no member would do alone. The skill is to belong and still think for yourself: notice the group's mood, question what everyone agrees on, and build teams that look at reality, not at pleasing the leader.",
+        "el": "Μέσα σε μια ομάδα αλλάζουμε χωρίς να το καταλάβουμε. Αντιγράφουμε τις γνώμες και τα συναισθήματα των άλλων, νιώθουμε πιο σίγουροι και βλέπουμε τους απ' έξω ως εχθρούς. Γι' αυτό οι ομάδες μπορούν να κάνουν ανόητα ή σκληρά πράγματα που κανένα μέλος δεν θα έκανε μόνο του. Η δεξιότητα είναι να ανήκεις και να σκέφτεσαι παρ' όλα αυτά μόνος σου: να προσέχεις τη διάθεση της ομάδας, να αμφισβητείς αυτό στο οποίο συμφωνούν όλοι, και να φτιάχνεις ομάδες που κοιτούν την πραγματικότητα, όχι πώς θα ευχαριστήσουν τον αρχηγό."
+      },
+      "example": {
+        "en": "Gao Yuan was a schoolboy in China when the Cultural Revolution began in 1966. He describes how ordinary pupils humiliated and beat their teachers, and then split into rival Red Guard factions that fought each other with weapons. Friendly classmates became fanatics within weeks.",
+        "el": "Ο Γκάο Γιουάν ήταν μαθητής στην Κίνα όταν ξεκίνησε η Πολιτιστική Επανάσταση το 1966. Περιγράφει πώς συνηθισμένοι μαθητές ταπείνωναν και χτυπούσαν τους δασκάλους τους, και μετά χωρίστηκαν σε αντίπαλες φατρίες Ερυθροφρουρών που πολεμούσαν μεταξύ τους με όπλα. Φιλικοί συμμαθητές έγιναν φανατικοί μέσα σε λίγες εβδομάδες."
+      },
+      "apply": {
+        "en": "Question the advice that everyone in your field repeats, such as «you need this tool» or «nobody answers cold calls any more». Test it with your own numbers. In your team, ask the quietest person for their view first, before you give yours.",
+        "el": "Αμφισβήτησε τις συμβουλές που επαναλαμβάνουν όλοι στον χώρο σου, όπως «χρειάζεσαι αυτό το εργαλείο» ή «κανείς δεν σηκώνει πια cold call». Δοκίμασέ τες με τους δικούς σου αριθμούς. Στην ομάδα σου, ζήτα πρώτα τη γνώμη του πιο σιωπηλού, πριν πεις τη δική σου."
+      },
+      "check": {
+        "q": {"en": "What happens to our thinking inside a group?", "el": "Τι παθαίνει η σκέψη μας μέσα σε μια ομάδα;"},
+        "options": [
+          {"en": "We copy others' views and feel more certain than we should", "el": "Αντιγράφουμε τις απόψεις των άλλων και νιώθουμε πιο σίγουροι απ' όσο πρέπει"},
+          {"en": "We become more careful and more independent", "el": "Γινόμαστε πιο προσεκτικοί και πιο ανεξάρτητοι"},
+          {"en": "We stop feeling any emotion at all", "el": "Παύουμε να νιώθουμε οποιοδήποτε συναίσθημα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Group emotion spreads fast and replaces individual judgment.", "el": "Το συναίσθημα της ομάδας μεταδίδεται γρήγορα και παίρνει τη θέση της προσωπικής κρίσης."}
+      }
+    },
+    {
+      "title": {"en": "Law 15: Earn your authority", "el": "Νόμος 15: Κέρδισε το κύρος σου"},
+      "explain": {
+        "en": "People have mixed feelings about leaders: they want guidance and they resent being ruled. So a title is never enough. Authority must be earned daily. You earn it by having a clear vision, by working harder than anyone, by putting the group's interest before your own, and by being both fair and firm. A leader who serves the group and never takes more than his share is followed willingly.",
+        "el": "Οι άνθρωποι έχουν ανάμεικτα συναισθήματα για τους ηγέτες: θέλουν καθοδήγηση και ταυτόχρονα τους ενοχλεί να τους κυβερνούν. Γι' αυτό ένας τίτλος δεν αρκεί ποτέ. Το κύρος κερδίζεται κάθε μέρα. Το κερδίζεις με καθαρό όραμα, δουλεύοντας πιο σκληρά από όλους, βάζοντας το συμφέρον της ομάδας πάνω από το δικό σου και μένοντας δίκαιος και σταθερός μαζί. Τον ηγέτη που υπηρετεί την ομάδα και δεν παίρνει ποτέ περισσότερο από το μερίδιό του, τον ακολουθούν με τη θέλησή τους."
+      },
+      "example": {
+        "en": "Elizabeth I became queen of England in 1558, at twenty-five, in a country that doubted a woman could rule. She worked long hours, spent carefully, travelled to meet her people and listened to her ministers before deciding. In 1588 she stood among her soldiers at Tilbury as the Spanish Armada approached.",
+        "el": "Η Ελισάβετ Α' έγινε βασίλισσα της Αγγλίας το 1558, στα είκοσι πέντε της, σε μια χώρα που αμφέβαλλε αν μια γυναίκα μπορεί να κυβερνήσει. Δούλευε ατελείωτες ώρες, ξόδευε με φειδώ, ταξίδευε για να συναντά τον λαό της και άκουγε τους υπουργούς της πριν αποφασίσει. Το 1588 στάθηκε ανάμεσα στους στρατιώτες της στο Τίλμπερι, καθώς πλησίαζε η Ισπανική Αρμάδα."
+      },
+      "apply": {
+        "en": "Do first what you ask from your team: make the hardest calls yourself, answer messages as fast as you expect them to, admit your own mistakes openly. When a good month comes, reward the team before yourself and say exactly what each person did well.",
+        "el": "Κάνε πρώτος ό,τι ζητάς από την ομάδα σου: πάρε εσύ τα πιο δύσκολα τηλέφωνα, απάντα στα μηνύματα όσο γρήγορα περιμένεις να απαντούν εκείνοι, παραδέξου ανοιχτά τα λάθη σου. Όταν έρθει ένας καλός μήνας, αντάμειψε την ομάδα πριν από τον εαυτό σου και πες ακριβώς τι έκανε καλά ο καθένας."
+      },
+      "check": {
+        "q": {"en": "According to Greene, where does real authority come from?", "el": "Από πού προέρχεται, κατά τον Γκριν, το πραγματικό κύρος;"},
+        "options": [
+          {"en": "From the title and the position you hold", "el": "Από τον τίτλο και τη θέση που έχεις"},
+          {"en": "From making people afraid of you", "el": "Από το να σε φοβούνται οι άνθρωποι"},
+          {"en": "From serving the group and leading by example", "el": "Από το να υπηρετείς την ομάδα και να δίνεις το παράδειγμα"}
+        ],
+        "answer": 2,
+        "why": {"en": "People follow willingly only those who earn it through vision, effort and fairness.", "el": "Οι άνθρωποι ακολουθούν πρόθυμα μόνο όσους το κερδίζουν με όραμα, προσπάθεια και δικαιοσύνη."}
+      }
+    },
+    {
+      "title": {"en": "Law 16: Channel your aggression", "el": "Νόμος 16: Διοχέτευσε την επιθετικότητά σου"},
+      "explain": {
+        "en": "Aggression is in everyone, even behind a friendly face. Some people show it openly, by pushing and dominating. Others show it passively: delays, forgotten promises, guilt, silent resistance. Learn to recognise both without being dragged in. Then look at your own aggression. Do not deny it. Aim it at problems and goals instead of people: as ambition, persistence and the courage to defend yourself.",
+        "el": "Η επιθετικότητα υπάρχει σε όλους, ακόμα και πίσω από ένα φιλικό πρόσωπο. Κάποιοι τη δείχνουν ανοιχτά, πιέζοντας και κυριαρχώντας. Άλλοι τη δείχνουν παθητικά: καθυστερήσεις, ξεχασμένες υποσχέσεις, ενοχές, σιωπηλή αντίσταση. Μάθε να αναγνωρίζεις και τα δύο χωρίς να παρασύρεσαι. Μετά κοίτα τη δική σου επιθετικότητα. Μην την αρνείσαι. Στρέψε την σε προβλήματα και στόχους αντί σε ανθρώπους: ως φιλοδοξία, επιμονή και θάρρος να υπερασπίζεσαι τον εαυτό σου."
+      },
+      "example": {
+        "en": "John D. Rockefeller looked like a quiet, religious bookkeeper. In 1872, using secret discounts from the railways, he pressured his rivals in Cleveland and bought almost all of them within weeks. By 1880 his Standard Oil controlled about ninety percent of American oil refining.",
+        "el": "Ο Τζον Ντ. Ροκφέλερ έμοιαζε με ήσυχο, θρησκευόμενο λογιστή. Το 1872, με μυστικές εκπτώσεις από τους σιδηροδρόμους, πίεσε τους ανταγωνιστές του στο Κλίβελαντ και τους αγόρασε σχεδόν όλους μέσα σε λίγες εβδομάδες. Ως το 1880 η Standard Oil του έλεγχε περίπου το ενενήντα τοις εκατό της διύλισης πετρελαίου στην Αμερική."
+      },
+      "apply": {
+        "en": "Name the passive aggression when a client delays payment with endless excuses: state calmly what was agreed, the date and what happens next. Do not get angry at the person. Put that energy into a clear payment process and into the next twenty calls.",
+        "el": "Ονόμασε την παθητική επιθετικότητα όταν ένας πελάτης καθυστερεί την πληρωμή με ατελείωτες δικαιολογίες: πες ήρεμα τι συμφωνήθηκε, την ημερομηνία και τι ακολουθεί. Μη θυμώσεις με τον άνθρωπο. Βάλε αυτή την ενέργεια σε μια ξεκάθαρη διαδικασία πληρωμών και στα επόμενα είκοσι τηλεφωνήματα."
+      },
+      "check": {
+        "q": {"en": "What is the healthy use of your own aggression?", "el": "Ποια είναι η υγιής χρήση της δικής σου επιθετικότητας;"},
+        "options": [
+          {"en": "Pretending that you never feel it", "el": "Να κάνεις πως δεν τη νιώθεις ποτέ"},
+          {"en": "Aiming it at problems and goals, not at people", "el": "Να τη στρέφεις σε προβλήματα και στόχους, όχι σε ανθρώπους"},
+          {"en": "Showing it openly to scare rivals", "el": "Να τη δείχνεις ανοιχτά για να τρομάζεις τους αντιπάλους"}
+        ],
+        "answer": 1,
+        "why": {"en": "Channelled aggression becomes ambition and persistence; denied aggression leaks out badly.", "el": "Η επιθετικότητα που διοχετεύεται γίνεται φιλοδοξία και επιμονή· αυτή που αρνείσαι βγαίνει με άσχημο τρόπο."}
+      }
+    },
+    {
+      "title": {"en": "Law 17: Seize the historical moment", "el": "Νόμος 17: Πιάσε το πνεύμα της εποχής"},
+      "explain": {
+        "en": "Every generation is shaped by the years in which it grew up, and it tends to believe its own tastes and values are simply the correct ones. This is a bias. Each new generation reacts against the previous one, so the mood of society keeps shifting. The spirit of the time is called the zeitgeist. If you understand where it is moving, you can ride it. If you cling to the past, it runs over you.",
+        "el": "Κάθε γενιά διαμορφώνεται από τα χρόνια στα οποία μεγάλωσε, και τείνει να πιστεύει ότι τα γούστα και οι αξίες της είναι απλώς τα σωστά. Αυτό είναι προκατάληψη. Κάθε νέα γενιά αντιδρά στην προηγούμενη, άρα η διάθεση της κοινωνίας αλλάζει συνεχώς. Το πνεύμα της εποχής λέγεται zeitgeist. Αν καταλάβεις προς τα πού κινείται, μπορείς να το καβαλήσεις. Αν γαντζωθείς στο παρελθόν, σε πατάει."
+      },
+      "example": {
+        "en": "Louis XVI became king of France in 1774 and kept ruling through the old ceremonies of Versailles, as his ancestors had. He never grasped that a new generation no longer believed a king was sacred. The Revolution broke out in 1789 and he was executed in 1793.",
+        "el": "Ο Λουδοβίκος ΙΣΤ' έγινε βασιλιάς της Γαλλίας το 1774 και συνέχισε να κυβερνά με τις παλιές τελετές των Βερσαλλιών, όπως οι πρόγονοί του. Δεν κατάλαβε ποτέ ότι μια νέα γενιά δεν πίστευε πια πως ο βασιλιάς είναι ιερό πρόσωπο. Η Επανάσταση ξέσπασε το 1789 και ο ίδιος εκτελέστηκε το 1793."
+      },
+      "apply": {
+        "en": "Adjust your pitch to the generation in front of you. An older doctor wants a phone call, proof of seriousness and respect for his reputation. A thirty-year-old psychologist wants a link on the phone, speed and a modern look. Watch how younger clients search and buy, and move your offer there early.",
+        "el": "Προσάρμοσε την παρουσίασή σου στη γενιά που έχεις απέναντι. Ένας μεγαλύτερος γιατρός θέλει τηλεφώνημα, αποδείξεις σοβαρότητας και σεβασμό στο όνομά του. Μια τριαντάχρονη ψυχολόγος θέλει ένα link στο κινητό, ταχύτητα και μοντέρνα εικόνα. Παρατήρησε πώς ψάχνουν και αγοράζουν οι νεότεροι πελάτες, και πήγαινε την προσφορά σου εκεί νωρίς."
+      },
+      "check": {
+        "q": {"en": "What is generational bias?", "el": "Τι είναι η προκατάληψη της γενιάς;"},
+        "options": [
+          {"en": "Believing your generation's values are simply the right ones", "el": "Να πιστεύεις ότι οι αξίες της γενιάς σου είναι απλώς οι σωστές"},
+          {"en": "Believing all generations think exactly alike", "el": "Να πιστεύεις ότι όλες οι γενιές σκέφτονται ακριβώς το ίδιο"},
+          {"en": "Believing older people are always wiser", "el": "Να πιστεύεις ότι οι μεγαλύτεροι είναι πάντα σοφότεροι"}
+        ],
+        "answer": 0,
+        "why": {"en": "Each generation mistakes the taste of its own era for the truth.", "el": "Κάθε γενιά μπερδεύει το γούστο της εποχής της με την αλήθεια."}
+      }
+    },
+    {
+      "title": {"en": "Law 18: Meditate on your mortality", "el": "Νόμος 18: Θυμήσου ότι θα πεθάνεις"},
+      "explain": {
+        "en": "We avoid thinking about death, and so we live as if time were endless: we postpone, we worry about small things, we hold grudges. Greene says the awareness of death, the old memento mori, is not dark. It is a tool. When you really feel that your days are limited, you get a sense of urgency, you see what matters, and you feel closer to other people, who share the same fate.",
+        "el": "Αποφεύγουμε να σκεφτόμαστε τον θάνατο, κι έτσι ζούμε σαν να είναι ο χρόνος ατελείωτος: αναβάλλουμε, αγχωνόμαστε για μικροπράγματα, κρατάμε κακίες. Ο Γκριν λέει ότι η επίγνωση του θανάτου, το παλιό memento mori, δεν είναι κάτι σκοτεινό. Είναι εργαλείο. Όταν νιώσεις πραγματικά ότι οι μέρες σου είναι μετρημένες, αποκτάς αίσθηση του επείγοντος, βλέπεις τι μετράει και νιώθεις πιο κοντά στους άλλους, που έχουν την ίδια μοίρα."
+      },
+      "example": {
+        "en": "The American writer Flannery O'Connor was diagnosed at twenty-five with lupus, the disease that had killed her father. Knowing her time was short, she returned to her family's farm in Georgia and wrote with fierce discipline every morning. She completed two novels and many stories before dying at thirty-nine.",
+        "el": "Η Αμερικανίδα συγγραφέας Φλάνερι Ο'Κόνορ διαγνώστηκε στα είκοσι πέντε της με λύκο, την αρρώστια που είχε σκοτώσει τον πατέρα της. Ξέροντας ότι ο χρόνος της ήταν λίγος, γύρισε στο οικογενειακό αγρόκτημα στην Τζόρτζια και έγραφε κάθε πρωί με σιδερένια πειθαρχία. Ολοκλήρωσε δύο μυθιστορήματα και πολλά διηγήματα πριν πεθάνει στα τριάντα εννέα."
+      },
+      "apply": {
+        "en": "Ask yourself each Monday morning: «If I had only one year of work left, what would I build and what would I stop?» Then move one item from «someday» to this week. Use the same thought to let small insults from clients go.",
+        "el": "Ρώτα τον εαυτό σου κάθε Δευτέρα πρωί: «Αν μου έμενε μόνο ένας χρόνος δουλειάς, τι θα έχτιζα και τι θα σταματούσα;» Μετά πέρασε ένα πράγμα από το «κάποια στιγμή» σε αυτή την εβδομάδα. Με την ίδια σκέψη, άσε να περνούν οι μικρές προσβολές των πελατών."
+      },
+      "check": {
+        "q": {"en": "Why does Greene call awareness of death useful?", "el": "Γιατί ο Γκριν θεωρεί χρήσιμη την επίγνωση του θανάτου;"},
+        "options": [
+          {"en": "It makes us avoid all risk", "el": "Μας κάνει να αποφεύγουμε κάθε ρίσκο"},
+          {"en": "It proves that nothing we do matters", "el": "Αποδεικνύει ότι τίποτα απ' όσα κάνουμε δεν έχει σημασία"},
+          {"en": "It gives urgency and shows what truly matters", "el": "Δίνει αίσθηση του επείγοντος και δείχνει τι μετρά πραγματικά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Limited time is what makes priorities clear and delay expensive.", "el": "Ο περιορισμένος χρόνος είναι αυτός που ξεκαθαρίζει τις προτεραιότητες και κάνει την αναβολή ακριβή."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A client sends you a rude message at 11 at night, accusing you of delays that were his own. What do you do?", "el": "Ένας πελάτης σού στέλνει στις 11 το βράδυ ένα αγενές μήνυμα και σε κατηγορεί για καθυστερήσεις που ήταν δικές του. Τι κάνεις;"},
+      "options": [
+        {"en": "Reply at once with every proof that he is wrong", "el": "Απαντάς αμέσως με όλες τις αποδείξεις ότι έχει άδικο"},
+        {"en": "Write a draft, sleep, and answer calmly in the morning", "el": "Γράφεις ένα πρόχειρο, κοιμάσαι και απαντάς ήρεμα το πρωί"},
+        {"en": "Stop the project without saying anything", "el": "Σταματάς το project χωρίς να πεις τίποτα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Law 1: put time between the emotion and the action.", "el": "Νόμος 1: βάλε χρόνο ανάμεσα στο συναίσθημα και στην πράξη."},
+      "idea": 0
+    },
+    {
+      "q": {"en": "On a cold call a dentist says his nephew built his website and he is proud of it. The site is poor. How do you continue?", "el": "Σε ένα cold call ένας οδοντίατρος λέει ότι την ιστοσελίδα του την έφτιαξε ο ανιψιός του και είναι περήφανος. Η σελίδα είναι φτωχή. Πώς συνεχίζεις;"},
+      "options": [
+        {"en": "Praise his care for the practice and offer to show two examples, his choice", "el": "Επαινείς τη φροντίδα του για το ιατρείο και προτείνεις να του δείξεις δύο παραδείγματα, αν θέλει"},
+        {"en": "List the site's mistakes so he sees the problem", "el": "Απαριθμείς τα λάθη της σελίδας για να δει το πρόβλημα"},
+        {"en": "Tell him every serious dentist uses professionals", "el": "Του λες ότι κάθε σοβαρός οδοντίατρος δουλεύει με επαγγελματίες"}
+      ],
+      "answer": 0,
+      "why": {"en": "Law 7: confirm that he is intelligent, autonomous and good, and his guard drops.", "el": "Νόμος 7: επιβεβαίωσε ότι είναι έξυπνος, αυτόνομος και καλός, και η άμυνά του πέφτει."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "A possible partner is charming and promises a lot, but you learn that his last three collaborations ended in fights. What do you conclude?", "el": "Ένας πιθανός συνεργάτης είναι γοητευτικός και υπόσχεται πολλά, αλλά μαθαίνεις ότι οι τρεις τελευταίες του συνεργασίες τελείωσαν με καβγά. Τι συμπεραίνεις;"},
+      "options": [
+        {"en": "He was unlucky, his charm shows his real character", "el": "Στάθηκε άτυχος, η γοητεία του δείχνει τον πραγματικό του χαρακτήρα"},
+        {"en": "With you it will be different because you get on well", "el": "Μαζί σου θα είναι αλλιώς, γιατί τα πάτε καλά"},
+        {"en": "The pattern will most likely repeat with you", "el": "Το μοτίβο κατά πάσα πιθανότητα θα επαναληφθεί και με σένα"}
+      ],
+      "answer": 2,
+      "why": {"en": "Law 4: judge character by repeated actions, not by words or charm.", "el": "Νόμος 4: κρίνε τον χαρακτήρα από τις επαναλαμβανόμενες πράξεις, όχι από τα λόγια ή τη γοητεία."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "You had your best month ever. You feel like hiring four people and renting an office immediately. What is the wise step?", "el": "Έκανες τον καλύτερο μήνα σου ως τώρα. Σου έρχεται να προσλάβεις τέσσερα άτομα και να νοικιάσεις γραφείο αμέσως. Ποιο είναι το συνετό βήμα;"},
+      "options": [
+        {"en": "Do it all now while you feel strong", "el": "Τα κάνεις όλα τώρα, όσο νιώθεις δυνατός"},
+        {"en": "Check what was luck, then test a smaller step first", "el": "Ελέγχεις τι ήταν τύχη και δοκιμάζεις πρώτα ένα μικρότερο βήμα"},
+        {"en": "Change nothing ever, to stay safe", "el": "Δεν αλλάζεις ποτέ τίποτα, για να είσαι ασφαλής"}
+      ],
+      "answer": 1,
+      "why": {"en": "Law 11: success inflates us; look for the luck and stay tied to reality.", "el": "Νόμος 11: η επιτυχία μάς φουσκώνει· ψάξε την τύχη και μείνε δεμένος με την πραγματικότητα."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "An old friend answers your news about the business with «nice, anyone can make websites with AI now». What do you understand?", "el": "Ένας παλιός φίλος απαντά στα νέα σου για την επιχείρηση με ένα «ωραία, τώρα με το AI όλοι φτιάχνουν ιστοσελίδες». Τι καταλαβαίνεις;"},
+      "options": [
+        {"en": "It may be envy; share wins more quietly with peers", "el": "Μπορεί να είναι φθόνος· μοιράσου τις επιτυχίες σου πιο διακριτικά με ίσους"},
+        {"en": "He is right, your work has no value", "el": "Έχει δίκιο, η δουλειά σου δεν έχει αξία"},
+        {"en": "You must prove him wrong with your numbers", "el": "Πρέπει να του αποδείξεις με τους αριθμούς σου ότι κάνει λάθος"}
+      ],
+      "answer": 0,
+      "why": {"en": "Law 10: praise with a sting from someone close is a classic sign of envy.", "el": "Νόμος 10: ο έπαινος με κεντρί από κάποιον κοντινό είναι κλασικό σημάδι φθόνου."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "A prospect was excited in the meeting but has gone quiet. You have already followed up twice. What now?", "el": "Ένας υποψήφιος πελάτης ήταν ενθουσιασμένος στη συνάντηση, αλλά έχει εξαφανιστεί. Έχεις ήδη κάνει δύο follow-up. Τι κάνεις τώρα;"},
+      "options": [
+        {"en": "Message every day until he answers", "el": "Στέλνεις μήνυμα κάθε μέρα μέχρι να απαντήσει"},
+        {"en": "Offer a large discount to wake him up", "el": "Προσφέρεις μεγάλη έκπτωση για να τον ξυπνήσεις"},
+        {"en": "Step back, and tell him when your next free slot is", "el": "Κάνεις ένα βήμα πίσω και του λες πότε είναι η επόμενη ελεύθερη θέση σου"}
+      ],
+      "answer": 2,
+      "why": {"en": "Law 5: constant presence kills desire; a little distance and real scarcity revive it.", "el": "Νόμος 5: η συνεχής παρουσία σκοτώνει την επιθυμία· λίγη απόσταση και αληθινή σπανιότητα την ξαναζωντανεύουν."},
+      "idea": 4
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Greene says rationality is a skill you train, not something you are born with.", "el": "Ο Γκριν λέει ότι η λογική είναι δεξιότητα που προπονείς, όχι κάτι με το οποίο γεννιέσαι."},
+      "answer": true,
+      "why": {"en": "Emotions rule by default; reason comes from practice, mainly from slowing your reactions.", "el": "Από τη φύση μας κυβερνούν τα συναισθήματα· η λογική έρχεται με εξάσκηση, κυρίως επιβραδύνοντας τις αντιδράσεις."}
+    },
+    {
+      "s": {"en": "According to the book, only a few sick people are narcissists.", "el": "Σύμφωνα με το βιβλίο, μόνο λίγοι άρρωστοι άνθρωποι είναι νάρκισσοι."},
+      "answer": false,
+      "why": {"en": "Everyone is on the narcissism scale; the goal is the healthy end, with empathy.", "el": "Όλοι βρισκόμαστε στην κλίμακα του ναρκισσισμού· ο στόχος είναι το υγιές άκρο, με ενσυναίσθηση."}
+    },
+    {
+      "s": {"en": "The best guide to someone's character is how they have acted repeatedly in the past.", "el": "Ο καλύτερος οδηγός για τον χαρακτήρα κάποιου είναι το πώς έχει φερθεί επανειλημμένα στο παρελθόν."},
+      "answer": true,
+      "why": {"en": "Character creates patterns that people repeat, whatever they say.", "el": "Ο χαρακτήρας δημιουργεί μοτίβα που οι άνθρωποι επαναλαμβάνουν, ό,τι κι αν λένε."}
+    },
+    {
+      "s": {"en": "To persuade someone, first prove clearly that he is wrong.", "el": "Για να πείσεις κάποιον, απόδειξέ του πρώτα καθαρά ότι κάνει λάθος."},
+      "answer": false,
+      "why": {"en": "That attacks his self-opinion and makes him defensive; confirm it first.", "el": "Αυτό χτυπά την εικόνα που έχει για τον εαυτό του και τον βάζει σε άμυνα· πρώτα επιβεβαίωσέ την."}
+    },
+    {
+      "s": {"en": "Enemies are always more envious of you than friends.", "el": "Οι εχθροί σε φθονούν πάντα περισσότερο από τους φίλους."},
+      "answer": false,
+      "why": {"en": "Envy is strongest among people who are close and comparable to you.", "el": "Ο φθόνος είναι πιο δυνατός ανάμεσα σε ανθρώπους κοντινούς και συγκρίσιμους με σένα."}
+    },
+    {
+      "s": {"en": "After a big success it is wise to ask how much of it was luck.", "el": "Μετά από μια μεγάλη επιτυχία είναι συνετό να ρωτήσεις πόση από αυτήν ήταν τύχη."},
+      "answer": true,
+      "why": {"en": "This protects you from grandiosity and from the bigger, blinder risks it brings.", "el": "Αυτό σε προστατεύει από τη μεγαλομανία και από τα μεγαλύτερα, πιο τυφλά ρίσκα που φέρνει."}
+    },
+    {
+      "s": {"en": "Greene advises removing all aggression from your character.", "el": "Ο Γκριν συμβουλεύει να βγάλεις κάθε επιθετικότητα από τον χαρακτήρα σου."},
+      "answer": false,
+      "why": {"en": "He advises channelling it into ambition and persistence, aimed at problems.", "el": "Συμβουλεύει να τη διοχετεύεις σε φιλοδοξία και επιμονή, με στόχο τα προβλήματα."}
+    },
+    {
+      "s": {"en": "A leader's authority has to be earned through example and service to the group.", "el": "Το κύρος ενός ηγέτη κερδίζεται με το παράδειγμα και την προσφορά στην ομάδα."},
+      "answer": true,
+      "why": {"en": "People resent being ruled, so a title alone never makes them follow.", "el": "Τους ανθρώπους τούς ενοχλεί να τους κυβερνούν, άρα ένας τίτλος μόνος του δεν τους κάνει να ακολουθήσουν."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Reaction time", "el": "Χρόνος αντίδρασης"}, "b": {"en": "The pause between a feeling and your action", "el": "Η παύση ανάμεσα σε ένα συναίσθημα και στην πράξη σου"}},
+    {"a": {"en": "Leakage", "el": "Διαρροή"}, "b": {"en": "True feelings escaping through body and voice", "el": "Αληθινά συναισθήματα που ξεφεύγουν από σώμα και φωνή"}},
+    {"a": {"en": "Self-opinion", "el": "Αυτοεικόνα"}, "b": {"en": "I am autonomous, intelligent and good", "el": "Είμαι αυτόνομος, έξυπνος και καλός"}},
+    {"a": {"en": "The shadow", "el": "Η σκιά"}, "b": {"en": "The traits we hide in order to be accepted", "el": "Τα στοιχεία που κρύβουμε για να μας αποδέχονται"}},
+    {"a": {"en": "Grandiosity", "el": "Μεγαλομανία"}, "b": {"en": "Believing success came only from your own talent", "el": "Να πιστεύεις ότι πέτυχες μόνο χάρη στο ταλέντο σου"}},
+    {"a": {"en": "Zeitgeist", "el": "Πνεύμα της εποχής"}, "b": {"en": "The mood and values of a period", "el": "Η διάθεση και οι αξίες μιας περιόδου"}}
+  ],
+  "missions": [
+    {"en": "Leave one annoying message unanswered until tomorrow morning and notice how your reply changes.", "el": "Άφησε ένα εκνευριστικό μήνυμα αναπάντητο ως αύριο το πρωί και πρόσεξε πώς αλλάζει η απάντησή σου."},
+    {"en": "Watch one conversation today only for body language: note one moment where words and body disagreed.", "el": "Παρακολούθησε σήμερα μια συζήτηση μόνο για τη γλώσσα του σώματος: σημείωσε μια στιγμή που λόγια και σώμα διαφώνησαν."},
+    {"en": "Open your next three calls by confirming something true and good about the other person.", "el": "Άνοιξε τα επόμενα τρία τηλεφωνήματα επιβεβαιώνοντας κάτι αληθινό και καλό για τον άλλον."},
+    {"en": "Write three lines about your last success: what was luck, who helped, what you did.", "el": "Γράψε τρεις γραμμές για την τελευταία σου επιτυχία: τι ήταν τύχη, ποιος βοήθησε, τι έκανες εσύ."},
+    {"en": "Write your purpose in one sentence and put it where you see it every morning.", "el": "Γράψε τον σκοπό σου σε μία πρόταση και βάλ' την εκεί που τη βλέπεις κάθε πρωί."}
+  ],
+  "mantra": {
+    "en": "See people as they are, starting with myself.",
+    "el": "Βλέπω τους ανθρώπους όπως είναι, αρχίζοντας από μένα."
+  },
+  "careful": {
+    "en": "Greene is a storyteller, not a scientist. His «laws» rest on chosen historical anecdotes and on older psychology such as Jung's shadow and anima, not on tested research, and the stories are told to fit the point. The view of people is rather dark, and some advice, like playing roles and being elusive, slides into manipulation if you use it without honesty. The chapter on gender leans on stereotypes. Use the book to understand, not to trick.",
+    "el": "Ο Γκριν είναι αφηγητής, όχι επιστήμονας. Οι «νόμοι» του στηρίζονται σε επιλεγμένα ιστορικά ανέκδοτα και σε παλαιότερη ψυχολογία, όπως η σκιά και η anima του Γιουνγκ, όχι σε ελεγμένη έρευνα, και οι ιστορίες λέγονται έτσι ώστε να ταιριάζουν στο συμπέρασμα. Η ματιά του στον άνθρωπο είναι μάλλον σκοτεινή, και κάποιες συμβουλές, όπως το να παίζεις ρόλους και να γίνεσαι δυσεύρετος, γλιστρούν προς τη χειραγώγηση αν τις χρησιμοποιήσεις χωρίς ειλικρίνεια. Το κεφάλαιο για τα φύλα πατά σε στερεότυπα. Χρησιμοποίησε το βιβλίο για να καταλαβαίνεις, όχι για να ξεγελάς."
+  },
+  "connects": [
+    {"book": "influence", "note": {"en": "Cialdini gives the tested experiments behind persuasion, while Greene gives the wider, less scientific picture of why people act as they do.", "el": "Ο Cialdini δίνει τα ελεγμένα πειράματα πίσω από την πειθώ, ενώ ο Γκριν δίνει τη γενικότερη, λιγότερο επιστημονική εικόνα του γιατί οι άνθρωποι φέρονται όπως φέρονται."}},
+    {"book": "meditations", "note": {"en": "Marcus Aurelius practises daily what Greene describes in laws 1 and 18: calm before emotion and the memory of death.", "el": "Ο Μάρκος Αυρήλιος ασκεί καθημερινά ό,τι περιγράφει ο Γκριν στους νόμους 1 και 18: ψυχραιμία απέναντι στο συναίσθημα και μνήμη του θανάτου."}},
+    {"book": "four-agreements", "note": {"en": "Ruiz says do not take anything personally, and Greene explains why: people act from their own character and emotions, not because of you.", "el": "Ο Ruiz λέει να μην παίρνεις τίποτα προσωπικά, και ο Γκριν εξηγεί το γιατί: οι άνθρωποι φέρονται με βάση τον δικό τους χαρακτήρα και τα συναισθήματά τους, όχι εξαιτίας σου."}}
+  ]
+}

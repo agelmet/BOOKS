@@ -1,0 +1,533 @@
+{
+  "id": "who-not-how",
+  "title": {"en": "Who Not How", "el": "Who Not How: Ποιος, όχι Πώς"},
+  "author": "Dan Sullivan & Benjamin Hardy",
+  "authorEl": "Νταν Σάλιβαν & Μπέντζαμιν Χάρντι",
+  "year": 2020,
+  "shelf": "business",
+  "skills": {"leadership": 3, "strategy": 2, "mindset": 1},
+  "oneLine": {
+    "en": "When you want a bigger result, stop asking how you can do it yourself and ask who can do it for you or with you.",
+    "el": "Όταν θέλεις ένα μεγαλύτερο αποτέλεσμα, σταμάτα να ρωτάς πώς θα το κάνεις μόνος σου και ρώτα ποιος μπορεί να το κάνει για σένα ή μαζί σου."
+  },
+  "story": {
+    "en": "Dan Sullivan founded Strategic Coach with his wife Babs Smith and has coached entrepreneurs for more than forty years. Who Not How is his best-known idea. The book itself was written by Benjamin Hardy, an organisational psychologist, which is the idea in action: Sullivan had the thinking, Hardy was the Who that turned it into a book. People read it because it gives busy founders permission to stop doing everything alone.",
+    "el": "Ο Dan Sullivan ίδρυσε τη Strategic Coach μαζί με τη γυναίκα του Babs Smith και καθοδηγεί επιχειρηματίες πάνω από σαράντα χρόνια. Το «Ποιος, όχι Πώς» είναι η πιο γνωστή του ιδέα. Το ίδιο το βιβλίο το έγραψε ο Benjamin Hardy, οργανωσιακός ψυχολόγος, δηλαδή η ιδέα στην πράξη: ο Sullivan είχε τη σκέψη, ο Hardy ήταν ο «Ποιος» που την έκανε βιβλίο. Διαβάζεται γιατί δίνει στους πνιγμένους founders την άδεια να πάψουν να τα κάνουν όλα μόνοι τους."
+  },
+  "forYou": {
+    "en": "You call, sell, build, fix, invoice and make the ads yourself. That got you to 200 sites, and it is exactly what will stop you from reaching 1,000. This book shows how to choose the few things only you should do, hand over the rest with a clear one-page brief, and treat every person you bring in as an investment that buys back your selling hours.",
+    "el": "Τηλεφωνείς, πουλάς, χτίζεις, διορθώνεις, τιμολογείς και φτιάχνεις τις διαφημίσεις μόνος σου. Αυτό σε έφερε στις 200 ιστοσελίδες, και αυτό ακριβώς θα σε εμποδίσει να φτάσεις τις 1.000. Το βιβλίο δείχνει πώς να διαλέξεις τα λίγα πράγματα που πρέπει να κάνεις μόνο εσύ, πώς να παραδώσεις τα υπόλοιπα με ένα καθαρό μονοσέλιδο, και πώς να βλέπεις κάθε άνθρωπο που φέρνεις σαν επένδυση που σου ξαναγοράζει τις ώρες της πώλησης."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Ask Who, not How", "el": "Ρώτα «ποιος», όχι «πώς»"},
+      "explain": {
+        "en": "When we set a goal, school has trained us to ask: how do I do this? That question puts all the work on you, and your time and skills become the limit. Sullivan's shift is to ask a different question: who can help me achieve this? A Who is any person who already has the skill, the contacts or the time. You hold the vision, the Who brings the how. One new question changes what is possible.",
+        "el": "Όταν βάζουμε έναν στόχο, το σχολείο μάς έχει μάθει να ρωτάμε: πώς θα το κάνω; Αυτή η ερώτηση ρίχνει όλη τη δουλειά πάνω σου, και όριο γίνονται ο χρόνος και οι γνώσεις σου. Ο Sullivan προτείνει άλλη ερώτηση: ποιος μπορεί να με βοηθήσει να το πετύχω; «Ποιος» είναι κάθε άνθρωπος που έχει ήδη τη δεξιότητα, τις γνωριμίες ή τον χρόνο. Εσύ κρατάς το όραμα, εκείνος φέρνει το «πώς». Μία νέα ερώτηση αλλάζει το τι είναι εφικτό."
+      },
+      "example": {
+        "en": "The book opens with Michael Jordan. He joined the Chicago Bulls in 1984 and was the best scorer in the league for years, but won no championship alone. The titles came from 1991, after Scottie Pippen, coach Phil Jackson and trainer Tim Grover were around him. Then he won six.",
+        "el": "Το βιβλίο ξεκινά με τον Michael Jordan. Πήγε στους Chicago Bulls το 1984 και ήταν επί χρόνια ο πρώτος σκόρερ του πρωταθλήματος, αλλά μόνος του δεν πήρε κανένα πρωτάθλημα. Οι τίτλοι ήρθαν από το 1991, όταν είχε πια δίπλα του τον Scottie Pippen, τον προπονητή Phil Jackson και τον γυμναστή Tim Grover. Τότε πήρε έξι."
+      },
+      "apply": {
+        "en": "Write down your biggest goal for the next year. Under it, instead of a to-do list for yourself, write a list of names or roles: who could make the calls, who could handle change requests, who could do the bookkeeping. Contact one of them this week.",
+        "el": "Γράψε τον μεγαλύτερο στόχο σου για την επόμενη χρονιά. Από κάτω, αντί για λίστα με δουλειές για σένα, γράψε λίστα με ονόματα ή ρόλους: ποιος θα μπορούσε να κάνει τα τηλεφωνήματα, ποιος τις αλλαγές των πελατών, ποιος τα λογιστικά. Επικοινώνησε με έναν από αυτούς μέσα στην εβδομάδα."
+      },
+      "check": {
+        "q": {"en": "What changes when you ask Who and not How?", "el": "Τι αλλάζει όταν ρωτάς «ποιος» αντί για «πώς»;"},
+        "options": [
+          {"en": "You stop setting goals and wait for help", "el": "Σταματάς να βάζεις στόχους και περιμένεις βοήθεια"},
+          {"en": "Your own time and skills stop being the limit", "el": "Ο χρόνος και οι γνώσεις σου παύουν να είναι το όριο"},
+          {"en": "You learn every new skill faster on your own", "el": "Μαθαίνεις κάθε νέα δεξιότητα πιο γρήγορα μόνος σου"}
+        ],
+        "answer": 1,
+        "why": {"en": "With How, the result depends on what you alone can do. With Who, it depends on who you can bring in.", "el": "Με το «πώς», το αποτέλεσμα εξαρτάται από το τι μπορείς μόνος σου. Με το «ποιος», εξαρτάται από το ποιον μπορείς να φέρεις."}
+      }
+    },
+    {
+      "title": {"en": "The lone hero is a myth", "el": "Ο μοναχικός ήρωας είναι μύθος"},
+      "explain": {
+        "en": "Our culture admires the person who does it all alone. The book calls this rugged individualism and says it caps your potential. Alone, you can only grow as far as your own hours and talents reach. Asking for help is not weakness, and results do not count for less because other people were involved. Every big achievement you admire had a team behind it, even when only one name is remembered.",
+        "el": "Η κουλτούρα μας θαυμάζει αυτόν που τα καταφέρνει όλα μόνος του. Το βιβλίο το ονομάζει «σκληρό ατομικισμό» και λέει ότι βάζει ταβάνι στις δυνατότητές σου. Μόνος σου φτάνεις μόνο ως εκεί που φτάνουν οι ώρες και τα ταλέντα σου. Το να ζητάς βοήθεια δεν είναι αδυναμία, και τα αποτελέσματα δεν μετράνε λιγότερο επειδή συμμετείχαν κι άλλοι. Κάθε μεγάλο επίτευγμα που θαυμάζεις είχε ομάδα από πίσω, ακόμα κι αν θυμόμαστε μόνο ένα όνομα."
+      },
+      "example": {
+        "en": "Thomas Edison is remembered as the lone genius of the light bulb. In reality his Menlo Park laboratory, opened in 1876, was an invention factory where dozens of machinists, chemists and experimenters worked for him. Much of the testing behind his famous patents was done by that team.",
+        "el": "Τον Thomas Edison τον θυμόμαστε σαν τη μοναχική ιδιοφυΐα του λαμπτήρα. Στην πραγματικότητα το εργαστήριό του στο Menlo Park, που άνοιξε το 1876, ήταν ένα «εργοστάσιο εφευρέσεων» όπου δούλευαν γι' αυτόν δεκάδες μηχανουργοί, χημικοί και πειραματιστές. Μεγάλο μέρος των δοκιμών πίσω από τις διάσημες πατέντες του το έκανε εκείνη η ομάδα."
+      },
+      "apply": {
+        "en": "Notice the sentence «it is faster if I do it myself» and treat it as an alarm. It is true once and false for the next hundred times. Choose one task you repeat every week, record yourself doing it once, and give the recording to someone else.",
+        "el": "Πρόσεξε τη φράση «πιο γρήγορα το κάνω μόνος μου» και δες τη σαν συναγερμό. Ισχύει μία φορά και δεν ισχύει τις επόμενες εκατό. Διάλεξε μία δουλειά που επαναλαμβάνεις κάθε εβδομάδα, κατάγραψε μία φορά πώς την κάνεις και δώσε την καταγραφή σε κάποιον άλλον."
+      },
+      "check": {
+        "q": {"en": "Why does rugged individualism limit you?", "el": "Γιατί σε περιορίζει ο «σκληρός ατομικισμός»;"},
+        "options": [
+          {"en": "Because working alone is always lower quality", "el": "Γιατί η δουλειά που γίνεται μόνος είναι πάντα χειρότερη"},
+          {"en": "Because people dislike those who work alone", "el": "Γιατί ο κόσμος αντιπαθεί όσους δουλεύουν μόνοι"},
+          {"en": "Because one person's hours and talents are finite", "el": "Γιατί οι ώρες και τα ταλέντα ενός ανθρώπου έχουν όριο"}
+        ],
+        "answer": 2,
+        "why": {"en": "You have one day and one set of skills. Other people add days and skills you will never have.", "el": "Έχεις μία μέρα και ένα σύνολο δεξιοτήτων. Οι άλλοι προσθέτουν μέρες και δεξιότητες που εσύ δεν θα έχεις ποτέ."}
+      }
+    },
+    {
+      "title": {"en": "How-thinking makes you small", "el": "Το «πώς» σε μικραίνει"},
+      "explain": {
+        "en": "When every goal means more work for you, two things happen. First, anxiety: your head fills with tasks you do not know how to do, and each small decision uses up attention. Second, small thinking: you quietly lower your goals to what one tired person can handle. The book says attention is your scarcest resource. Each How you keep costs a piece of it, and each Who gives a piece back.",
+        "el": "Όταν κάθε στόχος σημαίνει περισσότερη δουλειά για σένα, γίνονται δύο πράγματα. Πρώτον, άγχος: το κεφάλι σου γεμίζει με δουλειές που δεν ξέρεις πώς να κάνεις, και κάθε μικρή απόφαση τρώει προσοχή. Δεύτερον, μικρή σκέψη: χαμηλώνεις αθόρυβα τους στόχους σου σε όσα αντέχει ένας κουρασμένος άνθρωπος. Το βιβλίο λέει ότι η προσοχή είναι ο πιο σπάνιος πόρος σου. Κάθε «πώς» που κρατάς σου κοστίζει ένα κομμάτι της, και κάθε «ποιος» σου δίνει ένα κομμάτι πίσω."
+      },
+      "example": {
+        "en": "As president, Barack Obama wore only grey or blue suits. He told Vanity Fair in 2012 that he did not want to make decisions about what to eat or wear, because he had too many other decisions to make. Other people handled those choices so his attention stayed on the big ones.",
+        "el": "Ως πρόεδρος, ο Barack Obama φορούσε μόνο γκρι ή μπλε κοστούμια. Είπε στο Vanity Fair το 2012 ότι δεν ήθελε να αποφασίζει τι θα φάει ή τι θα φορέσει, γιατί είχε πάρα πολλές άλλες αποφάσεις να πάρει. Αυτές τις επιλογές τις έκαναν άλλοι, ώστε η προσοχή του να μένει στα μεγάλα."
+      },
+      "apply": {
+        "en": "Check your goals for signs of shrinking. If you wrote «ten new sites a month» only because that is all you can build alone, rewrite it as if building were someone else's job. Then list the three Hows that fill your head most and mark which one leaves first.",
+        "el": "Έλεγξε τους στόχους σου για σημάδια μικρέματος. Αν έγραψες «δέκα νέες ιστοσελίδες τον μήνα» μόνο επειδή τόσες προλαβαίνεις να χτίσεις μόνος, ξαναγράψ' το σαν να ήταν η κατασκευή δουλειά κάποιου άλλου. Μετά γράψε τα τρία «πώς» που σου γεμίζουν περισσότερο το κεφάλι και σημείωσε ποιο φεύγει πρώτο."
+      },
+      "check": {
+        "q": {"en": "What does How-thinking do to your goals?", "el": "Τι κάνει στους στόχους σου η σκέψη του «πώς»;"},
+        "options": [
+          {"en": "It shrinks them to what you can carry alone", "el": "Τους μικραίνει σε όσα μπορείς να σηκώσεις μόνος"},
+          {"en": "It makes them clearer and easier to measure", "el": "Τους κάνει πιο καθαρούς και πιο μετρήσιμους"},
+          {"en": "It has no effect on goals, only on speed", "el": "Δεν επηρεάζει τους στόχους, μόνο την ταχύτητα"}
+        ],
+        "answer": 0,
+        "why": {"en": "If you must do everything, you only dare to want what fits in your own week.", "el": "Αν πρέπει να τα κάνεις όλα εσύ, τολμάς να θέλεις μόνο όσα χωράνε στη δική σου εβδομάδα."}
+      }
+    },
+    {
+      "title": {"en": "Procrastination is wisdom", "el": "Η αναβολή είναι σοφία"},
+      "explain": {
+        "en": "We treat procrastination as a character flaw. Sullivan reads it as a message. When you keep putting off something you truly want, it usually means you lack the knowledge, the skill or the energy for it. In other words, you are not the right person for that task. So do not push harder and do not feel guilty. Hear the signal and ask the better question: who should do this?",
+        "el": "Βλέπουμε την αναβολή σαν ελάττωμα του χαρακτήρα. Ο Sullivan τη διαβάζει σαν μήνυμα. Όταν αναβάλλεις συνέχεια κάτι που θέλεις πραγματικά, συνήθως σημαίνει ότι σου λείπει η γνώση, η δεξιότητα ή η ενέργεια γι' αυτό. Με άλλα λόγια, δεν είσαι ο κατάλληλος άνθρωπος για τη συγκεκριμένη δουλειά. Άρα μην πιέζεσαι κι άλλο και μη νιώθεις ενοχές. Άκου το σήμα και κάνε την καλύτερη ερώτηση: ποιος πρέπει να το κάνει αυτό;"
+      },
+      "example": {
+        "en": "Richard Branson is dyslexic and has told many times how numbers and accounts never made sense to him. For years he did not know the difference between net and gross profit. He did not force himself to become an accountant. He hired people who were good with figures and kept to what he did well.",
+        "el": "Ο Richard Branson είναι δυσλεκτικός και έχει πει πολλές φορές ότι οι αριθμοί και τα λογιστικά δεν του έβγαζαν ποτέ νόημα. Επί χρόνια δεν ήξερε τη διαφορά ανάμεσα στο καθαρό και το μικτό κέρδος. Δεν ζόρισε τον εαυτό του να γίνει λογιστής. Προσέλαβε ανθρώπους που ήταν καλοί στα νούμερα και έμεινε σε αυτά που έκανε καλά."
+      },
+      "apply": {
+        "en": "List the three things you have postponed for more than a month. Next to each write honestly: do I lack the skill, the time or the interest? For each one write a name or a role that could take it, and send that first message today.",
+        "el": "Γράψε τα τρία πράγματα που αναβάλλεις πάνω από έναν μήνα. Δίπλα στο καθένα γράψε ειλικρινά: μου λείπει η δεξιότητα, ο χρόνος ή το ενδιαφέρον; Για το καθένα γράψε ένα όνομα ή έναν ρόλο που θα μπορούσε να το αναλάβει, και στείλε σήμερα το πρώτο μήνυμα."
+      },
+      "check": {
+        "q": {"en": "What does Sullivan say procrastination is telling you?", "el": "Τι λέει ο Sullivan ότι σου λέει η αναβολή;"},
+        "options": [
+          {"en": "That you are lazy and need more discipline", "el": "Ότι είσαι τεμπέλης και θέλεις περισσότερη πειθαρχία"},
+          {"en": "That the goal is wrong and should be dropped", "el": "Ότι ο στόχος είναι λάθος και πρέπει να τον αφήσεις"},
+          {"en": "That you may not be the right person for the task", "el": "Ότι ίσως δεν είσαι ο κατάλληλος για αυτή τη δουλειά"}
+        ],
+        "answer": 2,
+        "why": {"en": "The goal stays. The signal is about who does the work, and it points to finding a Who.", "el": "Ο στόχος μένει. Το σήμα αφορά το ποιος κάνει τη δουλειά, και δείχνει ότι χρειάζεσαι έναν «ποιον»."}
+      }
+    },
+    {
+      "title": {"en": "The four freedoms", "el": "Οι τέσσερις ελευθερίες"},
+      "explain": {
+        "en": "The book is built on four freedoms that entrepreneurs want, and each one leads to the next. Freedom of time: Whos take tasks off you, so you get hours back. Freedom of money: you put those hours where you earn most. Freedom of relationship: you can choose to work only with people you like and admire. Freedom of purpose: with time, money and good people, you can go after a bigger mission.",
+        "el": "Το βιβλίο είναι χτισμένο πάνω σε τέσσερις ελευθερίες που θέλουν οι επιχειρηματίες, και η καθεμία οδηγεί στην επόμενη. Ελευθερία χρόνου: οι «ποιοι» σου παίρνουν δουλειές, άρα κερδίζεις ώρες. Ελευθερία χρημάτων: βάζεις αυτές τις ώρες εκεί που βγάζεις τα περισσότερα. Ελευθερία σχέσεων: μπορείς να διαλέγεις να δουλεύεις μόνο με ανθρώπους που συμπαθείς και εκτιμάς. Ελευθερία σκοπού: με χρόνο, χρήματα και καλούς ανθρώπους, μπορείς να κυνηγήσεις μια μεγαλύτερη αποστολή."
+      },
+      "example": {
+        "en": "An everyday picture: a dentist who owns a busy practice and does every treatment, every order and every phone call himself. He earns well but cannot take one week off without the income stopping. He has some money, but no freedom of time, and so none of the other three either.",
+        "el": "Μια εικόνα από την καθημερινότητα: ένας οδοντίατρος με γεμάτο ιατρείο που κάνει ο ίδιος κάθε θεραπεία, κάθε παραγγελία και κάθε τηλεφώνημα. Βγάζει καλά χρήματα, αλλά δεν μπορεί να λείψει μία εβδομάδα χωρίς να σταματήσει το εισόδημα. Έχει κάποια χρήματα, όμως όχι ελευθερία χρόνου, άρα ούτε τις άλλες τρεις."
+      },
+      "apply": {
+        "en": "Score yourself from one to ten on each freedom: time, money, relationships, purpose. Start with the lowest, which for a solo founder is usually time. Decide which single task, handed over, would give you back five hours a week, and use those hours only for selling.",
+        "el": "Βάλε στον εαυτό σου βαθμό από το ένα ως το δέκα σε κάθε ελευθερία: χρόνος, χρήματα, σχέσεις, σκοπός. Ξεκίνα από τη χαμηλότερη, που για έναν founder που δουλεύει μόνος είναι συνήθως ο χρόνος. Αποφάσισε ποια μία δουλειά, αν την έδινες αλλού, θα σου γύριζε πέντε ώρες την εβδομάδα, και βάλε αυτές τις ώρες μόνο στις πωλήσεις."
+      },
+      "check": {
+        "q": {"en": "Which freedom comes first and opens the others?", "el": "Ποια ελευθερία έρχεται πρώτη και ανοίγει τις άλλες;"},
+        "options": [
+          {"en": "Freedom of purpose", "el": "Η ελευθερία σκοπού"},
+          {"en": "Freedom of time", "el": "Η ελευθερία χρόνου"},
+          {"en": "Freedom of relationship", "el": "Η ελευθερία σχέσεων"}
+        ],
+        "answer": 1,
+        "why": {"en": "Freed hours are what you turn into money, and time plus money let you choose people and purpose.", "el": "Οι ώρες που ελευθερώνονται γίνονται χρήματα, και ο χρόνος μαζί με τα χρήματα σε αφήνουν να διαλέξεις ανθρώπους και σκοπό."}
+      }
+    },
+    {
+      "title": {"en": "Your Unique Ability", "el": "Η Μοναδική σου Ικανότητα"},
+      "explain": {
+        "en": "Unique Ability is Sullivan's name for the small set of activities where four things meet: you are clearly better than most, you love doing it, it gives you energy and you keep improving at it. This is where you create the most value. Everything else, including things you do well but do not enjoy, should go to a Who whose own Unique Ability is exactly that task. What bores you is somebody else's favourite work.",
+        "el": "Μοναδική Ικανότητα ονομάζει ο Sullivan εκείνες τις λίγες δραστηριότητες όπου συναντιούνται τέσσερα πράγματα: είσαι ξεκάθαρα καλύτερος από τους περισσότερους, σου αρέσει να το κάνεις, σου δίνει ενέργεια και βελτιώνεσαι συνέχεια. Εκεί δημιουργείς τη μεγαλύτερη αξία. Όλα τα άλλα, ακόμα και όσα κάνεις καλά αλλά δεν τα χαίρεσαι, πρέπει να πάνε σε έναν «ποιον» που η δική του Μοναδική Ικανότητα είναι ακριβώς αυτή η δουλειά. Αυτό που εσύ βαριέσαι είναι η αγαπημένη δουλειά κάποιου άλλου."
+      },
+      "example": {
+        "en": "At the start of Apple, Steve Wozniak designed the Apple I and Apple II almost alone, because engineering was what he loved and did best. Steve Jobs could not design a circuit, but he found the parts, the money, the customers and the look. Each stayed in his own ability, and the pair built the company.",
+        "el": "Στην αρχή της Apple, ο Steve Wozniak σχεδίασε τον Apple I και τον Apple II σχεδόν μόνος του, γιατί η μηχανική ήταν αυτό που αγαπούσε και έκανε καλύτερα. Ο Steve Jobs δεν μπορούσε να σχεδιάσει κύκλωμα, αλλά έβρισκε τα εξαρτήματα, τα χρήματα, τους πελάτες και την εμφάνιση. Ο καθένας έμεινε στη δική του ικανότητα, και οι δυο μαζί έχτισαν την εταιρεία."
+      },
+      "apply": {
+        "en": "Draw three columns for last week's work: «love it and I am excellent», «good but it drains me», «bad or bored». Selling on the phone and the creative direction of a site probably sit in the first. Everything in columns two and three becomes your list of Whos to find.",
+        "el": "Φτιάξε τρεις στήλες για τη δουλειά της περασμένης εβδομάδας: «το αγαπώ και είμαι εξαιρετικός», «καλός αλλά με αδειάζει», «κακός ή βαριέμαι». Η πώληση στο τηλέφωνο και η δημιουργική κατεύθυνση μιας ιστοσελίδας μάλλον μπαίνουν στην πρώτη. Ό,τι είναι στη δεύτερη και την τρίτη στήλη γίνεται η λίστα σου με τους «ποιους» που πρέπει να βρεις."
+      },
+      "check": {
+        "q": {"en": "What is a Unique Ability?", "el": "Τι είναι η Μοναδική Ικανότητα;"},
+        "options": [
+          {"en": "Work you excel at, love and get energy from", "el": "Δουλειά όπου ξεχωρίζεις, την αγαπάς και σου δίνει ενέργεια"},
+          {"en": "Any skill that no competitor has learned yet", "el": "Οποιαδήποτε δεξιότητα δεν έχει μάθει ακόμα ανταγωνιστής"},
+          {"en": "The task that brings the most money this month", "el": "Η δουλειά που φέρνει τα περισσότερα χρήματα αυτόν τον μήνα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Skill alone is not enough. It must also be something you love, that energises you and keeps improving.", "el": "Η ικανότητα μόνη της δεν φτάνει. Πρέπει να είναι και κάτι που αγαπάς, που σου δίνει ενέργεια και που βελτιώνεται συνέχεια."}
+      }
+    },
+    {
+      "title": {"en": "Free days", "el": "Ελεύθερες μέρες"},
+      "explain": {
+        "en": "Sullivan divides the calendar into three kinds of days. Free days: twenty-four hours with no work at all, no email, no quick call. Focus days: spent almost entirely on your best money-making activities. Buffer days: for preparing, cleaning up and handing things to others. Free days are not a prize after the work. They come first, because a rested mind produces the ideas, and they are only possible when Whos hold the business.",
+        "el": "Ο Sullivan χωρίζει το ημερολόγιο σε τρία είδη ημερών. Ελεύθερες μέρες: εικοσιτέσσερις ώρες χωρίς καθόλου δουλειά, ούτε email, ούτε «ένα γρήγορο τηλέφωνο». Μέρες εστίασης: σχεδόν ολόκληρες στις δραστηριότητες που σου φέρνουν τα περισσότερα χρήματα. Μέρες προετοιμασίας: για οργάνωση, τακτοποίηση και ανάθεση σε άλλους. Οι ελεύθερες μέρες δεν είναι βραβείο μετά τη δουλειά. Μπαίνουν πρώτες, γιατί το ξεκούραστο μυαλό βγάζει τις ιδέες, και γίνονται εφικτές μόνο όταν την επιχείρηση την κρατούν «ποιοι»."
+      },
+      "example": {
+        "en": "Bill Gates took a Think Week twice a year while running Microsoft: seven days alone in a cabin with papers and books, away from the office and from family. His 1995 memo The Internet Tidal Wave, which turned the whole company toward the internet, came out of one of those weeks.",
+        "el": "Ο Bill Gates έκανε δύο φορές τον χρόνο μια «Εβδομάδα Σκέψης» όσο διοικούσε τη Microsoft: επτά μέρες μόνος σε ένα σπιτάκι με έγγραφα και βιβλία, μακριά από το γραφείο και την οικογένεια. Το υπόμνημά του του 1995 για το «παλιρροϊκό κύμα του internet», που γύρισε όλη την εταιρεία προς το διαδίκτυο, βγήκε από μια τέτοια εβδομάδα."
+      },
+      "apply": {
+        "en": "Put one full free day a week in the calendar for the next month, with the laptop closed and work notifications off. Tell your team and clients who answers that day. Label the other days focus (calls and meetings) or buffer (admin and handovers) and do not mix them.",
+        "el": "Βάλε στο ημερολόγιο μία ολόκληρη ελεύθερη μέρα την εβδομάδα για τον επόμενο μήνα, με το laptop κλειστό και τις ειδοποιήσεις της δουλειάς σβηστές. Πες στην ομάδα και στους πελάτες ποιος απαντά εκείνη τη μέρα. Τις υπόλοιπες μέρες ονόμασέ τες εστίασης (τηλέφωνα και ραντεβού) ή προετοιμασίας (γραφειοκρατία και αναθέσεις) και μην τις ανακατεύεις."
+      },
+      "check": {
+        "q": {"en": "What counts as a free day in Sullivan's system?", "el": "Τι μετράει ως ελεύθερη μέρα στο σύστημα του Sullivan;"},
+        "options": [
+          {"en": "A lighter day with only emails and short calls", "el": "Μια πιο ελαφριά μέρα μόνο με email και σύντομα τηλέφωνα"},
+          {"en": "A day for planning the next week of work", "el": "Μια μέρα για να σχεδιάσεις την επόμενη εβδομάδα"},
+          {"en": "Twenty-four hours with no work-related activity at all", "el": "Εικοσιτέσσερις ώρες χωρίς καμία απολύτως δουλειά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Even one work email breaks it. Planning and admin belong to buffer days.", "el": "Ακόμα κι ένα email δουλειάς τη χαλάει. Ο σχεδιασμός και η γραφειοκρατία ανήκουν στις μέρες προετοιμασίας."}
+      }
+    },
+    {
+      "title": {"en": "Whos are investments", "el": "Οι «ποιοι» είναι επένδυση"},
+      "explain": {
+        "en": "Most small business owners see a helper as a cost: money going out. The book says a good Who is an investment, because the hours they free are hours you can spend on work that earns far more than they cost. Time creates money. The authors add a line from the marketer Dean Jackson: if you have enough money to solve a problem, you do not have a problem. Waiting until you can afford help keeps you from ever affording it.",
+        "el": "Οι περισσότεροι ιδιοκτήτες μικρών επιχειρήσεων βλέπουν έναν βοηθό σαν κόστος: χρήματα που φεύγουν. Το βιβλίο λέει ότι ένας καλός «ποιος» είναι επένδυση, γιατί οι ώρες που ελευθερώνει είναι ώρες που μπορείς να βάλεις σε δουλειά που αποδίδει πολύ περισσότερα απ' όσα κοστίζει εκείνος. Ο χρόνος γεννά χρήματα. Οι συγγραφείς δανείζονται και μια φράση του marketer Dean Jackson: αν έχεις αρκετά χρήματα για να λύσεις ένα πρόβλημα, δεν έχεις πρόβλημα. Αν περιμένεις να «σου περισσεύουν» για βοήθεια, δεν θα σου περισσέψουν ποτέ."
+      },
+      "example": {
+        "en": "In January 1914 Henry Ford more than doubled his factory workers' pay to five dollars a day. Rivals called it madness. Worker turnover, which had been enormous, collapsed, the best mechanics in Detroit queued for jobs, productivity rose and the company's profits roughly doubled in two years.",
+        "el": "Τον Ιανουάριο του 1914 ο Henry Ford υπερδιπλασίασε το μεροκάματο των εργατών του στα πέντε δολάρια. Οι ανταγωνιστές το είπαν τρέλα. Οι αποχωρήσεις εργατών, που ήταν τεράστιες, σχεδόν μηδενίστηκαν, οι καλύτεροι τεχνίτες του Ντιτρόιτ έκαναν ουρά για δουλειά, η παραγωγικότητα ανέβηκε και τα κέρδη της εταιρείας περίπου διπλασιάστηκαν σε δύο χρόνια."
+      },
+      "apply": {
+        "en": "Work out what one hour of your selling is worth: new yearly income from a week of calls divided by the hours. Compare it with the hourly cost of someone doing client changes. If your hour is worth several times more, every hour you spend on changes is the expensive choice.",
+        "el": "Υπολόγισε πόσο αξίζει μία ώρα πώλησής σου: το νέο ετήσιο εισόδημα από μια εβδομάδα τηλεφωνημάτων διά τις ώρες. Σύγκρινέ το με το ωριαίο κόστος κάποιου που κάνει τις αλλαγές των πελατών. Αν η δική σου ώρα αξίζει πολλαπλάσια, τότε κάθε ώρα που περνάς σε αλλαγές είναι η ακριβή επιλογή."
+      },
+      "check": {
+        "q": {"en": "Why does the book call a Who an investment?", "el": "Γιατί το βιβλίο λέει τον «ποιον» επένδυση;"},
+        "options": [
+          {"en": "The hours they free can earn more than they cost", "el": "Οι ώρες που ελευθερώνει μπορούν να φέρουν περισσότερα απ' όσα κοστίζει"},
+          {"en": "Helpers always cost less than doing it yourself", "el": "Οι βοηθοί κοστίζουν πάντα λιγότερο από το να το κάνεις εσύ"},
+          {"en": "Salaries can be deducted from your taxes", "el": "Οι μισθοί αφαιρούνται από τους φόρους σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "The return is your freed time, used on your highest-value work. That is what makes the spending pay back.", "el": "Η απόδοση είναι ο χρόνος σου που ελευθερώνεται και πάει στη δουλειά με τη μεγαλύτερη αξία. Έτσι ξεπληρώνεται το έξοδο."}
+      }
+    },
+    {
+      "title": {"en": "The Impact Filter", "el": "Το Φίλτρο Αποτελέσματος"},
+      "explain": {
+        "en": "Before you look for a Who, get clear yourself. The Impact Filter is Sullivan's one-page brief. You write: what the project is, why it matters, what the ideal finished result looks like, the best thing that happens if you do it, the worst thing if you do not, and the success criteria, the points that must be true for it to count as done. It forces you to think, and it lets the right person recognise the job.",
+        "el": "Πριν ψάξεις για «ποιον», ξεκαθάρισε εσύ τι θέλεις. Το Φίλτρο Αποτελέσματος (Impact Filter) είναι το μονοσέλιδο του Sullivan. Γράφεις: ποιο είναι το project, γιατί μετράει, πώς μοιάζει το ιδανικό τελικό αποτέλεσμα, ποιο είναι το καλύτερο που θα συμβεί αν γίνει, ποιο το χειρότερο αν δεν γίνει, και τα κριτήρια επιτυχίας, δηλαδή τι πρέπει να ισχύει για να θεωρηθεί τελειωμένο. Σε αναγκάζει να σκεφτείς, και βοηθά τον σωστό άνθρωπο να αναγνωρίσει τη δουλειά."
+      },
+      "example": {
+        "en": "Amazon uses a similar habit, called working backwards. Before a team builds a product, it must write the press release and the customer questions for the finished thing. If the page is not convincing, nothing gets built. Clarity about the result comes before any talk about how.",
+        "el": "Η Amazon έχει μια παρόμοια συνήθεια, το «working backwards». Πριν μια ομάδα φτιάξει ένα προϊόν, πρέπει να γράψει το δελτίο τύπου και τις ερωτήσεις των πελατών για το έτοιμο πράγμα. Αν η σελίδα δεν πείθει, δεν χτίζεται τίποτα. Η σαφήνεια για το αποτέλεσμα έρχεται πριν από κάθε κουβέντα για το «πώς»."
+      },
+      "apply": {
+        "en": "Write an Impact Filter before you bring in a caller: the project is booking meetings with doctors, why it matters, what a great month looks like, what happens if nothing changes, and five success criteria such as meetings booked per week and the tone of every call.",
+        "el": "Γράψε ένα Φίλτρο Αποτελέσματος πριν φέρεις κάποιον για τα τηλεφωνήματα: το project είναι να κλείνονται ραντεβού με γιατρούς, γιατί μετράει, πώς μοιάζει ένας εξαιρετικός μήνας, τι θα γίνει αν δεν αλλάξει τίποτα, και πέντε κριτήρια επιτυχίας, όπως ραντεβού ανά εβδομάδα και ο τόνος κάθε κλήσης."
+      },
+      "check": {
+        "q": {"en": "When do you fill in an Impact Filter?", "el": "Πότε συμπληρώνεις το Φίλτρο Αποτελέσματος;"},
+        "options": [
+          {"en": "After the project ends, to judge the result", "el": "Αφού τελειώσει το project, για να κρίνεις το αποτέλεσμα"},
+          {"en": "Before you hand a project to a Who", "el": "Πριν δώσεις ένα project σε έναν «ποιον»"},
+          {"en": "Only when a project has already gone wrong", "el": "Μόνο όταν ένα project έχει ήδη στραβώσει"}
+        ],
+        "answer": 1,
+        "why": {"en": "It makes the what, the why and the finish line clear first, so the Who can own the how.", "el": "Ξεκαθαρίζει πρώτα το τι, το γιατί και τη γραμμή τερματισμού, ώστε ο «ποιος» να αναλάβει το «πώς»."}
+      }
+    },
+    {
+      "title": {"en": "Give the result, not the method", "el": "Δώσε το αποτέλεσμα, όχι τη μέθοδο"},
+      "explain": {
+        "en": "Once you have a Who, the hard part is letting go. Commit to the result and leave the process to them. If you dictate every step, you are still doing the How, only through someone else's hands. The book warns about the other side too: freedom without a clear goal produces weak work. So give a sharp picture of success and honest feedback, then get out of the way. And accept 80% done from them over 100% never finished by you.",
+        "el": "Μόλις βρεις τον «ποιον», το δύσκολο είναι να αφήσεις. Δέσμευσε τον άλλον στο αποτέλεσμα και άσε τη διαδικασία σε εκείνον. Αν υπαγορεύεις κάθε βήμα, κάνεις ακόμα το «πώς», απλώς με τα χέρια κάποιου άλλου. Το βιβλίο προειδοποιεί και για το αντίθετο: ελευθερία χωρίς ξεκάθαρο στόχο βγάζει αδύναμη δουλειά. Δώσε λοιπόν καθαρή εικόνα της επιτυχίας και ειλικρινές feedback, και μετά κάνε στην άκρη. Και προτίμησε ένα 80% έτοιμο από εκείνον παρά ένα 100% που δεν θα τελειώσεις ποτέ εσύ."
+      },
+      "example": {
+        "en": "Netflix wrote this into its famous 2009 culture document as «context, not control». Managers are asked to explain the goal, the numbers and the reasons fully, and then let people decide how to do the work themselves. Reed Hastings has credited this rule for much of the company's speed.",
+        "el": "Το Netflix το έγραψε στο διάσημο κείμενο κουλτούρας του το 2009 ως «context, not control», δηλαδή πλαίσιο και όχι έλεγχος. Οι managers πρέπει να εξηγούν πλήρως τον στόχο, τα νούμερα και τους λόγους, και μετά να αφήνουν τους ανθρώπους να αποφασίζουν μόνοι πώς θα κάνουν τη δουλειά. Ο Reed Hastings αποδίδει σε αυτόν τον κανόνα μεγάλο μέρος της ταχύτητας της εταιρείας."
+      },
+      "apply": {
+        "en": "Tell the person who handles change requests the result: «every client request answered within 24 hours, and the client says it is exactly what he asked for.» Do not explain which file to open. Review the first three jobs, give feedback once, then check only the result.",
+        "el": "Πες σε αυτόν που αναλαμβάνει τις αλλαγές το αποτέλεσμα: «κάθε αίτημα πελάτη απαντιέται μέσα σε 24 ώρες, και ο πελάτης λέει ότι είναι ακριβώς αυτό που ζήτησε». Μην εξηγείς ποιο αρχείο θα ανοίξει. Δες τις τρεις πρώτες δουλειές, δώσε μία φορά feedback, και μετά έλεγχε μόνο το αποτέλεσμα."
+      },
+      "check": {
+        "q": {"en": "What do you owe a Who after handing over a task?", "el": "Τι οφείλεις σε έναν «ποιον» αφού του δώσεις μια δουλειά;"},
+        "options": [
+          {"en": "Step-by-step instructions for each part", "el": "Οδηγίες βήμα βήμα για κάθε κομμάτι"},
+          {"en": "Complete silence until the deadline arrives", "el": "Απόλυτη σιωπή μέχρι να έρθει η προθεσμία"},
+          {"en": "A clear result, freedom on the method and feedback", "el": "Καθαρό αποτέλεσμα, ελευθερία στη μέθοδο και feedback"}
+        ],
+        "answer": 2,
+        "why": {"en": "Clarity without control. Micromanaging keeps the How on you, and no clarity leaves them guessing.", "el": "Σαφήνεια χωρίς έλεγχο. Με το micromanagement το «πώς» μένει πάνω σου, και χωρίς σαφήνεια ο άλλος μαντεύει."}
+      }
+    },
+    {
+      "title": {"en": "Be a Who for others", "el": "Γίνε «ποιος» για τους άλλους"},
+      "explain": {
+        "en": "Good Whos have choices, so you must be worth choosing. The book separates two kinds of relationship. Transactional: I give you this, you give me that, and we keep score. Transformational: both people grow and want to give more than they take. To build the second kind, lead with value. Before you approach anyone, ask what is in it for them, and show up as a Who for their goals first.",
+        "el": "Οι καλοί «ποιοι» έχουν επιλογές, άρα πρέπει να αξίζει να διαλέξουν εσένα. Το βιβλίο ξεχωρίζει δύο είδη σχέσης. Συναλλακτική: σου δίνω αυτό, μου δίνεις εκείνο, και κρατάμε λογαριασμό. Μεταμορφωτική: και οι δύο μεγαλώνουν και θέλουν να δώσουν περισσότερα απ' όσα παίρνουν. Για να χτίσεις τη δεύτερη, δώσε πρώτος αξία. Πριν πλησιάσεις οποιονδήποτε, ρώτα τι κερδίζει εκείνος, και γίνε πρώτα εσύ «ποιος» για τους δικούς του στόχους."
+      },
+      "example": {
+        "en": "The book's example is Joe Polish, a former carpet cleaner who built Genius Network, a well-known group for entrepreneurs. His rule before contacting anyone important is to ask what is in it for them and to arrive with something useful. That habit is how he met Dan Sullivan and many well-known founders.",
+        "el": "Το παράδειγμα του βιβλίου είναι ο Joe Polish, που καθάριζε χαλιά και έφτιαξε το Genius Network, ένα γνωστό δίκτυο επιχειρηματιών. Ο κανόνας του πριν επικοινωνήσει με κάποιον σημαντικό είναι να ρωτά «τι κερδίζει εκείνος;» και να εμφανίζεται με κάτι χρήσιμο. Με αυτή τη συνήθεια γνώρισε τον Dan Sullivan και πολλούς γνωστούς founders."
+      },
+      "apply": {
+        "en": "Open a cold call with what the doctor gains, not with what you sell: more patients who find him, a site he pays nothing to build. With an accountant or a photographer you want as a partner, send him a client first, and only then talk about working together.",
+        "el": "Άνοιξε ένα cold call με αυτό που κερδίζει ο γιατρός, όχι με αυτό που πουλάς εσύ: περισσότεροι ασθενείς που τον βρίσκουν, μια ιστοσελίδα που δεν πληρώνει για να φτιαχτεί. Με έναν λογιστή ή έναν φωτογράφο που θέλεις για συνεργάτη, στείλ' του πρώτα έναν πελάτη, και μετά μίλα για συνεργασία."
+      },
+      "check": {
+        "q": {"en": "What marks a transformational relationship?", "el": "Τι χαρακτηρίζει μια μεταμορφωτική σχέση;"},
+        "options": [
+          {"en": "Both sides grow and give more than they take", "el": "Και οι δύο μεγαλώνουν και δίνουν περισσότερα απ' όσα παίρνουν"},
+          {"en": "Every favour is recorded and repaid exactly", "el": "Κάθε χάρη καταγράφεται και ξεπληρώνεται ακριβώς"},
+          {"en": "One side leads and the other only follows", "el": "Ο ένας ηγείται και ο άλλος απλώς ακολουθεί"}
+        ],
+        "answer": 0,
+        "why": {"en": "Keeping score is transactional. In a transformational relationship both people are changed for the better.", "el": "Το να κρατάς λογαριασμό είναι συναλλαγή. Στη μεταμορφωτική σχέση αλλάζουν προς το καλύτερο και οι δύο."}
+      }
+    },
+    {
+      "title": {"en": "Avoid the wrong Whos", "el": "Μακριά από τους λάθος «ποιους»"},
+      "explain": {
+        "en": "Not every Who is right, even an attractive one with money or talent. Sullivan's rule is: always be the buyer. A buyer chooses and can walk away. A seller needs the deal and accepts anything. So decide your standards before you meet people, and say no to clients, partners and hires who do not fit your vision or your values. Every wrong yes takes time, energy and space that belonged to a right one.",
+        "el": "Δεν είναι κάθε «ποιος» σωστός, ακόμα κι αν είναι ελκυστικός, με χρήματα ή ταλέντο. Ο κανόνας του Sullivan είναι: να είσαι πάντα ο αγοραστής. Ο αγοραστής διαλέγει και μπορεί να φύγει. Ο πωλητής έχει ανάγκη τη συμφωνία και δέχεται οτιδήποτε. Όρισε λοιπόν τα κριτήριά σου πριν γνωρίσεις ανθρώπους, και πες όχι σε πελάτες, συνεργάτες και προσλήψεις που δεν ταιριάζουν με το όραμα ή τις αξίες σου. Κάθε λάθος «ναι» τρώει χρόνο, ενέργεια και χώρο που ανήκε σε ένα σωστό."
+      },
+      "example": {
+        "en": "Warren Buffett has long said he looks for three things in people he works with: integrity, intelligence and energy. And he adds that if the first is missing, the other two will hurt you. He has turned down profitable deals because he did not trust the person on the other side.",
+        "el": "Ο Warren Buffett λέει εδώ και χρόνια ότι ψάχνει τρία πράγματα στους ανθρώπους με τους οποίους δουλεύει: ακεραιότητα, εξυπνάδα και ενέργεια. Και προσθέτει ότι αν λείπει το πρώτο, τα άλλα δύο θα σου κάνουν κακό. Έχει απορρίψει κερδοφόρες συμφωνίες επειδή δεν εμπιστευόταν τον άνθρωπο απέναντι."
+      },
+      "apply": {
+        "en": "Write three signs of a client you do not want: disrespect on the first call, endless haggling over a small yearly fee, no interest in giving material. When two of the three appear, end the conversation politely. Use the same list for partners and for anyone you hire.",
+        "el": "Γράψε τρία σημάδια του πελάτη που δεν θέλεις: ασέβεια στο πρώτο τηλεφώνημα, ατελείωτο παζάρι για ένα μικρό ετήσιο ποσό, καμία διάθεση να δώσει υλικό. Όταν εμφανιστούν τα δύο από τα τρία, κλείσε ευγενικά την κουβέντα. Χρησιμοποίησε την ίδια λίστα για συνεργάτες και για όποιον προσλάβεις."
+      },
+      "check": {
+        "q": {"en": "What does «always be the buyer» mean?", "el": "Τι σημαίνει «να είσαι πάντα ο αγοραστής»;"},
+        "options": [
+          {"en": "Always pay for services, never sell your own", "el": "Να πληρώνεις πάντα για υπηρεσίες, ποτέ να μην πουλάς"},
+          {"en": "You choose who you work with and can say no", "el": "Εσύ διαλέγεις με ποιον δουλεύεις και μπορείς να πεις όχι"},
+          {"en": "Buy out your competitors when you can", "el": "Να εξαγοράζεις τους ανταγωνιστές σου όταν μπορείς"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is a position of choice. You have standards and you accept only the people who meet them.", "el": "Είναι θέση επιλογής. Έχεις κριτήρια και δέχεσαι μόνο όσους τα πληρούν."}
+      }
+    },
+    {
+      "title": {"en": "A self-managing company", "el": "Εταιρεία που τρέχει μόνη της"},
+      "explain": {
+        "en": "The end point of Who Not How is a company that runs without you in the daily work. Each important area has a Who who owns it and makes decisions inside it. You are no longer the one everybody waits for. Your job becomes the vision, the key relationships and your Unique Ability. Sullivan says this is the only way a business can keep growing without eating the life of its founder.",
+        "el": "Ο τελικός προορισμός του «Ποιος, όχι Πώς» είναι μια εταιρεία που τρέχει χωρίς εσένα μέσα στην καθημερινή δουλειά. Κάθε σημαντικός τομέας έχει έναν «ποιον» που τον έχει δικό του και αποφασίζει μέσα σε αυτόν. Δεν είσαι πια αυτός που περιμένουν όλοι. Η δουλειά σου γίνεται το όραμα, οι βασικές σχέσεις και η Μοναδική σου Ικανότητα. Ο Sullivan λέει ότι μόνο έτσι μπορεί μια επιχείρηση να μεγαλώνει χωρίς να τρώει τη ζωή του ιδρυτή της."
+      },
+      "example": {
+        "en": "Sullivan's own case: his wife and partner Babs Smith runs Strategic Coach as a business, its team, operations and finances. That leaves him free to do what he does best, create thinking tools and coach entrepreneurs, and to take a large number of free days every year.",
+        "el": "Η περίπτωση του ίδιου του Sullivan: η γυναίκα και συνεργάτιδά του Babs Smith διοικεί τη Strategic Coach ως επιχείρηση, δηλαδή την ομάδα, τη λειτουργία και τα οικονομικά. Έτσι εκείνος μένει ελεύθερος να κάνει αυτό που κάνει καλύτερα, να φτιάχνει εργαλεία σκέψης και να καθοδηγεί επιχειρηματίες, και να παίρνει πολλές ελεύθερες μέρες κάθε χρόνο."
+      },
+      "apply": {
+        "en": "Test it: could the agency run for seven days with your phone off? Write what would break first, such as client changes, renewals or new leads. That is the first area that needs an owner, a person or an automated system with a person watching it.",
+        "el": "Κάνε το τεστ: θα έτρεχε η εταιρεία επτά μέρες με το κινητό σου κλειστό; Γράψε τι θα χαλούσε πρώτο, όπως οι αλλαγές πελατών, οι ανανεώσεις ή τα νέα leads. Αυτός είναι ο πρώτος τομέας που χρειάζεται υπεύθυνο, είτε άνθρωπο είτε αυτόματο σύστημα με έναν άνθρωπο να το παρακολουθεί."
+      },
+      "check": {
+        "q": {"en": "What is the founder's job in a self-managing company?", "el": "Ποια είναι η δουλειά του ιδρυτή σε μια εταιρεία που τρέχει μόνη της;"},
+        "options": [
+          {"en": "Vision, key relationships and his Unique Ability", "el": "Το όραμα, οι βασικές σχέσεις και η Μοναδική του Ικανότητα"},
+          {"en": "Approving every decision before it is made", "el": "Να εγκρίνει κάθε απόφαση πριν παρθεί"},
+          {"en": "Nothing at all, because he has left the business", "el": "Τίποτα, γιατί έχει φύγει από την επιχείρηση"}
+        ],
+        "answer": 0,
+        "why": {"en": "He is still there, but in the few things only he can do. Daily operations belong to the Whos.", "el": "Είναι ακόμα εκεί, αλλά στα λίγα πράγματα που μόνο αυτός μπορεί να κάνει. Η καθημερινή λειτουργία ανήκει στους «ποιους»."}
+      }
+    },
+    {
+      "title": {"en": "Your challenger network", "el": "Το δίκτυο που σε προκαλεί"},
+      "explain": {
+        "en": "Whos are not only people who work for you. Some of the most valuable ones are people who challenge you: mentors, coaches and peers who are ahead of you, who ask harder questions and make your current goals look small. The book tells you to stop competing and start collaborating. A competitor fights you for the same piece. A collaborator helps you both build something neither could build alone.",
+        "el": "«Ποιοι» δεν είναι μόνο όσοι δουλεύουν για σένα. Από τους πιο πολύτιμους είναι αυτοί που σε προκαλούν: μέντορες, coaches και άνθρωποι του χώρου σου που είναι πιο μπροστά, που κάνουν δυσκολότερες ερωτήσεις και κάνουν τους τωρινούς σου στόχους να φαίνονται μικροί. Το βιβλίο σού λέει να πάψεις να ανταγωνίζεσαι και να αρχίσεις να συνεργάζεσαι. Ο ανταγωνιστής σε πολεμά για το ίδιο κομμάτι. Ο συνεργάτης σε βοηθά να χτίσετε κάτι που κανείς από τους δύο δεν θα έχτιζε μόνος."
+      },
+      "example": {
+        "en": "J.R.R. Tolkien and C.S. Lewis met for years with a small group in Oxford called the Inklings, reading their drafts aloud to each other. Tolkien wrote later that he owed Lewis a debt he could not repay: without his constant encouragement he would never have finished The Lord of the Rings.",
+        "el": "Ο J.R.R. Tolkien και ο C.S. Lewis συναντιούνταν επί χρόνια με μια μικρή παρέα στην Οξφόρδη, τους Inklings, και διάβαζαν ο ένας στον άλλον τα χειρόγραφά τους. Ο Tolkien έγραψε αργότερα ότι χρωστούσε στον Lewis ένα χρέος που δεν ξεπληρώνεται: χωρίς τη συνεχή ενθάρρυνσή του δεν θα τελείωνε ποτέ τον «Άρχοντα των Δαχτυλιδιών»."
+      },
+      "apply": {
+        "en": "Find two agency owners or founders who are one or two steps ahead of you, in Greece or abroad. Offer something first, then propose a monthly call where each shares numbers and one hard problem. Ask them directly: where am I thinking too small?",
+        "el": "Βρες δύο ιδιοκτήτες agency ή founders που είναι ένα δυο βήματα μπροστά σου, στην Ελλάδα ή έξω. Πρόσφερε πρώτα κάτι εσύ, και μετά πρότεινε μια μηνιαία κλήση όπου ο καθένας μοιράζεται νούμερα και ένα δύσκολο πρόβλημα. Ρώτα τους ευθέως: πού σκέφτομαι πολύ μικρά;"
+      },
+      "check": {
+        "q": {"en": "What is the job of a challenger in your network?", "el": "Ποια είναι η δουλειά ενός ανθρώπου που σε προκαλεί;"},
+        "options": [
+          {"en": "To agree with you and keep you comfortable", "el": "Να συμφωνεί μαζί σου και να σε κρατά άνετο"},
+          {"en": "To do the daily tasks you do not like", "el": "Να κάνει τις καθημερινές δουλειές που δεν σου αρέσουν"},
+          {"en": "To push your thinking and raise your goals", "el": "Να σπρώχνει τη σκέψη σου και να ανεβάζει τους στόχους σου"}
+        ],
+        "answer": 2,
+        "why": {"en": "Some Whos save you time. Challengers do something else: they make you aim higher than you would alone.", "el": "Κάποιοι «ποιοι» σου γλιτώνουν χρόνο. Αυτοί που σε προκαλούν κάνουν κάτι άλλο: σε βάζουν να στοχεύεις πιο ψηλά απ' ό,τι θα έκανες μόνος."}
+      }
+    },
+    {
+      "title": {"en": "Whos expand your vision", "el": "Οι «ποιοι» μεγαλώνουν το όραμα"},
+      "explain": {
+        "en": "The last idea closes the circle. Whos do not only help you reach the goal you already had. Working with capable people changes what you believe is possible, so the goal itself grows. You start with a plan, the right Who improves it, and you end somewhere you could not have imagined alone. That is why the authors say your future is limited less by your skills than by the quality of the people you team up with.",
+        "el": "Η τελευταία ιδέα κλείνει τον κύκλο. Οι «ποιοι» δεν σε βοηθούν μόνο να φτάσεις τον στόχο που είχες ήδη. Η συνεργασία με ικανούς ανθρώπους αλλάζει το τι πιστεύεις ότι γίνεται, άρα μεγαλώνει ο ίδιος ο στόχος. Ξεκινάς με ένα σχέδιο, ο σωστός «ποιος» το βελτιώνει, και καταλήγεις κάπου που δεν θα φανταζόσουν μόνος. Γι' αυτό οι συγγραφείς λένε ότι το μέλλον σου το περιορίζουν λιγότερο οι δεξιότητές σου και περισσότερο η ποιότητα των ανθρώπων με τους οποίους ενώνεσαι."
+      },
+      "example": {
+        "en": "The book is its own proof. Sullivan had taught the idea for years inside his coaching programme but had not written it as a mainstream book. Hardy offered to write it. The collaboration worked so well that one planned book became a series, with The Gap and the Gain and 10x Is Easier Than 2x.",
+        "el": "Το ίδιο το βιβλίο είναι η απόδειξη. Ο Sullivan δίδασκε την ιδέα επί χρόνια στο πρόγραμμά του, αλλά δεν την είχε γράψει ως βιβλίο για το ευρύ κοινό. Ο Hardy προσφέρθηκε να το γράψει. Η συνεργασία πήγε τόσο καλά που το ένα βιβλίο έγινε σειρά, με το The Gap and the Gain και το 10x Is Easier Than 2x."
+      },
+      "apply": {
+        "en": "Ask each good Who you bring in one question after the first month: «If this were your company, what would you do bigger or differently?» Write the answers down. Once a quarter, rewrite your main goal with what your Whos have made possible.",
+        "el": "Κάνε σε κάθε καλό «ποιον» που φέρνεις μία ερώτηση μετά τον πρώτο μήνα: «Αν η εταιρεία ήταν δική σου, τι θα έκανες πιο μεγάλο ή διαφορετικά;». Γράψε τις απαντήσεις. Μία φορά το τρίμηνο, ξαναγράψε τον βασικό σου στόχο με βάση αυτά που έκαναν εφικτά οι «ποιοι» σου."
+      },
+      "check": {
+        "q": {"en": "What happens to your goals when you work with strong Whos?", "el": "Τι γίνεται με τους στόχους σου όταν δουλεύεις με δυνατούς «ποιους»;"},
+        "options": [
+          {"en": "They stay the same but are reached faster", "el": "Μένουν ίδιοι, αλλά πιάνονται πιο γρήγορα"},
+          {"en": "They grow, because you see more as possible", "el": "Μεγαλώνουν, γιατί βλέπεις περισσότερα ως εφικτά"},
+          {"en": "They are replaced by the goals of the Whos", "el": "Αντικαθίστανται από τους στόχους των «ποιων»"}
+        ],
+        "answer": 1,
+        "why": {"en": "Capable people bring ideas and abilities you did not have, so the vision itself expands.", "el": "Οι ικανοί άνθρωποι φέρνουν ιδέες και δυνατότητες που δεν είχες, άρα μεγαλώνει το ίδιο το όραμα."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You want to double the number of new sites per month. Your first thought is: how will I fit eighty more calls a day into my schedule? What does the book tell you to ask?", "el": "Θέλεις να διπλασιάσεις τις νέες ιστοσελίδες τον μήνα. Η πρώτη σου σκέψη: πώς θα χωρέσω ογδόντα τηλέφωνα παραπάνω τη μέρα; Τι σου λέει το βιβλίο να ρωτήσεις;"},
+      "options": [
+        {"en": "How can I wake up earlier and call faster?", "el": "Πώς θα ξυπνάω νωρίτερα και θα τηλεφωνώ πιο γρήγορα;"},
+        {"en": "Should I lower the goal to something realistic?", "el": "Μήπως να κατεβάσω τον στόχο σε κάτι ρεαλιστικό;"},
+        {"en": "Who could make these calls, or build the sites, with me?", "el": "Ποιος θα μπορούσε να κάνει αυτά τα τηλέφωνα ή τις κατασκευές μαζί μου;"}
+      ],
+      "answer": 2,
+      "why": {"en": "How puts the whole load on your hours. Who adds another person's hours and skill to the goal.", "el": "Το «πώς» φορτώνει τα πάντα στις δικές σου ώρες. Το «ποιος» προσθέτει στον στόχο τις ώρες και τη δεξιότητα ενός ακόμα ανθρώπου."},
+      "idea": 0
+    },
+    {
+      "q": {"en": "For three months you have been putting off sorting out your invoices and the accounting. You keep telling yourself you will learn how. What is the book's reading?", "el": "Εδώ και τρεις μήνες αναβάλλεις να βάλεις σε τάξη τα τιμολόγια και τα λογιστικά. Λες συνέχεια ότι θα μάθεις πώς γίνεται. Πώς το διαβάζει το βιβλίο;"},
+      "options": [
+        {"en": "It is a signal to hand it to someone who is good at it", "el": "Είναι σήμα να το δώσεις σε κάποιον που είναι καλός σε αυτό"},
+        {"en": "You are undisciplined and must force yourself this weekend", "el": "Είσαι απείθαρχος και πρέπει να ζοριστείς το Σαββατοκύριακο"},
+        {"en": "The accounts are not important, so forget them", "el": "Τα λογιστικά δεν είναι σημαντικά, ξέχασέ τα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Procrastination on something that matters means you are not the right Who. The task stays, the person changes.", "el": "Η αναβολή σε κάτι που μετράει σημαίνει ότι δεν είσαι ο σωστός «ποιος». Η δουλειά μένει, αλλάζει ο άνθρωπος."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "You bring in someone to handle client change requests. On day one you start explaining exactly which file to open and which line to edit. What should you do?", "el": "Φέρνεις κάποιον για τις αλλαγές των πελατών. Την πρώτη μέρα αρχίζεις να του εξηγείς ακριβώς ποιο αρχείο θα ανοίξει και ποια γραμμή θα αλλάξει. Τι πρέπει να κάνεις;"},
+      "options": [
+        {"en": "Keep going, so that he does it exactly your way", "el": "Να συνεχίσεις, για να το κάνει ακριβώς με τον δικό σου τρόπο"},
+        {"en": "Describe the finished result and the standard, then let him work", "el": "Να περιγράψεις το τελικό αποτέλεσμα και το επίπεδο, και να τον αφήσεις"},
+        {"en": "Say nothing and see what he comes up with", "el": "Να μην πεις τίποτα και να δεις τι θα βγάλει"}
+      ],
+      "answer": 1,
+      "why": {"en": "Commit to the result, not the process. Clear success criteria plus freedom gives the best work.", "el": "Δέσμευση στο αποτέλεσμα, όχι στη διαδικασία. Καθαρά κριτήρια επιτυχίας μαζί με ελευθερία δίνουν την καλύτερη δουλειά."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "You think: I cannot afford to pay someone for the change requests yet. I will hire when the business is bigger. What would Sullivan answer?", "el": "Σκέφτεσαι: δεν με παίρνει ακόμα να πληρώσω κάποιον για τις αλλαγές. Θα προσλάβω όταν μεγαλώσει η δουλειά. Τι θα απαντούσε ο Sullivan;"},
+      "options": [
+        {"en": "Right, never spend before the money is there", "el": "Σωστά, μην ξοδεύεις πριν υπάρχουν τα χρήματα"},
+        {"en": "Hire three people at once to grow faster", "el": "Πάρε τρεις ανθρώπους μαζί για να μεγαλώσεις πιο γρήγορα"},
+        {"en": "The freed hours, spent on selling, are what make it bigger", "el": "Οι ώρες που ελευθερώνονται, αν πάνε σε πωλήσεις, είναι αυτές που τη μεγαλώνουν"}
+      ],
+      "answer": 2,
+      "why": {"en": "A Who is an investment. Your selling hour is worth more than the cost of the hour you hand over.", "el": "Ο «ποιος» είναι επένδυση. Η δική σου ώρα πώλησης αξίζει περισσότερο από το κόστος της ώρας που δίνεις αλλού."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "A prospect is rude on the first call, demands a big discount on the yearly fee and says he has no time to send photos. He is ready to sign. What do you do?", "el": "Ένας υποψήφιος πελάτης είναι αγενής στο πρώτο τηλεφώνημα, ζητά μεγάλη έκπτωση στο ετήσιο ποσό και λέει ότι δεν έχει χρόνο να στείλει φωτογραφίες. Είναι έτοιμος να υπογράψει. Τι κάνεις;"},
+      "options": [
+        {"en": "Decline politely, because he does not fit your standards", "el": "Αρνείσαι ευγενικά, γιατί δεν ταιριάζει με τα κριτήριά σου"},
+        {"en": "Take him, since every client counts right now", "el": "Τον παίρνεις, αφού κάθε πελάτης μετράει τώρα"},
+        {"en": "Give the discount so that he becomes friendlier", "el": "Κάνεις την έκπτωση για να γίνει πιο φιλικός"}
+      ],
+      "answer": 0,
+      "why": {"en": "Always be the buyer. A wrong client takes the time and energy that three good ones deserved.", "el": "Να είσαι πάντα ο αγοραστής. Ένας λάθος πελάτης τρώει τον χρόνο και την ενέργεια που άξιζαν τρεις καλοί."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "Your partner asks for one full day together without your phone. You feel the business cannot survive a day without you answering. What does the book say?", "el": "Ο άνθρωπός σου ζητά μία ολόκληρη μέρα μαζί χωρίς το κινητό σου. Νιώθεις ότι η δουλειά δεν αντέχει μία μέρα χωρίς να απαντάς εσύ. Τι λέει το βιβλίο;"},
+      "options": [
+        {"en": "Go, but check messages quietly every hour", "el": "Πήγαινε, αλλά κοίτα στα κρυφά τα μηνύματα κάθε ώρα"},
+        {"en": "Take a true free day and arrange who covers for you", "el": "Πάρε μια πραγματική ελεύθερη μέρα και κανόνισε ποιος σε καλύπτει"},
+        {"en": "Postpone it until the business is more stable", "el": "Ανάβαλέ το μέχρι να σταθεροποιηθεί η δουλειά"}
+      ],
+      "answer": 1,
+      "why": {"en": "A free day has no work at all, and it comes first. If the business cannot stand one, that shows where a Who is missing.", "el": "Η ελεύθερη μέρα δεν έχει καθόλου δουλειά, και μπαίνει πρώτη. Αν η επιχείρηση δεν την αντέχει, αυτό δείχνει πού λείπει ένας «ποιος»."},
+      "idea": 6
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "The book says that asking for help makes your achievement count for less.", "el": "Το βιβλίο λέει ότι αν ζητήσεις βοήθεια, το επίτευγμά σου μετράει λιγότερο."},
+      "answer": false,
+      "why": {"en": "It says the opposite: every big result is teamwork, and doing it alone only caps what you can reach.", "el": "Λέει το αντίθετο: κάθε μεγάλο αποτέλεσμα είναι ομαδική δουλειά, και το «μόνος μου» απλώς σου βάζει ταβάνι."}
+    },
+    {
+      "s": {"en": "Sullivan sees procrastination as a sign that you may need a Who for the task.", "el": "Ο Sullivan βλέπει την αναβολή σαν σημάδι ότι ίσως χρειάζεσαι έναν «ποιον» για τη δουλειά."},
+      "answer": true,
+      "why": {"en": "He calls it wisdom: your delay shows you lack the skill, time or interest for it.", "el": "Τη λέει σοφία: η καθυστέρησή σου δείχνει ότι σου λείπει η δεξιότητα, ο χρόνος ή το ενδιαφέρον."}
+    },
+    {
+      "s": {"en": "An Impact Filter explains step by step how the work must be done.", "el": "Το Φίλτρο Αποτελέσματος εξηγεί βήμα βήμα πώς πρέπει να γίνει η δουλειά."},
+      "answer": false,
+      "why": {"en": "It defines the what, the why and the success criteria. The how is left to the Who.", "el": "Ορίζει το τι, το γιατί και τα κριτήρια επιτυχίας. Το «πώς» μένει στον «ποιον»."}
+    },
+    {
+      "s": {"en": "The book treats a good Who as an investment that frees your time for higher-value work.", "el": "Το βιβλίο βλέπει έναν καλό «ποιον» σαν επένδυση που ελευθερώνει τον χρόνο σου για δουλειά μεγαλύτερης αξίας."},
+      "answer": true,
+      "why": {"en": "Time creates money: the hours you get back are worth more than what the Who costs.", "el": "Ο χρόνος γεννά χρήματα: οι ώρες που παίρνεις πίσω αξίζουν περισσότερο απ' όσο κοστίζει ο «ποιος»."}
+    },
+    {
+      "s": {"en": "On a free day you may answer a few work emails as long as you stay at home.", "el": "Σε μια ελεύθερη μέρα μπορείς να απαντήσεις λίγα email δουλειάς, αρκεί να μείνεις σπίτι."},
+      "answer": false,
+      "why": {"en": "A free day is twenty-four hours with no work-related activity of any kind.", "el": "Η ελεύθερη μέρα είναι εικοσιτέσσερις ώρες χωρίς καμία δραστηριότητα που έχει σχέση με τη δουλειά."}
+    },
+    {
+      "s": {"en": "Things you do well but do not enjoy are still part of your Unique Ability.", "el": "Όσα κάνεις καλά αλλά δεν τα χαίρεσαι ανήκουν κι αυτά στη Μοναδική σου Ικανότητα."},
+      "answer": false,
+      "why": {"en": "Unique Ability needs skill and passion and energy together. Good-but-draining work should go to a Who.", "el": "Η Μοναδική Ικανότητα θέλει δεξιότητα, αγάπη και ενέργεια μαζί. Ό,τι κάνεις καλά αλλά σε αδειάζει πάει σε «ποιον»."}
+    },
+    {
+      "s": {"en": "To attract good Whos you should first ask what is in it for them.", "el": "Για να προσελκύσεις καλούς «ποιους», πρέπει πρώτα να ρωτήσεις τι κερδίζουν εκείνοι."},
+      "answer": true,
+      "why": {"en": "Good people have options. You lead with value and become a Who for their goals too.", "el": "Οι καλοί άνθρωποι έχουν επιλογές. Δίνεις πρώτος αξία και γίνεσαι κι εσύ «ποιος» για τους δικούς τους στόχους."}
+    },
+    {
+      "s": {"en": "According to the book, working with capable people makes your goals grow bigger.", "el": "Σύμφωνα με το βιβλίο, η δουλειά με ικανούς ανθρώπους κάνει τους στόχους σου να μεγαλώνουν."},
+      "answer": true,
+      "why": {"en": "Whos bring abilities and ideas you lacked, so you start to see more as possible.", "el": "Οι «ποιοι» φέρνουν δυνατότητες και ιδέες που σου έλειπαν, κι έτσι αρχίζεις να βλέπεις περισσότερα ως εφικτά."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "A Who", "el": "Ένας «ποιος»"}, "b": {"en": "A person who brings the skill you lack", "el": "Άνθρωπος που φέρνει τη δεξιότητα που σου λείπει"}},
+    {"a": {"en": "Impact Filter", "el": "Φίλτρο Αποτελέσματος"}, "b": {"en": "One page: what, why and success criteria", "el": "Μία σελίδα: τι, γιατί και κριτήρια επιτυχίας"}},
+    {"a": {"en": "Unique Ability", "el": "Μοναδική Ικανότητα"}, "b": {"en": "Work you excel at, love and never tire of", "el": "Δουλειά όπου ξεχωρίζεις, την αγαπάς και δεν σε κουράζει"}},
+    {"a": {"en": "Free day", "el": "Ελεύθερη μέρα"}, "b": {"en": "Twenty-four hours with no work at all", "el": "Εικοσιτέσσερις ώρες χωρίς καθόλου δουλειά"}},
+    {"a": {"en": "Always be the buyer", "el": "Πάντα ο αγοραστής"}, "b": {"en": "You choose who you work with", "el": "Εσύ διαλέγεις με ποιον δουλεύεις"}},
+    {"a": {"en": "Transformational relationship", "el": "Μεταμορφωτική σχέση"}, "b": {"en": "Both sides grow and give without keeping score", "el": "Και οι δύο μεγαλώνουν και δίνουν χωρίς λογαριασμό"}}
+  ],
+  "missions": [
+    {"en": "Write your biggest goal for next year and under it five names or roles who could help, not five tasks for you.", "el": "Γράψε τον μεγαλύτερο στόχο σου για του χρόνου και από κάτω πέντε ονόματα ή ρόλους που μπορούν να βοηθήσουν, όχι πέντε δουλειές για σένα."},
+    {"en": "Sort last week's work into three columns: love and excel, good but draining, bad or bored.", "el": "Χώρισε τη δουλειά της περασμένης εβδομάδας σε τρεις στήλες: αγαπώ και ξεχωρίζω, καλός αλλά με αδειάζει, κακός ή βαριέμαι."},
+    {"en": "Fill in a one-page Impact Filter for the one task you most want to hand over.", "el": "Συμπλήρωσε ένα μονοσέλιδο Φίλτρο Αποτελέσματος για τη μία δουλειά που θέλεις περισσότερο να δώσεις αλλού."},
+    {"en": "Record your screen once while you do a repeated weekly task, so that someone else can take it over.", "el": "Κατάγραψε μία φορά την οθόνη σου όσο κάνεις μια δουλειά που επαναλαμβάνεται κάθε εβδομάδα, ώστε να μπορεί να την αναλάβει άλλος."},
+    {"en": "Block one full free day in next week's calendar and tell one person who covers for you.", "el": "Κλείσε μία ολόκληρη ελεύθερη μέρα στο ημερολόγιο της επόμενης εβδομάδας και πες σε έναν άνθρωπο ποιος σε καλύπτει."}
+  ],
+  "mantra": {"en": "I do not ask how. I ask who.", "el": "Δεν ρωτάω «πώς». Ρωτάω «ποιος»."},
+  "careful": {
+    "en": "The book is also an advert for Strategic Coach, an expensive programme, and its stories come almost only from clients who succeeded. It says little about bad hires, the work of managing people, or what to do when you truly cannot pay anyone yet. It is repetitive, and it underrates learning a skill yourself first: you delegate better what you understand. Some of the psychology it cites, such as decision fatigue, is disputed.",
+    "el": "Το βιβλίο είναι και διαφήμιση για τη Strategic Coach, ένα ακριβό πρόγραμμα, και οι ιστορίες του προέρχονται σχεδόν μόνο από πελάτες που πέτυχαν. Λέει λίγα για τις κακές προσλήψεις, για τον κόπο που θέλει η διαχείριση ανθρώπων ή για το τι κάνεις όταν πραγματικά δεν μπορείς ακόμα να πληρώσεις κανέναν. Επαναλαμβάνεται, και υποτιμά το να μάθεις πρώτα εσύ μια δεξιότητα: αναθέτεις καλύτερα ό,τι καταλαβαίνεις. Κάποια από την ψυχολογία που επικαλείται, όπως η «κούραση των αποφάσεων», αμφισβητείται."
+  },
+  "connects": [
+    {"book": "e-myth", "note": {"en": "Gerber says build systems so the business works without you, and Sullivan says find people. A real company needs both: Whos who run clear systems.", "el": "Ο Gerber λέει χτίσε συστήματα ώστε η επιχείρηση να δουλεύει χωρίς εσένα, και ο Sullivan λέει βρες ανθρώπους. Μια πραγματική εταιρεία θέλει και τα δύο: «ποιους» που τρέχουν καθαρά συστήματα."}},
+    {"book": "be-2-0", "note": {"en": "Jim Collins makes the same point with other words: first who, then what. Get the right people in before you decide the direction.", "el": "Ο Jim Collins λέει το ίδιο με άλλα λόγια: πρώτα ποιος, μετά τι. Φέρε τους σωστούς ανθρώπους πριν αποφασίσεις την κατεύθυνση."}},
+    {"book": "no-excuses", "note": {"en": "Tracy calls procrastination a lack of discipline to overcome, while Sullivan calls it a wise signal to delegate. Decide case by case which one it is.", "el": "Ο Tracy βλέπει την αναβολή σαν έλλειψη πειθαρχίας που πρέπει να νικήσεις, ενώ ο Sullivan σαν σοφό σήμα ότι πρέπει να αναθέσεις. Κρίνε κάθε φορά ποιο από τα δύο ισχύει."}}
+  ]
+}

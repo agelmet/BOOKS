@@ -1,0 +1,558 @@
+{
+  "id": "influence",
+  "title": {"en": "Influence: The Psychology of Persuasion", "el": "Επιρροή: Η ψυχολογία της πειθούς"},
+  "author": "Robert Cialdini",
+  "authorEl": "Ρόμπερτ Τσιαλντίνι",
+  "year": 1984,
+  "shelf": "sales",
+  "skills": {"persuasion": 3, "sales": 3, "communication": 1},
+  "oneLine": {
+    "en": "People say yes on autopilot because of a few mental shortcuts: reciprocity, consistency, social proof, liking, authority and scarcity. Learn them to persuade honestly and to protect yourself.",
+    "el": "Λέμε «ναι» στον αυτόματο πιλότο, εξαιτίας λίγων νοητικών συντομεύσεων: ανταπόδοση, συνέπεια, κοινωνική απόδειξη, συμπάθεια, κύρος, σπανιότητα. Μάθε τες για να πείθεις τίμια και να προστατεύεσαι."
+  },
+  "story": {
+    "en": "Robert Cialdini is an American professor of psychology. To write this book he spent three years undercover: he trained as a car salesman, a fundraiser and a telemarketer to see how professionals get people to say yes. He then matched what he saw with experiments. The result, published in 1984, has sold millions of copies and is still the first book most salespeople and marketers are told to read.",
+    "el": "Ο Ρόμπερτ Τσιαλντίνι είναι Αμερικανός καθηγητής ψυχολογίας. Για να γράψει αυτό το βιβλίο πέρασε τρία χρόνια «μυστικός»: εκπαιδεύτηκε ως πωλητής αυτοκινήτων, ως υπεύθυνος εράνων και ως τηλεφωνικός πωλητής, για να δει πώς οι επαγγελματίες παίρνουν το «ναι». Μετά έδεσε όσα είδε με πειράματα. Το βιβλίο βγήκε το 1984, έχει πουλήσει εκατομμύρια αντίτυπα και παραμένει το πρώτο που προτείνουν σε κάθε πωλητή."
+  },
+  "forYou": {
+    "en": "You live from cold calls, meetings and ads, so every day you ask strangers for a yes. This book shows the few buttons behind that yes. Your offer already contains the strongest ones: you give first (the draft before any payment), you have real proof (200+ sites, real Google reviews). Here you learn to show them in the right order.",
+    "el": "Ζεις από cold calls, ραντεβού και διαφημίσεις, άρα κάθε μέρα ζητάς ένα «ναι» από αγνώστους. Το βιβλίο σού δείχνει τα λίγα κουμπιά που κρύβονται πίσω από αυτό το «ναι». Η προσφορά σου έχει ήδη τα πιο δυνατά: δίνεις πρώτος (το draft πριν από κάθε πληρωμή) και έχεις αληθινές αποδείξεις (200+ ιστοσελίδες, πραγματικές κριτικές στο Google). Εδώ μαθαίνεις να τα δείχνεις με τη σωστή σειρά."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Click, whirr: the autopilot", "el": "Κλικ και παίζει: ο αυτόματος πιλότος"},
+      "explain": {
+        "en": "Animals and people carry automatic programs. One small trigger starts the whole behaviour, like pressing play on a tape: click, and whirr, it runs. We need these shortcuts because life is too busy to think about everything: «expensive means good», «an expert said it». They usually serve us well. But whoever knows your trigger can press it on purpose.",
+        "el": "Ζώα και άνθρωποι έχουμε μέσα μας έτοιμα προγράμματα. Ένα μικρό ερέθισμα ξεκινά ολόκληρη τη συμπεριφορά, σαν να πατάς play σε κασέτα: κλικ, και παίζει μόνη της. Τις χρειαζόμαστε αυτές τις συντομεύσεις, γιατί δεν προλαβαίνουμε να σκεφτούμε τα πάντα: «ακριβό σημαίνει καλό», «το είπε ειδικός». Συνήθως μας βγαίνουν σε καλό. Όποιος όμως ξέρει το κουμπί σου, μπορεί να το πατήσει επίτηδες."
+      },
+      "example": {
+        "en": "A mother turkey cares for anything that makes the «cheep-cheep» sound, even a stuffed polecat, her natural enemy, with a speaker inside. In people: Ellen Langer asked to cut the line at a copier. With a reason after «because», 94% said yes; with no reason, 60%. Even an empty reason («because I have to make copies») got 93%.",
+        "el": "Η γαλοπούλα-μάνα φροντίζει οτιδήποτε κάνει «τσιπ-τσιπ», ακόμα και ένα βαλσαμωμένο κουνάβι, τον φυσικό της εχθρό, με ένα ηχείο μέσα του. Στους ανθρώπους: η Έλεν Λάνγκερ ζήτησε να περάσει μπροστά στην ουρά ενός φωτοτυπικού. Με αιτία μετά το «επειδή», δέχτηκε το 94%. Χωρίς αιτία, το 60%. Ακόμα και με κούφια αιτία («επειδή πρέπει να βγάλω φωτοτυπίες») δέχτηκε το 93%."
+      },
+      "apply": {
+        "en": "Give a reason with every request, using «because». On a cold call say: «I am calling you because I build the websites of many doctors in your specialty and I saw that your practice does not have one.» A request with a reason sounds normal; a naked request sounds like pressure.",
+        "el": "Δώσε αιτία σε κάθε αίτημα, με ένα «επειδή». Στο cold call πες: «Σας καλώ επειδή φτιάχνω τις ιστοσελίδες πολλών γιατρών της ειδικότητάς σας και είδα ότι το ιατρείο σας δεν έχει». Το αίτημα με αιτία ακούγεται φυσικό. Το σκέτο αίτημα ακούγεται σαν πίεση."
+      },
+      "check": {
+        "q": {"en": "What is a «click, whirr» reaction?", "el": "Τι είναι μια αντίδραση «κλικ και παίζει»;"},
+        "options": [
+          {"en": "A slow decision after careful thought", "el": "Μια αργή απόφαση μετά από προσεκτική σκέψη"},
+          {"en": "An automatic response started by one trigger", "el": "Μια αυτόματη αντίδραση που την ξεκινά ένα ερέθισμα"},
+          {"en": "A reaction that only animals have", "el": "Μια αντίδραση που έχουν μόνο τα ζώα"}
+        ],
+        "answer": 1,
+        "why": {"en": "One signal (a sound, a word like «because», a high price) sets off a ready-made behaviour without thinking.", "el": "Ένα σήμα (ένας ήχος, μια λέξη όπως το «επειδή», μια υψηλή τιμή) ξεκινά μια έτοιμη συμπεριφορά χωρίς σκέψη."}
+      }
+    },
+    {
+      "title": {"en": "The contrast principle", "el": "Η αρχή της αντίθεσης"},
+      "explain": {
+        "en": "We do not judge things alone; we judge them next to what came just before. After lifting something heavy, a normal object feels light. After a high price, a smaller price feels tiny. So the order in which you present things changes how they look, without changing a single fact.",
+        "el": "Δεν κρίνουμε τίποτα μόνο του. Το κρίνουμε δίπλα σε αυτό που είδαμε ακριβώς πριν. Αφού σηκώσεις κάτι βαρύ, ένα κανονικό αντικείμενο σου φαίνεται ελαφρύ. Μετά από μια υψηλή τιμή, μια μικρότερη μοιάζει ασήμαντη. Άρα η σειρά με την οποία παρουσιάζεις τα πράγματα αλλάζει το πώς φαίνονται, χωρίς να αλλάξει ούτε ένα γεγονός."
+      },
+      "example": {
+        "en": "Clothing stores train their staff to sell the suit first. After paying for an expensive suit, a sweater or a belt looks cheap, so the customer adds more. Car dealers do the same: once the price of the car is agreed, every extra looks like small change.",
+        "el": "Τα καταστήματα ρούχων εκπαιδεύουν τους πωλητές να πουλούν πρώτα το κοστούμι. Αφού ο πελάτης πληρώσει ένα ακριβό κοστούμι, το πουλόβερ ή η ζώνη τού φαίνονται φθηνά, και προσθέτει κι άλλα. Το ίδιο κάνουν οι έμποροι αυτοκινήτων: μόλις συμφωνηθεί η τιμή του αυτοκινήτου, κάθε έξτρα μοιάζει με ψιλά."
+      },
+      "apply": {
+        "en": "Say first, truthfully, what a website usually costs to build at an agency: from hundreds to thousands of euros. Then say your offer: the build is 0€ and he pays only the yearly hosting and domain. Next to the first number, yours looks as small as it really is.",
+        "el": "Πες πρώτα, με ειλικρίνεια, πόσο κοστίζει συνήθως η κατασκευή μιας ιστοσελίδας σε ένα γραφείο: από εκατοντάδες μέχρι χιλιάδες ευρώ. Μετά πες τη δική σου προσφορά: η κατασκευή 0€, πληρώνει μόνο την ετήσια φιλοξενία και το domain. Δίπλα στο πρώτο νούμερο, το δικό σου φαίνεται όσο μικρό είναι στ' αλήθεια."
+      },
+      "check": {
+        "q": {"en": "According to the contrast principle, what does a clothing shop sell first?", "el": "Σύμφωνα με την αρχή της αντίθεσης, τι πουλά πρώτα ένα κατάστημα ρούχων;"},
+        "options": [
+          {"en": "The expensive suit, then the accessories", "el": "Το ακριβό κοστούμι και μετά τα αξεσουάρ"},
+          {"en": "The cheap accessories, then the suit", "el": "Τα φθηνά αξεσουάρ και μετά το κοστούμι"},
+          {"en": "Anything; the order does not matter", "el": "Οτιδήποτε, η σειρά δεν παίζει ρόλο"}
+        ],
+        "answer": 0,
+        "why": {"en": "After the big price, the small ones feel like nothing. In the opposite order the suit would feel even more expensive.", "el": "Μετά τη μεγάλη τιμή, οι μικρές δεν φαίνονται τίποτα. Με την αντίθετη σειρά, το κοστούμι θα φαινόταν ακόμα πιο ακριβό."}
+      }
+    },
+    {
+      "title": {"en": "Reciprocity: give first", "el": "Ανταπόδοση: δώσε πρώτος"},
+      "explain": {
+        "en": "When someone gives us something, we feel we owe them. This rule exists in every human society, because it lets people share and trade without fear. The feeling is strong: it works even with gifts we never asked for and with people we do not like, and we often give back more than we received, just to stop feeling in debt.",
+        "el": "Όταν κάποιος μας δίνει κάτι, νιώθουμε ότι του χρωστάμε. Ο κανόνας αυτός υπάρχει σε κάθε ανθρώπινη κοινωνία, γιατί έτσι οι άνθρωποι μοιράζονται και συναλλάσσονται χωρίς φόβο. Το συναίσθημα είναι δυνατό: πιάνει ακόμα και με δώρα που δεν ζητήσαμε και με ανθρώπους που δεν συμπαθούμε. Συχνά μάλιστα δίνουμε πίσω περισσότερα απ' όσα πήραμε, μόνο και μόνο για να ξεχρεώσουμε."
+      },
+      "example": {
+        "en": "In Dennis Regan's experiment, a man called Joe brought a participant a Coke without being asked. Later Joe asked him to buy raffle tickets. Those who had received the Coke bought twice as many, whether they liked Joe or not. The Hare Krishna raised millions by first pressing a flower into travellers' hands.",
+        "el": "Σε πείραμα του Ντένις Ρίγκαν, ένας τύπος, ο Τζο, έφερε σε έναν συμμετέχοντα μια Coca-Cola χωρίς να του τη ζητήσει. Αργότερα του ζήτησε να αγοράσει λαχνούς. Όσοι είχαν πάρει την Coca-Cola αγόρασαν διπλάσιους, είτε συμπαθούσαν τον Τζο είτε όχι. Οι Χάρε Κρίσνα μάζεψαν εκατομμύρια βάζοντας πρώτα ένα λουλούδι στο χέρι των περαστικών."
+      },
+      "apply": {
+        "en": "Give first, and give something real. Before the meeting send the dentist three honest observations about how his practice appears on Google, free, with no conditions. Your biggest gift already exists: you build the first draft before he pays anything. Say it clearly on every call.",
+        "el": "Δώσε πρώτος, και δώσε κάτι αληθινό. Πριν από το ραντεβού, στείλε στον οδοντίατρο τρεις ειλικρινείς παρατηρήσεις για το πώς φαίνεται το ιατρείο του στο Google, δωρεάν και χωρίς όρους. Το μεγαλύτερο δώρο σου υπάρχει ήδη: φτιάχνεις το πρώτο draft πριν πληρώσει οτιδήποτε. Πες το καθαρά σε κάθε τηλεφώνημα."
+      },
+      "check": {
+        "q": {"en": "Why did the people who got a Coke buy more raffle tickets?", "el": "Γιατί όσοι πήραν την Coca-Cola αγόρασαν περισσότερους λαχνούς;"},
+        "options": [
+          {"en": "They liked Joe more than the others did", "el": "Συμπαθούσαν τον Τζο περισσότερο από τους άλλους"},
+          {"en": "They really wanted to win the prize", "el": "Ήθελαν πολύ να κερδίσουν το δώρο"},
+          {"en": "They felt they owed him for the gift", "el": "Ένιωθαν ότι του χρωστούν για το δώρο"}
+        ],
+        "answer": 2,
+        "why": {"en": "The feeling of debt worked even for people who did not like Joe. That is the power of reciprocity.", "el": "Το αίσθημα του χρέους δούλεψε ακόμα και σε όσους δεν συμπαθούσαν τον Τζο. Αυτή είναι η δύναμη της ανταπόδοσης."}
+      }
+    },
+    {
+      "title": {"en": "Reject, then retreat", "el": "Πρώτα το μεγάλο, μετά το μικρό"},
+      "explain": {
+        "en": "Ask first for something big that will probably be refused. Then step back to the smaller thing you really wanted. Your step back looks like a concession, so the other person feels he should give something back, and says yes. The smaller request also looks tiny next to the big one. The first request must be reasonable, not absurd, or the trick shows.",
+        "el": "Ζήτα πρώτα κάτι μεγάλο, που μάλλον θα σου το αρνηθούν. Μετά κάνε πίσω και ζήτα το μικρότερο, αυτό που ήθελες εξαρχής. Η υποχώρησή σου μοιάζει με παραχώρηση, οπότε ο άλλος νιώθει ότι πρέπει να ανταποδώσει, και λέει «ναι». Επιπλέον, δίπλα στο μεγάλο, το μικρό φαίνεται ασήμαντο. Το πρώτο αίτημα πρέπει να είναι λογικό, όχι εξωφρενικό, αλλιώς φαίνεται το κόλπο."
+      },
+      "example": {
+        "en": "Cialdini asked students to take young offenders on a day trip to the zoo: 17% agreed. When he first asked them to volunteer two hours a week for two years (everyone refused) and only then asked for the zoo trip, about 50% said yes.",
+        "el": "Ο Τσιαλντίνι ζήτησε από φοιτητές να συνοδεύσουν ανήλικους παραβάτες σε μια εκδρομή στον ζωολογικό κήπο: δέχτηκε το 17%. Όταν πρώτα τους ζήτησε να δουλεύουν εθελοντικά δύο ώρες την εβδομάδα για δύο χρόνια (αρνήθηκαν όλοι) και μόνο μετά ζήτησε την εκδρομή, δέχτηκε περίπου το 50%."
+      },
+      "apply": {
+        "en": "Ask the doctor on the phone for a 30-minute meeting at the practice. If he says no, step back: «Then just 10 minutes on a video call. I show you two websites of colleagues and you decide.» The second request now feels easy to accept.",
+        "el": "Ζήτα από τον γιατρό στο τηλέφωνο ένα ραντεβού μισής ώρας στο ιατρείο. Αν πει όχι, κάνε πίσω: «Τότε μόνο 10 λεπτά σε βιντεοκλήση. Σας δείχνω δύο ιστοσελίδες συναδέλφων και αποφασίζετε». Το δεύτερο αίτημα μοιάζει πια εύκολο."
+      },
+      "check": {
+        "q": {"en": "Why does the smaller second request get more yeses?", "el": "Γιατί το δεύτερο, μικρότερο αίτημα παίρνει περισσότερα «ναι»;"},
+        "options": [
+          {"en": "People forget the first request", "el": "Ο άλλος ξεχνά το πρώτο αίτημα"},
+          {"en": "Your retreat feels like a concession he should return", "el": "Η υποχώρησή σου μοιάζει με παραχώρηση που πρέπει να ανταποδώσει"},
+          {"en": "Small requests are always accepted", "el": "Τα μικρά αιτήματα γίνονται πάντα δεκτά"}
+        ],
+        "answer": 1,
+        "why": {"en": "It is reciprocity plus contrast: you gave ground, so he feels he should too.", "el": "Είναι ανταπόδοση μαζί με αντίθεση: εσύ υποχώρησες, άρα νιώθει ότι πρέπει κι εκείνος."}
+      }
+    },
+    {
+      "title": {"en": "Commitment and consistency", "el": "Δέσμευση και συνέπεια"},
+      "explain": {
+        "en": "Once we take a position, we feel pressure, from inside and from others, to keep acting in line with it. Nobody wants to look or feel inconsistent. So a small first yes matters more than it seems: it changes how we see ourselves («I am the kind of person who...»), and the bigger yes follows almost by itself. This is the foot-in-the-door technique.",
+        "el": "Μόλις πάρουμε μια θέση, νιώθουμε πίεση, από μέσα μας και από τους άλλους, να συνεχίσουμε να φερόμαστε σύμφωνα με αυτήν. Κανείς δεν θέλει να φαίνεται ή να νιώθει ασυνεπής. Γι' αυτό ένα μικρό πρώτο «ναι» μετρά περισσότερο απ' όσο δείχνει: αλλάζει το πώς βλέπουμε τον εαυτό μας («είμαι άνθρωπος που...»), και το μεγαλύτερο «ναι» έρχεται σχεδόν μόνο του. Αυτή είναι η τεχνική «το πόδι στην πόρτα»."
+      },
+      "example": {
+        "en": "Researchers asked California homeowners to put a huge, ugly «Drive Carefully» billboard on their lawn. Only 17% agreed. Another group had been asked two weeks earlier to display a tiny «Be a safe driver» sign. Of those, 76% accepted the billboard: they now saw themselves as people who support road safety.",
+        "el": "Ερευνητές ζήτησαν από ιδιοκτήτες σπιτιών στην Καλιφόρνια να βάλουν στον κήπο τους μια τεράστια, άσχημη πινακίδα «Οδηγείτε προσεκτικά». Δέχτηκε μόνο το 17%. Από μια άλλη ομάδα είχαν ζητήσει, δύο εβδομάδες νωρίτερα, να βάλει ένα μικροσκοπικό αυτοκόλλητο «Οδηγώ με ασφάλεια». Από αυτούς δέχτηκε τη μεγάλη πινακίδα το 76%: έβλεπαν πια τον εαυτό τους ως ανθρώπους που στηρίζουν την οδική ασφάλεια."
+      },
+      "apply": {
+        "en": "Start with a small, honest yes. Do not ask for the sale on the cold call. Ask: «Do you agree that a patient who hears about you will first look you up on Google?» Then ask only for ten minutes. Each small yes makes the next step feel natural.",
+        "el": "Ξεκίνα με ένα μικρό, τίμιο «ναι». Μη ζητάς την πώληση στο cold call. Ρώτα: «Συμφωνείτε ότι ο ασθενής που ακούει για εσάς θα σας ψάξει πρώτα στο Google;» Μετά ζήτα μόνο δέκα λεπτά. Κάθε μικρό «ναι» κάνει το επόμενο βήμα να μοιάζει φυσικό."
+      },
+      "check": {
+        "q": {"en": "Why does a small first yes lead to a bigger one?", "el": "Γιατί ένα μικρό πρώτο «ναι» οδηγεί σε ένα μεγαλύτερο;"},
+        "options": [
+          {"en": "The person gets tired of saying no", "el": "Ο άλλος κουράζεται να λέει όχι"},
+          {"en": "Small requests are quickly forgotten", "el": "Τα μικρά αιτήματα ξεχνιούνται γρήγορα"},
+          {"en": "He now sees himself as someone who supports it", "el": "Βλέπει πια τον εαυτό του ως κάποιον που το στηρίζει"}
+        ],
+        "answer": 2,
+        "why": {"en": "The small act changes his self-image, and people act in line with who they believe they are.", "el": "Η μικρή πράξη αλλάζει την εικόνα που έχει για τον εαυτό του, και οι άνθρωποι φέρονται σύμφωνα με αυτό που πιστεύουν ότι είναι."}
+      }
+    },
+    {
+      "title": {"en": "The power of writing", "el": "Η δύναμη του γραπτού"},
+      "explain": {
+        "en": "A commitment has the most power when it is active, public, takes some effort and is freely chosen. Writing does all of that. What we write with our own hand becomes proof, to us and to others, of what we believe. And when there is no big reward or threat behind it, we tell ourselves «I chose this», so the commitment holds for years.",
+        "el": "Μια δέσμευση έχει τη μεγαλύτερη δύναμη όταν είναι ενεργή, δημόσια, θέλει λίγο κόπο και γίνεται ελεύθερα. Το γράψιμο τα έχει όλα. Ό,τι γράφουμε με το χέρι μας γίνεται απόδειξη, για εμάς και για τους άλλους, του τι πιστεύουμε. Και όταν δεν υπάρχει μεγάλη ανταμοιβή ή απειλή από πίσω, λέμε στον εαυτό μας «εγώ το διάλεξα», οπότε η δέσμευση κρατά χρόνια."
+      },
+      "example": {
+        "en": "In the Korean War, Chinese camp officers asked American prisoners to write mild statements such as «America is not perfect», and ran essay contests with tiny prizes like a few cigarettes. Many prisoners slowly came to believe what they had written. Amway asks its sellers to write down their goals for the same reason.",
+        "el": "Στον πόλεμο της Κορέας, οι Κινέζοι αξιωματικοί των στρατοπέδων ζητούσαν από τους Αμερικανούς αιχμαλώτους να γράφουν ήπιες δηλώσεις, όπως «η Αμερική δεν είναι τέλεια», και έκαναν διαγωνισμούς έκθεσης με ασήμαντα έπαθλα, λίγα τσιγάρα. Πολλοί αιχμάλωτοι άρχισαν σιγά σιγά να πιστεύουν όσα είχαν γράψει. Για τον ίδιο λόγο η Amway ζητά από τους πωλητές της να γράφουν τους στόχους τους."
+      },
+      "apply": {
+        "en": "Let the client write things himself. Ask him in the meeting which three things his site must do for the practice, and ask him to send them to you in a message. After the call have him confirm the next step in writing: «Thursday at 6 I send the photos.» People keep what they wrote.",
+        "el": "Άφησε τον πελάτη να γράψει ο ίδιος. Ρώτα τον στο ραντεβού ποια τρία πράγματα πρέπει να κάνει η ιστοσελίδα για το ιατρείο του, και ζήτα να σου τα στείλει με μήνυμα. Μετά το τηλεφώνημα, βάλ' τον να επιβεβαιώσει γραπτά το επόμενο βήμα: «Πέμπτη στις 6 στέλνω τις φωτογραφίες». Ό,τι γράφει κανείς, το τηρεί."
+      },
+      "check": {
+        "q": {"en": "Which commitment holds best?", "el": "Ποια δέσμευση κρατά περισσότερο;"},
+        "options": [
+          {"en": "One written by hand, publicly, by free choice", "el": "Αυτή που γράφεται με το χέρι, δημόσια, με ελεύθερη επιλογή"},
+          {"en": "One said quickly and in private", "el": "Αυτή που λέγεται γρήγορα και ιδιωτικά"},
+          {"en": "One made in order to win a big prize", "el": "Αυτή που γίνεται για ένα μεγάλο έπαθλο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Active, public, effortful and freely chosen commitments change how we see ourselves. A big prize gives us an outside excuse instead.", "el": "Οι ενεργές, δημόσιες, κοπιαστικές και ελεύθερες δεσμεύσεις αλλάζουν την εικόνα που έχουμε για εμάς. Το μεγάλο έπαθλο μας δίνει, αντίθετα, μια εξωτερική δικαιολογία."}
+      }
+    },
+    {
+      "title": {"en": "The lowball trick", "el": "Το κόλπο της δελεαστικής τιμής"},
+      "explain": {
+        "en": "A dishonest seller offers a great deal to get your decision. Once you have decided, you build your own new reasons to like the choice. Then the good deal is taken away, «by mistake», and you still buy, because your decision now stands on the reasons you created yourself. Cialdini says a commitment «grows its own legs».",
+        "el": "Ένας ανέντιμος πωλητής σού προσφέρει μια φοβερή τιμή για να πάρει την απόφασή σου. Μόλις αποφασίσεις, βρίσκεις μόνος σου καινούριους λόγους που σου αρέσει η επιλογή. Τότε η καλή τιμή χάνεται, «κατά λάθος», κι εσύ αγοράζεις παρ' όλα αυτά, γιατί η απόφαση στηρίζεται πια στους λόγους που έφτιαξες εσύ. Ο Τσιαλντίνι λέει ότι η δέσμευση «βγάζει δικά της πόδια»."
+      },
+      "example": {
+        "en": "Some car dealers quote a price far below the competition, let the customer drive the car for a day and fill in the forms, then «discover an error» and raise the price. Most still buy. In Cialdini's own study, 24% of students agreed to a 7 a.m. experiment when told the hour first, but 56% when the hour came after their yes.",
+        "el": "Κάποιοι έμποροι αυτοκινήτων δίνουν τιμή πολύ κάτω από τον ανταγωνισμό, αφήνουν τον πελάτη να οδηγήσει το αυτοκίνητο μια μέρα και να συμπληρώσει τα χαρτιά, και μετά «ανακαλύπτουν ένα λάθος» και ανεβάζουν την τιμή. Οι περισσότεροι αγοράζουν έτσι κι αλλιώς. Σε μελέτη του ίδιου του Τσιαλντίνι, το 24% των φοιτητών δέχτηκε να έρθει σε πείραμα στις 7 το πρωί όταν έμαθε την ώρα από την αρχή, αλλά το 56% όταν την έμαθε αφού είχε πει «ναι»."
+      },
+      "apply": {
+        "en": "Never use this. It is a trick, and in a small market like Greek doctors it kills your referrals. Do the opposite: state every cost up front (hosting, domain, VAT, what changes cost after launch). When a supplier lowballs you, ask: «If I had known the final price from the start, would I have chosen this?»",
+        "el": "Μην το χρησιμοποιήσεις ποτέ. Είναι κόλπο, και σε μια μικρή αγορά όπως οι Έλληνες γιατροί σκοτώνει τις συστάσεις σου. Κάνε το αντίθετο: πες όλα τα κόστη από την αρχή (φιλοξενία, domain, ΦΠΑ, πόσο κοστίζουν οι αλλαγές μετά τη δημοσίευση). Κι όταν το κάνει προμηθευτής σε εσένα, ρώτα: «Αν ήξερα την τελική τιμή από την αρχή, θα το διάλεγα;»"
+      },
+      "check": {
+        "q": {"en": "Why does the lowball work on the buyer?", "el": "Γιατί πιάνει το κόλπο στον αγοραστή;"},
+        "options": [
+          {"en": "The final price is still the lowest around", "el": "Η τελική τιμή παραμένει η χαμηλότερη της αγοράς"},
+          {"en": "After deciding, he built his own reasons to stay", "el": "Αφού αποφάσισε, έφτιαξε δικούς του λόγους να μείνει"},
+          {"en": "He does not notice that the price changed", "el": "Δεν προσέχει ότι η τιμή άλλαξε"}
+        ],
+        "answer": 1,
+        "why": {"en": "The original reason (the price) is removed, but the decision now stands on new supports he added himself.", "el": "Ο αρχικός λόγος (η τιμή) αφαιρείται, όμως η απόφαση στέκεται πια σε νέα στηρίγματα που πρόσθεσε ο ίδιος."}
+      }
+    },
+    {
+      "title": {"en": "Social proof", "el": "Κοινωνική απόδειξη"},
+      "explain": {
+        "en": "To decide what is right, we look at what other people do. If many do it, it must be correct. This shortcut works most strongly in two cases: when we are unsure, and when the others are similar to us. That is why «the most popular» sells, and why a recommendation from someone like us beats any advertisement.",
+        "el": "Για να αποφασίσουμε τι είναι σωστό, κοιτάμε τι κάνουν οι άλλοι. Αν το κάνουν πολλοί, θα είναι σωστό. Η συντόμευση αυτή δουλεύει πιο δυνατά σε δύο περιπτώσεις: όταν δεν είμαστε σίγουροι, και όταν οι άλλοι μάς μοιάζουν. Γι' αυτό πουλά το «πρώτο σε πωλήσεις», και γι' αυτό η σύσταση από κάποιον σαν εμάς νικά κάθε διαφήμιση."
+      },
+      "example": {
+        "en": "Bartenders put a few notes in the tip jar at the start of the night so that tipping looks normal. TV comedies use recorded laughter because audiences laugh longer with it. Albert Bandura helped children get over their fear of dogs by showing them another child of their age happily playing with a dog.",
+        "el": "Οι μπάρμαν βάζουν από την αρχή της βραδιάς λίγα χαρτονομίσματα στο βάζο με τα φιλοδωρήματα, για να φαίνεται φυσικό να αφήσεις κι εσύ. Οι κωμωδίες στην τηλεόραση βάζουν ηχογραφημένα γέλια, γιατί έτσι το κοινό γελά περισσότερο. Ο Άλμπερτ Μπαντούρα βοήθησε παιδιά να ξεπεράσουν τον φόβο τους για τα σκυλιά δείχνοντάς τους ένα παιδί της ηλικίας τους να παίζει χαρούμενο με ένα σκυλί."
+      },
+      "apply": {
+        "en": "Show the doctor people like him, and only real ones. Say: «I have built the sites of many dentists. Here are two colleagues in your specialty; open them now on your phone.» Mention the dozens of real Google reviews. The same specialty convinces more than any big number.",
+        "el": "Δείξε στον γιατρό ανθρώπους σαν κι αυτόν, και μόνο αληθινούς. Πες: «Έχω φτιάξει τις ιστοσελίδες πολλών οδοντιάτρων. Να δύο συνάδελφοι της ειδικότητάς σας, ανοίξτε τους τώρα στο κινητό». Ανάφερε τις δεκάδες πραγματικές κριτικές στο Google. Η ίδια ειδικότητα πείθει περισσότερο από κάθε μεγάλο νούμερο."
+      },
+      "check": {
+        "q": {"en": "When is social proof strongest?", "el": "Πότε είναι πιο δυνατή η κοινωνική απόδειξη;"},
+        "options": [
+          {"en": "When we are sure and the others are different", "el": "Όταν είμαστε σίγουροι και οι άλλοι διαφέρουν από εμάς"},
+          {"en": "When the others are rich and famous", "el": "Όταν οι άλλοι είναι πλούσιοι και διάσημοι"},
+          {"en": "When we are unsure and the others are like us", "el": "Όταν δεν είμαστε σίγουροι και οι άλλοι μάς μοιάζουν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Uncertainty makes us look around, and we copy the people we see as similar to us.", "el": "Η αβεβαιότητα μας κάνει να κοιτάμε γύρω μας, και αντιγράφουμε όσους θεωρούμε ότι μας μοιάζουν."}
+      }
+    },
+    {
+      "title": {"en": "Pluralistic ignorance", "el": "Πλουραλιστική άγνοια"},
+      "explain": {
+        "en": "In an unclear situation everyone looks at everyone else to understand what is going on. Everyone also tries to look calm. So each person sees calm faces and concludes that nothing is wrong. That is how a crowd can do nothing while someone needs help. It is not coldness; it is uncertainty. And the more people are present, the less responsible each one feels.",
+        "el": "Σε μια θολή κατάσταση όλοι κοιτούν τους άλλους για να καταλάβουν τι συμβαίνει. Όλοι επίσης προσπαθούν να δείχνουν ψύχραιμοι. Έτσι ο καθένας βλέπει ήρεμα πρόσωπα και συμπεραίνει ότι δεν τρέχει τίποτα. Γι' αυτό ένα πλήθος μπορεί να μην κάνει τίποτα ενώ κάποιος χρειάζεται βοήθεια. Δεν είναι αναισθησία, είναι αβεβαιότητα. Και όσο περισσότεροι είναι παρόντες, τόσο λιγότερο υπεύθυνος νιώθει ο καθένας."
+      },
+      "example": {
+        "en": "Latané and Darley let smoke come into a room through a vent. People sitting alone reported it 75% of the time. When a person sat with two others who stayed calm, only 10% reported it. Cialdini himself, hurt in a car accident, got help only when he pointed at one driver and gave him a clear order.",
+        "el": "Οι Λατανέ και Ντάρλεϊ άφησαν καπνό να μπει σε ένα δωμάτιο από έναν αεραγωγό. Όσοι κάθονταν μόνοι τους το ανέφεραν στο 75% των περιπτώσεων. Όταν κάποιος καθόταν με δύο άλλους που έμεναν ατάραχοι, το ανέφερε μόνο το 10%. Ο ίδιος ο Τσιαλντίνι, τραυματισμένος σε τροχαίο, βρήκε βοήθεια μόνο όταν έδειξε έναν συγκεκριμένο οδηγό και του έδωσε σαφή εντολή."
+      },
+      "apply": {
+        "en": "Never ask a group; ask one person by name, with a clear task and a time. Not «can someone send the client the draft?» in the team chat, but «Maria, please send the draft link to the dentist by 5 today.» In an emergency point: «You, in the blue jacket, call an ambulance.»",
+        "el": "Μη ζητάς ποτέ από μια ομάδα. Ζήτα από έναν άνθρωπο, με το όνομά του, με σαφή δουλειά και ώρα. Όχι «μπορεί κάποιος να στείλει το draft στον πελάτη;» στο ομαδικό chat, αλλά «Μαρία, στείλε σε παρακαλώ το link του draft στον οδοντίατρο μέχρι τις 5 σήμερα». Σε έκτακτη ανάγκη δείξε: «Εσύ, με το μπλε μπουφάν, κάλεσε ασθενοφόρο»."
+      },
+      "check": {
+        "q": {"en": "You need help in a crowd. What works best?", "el": "Χρειάζεσαι βοήθεια μέσα σε πλήθος. Τι πιάνει καλύτερα;"},
+        "options": [
+          {"en": "Point at one person and give a clear instruction", "el": "Δείχνεις έναν άνθρωπο και του δίνεις σαφή οδηγία"},
+          {"en": "Shout as loudly as you can to everyone", "el": "Φωνάζεις όσο πιο δυνατά μπορείς προς όλους"},
+          {"en": "Wait, because someone will surely act", "el": "Περιμένεις, γιατί κάποιος σίγουρα θα κάνει κάτι"}
+        ],
+        "answer": 0,
+        "why": {"en": "One named person can no longer think «someone else will do it» or «maybe it is nothing».", "el": "Ο ένας που έδειξες δεν μπορεί πια να σκεφτεί «θα το κάνει άλλος» ή «μπορεί να μην είναι τίποτα»."}
+      }
+    },
+    {
+      "title": {"en": "Liking", "el": "Συμπάθεια"},
+      "explain": {
+        "en": "We say yes more easily to people we like. Cialdini lists what creates liking: good looks (a «halo» makes us assume other good qualities too), similarity to us, compliments, familiarity through repeated pleasant contact, and working together toward a common goal. That is why a friend's recommendation sells more than a stranger's perfect argument.",
+        "el": "Λέμε πιο εύκολα «ναι» σε όσους συμπαθούμε. Ο Τσιαλντίνι απαριθμεί τι γεννά συμπάθεια: η ωραία εμφάνιση (ένα «φωτοστέφανο» μας κάνει να υποθέτουμε και άλλα καλά), η ομοιότητα με εμάς, τα κομπλιμέντα, η οικειότητα από επαναλαμβανόμενη ευχάριστη επαφή και η συνεργασία για έναν κοινό στόχο. Γι' αυτό η σύσταση ενός φίλου πουλά περισσότερο από το τέλειο επιχείρημα ενός αγνώστου."
+      },
+      "example": {
+        "en": "At a Tupperware party the guests buy from the hostess, their friend, not from the company. Joe Girard, listed by Guinness as the world's top car salesman, sent each of his 13,000 customers a card every month. The occasion changed; the printed message was always the same: «I like you.»",
+        "el": "Σε ένα πάρτι της Tupperware οι καλεσμένες αγοράζουν από την οικοδέσποινα, τη φίλη τους, όχι από την εταιρεία. Ο Τζο Τζιράρντ, που το Guinness κατέγραψε ως τον κορυφαίο πωλητή αυτοκινήτων στον κόσμο, έστελνε σε κάθε έναν από τους 13.000 πελάτες του μια κάρτα τον μήνα. Η αφορμή άλλαζε. Το τυπωμένο μήνυμα ήταν πάντα το ίδιο: «Σε συμπαθώ»."
+      },
+      "apply": {
+        "en": "Find something real you share before you sell: the same town, the same university, a colleague you both know. Give one honest, specific compliment: «Your reviews keep mentioning how calm you are with children; that is rare.» Never fake it. A true detail is easy to find in two minutes.",
+        "el": "Βρες κάτι αληθινό που έχετε κοινό πριν πουλήσεις: η ίδια πόλη, το ίδιο πανεπιστήμιο, ένας συνάδελφος που γνωρίζετε και οι δύο. Κάνε ένα ειλικρινές, συγκεκριμένο κομπλιμέντο: «Οι κριτικές σας γράφουν συνέχεια πόσο ήρεμος είστε με τα παιδιά, είναι σπάνιο». Μην το κάνεις ποτέ ψεύτικα. Μια αληθινή λεπτομέρεια τη βρίσκεις σε δύο λεπτά."
+      },
+      "check": {
+        "q": {"en": "Which of these does Cialdini name as a cause of liking?", "el": "Ποιο από αυτά αναφέρει ο Τσιαλντίνι ως αιτία συμπάθειας;"},
+        "options": [
+          {"en": "Speaking fast and with confidence", "el": "Να μιλάς γρήγορα και με σιγουριά"},
+          {"en": "Being similar to the other person", "el": "Να μοιάζεις με τον άλλον"},
+          {"en": "Offering the lowest price", "el": "Να δίνεις τη χαμηλότερη τιμή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Similarity, compliments, good looks, familiarity and cooperation are the sources of liking in the book.", "el": "Ομοιότητα, κομπλιμέντα, εμφάνιση, οικειότητα και συνεργασία είναι οι πηγές της συμπάθειας στο βιβλίο."}
+      }
+    },
+    {
+      "title": {"en": "Association", "el": "Ο συνειρμός"},
+      "explain": {
+        "en": "A feeling moves from one thing to whatever stands next to it. The messenger of bad news is disliked although he did not cause it. A product shown beside something loved borrows that love. We do it ourselves: we connect our name to winners and keep our distance from losers. People judge you partly by what you appear together with.",
+        "el": "Ένα συναίσθημα περνά από ένα πράγμα σε ό,τι βρίσκεται δίπλα του. Αυτός που φέρνει τα άσχημα νέα γίνεται αντιπαθής, αν και δεν τα προκάλεσε. Ένα προϊόν που εμφανίζεται δίπλα σε κάτι αγαπητό δανείζεται την αγάπη. Το κάνουμε κι εμείς: δένουμε το όνομά μας με τους νικητές και κρατάμε απόσταση από τους χαμένους. Οι άλλοι σε κρίνουν και από το δίπλα σε τι εμφανίζεσαι."
+      },
+      "example": {
+        "en": "TV weather forecasters receive angry letters, even threats, about rain they only announced. Cialdini's study of university football fans found that after a win students said «we won» and wore the university's shirts; after a loss they said «they lost». Gregory Razran found that people liked political statements more when they heard them while eating.",
+        "el": "Οι μετεωρολόγοι της τηλεόρασης δέχονται οργισμένα γράμματα, ακόμα και απειλές, για τη βροχή που απλώς ανακοίνωσαν. Μελέτη του Τσιαλντίνι σε οπαδούς πανεπιστημιακών ομάδων έδειξε ότι μετά από νίκη οι φοιτητές έλεγαν «νικήσαμε» και φορούσαν τις μπλούζες του πανεπιστημίου. Μετά από ήττα έλεγαν «έχασαν». Ο Γκρέγκορι Ράζραν βρήκε ότι οι άνθρωποι συμπαθούσαν περισσότερο πολιτικές θέσεις που άκουγαν ενώ έτρωγαν."
+      },
+      "apply": {
+        "en": "Bring the good news yourself: call the client personally when his site goes live or when his first patient arrives from Google. Deliver bad news too, such as a delay, but always together with the solution, so the last thing he connects with you is the fix.",
+        "el": "Φέρε εσύ ο ίδιος τα καλά νέα: πάρε προσωπικά τηλέφωνο τον πελάτη όταν η ιστοσελίδα του βγει live ή όταν του έρθει ο πρώτος ασθενής από το Google. Πες και τα άσχημα, όπως μια καθυστέρηση, αλλά πάντα μαζί με τη λύση, ώστε το τελευταίο πράγμα που θα συνδέσει μαζί σου να είναι η λύση."
+      },
+      "check": {
+        "q": {"en": "Why are weather forecasters blamed for bad weather?", "el": "Γιατί κατηγορούν τους μετεωρολόγους για τον κακό καιρό;"},
+        "options": [
+          {"en": "People connect the messenger with his news", "el": "Ο κόσμος συνδέει τον αγγελιοφόρο με τα νέα του"},
+          {"en": "Their predictions are often wrong", "el": "Οι προβλέψεις τους βγαίνουν συχνά λάθος"},
+          {"en": "People think they are paid too much", "el": "Ο κόσμος θεωρεί ότι πληρώνονται υπερβολικά"}
+        ],
+        "answer": 0,
+        "why": {"en": "The bad feeling about the rain moves to the person standing next to it, even though he did not cause it.", "el": "Το άσχημο συναίσθημα για τη βροχή περνά στον άνθρωπο που στέκεται δίπλα της, αν και δεν την προκάλεσε."}
+      }
+    },
+    {
+      "title": {"en": "Authority", "el": "Κύρος και αυθεντία"},
+      "explain": {
+        "en": "From childhood we learn that obeying those who know more usually pays. So we obey almost automatically, and often we react to the symbols of authority instead of real knowledge: a title, a uniform, a good suit, an expensive car. The symbols are easy to fake, which is why this shortcut is both useful and dangerous.",
+        "el": "Από παιδιά μαθαίνουμε ότι συνήθως μας συμφέρει να ακούμε όσους ξέρουν περισσότερα. Έτσι υπακούμε σχεδόν αυτόματα, και συχνά αντιδρούμε στα σύμβολα του κύρους αντί για την πραγματική γνώση: έναν τίτλο, μια στολή, ένα καλό κοστούμι, ένα ακριβό αυτοκίνητο. Τα σύμβολα πλαστογραφούνται εύκολα, γι' αυτό η συντόμευση αυτή είναι και χρήσιμη και επικίνδυνη."
+      },
+      "example": {
+        "en": "In Stanley Milgram's experiment at Yale, about two thirds of ordinary people gave what they believed were painful electric shocks, up to 450 volts, because a man in a lab coat told them to continue. In a Texas study, three and a half times as many pedestrians followed a man across a red light when he wore a business suit.",
+        "el": "Στο πείραμα του Στάνλεϊ Μίλγκραμ στο Γέιλ, περίπου τα δύο τρίτα απλών ανθρώπων έδωσαν ηλεκτροσόκ που πίστευαν ότι ήταν επώδυνα, μέχρι τα 450 βολτ, επειδή ένας άντρας με λευκή ποδιά τούς είπε να συνεχίσουν. Σε μελέτη στο Τέξας, τρεισήμισι φορές περισσότεροι πεζοί ακολούθησαν έναν άντρα που περνούσε με κόκκινο όταν φορούσε κοστούμι."
+      },
+      "apply": {
+        "en": "Show real expertise early and without bragging. On the call: «We have more than 200 live websites, most of them for doctors.» In the meeting dress well and open the laptop on a real result. Admit one small weakness first («we are a small team»); experts who do that are believed more.",
+        "el": "Δείξε νωρίς αληθινή εμπειρία, χωρίς καύχημα. Στο τηλέφωνο: «Έχουμε πάνω από 200 ιστοσελίδες live, οι περισσότερες για γιατρούς». Στο ραντεβού ντύσου καλά και άνοιξε το laptop σε ένα πραγματικό αποτέλεσμα. Παραδέξου πρώτα μια μικρή αδυναμία («είμαστε μικρή ομάδα»). Τον ειδικό που το κάνει αυτό τον πιστεύουν περισσότερο."
+      },
+      "check": {
+        "q": {"en": "What did Milgram's experiment show?", "el": "Τι έδειξε το πείραμα του Μίλγκραμ;"},
+        "options": [
+          {"en": "Most people enjoy hurting others", "el": "Οι περισσότεροι χαίρονται να πονούν τους άλλους"},
+          {"en": "Uniforms make ordinary people nervous", "el": "Οι στολές αγχώνουν τους απλούς ανθρώπους"},
+          {"en": "Ordinary people obey authority against their conscience", "el": "Απλοί άνθρωποι υπακούν στο κύρος κόντρα στη συνείδησή τους"}
+        ],
+        "answer": 2,
+        "why": {"en": "The participants suffered while doing it, but they kept going because an authority figure took responsibility.", "el": "Οι συμμετέχοντες υπέφεραν ενώ το έκαναν, αλλά συνέχισαν επειδή κάποιος με κύρος πήρε την ευθύνη."}
+      }
+    },
+    {
+      "title": {"en": "Scarcity", "el": "Σπανιότητα"},
+      "explain": {
+        "en": "Things look more valuable when they are few or about to disappear. The thought of losing something moves us more than the thought of gaining the same thing. Two details make it stronger: when something has just become scarce, and when other people are competing for it. Then we stop thinking and start grabbing.",
+        "el": "Τα πράγματα μοιάζουν πιο πολύτιμα όταν είναι λίγα ή όταν πάνε να χαθούν. Η σκέψη ότι θα χάσουμε κάτι μάς κινητοποιεί περισσότερο από τη σκέψη ότι θα κερδίσουμε το ίδιο πράγμα. Δύο λεπτομέρειες το δυναμώνουν: όταν κάτι έγινε σπάνιο μόλις τώρα, και όταν το διεκδικούν και άλλοι. Τότε σταματάμε να σκεφτόμαστε και απλώνουμε το χέρι."
+      },
+      "example": {
+        "en": "Stephen Worchel gave people chocolate cookies from a jar. The same cookies were rated as more desirable and more valuable when the jar held two than when it held ten, and most of all when a full jar had just been reduced to two. Homeowners told how much money they were losing without insulation insulated more often than those told how much they would save.",
+        "el": "Ο Στίβεν Γουόρτσελ έδωσε σε ανθρώπους μπισκότα σοκολάτας από ένα βάζο. Τα ίδια μπισκότα βαθμολογήθηκαν ως πιο επιθυμητά και πιο πολύτιμα όταν το βάζο είχε δύο παρά όταν είχε δέκα, και περισσότερο απ' όλα όταν ένα γεμάτο βάζο είχε μόλις αδειάσει στα δύο. Ιδιοκτήτες σπιτιών που άκουσαν πόσα χρήματα χάνουν χωρίς μόνωση έβαλαν μόνωση πιο συχνά από όσους άκουσαν πόσα θα γλιτώσουν."
+      },
+      "apply": {
+        "en": "Talk about what he is losing, truthfully: «Every month, people who search for your specialty in your area find a colleague instead of you.» Use only real limits: say «we can start two more sites this week» only when it is true. Invented urgency destroys your name for good.",
+        "el": "Μίλα για αυτό που χάνει, με αλήθεια: «Κάθε μήνα, όσοι ψάχνουν την ειδικότητά σας στην περιοχή σας βρίσκουν έναν συνάδελφο αντί για εσάς». Χρησιμοποίησε μόνο αληθινά όρια: πες «αυτή την εβδομάδα χωράνε άλλες δύο ιστοσελίδες» μόνο αν ισχύει. Η ψεύτικη βιασύνη καταστρέφει το όνομά σου για πάντα."
+      },
+      "check": {
+        "q": {"en": "Which message moves people more?", "el": "Ποιο μήνυμα κινητοποιεί περισσότερο;"},
+        "options": [
+          {"en": "«You will gain 100 euros a year»", "el": "«Θα κερδίζετε 100 ευρώ τον χρόνο»"},
+          {"en": "«You are losing 100 euros a year»", "el": "«Χάνετε 100 ευρώ τον χρόνο»"},
+          {"en": "Both move people exactly the same", "el": "Και τα δύο κινητοποιούν ακριβώς το ίδιο"}
+        ],
+        "answer": 1,
+        "why": {"en": "The fear of loss is a stronger push than the hope of an equal gain.", "el": "Ο φόβος της απώλειας σπρώχνει πιο δυνατά από την ελπίδα για ένα ίσο κέρδος."}
+      }
+    },
+    {
+      "title": {"en": "The forbidden is wanted more", "el": "Το απαγορευμένο το θέλουμε πιο πολύ"},
+      "explain": {
+        "en": "When a freedom is taken from us, we want it back more than before. Psychologists call this reactance. A forbidden thing becomes more attractive. With information it goes further: banned information is not only wanted more, it is believed more, even by people who never saw it. Information that only a few people have also persuades more.",
+        "el": "Όταν μας παίρνουν μια ελευθερία, τη θέλουμε πίσω περισσότερο από πριν. Οι ψυχολόγοι το λένε ψυχολογική αντίδραση (reactance). Το απαγορευμένο γίνεται πιο ελκυστικό. Με την πληροφορία πάει ακόμα πιο μακριά: τη λογοκριμένη πληροφορία όχι μόνο τη θέλουμε περισσότερο, αλλά και την πιστεύουμε περισσότερο, ακόμα κι αν δεν την είδαμε ποτέ. Και η πληροφορία που την έχουν λίγοι πείθει περισσότερο."
+      },
+      "example": {
+        "en": "When the Miami area banned phosphate detergents, residents drove to other counties to smuggle them in and rated them as better cleaners than before. Students at the University of North Carolina who learned that a speech against mixed dormitories would be banned became more opposed to mixed dormitories, without hearing a word of it.",
+        "el": "Όταν η περιοχή του Μαϊάμι απαγόρευσε τα απορρυπαντικά με φωσφορικά, οι κάτοικοι πήγαιναν σε άλλες κομητείες για να τα φέρουν κρυφά, και τα θεωρούσαν πιο αποτελεσματικά από πριν. Φοιτητές στο Πανεπιστήμιο της Βόρειας Καρολίνας, όταν έμαθαν ότι θα απαγορευτεί μια ομιλία κατά των μικτών εστιών, έγιναν πιο αρνητικοί απέναντι στις μικτές εστίες, χωρίς να ακούσουν λέξη από την ομιλία."
+      },
+      "apply": {
+        "en": "Never push or corner a client; he will want the opposite. Give him back his freedom: «It is completely your decision. If the draft does not suit you, you owe nothing.» And when you have real news nobody has heard yet, tell your good clients first and say that they are the first to hear it.",
+        "el": "Μην πιέζεις και μη στριμώχνεις ποτέ έναν πελάτη, θα θελήσει το αντίθετο. Δώσ' του πίσω την ελευθερία του: «Η απόφαση είναι εντελώς δική σας. Αν το draft δεν σας ταιριάζει, δεν χρωστάτε τίποτα». Κι όταν έχεις ένα αληθινό νέο που δεν το έχει ακούσει κανείς, πες το πρώτα στους καλούς σου πελάτες και πες τους ότι το μαθαίνουν πρώτοι."
+      },
+      "check": {
+        "q": {"en": "A speech is banned. What tends to happen to people's opinion?", "el": "Μια ομιλία απαγορεύεται. Τι παθαίνει συνήθως η γνώμη του κόσμου;"},
+        "options": [
+          {"en": "It moves toward the banned message", "el": "Γέρνει προς το απαγορευμένο μήνυμα"},
+          {"en": "People lose interest in the subject", "el": "Ο κόσμος χάνει το ενδιαφέρον για το θέμα"},
+          {"en": "People trust the one who banned it", "el": "Ο κόσμος εμπιστεύεται αυτόν που την απαγόρευσε"}
+        ],
+        "answer": 0,
+        "why": {"en": "Banned information is wanted more and believed more, even unheard. That is reactance.", "el": "Τη λογοκριμένη πληροφορία τη θέλουμε και την πιστεύουμε περισσότερο, ακόμα κι αν δεν την ακούσαμε. Αυτό είναι η ψυχολογική αντίδραση."}
+      }
+    },
+    {
+      "title": {"en": "Instant influence", "el": "Η εποχή της στιγμιαίας απόφασης"},
+      "explain": {
+        "en": "Life gets faster and fuller of information, so we have less time to think each decision through. That means we will lean on single signals (reviews, stars, titles, «bestseller») more and more. Cialdini's point: the shortcuts are not the enemy; we need them. The enemy is the person who fakes the signal, because he poisons a tool that everyone depends on.",
+        "el": "Η ζωή γίνεται όλο και πιο γρήγορη και πιο γεμάτη πληροφορία, άρα έχουμε λιγότερο χρόνο να σκεφτούμε κάθε απόφαση. Γι' αυτό θα στηριζόμαστε όλο και πιο πολύ σε ένα μόνο σήμα: κριτικές, αστεράκια, τίτλους, «best seller». Η θέση του Τσιαλντίνι: οι συντομεύσεις δεν είναι ο εχθρός, τις χρειαζόμαστε. Εχθρός είναι όποιος πλαστογραφεί το σήμα, γιατί δηλητηριάζει ένα εργαλείο από το οποίο εξαρτόμαστε όλοι."
+      },
+      "example": {
+        "en": "A bartender who fills the tip jar himself, an advert with actors playing «ordinary customers», recorded laughter: each one fakes the evidence our shortcuts rely on. Today the same happens with bought online reviews. In 2019 the US regulator, the FTC, brought its first case against a company that paid for fake Amazon reviews.",
+        "el": "Ο μπάρμαν που γεμίζει μόνος του το βάζο με τα φιλοδωρήματα, η διαφήμιση με ηθοποιούς που παριστάνουν «απλούς πελάτες», τα ηχογραφημένα γέλια: όλα πλαστογραφούν τα στοιχεία στα οποία στηρίζονται οι συντομεύσεις μας. Σήμερα το ίδιο γίνεται με τις αγορασμένες κριτικές στο ίντερνετ. Το 2019 η αμερικανική αρχή FTC άσκησε την πρώτη της δίωξη εναντίον εταιρείας που πλήρωνε για ψεύτικες κριτικές στο Amazon."
+      },
+      "apply": {
+        "en": "Make your true signals visible in one second: the real Google rating with a link to it, the number of live sites, examples sorted by specialty. A busy doctor decides on one signal. Never fake a signal, on your own site or on a client's, even if he asks you to.",
+        "el": "Κάνε τα αληθινά σου σήματα ορατά μέσα σε ένα δευτερόλεπτο: η πραγματική βαθμολογία στο Google με link, ο αριθμός των live ιστοσελίδων, παραδείγματα ανά ειδικότητα. Ο πολυάσχολος γιατρός αποφασίζει με ένα σήμα. Μην πλαστογραφήσεις ποτέ σήμα, ούτε στη δική σου ιστοσελίδα ούτε σε πελάτη, ακόμα κι αν σου το ζητήσει."
+      },
+      "check": {
+        "q": {"en": "According to Cialdini, who is the real enemy?", "el": "Ποιος είναι, κατά τον Τσιαλντίνι, ο πραγματικός εχθρός;"},
+        "options": [
+          {"en": "The shortcuts; we should stop using them", "el": "Οι συντομεύσεις, πρέπει να τις κόψουμε"},
+          {"en": "Anyone who uses social proof to sell", "el": "Όποιος χρησιμοποιεί κοινωνική απόδειξη για να πουλήσει"},
+          {"en": "Those who fake the signals shortcuts rely on", "el": "Όσοι πλαστογραφούν τα σήματα που εμπιστευόμαστε"}
+        ],
+        "answer": 2,
+        "why": {"en": "Honest use of real evidence helps everyone decide fast. Faked evidence is what must be fought.", "el": "Η τίμια χρήση αληθινών στοιχείων βοηθά όλους να αποφασίζουν γρήγορα. Αυτό που πρέπει να πολεμάμε είναι τα πλαστά στοιχεία."}
+      }
+    },
+    {
+      "title": {"en": "The defence: your stomach", "el": "Η άμυνα: το σφίξιμο στο στομάχι"},
+      "explain": {
+        "en": "You cannot analyse every decision, so learn the alarm. When you are being played, your body tells you first: a tight stomach, a sudden rush, a feeling of «I must say yes now». Stop there and ask one question about the weapon in use. Is this a gift or a trick? Do I want this thing itself, or only because it is rare? Is this person a real expert, and honest with me?",
+        "el": "Δεν γίνεται να αναλύεις κάθε απόφαση, γι' αυτό μάθε τον συναγερμό. Όταν σε δουλεύουν, το σώμα σου το λέει πρώτο: ένα σφίξιμο στο στομάχι, μια ξαφνική βιασύνη, η αίσθηση «πρέπει να πω ναι τώρα». Σταμάτα εκεί και κάνε μία ερώτηση για το όπλο που χρησιμοποιείται. Είναι δώρο ή κόλπο; Το θέλω το ίδιο το πράγμα, ή μόνο επειδή είναι σπάνιο; Είναι αυτός πραγματικά ειδικός, και ειλικρινής μαζί μου;"
+      },
+      "example": {
+        "en": "Cialdini tells how a young woman came to his door with a «survey» about his nights out. He boasted that he often went to restaurants and concerts. Then she offered a discount club that would save such an active man a lot of money. His stomach tightened, yet he bought, to stay consistent with what he had just said.",
+        "el": "Ο Τσιαλντίνι διηγείται πώς μια νεαρή γυναίκα χτύπησε την πόρτα του με μια «έρευνα» για τις εξόδους του. Εκείνος καυχήθηκε ότι πηγαίνει συχνά σε εστιατόρια και συναυλίες. Τότε του πρόσφερε μια κάρτα εκπτώσεων που θα γλίτωνε πολλά χρήματα σε έναν τόσο δραστήριο άνθρωπο. Το στομάχι του σφίχτηκε, κι όμως αγόρασε, για να μείνει συνεπής με όσα είχε μόλις πει."
+      },
+      "apply": {
+        "en": "Notice the stomach signal before you agree to anything under pressure: an ad platform, new software, an agency whose «offer ends today». Say: «I will decide tomorrow morning.» Then ask the book's question: «Knowing what I know now, would I make the same choice again?» Trust the first flash of feeling.",
+        "el": "Πρόσεξε το σήμα στο στομάχι πριν συμφωνήσεις σε οτιδήποτε υπό πίεση: μια διαφημιστική πλατφόρμα, ένα νέο λογισμικό, ένα γραφείο που «η προσφορά λήγει σήμερα». Πες: «Θα αποφασίσω αύριο το πρωί». Μετά κάνε την ερώτηση του βιβλίου: «Με όσα ξέρω τώρα, θα έκανα ξανά την ίδια επιλογή;» Εμπιστεύσου την πρώτη αστραπιαία αίσθηση."
+      },
+      "check": {
+        "q": {"en": "What is the first line of defence the book suggests?", "el": "Ποια είναι η πρώτη γραμμή άμυνας που προτείνει το βιβλίο;"},
+        "options": [
+          {"en": "Never accept a gift from anyone", "el": "Να μη δέχεσαι ποτέ δώρο από κανέναν"},
+          {"en": "Notice the body's warning and leave the autopilot", "el": "Να προσέχεις το σήμα του σώματος και να βγαίνεις από τον αυτόματο"},
+          {"en": "Stay away from every salesperson", "el": "Να μένεις μακριά από κάθε πωλητή"}
+        ],
+        "answer": 1,
+        "why": {"en": "The shortcuts are useful, so you keep them. You only stop and think when the alarm rings.", "el": "Οι συντομεύσεις είναι χρήσιμες, άρα τις κρατάς. Σταματάς και σκέφτεσαι μόνο όταν χτυπήσει ο συναγερμός."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "On a cold call a doctor refuses a 30-minute meeting at his practice. What do you do?", "el": "Σε ένα cold call ο γιατρός αρνείται ένα ραντεβού μισής ώρας στο ιατρείο. Τι κάνεις;"},
+      "options": [
+        {"en": "Repeat the same request with more energy", "el": "Επαναλαμβάνεις το ίδιο αίτημα με περισσότερη ένταση"},
+        {"en": "Thank him politely and end the call", "el": "Τον ευχαριστείς ευγενικά και κλείνεις"},
+        {"en": "Step back and ask for 10 minutes on video", "el": "Κάνεις πίσω και ζητάς 10 λεπτά σε βιντεοκλήση"}
+      ],
+      "answer": 2,
+      "why": {"en": "Reject, then retreat: your concession invites one from him, and the small request looks easy after the big one.", "el": "Πρώτα το μεγάλο, μετά το μικρό: η υποχώρησή σου προκαλεί μια δική του, και το μικρό αίτημα μοιάζει εύκολο μετά το μεγάλο."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "You write in the team chat «can someone call the client about the photos?» and nobody answers. What now?", "el": "Γράφεις στο ομαδικό chat «μπορεί κάποιος να πάρει τον πελάτη για τις φωτογραφίες;» και δεν απαντά κανείς. Τι κάνεις;"},
+      "options": [
+        {"en": "Name one person, give the task and a time", "el": "Ονομάζεις έναν άνθρωπο, δίνεις τη δουλειά και μια ώρα"},
+        {"en": "Write the same message again in capitals", "el": "Ξαναγράφεις το ίδιο μήνυμα με κεφαλαία"},
+        {"en": "Conclude that your team does not care", "el": "Συμπεραίνεις ότι η ομάδα σου αδιαφορεί"}
+      ],
+      "answer": 0,
+      "why": {"en": "In a group each one assumes someone else will act. One named person with a clear task cannot hide.", "el": "Σε μια ομάδα ο καθένας υποθέτει ότι θα το κάνει άλλος. Ο ένας που ονόμασες, με σαφή δουλειά, δεν έχει πού να κρυφτεί."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "A psychologist says: «I am not sure people in my profession need a website.» What helps most?", "el": "Μια ψυχολόγος λέει: «Δεν είμαι σίγουρη ότι στο επάγγελμά μου χρειάζεται ιστοσελίδα». Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Explain the technology behind your websites", "el": "Της εξηγείς την τεχνολογία πίσω από τις ιστοσελίδες σου"},
+        {"en": "Show her two real sites of other psychologists", "el": "Της δείχνεις δύο αληθινές ιστοσελίδες άλλων ψυχολόγων"},
+        {"en": "Tell her that a big company uses you", "el": "Της λες ότι σε χρησιμοποιεί μια μεγάλη εταιρεία"}
+      ],
+      "answer": 1,
+      "why": {"en": "She is unsure, so she will look at what similar people do. Other psychologists are the strongest proof for her.", "el": "Είναι αβέβαιη, άρα θα κοιτάξει τι κάνουν όσοι της μοιάζουν. Οι άλλοι ψυχολόγοι είναι η πιο δυνατή απόδειξη για εκείνη."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "You are writing an ad and think of adding «only 2 places left today», although it is not true. What do you do?", "el": "Γράφεις μια διαφήμιση και σκέφτεσαι να βάλεις «μόνο 2 θέσεις σήμερα», ενώ δεν ισχύει. Τι κάνεις;"},
+      "options": [
+        {"en": "Add it; everyone in advertising does it", "el": "Το βάζεις, όλοι στη διαφήμιση το κάνουν"},
+        {"en": "Add it only for the first week", "el": "Το βάζεις μόνο για την πρώτη εβδομάδα"},
+        {"en": "Leave it out and state a true loss instead", "el": "Το αφήνεις έξω και γράφεις μια αληθινή απώλεια"}
+      ],
+      "answer": 2,
+      "why": {"en": "Scarcity works, but faked scarcity is exactly the fraud Cialdini condemns. A true loss («patients find a colleague instead») moves people honestly.", "el": "Η σπανιότητα δουλεύει, αλλά η ψεύτικη σπανιότητα είναι ακριβώς η απάτη που καταδικάζει ο Τσιαλντίνι. Μια αληθινή απώλεια («οι ασθενείς βρίσκουν έναν συνάδελφο») κινητοποιεί τίμια."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "On holiday a stranger ties a «free» bracelet on your wrist and then asks for a donation. What do you do?", "el": "Στις διακοπές ένας άγνωστος σου δένει ένα «δωρεάν» βραχιόλι στον καρπό και μετά ζητά δωρεά. Τι κάνεις;"},
+      "options": [
+        {"en": "See it as a sales trick, not a gift, and decline", "el": "Το βλέπεις ως κόλπο πώλησης, όχι ως δώρο, και αρνείσαι"},
+        {"en": "Pay something, because he gave first", "el": "Δίνεις κάτι, αφού εκείνος έδωσε πρώτος"},
+        {"en": "Pay double so that you owe him nothing", "el": "Δίνεις τα διπλά για να μην του χρωστάς"}
+      ],
+      "answer": 0,
+      "why": {"en": "The reciprocity rule says to repay gifts, not tricks. Once you name it as a trick, the feeling of debt disappears.", "el": "Ο κανόνας της ανταπόδοσης λέει να ξεπληρώνεις δώρα, όχι κόλπα. Μόλις το ονομάσεις κόλπο, το αίσθημα του χρέους φεύγει."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "A software salesman says the price is valid only until tonight. You feel your stomach tighten. What do you do?", "el": "Ένας πωλητής λογισμικού λέει ότι η τιμή ισχύει μόνο μέχρι απόψε. Νιώθεις ένα σφίξιμο στο στομάχι. Τι κάνεις;"},
+      "options": [
+        {"en": "Buy now so that you do not lose the price", "el": "Αγοράζεις τώρα για να μη χάσεις την τιμή"},
+        {"en": "Say you decide tomorrow and ask if you would use it", "el": "Λες ότι αποφασίζεις αύριο και αναρωτιέσαι αν θα το χρησιμοποιείς"},
+        {"en": "Ask him for a bigger discount tonight", "el": "Του ζητάς μεγαλύτερη έκπτωση για απόψε"}
+      ],
+      "answer": 1,
+      "why": {"en": "The tight stomach is the alarm. Step off autopilot and judge the product for its use, not for its rarity.", "el": "Το σφίξιμο είναι ο συναγερμός. Βγες από τον αυτόματο πιλότο και κρίνε το προϊόν για τη χρήση του, όχι για τη σπανιότητά του."},
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Adding a reason with «because» raises the chance of a yes, even when the reason is weak.", "el": "Μια αιτία με «επειδή» ανεβάζει τις πιθανότητες για «ναι», ακόμα κι όταν η αιτία είναι αδύναμη."},
+      "answer": true,
+      "why": {"en": "In Langer's copier study even an empty reason got 93% against 60% with no reason, at least for small requests.", "el": "Στη μελέτη της Λάνγκερ με το φωτοτυπικό, ακόμα και μια κούφια αιτία πήρε 93% έναντι 60% χωρίς αιτία, τουλάχιστον για μικρά αιτήματα."}
+    },
+    {
+      "s": {"en": "Reciprocity works only when we like the person who gave us something.", "el": "Η ανταπόδοση δουλεύει μόνο όταν συμπαθούμε αυτόν που μας έδωσε κάτι."},
+      "answer": false,
+      "why": {"en": "In Regan's experiment people repaid Joe whether they liked him or not.", "el": "Στο πείραμα του Ρίγκαν οι άνθρωποι ξεπλήρωσαν τον Τζο είτε τον συμπαθούσαν είτε όχι."}
+    },
+    {
+      "s": {"en": "A written, public commitment holds more strongly than a private spoken one.", "el": "Μια γραπτή, δημόσια δέσμευση κρατά πιο γερά από μια ιδιωτική, προφορική."},
+      "answer": true,
+      "why": {"en": "Writing is active, visible to others and takes effort, so it changes how we see ourselves.", "el": "Το γράψιμο είναι ενεργό, το βλέπουν οι άλλοι και θέλει κόπο, άρα αλλάζει την εικόνα που έχουμε για εμάς."}
+    },
+    {
+      "s": {"en": "The more people witness an emergency, the more likely each of them is to help.", "el": "Όσο περισσότεροι βλέπουν ένα έκτακτο περιστατικό, τόσο πιθανότερο είναι να βοηθήσει ο καθένας."},
+      "answer": false,
+      "why": {"en": "The opposite: responsibility is shared out and everyone reads the calm of the others as «nothing is wrong».", "el": "Το αντίθετο: η ευθύνη μοιράζεται και ο καθένας διαβάζει την ψυχραιμία των άλλων ως «δεν τρέχει τίποτα»."}
+    },
+    {
+      "s": {"en": "We follow the example of people who are similar to us more than the example of people who are different.", "el": "Ακολουθούμε το παράδειγμα όσων μας μοιάζουν περισσότερο από το παράδειγμα όσων διαφέρουν από εμάς."},
+      "answer": true,
+      "why": {"en": "Similarity makes social proof stronger: «people like me do this».", "el": "Η ομοιότητα δυναμώνει την κοινωνική απόδειξη: «άνθρωποι σαν εμένα το κάνουν»."}
+    },
+    {
+      "s": {"en": "Scarcity works because people calmly calculate that rare things have a higher value.", "el": "Η σπανιότητα δουλεύει επειδή οι άνθρωποι υπολογίζουν ψύχραιμα ότι τα σπάνια έχουν μεγαλύτερη αξία."},
+      "answer": false,
+      "why": {"en": "It works through emotion: the fear of losing clouds thinking. That is why we need the stomach alarm.", "el": "Δουλεύει μέσω του συναισθήματος: ο φόβος της απώλειας θολώνει τη σκέψη. Γι' αυτό χρειαζόμαστε τον συναγερμό στο στομάχι."}
+    },
+    {
+      "s": {"en": "Cialdini advises us to stop using mental shortcuts altogether.", "el": "Ο Τσιαλντίνι μάς συμβουλεύει να κόψουμε εντελώς τις νοητικές συντομεύσεις."},
+      "answer": false,
+      "why": {"en": "He says we need them more than ever. What we must fight is people who fake the signals.", "el": "Λέει ότι τις χρειαζόμαστε περισσότερο από ποτέ. Αυτό που πρέπει να πολεμάμε είναι όσοι πλαστογραφούν τα σήματα."}
+    },
+    {
+      "s": {"en": "Banned information tends to be wanted more and also believed more.", "el": "Την απαγορευμένη πληροφορία τη θέλουμε περισσότερο και συνήθως την πιστεύουμε και περισσότερο."},
+      "answer": true,
+      "why": {"en": "Students moved toward the position of a banned speech without ever hearing it.", "el": "Οι φοιτητές έγειραν προς τη θέση μιας απαγορευμένης ομιλίας χωρίς να την ακούσουν ποτέ."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Click, whirr", "el": "Κλικ και παίζει"}, "b": {"en": "An automatic reaction started by one trigger", "el": "Αυτόματη αντίδραση που την ξεκινά ένα ερέθισμα"}},
+    {"a": {"en": "Reciprocity", "el": "Ανταπόδοση"}, "b": {"en": "We feel we must repay what we receive", "el": "Νιώθουμε ότι πρέπει να ξεπληρώσουμε ό,τι παίρνουμε"}},
+    {"a": {"en": "Social proof", "el": "Κοινωνική απόδειξη"}, "b": {"en": "We copy what people like us do", "el": "Αντιγράφουμε ό,τι κάνουν όσοι μας μοιάζουν"}},
+    {"a": {"en": "Reactance", "el": "Ψυχολογική αντίδραση"}, "b": {"en": "We want a freedom more once it is limited", "el": "Θέλουμε πιο πολύ μια ελευθερία όταν περιορίζεται"}},
+    {"a": {"en": "Lowball", "el": "Δελεαστική τιμή"}, "b": {"en": "A great deal removed after you have decided", "el": "Φοβερή τιμή που χάνεται αφού αποφασίσεις"}},
+    {"a": {"en": "Pluralistic ignorance", "el": "Πλουραλιστική άγνοια"}, "b": {"en": "Nobody acts because everybody else looks calm", "el": "Κανείς δεν κινείται γιατί όλοι φαίνονται ψύχραιμοι"}}
+  ],
+  "missions": [
+    {"en": "Rewrite the first sentence of your cold call so that it contains «because» and a true reason for calling this specific doctor.", "el": "Ξαναγράψε την πρώτη πρόταση του cold call σου ώστε να έχει ένα «επειδή» και έναν αληθινό λόγο που καλείς τον συγκεκριμένο γιατρό."},
+    {"en": "Make a list of your live sites grouped by specialty, so that on any call you can name two colleagues of the person you are talking to.", "el": "Φτιάξε μια λίστα με τις live ιστοσελίδες σου ανά ειδικότητα, ώστε σε κάθε τηλεφώνημα να μπορείς να αναφέρεις δύο συναδέλφους του συνομιλητή σου."},
+    {"en": "Send one prospect three honest observations about how his practice appears on Google, free, before you ask him for anything.", "el": "Στείλε σε έναν υποψήφιο πελάτη τρεις ειλικρινείς παρατηρήσεις για το πώς φαίνεται το ιατρείο του στο Google, δωρεάν, πριν του ζητήσεις οτιδήποτε."},
+    {"en": "Write your big request and your fallback request for today's calls: 30 minutes at the practice, then 10 minutes on video.", "el": "Γράψε το μεγάλο και το εφεδρικό σου αίτημα για τα σημερινά τηλεφωνήματα: 30 λεπτά στο ιατρείο, και μετά 10 λεπτά σε βιντεοκλήση."},
+    {"en": "Notice once this week when your stomach tightens during someone's offer, and say out loud «I will decide tomorrow».", "el": "Πρόσεξε μία φορά αυτή την εβδομάδα πότε σφίγγεται το στομάχι σου μπροστά σε μια προσφορά, και πες φωναχτά «θα αποφασίσω αύριο»."}
+  ],
+  "mantra": {"en": "Give first, show people like him, and never fake a signal.", "el": "Δώσε πρώτος, δείξε ανθρώπους σαν κι αυτόν, και μην πλαστογραφήσεις ποτέ σήμα."},
+  "careful": {
+    "en": "Many of the experiments are from the 1960s and 70s, with small groups of American students, and the effects are weaker or different in other settings and cultures. The famous Kitty Genovese murder story told in the book (38 silent witnesses) was later shown to be exaggerated by the newspapers. Milgram's study is criticised on ethics and method. And the same tools serve con men: used with false claims they are fraud, not persuasion.",
+    "el": "Πολλά πειράματα είναι των δεκαετιών του '60 και του '70, με μικρές ομάδες Αμερικανών φοιτητών, και τα αποτελέσματα είναι πιο αδύναμα ή διαφορετικά σε άλλες συνθήκες και κουλτούρες. Η διάσημη ιστορία της δολοφονίας της Κίτι Τζενοβέζε που αναφέρει το βιβλίο (38 σιωπηλοί μάρτυρες) αποδείχθηκε αργότερα υπερβολή των εφημερίδων. Το πείραμα του Μίλγκραμ δέχεται κριτική για την ηθική και τη μέθοδό του. Και τα ίδια εργαλεία τα χρησιμοποιούν οι απατεώνες: με ψεύτικους ισχυρισμούς είναι απάτη, όχι πειθώ."
+  },
+  "connects": [
+    {"book": "pre-suasion", "note": {"en": "The sequel: Influence tells you what to say, Pre-Suasion tells you what to do in the moment before you say it, and adds a seventh principle, unity.", "el": "Η συνέχεια: η Επιρροή σού λέει τι να πεις, η Προ-πειθώ τι να κάνεις τη στιγμή πριν το πεις, και προσθέτει μια έβδομη αρχή, την ενότητα."}},
+    {"book": "secrets-of-closing", "note": {"en": "Ziglar gives the practical closing words; Cialdini explains why they work: the puppy dog close is reciprocity and commitment in action.", "el": "Ο Ζίγκλαρ δίνει τα πρακτικά λόγια του κλεισίματος και ο Τσιαλντίνι εξηγεί γιατί δουλεύουν: το κλείσιμο «του κουταβιού» είναι ανταπόδοση και δέσμευση στην πράξη."}},
+    {"book": "laws-of-human-nature", "note": {"en": "Greene also says people are led by emotion and not by reason, but he looks at character over a lifetime, while Cialdini looks at the single moment of yes.", "el": "Και ο Γκριν λέει ότι μας οδηγεί το συναίσθημα και όχι η λογική, όμως κοιτά τον χαρακτήρα σε βάθος ζωής, ενώ ο Τσιαλντίνι τη μία στιγμή του «ναι»."}}
+  ]
+}

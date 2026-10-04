@@ -1,0 +1,558 @@
+{
+  "id": "no-excuses",
+  "title": {"en": "No Excuses! The Power of Self-Discipline", "el": "Όχι δικαιολογίες! Η δύναμη της αυτοπειθαρχίας"},
+  "author": "Brian Tracy",
+  "authorEl": "Μπράιαν Τρέισι",
+  "year": 2010,
+  "shelf": "focus",
+  "skills": {"focus": 3, "mindset": 3, "sales": 1},
+  "oneLine": {
+    "en": "Self-discipline, doing what you should when you should whether you feel like it or not, is the one habit that makes every other success possible.",
+    "el": "Η αυτοπειθαρχία, να κάνεις αυτό που πρέπει όταν πρέπει, είτε έχεις όρεξη είτε όχι, είναι η μία συνήθεια που κάνει εφικτή κάθε άλλη επιτυχία."
+  },
+  "story": {
+    "en": "Brian Tracy left school without finishing, worked as a labourer, then learned to sell and became one of the best-known business speakers in the world. In this book he takes one idea, self-discipline, and applies it in 21 short chapters to every part of life: goals, work, money, sales, leadership, health, family and peace of mind. People read it because it is blunt, practical and leaves you no place to hide.",
+    "el": "Ο Brian Tracy παράτησε το σχολείο, δούλεψε εργάτης, μετά έμαθε να πουλάει και έγινε ένας από τους πιο γνωστούς ομιλητές για επιχειρήσεις στον κόσμο. Σε αυτό το βιβλίο παίρνει μία ιδέα, την αυτοπειθαρχία, και την εφαρμόζει σε 21 σύντομα κεφάλαια σε κάθε κομμάτι της ζωής: στόχους, δουλειά, χρήματα, πωλήσεις, ηγεσία, υγεία, οικογένεια και ηρεμία. Διαβάζεται γιατί είναι ευθύ, πρακτικό και δεν σου αφήνει πού να κρυφτείς."
+  },
+  "forYou": {
+    "en": "Nobody checks whether you made your calls today. You have no boss, so your results depend on what you do when you do not feel like it. Tracy started in sales with nothing, like you, and his rules are made for exactly your day: written goals, the hardest call first, more hours with prospects, and saving part of every euro that comes in.",
+    "el": "Κανείς δεν ελέγχει αν έκανες σήμερα τα τηλεφωνήματά σου. Δεν έχεις αφεντικό, άρα τα αποτελέσματά σου εξαρτώνται από το τι κάνεις όταν δεν έχεις όρεξη. Ο Tracy ξεκίνησε στις πωλήσεις από το μηδέν, όπως εσύ, και οι κανόνες του είναι φτιαγμένοι ακριβώς για τη δική σου μέρα: γραπτοί στόχοι, το πιο δύσκολο τηλεφώνημα πρώτο, περισσότερες ώρες με υποψήφιους πελάτες και αποταμίευση από κάθε ευρώ που μπαίνει."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Whether you feel like it or not", "el": "Είτε έχεις όρεξη είτε όχι"},
+      "explain": {
+        "en": "Tracy's definition: self-discipline is the ability to make yourself do what you should do, when you should do it, whether you feel like it or not. The last part is the whole point. Most people live on Someday Isle: someday I will start. Every excuse is a ticket to that island. The good news is that discipline is a habit, not a talent. You build it with repetition, and each time you use it, it gets stronger.",
+        "el": "Ο ορισμός του Tracy: αυτοπειθαρχία είναι η ικανότητα να βάζεις τον εαυτό σου να κάνει αυτό που πρέπει, όταν πρέπει, είτε έχει όρεξη είτε όχι. Το τελευταίο κομμάτι είναι όλη η ουσία. Οι περισσότεροι ζουν στο νησί του «κάποια μέρα»: κάποια μέρα θα ξεκινήσω. Κάθε δικαιολογία είναι ένα εισιτήριο για εκείνο το νησί. Το καλό είναι ότι η πειθαρχία είναι συνήθεια, όχι ταλέντο. Χτίζεται με την επανάληψη, και κάθε φορά που τη χρησιμοποιείς δυναμώνει."
+      },
+      "example": {
+        "en": "Tracy tells how he once met Kop Kopmeyer, a writer who had studied success for decades and collected a thousand principles. Tracy asked him which one mattered most. Kopmeyer answered at once: self-discipline, because without it none of the other 999 work, and with it they all do.",
+        "el": "Ο Tracy διηγείται ότι γνώρισε κάποτε τον Kop Kopmeyer, έναν συγγραφέα που μελετούσε την επιτυχία επί δεκαετίες και είχε μαζέψει χίλιες αρχές. Τον ρώτησε ποια μετράει περισσότερο. Ο Kopmeyer απάντησε αμέσως: η αυτοπειθαρχία, γιατί χωρίς αυτήν καμία από τις άλλες 999 δεν δουλεύει, ενώ με αυτήν δουλεύουν όλες."
+      },
+      "apply": {
+        "en": "Write down your three favourite excuses for not calling: «it is Monday morning, doctors are busy», «it is too close to lunch», «I will do it after this site». Next time one appears, say «no excuses» out loud and make one call before you do anything else.",
+        "el": "Γράψε τις τρεις αγαπημένες σου δικαιολογίες για να μην πάρεις τηλέφωνα: «Δευτέρα πρωί οι γιατροί έχουν δουλειά», «κοντεύει μεσημέρι», «θα το κάνω μόλις τελειώσω αυτό το site». Την επόμενη φορά που θα εμφανιστεί κάποια, πες δυνατά «όχι δικαιολογίες» και κάνε ένα τηλεφώνημα πριν από οτιδήποτε άλλο."
+      },
+      "check": {
+        "q": {"en": "What is the key part of Tracy's definition of self-discipline?", "el": "Ποιο είναι το κλειδί στον ορισμό της αυτοπειθαρχίας του Tracy;"},
+        "options": [
+          {"en": "You work only on things you enjoy doing", "el": "Δουλεύεις μόνο σε πράγματα που σου αρέσουν"},
+          {"en": "You wait for the right mood and then act", "el": "Περιμένεις τη σωστή διάθεση και μετά ενεργείς"},
+          {"en": "You do it whether you feel like it or not", "el": "Το κάνεις είτε έχεις όρεξη είτε όχι"}
+        ],
+        "answer": 2,
+        "why": {"en": "Anyone can work when they feel like it. Discipline starts exactly where the mood ends.", "el": "Όλοι δουλεύουν όταν έχουν όρεξη. Η πειθαρχία αρχίζει ακριβώς εκεί που τελειώνει η όρεξη."}
+      }
+    },
+    {
+      "title": {"en": "Dinner before dessert", "el": "Πρώτα το φαγητό, μετά το γλυκό"},
+      "explain": {
+        "en": "Two forces pull you down every day: the path of least resistance, doing what is easy, and expediency, doing what is fun right now. Successful people think long term. They ask what each action will bring in five or ten years and they accept a small pain now for a big reward later. Unsuccessful people do the opposite: pleasure now, price later. Every action has a consequence, so choose the action by its consequence.",
+        "el": "Δύο δυνάμεις σε τραβούν προς τα κάτω κάθε μέρα: ο δρόμος της ελάχιστης αντίστασης, δηλαδή να κάνεις το εύκολο, και η ευκολία της στιγμής, δηλαδή να κάνεις ό,τι είναι ευχάριστο τώρα. Οι πετυχημένοι σκέφτονται μακροπρόθεσμα. Ρωτούν τι θα φέρει κάθε πράξη σε πέντε ή δέκα χρόνια και δέχονται μια μικρή δυσκολία τώρα για μια μεγάλη ανταμοιβή αργότερα. Οι υπόλοιποι κάνουν το ανάποδο: απόλαυση τώρα, λογαριασμός μετά. Κάθε πράξη έχει συνέπεια, άρα διάλεξε την πράξη από τη συνέπειά της."
+      },
+      "example": {
+        "en": "Tracy builds this on the Harvard sociologist Edward Banfield. In his 1970 book The Unheavenly City, Banfield argued that the best predictor of moving up in life was not family, schooling or intelligence but time perspective: how far into the future a person thinks when deciding what to do today.",
+        "el": "Ο Tracy το στηρίζει στον κοινωνιολόγο του Harvard Edward Banfield. Στο βιβλίο του The Unheavenly City (1970), ο Banfield υποστήριξε ότι αυτό που προβλέπει καλύτερα ποιος θα ανέβει στη ζωή δεν είναι η οικογένεια, οι σπουδές ή η εξυπνάδα, αλλά ο χρονικός ορίζοντας: πόσο μακριά στο μέλλον σκέφτεται κάποιος όταν αποφασίζει τι θα κάνει σήμερα."
+      },
+      "apply": {
+        "en": "Ask before each choice in your day: is this dinner or dessert? Forty calls, a follow-up, a system for renewals are dinner. Tweaking a logo for an hour or reading news is dessert. Do the dinner first, every morning, and keep dessert for after 17:00.",
+        "el": "Ρώτα πριν από κάθε επιλογή της μέρας: αυτό είναι φαγητό ή γλυκό; Σαράντα τηλεφωνήματα, ένα follow-up, ένα σύστημα για τις ανανεώσεις είναι φαγητό. Να πειράζεις ένα λογότυπο επί μία ώρα ή να διαβάζεις ειδήσεις είναι γλυκό. Κάνε πρώτα το φαγητό, κάθε πρωί, και άσε το γλυκό για μετά τις 17:00."
+      },
+      "check": {
+        "q": {"en": "What does long time perspective mean?", "el": "Τι σημαίνει «μακρύς χρονικός ορίζοντας»;"},
+        "options": [
+          {"en": "You judge today's actions by their future results", "el": "Κρίνεις τις σημερινές πράξεις από τα μελλοντικά αποτελέσματα"},
+          {"en": "You plan a lot but postpone the action", "el": "Σχεδιάζεις πολύ αλλά αναβάλλεις την πράξη"},
+          {"en": "You wait many years before you take a risk", "el": "Περιμένεις πολλά χρόνια πριν πάρεις ένα ρίσκο"}
+        ],
+        "answer": 0,
+        "why": {"en": "You pay a small price now because you can see the bigger reward it buys later.", "el": "Πληρώνεις ένα μικρό τίμημα τώρα γιατί βλέπεις τη μεγαλύτερη ανταμοιβή που φέρνει αργότερα."}
+      }
+    },
+    {
+      "title": {"en": "I am responsible", "el": "Εγώ είμαι υπεύθυνος"},
+      "explain": {
+        "en": "Tracy says the turning point of a life is the moment you accept that you are fully responsible for it. Not your parents, not the economy, not the client. Blaming others feels good for a moment, but it makes you a victim who must wait for others to change. It also feeds anger and resentment. The cure is one sentence, repeated every time something goes wrong: I am responsible. It turns you back into the one who acts.",
+        "el": "Ο Tracy λέει ότι το σημείο καμπής μιας ζωής είναι η στιγμή που δέχεσαι ότι είσαι εσύ εξ ολοκλήρου υπεύθυνος γι' αυτήν. Όχι οι γονείς σου, όχι η οικονομία, όχι ο πελάτης. Το να κατηγορείς τους άλλους ανακουφίζει για λίγο, αλλά σε κάνει θύμα που περιμένει να αλλάξουν οι άλλοι. Τρέφει επίσης θυμό και πικρία. Η θεραπεία είναι μία φράση, κάθε φορά που κάτι πάει στραβά: εγώ είμαι υπεύθυνος. Σε ξανακάνει αυτόν που ενεργεί."
+      },
+      "example": {
+        "en": "Tracy describes himself at 21: no school diploma, working as a construction labourer, living in a tiny one-room flat in the middle of a freezing winter. One evening he realised that nobody was coming to change his life, and that everything from then on was up to him. He began to study selling.",
+        "el": "Ο Tracy περιγράφει τον εαυτό του στα 21: χωρίς απολυτήριο, εργάτης σε οικοδομές, σε μια γκαρσονιέρα μέσα σε έναν παγωμένο χειμώνα. Ένα βράδυ κατάλαβε ότι δεν θα ερχόταν κανείς να του αλλάξει τη ζωή και ότι από εκεί και πέρα όλα ήταν στο χέρι του. Άρχισε να μελετά πώς γίνονται οι πωλήσεις."
+      },
+      "apply": {
+        "en": "Replace «the leads are bad» with «I am responsible: which list, which hour and which opening line will I change?» When a client pays late, ask what in your own process allowed it and fix that step. Say the sentence before you complain to anyone.",
+        "el": "Αντικατάστησε το «τα leads είναι χάλια» με το «εγώ είμαι υπεύθυνος: ποια λίστα, ποια ώρα και ποια πρώτη φράση θα αλλάξω;». Όταν ένας πελάτης αργεί να πληρώσει, ρώτα τι στη δική σου διαδικασία το επέτρεψε και διόρθωσε εκείνο το βήμα. Πες τη φράση πριν παραπονεθείς σε οποιονδήποτε."
+      },
+      "check": {
+        "q": {"en": "Why does Tracy say blaming others hurts you?", "el": "Γιατί λέει ο Tracy ότι σε βλάπτει να κατηγορείς τους άλλους;"},
+        "options": [
+          {"en": "Because other people are never at fault", "el": "Γιατί οι άλλοι δεν φταίνε ποτέ"},
+          {"en": "Because it leaves you powerless and angry", "el": "Γιατί σε αφήνει ανίσχυρο και θυμωμένο"},
+          {"en": "Because it makes other people dislike you", "el": "Γιατί κάνει τους άλλους να σε αντιπαθούν"}
+        ],
+        "answer": 1,
+        "why": {"en": "If it is their fault, you can only wait. If it is your responsibility, you can act today.", "el": "Αν φταίνε οι άλλοι, μπορείς μόνο να περιμένεις. Αν είναι δική σου ευθύνη, μπορείς να κάνεις κάτι σήμερα."}
+      }
+    },
+    {
+      "title": {"en": "Seven steps to any goal", "el": "Επτά βήματα για κάθε στόχο"},
+      "explain": {
+        "en": "Tracy claims only about 3% of adults have clear written goals, and they achieve far more than the rest. His method has seven steps. Decide exactly what you want. Write it down. Set a deadline. List everything you must do to reach it. Organise the list into a plan by order and priority. Take action on the plan immediately. Do something every single day that moves you toward the goal.",
+        "el": "Ο Tracy υποστηρίζει ότι μόνο το 3% περίπου των ενηλίκων έχει ξεκάθαρους, γραπτούς στόχους, και ότι αυτοί πετυχαίνουν πολύ περισσότερα από τους υπόλοιπους. Η μέθοδός του έχει επτά βήματα. Αποφάσισε τι ακριβώς θέλεις. Γράψ' το. Βάλε προθεσμία. Γράψε όλα όσα πρέπει να κάνεις για να φτάσεις εκεί. Οργάνωσε τη λίστα σε σχέδιο, με σειρά και προτεραιότητα. Ξεκίνα αμέσως. Κάνε κάθε μέρα κάτι που σε φέρνει πιο κοντά στον στόχο."
+      },
+      "example": {
+        "en": "The psychologist Gail Matthews at Dominican University of California tested this with adults from several countries. Those who wrote their goals down, made action commitments and sent a friend a weekly progress report achieved clearly more after four weeks than those who only thought about their goals.",
+        "el": "Η ψυχολόγος Gail Matthews στο Dominican University της Καλιφόρνια το δοκίμασε με ενήλικες από διάφορες χώρες. Όσοι έγραψαν τους στόχους τους, δεσμεύτηκαν σε συγκεκριμένες ενέργειες και έστελναν κάθε εβδομάδα αναφορά προόδου σε έναν φίλο πέτυχαν σαφώς περισσότερα σε τέσσερις εβδομάδες από όσους απλώς σκέφτηκαν τους στόχους τους."
+      },
+      "apply": {
+        "en": "Write ten goals for the next twelve months in the present tense. Choose the one that would change your business most, for example a number of new sites per month. Give it a date, list every step, and do one step today before you close the laptop.",
+        "el": "Γράψε δέκα στόχους για τους επόμενους δώδεκα μήνες σε ενεστώτα χρόνο. Διάλεξε εκείνον που θα άλλαζε περισσότερο τη δουλειά σου, για παράδειγμα έναν αριθμό νέων ιστοσελίδων τον μήνα. Βάλε ημερομηνία, γράψε όλα τα βήματα και κάνε ένα βήμα σήμερα πριν κλείσεις το laptop."
+      },
+      "check": {
+        "q": {"en": "What is the last of the seven steps?", "el": "Ποιο είναι το τελευταίο από τα επτά βήματα;"},
+        "options": [
+          {"en": "Do something toward the goal every day", "el": "Κάνε κάθε μέρα κάτι για τον στόχο"},
+          {"en": "Tell as many people as you can", "el": "Πες το σε όσο περισσότερους μπορείς"},
+          {"en": "Review the goal once at the end of the year", "el": "Ξαναδές τον στόχο μία φορά στο τέλος του χρόνου"}
+        ],
+        "answer": 0,
+        "why": {"en": "Daily action keeps the momentum. A written goal with no daily step is only a wish.", "el": "Η καθημερινή πράξη κρατά τη φόρα. Ένας γραπτός στόχος χωρίς καθημερινό βήμα είναι απλώς ευχή."}
+      }
+    },
+    {
+      "title": {"en": "A university on wheels", "el": "Πανεπιστήμιο στο αυτοκίνητο"},
+      "explain": {
+        "en": "Your most valuable asset is your ability to earn, and it grows only if you keep learning. Tracy asks you to decide to join the top 10% of your field and then work on it daily. Read one hour every day in your field, which is about a book a week. Turn your car into a university on wheels by listening to educational audio while driving. Take every course you can. Skills pile up like interest in a bank.",
+        "el": "Το πιο πολύτιμο περιουσιακό σου στοιχείο είναι η ικανότητά σου να βγάζεις χρήματα, και μεγαλώνει μόνο αν συνεχίζεις να μαθαίνεις. Ο Tracy σού ζητά να αποφασίσεις ότι θα μπεις στο κορυφαίο 10% του χώρου σου και να το δουλεύεις καθημερινά. Διάβαζε μία ώρα τη μέρα πάνω στο αντικείμενό σου, δηλαδή περίπου ένα βιβλίο την εβδομάδα. Κάνε το αυτοκίνητό σου «πανεπιστήμιο με ρόδες», ακούγοντας εκπαιδευτικό υλικό όσο οδηγείς. Κάνε όποιο σεμινάριο μπορείς. Οι δεξιότητες μαζεύονται όπως ο τόκος στην τράπεζα."
+      },
+      "example": {
+        "en": "Warren Buffett has said for years that he spends most of his working day, five or six hours, simply reading reports, newspapers and books. His partner Charlie Munger said he knew no wise person who did not read all the time. Their edge was built in a chair.",
+        "el": "Ο Warren Buffett λέει εδώ και χρόνια ότι περνά το μεγαλύτερο μέρος της εργάσιμης μέρας του, πέντε με έξι ώρες, απλώς διαβάζοντας εκθέσεις, εφημερίδες και βιβλία. Ο συνεργάτης του Charlie Munger έλεγε ότι δεν γνώριζε κανέναν σοφό άνθρωπο που να μη διαβάζει συνέχεια. Το πλεονέκτημά τους χτίστηκε σε μια καρέκλα."
+      },
+      "apply": {
+        "en": "Block the first thirty minutes of every morning for reading on selling, and put an audiobook or a sales podcast on every drive and every walk. Pick the one skill that would raise your income most this year, probably closing on the phone, and study only that for ninety days.",
+        "el": "Κράτα τα πρώτα τριάντα λεπτά κάθε πρωινού για διάβασμα πάνω στις πωλήσεις, και βάζε ένα audiobook ή ένα podcast για πωλήσεις σε κάθε διαδρομή και κάθε περπάτημα. Διάλεξε τη μία δεξιότητα που θα ανέβαζε περισσότερο το εισόδημά σου φέτος, μάλλον το κλείσιμο στο τηλέφωνο, και μελέτα μόνο αυτήν για ενενήντα μέρες."
+      },
+      "check": {
+        "q": {"en": "What does Tracy call your most valuable asset?", "el": "Ποιο λέει ο Tracy ότι είναι το πιο πολύτιμο περιουσιακό σου στοιχείο;"},
+        "options": [
+          {"en": "The savings you have in the bank", "el": "Οι αποταμιεύσεις που έχεις στην τράπεζα"},
+          {"en": "The contacts you made in the past", "el": "Οι γνωριμίες που έκανες στο παρελθόν"},
+          {"en": "Your ability to earn, which learning increases", "el": "Η ικανότητά σου να κερδίζεις, που μεγαλώνει με τη μάθηση"}
+        ],
+        "answer": 2,
+        "why": {"en": "Money can be lost. A skill that people pay for stays with you and can keep growing.", "el": "Τα χρήματα χάνονται. Μια δεξιότητα για την οποία σε πληρώνουν μένει μαζί σου και μπορεί να μεγαλώνει."}
+      }
+    },
+    {
+      "title": {"en": "Do the thing you fear", "el": "Κάνε αυτό που φοβάσαι"},
+      "explain": {
+        "en": "Tracy says the fears of failure and rejection stop more people than any lack of ability. Fear is learned, so it can be unlearned, and the only way is to move toward it. Do the thing you fear and the fear shrinks. Avoid it and it grows. Courage has two halves: the courage to begin, and the courage to keep going after setbacks. He calls persistence self-discipline in action: you decide in advance that you will never give up.",
+        "el": "Ο Tracy λέει ότι ο φόβος της αποτυχίας και της απόρριψης σταματά περισσότερους ανθρώπους απ' ό,τι η έλλειψη ικανότητας. Ο φόβος μαθαίνεται, άρα και ξεμαθαίνεται, και ο μόνος τρόπος είναι να πας προς το μέρος του. Κάνε αυτό που φοβάσαι και ο φόβος μικραίνει. Απόφυγέ το και μεγαλώνει. Το θάρρος έχει δύο μισά: το θάρρος να ξεκινήσεις και το θάρρος να συνεχίσεις μετά τις αναποδιές. Την επιμονή τη λέει «αυτοπειθαρχία στην πράξη»: αποφασίζεις από πριν ότι δεν θα τα παρατήσεις ποτέ."
+      },
+      "example": {
+        "en": "Looking for a material for the filament of his light bulb, Thomas Edison and his team tested thousands of substances, including plant fibres from around the world, before a carbonised thread burned long enough in 1879. He treated every failed test as one more thing he now knew did not work.",
+        "el": "Ψάχνοντας υλικό για το νήμα του λαμπτήρα του, ο Thomas Edison και η ομάδα του δοκίμασαν χιλιάδες υλικά, ανάμεσά τους φυτικές ίνες από όλο τον κόσμο, μέχρι που ένα απανθρακωμένο νήμα άντεξε αρκετά το 1879. Κάθε αποτυχημένη δοκιμή την έβλεπε σαν ένα ακόμα πράγμα που πλέον ήξερε ότι δεν δουλεύει."
+      },
+      "apply": {
+        "en": "Find the call you fear most this week, the big clinic or the client who owes you money, and make it first thing tomorrow. Decide now that ten rejections in a row mean nothing and that you will make the eleventh call in the same tone as the first.",
+        "el": "Βρες το τηλεφώνημα που φοβάσαι περισσότερο αυτή την εβδομάδα, τη μεγάλη κλινική ή τον πελάτη που σου χρωστάει, και κάν' το πρώτο πρώτο αύριο. Αποφάσισε από τώρα ότι δέκα «όχι» στη σειρά δεν σημαίνουν τίποτα και ότι το ενδέκατο τηλεφώνημα θα γίνει με τον ίδιο τόνο όπως το πρώτο."
+      },
+      "check": {
+        "q": {"en": "How does a fear get smaller, according to Tracy?", "el": "Πώς μικραίνει ένας φόβος, σύμφωνα με τον Tracy;"},
+        "options": [
+          {"en": "By waiting until you feel calmer about it", "el": "Περιμένοντας μέχρι να ηρεμήσεις"},
+          {"en": "By doing the feared thing again and again", "el": "Κάνοντας ξανά και ξανά αυτό που φοβάσαι"},
+          {"en": "By thinking carefully about what could go wrong", "el": "Σκεπτόμενος προσεκτικά τι μπορεί να πάει στραβά"}
+        ],
+        "answer": 1,
+        "why": {"en": "Avoidance feeds fear. Each time you act anyway, you prove to yourself that you can survive it.", "el": "Η αποφυγή τρέφει τον φόβο. Κάθε φορά που ενεργείς παρ' όλα αυτά, αποδεικνύεις στον εαυτό σου ότι αντέχεις."}
+      }
+    },
+    {
+      "title": {"en": "The 40-plus formula", "el": "Η φόρμουλα «40 και πάνω»"},
+      "explain": {
+        "en": "Tracy's rule about hours: forty hours a week is what you work to survive. Everything above forty is an investment in your future, and the people at the top of every field work sixty or more. The second half matters as much: work all the time you work. He says the average person wastes about half the working day on chat, coffee and personal business. So no socialising at work, start earlier, stay later.",
+        "el": "Ο κανόνας του Tracy για τις ώρες: σαράντα ώρες την εβδομάδα δουλεύεις για να επιβιώσεις. Ό,τι είναι πάνω από τις σαράντα είναι επένδυση στο μέλλον σου, και όσοι βρίσκονται στην κορυφή κάθε χώρου δουλεύουν εξήντα ή περισσότερες. Το δεύτερο μισό μετράει εξίσου: την ώρα της δουλειάς, δούλευε. Λέει ότι ο μέσος άνθρωπος χάνει περίπου τη μισή εργάσιμη μέρα σε κουβέντες, καφέδες και προσωπικά. Άρα όχι κουβεντούλα στη δουλειά, ξεκίνα νωρίτερα, φύγε αργότερα."
+      },
+      "example": {
+        "en": "When Elon Musk and his brother started Zip2 in 1995, they rented a small office instead of a flat, slept there, showered at the local YMCA and coded through the night so the site could run during the day. Four years later the company was sold for about 300 million dollars.",
+        "el": "Όταν ο Elon Musk και ο αδελφός του ξεκίνησαν τη Zip2 το 1995, νοίκιασαν ένα μικρό γραφείο αντί για διαμέρισμα, κοιμόντουσαν εκεί, έκαναν ντους στο YMCA της γειτονιάς και έγραφαν κώδικα τη νύχτα για να δουλεύει το site τη μέρα. Τέσσερα χρόνια αργότερα η εταιρεία πουλήθηκε για περίπου 300 εκατομμύρια δολάρια."
+      },
+      "apply": {
+        "en": "Count your real working hours for one week, only the time spent on calls, builds and clients. Then protect them: no phone, no chat, no news during work blocks. Add one extra focused hour early in the morning and repeat «back to work» when you drift.",
+        "el": "Μέτρησε τις πραγματικές ώρες δουλειάς σου για μία εβδομάδα, μόνο τον χρόνο σε τηλεφωνήματα, κατασκευές και πελάτες. Μετά προστάτεψέ τες: ούτε κινητό, ούτε κουβέντα, ούτε ειδήσεις μέσα στα μπλοκ δουλειάς. Πρόσθεσε μία επιπλέον συγκεντρωμένη ώρα νωρίς το πρωί και λέγε «πίσω στη δουλειά» όποτε ξεφεύγεις."
+      },
+      "check": {
+        "q": {"en": "What does «work all the time you work» mean?", "el": "Τι σημαίνει «την ώρα της δουλειάς, δούλευε»;"},
+        "options": [
+          {"en": "Never take a holiday or a day off", "el": "Να μην παίρνεις ποτέ άδεια ή ρεπό"},
+          {"en": "Answer work messages at any hour of the night", "el": "Να απαντάς σε μηνύματα δουλειάς ό,τι ώρα και να είναι"},
+          {"en": "During work hours do only work, no chatting", "el": "Στις ώρες δουλειάς να κάνεις μόνο δουλειά, χωρίς κουβέντες"}
+        ],
+        "answer": 2,
+        "why": {"en": "The gain comes from wasting no working time, not only from adding hours.", "el": "Το κέρδος έρχεται από το να μη χάνεις χρόνο δουλειάς, όχι μόνο από το να προσθέτεις ώρες."}
+      }
+    },
+    {
+      "title": {"en": "ABCDE and the 80/20 rule", "el": "ABCDE και ο κανόνας 80/20"},
+      "explain": {
+        "en": "Time management is choosing the order. About 20% of your tasks give 80% of your results. To find them, write tomorrow's list tonight and put a letter next to each task. A: must do, serious consequences if not. B: should do, mild consequences. C: nice to do, no consequences. D: delegate. E: eliminate. Number the A tasks, start with A-1, and never touch a B while an A is waiting.",
+        "el": "Διαχείριση χρόνου σημαίνει να διαλέγεις τη σειρά. Περίπου το 20% των εργασιών σου δίνει το 80% των αποτελεσμάτων. Για να τις βρεις, γράψε από απόψε τη λίστα του αύριο και βάλε ένα γράμμα δίπλα σε κάθε εργασία. A: πρέπει να γίνει, αλλιώς υπάρχουν σοβαρές συνέπειες. B: καλό είναι να γίνει, μικρές συνέπειες. C: ευχάριστο, καμία συνέπεια. D: το αναθέτεις. E: το κόβεις. Αρίθμησε τα A, ξεκίνα από το A-1 και μην αγγίζεις B όσο περιμένει ένα A."
+      },
+      "example": {
+        "en": "The rule comes from the Italian economist Vilfredo Pareto, who noticed in the 1890s that about 80% of the land in Italy belonged to about 20% of the people. The same uneven pattern was later found in business: a small part of customers, products and tasks usually brings most of the results.",
+        "el": "Ο κανόνας είναι του Ιταλού οικονομολόγου Vilfredo Pareto, που παρατήρησε τη δεκαετία του 1890 ότι περίπου το 80% της γης στην Ιταλία ανήκε στο 20% περίπου των ανθρώπων. Το ίδιο άνισο μοτίβο βρέθηκε αργότερα και στις επιχειρήσεις: ένα μικρό μέρος των πελατών, των προϊόντων και των εργασιών φέρνει συνήθως τα περισσότερα αποτελέσματα."
+      },
+      "apply": {
+        "en": "Write tomorrow's list tonight and letter it. Calls to new prospects and meetings are A. Client changes with a promised date are A or B. Polishing your own site is C. Repetitive edits go to D for your team or AI. Start at A-1 and stay there.",
+        "el": "Γράψε απόψε τη λίστα του αύριο και βάλε γράμματα. Τα τηλεφωνήματα σε νέους υποψήφιους πελάτες και τα ραντεβού είναι A. Οι αλλαγές πελατών με υποσχεμένη ημερομηνία είναι A ή B. Το γυάλισμα της δικής σου σελίδας είναι C. Οι επαναλαμβανόμενες διορθώσεις πάνε στο D, στην ομάδα σου ή στο AI. Ξεκίνα από το A-1 και μείνε εκεί."
+      },
+      "check": {
+        "q": {"en": "What makes a task an A in the ABCDE method?", "el": "Τι κάνει μια εργασία «A» στη μέθοδο ABCDE;"},
+        "options": [
+          {"en": "It is quick and easy to finish", "el": "Τελειώνει γρήγορα και εύκολα"},
+          {"en": "It has serious consequences if it is not done", "el": "Έχει σοβαρές συνέπειες αν δεν γίνει"},
+          {"en": "Someone asked for it most recently", "el": "Κάποιος τη ζήτησε πιο πρόσφατα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Priority is measured by consequences. The bigger the consequence of doing or not doing it, the higher the letter.", "el": "Η προτεραιότητα μετριέται με τις συνέπειες. Όσο μεγαλύτερη η συνέπεια αν γίνει ή δεν γίνει, τόσο πιο ψηλά το γράμμα."}
+      }
+    },
+    {
+      "title": {"en": "Eat the frog, one bite", "el": "Φάε τον βάτραχο, μονορούφι"},
+      "explain": {
+        "en": "Your frog is your biggest, most important task, the one you are most likely to put off. Eat it first thing in the morning, before email and before small jobs. If you have two frogs, eat the ugliest first. Then use single handling: once you start, stay with that task until it is 100% finished. Starting, stopping and coming back makes a task take several times longer.",
+        "el": "Ο «βάτραχός» σου είναι η πιο μεγάλη και σημαντική δουλειά σου, αυτή που είναι πιο πιθανό να αναβάλεις. Φάε τον πρώτο πρώτο το πρωί, πριν από τα email και πριν από τις μικροδουλειές. Αν έχεις δύο βατράχους, φάε πρώτα τον πιο άσχημο. Μετά εφάρμοσε το «μία κι έξω»: μόλις ξεκινήσεις, μείνε σε αυτή τη δουλειά μέχρι να τελειώσει 100%. Το να ξεκινάς, να σταματάς και να ξαναγυρνάς κάνει μια δουλειά να κρατά πολλαπλάσιο χρόνο."
+      },
+      "example": {
+        "en": "Gloria Mark of the University of California, Irvine, followed office workers through their day. After an interruption it took them on average around 23 minutes to return to the original task. A few interruptions in a morning are enough to eat most of it.",
+        "el": "Η Gloria Mark του University of California, Irvine, παρακολούθησε υπαλλήλους γραφείου μέσα στη μέρα τους. Μετά από μια διακοπή, χρειάζονταν κατά μέσο όρο γύρω στα 23 λεπτά για να γυρίσουν στην αρχική δουλειά. Λίγες διακοπές μέσα σε ένα πρωί φτάνουν για να το φάνε σχεδόν ολόκληρο."
+      },
+      "apply": {
+        "en": "Choose tomorrow's frog tonight and write it on a card: usually the calling block or one hard client conversation. Do it at 9:00 with email closed and the phone on silent, and do not open anything else until the card is done.",
+        "el": "Διάλεξε απόψε τον αυριανό βάτραχο και γράψ' τον σε μια κάρτα: συνήθως το μπλοκ με τα τηλεφωνήματα ή μια δύσκολη κουβέντα με πελάτη. Κάν' τον στις 9:00 με κλειστά τα email και το κινητό στο αθόρυβο, και μην ανοίξεις τίποτα άλλο μέχρι να τελειώσει η κάρτα."
+      },
+      "check": {
+        "q": {"en": "What is single handling?", "el": "Τι είναι το «μία κι έξω» (single handling);"},
+        "options": [
+          {"en": "Staying on one task until it is fully finished", "el": "Μένεις σε μία δουλειά μέχρι να τελειώσει εντελώς"},
+          {"en": "Doing every task alone, without any help", "el": "Κάνεις κάθε δουλειά μόνος, χωρίς βοήθεια"},
+          {"en": "Handling one small part of each task per day", "el": "Κάνεις ένα μικρό κομμάτι από κάθε δουλειά τη μέρα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Every switch costs time to get back in. One task, start to finish, is the fastest route.", "el": "Κάθε εναλλαγή κοστίζει χρόνο για να ξαναμπείς. Μία δουλειά, από την αρχή ως το τέλος, είναι ο πιο γρήγορος δρόμος."}
+      }
+    },
+    {
+      "title": {"en": "Discipline in sales", "el": "Πειθαρχία στις πωλήσεις"},
+      "explain": {
+        "en": "For Tracy a business exists to find and keep customers, and everything else comes second. In selling, the discipline is simple and hard: spend more time with better prospects. He says the average salesperson spends only about ninety minutes a day actually talking to customers, and fills the rest with preparation, coffee and paperwork. Prospect every day, plan your calls, ask for the order, follow up, and learn the craft of selling like a profession.",
+        "el": "Για τον Tracy μια επιχείρηση υπάρχει για να βρίσκει και να κρατά πελάτες, και όλα τα άλλα έρχονται δεύτερα. Στις πωλήσεις η πειθαρχία είναι απλή και δύσκολη: περισσότερος χρόνος με καλύτερους υποψήφιους πελάτες. Λέει ότι ο μέσος πωλητής μιλά πραγματικά με πελάτες μόνο ενενήντα λεπτά τη μέρα περίπου, και την υπόλοιπη ώρα τη γεμίζει με προετοιμασία, καφέδες και χαρτιά. Ψάχνε πελάτες κάθε μέρα, σχεδίαζε τα τηλεφωνήματα, ζήτα την παραγγελία, κάνε follow-up και μάθε την πώληση σαν επάγγελμα."
+      },
+      "example": {
+        "en": "Joe Girard, a Chevrolet salesman in Detroit, is in the Guinness book for selling 13,001 cars between 1963 and 1977, one at a time. His discipline was follow-up: every month he posted a greeting card to every customer he had ever had, thousands of cards, so that they came back and sent friends.",
+        "el": "Ο Joe Girard, πωλητής της Chevrolet στο Ντιτρόιτ, μπήκε στο βιβλίο Guinness επειδή πούλησε 13.001 αυτοκίνητα από το 1963 ως το 1977, ένα ένα. Η πειθαρχία του ήταν το follow-up: κάθε μήνα έστελνε μια ευχετήρια κάρτα σε κάθε πελάτη που είχε ποτέ, χιλιάδες κάρτες, ώστε να ξανάρχονται και να φέρνουν φίλους."
+      },
+      "apply": {
+        "en": "Measure one number every day: minutes spent actually talking to prospects. Aim to double it, and move building, admin and research to the afternoon. Call first the specialties that convert best for you, and end every good conversation by asking for the meeting.",
+        "el": "Μέτρα έναν αριθμό κάθε μέρα: τα λεπτά που μίλησες πραγματικά με υποψήφιους πελάτες. Βάλε στόχο να τον διπλασιάσεις, και μετάφερε κατασκευές, γραφειοκρατία και ψάξιμο στο απόγευμα. Πάρε πρώτα τις ειδικότητες που σου κλείνουν πιο εύκολα, και κλείνε κάθε καλή κουβέντα ζητώντας το ραντεβού."
+      },
+      "check": {
+        "q": {"en": "What is the core discipline of selling for Tracy?", "el": "Ποια είναι η βασική πειθαρχία στις πωλήσεις για τον Tracy;"},
+        "options": [
+          {"en": "Perfect the presentation before you call anyone", "el": "Να τελειοποιείς την παρουσίαση πριν πάρεις κανέναν"},
+          {"en": "Spend more time with better prospects", "el": "Περισσότερος χρόνος με καλύτερους υποψήφιους πελάτες"},
+          {"en": "Lower the price until the customer agrees", "el": "Να ρίχνεις την τιμή μέχρι να δεχτεί ο πελάτης"}
+        ],
+        "answer": 1,
+        "why": {"en": "Sales come from conversations with people who can buy. Everything else is preparation for that time.", "el": "Οι πωλήσεις βγαίνουν από κουβέντες με ανθρώπους που μπορούν να αγοράσουν. Όλα τα άλλα είναι προετοιμασία γι' αυτή την ώρα."}
+      }
+    },
+    {
+      "title": {"en": "Lead by example, think solutions", "el": "Ηγείσαι με το παράδειγμα, σκέφτεσαι λύσεις"},
+      "explain": {
+        "en": "A leader is watched all the time, so the first discipline of leadership is to be the example: clear about the goal, calm under pressure, the first to take responsibility and the last to blame. The second is to think in solutions. Define the problem clearly, ask what else the cause could be, list possible answers, choose one, give it an owner and a deadline, and act. Talking about who is at fault solves nothing.",
+        "el": "Τον ηγέτη τον παρακολουθούν συνέχεια, άρα η πρώτη πειθαρχία της ηγεσίας είναι να είσαι το παράδειγμα: ξεκάθαρος για τον στόχο, ψύχραιμος στην πίεση, ο πρώτος που αναλαμβάνει την ευθύνη και ο τελευταίος που κατηγορεί. Η δεύτερη είναι να σκέφτεσαι λύσεις. Όρισε καθαρά το πρόβλημα, ρώτα ποια άλλη μπορεί να είναι η αιτία, γράψε πιθανές απαντήσεις, διάλεξε μία, δώσε της υπεύθυνο και προθεσμία, και προχώρα. Το ποιος φταίει δεν λύνει τίποτα."
+      },
+      "example": {
+        "en": "When Lee Iacocca took over Chrysler, close to bankruptcy in 1979, he asked workers and suppliers for painful cuts. He first cut his own salary to one dollar for a year. People accepted sacrifices from a leader who had made one himself, and Chrysler repaid its government-backed loans early.",
+        "el": "Όταν ο Lee Iacocca ανέλαβε την Chrysler, που το 1979 ήταν στα πρόθυρα της χρεοκοπίας, ζήτησε από εργαζόμενους και προμηθευτές επώδυνες περικοπές. Πρώτα έκοψε τον δικό του μισθό σε ένα δολάριο για έναν χρόνο. Οι άνθρωποι δέχτηκαν θυσίες από έναν ηγέτη που είχε κάνει ο ίδιος μία, και η Chrysler ξεπλήρωσε τα δάνεια με την κρατική εγγύηση νωρίτερα."
+      },
+      "apply": {
+        "en": "Do in front of your team what you ask of them: be on time, answer clients the same day, admit your own mistakes first. When something breaks, open with «what is the solution and who does it by when?» and leave the question of blame out of the conversation.",
+        "el": "Κάνε μπροστά στην ομάδα σου αυτό που της ζητάς: να είσαι στην ώρα σου, να απαντάς στους πελάτες αυθημερόν, να παραδέχεσαι πρώτος τα δικά σου λάθη. Όταν κάτι χαλάσει, ξεκίνα με το «ποια είναι η λύση και ποιος την κάνει μέχρι πότε;» και άσε εκτός κουβέντας το ποιος φταίει."
+      },
+      "check": {
+        "q": {"en": "What does a solution-oriented person ask first?", "el": "Τι ρωτά πρώτα κάποιος που σκέφτεται λύσεις;"},
+        "options": [
+          {"en": "Who made this mistake and why", "el": "Ποιος έκανε το λάθος και γιατί"},
+          {"en": "How can we hide this from the client", "el": "Πώς θα το κρύψουμε από τον πελάτη"},
+          {"en": "What exactly is the problem and what do we do now", "el": "Ποιο ακριβώς είναι το πρόβλημα και τι κάνουμε τώρα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Blame looks at the past, which cannot change. Solutions look at the next action, which can.", "el": "Η κατηγορία κοιτάζει το παρελθόν, που δεν αλλάζει. Η λύση κοιτάζει την επόμενη κίνηση, που αλλάζει."}
+      }
+    },
+    {
+      "title": {"en": "Pay yourself first", "el": "Πλήρωσε πρώτα τον εαυτό σου"},
+      "explain": {
+        "en": "Most people spend first and try to save what is left, and nothing is left. Tracy turns it around: save first, from the top of every payment, and live on the rest. Start with only 1% of your income and learn to live on 99%. Raise it slowly to 10 or 20%. And beat Parkinson's law, expenses rising to meet income, with the wedge: save half of every future increase in income.",
+        "el": "Οι περισσότεροι ξοδεύουν πρώτα και προσπαθούν να αποταμιεύσουν ό,τι μείνει, και δεν μένει τίποτα. Ο Tracy το γυρίζει ανάποδα: αποταμίευσε πρώτα, από την κορυφή κάθε είσπραξης, και ζήσε με τα υπόλοιπα. Ξεκίνα μόνο με το 1% του εισοδήματός σου και μάθε να ζεις με το 99%. Ανέβασέ το σιγά σιγά στο 10 ή 20%. Και νίκησε τον νόμο του Parkinson, δηλαδή ότι τα έξοδα ανεβαίνουν όσο ανεβαίνει το εισόδημα, με τη «σφήνα»: αποταμίευε το μισό από κάθε μελλοντική αύξηση του εισοδήματος."
+      },
+      "example": {
+        "en": "The idea is old. In 1926 George Clason published The Richest Man in Babylon, short stories set in the ancient city, whose first rule is that a part of all you earn is yours to keep: at least one tenth, set aside before you pay anyone else. The book is still in print.",
+        "el": "Η ιδέα είναι παλιά. Το 1926 ο George Clason έβγαλε το «Ο πλουσιότερος άνθρωπος της Βαβυλώνας», μικρές ιστορίες στην αρχαία πόλη, με πρώτο κανόνα ότι ένα μέρος απ' όσα κερδίζεις είναι δικό σου για να το κρατήσεις: τουλάχιστον το ένα δέκατο, πριν πληρώσεις οποιονδήποτε άλλον. Το βιβλίο τυπώνεται ακόμα."
+      },
+      "apply": {
+        "en": "Open a separate account and set an automatic transfer on the day money comes in, starting with a small fixed percentage of every hosting payment. Each time monthly income rises, move half of the rise there. Wait thirty days before any large purchase.",
+        "el": "Άνοιξε έναν ξεχωριστό λογαριασμό και βάλε αυτόματη μεταφορά τη μέρα που μπαίνουν χρήματα, ξεκινώντας από ένα μικρό σταθερό ποσοστό κάθε πληρωμής φιλοξενίας. Κάθε φορά που ανεβαίνει το μηνιαίο εισόδημα, στείλε εκεί το μισό της αύξησης. Περίμενε τριάντα μέρες πριν από κάθε μεγάλη αγορά."
+      },
+      "check": {
+        "q": {"en": "What is the wedge?", "el": "Τι είναι η «σφήνα»;"},
+        "options": [
+          {"en": "Saving half of every rise in your income", "el": "Αποταμιεύεις το μισό από κάθε αύξηση εισοδήματος"},
+          {"en": "Cutting all spending for one month a year", "el": "Κόβεις όλα τα έξοδα έναν μήνα τον χρόνο"},
+          {"en": "Borrowing to invest when prices are low", "el": "Δανείζεσαι για να επενδύσεις όταν πέφτουν οι τιμές"}
+        ],
+        "answer": 0,
+        "why": {"en": "You still enjoy half of each raise, but your spending no longer grows as fast as your income.", "el": "Απολαμβάνεις το μισό κάθε αύξησης, αλλά τα έξοδά σου δεν ανεβαίνουν πια όσο γρήγορα ανεβαίνει το εισόδημα."}
+      }
+    },
+    {
+      "title": {"en": "Integrity is everything", "el": "Η ακεραιότητα είναι το παν"},
+      "explain": {
+        "en": "Tracy calls integrity the value that guarantees all your other values. It means you tell the truth, keep your word and do what is right even when it costs you and nobody is watching. All business runs on trust, so your reputation is your biggest asset. His test: what kind of world would it be if everyone in it were just like me? Character is built by small disciplined choices and lost in one shortcut.",
+        "el": "Ο Tracy λέει ότι η ακεραιότητα είναι η αξία που εγγυάται όλες τις άλλες σου αξίες. Σημαίνει ότι λες την αλήθεια, κρατάς τον λόγο σου και κάνεις το σωστό ακόμα κι όταν σου κοστίζει και δεν σε βλέπει κανείς. Όλες οι δουλειές στηρίζονται στην εμπιστοσύνη, άρα το όνομά σου είναι το μεγαλύτερο κεφάλαιό σου. Το τεστ του: πώς θα ήταν ο κόσμος αν όλοι ήταν ακριβώς σαν εμένα; Ο χαρακτήρας χτίζεται με μικρές πειθαρχημένες επιλογές και χάνεται με μία «κοπάνα»."
+      },
+      "example": {
+        "en": "In 1982 seven people in Chicago died after someone poisoned Tylenol capsules on shop shelves. Johnson and Johnson was not at fault, yet it recalled about 31 million bottles across the United States at a cost of roughly 100 million dollars. Customers trusted the company again within a year.",
+        "el": "Το 1982 επτά άνθρωποι στο Σικάγο πέθαναν όταν κάποιος δηλητηρίασε κάψουλες Tylenol στα ράφια. Η Johnson and Johnson δεν έφταιγε, κι όμως απέσυρε περίπου 31 εκατομμύρια μπουκάλια σε όλες τις Ηνωμένες Πολιτείες, με κόστος γύρω στα 100 εκατομμύρια δολάρια. Μέσα σε έναν χρόνο οι πελάτες την εμπιστεύονταν ξανά."
+      },
+      "apply": {
+        "en": "Promise on a call only what the site will really do, and never a ranking or a number of new patients you cannot guarantee. If you gave a delivery date, keep it or call before it passes. One kept promise to a doctor brings his colleagues.",
+        "el": "Υποσχέσου στο τηλέφωνο μόνο ό,τι θα κάνει πραγματικά η ιστοσελίδα, και ποτέ μια θέση στο Google ή έναν αριθμό νέων ασθενών που δεν μπορείς να εγγυηθείς. Αν έδωσες ημερομηνία παράδοσης, κράτα την ή πάρε τηλέφωνο πριν περάσει. Μία υπόσχεση που τηρήθηκε σε έναν γιατρό φέρνει τους συναδέλφους του."
+      },
+      "check": {
+        "q": {"en": "Why does Tracy put integrity above other values?", "el": "Γιατί ο Tracy βάζει την ακεραιότητα πάνω από τις άλλες αξίες;"},
+        "options": [
+          {"en": "Because it makes you popular with everyone", "el": "Γιατί σε κάνει αγαπητό σε όλους"},
+          {"en": "Because it guarantees that you live by the others", "el": "Γιατί εγγυάται ότι θα τηρείς και τις υπόλοιπες"},
+          {"en": "Because the law punishes people who lie", "el": "Γιατί ο νόμος τιμωρεί όσους λένε ψέματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "A value you drop when it becomes inconvenient is not a value. Integrity is what makes you keep them.", "el": "Μια αξία που την αφήνεις μόλις σε δυσκολέψει δεν είναι αξία. Η ακεραιότητα είναι αυτό που σε κάνει να τις τηρείς."}
+      }
+    },
+    {
+      "title": {"en": "The law of association", "el": "Ο νόμος της συναναστροφής"},
+      "explain": {
+        "en": "You become like the people you spend most time with. Their habits, standards and way of talking about work and money slowly become yours. Tracy says: choose them on purpose. Spend time with people who are going somewhere and step back from those who complain and blame. The same discipline applies at home: marriage, children and friendships need planned time, real listening and kept commitments, exactly like customers.",
+        "el": "Γίνεσαι σαν τους ανθρώπους με τους οποίους περνάς τον περισσότερο χρόνο. Οι συνήθειές τους, το επίπεδό τους και ο τρόπος που μιλάνε για τη δουλειά και τα χρήματα γίνονται σιγά σιγά δικά σου. Ο Tracy λέει: διάλεξέ τους συνειδητά. Κάνε παρέα με ανθρώπους που πάνε κάπου και απομακρύνσου από όσους γκρινιάζουν και κατηγορούν. Η ίδια πειθαρχία ισχύει και στο σπίτι: ο γάμος, τα παιδιά και οι φιλίες θέλουν προγραμματισμένο χρόνο, πραγματικό άκουσμα και υποσχέσεις που τηρούνται, ακριβώς όπως οι πελάτες."
+      },
+      "example": {
+        "en": "In 2007 Nicholas Christakis and James Fowler published a study of about 12,000 people followed over 32 years in Framingham, Massachusetts. When a person's friend became obese, that person's own chance of becoming obese rose by 57%. Habits spread through the people we are close to.",
+        "el": "Το 2007 οι Nicholas Christakis και James Fowler δημοσίευσαν μια μελέτη με περίπου 12.000 ανθρώπους που παρακολουθήθηκαν επί 32 χρόνια στο Framingham της Μασαχουσέτης. Όταν ένας φίλος κάποιου γινόταν παχύσαρκος, η πιθανότητα να γίνει και ο ίδιος ανέβαινε κατά 57%. Οι συνήθειες περνούν από τους ανθρώπους που έχουμε κοντά μας."
+      },
+      "apply": {
+        "en": "Name two people who run a bigger business than yours and arrange to talk to each once a month. Reduce the time you give to people who only complain. And put two evenings a week for family or friends in the calendar as fixed appointments.",
+        "el": "Γράψε δύο ανθρώπους που τρέχουν μεγαλύτερη επιχείρηση από τη δική σου και κανόνισε να μιλάς με τον καθένα μία φορά τον μήνα. Μείωσε τον χρόνο που δίνεις σε όσους μόνο παραπονιούνται. Και βάλε στο ημερολόγιο δύο βράδια την εβδομάδα για οικογένεια ή φίλους, σαν σταθερά ραντεβού."
+      },
+      "check": {
+        "q": {"en": "What does the law of association say?", "el": "Τι λέει ο νόμος της συναναστροφής;"},
+        "options": [
+          {"en": "You should join as many business clubs as possible", "el": "Πρέπει να γραφτείς σε όσο περισσότερους συλλόγους γίνεται"},
+          {"en": "Successful people prefer to work completely alone", "el": "Οι πετυχημένοι προτιμούν να δουλεύουν εντελώς μόνοι"},
+          {"en": "You become like the people you spend time with", "el": "Γίνεσαι σαν αυτούς με τους οποίους κάνεις παρέα"}
+        ],
+        "answer": 2,
+        "why": {"en": "We copy the people around us without noticing, so the choice of company is a choice of future.", "el": "Αντιγράφουμε τους γύρω μας χωρίς να το καταλαβαίνουμε, άρα η επιλογή της παρέας είναι επιλογή μέλλοντος."}
+      }
+    },
+    {
+      "title": {"en": "Discipline of the body", "el": "Πειθαρχία στο σώμα"},
+      "explain": {
+        "en": "Energy comes before everything else, so Tracy treats health as a discipline, not a hobby. Exercise every day, about thirty minutes, around two hundred minutes a week. Eat less and eat better. Cut down the three white poisons: sugar, salt and white flour. Drink water, sleep seven to eight hours, keep a proper weight and see a doctor regularly. His goal for you is to live long and feel strong while you do it.",
+        "el": "Η ενέργεια έρχεται πριν από όλα τα άλλα, γι' αυτό ο Tracy βλέπει την υγεία σαν πειθαρχία, όχι σαν χόμπι. Γυμνάσου κάθε μέρα, περίπου τριάντα λεπτά, γύρω στα διακόσια λεπτά την εβδομάδα. Φάε λιγότερο και καλύτερα. Μείωσε τα «τρία λευκά δηλητήρια»: ζάχαρη, αλάτι και άσπρο αλεύρι. Πίνε νερό, κοιμήσου επτά με οκτώ ώρες, κράτα σωστό βάρος και κάνε τακτικά εξετάσεις. Ο στόχος του για σένα είναι να ζήσεις πολλά χρόνια και να νιώθεις δυνατός όσο τα ζεις."
+      },
+      "example": {
+        "en": "His numbers are close to official advice. The World Health Organization recommends 150 to 300 minutes of moderate activity a week for adults, less than five grams of salt a day, and keeping added sugar under a tenth of daily calories. Tracy's two hundred minutes sits inside that range.",
+        "el": "Τα νούμερά του είναι κοντά στις επίσημες οδηγίες. Ο Παγκόσμιος Οργανισμός Υγείας συστήνει στους ενήλικες 150 με 300 λεπτά μέτριας άσκησης την εβδομάδα, λιγότερο από πέντε γραμμάρια αλάτι τη μέρα και πρόσθετη ζάχαρη κάτω από το ένα δέκατο των ημερήσιων θερμίδων. Τα διακόσια λεπτά του Tracy είναι μέσα σε αυτά τα όρια."
+      },
+      "apply": {
+        "en": "Put thirty minutes of movement in the calendar before work, as fixed as a client meeting. Keep sweets and white bread out of the office so calling hours do not end in a sugar crash. Go to bed at a set hour on the nights before calling days.",
+        "el": "Βάλε στο ημερολόγιο τριάντα λεπτά κίνησης πριν από τη δουλειά, σταθερά όπως ένα ραντεβού με πελάτη. Κράτα γλυκά και άσπρο ψωμί έξω από το γραφείο, για να μην τελειώνουν οι ώρες των τηλεφωνημάτων με πτώση από τη ζάχαρη. Πέφτε για ύπνο σταθερή ώρα τα βράδια πριν από μέρες με τηλέφωνα."
+      },
+      "check": {
+        "q": {"en": "Which are the three white poisons in the book?", "el": "Ποια είναι τα «τρία λευκά δηλητήρια» του βιβλίου;"},
+        "options": [
+          {"en": "Sugar, salt and white flour", "el": "Ζάχαρη, αλάτι και άσπρο αλεύρι"},
+          {"en": "Milk, rice and white bread", "el": "Γάλα, ρύζι και άσπρο ψωμί"},
+          {"en": "Sugar, butter and white wine", "el": "Ζάχαρη, βούτυρο και άσπρο κρασί"}
+        ],
+        "answer": 0,
+        "why": {"en": "Tracy asks you to cut down these three, together with eating less and moving every day.", "el": "Ο Tracy ζητά να περιορίσεις αυτά τα τρία, μαζί με το να τρως λιγότερο και να κινείσαι κάθε μέρα."}
+      }
+    },
+    {
+      "title": {"en": "Forgive everyone, now", "el": "Συγχώρεσέ τους όλους, τώρα"},
+      "explain": {
+        "en": "The last discipline is inside you. Tracy says most unhappiness comes from negative emotions, and they come from blame: someone did something to me. The way out is to forgive, completely and at once. Forgive your parents, forgive everyone who ever hurt or cheated you, forgive yourself, and say sorry where you were wrong. Forgiving does not mean they were right. It means you stop carrying them. Peace of mind is the real goal.",
+        "el": "Η τελευταία πειθαρχία είναι μέσα σου. Ο Tracy λέει ότι η περισσότερη δυστυχία βγαίνει από αρνητικά συναισθήματα, κι αυτά βγαίνουν από την κατηγορία: κάποιος μου έκανε κάτι. Η διέξοδος είναι να συγχωρείς, εντελώς και αμέσως. Συγχώρεσε τους γονείς σου, συγχώρεσε όποιον σε πλήγωσε ή σε εξαπάτησε, συγχώρεσε τον εαυτό σου, και ζήτα συγγνώμη εκεί που έφταιξες. Η συγχώρεση δεν σημαίνει ότι είχαν δίκιο. Σημαίνει ότι σταματάς να τους κουβαλάς. Ο πραγματικός στόχος είναι η ηρεμία."
+      },
+      "example": {
+        "en": "Nelson Mandela spent 27 years in prison. When he became president of South Africa in 1994 he invited former prison guards to his inauguration as guests. He explained later that if he had left prison still hating, he would have stayed a prisoner in his own mind.",
+        "el": "Ο Nelson Mandela έμεινε 27 χρόνια στη φυλακή. Όταν έγινε πρόεδρος της Νότιας Αφρικής το 1994, κάλεσε πρώην δεσμοφύλακές του ως επίσημους προσκεκλημένους στην ορκωμοσία του. Εξήγησε αργότερα ότι αν είχε βγει από τη φυλακή μισώντας ακόμα, θα έμενε φυλακισμένος μέσα στο μυαλό του."
+      },
+      "apply": {
+        "en": "Write the names of the people you are still angry with: the client who never paid, the partner who let you down. Next to each write «I forgive him and let it go», and decide what you learned. Then make your next call with a clean head.",
+        "el": "Γράψε τα ονόματα των ανθρώπων με τους οποίους είσαι ακόμα θυμωμένος: τον πελάτη που δεν πλήρωσε ποτέ, τον συνεργάτη που σε κρέμασε. Δίπλα στο καθένα γράψε «τον συγχωρώ και το αφήνω» και σημείωσε τι έμαθες. Μετά κάνε το επόμενο τηλεφώνημα με καθαρό μυαλό."
+      },
+      "check": {
+        "q": {"en": "Why does Tracy ask you to forgive?", "el": "Γιατί σου ζητά ο Tracy να συγχωρείς;"},
+        "options": [
+          {"en": "Because the other person was probably right", "el": "Γιατί ο άλλος μάλλον είχε δίκιο"},
+          {"en": "Because it frees you from anger and blame", "el": "Γιατί σε ελευθερώνει από τον θυμό και την κατηγορία"},
+          {"en": "Because forgiving people makes them pay you back", "el": "Γιατί όταν συγχωρείς, οι άλλοι σου το ξεπληρώνουν"}
+        ],
+        "answer": 1,
+        "why": {"en": "Forgiveness is for you. It ends the negative emotion, whatever the other person does.", "el": "Η συγχώρεση είναι για σένα. Σταματά το αρνητικό συναίσθημα, ό,τι κι αν κάνει ο άλλος."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "It is 9:00. On your list: forty cold calls, answering five easy emails and fixing a small detail on your own site. Where do you start?", "el": "Είναι 9:00. Στη λίστα σου: σαράντα cold calls, πέντε εύκολα email και μια μικρή διόρθωση στη δική σου σελίδα. Από πού ξεκινάς;"},
+      "options": [
+        {"en": "The emails, to warm up and clear the list", "el": "Από τα email, για ζέσταμα και να αδειάσει η λίστα"},
+        {"en": "The small fix, because it takes only ten minutes", "el": "Από τη μικρή διόρθωση, γιατί θέλει μόνο δέκα λεπτά"},
+        {"en": "The calls, without stopping until the block is done", "el": "Από τα τηλεφωνήματα, χωρίς διακοπή μέχρι να τελειώσει το μπλοκ"}
+      ],
+      "answer": 2,
+      "why": {"en": "The calls are the frog: the most important task and the one you most want to avoid. Eat it first, in one go.", "el": "Τα τηλεφωνήματα είναι ο βάτραχος: η πιο σημαντική δουλειά και αυτή που θέλεις περισσότερο να αποφύγεις. Φάε τον πρώτο, μονορούφι."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "A slow month. You catch yourself saying: «August is dead, doctors are away, nothing can be done.» What does Tracy want from you?", "el": "Αργός μήνας. Πιάνεις τον εαυτό σου να λέει: «Ο Αύγουστος είναι νεκρός, οι γιατροί λείπουν, δεν γίνεται τίποτα». Τι θέλει από σένα ο Tracy;"},
+      "options": [
+        {"en": "Say «I am responsible» and decide what you will change", "el": "Να πεις «εγώ είμαι υπεύθυνος» και να αποφασίσεις τι θα αλλάξεις"},
+        {"en": "Accept it and rest until September comes", "el": "Να το δεχτείς και να ξεκουραστείς ως τον Σεπτέμβριο"},
+        {"en": "Explain the situation to everyone who asks", "el": "Να εξηγείς την κατάσταση σε όποιον ρωτάει"}
+      ],
+      "answer": 0,
+      "why": {"en": "Blaming the season leaves you waiting. Responsibility gives you a move: another niche, another hour, more follow-ups.", "el": "Αν φταίει η εποχή, απλώς περιμένεις. Η ευθύνη σού δίνει κίνηση: άλλη ειδικότητα, άλλη ώρα, περισσότερα follow-up."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "This month you earned clearly more than usual. You are looking at a new laptop and a more expensive car lease. What is Tracy's rule?", "el": "Αυτόν τον μήνα έβγαλες σαφώς περισσότερα από το συνηθισμένο. Κοιτάς νέο laptop και ακριβότερο leasing αυτοκινήτου. Ποιος είναι ο κανόνας του Tracy;"},
+      "options": [
+        {"en": "Spend it, because you worked hard and deserve it", "el": "Ξόδεψέ τα, γιατί δούλεψες σκληρά και το αξίζεις"},
+        {"en": "Save half of the increase before you spend anything", "el": "Βάλε στην άκρη το μισό της αύξησης πριν ξοδέψεις οτιδήποτε"},
+        {"en": "Save only if something is left at the end of the month", "el": "Αποταμίευσε μόνο αν περισσέψει κάτι στο τέλος του μήνα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Pay yourself first, and use the wedge: half of every rise is saved, so expenses do not climb with income.", "el": "Πλήρωσε πρώτα τον εαυτό σου και βάλε τη «σφήνα»: το μισό κάθε αύξησης αποταμιεύεται, ώστε τα έξοδα να μην ανεβαίνουν μαζί με το εισόδημα."},
+      "idea": 11
+    },
+    {
+      "q": {"en": "A dentist is almost ready to say yes and asks: «Will this site bring me first place on Google?» You know you cannot guarantee it. What do you say?", "el": "Ένας οδοντίατρος είναι σχεδόν έτοιμος να πει ναι και ρωτά: «Θα με βγάλει πρώτο στο Google αυτή η σελίδα;». Ξέρεις ότι δεν μπορείς να το εγγυηθείς. Τι λες;"},
+      "options": [
+        {"en": "«Yes, of course», and deal with it later", "el": "«Ναι, φυσικά», και βλέπεις αργότερα"},
+        {"en": "Change the subject to the price quickly", "el": "Αλλάζεις γρήγορα θέμα και πας στην τιμή"},
+        {"en": "The truth: what the site does and what nobody can promise", "el": "Την αλήθεια: τι κάνει η σελίδα και τι δεν μπορεί να υποσχεθεί κανείς"}
+      ],
+      "answer": 2,
+      "why": {"en": "Integrity guarantees every other value. A sale won with a false promise costs you the client and his colleagues.", "el": "Η ακεραιότητα εγγυάται όλες τις άλλες αξίες. Μια πώληση με ψεύτικη υπόσχεση σου κοστίζει τον πελάτη και τους συναδέλφους του."},
+      "idea": 12
+    },
+    {
+      "q": {"en": "At the end of the day you worked ten hours, but you spoke with prospects for only forty minutes. What do you change tomorrow?", "el": "Στο τέλος της μέρας δούλεψες δέκα ώρες, αλλά μίλησες με υποψήφιους πελάτες μόνο σαράντα λεπτά. Τι αλλάζεις αύριο;"},
+      "options": [
+        {"en": "Work twelve hours so that more gets done", "el": "Δουλεύεις δώδεκα ώρες για να βγει περισσότερη δουλειά"},
+        {"en": "Block the morning for calls and move everything else later", "el": "Κλείνεις το πρωί για τηλέφωνα και μεταφέρεις όλα τα άλλα αργότερα"},
+        {"en": "Prepare a better presentation before calling again", "el": "Ετοιμάζεις καλύτερη παρουσίαση πριν ξαναπάρεις τηλέφωνα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Sales discipline is more time with better prospects. Long hours of other work do not replace selling time.", "el": "Πειθαρχία στις πωλήσεις σημαίνει περισσότερος χρόνος με καλύτερους υποψήφιους πελάτες. Οι πολλές ώρες σε άλλες δουλειές δεν αντικαθιστούν την ώρα της πώλησης."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "A former partner let you down two years ago. You still replay it in your head, and it ruins your evenings. What does the book advise?", "el": "Ένας πρώην συνεργάτης σε κρέμασε πριν από δύο χρόνια. Το ξαναπαίζεις ακόμα στο μυαλό σου και σου χαλά τα βράδια. Τι συμβουλεύει το βιβλίο;"},
+      "options": [
+        {"en": "Forgive him fully, keep the lesson and let it go", "el": "Συγχώρεσέ τον εντελώς, κράτα το μάθημα και άφησέ το"},
+        {"en": "Wait until he apologises to you first", "el": "Περίμενε να σου ζητήσει πρώτος συγγνώμη"},
+        {"en": "Tell the story to others so they avoid him", "el": "Πες την ιστορία σε άλλους για να τον αποφύγουν"}
+      ],
+      "answer": 0,
+      "why": {"en": "Forgiveness is for your own peace of mind. Waiting for his apology keeps him in control of your mood.", "el": "Η συγχώρεση είναι για τη δική σου ηρεμία. Αν περιμένεις τη συγγνώμη του, εκείνος ελέγχει τη διάθεσή σου."},
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Tracy says self-discipline is a talent you are born with or without.", "el": "Ο Tracy λέει ότι η αυτοπειθαρχία είναι ταλέντο με το οποίο γεννιέσαι ή όχι."},
+      "answer": false,
+      "why": {"en": "He says it is a habit, built by practice and repetition, and anyone can develop it.", "el": "Λέει ότι είναι συνήθεια που χτίζεται με εξάσκηση και επανάληψη, και μπορεί να την αποκτήσει ο καθένας."}
+    },
+    {
+      "s": {"en": "In the ABCDE method you never do a B task while an A task is still undone.", "el": "Στη μέθοδο ABCDE δεν κάνεις ποτέ μια εργασία B όσο περιμένει μια εργασία A."},
+      "answer": true,
+      "why": {"en": "A tasks have the most serious consequences, so they always come first.", "el": "Οι εργασίες A έχουν τις πιο σοβαρές συνέπειες, άρα πάνε πάντα πρώτες."}
+    },
+    {
+      "s": {"en": "Pay yourself first means saving whatever is left at the end of the month.", "el": "«Πλήρωσε πρώτα τον εαυτό σου» σημαίνει να αποταμιεύεις ό,τι μείνει στο τέλος του μήνα."},
+      "answer": false,
+      "why": {"en": "It is the opposite: you save from the top, the day the money arrives, and live on the rest.", "el": "Είναι το αντίθετο: αποταμιεύεις από την κορυφή, τη μέρα που μπαίνουν τα χρήματα, και ζεις με τα υπόλοιπα."}
+    },
+    {
+      "s": {"en": "The 40-plus formula says hours above forty a week are an investment in your future.", "el": "Η φόρμουλα «40 και πάνω» λέει ότι οι ώρες πάνω από τις σαράντα την εβδομάδα είναι επένδυση στο μέλλον σου."},
+      "answer": true,
+      "why": {"en": "Forty hours is survival. Tracy says the extra hours, used well, are what move you ahead.", "el": "Οι σαράντα ώρες είναι επιβίωση. Ο Tracy λέει ότι οι επιπλέον ώρες, αν αξιοποιηθούν σωστά, σε πάνε μπροστά."}
+    },
+    {
+      "s": {"en": "Eat that frog means saving your hardest task for the end of the day.", "el": "«Φάε τον βάτραχο» σημαίνει να αφήνεις την πιο δύσκολη δουλειά για το τέλος της μέρας."},
+      "answer": false,
+      "why": {"en": "The frog is done first thing in the morning, before anything smaller.", "el": "Ο βάτραχος γίνεται πρώτος το πρωί, πριν από οτιδήποτε μικρότερο."}
+    },
+    {
+      "s": {"en": "For Tracy, the people you spend time with strongly shape what you become.", "el": "Για τον Tracy, οι άνθρωποι με τους οποίους κάνεις παρέα διαμορφώνουν σε μεγάλο βαθμό το ποιος γίνεσαι."},
+      "answer": true,
+      "why": {"en": "That is the law of association: you slowly take on their habits and standards.", "el": "Αυτός είναι ο νόμος της συναναστροφής: παίρνεις σιγά σιγά τις συνήθειες και το επίπεδό τους."}
+    },
+    {
+      "s": {"en": "Forgiving someone means admitting that what they did was right.", "el": "Το να συγχωρείς κάποιον σημαίνει ότι παραδέχεσαι πως αυτό που έκανε ήταν σωστό."},
+      "answer": false,
+      "why": {"en": "It only means you drop the anger so it stops hurting you. You can still keep the lesson.", "el": "Σημαίνει μόνο ότι αφήνεις τον θυμό για να πάψει να σε πληγώνει. Το μάθημα το κρατάς."}
+    },
+    {
+      "s": {"en": "The seven-step method asks you to write the goal down and give it a deadline.", "el": "Η μέθοδος των επτά βημάτων σού ζητά να γράψεις τον στόχο και να του βάλεις προθεσμία."},
+      "answer": true,
+      "why": {"en": "Steps two and three: write it down, set a deadline. Then list, plan, act and continue daily.", "el": "Βήματα δύο και τρία: γράψ' το, βάλε προθεσμία. Μετά λίστα, σχέδιο, πράξη και καθημερινή συνέχεια."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Self-discipline", "el": "Αυτοπειθαρχία"}, "b": {"en": "Doing what you should, whether you feel like it or not", "el": "Κάνεις αυτό που πρέπει, είτε έχεις όρεξη είτε όχι"}},
+    {"a": {"en": "Someday Isle", "el": "Το νησί «κάποια μέρα»"}, "b": {"en": "Where excuses and postponed plans live", "el": "Εκεί που ζουν οι δικαιολογίες και οι αναβολές"}},
+    {"a": {"en": "Eat that frog", "el": "Φάε τον βάτραχο"}, "b": {"en": "Do the hardest important task first", "el": "Κάνε πρώτη τη δύσκολη, σημαντική δουλειά"}},
+    {"a": {"en": "Single handling", "el": "Μία κι έξω"}, "b": {"en": "Stay on one task until it is finished", "el": "Μένεις σε μία δουλειά μέχρι να τελειώσει"}},
+    {"a": {"en": "The wedge", "el": "Η σφήνα"}, "b": {"en": "Save half of every increase in income", "el": "Αποταμιεύεις το μισό κάθε αύξησης εισοδήματος"}},
+    {"a": {"en": "40-plus formula", "el": "Φόρμουλα 40 και πάνω"}, "b": {"en": "Hours above forty build your future", "el": "Οι ώρες πάνω από σαράντα χτίζουν το μέλλον"}}
+  ],
+  "missions": [
+    {"en": "Write ten goals for the next twelve months, circle the most important one and do one step toward it today.", "el": "Γράψε δέκα στόχους για τους επόμενους δώδεκα μήνες, κύκλωσε τον πιο σημαντικό και κάνε σήμερα ένα βήμα προς αυτόν."},
+    {"en": "Write tomorrow's task list tonight, put A, B, C, D or E next to each line and number the A tasks.", "el": "Γράψε απόψε τη λίστα του αύριο, βάλε A, B, C, D ή E δίπλα σε κάθε γραμμή και αρίθμησε τα A."},
+    {"en": "Make the one call you have been avoiding before you open your email tomorrow morning.", "el": "Κάνε το ένα τηλεφώνημα που αποφεύγεις, αύριο το πρωί, πριν ανοίξεις τα email."},
+    {"en": "Set up an automatic transfer of a small percentage of your income to a separate savings account.", "el": "Στήσε μια αυτόματη μεταφορά ενός μικρού ποσοστού του εισοδήματός σου σε ξεχωριστό λογαριασμό αποταμίευσης."},
+    {"en": "Listen to twenty minutes of a sales audiobook or podcast on your next drive or walk.", "el": "Άκου είκοσι λεπτά από ένα audiobook ή podcast για πωλήσεις στην επόμενη διαδρομή ή βόλτα σου."}
+  ],
+  "mantra": {"en": "I do what I should, when I should, whether I feel like it or not.", "el": "Κάνω αυτό που πρέπει, όταν πρέπει, είτε έχω όρεξη είτε όχι."},
+  "careful": {
+    "en": "Tracy states many numbers as facts, the 3% with written goals, the half-wasted working day, with no solid sources, and the famous Yale and Harvard goal studies he has quoted elsewhere never existed. Everything is put on the individual, with little room for luck, health or circumstances. Research also shows output per hour falls sharply beyond about fifty hours a week, so sixty-hour weeks can cost more than they give.",
+    "el": "Ο Tracy παρουσιάζει πολλά νούμερα σαν δεδομένα, το 3% με τους γραπτούς στόχους, τη μισή χαμένη εργάσιμη μέρα, χωρίς σοβαρές πηγές, και οι διάσημες «έρευνες» του Yale και του Harvard για τους στόχους, που έχει αναφέρει αλλού, δεν έγιναν ποτέ. Όλα φορτώνονται στο άτομο, με λίγο χώρο για τύχη, υγεία ή συνθήκες. Οι έρευνες δείχνουν επίσης ότι η απόδοση ανά ώρα πέφτει απότομα πάνω από τις πενήντα ώρες την εβδομάδα περίπου, άρα οι εξηντάωρες εβδομάδες μπορεί να κοστίζουν περισσότερο απ' όσο δίνουν."
+  },
+  "connects": [
+    {"book": "feel-good-productivity", "note": {"en": "Abdaal says make the work feel good so you want to do it, while Tracy says do it anyway. Use Abdaal to start and Tracy to finish.", "el": "Ο Abdaal λέει κάνε τη δουλειά ευχάριστη για να θέλεις να την κάνεις, ενώ ο Tracy λέει κάν' την ούτως ή άλλως. Με τον Abdaal ξεκινάς, με τον Tracy τελειώνεις."}},
+    {"book": "meditations", "note": {"en": "Marcus Aurelius also tells himself each morning to get up and do his duty without complaint, which is Tracy's rule in a Roman emperor's words.", "el": "Και ο Μάρκος Αυρήλιος λέει κάθε πρωί στον εαυτό του να σηκωθεί και να κάνει το καθήκον του χωρίς γκρίνια, δηλαδή τον κανόνα του Tracy με τα λόγια ενός Ρωμαίου αυτοκράτορα."}},
+    {"book": "secrets-of-closing", "note": {"en": "Ziglar teaches what to say to the customer, and Tracy gives the daily discipline that puts you in front of enough customers to say it.", "el": "Ο Ziglar διδάσκει τι να πεις στον πελάτη, και ο Tracy δίνει την καθημερινή πειθαρχία που σε φέρνει μπροστά σε αρκετούς πελάτες για να το πεις."}}
+  ]
+}

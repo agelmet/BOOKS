@@ -1,0 +1,1081 @@
+{
+  "id": "nicomachean-ethics",
+  "title": {
+    "en": "Nicomachean Ethics",
+    "el": "Ηθικά Νικομάχεια"
+  },
+  "author": "Aristotle",
+  "authorEl": "Αριστοτέλης",
+  "year": -340,
+  "shelf": "wisdom",
+  "skills": {
+    "wisdom": 3,
+    "mindset": 2,
+    "leadership": 2
+  },
+  "oneLine": {
+    "en": "A good life is a life of excellent activity guided by reason: you build character through habit, aim at the mean, and share it with true friends.",
+    "el": "Καλή ζωή είναι η ζωή της άριστης πράξης με οδηγό τη λογική: χτίζεις χαρακτήρα με τη συνήθεια, στοχεύεις στο μέτρο και τη μοιράζεσαι με αληθινούς φίλους."
+  },
+  "story": {
+    "en": "Aristotle taught this course at his school in Athens, the Lyceum, around 340 BC. The ten books are probably his lecture notes, named after his son Nicomachus. It is the first systematic study of how to live: what happiness is, how character is formed, how to choose well. For more than two thousand years almost every serious discussion of virtue, friendship and the good life has started from it.",
+    "el": "Ο Αριστοτέλης δίδαξε αυτά τα μαθήματα στη σχολή του στην Αθήνα, το Λύκειο, γύρω στο 340 π.Χ. Τα δέκα βιβλία είναι μάλλον οι σημειώσεις των παραδόσεών του και πήραν το όνομα του γιου του, του Νικόμαχου. Είναι η πρώτη συστηματική μελέτη για το πώς να ζεις: τι είναι ευτυχία, πώς φτιάχνεται ο χαρακτήρας, πώς διαλέγεις σωστά. Εδώ και πάνω από δύο χιλιάδες χρόνια σχεδόν κάθε σοβαρή συζήτηση για την αρετή, τη φιλία και την καλή ζωή ξεκινά από εδώ."
+  },
+  "forYou": {
+    "en": "You are building a business and yourself at the same time. This book says the two are one job: who you become depends on what you do every day. It gives you a way to judge any decision, not too much and not too little, tells you which friendships and partnerships last, and reminds you what the money and the growth are for.",
+    "el": "Χτίζεις ταυτόχρονα μια επιχείρηση και τον εαυτό σου. Το βιβλίο λέει ότι αυτά τα δύο είναι μία δουλειά: το ποιος γίνεσαι εξαρτάται από το τι κάνεις κάθε μέρα. Σου δίνει έναν τρόπο να κρίνεις κάθε απόφαση, ούτε πολύ ούτε λίγο, σου λέει ποιες φιλίες και συνεργασίες αντέχουν και σου θυμίζει σε τι χρησιμεύουν τα χρήματα και η ανάπτυξη."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "Eudaimonia: the final goal",
+        "el": "Ευδαιμονία: ο τελικός σκοπός"
+      },
+      "explain": {
+        "en": "Everything we do aims at some good. We want money to buy things, and things for something else again. The chain must end in one thing we want only for itself. Everyone agrees on its name, happiness (ευδαιμονία), but not on what it is. It is not pleasure, honour or wealth: pleasure we share with animals, honour depends on other people, wealth is only a means. Eudaimonia means flourishing, living and doing well.",
+        "el": "Ό,τι κάνουμε στοχεύει σε κάποιο αγαθό. Θέλουμε χρήματα για να αγοράσουμε πράγματα, και τα πράγματα πάλι για κάτι άλλο. Η αλυσίδα πρέπει να τελειώνει σε ένα πράγμα που το θέλουμε μόνο για τον εαυτό του. Όλοι συμφωνούν στο όνομά του, ευδαιμονία, όχι όμως στο τι είναι. Δεν είναι η ηδονή, η τιμή ή ο πλούτος: την ηδονή την έχουν και τα ζώα, η τιμή εξαρτάται από τους άλλους, ο πλούτος είναι απλώς μέσο. Ευδαιμονία σημαίνει να ανθίζεις, να ζεις και να πράττεις καλά."
+      },
+      "example": {
+        "en": "In 1978 the psychologist Philip Brickman compared 22 big lottery winners with ordinary neighbours. The winners were not clearly happier than the others, and they enjoyed everyday pleasures, such as a chat with a friend or breakfast, less than before.",
+        "el": "Το 1978 ο ψυχολόγος Philip Brickman σύγκρινε 22 μεγάλους νικητές του λαχείου με απλούς γείτονές τους. Οι νικητές δεν ήταν ξεκάθαρα πιο ευτυχισμένοι από τους άλλους, και χαίρονταν λιγότερο από πριν τις καθημερινές απολαύσεις, όπως μια κουβέντα με έναν φίλο ή το πρωινό."
+      },
+      "apply": {
+        "en": "Take your biggest goal for this year and ask «and what is that for?» five times in a row. Write the last answer on a card. When a decision is hard, such as a new service, a new hire or a difficult client, check it against the card, not against the revenue number.",
+        "el": "Πάρε τον μεγαλύτερο στόχο σου για φέτος και ρώτα «κι αυτό σε τι χρησιμεύει;» πέντε φορές στη σειρά. Γράψε την τελευταία απάντηση σε μια κάρτα. Όταν μια απόφαση είναι δύσκολη, όπως μια νέα υπηρεσία, μια πρόσληψη ή ένας δύσκολος πελάτης, έλεγξέ τη με την κάρτα, όχι με τον τζίρο."
+      },
+      "check": {
+        "q": {
+          "en": "Why is eudaimonia the final goal?",
+          "el": "Γιατί η ευδαιμονία είναι ο τελικός σκοπός;"
+        },
+        "options": [
+          {
+            "en": "Because the gods order us to seek it",
+            "el": "Γιατί οι θεοί μάς διατάζουν να την επιδιώκουμε"
+          },
+          {
+            "en": "Because it is the easiest thing to reach",
+            "el": "Γιατί είναι το πιο εύκολο πράγμα να πετύχεις"
+          },
+          {
+            "en": "Because we want it for itself and everything else for its sake",
+            "el": "Γιατί τη θέλουμε για τον εαυτό της και όλα τα άλλα για χάρη της"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Money, honour and pleasure are wanted for something further. Flourishing is where the chain of «what for?» stops.",
+          "el": "Τα χρήματα, η τιμή και η ηδονή ζητιούνται για κάτι άλλο. Στην ευδαιμονία σταματά η αλυσίδα του «για ποιο λόγο;»."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The human function",
+        "el": "Το έργο του ανθρώπου"
+      },
+      "explain": {
+        "en": "To find what a good human life is, Aristotle asks what a human is for. A flute player is good when he plays well; an eye is good when it sees well. Each thing has its function (έργον). Growing we share with plants, feeling with animals. What only humans have is reason. So the human function is a life of activity guided by reason, and the good human is the one who reasons and acts well.",
+        "el": "Για να βρει ποια είναι η καλή ανθρώπινη ζωή, ο Αριστοτέλης ρωτά σε τι χρησιμεύει ο άνθρωπος. Ο αυλητής είναι καλός όταν παίζει καλά· το μάτι είναι καλό όταν βλέπει καλά. Κάθε πράγμα έχει το έργο του. Την ανάπτυξη την έχουμε κοινή με τα φυτά, την αίσθηση με τα ζώα. Αυτό που έχει μόνο ο άνθρωπος είναι ο λόγος, η λογική. Άρα το έργο του ανθρώπου είναι μια ζωή πράξης με οδηγό τη λογική, και καλός άνθρωπος είναι όποιος σκέφτεται και πράττει καλά."
+      },
+      "example": {
+        "en": "Aristotle's own comparison is the lyre player. Any lyre player plays the lyre; a good one plays it well. Nobody calls him good because he owns an expensive lyre or because people clap. He is good because of how he performs his function.",
+        "el": "Ο ίδιος ο Αριστοτέλης φέρνει για σύγκριση τον μουσικό που παίζει λύρα. Κάθε λυριστής παίζει λύρα· ο καλός την παίζει καλά. Κανείς δεν τον λέει καλό επειδή έχει ακριβό όργανο ή επειδή τον χειροκροτούν. Είναι καλός από τον τρόπο που επιτελεί το έργο του."
+      },
+      "apply": {
+        "en": "Judge your day by how well you thought and acted, not by what happened to you. At night ask one question: «Where did I use my reason well today, and where did I act on impulse?» A lost deal after a well-prepared call is still a good day's work.",
+        "el": "Κρίνε τη μέρα σου από το πόσο καλά σκέφτηκες και έπραξες, όχι από το τι σου έτυχε. Το βράδυ κάνε μία ερώτηση: «Πού χρησιμοποίησα σήμερα καλά τη λογική μου και πού κινήθηκα παρορμητικά;» Μια χαμένη συμφωνία μετά από ένα καλά προετοιμασμένο τηλεφώνημα παραμένει καλή δουλειά."
+      },
+      "check": {
+        "q": {
+          "en": "What is special about humans, according to the function argument?",
+          "el": "Τι έχει ξεχωριστό ο άνθρωπος, σύμφωνα με το επιχείρημα του έργου;"
+        },
+        "options": [
+          {
+            "en": "Strength, so the good human is the strongest one",
+            "el": "Τη δύναμη, άρα καλός άνθρωπος είναι ο πιο δυνατός"
+          },
+          {
+            "en": "Feeling, so the good human is the one who feels most",
+            "el": "Το συναίσθημα, άρα καλός άνθρωπος είναι όποιος νιώθει περισσότερα"
+          },
+          {
+            "en": "Reason, so the good human is the one who reasons and acts well",
+            "el": "Τη λογική, άρα καλός άνθρωπος είναι όποιος σκέφτεται και πράττει καλά"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Plants grow and animals feel; only humans act from reason. Our excellence lies in doing that well.",
+          "el": "Τα φυτά μεγαλώνουν και τα ζώα αισθάνονται· μόνο ο άνθρωπος πράττει με λογική. Η αρετή μας είναι να το κάνουμε καλά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Happiness is an activity",
+        "el": "Η ευτυχία είναι ενέργεια"
+      },
+      "explain": {
+        "en": "Now the definition: happiness is an activity of the soul in accordance with virtue, over a complete life. Three things follow. It is something you do, not a feeling or a possession; a good man asleep all his life is not happy. It needs a whole life: «one swallow does not make a spring». And it needs some outside goods, such as health, friends and enough money, because it is hard to act well with no means at all.",
+        "el": "Τώρα ο ορισμός: ευδαιμονία είναι ενέργεια της ψυχής σύμφωνα με την αρετή, σε έναν ολόκληρο βίο. Από εδώ βγαίνουν τρία πράγματα. Είναι κάτι που κάνεις, όχι συναίσθημα ούτε απόκτημα· ένας καλός άνθρωπος που κοιμάται όλη του τη ζωή δεν είναι ευτυχισμένος. Θέλει ολόκληρη ζωή: «ένα χελιδόνι δεν φέρνει την άνοιξη». Και θέλει κάποια εξωτερικά αγαθά, όπως υγεία, φίλους και αρκετά χρήματα, γιατί δύσκολα πράττεις καλά χωρίς κανένα μέσο."
+      },
+      "example": {
+        "en": "Aristotle recalls Priam, king of Troy: rich, respected, father of many sons, and in old age he saw his city burned and his children killed. Nobody calls such a life happy. Yet Aristotle adds that a good person bears even great misfortune nobly and never becomes wretched.",
+        "el": "Ο Αριστοτέλης θυμίζει τον Πρίαμο, βασιλιά της Τροίας: πλούσιος, σεβαστός, πατέρας πολλών γιων, και στα γεράματα είδε την πόλη του να καίγεται και τα παιδιά του να σκοτώνονται. Κανείς δεν λέει ευτυχισμένη μια τέτοια ζωή. Προσθέτει όμως ότι ο καλός άνθρωπος αντέχει με αξιοπρέπεια ακόμη και τις μεγάλες συμφορές και δεν γίνεται ποτέ άθλιος."
+      },
+      "apply": {
+        "en": "Stop measuring yourself by single days. One great month does not make you a success and one bad week does not make you a failure. Review in seasons: every three months ask whether you acted more like the person you want to be than in the season before.",
+        "el": "Σταμάτα να μετράς τον εαυτό σου με μεμονωμένες μέρες. Ένας σπουδαίος μήνας δεν σε κάνει επιτυχημένο και μια κακή εβδομάδα δεν σε κάνει αποτυχημένο. Κάνε απολογισμό ανά εποχή: κάθε τρίμηνο ρώτα αν φέρθηκες περισσότερο σαν τον άνθρωπο που θέλεις να είσαι σε σχέση με το προηγούμενο."
+      },
+      "check": {
+        "q": {
+          "en": "What does «one swallow does not make a spring» mean here?",
+          "el": "Τι σημαίνει εδώ το «ένα χελιδόνι δεν φέρνει την άνοιξη»;"
+        },
+        "options": [
+          {
+            "en": "A short good moment is not yet a happy life",
+            "el": "Μια σύντομη καλή στιγμή δεν είναι ακόμη ευτυχισμένη ζωή"
+          },
+          {
+            "en": "Good luck never lasts more than one season",
+            "el": "Η καλή τύχη δεν κρατά ποτέ πάνω από μία εποχή"
+          },
+          {
+            "en": "Happiness comes only to people who travel",
+            "el": "Η ευτυχία έρχεται μόνο σε όσους ταξιδεύουν"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Happiness is excellent activity across a complete life, not one good day or one success.",
+          "el": "Η ευδαιμονία είναι άριστη ενέργεια σε έναν ολόκληρο βίο, όχι μία καλή μέρα ή μία επιτυχία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "You become what you repeat",
+        "el": "Γίνεσαι ό,τι επαναλαμβάνεις"
+      },
+      "explain": {
+        "en": "There are two kinds of virtue. Virtues of thought come mostly from teaching. Virtues of character come from habit; even the Greek word for character, ήθος, is close to the word for habit, έθος. Nobody is born brave or fair. We become builders by building and just by doing just things. So it matters enormously which habits we form from youth. Lawgivers know this: they make citizens good by making them practise.",
+        "el": "Υπάρχουν δύο είδη αρετής. Οι διανοητικές έρχονται κυρίως με τη διδασκαλία. Οι ηθικές έρχονται με τη συνήθεια· ακόμη και η λέξη ήθος μοιάζει με τη λέξη έθος. Κανείς δεν γεννιέται γενναίος ή δίκαιος. Γινόμαστε οικοδόμοι χτίζοντας και δίκαιοι πράττοντας δίκαια. Γι' αυτό έχει τεράστια σημασία ποιες συνήθειες αποκτούμε από νέοι. Οι νομοθέτες το ξέρουν: κάνουν τους πολίτες καλούς βάζοντάς τους να εξασκούνται."
+      },
+      "example": {
+        "en": "London taxi drivers must memorise some 25,000 streets, which takes years of daily practice. In 2000 the neuroscientist Eleanor Maguire scanned their brains and found that the part used for navigation was larger than in other people, and larger the longer they had driven.",
+        "el": "Οι ταξιτζήδες του Λονδίνου πρέπει να απομνημονεύσουν περίπου 25.000 δρόμους, κάτι που θέλει χρόνια καθημερινής εξάσκησης. Το 2000 η νευροεπιστήμονας Eleanor Maguire σάρωσε τον εγκέφαλό τους και βρήκε ότι το τμήμα που χρησιμεύει στον προσανατολισμό ήταν μεγαλύτερο από των άλλων ανθρώπων, και τόσο μεγαλύτερο όσο περισσότερα χρόνια οδηγούσαν."
+      },
+      "apply": {
+        "en": "Choose one quality you want, for example calm under rejection, and practise the act, not the feeling: make ten cold calls every morning before anything else, for thirty days. Do not wait to feel confident first. The confidence is the result of the repetitions.",
+        "el": "Διάλεξε μια ιδιότητα που θέλεις, για παράδειγμα ψυχραιμία στην απόρριψη, και εξασκήσου στην πράξη, όχι στο συναίσθημα: κάνε δέκα cold calls κάθε πρωί πριν από οτιδήποτε άλλο, επί τριάντα μέρες. Μην περιμένεις πρώτα να νιώσεις σίγουρος. Η σιγουριά είναι το αποτέλεσμα των επαναλήψεων."
+      },
+      "check": {
+        "q": {
+          "en": "How does a person become brave, according to Aristotle?",
+          "el": "Πώς γίνεται κάποιος γενναίος, κατά τον Αριστοτέλη;"
+        },
+        "options": [
+          {
+            "en": "By being born with a brave nature",
+            "el": "Γεννιέται με γενναία φύση"
+          },
+          {
+            "en": "By doing brave acts again and again until it is habit",
+            "el": "Κάνει γενναίες πράξεις ξανά και ξανά, ώσπου να γίνει συνήθεια"
+          },
+          {
+            "en": "By reading enough books about courage",
+            "el": "Διαβάζει αρκετά βιβλία για το θάρρος"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Character virtue comes from practice. We become what we repeatedly do.",
+          "el": "Η ηθική αρετή βγαίνει από την εξάσκηση. Γινόμαστε αυτό που κάνουμε ξανά και ξανά."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Virtue is the mean",
+        "el": "Η αρετή είναι μεσότητα"
+      },
+      "explain": {
+        "en": "Aristotle defines moral virtue as a settled state of character that shows in our choices and lies in a mean (μεσότης) between two faults, one of too much and one of too little, as a wise person would judge it. This mean is not the same for everyone and not a dull average. It is the right amount for this person in this situation. A few things have no mean at all: murder, theft and adultery are always wrong.",
+        "el": "Ο Αριστοτέλης ορίζει την ηθική αρετή ως σταθερή έξη του χαρακτήρα που φαίνεται στις επιλογές μας και βρίσκεται σε μια μεσότητα ανάμεσα σε δύο ελαττώματα, την υπερβολή και την έλλειψη, όπως θα την όριζε ο φρόνιμος άνθρωπος. Η μεσότητα αυτή δεν είναι ίδια για όλους ούτε ένας άχρωμος μέσος όρος. Είναι το σωστό ποσό για αυτόν τον άνθρωπο σε αυτή την περίσταση. Κάποια πράγματα δεν έχουν καθόλου μέσον: ο φόνος, η κλοπή και η μοιχεία είναι πάντα λάθος."
+      },
+      "example": {
+        "en": "Aristotle uses food. If ten pounds are too much to eat and two are too little, the trainer will not simply order six. Six may be too little for Milo, the famous wrestler, and too much for a beginner. The right amount depends on who is eating.",
+        "el": "Ο Αριστοτέλης παίρνει για παράδειγμα το φαγητό. Αν δέκα μνες είναι πολλές για να φας και δύο λίγες, ο προπονητής δεν θα ορίσει απλώς έξι. Οι έξι μπορεί να είναι λίγες για τον Μίλωνα, τον διάσημο παλαιστή, και πολλές για έναν αρχάριο. Το σωστό ποσό εξαρτάται από το ποιος τρώει."
+      },
+      "apply": {
+        "en": "Find the two faults before every tricky decision. Following up a silent prospect: pestering every day is too much, never calling again is too little. Name both, then pick the point that fits this person: perhaps one friendly call after four days and one short message a week later.",
+        "el": "Βρες τα δύο ελαττώματα πριν από κάθε δύσκολη απόφαση. Στο follow-up ενός πελάτη που σώπασε: το να τον ενοχλείς κάθε μέρα είναι υπερβολή, το να μην ξαναπάρεις ποτέ είναι έλλειψη. Ονόμασε και τα δύο και μετά διάλεξε το σημείο που ταιριάζει σε αυτόν τον άνθρωπο: ίσως ένα φιλικό τηλεφώνημα σε τέσσερις μέρες και ένα σύντομο μήνυμα μια εβδομάδα μετά."
+      },
+      "check": {
+        "q": {
+          "en": "What is the «mean» in Aristotle's ethics?",
+          "el": "Τι είναι η «μεσότητα» στην ηθική του Αριστοτέλη;"
+        },
+        "options": [
+          {
+            "en": "The right amount for this person and situation, between too much and too little",
+            "el": "Το σωστό ποσό για αυτόν τον άνθρωπο και την περίσταση, ανάμεσα στο πολύ και στο λίγο"
+          },
+          {
+            "en": "A lukewarm attitude that avoids every strong feeling",
+            "el": "Μια χλιαρή στάση που αποφεύγει κάθε έντονο συναίσθημα"
+          },
+          {
+            "en": "The exact arithmetic middle, the same for everybody",
+            "el": "Το ακριβές αριθμητικό μέσο, ίδιο για όλους"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "The mean is «relative to us». Sometimes the right amount of anger or boldness is a lot.",
+          "el": "Η μεσότητα είναι «προς ημάς». Κάποτε το σωστό ποσό θυμού ή τόλμης είναι μεγάλο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The map of virtues",
+        "el": "Ο χάρτης των αρετών"
+      },
+      "explain": {
+        "en": "Aristotle then goes through the virtues one by one. Courage is the mean between cowardice and rashness. Temperance lies between self-indulgence and a rare insensibility to pleasure. Generosity lies between wastefulness and meanness with money. Mildness lies between hot temper and never getting angry. Truthfulness about yourself lies between boasting and false modesty. Greatness of soul, claiming exactly the honour you deserve, lies between vanity and thinking too little of yourself.",
+        "el": "Ο Αριστοτέλης εξετάζει μετά τις αρετές μία μία. Η ανδρεία είναι το μέσον ανάμεσα στη δειλία και στο θράσος. Η σωφροσύνη βρίσκεται ανάμεσα στην ακολασία και σε μια σπάνια αναισθησία απέναντι στην ηδονή. Η ελευθεριότητα ανάμεσα στην ασωτία και στη τσιγκουνιά. Η πραότητα ανάμεσα στην οργή και στο να μη θυμώνεις ποτέ. Η αλήθεια για τον εαυτό σου ανάμεσα στην αλαζονεία και στην ψεύτικη μετριοφροσύνη. Η μεγαλοψυχία, να ζητάς ακριβώς την τιμή που αξίζεις, ανάμεσα στη ματαιοδοξία και στη μικροψυχία."
+      },
+      "example": {
+        "en": "In January 2009 both engines of US Airways flight 1549 failed over New York. Captain Chesley Sullenberger did not freeze, and he did not gamble on reaching a runway over the city. He landed on the Hudson River and all 155 people survived. Neither cowardice nor rashness: courage.",
+        "el": "Τον Ιανουάριο του 2009 έσβησαν και οι δύο κινητήρες της πτήσης 1549 της US Airways πάνω από τη Νέα Υόρκη. Ο κυβερνήτης Chesley Sullenberger δεν πάγωσε, ούτε ρίσκαρε να φτάσει σε διάδρομο πάνω από την πόλη. Προσθαλάσσωσε στον ποταμό Χάντσον και σώθηκαν και οι 155 επιβαίνοντες. Ούτε δειλία ούτε θράσος: ανδρεία."
+      },
+      "apply": {
+        "en": "Run your pricing and your self-presentation through the map. Giving everything for free is wastefulness; fighting over every euro is meanness. Saying «we are the best in Greece» is boasting; hiding 200 live sites is false modesty. State what is true, plainly, and charge what is fair.",
+        "el": "Πέρνα την τιμολόγησή σου και τον τρόπο που παρουσιάζεσαι από αυτόν τον χάρτη. Το να τα δίνεις όλα δωρεάν είναι ασωτία· το να τσακώνεσαι για κάθε ευρώ είναι τσιγκουνιά. Το «είμαστε οι καλύτεροι στην Ελλάδα» είναι αλαζονεία· το να κρύβεις 200 ζωντανές ιστοσελίδες είναι ψεύτικη μετριοφροσύνη. Πες την αλήθεια απλά και χρέωσε το δίκαιο."
+      },
+      "check": {
+        "q": {
+          "en": "Between which two faults does courage lie?",
+          "el": "Ανάμεσα σε ποια δύο ελαττώματα βρίσκεται η ανδρεία;"
+        },
+        "options": [
+          {
+            "en": "Meanness and wastefulness",
+            "el": "Τσιγκουνιά και ασωτία"
+          },
+          {
+            "en": "Boasting and false modesty",
+            "el": "Αλαζονεία και ψεύτικη μετριοφροσύνη"
+          },
+          {
+            "en": "Cowardice and rashness",
+            "el": "Δειλία και θράσος"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The coward fears too much, the rash person too little. The brave person fears the right things in the right measure.",
+          "el": "Ο δειλός φοβάται υπερβολικά, ο θρασύς πολύ λίγο. Ο ανδρείος φοβάται τα σωστά πράγματα στο σωστό μέτρο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Hard to hit the target",
+        "el": "Δύσκολο να πετύχεις τον στόχο"
+      },
+      "explain": {
+        "en": "Anyone can get angry or give money away; that is easy. To do it to the right person, in the right amount, at the right time, for the right reason and in the right way is hard, and that is why goodness is rare. Aristotle gives three rules. Stay away from the extreme that is worse. Know which way you naturally lean and pull yourself the other way, as people straighten bent wood. And be most on guard against pleasure.",
+        "el": "Ο καθένας μπορεί να θυμώσει ή να δώσει χρήματα· αυτό είναι εύκολο. Το να το κάνεις προς τον σωστό άνθρωπο, στο σωστό ποσό, τη σωστή στιγμή, για τον σωστό λόγο και με τον σωστό τρόπο είναι δύσκολο, και γι' αυτό το καλό είναι σπάνιο. Ο Αριστοτέλης δίνει τρεις κανόνες. Μείνε μακριά από το άκρο που είναι χειρότερο. Μάθε προς τα πού γέρνεις από τη φύση σου και τράβα τον εαυτό σου προς την άλλη μεριά, όπως ισιώνουν το στραβό ξύλο. Και φυλάξου πάνω απ' όλα από την ηδονή."
+      },
+      "example": {
+        "en": "After the battle of Gettysburg in 1863 Abraham Lincoln was furious that General Meade had let the enemy army escape. He wrote Meade a harsh letter, then put it away. It was found among his papers after his death, marked «never sent, or signed».",
+        "el": "Μετά τη μάχη του Γκέτισμπεργκ το 1863 ο Αβραάμ Λίνκολν ήταν έξαλλος επειδή ο στρατηγός Meade άφησε τον εχθρικό στρατό να ξεφύγει. Του έγραψε ένα σκληρό γράμμα και μετά το έβαλε στην άκρη. Βρέθηκε στα χαρτιά του μετά τον θάνατό του, με τη σημείωση «δεν στάλθηκε ούτε υπογράφηκε ποτέ»."
+      },
+      "apply": {
+        "en": "Write down your own lean: do you give in too fast or push too hard, speak too much or too little? Then overcorrect on purpose for a month. If you always drop the price when a client hesitates, practise staying silent for five full seconds after you say it.",
+        "el": "Γράψε προς τα πού γέρνεις εσύ: υποχωρείς πολύ γρήγορα ή πιέζεις υπερβολικά, μιλάς πολύ ή λίγο; Μετά διόρθωσε επίτηδες προς την αντίθετη μεριά επί έναν μήνα. Αν ρίχνεις πάντα την τιμή όταν ο πελάτης διστάζει, εξασκήσου να μένεις σιωπηλός πέντε ολόκληρα δευτερόλεπτα αφού την πεις."
+      },
+      "check": {
+        "q": {
+          "en": "What does Aristotle advise if you naturally lean to one extreme?",
+          "el": "Τι συμβουλεύει ο Αριστοτέλης αν από τη φύση σου γέρνεις προς το ένα άκρο;"
+        },
+        "options": [
+          {
+            "en": "Accept it, because character cannot change",
+            "el": "Να το δεχτείς, γιατί ο χαρακτήρας δεν αλλάζει"
+          },
+          {
+            "en": "Avoid every situation where it could show",
+            "el": "Να αποφεύγεις κάθε περίσταση όπου μπορεί να φανεί"
+          },
+          {
+            "en": "Pull yourself towards the opposite side, like straightening bent wood",
+            "el": "Να τραβάς τον εαυτό σου προς την αντίθετη μεριά, όπως ισιώνουν το στραβό ξύλο"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "By aiming past the middle on the other side you end up closer to the mean.",
+          "el": "Στοχεύοντας πέρα από το μέσον, προς την άλλη μεριά, καταλήγεις πιο κοντά στη μεσότητα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "You are responsible",
+        "el": "Είσαι υπεύθυνος"
+      },
+      "explain": {
+        "en": "We praise and blame only voluntary actions. An act is involuntary when it is forced from outside or done in ignorance of the facts. But ignorance excuses only when you did not cause it yourself: the drunk and the careless are to blame for their state. Choice (προαίρεση) comes after deliberation, and we deliberate about means that are in our power. Since repeated acts build character, we are responsible for who we have become.",
+        "el": "Επαινούμε και κατηγορούμε μόνο τις εκούσιες πράξεις. Ακούσια είναι μια πράξη όταν επιβάλλεται απέξω με τη βία ή γίνεται από άγνοια των γεγονότων. Η άγνοια όμως δικαιολογεί μόνο όταν δεν την προκάλεσες εσύ: ο μεθυσμένος και ο αμελής φταίνε για την κατάστασή τους. Η προαίρεση, η επιλογή, έρχεται μετά τη σκέψη, και σκεφτόμαστε για τα μέσα που είναι στο χέρι μας. Αφού οι επαναλαμβανόμενες πράξεις χτίζουν χαρακτήρα, είμαστε υπεύθυνοι για το ποιοι γίναμε."
+      },
+      "example": {
+        "en": "Aristotle mentions that lawgivers set double penalties for crimes committed while drunk, because the offender chose to get drunk. Courts today think the same way: a driver who causes an accident cannot defend himself by saying he was too drunk to know what he was doing.",
+        "el": "Ο Αριστοτέλης αναφέρει ότι οι νομοθέτες όριζαν διπλές ποινές για αδικήματα που γίνονταν σε μέθη, γιατί ο δράστης διάλεξε να μεθύσει. Τα δικαστήρια σκέφτονται το ίδιο και σήμερα: ο οδηγός που προκαλεί ατύχημα δεν μπορεί να υπερασπιστεί τον εαυτό του λέγοντας ότι ήταν πολύ μεθυσμένος για να ξέρει τι κάνει."
+      },
+      "apply": {
+        "en": "Replace «I did not know» with «it was my job to know». If a client's domain expires or a site breaks because nobody checked, own it, fix it and build the check that prevents it. Spend your thinking on means you control, not on outcomes you do not.",
+        "el": "Αντικατάστησε το «δεν το ήξερα» με το «ήταν δουλειά μου να το ξέρω». Αν λήξει το domain ενός πελάτη ή χαλάσει ένα site επειδή κανείς δεν έλεγξε, ανάλαβε την ευθύνη, διόρθωσέ το και στήσε τον έλεγχο που το προλαβαίνει. Ξόδεψε τη σκέψη σου στα μέσα που ελέγχεις, όχι στα αποτελέσματα που δεν ελέγχεις."
+      },
+      "check": {
+        "q": {
+          "en": "When does ignorance NOT excuse an action?",
+          "el": "Πότε η άγνοια ΔΕΝ δικαιολογεί μια πράξη;"
+        },
+        "options": [
+          {
+            "en": "When someone forced you physically to act",
+            "el": "Όταν κάποιος σε ανάγκασε σωματικά να πράξεις"
+          },
+          {
+            "en": "When you caused the ignorance yourself, through drink or carelessness",
+            "el": "Όταν την προκάλεσες ο ίδιος, με το ποτό ή την αμέλεια"
+          },
+          {
+            "en": "When nobody could possibly have known the facts",
+            "el": "Όταν κανείς δεν θα μπορούσε να γνωρίζει τα γεγονότα"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "If the cause of not knowing was in your power, the act is still yours.",
+          "el": "Αν η αιτία της άγνοιας ήταν στο χέρι σου, η πράξη παραμένει δική σου."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Two kinds of justice",
+        "el": "Δύο είδη δικαιοσύνης"
+      },
+      "explain": {
+        "en": "Justice in the narrow sense is about fair shares, and it works in two ways. Distributive justice shares out honours and money in proportion to merit: who contributed more gets more. Aristotle calls this geometric. Corrective justice repairs a wrong between two people. Here the judge ignores who they are, treats them as equals and restores what was taken: arithmetic. Because laws are general, he adds equity (επιείκεια), which corrects the law where it misses a special case.",
+        "el": "Η δικαιοσύνη με τη στενή έννοια αφορά το δίκαιο μερίδιο, και λειτουργεί με δύο τρόπους. Η διανεμητική μοιράζει τιμές και χρήματα ανάλογα με την αξία: όποιος πρόσφερε περισσότερα παίρνει περισσότερα. Ο Αριστοτέλης τη λέει γεωμετρική αναλογία. Η διορθωτική επανορθώνει μια αδικία ανάμεσα σε δύο ανθρώπους. Εδώ ο δικαστής αγνοεί ποιοι είναι, τους βλέπει ως ίσους και αποκαθιστά ό,τι αφαιρέθηκε: αριθμητική αναλογία. Επειδή οι νόμοι μιλούν γενικά, προσθέτει την επιείκεια, που διορθώνει τον νόμο εκεί όπου δεν πιάνει μια ειδική περίπτωση."
+      },
+      "example": {
+        "en": "After the 2010 Deepwater Horizon oil spill in the Gulf of Mexico, BP had to pay more than 60 billion dollars in clean-up, fines and compensation. Nobody asked whether BP was a respected company or whether the fishermen were important people. The damage had to be put right.",
+        "el": "Μετά την πετρελαιοκηλίδα του Deepwater Horizon στον Κόλπο του Μεξικού το 2010, η BP χρειάστηκε να πληρώσει πάνω από 60 δισεκατομμύρια δολάρια σε καθαρισμό, πρόστιμα και αποζημιώσεις. Κανείς δεν ρώτησε αν η BP ήταν αξιοσέβαστη εταιρεία ή αν οι ψαράδες ήταν σπουδαίοι άνθρωποι. Η ζημιά έπρεπε να αποκατασταθεί."
+      },
+      "apply": {
+        "en": "Use the right kind in the right place. Share bonuses and credit in proportion to contribution, not equally. But when you make a mistake on a client's site, repair it the same way for the small client as for the big one. Mixing the two is what feels unfair.",
+        "el": "Χρησιμοποίησε το σωστό είδος στη σωστή θέση. Μοίρασε bonus και αναγνώριση ανάλογα με τη συνεισφορά, όχι εξίσου. Όταν όμως κάνεις ένα λάθος στην ιστοσελίδα ενός πελάτη, διόρθωσέ το με τον ίδιο τρόπο για τον μικρό πελάτη και για τον μεγάλο. Το μπέρδεμα των δύο είναι αυτό που μοιάζει άδικο."
+      },
+      "check": {
+        "q": {
+          "en": "How does distributive justice share things out?",
+          "el": "Πώς μοιράζει η διανεμητική δικαιοσύνη;"
+        },
+        "options": [
+          {
+            "en": "Everything to whoever asks first",
+            "el": "Όλα σε όποιον ζητήσει πρώτος"
+          },
+          {
+            "en": "In proportion to what each one contributed or deserves",
+            "el": "Ανάλογα με το τι πρόσφερε ή αξίζει ο καθένας"
+          },
+          {
+            "en": "Exactly the same amount to every person",
+            "el": "Ακριβώς το ίδιο ποσό σε κάθε άνθρωπο"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Distribution follows merit (proportion). Equal treatment regardless of person belongs to corrective justice.",
+          "el": "Η διανομή ακολουθεί την αξία (αναλογία). Η ίση μεταχείριση ανεξαρτήτως προσώπου ανήκει στη διορθωτική δικαιοσύνη."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Phronesis: practical wisdom",
+        "el": "Φρόνηση: η πρακτική σοφία"
+      },
+      "explain": {
+        "en": "Knowing that courage is a mean does not tell you what to do at ten o'clock on Tuesday. For that you need practical wisdom (φρόνησις): the ability to see what the situation asks and to choose the right means to a good end. It comes from experience, which is why a young person can be a brilliant mathematician but is rarely wise. Without it the virtues are blind; without good character it is mere cleverness.",
+        "el": "Το να ξέρεις ότι η ανδρεία είναι μεσότητα δεν σου λέει τι να κάνεις την Τρίτη στις δέκα. Γι' αυτό χρειάζεσαι φρόνηση: την ικανότητα να βλέπεις τι ζητά η περίσταση και να διαλέγεις τα σωστά μέσα για έναν καλό σκοπό. Έρχεται με την εμπειρία, γι' αυτό ένας νέος μπορεί να είναι λαμπρός μαθηματικός αλλά σπάνια είναι φρόνιμος. Χωρίς αυτήν οι αρετές είναι τυφλές· χωρίς καλό χαρακτήρα, η ίδια είναι σκέτη πονηριά."
+      },
+      "example": {
+        "en": "In April 1970 an explosion crippled Apollo 13 on its way to the Moon. No manual covered it. Engineers in Houston worked out how to fit a square air filter into a round socket using only what was on board: plastic bags, cardboard and tape. The three astronauts came home alive.",
+        "el": "Τον Απρίλιο του 1970 μια έκρηξη παρέλυσε το Apollo 13 στον δρόμο για τη Σελήνη. Κανένα εγχειρίδιο δεν το προέβλεπε. Οι μηχανικοί στο Χιούστον βρήκαν πώς να ταιριάξουν ένα τετράγωνο φίλτρο αέρα σε στρογγυλή υποδοχή μόνο με όσα υπήρχαν μέσα στο σκάφος: πλαστικές σακούλες, χαρτόνι και ταινία. Οι τρεις αστροναύτες γύρισαν ζωντανοί."
+      },
+      "apply": {
+        "en": "Build judgment on purpose, since no script covers every client. After each difficult call or meeting write three lines: what the situation really asked for, what you did, what a wiser person would have done. Then ask someone more experienced the same question once a month.",
+        "el": "Χτίσε κρίση συνειδητά, αφού κανένα script δεν καλύπτει κάθε πελάτη. Μετά από κάθε δύσκολο τηλεφώνημα ή ραντεβού γράψε τρεις γραμμές: τι ζητούσε πραγματικά η περίσταση, τι έκανες, τι θα έκανε ένας πιο φρόνιμος άνθρωπος. Και μία φορά τον μήνα κάνε την ίδια ερώτηση σε κάποιον με περισσότερη εμπειρία."
+      },
+      "check": {
+        "q": {
+          "en": "Why is a young person rarely practically wise, according to Aristotle?",
+          "el": "Γιατί ένας νέος σπάνια είναι φρόνιμος, κατά τον Αριστοτέλη;"
+        },
+        "options": [
+          {
+            "en": "Because practical wisdom needs experience of many particular cases",
+            "el": "Γιατί η φρόνηση θέλει εμπειρία από πολλές συγκεκριμένες περιπτώσεις"
+          },
+          {
+            "en": "Because the young do not care about virtue",
+            "el": "Γιατί οι νέοι δεν νοιάζονται για την αρετή"
+          },
+          {
+            "en": "Because the young cannot follow logical arguments",
+            "el": "Γιατί οι νέοι δεν παρακολουθούν λογικά επιχειρήματα"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "It deals with particular situations, and only time and experience teach those.",
+          "el": "Ασχολείται με συγκεκριμένες περιστάσεις, και αυτές τις διδάσκουν μόνο ο χρόνος και η εμπειρία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Akrasia: weak will",
+        "el": "Ακρασία: η αδύναμη θέληση"
+      },
+      "explain": {
+        "en": "Socrates said nobody does wrong knowingly. Aristotle answers that we plainly do: this is ακρασία, weakness of will. The person knows the general rule, but in the moment strong desire or anger clouds it, the way knowledge is clouded in someone asleep or drunk. He is better than the self-indulgent person, who thinks excess is right, because he regrets it. The self-controlled person wins the same fight; the truly temperate no longer has to fight.",
+        "el": "Ο Σωκράτης έλεγε ότι κανείς δεν κάνει το κακό εν γνώσει του. Ο Αριστοτέλης απαντά ότι ολοφάνερα το κάνουμε: αυτό είναι η ακρασία, η αδυναμία της θέλησης. Ο άνθρωπος ξέρει τον γενικό κανόνα, αλλά εκείνη τη στιγμή η δυνατή επιθυμία ή ο θυμός τον θολώνει, όπως θολώνει η γνώση σε όποιον κοιμάται ή έχει πιει. Είναι καλύτερος από τον ακόλαστο, που θεωρεί σωστή την υπερβολή, γιατί μετανιώνει. Ο εγκρατής κερδίζει την ίδια μάχη· ο αληθινά σώφρων δεν χρειάζεται πια να τη δώσει."
+      },
+      "example": {
+        "en": "In Walter Mischel's Stanford experiments around 1970, children could eat one marshmallow now or get two if they waited. Those who stared at the sweet gave in quickly. Those who covered their eyes, sang or turned away waited far longer. They removed the temptation from sight instead of fighting it.",
+        "el": "Στα πειράματα του Walter Mischel στο Stanford γύρω στο 1970, τα παιδιά μπορούσαν να φάνε ένα marshmallow αμέσως ή να πάρουν δύο αν περίμεναν. Όσα κοίταζαν το γλυκό υπέκυπταν γρήγορα. Όσα έκλειναν τα μάτια, τραγουδούσαν ή γύριζαν από την άλλη περίμεναν πολύ περισσότερο. Έβγαλαν τον πειρασμό από τα μάτια τους αντί να τον πολεμήσουν."
+      },
+      "apply": {
+        "en": "Decide while your head is clear, and remove the temptation before the moment comes. Put the phone in another room during your calling hour, block the sites that eat your morning, and fix the day's first task the night before, so that the tired you has nothing to choose.",
+        "el": "Αποφάσιζε όσο το μυαλό σου είναι καθαρό και βγάλε τον πειρασμό από τη μέση πριν έρθει η στιγμή. Άφησε το κινητό σε άλλο δωμάτιο την ώρα των τηλεφωνημάτων, μπλόκαρε τις σελίδες που σου τρώνε το πρωί και όρισε την πρώτη δουλειά της μέρας από το προηγούμενο βράδυ, ώστε ο κουρασμένος εαυτός σου να μην έχει τι να διαλέξει."
+      },
+      "check": {
+        "q": {
+          "en": "What happens in akrasia?",
+          "el": "Τι συμβαίνει στην ακρασία;"
+        },
+        "options": [
+          {
+            "en": "You are forced by another person to act badly",
+            "el": "Σε αναγκάζει κάποιος άλλος να πράξεις άσχημα"
+          },
+          {
+            "en": "You honestly believe that the wrong act is right",
+            "el": "Πιστεύεις ειλικρινά ότι η λάθος πράξη είναι σωστή"
+          },
+          {
+            "en": "You know what is right, but passion clouds it in the moment",
+            "el": "Ξέρεις το σωστό, αλλά το πάθος το θολώνει εκείνη τη στιγμή"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The weak-willed person has the right belief and loses it for a moment, then regrets it. That is what separates him from the self-indulgent.",
+          "el": "Ο ακρατής έχει τη σωστή πεποίθηση και τη χάνει για μια στιγμή, μετά μετανιώνει. Αυτό τον ξεχωρίζει από τον ακόλαστο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Three kinds of friendship",
+        "el": "Τρία είδη φιλίας"
+      },
+      "explain": {
+        "en": "Two of the ten books are about friendship. People like each other for three reasons. Friendship of utility: each gets something useful, as in business. Friendship of pleasure: each enjoys the other's company. Both end when the use or the fun ends. The highest is friendship of virtue: two good people who love each other for who they are and wish each other well for the other's sake. Such a friend is «another self». It is rare and needs time.",
+        "el": "Δύο από τα δέκα βιβλία μιλούν για τη φιλία. Οι άνθρωποι συμπαθούν ο ένας τον άλλον για τρεις λόγους. Φιλία για το χρήσιμο: ο καθένας παίρνει κάτι ωφέλιμο, όπως στις δουλειές. Φιλία για το ευχάριστο: ο καθένας χαίρεται την παρέα του άλλου. Και οι δύο τελειώνουν όταν τελειώσει το όφελος ή το κέφι. Η ανώτερη είναι η φιλία της αρετής: δύο καλοί άνθρωποι που αγαπούν ο ένας τον άλλον γι' αυτό που είναι και θέλουν το καλό του άλλου για χάρη του άλλου. Ένας τέτοιος φίλος είναι «άλλος εαυτός». Είναι σπάνια και θέλει χρόνο."
+      },
+      "example": {
+        "en": "Warren Buffett and Charlie Munger worked together for more than fifty years at Berkshire Hathaway. Buffett called Munger «the abominable no-man» because he told him plainly when an idea was bad, and said Munger had made him a better investor and a better person.",
+        "el": "Ο Warren Buffett και ο Charlie Munger δούλεψαν μαζί πάνω από πενήντα χρόνια στην Berkshire Hathaway. Ο Buffett αποκαλούσε τον Munger «τον απαίσιο άνθρωπο του όχι», γιατί του έλεγε καθαρά πότε μια ιδέα ήταν κακή, και έλεγε ότι ο Munger τον έκανε καλύτερο επενδυτή και καλύτερο άνθρωπο."
+      },
+      "apply": {
+        "en": "Sort your relationships honestly into the three kinds, without guilt: most clients and partners are friendships of utility, and that is fine as long as both sides gain. Then name the one or two people who tell you the truth and want you to become better, and give them real time.",
+        "el": "Χώρισε ειλικρινά τις σχέσεις σου στα τρία είδη, χωρίς ενοχές: οι περισσότεροι πελάτες και συνεργάτες είναι φιλίες για το χρήσιμο, κι αυτό είναι εντάξει όσο κερδίζουν και οι δύο πλευρές. Μετά γράψε τους έναν δύο ανθρώπους που σου λένε την αλήθεια και θέλουν να γίνεις καλύτερος, και δώσε τους πραγματικό χρόνο."
+      },
+      "check": {
+        "q": {
+          "en": "What makes friendship of virtue different from the other two kinds?",
+          "el": "Σε τι διαφέρει η φιλία της αρετής από τα άλλα δύο είδη;"
+        },
+        "options": [
+          {
+            "en": "It brings more profit than a business partnership",
+            "el": "Φέρνει περισσότερο κέρδος από μια επαγγελματική συνεργασία"
+          },
+          {
+            "en": "You love the person for who he is and want his good for his own sake",
+            "el": "Αγαπάς τον άνθρωπο γι' αυτό που είναι και θέλεις το καλό του για χάρη του"
+          },
+          {
+            "en": "It starts quickly and needs no time together",
+            "el": "Ξεκινά γρήγορα και δεν θέλει χρόνο μαζί"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "Utility and pleasure friendships love what they get. Virtue friendship loves the other person's character, so it lasts.",
+          "el": "Οι φιλίες για το χρήσιμο και το ευχάριστο αγαπούν αυτό που παίρνουν. Η φιλία της αρετής αγαπά τον χαρακτήρα του άλλου, γι' αυτό διαρκεί."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Nobody thrives alone",
+        "el": "Κανείς δεν ευτυχεί μόνος"
+      },
+      "explain": {
+        "en": "Nobody would choose to live without friends, Aristotle says, even with every other good. The rich need them to have someone to do good to, the poor as a refuge, the young for correction, the old for care. Friendship also holds cities together; lawgivers care about it even more than about justice. Good self-love is its root: wanting the best things, the noble ones, for yourself. But true friends can only be few, because friendship means sharing a life.",
+        "el": "Κανείς δεν θα διάλεγε να ζει χωρίς φίλους, λέει ο Αριστοτέλης, ακόμη κι αν είχε όλα τα άλλα αγαθά. Οι πλούσιοι τους χρειάζονται για να έχουν σε ποιον να κάνουν καλό, οι φτωχοί για καταφύγιο, οι νέοι για να διορθώνονται, οι γέροι για φροντίδα. Η φιλία κρατά ενωμένες και τις πόλεις· οι νομοθέτες νοιάζονται γι' αυτήν ακόμη περισσότερο απ' ό,τι για τη δικαιοσύνη. Ρίζα της είναι η σωστή φιλαυτία: να θέλεις για τον εαυτό σου τα καλύτερα, δηλαδή τα ωραία. Οι αληθινοί φίλοι όμως μπορούν να είναι μόνο λίγοι, γιατί φιλία σημαίνει να μοιράζεσαι τη ζωή."
+      },
+      "example": {
+        "en": "The Harvard Study of Adult Development has followed the same men since 1938, for more than eighty years. Its director Robert Waldinger sums up the result: the people who were most satisfied with their relationships at fifty were the healthiest at eighty. Money and fame did not predict it.",
+        "el": "Η μελέτη του Harvard για την ανάπτυξη των ενηλίκων παρακολουθεί τους ίδιους άνδρες από το 1938, πάνω από ογδόντα χρόνια. Ο διευθυντής της, Robert Waldinger, συνοψίζει το εύρημα: όσοι ήταν πιο ικανοποιημένοι από τις σχέσεις τους στα πενήντα ήταν οι πιο υγιείς στα ογδόντα. Τα χρήματα και η φήμη δεν το προέβλεπαν."
+      },
+      "apply": {
+        "en": "Protect time for a few people as seriously as you protect a client meeting. Put one fixed evening a week in the calendar for a friend or family, with no laptop. A business that grows while your friendships dry up is moving away from the goal.",
+        "el": "Προστάτεψε τον χρόνο για λίγους ανθρώπους όσο σοβαρά προστατεύεις ένα ραντεβού με πελάτη. Βάλε στο ημερολόγιο ένα σταθερό βράδυ την εβδομάδα για έναν φίλο ή την οικογένεια, χωρίς laptop. Μια επιχείρηση που μεγαλώνει ενώ οι φιλίες σου στεγνώνουν απομακρύνεται από τον σκοπό."
+      },
+      "check": {
+        "q": {
+          "en": "Why can true friends only be few?",
+          "el": "Γιατί οι αληθινοί φίλοι μπορούν να είναι μόνο λίγοι;"
+        },
+        "options": [
+          {
+            "en": "Because most people are bad and cannot be trusted",
+            "el": "Γιατί οι περισσότεροι άνθρωποι είναι κακοί και αναξιόπιστοι"
+          },
+          {
+            "en": "Because the law limits how many friends a citizen has",
+            "el": "Γιατί ο νόμος περιορίζει πόσους φίλους έχει ένας πολίτης"
+          },
+          {
+            "en": "Because real friendship needs time and a shared life",
+            "el": "Γιατί η αληθινή φιλία θέλει χρόνο και κοινή ζωή"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "You cannot live closely with many people at once. Depth needs time, and time is limited.",
+          "el": "Δεν μπορείς να ζεις κοντά σε πολλούς ταυτόχρονα. Το βάθος θέλει χρόνο, και ο χρόνος είναι περιορισμένος."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Pleasure completes the act",
+        "el": "Η ηδονή ολοκληρώνει την πράξη"
+      },
+      "explain": {
+        "en": "Is pleasure the goal of life, or something bad? Neither, says Aristotle. Pleasure is not the good, but it belongs to a good life. It completes an activity done well, like the bloom on a young face. Each activity has its own pleasure, and that pleasure makes us do it better: people who enjoy geometry become better at geometry. So pleasures are as good or bad as the activities they come from. The measure is what a good person enjoys.",
+        "el": "Είναι η ηδονή ο σκοπός της ζωής ή κάτι κακό; Ούτε το ένα ούτε το άλλο, λέει ο Αριστοτέλης. Η ηδονή δεν είναι το αγαθό, αλλά ανήκει στην καλή ζωή. Ολοκληρώνει μια ενέργεια που γίνεται καλά, όπως η δροσιά σε ένα νεανικό πρόσωπο. Κάθε ενέργεια έχει τη δική της ηδονή, και αυτή μας κάνει να την κάνουμε καλύτερα: όποιος χαίρεται τη γεωμετρία γίνεται καλύτερος στη γεωμετρία. Οι ηδονές λοιπόν είναι τόσο καλές ή κακές όσο οι ενέργειες από τις οποίες βγαίνουν. Μέτρο είναι το τι χαίρεται ο καλός άνθρωπος."
+      },
+      "example": {
+        "en": "The psychologist Mihaly Csikszentmihalyi gave people pagers that beeped at random moments and asked how they felt. They reported their best moments when absorbed in a demanding task that matched their skill, a state he named «flow», more often at work than in front of the television.",
+        "el": "Ο ψυχολόγος Mihaly Csikszentmihalyi έδωσε σε ανθρώπους βομβητές που χτυπούσαν σε τυχαίες στιγμές και ρωτούσε πώς ένιωθαν. Δήλωναν τις καλύτερες στιγμές τους όταν ήταν απορροφημένοι σε μια απαιτητική δουλειά στα μέτρα των ικανοτήτων τους, κατάσταση που ονόμασε «ροή» (flow), και μάλιστα πιο συχνά στη δουλειά παρά μπροστά στην τηλεόραση."
+      },
+      "apply": {
+        "en": "Notice which work you enjoy while doing it well: designing, a good sales conversation, solving a client's problem. Arrange your week so that most of your best hours go there, and hand over the rest. Enjoyment of the right activity is a sign you are in the right place.",
+        "el": "Πρόσεξε ποια δουλειά χαίρεσαι όταν την κάνεις καλά: το σχέδιο, μια καλή κουβέντα πώλησης, τη λύση στο πρόβλημα ενός πελάτη. Στήσε την εβδομάδα ώστε οι καλύτερες ώρες σου να πηγαίνουν εκεί, και δώσε τα υπόλοιπα σε άλλους. Η χαρά από τη σωστή ενέργεια είναι σημάδι ότι βρίσκεσαι στη σωστή θέση."
+      },
+      "check": {
+        "q": {
+          "en": "How does Aristotle see pleasure?",
+          "el": "Πώς βλέπει ο Αριστοτέλης την ηδονή;"
+        },
+        "options": [
+          {
+            "en": "As the one true goal of human life",
+            "el": "Ως τον μοναδικό αληθινό σκοπό της ανθρώπινης ζωής"
+          },
+          {
+            "en": "As a danger that the good person must always avoid",
+            "el": "Ως κίνδυνο που ο καλός άνθρωπος πρέπει πάντα να αποφεύγει"
+          },
+          {
+            "en": "As the crown of an activity done well, as good as the activity itself",
+            "el": "Ως στεφάνι μιας ενέργειας που γίνεται καλά, τόσο καλή όσο η ίδια η ενέργεια"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Pleasure is neither the goal nor an enemy. It completes good activity, and its worth follows the activity's worth.",
+          "el": "Η ηδονή δεν είναι ούτε σκοπός ούτε εχθρός. Ολοκληρώνει την καλή ενέργεια, και η αξία της ακολουθεί την αξία της ενέργειας."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Theoria: the highest happiness",
+        "el": "Θεωρία: η ανώτερη ευδαιμονία"
+      },
+      "explain": {
+        "en": "In the last book Aristotle names the most complete happiness: contemplation (θεωρία), the activity of understanding for its own sake. His reasons: the mind is the best thing in us; thinking can be kept up longest; it needs the fewest outside things; it is loved for itself; it belongs to leisure; and it is the nearest we come to the divine. A life of moral virtue among people is happy too, but in second place.",
+        "el": "Στο τελευταίο βιβλίο ο Αριστοτέλης ονομάζει την πιο ολοκληρωμένη ευδαιμονία: τη θεωρία, δηλαδή την ενέργεια του να κατανοείς για χάρη της ίδιας της κατανόησης. Οι λόγοι του: ο νους είναι το καλύτερο που έχουμε· η σκέψη μπορεί να κρατήσει περισσότερο από κάθε άλλη πράξη· χρειάζεται τα λιγότερα εξωτερικά μέσα· αγαπιέται για τον εαυτό της· ανήκει στη σχολή· και είναι το πιο κοντινό που φτάνουμε στο θείο. Ευτυχισμένη είναι και η ζωή της ηθικής αρετής ανάμεσα στους ανθρώπους, αλλά σε δεύτερη θέση."
+      },
+      "example": {
+        "en": "For years Bill Gates took a «Think Week» twice a year: seven days alone in a cabin, with no meetings, only reading and thinking. After one of them, in 1995, he wrote the memo «The Internet Tidal Wave», which turned the whole of Microsoft towards the internet.",
+        "el": "Επί χρόνια ο Bill Gates έκανε δύο φορές τον χρόνο μια «Think Week»: επτά μέρες μόνος σε ένα σπιτάκι, χωρίς συναντήσεις, μόνο διάβασμα και σκέψη. Μετά από μία τέτοια, το 1995, έγραψε το υπόμνημα «The Internet Tidal Wave», που έστρεψε ολόκληρη τη Microsoft προς το internet."
+      },
+      "apply": {
+        "en": "Schedule thinking that has no immediate use. Take ninety minutes a week, with no phone, to read something difficult or to think about one big question until you understand it. Do it for its own sake. You will notice that your business decisions get clearer as a side effect.",
+        "el": "Βάλε στο πρόγραμμα σκέψη που δεν έχει άμεση χρησιμότητα. Πάρε ενενήντα λεπτά την εβδομάδα, χωρίς κινητό, για να διαβάσεις κάτι δύσκολο ή να σκεφτείς ένα μεγάλο ερώτημα ώσπου να το καταλάβεις. Κάν' το για το ίδιο το πράγμα. Θα δεις ότι, σαν παρενέργεια, καθαρίζουν και οι αποφάσεις σου στη δουλειά."
+      },
+      "check": {
+        "q": {
+          "en": "Why does Aristotle rank contemplation highest?",
+          "el": "Γιατί ο Αριστοτέλης βάζει πρώτη τη θεωρία;"
+        },
+        "options": [
+          {
+            "en": "Because it uses the best part of us, needs little and is loved for itself",
+            "el": "Γιατί αξιοποιεί το καλύτερο μέρος μας, θέλει λίγα και αγαπιέται για τον εαυτό της"
+          },
+          {
+            "en": "Because it brings the most money and honour",
+            "el": "Γιατί φέρνει τα περισσότερα χρήματα και τις περισσότερες τιμές"
+          },
+          {
+            "en": "Because it frees us from every duty to other people",
+            "el": "Γιατί μας απαλλάσσει από κάθε υποχρέωση προς τους άλλους"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "It is the activity of the mind, the most continuous and self-sufficient one, and it is chosen for nothing beyond itself.",
+          "el": "Είναι η ενέργεια του νου, η πιο συνεχής και αυτάρκης, και δεν επιλέγεται για τίποτα πέρα από τον εαυτό της."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "From ethics to laws",
+        "el": "Από την ηθική στους νόμους"
+      },
+      "explain": {
+        "en": "The book ends with a sober thought. We study ethics not to know what goodness is but to become good, and words alone do not do that. Arguments move only people already raised to love what is noble; most people follow fear and habit rather than reason. So a good upbringing needs good laws that train citizens in the right habits from youth. That is why the Ethics leads straight into the Politics.",
+        "el": "Το βιβλίο κλείνει με μια νηφάλια σκέψη. Μελετάμε την ηθική όχι για να μάθουμε τι είναι το καλό, αλλά για να γίνουμε καλοί, και τα λόγια μόνα τους δεν το πετυχαίνουν. Τα επιχειρήματα αγγίζουν μόνο όσους έχουν ήδη ανατραφεί να αγαπούν το ωραίο· οι περισσότεροι ακολουθούν τον φόβο και τη συνήθεια και όχι τη λογική. Γι' αυτό η σωστή ανατροφή χρειάζεται καλούς νόμους, που ασκούν τους πολίτες στις σωστές συνήθειες από νέους. Έτσι τα Ηθικά οδηγούν κατευθείαν στα Πολιτικά."
+      },
+      "example": {
+        "en": "For years British campaigns urged drivers to wear seat belts, and only about four in ten did. In January 1983 wearing them in the front seats became law. Within weeks more than nine in ten drivers buckled up, and today most people do it without thinking.",
+        "el": "Επί χρόνια οι καμπάνιες στη Βρετανία παρότρυναν τους οδηγούς να φορούν ζώνη, και τη φορούσαν μόνο περίπου τέσσερις στους δέκα. Τον Ιανουάριο του 1983 η ζώνη στα μπροστινά καθίσματα έγινε νόμος. Μέσα σε λίγες εβδομάδες τη φορούσαν πάνω από εννέα στους δέκα οδηγούς, και σήμερα οι περισσότεροι το κάνουν χωρίς να το σκέφτονται."
+      },
+      "apply": {
+        "en": "Do not rely on speeches to change your team or yourself. Turn each value into a rule and a routine: a checklist every site must pass before it goes out, a fixed hour for calls, a weekly review. Good habits built into the system beat good intentions.",
+        "el": "Μη βασίζεσαι σε λόγια για να αλλάξεις την ομάδα σου ή τον εαυτό σου. Κάνε κάθε αξία κανόνα και ρουτίνα: μια λίστα ελέγχου που περνά κάθε ιστοσελίδα πριν βγει, μια σταθερή ώρα για τηλεφωνήματα, έναν εβδομαδιαίο απολογισμό. Οι καλές συνήθειες που είναι χτισμένες στο σύστημα νικούν τις καλές προθέσεις."
+      },
+      "check": {
+        "q": {
+          "en": "Why does the Ethics end by pointing to politics?",
+          "el": "Γιατί τα Ηθικά κλείνουν δείχνοντας προς την πολιτική;"
+        },
+        "options": [
+          {
+            "en": "Because good habits need good laws and upbringing, not only arguments",
+            "el": "Γιατί οι καλές συνήθειες θέλουν καλούς νόμους και ανατροφή, όχι μόνο επιχειρήματα"
+          },
+          {
+            "en": "Because only politicians can be truly happy",
+            "el": "Γιατί μόνο οι πολιτικοί μπορούν να είναι αληθινά ευτυχισμένοι"
+          },
+          {
+            "en": "Because ethics is useless without wealth",
+            "el": "Γιατί η ηθική είναι άχρηστη χωρίς πλούτο"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Character is formed by practice from youth, and the laws of a community shape that practice.",
+          "el": "Ο χαρακτήρας πλάθεται με την άσκηση από τα νεανικά χρόνια, και αυτή την άσκηση τη διαμορφώνουν οι νόμοι της κοινότητας."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "A dentist said «send me details» ten days ago and has not replied since. What is the mean?",
+        "el": "Ένας οδοντίατρος είπε «στείλτε μου λεπτομέρειες» πριν από δέκα μέρες και από τότε δεν απάντησε. Ποια είναι η μεσότητα;"
+      },
+      "options": [
+        {
+          "en": "Call him every morning until he answers",
+          "el": "Τον παίρνεις κάθε πρωί ώσπου να απαντήσει"
+        },
+        {
+          "en": "Make one friendly call now and send one short message next week, then let go",
+          "el": "Κάνεις ένα φιλικό τηλεφώνημα τώρα και στέλνεις ένα σύντομο μήνυμα την άλλη εβδομάδα, μετά το αφήνεις"
+        },
+        {
+          "en": "Never contact him again, so as not to disturb",
+          "el": "Δεν τον ξαναενοχλείς ποτέ, για να μη γίνεις βάρος"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Pestering is the excess and giving up is the deficiency. The right amount for this person lies between them.",
+        "el": "Η πίεση είναι η υπερβολή και η παραίτηση η έλλειψη. Το σωστό ποσό για αυτόν τον άνθρωπο βρίσκεται ανάμεσα."
+      },
+      "idea": 4
+    },
+    {
+      "q": {
+        "en": "You want to become calm on the phone when people refuse you. What works, according to Aristotle?",
+        "el": "Θέλεις να γίνεις ψύχραιμος στο τηλέφωνο όταν σε απορρίπτουν. Τι δουλεύει, κατά τον Αριστοτέλη;"
+      },
+      "options": [
+        {
+          "en": "Calling every day, so that calm becomes a habit",
+          "el": "Να τηλεφωνείς κάθε μέρα, ώστε η ψυχραιμία να γίνει συνήθεια"
+        },
+        {
+          "en": "Waiting until you feel confident enough to start",
+          "el": "Να περιμένεις ώσπου να νιώσεις αρκετά σίγουρος για να ξεκινήσεις"
+        },
+        {
+          "en": "Watching videos about confidence until it clicks",
+          "el": "Να βλέπεις βίντεο για την αυτοπεποίθηση ώσπου να σου γίνει κλικ"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "Character comes from repeated action. You become calm by acting calmly many times.",
+        "el": "Ο χαρακτήρας βγαίνει από την επαναλαμβανόμενη πράξη. Γίνεσαι ψύχραιμος όταν φέρεσαι ψύχραιμα πολλές φορές."
+      },
+      "idea": 3
+    },
+    {
+      "q": {
+        "en": "Every night you decide to start tomorrow with cold calls. Every morning you open social media «for five minutes» and lose an hour. What do you do?",
+        "el": "Κάθε βράδυ αποφασίζεις να ξεκινήσεις αύριο με cold calls. Κάθε πρωί ανοίγεις τα social «για πέντε λεπτά» και χάνεις μία ώρα. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Promise yourself more strongly that tomorrow will be different",
+          "el": "Υπόσχεσαι στον εαυτό σου πιο έντονα ότι αύριο θα είναι αλλιώς"
+        },
+        {
+          "en": "Conclude that you are simply a lazy person",
+          "el": "Καταλήγεις ότι είσαι απλώς τεμπέλης"
+        },
+        {
+          "en": "Remove the temptation the night before: phone in another room, call list open on the desk",
+          "el": "Βγάζεις τον πειρασμό από το προηγούμενο βράδυ: κινητό σε άλλο δωμάτιο, λίστα τηλεφώνων ανοιχτή στο γραφείο"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "This is akrasia: you know what is right, but in the moment desire clouds it. Decide in a clear hour and take the choice away from the weak one.",
+        "el": "Αυτό είναι ακρασία: ξέρεις το σωστό, αλλά εκείνη τη στιγμή η επιθυμία το θολώνει. Αποφάσισε την καθαρή ώρα και πάρε την επιλογή από την αδύναμη."
+      },
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "A project brought a good profit. One colleague did most of the work, another helped a little. How do you share the bonus?",
+        "el": "Ένα έργο έφερε καλό κέρδος. Ένας συνεργάτης έκανε το μεγαλύτερο μέρος της δουλειάς, ένας άλλος βοήθησε λίγο. Πώς μοιράζεις το bonus;"
+      },
+      "options": [
+        {
+          "en": "Half and half, to avoid any discussion",
+          "el": "Μισό μισό, για να μη γίνει κουβέντα"
+        },
+        {
+          "en": "In proportion to what each one contributed, and explain it",
+          "el": "Ανάλογα με το τι πρόσφερε ο καθένας, και το εξηγείς"
+        },
+        {
+          "en": "All to the one you like more",
+          "el": "Όλο σε αυτόν που συμπαθείς περισσότερο"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Distributive justice is proportional: equal shares for unequal contributions feel unjust.",
+        "el": "Η διανεμητική δικαιοσύνη είναι αναλογική: ίσα μερίδια για άνιση συνεισφορά μοιάζουν άδικα."
+      },
+      "idea": 8
+    },
+    {
+      "q": {
+        "en": "An old friend tells you bluntly that you have become short-tempered with people since the business grew. How do you take it?",
+        "el": "Ένας παλιός φίλος σού λέει ωμά ότι έχεις γίνει απότομος με τους ανθρώπους από τότε που μεγάλωσε η επιχείρηση. Πώς το παίρνεις;"
+      },
+      "options": [
+        {
+          "en": "As a sign of a rare friend who wants you to be better; thank him and look into it",
+          "el": "Ως σημάδι σπάνιου φίλου που θέλει να γίνεις καλύτερος· τον ευχαριστείς και το ψάχνεις"
+        },
+        {
+          "en": "As jealousy of your success; see him less",
+          "el": "Ως ζήλια για την επιτυχία σου· τον βλέπεις λιγότερο"
+        },
+        {
+          "en": "As his opinion only; friends should just be pleasant",
+          "el": "Ως απλή γνώμη του· οι φίλοι πρέπει απλώς να είναι ευχάριστοι"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "The friend of virtue cares about your character and tells you the truth. That is the kind worth keeping.",
+        "el": "Ο φίλος της αρετής νοιάζεται για τον χαρακτήρα σου και σου λέει την αλήθεια. Αυτό το είδος αξίζει να κρατάς."
+      },
+      "idea": 11
+    },
+    {
+      "q": {
+        "en": "A client with a strict «no refunds» clause had a real emergency and could not use the service at all. The rule says no. What does a practically wise person do?",
+        "el": "Ένας πελάτης με ρητό όρο «δεν γίνονται επιστροφές» είχε πραγματική έκτακτη ανάγκη και δεν χρησιμοποίησε καθόλου την υπηρεσία. Ο κανόνας λέει όχι. Τι κάνει ο φρόνιμος;"
+      },
+      "options": [
+        {
+          "en": "Applies the rule mechanically; rules are rules",
+          "el": "Εφαρμόζει τον κανόνα μηχανικά· ο κανόνας είναι κανόνας"
+        },
+        {
+          "en": "Abolishes the rule for all clients from now on",
+          "el": "Καταργεί τον κανόνα για όλους τους πελάτες από εδώ και πέρα"
+        },
+        {
+          "en": "Sees that the rule was not written for this case and makes a fair exception",
+          "el": "Βλέπει ότι ο κανόνας δεν γράφτηκε για αυτή την περίπτωση και κάνει μια δίκαιη εξαίρεση"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Rules are general; practical wisdom sees the particular case. Aristotle calls this correction of the rule equity.",
+        "el": "Οι κανόνες είναι γενικοί· η φρόνηση βλέπει τη συγκεκριμένη περίπτωση. Αυτή τη διόρθωση του κανόνα ο Αριστοτέλης τη λέει επιείκεια."
+      },
+      "idea": 9
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "For Aristotle happiness is an activity, not a feeling or a possession.",
+        "el": "Για τον Αριστοτέλη η ευδαιμονία είναι ενέργεια, όχι συναίσθημα ούτε απόκτημα."
+      },
+      "answer": true,
+      "why": {
+        "en": "It is activity of the soul in accordance with virtue over a complete life.",
+        "el": "Είναι ενέργεια της ψυχής σύμφωνα με την αρετή σε έναν ολόκληρο βίο."
+      }
+    },
+    {
+      "s": {
+        "en": "We are born with our moral virtues already formed.",
+        "el": "Γεννιόμαστε με τις ηθικές αρετές μας ήδη διαμορφωμένες."
+      },
+      "answer": false,
+      "why": {
+        "en": "Nature gives us only the capacity. The virtues themselves come from habit.",
+        "el": "Η φύση μάς δίνει μόνο τη δυνατότητα. Οι ίδιες οι αρετές έρχονται με τη συνήθεια."
+      }
+    },
+    {
+      "s": {
+        "en": "The mean is relative to the person and the situation.",
+        "el": "Η μεσότητα εξαρτάται από τον άνθρωπο και την περίσταση."
+      },
+      "answer": true,
+      "why": {
+        "en": "The right amount of food for Milo is not the right amount for a beginner.",
+        "el": "Το σωστό ποσό φαγητού για τον Μίλωνα δεν είναι το σωστό για έναν αρχάριο."
+      }
+    },
+    {
+      "s": {
+        "en": "Every action has a mean, so there is a right amount even of theft.",
+        "el": "Κάθε πράξη έχει μέσον, άρα υπάρχει σωστό ποσό ακόμη και για την κλοπή."
+      },
+      "answer": false,
+      "why": {
+        "en": "Some acts, such as murder, theft and adultery, are always wrong and have no mean.",
+        "el": "Κάποιες πράξεις, όπως ο φόνος, η κλοπή και η μοιχεία, είναι πάντα λάθος και δεν έχουν μέσον."
+      }
+    },
+    {
+      "s": {
+        "en": "The weak-willed person knows what is right but is overcome in the moment.",
+        "el": "Ο ακρατής ξέρει το σωστό, αλλά νικιέται εκείνη τη στιγμή."
+      },
+      "answer": true,
+      "why": {
+        "en": "That is akrasia: passion temporarily clouds knowledge, and regret follows.",
+        "el": "Αυτό είναι η ακρασία: το πάθος θολώνει προσωρινά τη γνώση, και ακολουθεί η μετάνοια."
+      }
+    },
+    {
+      "s": {
+        "en": "Aristotle says friendships of utility are the most lasting kind.",
+        "el": "Ο Αριστοτέλης λέει ότι οι φιλίες για το χρήσιμο είναι το πιο ανθεκτικό είδος."
+      },
+      "answer": false,
+      "why": {
+        "en": "They end when the use ends. Friendship of virtue is the one that lasts.",
+        "el": "Τελειώνουν όταν τελειώσει το όφελος. Διαρκεί η φιλία της αρετής."
+      }
+    },
+    {
+      "s": {
+        "en": "According to Aristotle, happiness also needs some external goods, such as health, friends and enough money.",
+        "el": "Κατά τον Αριστοτέλη η ευδαιμονία χρειάζεται και κάποια εξωτερικά αγαθά, όπως υγεία, φίλους και αρκετά χρήματα."
+      },
+      "answer": true,
+      "why": {
+        "en": "It is hard to act well with no means at all, though virtue stays the core.",
+        "el": "Δύσκολα πράττεις καλά χωρίς κανένα μέσο, αν και ο πυρήνας παραμένει η αρετή."
+      }
+    },
+    {
+      "s": {
+        "en": "Aristotle teaches that pleasure is bad and must be avoided.",
+        "el": "Ο Αριστοτέλης διδάσκει ότι η ηδονή είναι κακή και πρέπει να αποφεύγεται."
+      },
+      "answer": false,
+      "why": {
+        "en": "Pleasure completes a good activity. It is as good as the activity it belongs to.",
+        "el": "Η ηδονή ολοκληρώνει την καλή ενέργεια. Είναι τόσο καλή όσο η ενέργεια στην οποία ανήκει."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "Eudaimonia",
+        "el": "Ευδαιμονία"
+      },
+      "b": {
+        "en": "Flourishing: living and acting well through a whole life",
+        "el": "Να ανθίζεις: να ζεις και να πράττεις καλά σε όλη τη ζωή"
+      }
+    },
+    {
+      "a": {
+        "en": "The mean",
+        "el": "Μεσότης"
+      },
+      "b": {
+        "en": "The right amount between too much and too little",
+        "el": "Το σωστό ποσό ανάμεσα στο πολύ και στο λίγο"
+      }
+    },
+    {
+      "a": {
+        "en": "Phronesis",
+        "el": "Φρόνησις"
+      },
+      "b": {
+        "en": "Practical wisdom: seeing what this situation needs",
+        "el": "Πρακτική σοφία: βλέπεις τι χρειάζεται αυτή η περίσταση"
+      }
+    },
+    {
+      "a": {
+        "en": "Akrasia",
+        "el": "Ακρασία"
+      },
+      "b": {
+        "en": "Knowing the good, yet doing otherwise",
+        "el": "Ξέρεις το καλό, κι όμως κάνεις το αντίθετο"
+      }
+    },
+    {
+      "a": {
+        "en": "Hexis",
+        "el": "Έξις"
+      },
+      "b": {
+        "en": "A settled state of character built by habit",
+        "el": "Σταθερή διάθεση του χαρακτήρα που χτίζεται με τη συνήθεια"
+      }
+    },
+    {
+      "a": {
+        "en": "Theoria",
+        "el": "Θεωρία"
+      },
+      "b": {
+        "en": "Understanding for its own sake, the highest activity",
+        "el": "Κατανόηση για χάρη της ίδιας, η ανώτερη ενέργεια"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Ask «and what is that for?» five times about your main goal and write down the last answer.",
+      "el": "Ρώτα πέντε φορές «κι αυτό σε τι χρησιμεύει;» για τον βασικό σου στόχο και γράψε την τελευταία απάντηση."
+    },
+    {
+      "en": "Pick one decision you face today and write its two faults: what would be too much, what would be too little.",
+      "el": "Διάλεξε μια απόφαση που έχεις σήμερα και γράψε τα δύο ελαττώματά της: τι θα ήταν υπερβολή και τι έλλειψη."
+    },
+    {
+      "en": "Choose one habit and do it at the same hour for the next seven days, without waiting to feel like it.",
+      "el": "Διάλεξε μια συνήθεια και κάν' την την ίδια ώρα τις επόμενες επτά μέρες, χωρίς να περιμένεις να έχεις διάθεση."
+    },
+    {
+      "en": "Call one friend who tells you the truth and arrange to meet this week.",
+      "el": "Πάρε τηλέφωνο έναν φίλο που σου λέει την αλήθεια και κανόνισε να βρεθείτε αυτή την εβδομάδα."
+    },
+    {
+      "en": "Remove tonight the one thing that derails your mornings, so that tomorrow you have nothing to resist.",
+      "el": "Βγάλε απόψε από τη μέση το ένα πράγμα που σου χαλά τα πρωινά, ώστε αύριο να μην έχεις τι να αντισταθείς."
+    }
+  ],
+  "mantra": {
+    "en": "I become what I do every day.",
+    "el": "Γίνομαι αυτό που κάνω κάθε μέρα."
+  },
+  "careful": {
+    "en": "The mean sounds helpful but is vague: it does not tell you where the right point is, only that a wise person would know. The idea that humans have one built-in function is disputed, and modern biology does not support it. His virtues describe a free, well-off Athenian man; women, slaves and manual workers are left out, which is unacceptable today. He admits happiness needs luck and money. And the praise of pure contemplation at the end fits awkwardly with the practical life praised before.",
+    "el": "Η μεσότητα ακούγεται χρήσιμη αλλά είναι αόριστη: δεν σου λέει πού βρίσκεται το σωστό σημείο, μόνο ότι ο φρόνιμος θα το ήξερε. Η ιδέα ότι ο άνθρωπος έχει ένα έμφυτο «έργο» αμφισβητείται, και η σύγχρονη βιολογία δεν τη στηρίζει. Οι αρετές του περιγράφουν έναν ελεύθερο, εύπορο Αθηναίο άνδρα· γυναίκες, δούλοι και χειρώνακτες μένουν απέξω, κάτι απαράδεκτο σήμερα. Παραδέχεται ότι η ευδαιμονία θέλει τύχη και χρήματα. Και ο έπαινος της καθαρής θεωρίας στο τέλος δένει άβολα με τον πρακτικό βίο που επαινούσε πριν."
+  },
+  "connects": [
+    {
+      "book": "politics",
+      "note": {
+        "en": "The Ethics ends where the Politics begins: good character needs good laws, so the next question is how to build a good city.",
+        "el": "Τα Ηθικά τελειώνουν εκεί όπου αρχίζουν τα Πολιτικά: ο καλός χαρακτήρας θέλει καλούς νόμους, άρα το επόμενο ερώτημα είναι πώς χτίζεται μια καλή πόλη."
+      }
+    },
+    {
+      "book": "meditations",
+      "note": {
+        "en": "Marcus Aurelius says virtue alone is enough for a good life; Aristotle disagrees and says you also need friends, health and some luck.",
+        "el": "Ο Μάρκος Αυρήλιος λέει ότι η αρετή αρκεί μόνη της για την καλή ζωή· ο Αριστοτέλης διαφωνεί και λέει ότι χρειάζεσαι και φίλους, υγεία και λίγη τύχη."
+      }
+    },
+    {
+      "book": "plato",
+      "note": {
+        "en": "Plato's Socrates holds that knowing the good is enough to do it; Aristotle, his student, answers with habit and with akrasia.",
+        "el": "Ο Σωκράτης του Πλάτωνα πιστεύει ότι αρκεί να γνωρίζεις το καλό για να το πράξεις· ο Αριστοτέλης, ο μαθητής του, απαντά με τη συνήθεια και με την ακρασία."
+      }
+    }
+  ]
+}

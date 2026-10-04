@@ -1,0 +1,1081 @@
+{
+  "id": "communist-manifesto",
+  "title": {
+    "en": "The Communist Manifesto",
+    "el": "Το Κομμουνιστικό Μανιφέστο"
+  },
+  "author": "Karl Marx & Friedrich Engels",
+  "authorEl": "Καρλ Μαρξ & Φρίντριχ Ένγκελς",
+  "year": 1848,
+  "shelf": "people",
+  "skills": {
+    "strategy": 2,
+    "persuasion": 2,
+    "wisdom": 2
+  },
+  "oneLine": {
+    "en": "History is a fight between classes; capitalism changed the world and, the authors claim, creates the workers who will overthrow it and end classes.",
+    "el": "Η ιστορία είναι πάλη ανάμεσα σε τάξεις· ο καπιταλισμός άλλαξε τον κόσμο και, κατά τους συγγραφείς, γεννά τους εργάτες που θα τον ανατρέψουν και θα καταργήσουν τις τάξεις."
+  },
+  "story": {
+    "en": "Karl Marx, 29, and Friedrich Engels, 27, wrote this short pamphlet for a small workers' group, the Communist League. It came out in London in February 1848, in German, about 23 pages. Almost nobody noticed it then. Later it became one of the most printed and most argued-about texts in history, and in the twentieth century whole states claimed to be built on it.",
+    "el": "Ο Καρλ Μαρξ, 29 ετών, και ο Φρίντριχ Ένγκελς, 27, έγραψαν αυτό το μικρό φυλλάδιο για μια μικρή εργατική οργάνωση, την Ένωση των Κομμουνιστών. Βγήκε στο Λονδίνο τον Φεβρουάριο του 1848, στα γερμανικά, περίπου 23 σελίδες. Τότε σχεδόν κανείς δεν το πρόσεξε. Αργότερα έγινε ένα από τα πιο τυπωμένα και πιο αμφιλεγόμενα κείμενα της ιστορίας, και τον εικοστό αιώνα ολόκληρα κράτη δήλωναν ότι στηρίζονται πάνω του."
+  },
+  "forYou": {
+    "en": "You do not need to agree with it to learn from it. It trains you to ask who owns what, who depends on whom and whose interest an idea serves: useful with clients, platforms, your team and the news. It also describes sharply how technology and competition destroy old businesses, which is your daily world. And it is a lesson in writing that moves people.",
+    "el": "Δεν χρειάζεται να συμφωνείς μαζί του για να μάθεις από αυτό. Σε εκπαιδεύει να ρωτάς ποιος κατέχει τι, ποιος εξαρτάται από ποιον και ποιανού το συμφέρον υπηρετεί μια ιδέα: χρήσιμο με πελάτες, πλατφόρμες, την ομάδα σου και τις ειδήσεις. Περιγράφει επίσης κοφτά πώς η τεχνολογία και ο ανταγωνισμός διαλύουν παλιές επιχειρήσεις, δηλαδή την καθημερινότητά σου. Και είναι μάθημα για το πώς γράφεται ένα κείμενο που κινητοποιεί."
+  },
+  "ideas": [
+    {
+      "title": {
+        "en": "A spectre haunts Europe",
+        "el": "Ένα φάντασμα πάνω από την Ευρώπη"
+      },
+      "explain": {
+        "en": "The text opens with a famous image: a ghost, communism, frightens all the powers of old Europe, from the Pope to the Tsar. The authors turn this into an argument. If everyone fears communism, it is already a real force. So it is time for communists to stop being a rumour and publish openly what they think, what they want and how they see the world. That is what a manifesto is: a public declaration.",
+        "el": "Το κείμενο ανοίγει με μια διάσημη εικόνα: ένα φάντασμα, ο κομμουνισμός, τρομάζει όλες τις δυνάμεις της γηραιάς Ευρώπης, από τον Πάπα ως τον Τσάρο. Οι συγγραφείς το κάνουν επιχείρημα. Αν όλοι φοβούνται τον κομμουνισμό, τότε είναι ήδη πραγματική δύναμη. Ώρα λοιπόν οι κομμουνιστές να πάψουν να είναι φήμη και να πουν ανοιχτά τι πιστεύουν, τι θέλουν και πώς βλέπουν τον κόσμο. Αυτό είναι ένα μανιφέστο: μια δημόσια διακήρυξη."
+      },
+      "example": {
+        "en": "The Communist League, a small society of mostly German workers in exile, asked Marx and Engels for a programme at its London congress in late 1847. Marx delivered late, only after the League sent him an ultimatum with a deadline. The pamphlet was printed in February 1848, days before revolution broke out in Paris.",
+        "el": "Η Ένωση των Κομμουνιστών, μια μικρή οργάνωση κυρίως Γερμανών εργατών στην εξορία, ζήτησε από τον Μαρξ και τον Ένγκελς ένα πρόγραμμα στο συνέδριό της στο Λονδίνο στα τέλη του 1847. Ο Μαρξ άργησε και παρέδωσε μόνο όταν η Ένωση του έστειλε τελεσίγραφο με προθεσμία. Το φυλλάδιο τυπώθηκε τον Φεβρουάριο του 1848, λίγες μέρες πριν ξεσπάσει επανάσταση στο Παρίσι."
+      },
+      "apply": {
+        "en": "Write your own one-page declaration for the agency: what you believe about websites for professionals, what you refuse to do, what you promise. A group that states its position openly looks strong. Rumours and vague slogans do not win clients; a clear, public stand does.",
+        "el": "Γράψε τη δική σου διακήρυξη μίας σελίδας για το agency: τι πιστεύεις για τις ιστοσελίδες των επαγγελματιών, τι αρνείσαι να κάνεις, τι υπόσχεσαι. Μια ομάδα που λέει ανοιχτά τη θέση της δείχνει δυνατή. Οι φήμες και τα θολά συνθήματα δεν φέρνουν πελάτες· μια καθαρή, δημόσια θέση φέρνει."
+      },
+      "check": {
+        "q": {
+          "en": "Why did the authors publish a manifesto?",
+          "el": "Γιατί οι συγγραφείς δημοσίευσαν ένα μανιφέστο;"
+        },
+        "options": [
+          {
+            "en": "To state openly, against the rumours, what communists want",
+            "el": "Για να πουν ανοιχτά, απέναντι στις φήμες, τι θέλουν οι κομμουνιστές"
+          },
+          {
+            "en": "To ask the kings of Europe for reforms",
+            "el": "Για να ζητήσουν μεταρρυθμίσεις από τους βασιλιάδες της Ευρώπης"
+          },
+          {
+            "en": "To hide their real plans from the police",
+            "el": "Για να κρύψουν τα πραγματικά τους σχέδια από την αστυνομία"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "A manifesto is a public declaration. They wanted to answer the «ghost story» with their own clear programme.",
+          "el": "Μανιφέστο σημαίνει δημόσια διακήρυξη. Ήθελαν να απαντήσουν στο «παραμύθι με το φάντασμα» με το δικό τους καθαρό πρόγραμμα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "History is class struggle",
+        "el": "Η ιστορία είναι πάλη των τάξεων"
+      },
+      "explain": {
+        "en": "The first chapter begins with the book's main claim: the history of all societies so far is the history of class struggles. Free man and slave, lord and serf, guild master and journeyman: in every age those who own stood against those who work for them, in an open or hidden fight. Each fight ended in a new kind of society. The modern age, they say, has simplified it into two camps: bourgeoisie and proletariat.",
+        "el": "Το πρώτο κεφάλαιο ξεκινά με τη βασική θέση του βιβλίου: η ιστορία όλων των ως τώρα κοινωνιών είναι ιστορία ταξικών αγώνων. Ελεύθερος και δούλος, φεουδάρχης και δουλοπάροικος, μάστορας και κάλφας: σε κάθε εποχή όσοι κατέχουν στέκονταν απέναντι σε όσους δουλεύουν γι' αυτούς, σε μια πάλη φανερή ή κρυφή. Κάθε πάλη κατέληγε σε νέα μορφή κοινωνίας. Η σύγχρονη εποχή, λένε, την απλοποίησε σε δύο στρατόπεδα: αστική τάξη και προλεταριάτο."
+      },
+      "example": {
+        "en": "In Rome in 494 BC the plebeians, the common people who served as soldiers but had no say, walked out of the city and refused to fight. The patricians had to give in: the plebeians won their own officials, the tribunes, who could block decisions that harmed them.",
+        "el": "Στη Ρώμη το 494 π.Χ. οι πληβείοι, ο απλός λαός που υπηρετούσε στον στρατό αλλά δεν είχε λόγο, έφυγαν από την πόλη και αρνήθηκαν να πολεμήσουν. Οι πατρίκιοι αναγκάστηκαν να υποχωρήσουν: οι πληβείοι απέκτησαν δικούς τους άρχοντες, τους δημάρχους (tribuni), που μπορούσαν να μπλοκάρουν αποφάσεις σε βάρος τους."
+      },
+      "apply": {
+        "en": "Look for the groups and their interests behind any conflict you read about: who owns, who works, who gains from the change. Use it as one lens, not the only one. In a negotiation, map what each side has to win or lose before you judge what they say.",
+        "el": "Ψάξε τις ομάδες και τα συμφέροντά τους πίσω από κάθε σύγκρουση που διαβάζεις: ποιος κατέχει, ποιος δουλεύει, ποιος κερδίζει από την αλλαγή. Χρησιμοποίησέ το ως έναν φακό, όχι τον μοναδικό. Σε μια διαπραγμάτευση, γράψε τι έχει να κερδίσει και να χάσει κάθε πλευρά πριν κρίνεις τα λόγια της."
+      },
+      "check": {
+        "q": {
+          "en": "What drives history, according to the Manifesto?",
+          "el": "Τι κινεί την ιστορία, σύμφωνα με το Μανιφέστο;"
+        },
+        "options": [
+          {
+            "en": "The wars between different religions",
+            "el": "Οι πόλεμοι ανάμεσα σε διαφορετικές θρησκείες"
+          },
+          {
+            "en": "The conflict between classes with opposed interests",
+            "el": "Η σύγκρουση ανάμεσα σε τάξεις με αντίθετα συμφέροντα"
+          },
+          {
+            "en": "The ideas of a few great thinkers",
+            "el": "Οι ιδέες λίγων μεγάλων στοχαστών"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "For Marx and Engels every age is shaped by the fight between those who own and those who work for them.",
+          "el": "Για τον Μαρξ και τον Ένγκελς κάθε εποχή διαμορφώνεται από την πάλη ανάμεσα σε όσους κατέχουν και σε όσους δουλεύουν γι' αυτούς."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The bourgeoisie changed everything",
+        "el": "Η αστική τάξη άλλαξε τα πάντα"
+      },
+      "explain": {
+        "en": "Surprisingly, the Manifesto praises its enemy. The bourgeoisie, the owners of factories, banks and trade, did in a hundred years more than all earlier generations: machines, railways, steamships, huge cities, a world market. It cannot stand still. To survive it must keep revolutionising tools and methods, so everything fixed dissolves: «all that is solid melts into air». It pulls every nation into one connected economy with cheap goods.",
+        "el": "Παραδόξως, το Μανιφέστο επαινεί τον αντίπαλό του. Η αστική τάξη, οι ιδιοκτήτες των εργοστασίων, των τραπεζών και του εμπορίου, έκανε σε εκατό χρόνια περισσότερα από όλες τις προηγούμενες γενιές: μηχανές, σιδηρόδρομους, ατμόπλοια, τεράστιες πόλεις, παγκόσμια αγορά. Δεν μπορεί να μείνει ακίνητη. Για να επιβιώσει πρέπει να ανατρέπει συνεχώς εργαλεία και μεθόδους, κι έτσι ό,τι ήταν σταθερό διαλύεται: «ό,τι είναι στέρεο εξατμίζεται». Τραβά κάθε έθνος σε μια ενιαία οικονομία με φτηνά προϊόντα."
+      },
+      "example": {
+        "en": "Kodak dominated photography for a century and even built the first digital camera in 1975. It kept protecting its film business while competitors and then smartphones changed how pictures are taken. In January 2012 Kodak filed for bankruptcy. Something that looked solid had melted.",
+        "el": "Η Kodak κυριάρχησε στη φωτογραφία επί έναν αιώνα και μάλιστα έφτιαξε την πρώτη ψηφιακή μηχανή το 1975. Συνέχισε να προστατεύει το φιλμ της, ενώ οι ανταγωνιστές και μετά τα smartphones άλλαζαν τον τρόπο που βγάζουμε φωτογραφίες. Τον Ιανουάριο του 2012 η Kodak κήρυξε πτώχευση. Κάτι που έμοιαζε στέρεο είχε εξατμιστεί."
+      },
+      "apply": {
+        "en": "Assume that the way you build and sell today will be outdated in three years. You already replaced hand coding with AI; ask every quarter which part of your service a new tool will make free, and move your value before it happens: relationships, trust, speed, results.",
+        "el": "Θεώρησε δεδομένο ότι ο τρόπος που χτίζεις και πουλάς σήμερα θα είναι ξεπερασμένος σε τρία χρόνια. Ήδη αντικατέστησες τον κώδικα με το χέρι με το AI· ρώτα κάθε τρίμηνο ποιο κομμάτι της υπηρεσίας σου θα το κάνει δωρεάν ένα νέο εργαλείο, και μετακίνησε την αξία σου πριν συμβεί: σχέσεις, εμπιστοσύνη, ταχύτητα, αποτέλεσμα."
+      },
+      "check": {
+        "q": {
+          "en": "How does the Manifesto describe the bourgeoisie's role in history?",
+          "el": "Πώς περιγράφει το Μανιφέστο τον ρόλο της αστικής τάξης στην ιστορία;"
+        },
+        "options": [
+          {
+            "en": "As a lazy class that produced nothing new",
+            "el": "Ως τεμπέλικη τάξη που δεν παρήγαγε τίποτα καινούργιο"
+          },
+          {
+            "en": "As a revolutionary force that keeps overturning how things are made",
+            "el": "Ως επαναστατική δύναμη που ανατρέπει συνεχώς τον τρόπο παραγωγής"
+          },
+          {
+            "en": "As a class that only copied the feudal lords",
+            "el": "Ως τάξη που απλώς αντέγραψε τους φεουδάρχες"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "The authors admire its energy: it cannot exist without constantly changing production, and with it all of society.",
+          "el": "Οι συγγραφείς θαυμάζουν την ενέργειά της: δεν μπορεί να υπάρξει χωρίς να αλλάζει συνεχώς την παραγωγή, και μαζί όλη την κοινωνία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Everything becomes a price",
+        "el": "Όλα γίνονται τιμή"
+      },
+      "explain": {
+        "en": "The dark side of that energy: the bourgeoisie has torn up the old ties of loyalty, religion and family feeling and left one bond between people, cold cash payment. Personal worth becomes exchange value. The doctor, the lawyer, the priest, the poet and the scientist become its paid workers. Even the modern state, the authors say, is only a committee that manages the common business of the bourgeoisie.",
+        "el": "Η σκοτεινή πλευρά αυτής της ενέργειας: η αστική τάξη έσκισε τους παλιούς δεσμούς της πίστης, της θρησκείας και του οικογενειακού συναισθήματος και άφησε έναν μόνο δεσμό ανάμεσα στους ανθρώπους, την ψυχρή πληρωμή τοις μετρητοίς. Η προσωπική αξία γίνεται ανταλλακτική αξία. Ο γιατρός, ο δικηγόρος, ο παπάς, ο ποιητής και ο επιστήμονας γίνονται μισθωτοί της. Ακόμη και το σύγχρονο κράτος, λένε οι συγγραφείς, είναι απλώς μια επιτροπή που διαχειρίζεται τις κοινές υποθέσεις της αστικής τάξης."
+      },
+      "example": {
+        "en": "In April 2021 twelve of Europe's richest football clubs announced a closed Super League that guaranteed them money without having to qualify. Fans protested in the streets that clubs with a hundred years of local history were being treated as pure business. Within about two days the plan collapsed.",
+        "el": "Τον Απρίλιο του 2021 δώδεκα από τους πλουσιότερους ποδοσφαιρικούς συλλόγους της Ευρώπης ανακοίνωσαν μια κλειστή Super League, με εγγυημένα έσοδα χωρίς πρόκριση. Οι οπαδοί βγήκαν στους δρόμους, γιατί σύλλογοι με εκατό χρόνια τοπικής ιστορίας αντιμετωπίζονταν ως καθαρή επιχείρηση. Μέσα σε περίπου δύο μέρες το σχέδιο κατέρρευσε."
+      },
+      "apply": {
+        "en": "Remember that the doctor you call does not want to feel like a product with a price tag. Speak first to his pride in his work and his name, then to money. And protect the things in your own business that should not be for sale: your word, your honest advice.",
+        "el": "Θυμήσου ότι ο γιατρός που παίρνεις τηλέφωνο δεν θέλει να νιώθει προϊόν με ταμπελάκι τιμής. Μίλα πρώτα στην περηφάνια του για τη δουλειά και το όνομά του, και μετά για χρήματα. Και προστάτεψε όσα στη δική σου δουλειά δεν πρέπει να πουλιούνται: τον λόγο σου, την ειλικρινή σου συμβουλή."
+      },
+      "check": {
+        "q": {
+          "en": "What does «cash payment» as the only bond mean?",
+          "el": "Τι σημαίνει ότι μόνος δεσμός μένει η «πληρωμή τοις μετρητοίς»;"
+        },
+        "options": [
+          {
+            "en": "People stop using banks and cheques",
+            "el": "Ο κόσμος παύει να χρησιμοποιεί τράπεζες και επιταγές"
+          },
+          {
+            "en": "Workers are always paid on the same day",
+            "el": "Οι εργάτες πληρώνονται πάντα την ίδια μέρα"
+          },
+          {
+            "en": "Relations of loyalty and respect are replaced by money relations",
+            "el": "Οι σχέσεις πίστης και σεβασμού αντικαθίστανται από σχέσεις χρήματος"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The claim is that the market turns every relationship, even the respected professions, into buying and selling.",
+          "el": "Η θέση είναι ότι η αγορά μετατρέπει κάθε σχέση, ακόμη και τα σεβαστά επαγγέλματα, σε αγοραπωλησία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The sorcerer loses control",
+        "el": "Ο μάγος χάνει τον έλεγχο"
+      },
+      "explain": {
+        "en": "Bourgeois society, the authors write, is like a sorcerer who can no longer control the powers he has called up. Its machines produce so much that crises break out again and again, crises of overproduction: too many goods, too few buyers, factories closed, people hungry next to full warehouses. It escapes each crisis by destroying part of what it built and conquering new markets, which only prepares bigger crises.",
+        "el": "Η αστική κοινωνία, γράφουν οι συγγραφείς, μοιάζει με μάγο που δεν μπορεί πια να ελέγξει τις δυνάμεις που ο ίδιος κάλεσε. Οι μηχανές της παράγουν τόσο πολλά, που ξεσπούν ξανά και ξανά κρίσεις υπερπαραγωγής: πάρα πολλά προϊόντα, πολύ λίγοι αγοραστές, κλειστά εργοστάσια, πεινασμένοι άνθρωποι δίπλα σε γεμάτες αποθήκες. Από κάθε κρίση βγαίνει καταστρέφοντας μέρος όσων έχτισε και κατακτώντας νέες αγορές, κάτι που απλώς ετοιμάζει μεγαλύτερες κρίσεις."
+      },
+      "example": {
+        "en": "Before 2008 banks packaged risky American home loans into complex products and sold them around the world. When house prices fell, nobody could control what had been created. On 15 September 2008 Lehman Brothers went bankrupt, and a global crisis followed that cost millions of people their jobs.",
+        "el": "Πριν από το 2008 οι τράπεζες πακετάριζαν επισφαλή αμερικανικά στεγαστικά δάνεια σε πολύπλοκα προϊόντα και τα πουλούσαν σε όλο τον κόσμο. Όταν έπεσαν οι τιμές των σπιτιών, κανείς δεν μπορούσε να ελέγξει αυτό που είχε δημιουργηθεί. Στις 15 Σεπτεμβρίου 2008 η Lehman Brothers χρεοκόπησε, και ακολούθησε παγκόσμια κρίση που στοίχισε τη δουλειά σε εκατομμύρια ανθρώπους."
+      },
+      "apply": {
+        "en": "List the powers you have called up and do not fully control: Meta ads, AI tools, one hosting provider, automations that post and reply for you. For each one write what happens if it breaks or changes its rules tomorrow, and keep a manual way to do the same job.",
+        "el": "Γράψε τις δυνάμεις που έχεις καλέσει και δεν ελέγχεις πλήρως: διαφημίσεις στο Meta, εργαλεία AI, έναν πάροχο φιλοξενίας, αυτοματισμούς που δημοσιεύουν και απαντούν για σένα. Για καθεμία σημείωσε τι γίνεται αν αύριο χαλάσει ή αλλάξει τους κανόνες της, και κράτα έναν χειροκίνητο τρόπο να κάνεις την ίδια δουλειά."
+      },
+      "check": {
+        "q": {
+          "en": "What does the sorcerer image say about capitalism?",
+          "el": "Τι λέει η εικόνα του μάγου για τον καπιταλισμό;"
+        },
+        "options": [
+          {
+            "en": "It depends on magic and superstition to sell goods",
+            "el": "Στηρίζεται στη μαγεία και στη δεισιδαιμονία για να πουλήσει"
+          },
+          {
+            "en": "It produces too little for everyone to survive",
+            "el": "Παράγει πολύ λίγα για να επιβιώσουν όλοι"
+          },
+          {
+            "en": "It creates forces so large that it cannot control them, hence the crises",
+            "el": "Δημιουργεί δυνάμεις τόσο μεγάλες που δεν τις ελέγχει, γι' αυτό και οι κρίσεις"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The problem they describe is too much production, not too little: the system's own power turns against it.",
+          "el": "Το πρόβλημα που περιγράφουν είναι η υπερβολική παραγωγή, όχι η λίγη: η ίδια η δύναμη του συστήματος στρέφεται εναντίον του."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The worker sells himself",
+        "el": "Ο εργάτης πουλά τον εαυτό του"
+      },
+      "explain": {
+        "en": "The proletariat is the class of people who own nothing that produces income, so they live only by selling their labour, day by day. That makes the worker a commodity like any other, exposed to every swing of the market. With machines and the division of labour the work loses its skill and charm; the worker becomes an appendage of the machine. His wage, the authors claim, tends to cover only what he needs to survive and raise children.",
+        "el": "Προλεταριάτο είναι η τάξη όσων δεν έχουν τίποτα που να βγάζει εισόδημα, άρα ζουν μόνο πουλώντας την εργασία τους, μέρα με τη μέρα. Έτσι ο εργάτης γίνεται εμπόρευμα σαν όλα τα άλλα, εκτεθειμένος σε κάθε διακύμανση της αγοράς. Με τις μηχανές και τον καταμερισμό η δουλειά χάνει τη μαστοριά και τη χάρη της· ο εργάτης γίνεται εξάρτημα της μηχανής. Ο μισθός του, υποστηρίζουν οι συγγραφείς, τείνει να καλύπτει μόνο όσα χρειάζεται για να επιβιώσει και να μεγαλώσει παιδιά."
+      },
+      "example": {
+        "en": "Conditions in the authors' time were harsh. Britain's Factory Act of 1833 had to forbid textile mills from employing children under nine and limit children aged nine to thirteen to nine hours a day. Engels described the Manchester slums he saw himself in a book in 1845.",
+        "el": "Οι συνθήκες στην εποχή των συγγραφέων ήταν σκληρές. Ο βρετανικός νόμος για τα εργοστάσια του 1833 χρειάστηκε να απαγορεύσει στα κλωστήρια να απασχολούν παιδιά κάτω των εννέα και να περιορίσει τα παιδιά εννέα έως δεκατριών ετών στις εννέα ώρες τη μέρα. Ο Ένγκελς περιέγραψε τις φτωχογειτονιές του Μάντσεστερ, που είδε με τα μάτια του, σε βιβλίο του 1845."
+      },
+      "apply": {
+        "en": "Do not turn the people who work with you into appendages of a process. Give each one a whole piece of work with a visible result and a name on it, teach them a skill that raises their value, and pay for results, not only for hours. People who can only sell hours leave.",
+        "el": "Μην κάνεις τους ανθρώπους που δουλεύουν μαζί σου εξαρτήματα μιας διαδικασίας. Δώσε στον καθένα ένα ολόκληρο κομμάτι δουλειάς με ορατό αποτέλεσμα και το όνομά του πάνω, μάθε του μια δεξιότητα που ανεβάζει την αξία του και πλήρωνε για αποτέλεσμα, όχι μόνο για ώρες. Όποιος μπορεί να πουλά μόνο ώρες φεύγει."
+      },
+      "check": {
+        "q": {
+          "en": "What defines a proletarian in the Manifesto?",
+          "el": "Τι ορίζει τον προλετάριο στο Μανιφέστο;"
+        },
+        "options": [
+          {
+            "en": "He owns no means of production and must sell his labour to live",
+            "el": "Δεν έχει μέσα παραγωγής και πρέπει να πουλά την εργασία του για να ζήσει"
+          },
+          {
+            "en": "He works with his hands and not with his mind",
+            "el": "Δουλεύει με τα χέρια και όχι με το μυαλό"
+          },
+          {
+            "en": "He earns less than the average salary",
+            "el": "Βγάζει λιγότερα από τον μέσο μισθό"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Class here is about ownership: whoever lives only from a wage, because he owns nothing productive, is a proletarian.",
+          "el": "Η τάξη εδώ ορίζεται από την ιδιοκτησία: όποιος ζει μόνο από μισθό, επειδή δεν κατέχει τίποτα παραγωγικό, είναι προλετάριος."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Capitalism digs its own grave",
+        "el": "Ο καπιταλισμός σκάβει τον λάκκο του"
+      },
+      "explain": {
+        "en": "Here is the book's prediction. Industry gathers workers in huge factories and cities, makes their lives alike and lets them communicate. They form unions, then a party. Meanwhile small shopkeepers, craftsmen and farmers lose to big capital and sink into the working class. So the bourgeoisie produces, above all, «its own grave-diggers». Its fall and the workers' victory are, the authors say, equally inevitable.",
+        "el": "Εδώ βρίσκεται η πρόβλεψη του βιβλίου. Η βιομηχανία μαζεύει τους εργάτες σε τεράστια εργοστάσια και πόλεις, κάνει τη ζωή τους ίδια και τους επιτρέπει να επικοινωνούν. Φτιάχνουν σωματεία, μετά κόμμα. Στο μεταξύ οι μικροί έμποροι, οι τεχνίτες και οι αγρότες χάνουν από το μεγάλο κεφάλαιο και πέφτουν στην εργατική τάξη. Έτσι η αστική τάξη παράγει πάνω απ' όλα «τους νεκροθάφτες της». Η πτώση της και η νίκη των εργατών είναι, λένε οι συγγραφείς, εξίσου αναπόφευκτες."
+      },
+      "example": {
+        "en": "In August 1980 some 17,000 workers of the Lenin Shipyard in Gdańsk, Poland, went on strike together. Their union, Solidarity, grew to about ten million members within a year. Workers gathered in one place did become a force, here, ironically, against a communist government.",
+        "el": "Τον Αύγουστο του 1980 περίπου 17.000 εργάτες του ναυπηγείου «Λένιν» στο Γκντανσκ της Πολωνίας απέργησαν όλοι μαζί. Το σωματείο τους, η Αλληλεγγύη, έφτασε τα δέκα εκατομμύρια μέλη μέσα σε έναν χρόνο. Οι εργάτες που μαζεύονται σε έναν τόπο έγιναν πράγματι δύναμη, εδώ, κατά ειρωνεία, απέναντι σε κομμουνιστική κυβέρνηση."
+      },
+      "apply": {
+        "en": "Ask what your own success is creating that could turn against you. If you teach 200 clients and a team exactly how you work and then treat them badly, you have trained your competitors. Treat fairly the people your growth depends on, while they still need you.",
+        "el": "Ρώτα τι δημιουργεί η ίδια σου η επιτυχία που μπορεί να στραφεί εναντίον σου. Αν μάθεις σε 200 πελάτες και σε μια ομάδα ακριβώς πώς δουλεύεις και μετά τους φερθείς άσχημα, έχεις εκπαιδεύσει τους ανταγωνιστές σου. Φέρσου δίκαια σε όσους στηρίζουν την ανάπτυξή σου, όσο ακόμη σε χρειάζονται."
+      },
+      "check": {
+        "q": {
+          "en": "Why are the workers called capitalism's «grave-diggers»?",
+          "el": "Γιατί οι εργάτες λέγονται «νεκροθάφτες» του καπιταλισμού;"
+        },
+        "options": [
+          {
+            "en": "Because factory work was dangerous and many died",
+            "el": "Γιατί η δουλειά στο εργοστάσιο ήταν επικίνδυνη και πολλοί πέθαιναν"
+          },
+          {
+            "en": "Because workers refuse to use new machines",
+            "el": "Γιατί οι εργάτες αρνούνται να χρησιμοποιήσουν νέες μηχανές"
+          },
+          {
+            "en": "Because capitalism itself gathers and organises the class that will end it",
+            "el": "Γιατί ο ίδιος ο καπιταλισμός συγκεντρώνει και οργανώνει την τάξη που θα τον τελειώσει"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "The argument is that the system's growth creates, trains and unites its own opponent.",
+          "el": "Το επιχείρημα είναι ότι η ανάπτυξη του συστήματος δημιουργεί, εκπαιδεύει και ενώνει τον ίδιο του τον αντίπαλο."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Abolish bourgeois property",
+        "el": "Κατάργηση της αστικής ιδιοκτησίας"
+      },
+      "explain": {
+        "en": "The communists sum up their theory in one phrase: abolition of private property. They mean something specific: private ownership of the means of production, such as factories, land and capital, which lets one class live from the work of another. They do not mean your clothes, home or the fruit of your own labour. To the shocked reader they reply that for nine tenths of the people this property is already abolished: they own nothing.",
+        "el": "Οι κομμουνιστές συνοψίζουν τη θεωρία τους σε μία φράση: κατάργηση της ατομικής ιδιοκτησίας. Εννοούν κάτι συγκεκριμένο: την ιδιωτική κυριότητα στα μέσα παραγωγής, όπως εργοστάσια, γη και κεφάλαιο, που επιτρέπει σε μια τάξη να ζει από τη δουλειά μιας άλλης. Δεν εννοούν τα ρούχα σου, το σπίτι σου ή τον καρπό της δικής σου εργασίας. Στον σοκαρισμένο αναγνώστη απαντούν ότι για τα εννέα δέκατα του κόσμου αυτή η ιδιοκτησία έχει ήδη καταργηθεί: δεν έχουν τίποτα."
+      },
+      "example": {
+        "en": "The Soviet constitution of 1936 wrote this distinction into law. Factories, land, banks and transport were state or collective property. Article 10 separately protected citizens' «personal property»: their income from work, their savings, their house and household goods, and the right to inherit them.",
+        "el": "Το σοβιετικό Σύνταγμα του 1936 έκανε αυτή τη διάκριση νόμο. Εργοστάσια, γη, τράπεζες και μεταφορές ήταν κρατική ή συλλογική ιδιοκτησία. Το άρθρο 10 προστάτευε χωριστά την «προσωπική ιδιοκτησία» των πολιτών: το εισόδημα από τη δουλειά τους, τις αποταμιεύσεις, το σπίτι και τα οικιακά τους είδη, καθώς και το δικαίωμα να τα κληρονομούν."
+      },
+      "apply": {
+        "en": "Use the distinction to read your own position: ask which things you own that earn while you sleep (the client base, the brand, the systems) and which income stops the day you stop working. Understand that people who own nothing of the first kind see the world differently from owners.",
+        "el": "Χρησιμοποίησε τη διάκριση για να διαβάσεις τη δική σου θέση: ρώτα ποια πράγματα κατέχεις που βγάζουν χρήματα όσο κοιμάσαι (το πελατολόγιο, το brand, τα συστήματα) και ποιο εισόδημα σταματά τη μέρα που σταματάς να δουλεύεις. Κατάλαβε ότι όσοι δεν έχουν τίποτα από τα πρώτα βλέπουν τον κόσμο αλλιώς από τους ιδιοκτήτες."
+      },
+      "check": {
+        "q": {
+          "en": "Which property does the Manifesto want to abolish?",
+          "el": "Ποια ιδιοκτησία θέλει να καταργήσει το Μανιφέστο;"
+        },
+        "options": [
+          {
+            "en": "Every personal belonging, including clothes and homes",
+            "el": "Κάθε προσωπικό αντικείμενο, μαζί με ρούχα και σπίτια"
+          },
+          {
+            "en": "Private ownership of the means of production",
+            "el": "Την ιδιωτική κυριότητα στα μέσα παραγωγής"
+          },
+          {
+            "en": "Only the land that belongs to the church",
+            "el": "Μόνο τη γη που ανήκει στην Εκκλησία"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "The target is property that gives power over other people's labour, not personal things.",
+          "el": "Στόχος είναι η ιδιοκτησία που δίνει εξουσία πάνω στη δουλειά των άλλων, όχι τα προσωπικά πράγματα."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Capital is a social power",
+        "el": "Το κεφάλαιο είναι κοινωνική δύναμη"
+      },
+      "explain": {
+        "en": "Capital, the authors argue, is not a personal thing. It can only be created and set in motion by the united work of many people, in the end of the whole society. So it is a social power, even if it sits in private hands. Making it common property would not take something personal from anyone; it would only change who controls it. In their view wage labour creates capital for the owner, not property for the worker.",
+        "el": "Το κεφάλαιο, υποστηρίζουν οι συγγραφείς, δεν είναι κάτι προσωπικό. Δημιουργείται και κινείται μόνο με την ενωμένη δουλειά πολλών ανθρώπων, τελικά ολόκληρης της κοινωνίας. Είναι λοιπόν κοινωνική δύναμη, ακόμη κι αν βρίσκεται σε ιδιωτικά χέρια. Αν γίνει κοινή ιδιοκτησία, δεν παίρνεις κάτι προσωπικό από κανέναν· αλλάζει μόνο ποιος το ελέγχει. Κατά τη γνώμη τους, η μισθωτή εργασία δημιουργεί κεφάλαιο για τον ιδιοκτήτη, όχι περιουσία για τον εργάτη."
+      },
+      "example": {
+        "en": "An iPhone carries one company's logo, but no single person could make it. It is designed in California, assembled mainly in China and India, and Apple's own published list names about 200 supplier companies in dozens of countries, with hundreds of thousands of workers behind them.",
+        "el": "Ένα iPhone έχει πάνω του το λογότυπο μίας εταιρείας, αλλά κανένας άνθρωπος μόνος του δεν θα μπορούσε να το φτιάξει. Σχεδιάζεται στην Καλιφόρνια, συναρμολογείται κυρίως στην Κίνα και στην Ινδία, και η λίστα που δημοσιεύει η ίδια η Apple έχει περίπου 200 προμηθευτές σε δεκάδες χώρες, με εκατοντάδες χιλιάδες εργαζόμενους πίσω τους."
+      },
+      "apply": {
+        "en": "Count honestly how many people stand behind «your» result: the team, the clients who wrote reviews, the tools others built, the colleague who referred you. Thank them by name and share the gain where it is fair. Leaders who say «I built this alone» lose the people who built it with them.",
+        "el": "Μέτρησε ειλικρινά πόσοι άνθρωποι βρίσκονται πίσω από το «δικό σου» αποτέλεσμα: η ομάδα, οι πελάτες που έγραψαν κριτικές, τα εργαλεία που έφτιαξαν άλλοι, ο συνάδελφος που σε σύστησε. Ευχαρίστησέ τους ονομαστικά και μοίρασε το κέρδος όπου είναι δίκαιο. Ο ηγέτης που λέει «το έχτισα μόνος» χάνει όσους το έχτισαν μαζί του."
+      },
+      "check": {
+        "q": {
+          "en": "Why do the authors call capital «social»?",
+          "el": "Γιατί οι συγγραφείς λένε το κεφάλαιο «κοινωνικό»;"
+        },
+        "options": [
+          {
+            "en": "Because rich people enjoy spending it in society",
+            "el": "Γιατί οι πλούσιοι χαίρονται να το ξοδεύουν στον κόσμο"
+          },
+          {
+            "en": "Because the state prints all the money",
+            "el": "Γιατί το κράτος τυπώνει όλο το χρήμα"
+          },
+          {
+            "en": "Because only the combined work of many people creates and moves it",
+            "el": "Γιατί το δημιουργεί και το κινεί μόνο η κοινή δουλειά πολλών ανθρώπων"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "No owner produces capital alone; it comes from cooperation, so they see it as a collective product.",
+          "el": "Κανένας ιδιοκτήτης δεν παράγει κεφάλαιο μόνος του· βγαίνει από τη συνεργασία, άρα το βλέπουν ως συλλογικό προϊόν."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Ideas follow interests",
+        "el": "Οι ιδέες ακολουθούν τα συμφέροντα"
+      },
+      "explain": {
+        "en": "People's ideas change when their living conditions change. «The ruling ideas of each age have ever been the ideas of its ruling class.» So the authors treat law, morality, religion, the family and the nation as forms of bourgeois interest, not eternal truths. They say the bourgeois family rests on money, while factory work tears workers' families apart, and that «the working men have no country». Critics see this as their most one-sided claim.",
+        "el": "Οι ιδέες των ανθρώπων αλλάζουν όταν αλλάζουν οι συνθήκες της ζωής τους. «Οι κυρίαρχες ιδέες κάθε εποχής ήταν πάντα οι ιδέες της κυρίαρχης τάξης». Γι' αυτό οι συγγραφείς βλέπουν το δίκαιο, την ηθική, τη θρησκεία, την οικογένεια και το έθνος ως μορφές του αστικού συμφέροντος, όχι ως αιώνιες αλήθειες. Λένε ότι η αστική οικογένεια στηρίζεται στο χρήμα, ενώ το εργοστάσιο διαλύει τις οικογένειες των εργατών, και ότι «οι εργάτες δεν έχουν πατρίδα». Οι επικριτές το θεωρούν την πιο μονόπλευρη θέση τους."
+      },
+      "example": {
+        "en": "In 1926 Henry Ford gave his factory workers a five-day, forty-hour week. He said openly that it was good business: people with free time and money buy more cars. Soon the weekend seemed a natural right. A new idea about rest followed a change in how industry earned.",
+        "el": "Το 1926 ο Henry Ford έδωσε στους εργάτες των εργοστασίων του πενθήμερο και σαράντα ώρες την εβδομάδα. Είπε ανοιχτά ότι ήταν καλή επιχειρηματική κίνηση: όποιος έχει ελεύθερο χρόνο και χρήματα αγοράζει περισσότερα αυτοκίνητα. Σύντομα το Σαββατοκύριακο έμοιαζε φυσικό δικαίωμα. Μια νέα ιδέα για την ξεκούραση ακολούθησε μια αλλαγή στον τρόπο που κέρδιζε η βιομηχανία."
+      },
+      "apply": {
+        "en": "Ask «whose interest does this belief serve?» when a prospect tells you «serious doctors do not need a website». Then ask it about yourself: you sell websites, so of course you believe everyone needs one. Check your pitch against facts, not against what suits you.",
+        "el": "Ρώτα «ποιανού το συμφέρον υπηρετεί αυτή η πεποίθηση;» όταν ένας υποψήφιος πελάτης σού λέει «ο σοβαρός γιατρός δεν χρειάζεται ιστοσελίδα». Μετά ρώτα το ίδιο για σένα: πουλάς ιστοσελίδες, άρα φυσικά πιστεύεις ότι όλοι χρειάζονται μία. Έλεγξε το pitch σου με στοιχεία, όχι με ό,τι σε βολεύει."
+      },
+      "check": {
+        "q": {
+          "en": "What do the authors claim about the ruling ideas of an age?",
+          "el": "Τι υποστηρίζουν οι συγγραφείς για τις κυρίαρχες ιδέες μιας εποχής;"
+        },
+        "options": [
+          {
+            "en": "They always come from the poorest people",
+            "el": "Προέρχονται πάντα από τους φτωχότερους ανθρώπους"
+          },
+          {
+            "en": "They are discovered by pure reason and never change",
+            "el": "Ανακαλύπτονται με καθαρή λογική και δεν αλλάζουν ποτέ"
+          },
+          {
+            "en": "They are the ideas that suit the class in power",
+            "el": "Είναι οι ιδέες που βολεύουν την τάξη που έχει την εξουσία"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "For them, thinking follows material life: when production and ownership change, beliefs change with them.",
+          "el": "Γι' αυτούς η σκέψη ακολουθεί την υλική ζωή: όταν αλλάζουν η παραγωγή και η ιδιοκτησία, αλλάζουν μαζί και οι πεποιθήσεις."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The workers take the state",
+        "el": "Οι εργάτες παίρνουν το κράτος"
+      },
+      "explain": {
+        "en": "The first step of the revolution is to make the proletariat the ruling class, to «win the battle of democracy». It then uses state power to take capital from the bourgeoisie step by step and put production in the hands of the state. The authors list ten measures, such as a heavy progressive income tax, no inheritance, a national bank and free education. Marx later called this transitional stage the «dictatorship of the proletariat»; the phrase itself is not in the Manifesto.",
+        "el": "Το πρώτο βήμα της επανάστασης είναι να γίνει το προλεταριάτο κυρίαρχη τάξη, να «κερδίσει τη μάχη της δημοκρατίας». Μετά χρησιμοποιεί την κρατική εξουσία για να πάρει βήμα βήμα το κεφάλαιο από την αστική τάξη και να συγκεντρώσει την παραγωγή στα χέρια του κράτους. Οι συγγραφείς απαριθμούν δέκα μέτρα, όπως βαριά προοδευτική φορολογία, κατάργηση της κληρονομιάς, εθνική τράπεζα και δωρεάν παιδεία. Αυτό το μεταβατικό στάδιο ο Μαρξ το ονόμασε αργότερα «δικτατορία του προλεταριάτου»· η ίδια η φράση δεν υπάρχει στο Μανιφέστο."
+      },
+      "example": {
+        "en": "Some of the ten measures sounded extreme in 1848 and are ordinary today in countries that never became communist: a progressive income tax, free public schools, a central bank, a ban on children's factory labour. Others, such as abolishing inheritance and all private land, were tried only under communist governments.",
+        "el": "Κάποια από τα δέκα μέτρα ακούγονταν ακραία το 1848 και σήμερα είναι συνηθισμένα σε χώρες που δεν έγιναν ποτέ κομμουνιστικές: προοδευτικός φόρος εισοδήματος, δωρεάν δημόσια σχολεία, κεντρική τράπεζα, απαγόρευση της παιδικής εργασίας στα εργοστάσια. Άλλα, όπως η κατάργηση της κληρονομιάς και κάθε ιδιωτικής γης, δοκιμάστηκαν μόνο σε κομμουνιστικά καθεστώτα."
+      },
+      "apply": {
+        "en": "Be careful with every «temporary» concentration of power, in a state or in your own business. When you take full control «just until things settle», write down the date and the condition on which you will hand it back. Temporary powers with no end date tend to stay.",
+        "el": "Πρόσεχε κάθε «προσωρινή» συγκέντρωση εξουσίας, σε ένα κράτος ή στη δική σου επιχείρηση. Όταν παίρνεις πλήρη έλεγχο «μέχρι να στρώσουν τα πράγματα», γράψε την ημερομηνία και τον όρο με τον οποίο θα τον παραδώσεις πίσω. Οι προσωρινές εξουσίες χωρίς ημερομηνία λήξης συνήθως μένουν."
+      },
+      "check": {
+        "q": {
+          "en": "What is the role of the workers' state in the Manifesto?",
+          "el": "Ποιος είναι ο ρόλος του εργατικού κράτους στο Μανιφέστο;"
+        },
+        "options": [
+          {
+            "en": "A permanent government of the best educated",
+            "el": "Μια μόνιμη κυβέρνηση των πιο μορφωμένων"
+          },
+          {
+            "en": "A transitional tool to move production into common hands",
+            "el": "Ένα μεταβατικό εργαλείο για να περάσει η παραγωγή σε κοινά χέρια"
+          },
+          {
+            "en": "A way to return to small craft workshops",
+            "el": "Ένας τρόπος να γυρίσουμε στα μικρά εργαστήρια των τεχνιτών"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "The state power of the workers is meant as a passage, not the goal; in the end political power is supposed to disappear.",
+          "el": "Η κρατική εξουσία των εργατών προορίζεται για πέρασμα, όχι για σκοπό· στο τέλος η πολιτική εξουσία υποτίθεται ότι σβήνει."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The final vision",
+        "el": "Το τελικό όραμα"
+      },
+      "explain": {
+        "en": "When class differences have disappeared and production is in the hands of the whole society, public power loses its political character. Political power, for the authors, is only the organised power of one class to oppress another; with no classes, there is nothing to oppress. In place of the old society comes «an association in which the free development of each is the condition for the free development of all». The Manifesto gives almost no details of how this would work.",
+        "el": "Όταν οι ταξικές διαφορές εξαφανιστούν και η παραγωγή περάσει στα χέρια όλης της κοινωνίας, η δημόσια εξουσία χάνει τον πολιτικό της χαρακτήρα. Πολιτική εξουσία, για τους συγγραφείς, είναι μόνο η οργανωμένη βία μιας τάξης για να καταπιέζει μια άλλη· χωρίς τάξεις, δεν υπάρχει ποιον να καταπιέσει. Στη θέση της παλιάς κοινωνίας έρχεται «μια ένωση όπου η ελεύθερη ανάπτυξη του καθενός είναι προϋπόθεση για την ελεύθερη ανάπτυξη όλων». Το Μανιφέστο δεν δίνει σχεδόν καμία λεπτομέρεια για το πώς θα λειτουργούσε αυτό."
+      },
+      "example": {
+        "en": "The Israeli kibbutz tried a version of this voluntarily: the first, Degania, was founded in 1910, with shared property, shared work and equal pay. It worked in small communities for decades. After a debt crisis in the 1980s, most kibbutzim introduced different salaries and private property.",
+        "el": "Τα κιμπούτς στο Ισραήλ δοκίμασαν εθελοντικά μια εκδοχή του: το πρώτο, η Ντεγκάνια, ιδρύθηκε το 1910, με κοινή περιουσία, κοινή δουλειά και ίση αμοιβή. Λειτούργησε σε μικρές κοινότητες επί δεκαετίες. Μετά από μια κρίση χρέους τη δεκαετία του 1980, τα περισσότερα κιμπούτς έφεραν διαφορετικούς μισθούς και ατομική ιδιοκτησία."
+      },
+      "apply": {
+        "en": "Take the one line that works at any scale: build a team where each person growing makes the others stronger. Teach what you learn, let people outgrow their role, celebrate a colleague's win. And notice when a big vision comes with no plan: ask «how exactly?».",
+        "el": "Κράτα τη μία φράση που δουλεύει σε κάθε κλίμακα: χτίσε μια ομάδα όπου η εξέλιξη του καθενός δυναμώνει τους υπόλοιπους. Δίδαξε ό,τι μαθαίνεις, άφησε τους ανθρώπους να ξεπερνούν τον ρόλο τους, χαρείτε την επιτυχία ενός συναδέλφου. Και πρόσεχε όταν ένα μεγάλο όραμα έρχεται χωρίς σχέδιο: ρώτα «πώς ακριβώς;»."
+      },
+      "check": {
+        "q": {
+          "en": "What happens to political power in the final vision?",
+          "el": "Τι γίνεται η πολιτική εξουσία στο τελικό όραμα;"
+        },
+        "options": [
+          {
+            "en": "It disappears, because there are no classes left to rule over",
+            "el": "Εξαφανίζεται, γιατί δεν μένουν τάξεις για να εξουσιάζονται"
+          },
+          {
+            "en": "It passes for ever to the Communist Party",
+            "el": "Περνά για πάντα στο Κομμουνιστικό Κόμμα"
+          },
+          {
+            "en": "It returns to the old kings and nobles",
+            "el": "Επιστρέφει στους παλιούς βασιλιάδες και ευγενείς"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "They define political power as class oppression; a classless society would, in theory, need none.",
+          "el": "Ορίζουν την πολιτική εξουσία ως ταξική καταπίεση· μια αταξική κοινωνία, θεωρητικά, δεν θα τη χρειαζόταν."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "The rival socialisms",
+        "el": "Οι αντίπαλοι σοσιαλισμοί"
+      },
+      "explain": {
+        "en": "The third chapter attacks other socialists of the time. «Reactionary» socialism, of nobles or small craftsmen, wants to turn the clock back to the world before industry. «Conservative» or bourgeois socialism wants to fix a few evils so the present order survives. «Utopian» socialists such as Saint-Simon, Fourier and Owen saw the problems well, but hoped to change society through model communities and appeals to the rich, without class struggle.",
+        "el": "Το τρίτο κεφάλαιο επιτίθεται στους άλλους σοσιαλιστές της εποχής. Ο «αντιδραστικός» σοσιαλισμός, των ευγενών ή των μικρών τεχνιτών, θέλει να γυρίσει το ρολόι πίσω, στον κόσμο πριν από τη βιομηχανία. Ο «συντηρητικός» ή αστικός σοσιαλισμός θέλει να διορθώσει λίγα κακά για να επιβιώσει η σημερινή τάξη πραγμάτων. Οι «ουτοπικοί» σοσιαλιστές, όπως ο Σεν-Σιμόν, ο Φουριέ και ο Όουεν, είδαν καλά τα προβλήματα, αλλά ήλπιζαν να αλλάξουν την κοινωνία με πρότυπες κοινότητες και εκκλήσεις στους πλούσιους, χωρίς ταξική πάλη."
+      },
+      "example": {
+        "en": "Robert Owen, a rich Welsh factory owner, bought the town of New Harmony in Indiana in 1825 to build a model community with shared property. About 800 people came. Within two years it fell apart in quarrels over work and rules, and Owen lost most of his fortune.",
+        "el": "Ο Robert Owen, ένας πλούσιος Ουαλός εργοστασιάρχης, αγόρασε το 1825 την πόλη New Harmony στην Ιντιάνα για να στήσει μια πρότυπη κοινότητα με κοινή περιουσία. Ήρθαν περίπου 800 άνθρωποι. Μέσα σε δύο χρόνια διαλύθηκε μέσα σε καβγάδες για τη δουλειά και τους κανόνες, και ο Owen έχασε το μεγαλύτερο μέρος της περιουσίας του."
+      },
+      "apply": {
+        "en": "Learn from the method, whatever you think of the content: name clearly how you differ from each alternative the client is considering. «A cousin who builds sites», «a cheap template», «only a directory profile»: say in one fair sentence what each does well and what it cannot do.",
+        "el": "Μάθε από τη μέθοδο, ό,τι κι αν πιστεύεις για το περιεχόμενο: πες καθαρά σε τι διαφέρεις από κάθε εναλλακτική που σκέφτεται ο πελάτης. «Ένας ξάδερφος που φτιάχνει sites», «ένα φτηνό template», «μόνο ένα προφίλ σε κατάλογο»: πες με μία δίκαιη πρόταση τι κάνει καλά το καθένα και τι δεν μπορεί να κάνει."
+      },
+      "check": {
+        "q": {
+          "en": "What is the Manifesto's complaint about the utopian socialists?",
+          "el": "Τι προσάπτει το Μανιφέστο στους ουτοπικούς σοσιαλιστές;"
+        },
+        "options": [
+          {
+            "en": "They hoped for change through model communities, without class struggle",
+            "el": "Ότι ήλπιζαν σε αλλαγή με πρότυπες κοινότητες, χωρίς ταξική πάλη"
+          },
+          {
+            "en": "They wanted to bring back the kings",
+            "el": "Ότι ήθελαν να φέρουν πίσω τους βασιλιάδες"
+          },
+          {
+            "en": "They did not notice the suffering of the workers",
+            "el": "Ότι δεν πρόσεξαν τα βάσανα των εργατών"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Marx and Engels respect their criticism of society but think small experiments and goodwill cannot change who holds power.",
+          "el": "Ο Μαρξ και ο Ένγκελς σέβονται την κριτική τους στην κοινωνία, αλλά θεωρούν ότι μικρά πειράματα και καλή θέληση δεν αλλάζουν το ποιος έχει την εξουσία."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Reform is not enough",
+        "el": "Οι μεταρρυθμίσεις δεν αρκούν"
+      },
+      "explain": {
+        "en": "Can capitalism be repaired? The Manifesto says no. Reformers want the advantages of modern society without the struggles that come with it, «a bourgeoisie without a proletariat». Better wages or kinder laws leave the basic relation untouched: one class owns and the other must sell its labour. So the authors declare that their aims can be reached only by the forcible overthrow of all existing social conditions. This is the point where later socialists split most deeply.",
+        "el": "Μπορεί ο καπιταλισμός να επισκευαστεί; Το Μανιφέστο λέει όχι. Οι μεταρρυθμιστές θέλουν τα πλεονεκτήματα της σύγχρονης κοινωνίας χωρίς τις συγκρούσεις που τα συνοδεύουν, «αστική τάξη χωρίς προλεταριάτο». Καλύτεροι μισθοί ή πιο ήπιοι νόμοι αφήνουν ανέγγιχτη τη βασική σχέση: η μία τάξη κατέχει και η άλλη πρέπει να πουλά την εργασία της. Γι' αυτό οι συγγραφείς δηλώνουν ότι οι σκοποί τους πετυχαίνονται μόνο με τη βίαιη ανατροπή όλου του κοινωνικού καθεστώτος. Σε αυτό το σημείο διχάστηκαν πιο βαθιά οι μετέπειτα σοσιαλιστές."
+      },
+      "example": {
+        "en": "In the 1880s the German chancellor Bismarck, a conservative, created the first state health insurance (1883), accident insurance (1884) and old-age pensions (1889). He said plainly that he wanted to draw workers away from the socialists. History largely took this road of reform that the Manifesto had dismissed.",
+        "el": "Τη δεκαετία του 1880 ο Γερμανός καγκελάριος Μπίσμαρκ, ένας συντηρητικός, δημιούργησε την πρώτη κρατική ασφάλιση υγείας (1883), την ασφάλιση ατυχημάτων (1884) και τις συντάξεις γήρατος (1889). Έλεγε καθαρά ότι ήθελε να απομακρύνει τους εργάτες από τους σοσιαλιστές. Η ιστορία ακολούθησε σε μεγάλο βαθμό αυτόν τον δρόμο της μεταρρύθμισης, που το Μανιφέστο είχε απορρίψει."
+      },
+      "apply": {
+        "en": "Ask of any problem in your business whether it needs a patch or a new structure. If the same complaint returns after three fixes, the cause is in the design. But remember Bismarck too: a real, timely improvement often removes the anger that would otherwise blow everything up.",
+        "el": "Ρώτα για κάθε πρόβλημα στη δουλειά σου αν θέλει μπάλωμα ή νέα δομή. Αν το ίδιο παράπονο γυρίζει μετά από τρεις διορθώσεις, η αιτία βρίσκεται στον σχεδιασμό. Θυμήσου όμως και τον Μπίσμαρκ: μια πραγματική βελτίωση που έρχεται έγκαιρα σβήνει συχνά τον θυμό που αλλιώς θα τα τίναζε όλα στον αέρα."
+      },
+      "check": {
+        "q": {
+          "en": "Why does the Manifesto reject reform?",
+          "el": "Γιατί το Μανιφέστο απορρίπτει τη μεταρρύθμιση;"
+        },
+        "options": [
+          {
+            "en": "Because reforms are too expensive for the state",
+            "el": "Γιατί οι μεταρρυθμίσεις κοστίζουν πολύ στο κράτος"
+          },
+          {
+            "en": "Because it leaves the ownership relation between the classes unchanged",
+            "el": "Γιατί αφήνει ίδια τη σχέση ιδιοκτησίας ανάμεσα στις τάξεις"
+          },
+          {
+            "en": "Because workers of the time did not want higher wages",
+            "el": "Γιατί οι εργάτες της εποχής δεν ήθελαν μεγαλύτερους μισθούς"
+          }
+        ],
+        "answer": 1,
+        "why": {
+          "en": "For the authors the problem is who owns the means of production; improvements inside that system do not touch it.",
+          "el": "Για τους συγγραφείς το πρόβλημα είναι ποιος κατέχει τα μέσα παραγωγής· οι βελτιώσεις μέσα στο ίδιο σύστημα δεν το αγγίζουν."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Workers have no country",
+        "el": "Οι εργάτες δεν έχουν πατρίδα"
+      },
+      "explain": {
+        "en": "Capital works across borders, so the authors believe the workers' cause must too. Trade and the world market are already wearing down national differences, they say, and a worker in England has more in common with a worker in France than with his own employer. Communists therefore put forward the common interests of the whole proletariat, whatever the nationality, and support every movement against the existing order in every country.",
+        "el": "Το κεφάλαιο δουλεύει πάνω από τα σύνορα, άρα οι συγγραφείς πιστεύουν ότι το ίδιο πρέπει να κάνει και η υπόθεση των εργατών. Το εμπόριο και η παγκόσμια αγορά σβήνουν ήδη τις εθνικές διαφορές, λένε, και ο εργάτης στην Αγγλία έχει περισσότερα κοινά με τον εργάτη στη Γαλλία παρά με τον εργοδότη του. Οι κομμουνιστές λοιπόν προβάλλουν τα κοινά συμφέροντα όλου του προλεταριάτου, ανεξάρτητα από εθνικότητα, και στηρίζουν κάθε κίνημα ενάντια στο υπάρχον καθεστώς σε κάθε χώρα."
+      },
+      "example": {
+        "en": "Marx helped found the International Working Men's Association in London in 1864 to unite workers across countries. But in August 1914 the German Social Democrats, the largest workers' party in the world, voted for war credits, and workers of different nations fought each other for four years.",
+        "el": "Ο Μαρξ βοήθησε να ιδρυθεί το 1864 στο Λονδίνο η Διεθνής Ένωση Εργατών, για να ενώσει τους εργάτες πάνω από τα σύνορα. Όμως τον Αύγουστο του 1914 οι Γερμανοί σοσιαλδημοκράτες, το μεγαλύτερο εργατικό κόμμα του κόσμου, ψήφισαν τις πολεμικές πιστώσεις, και εργάτες διαφορετικών εθνών πολέμησαν μεταξύ τους επί τέσσερα χρόνια."
+      },
+      "apply": {
+        "en": "Do not assume people will act on the interest you think they «should» have. Belonging to a nation, a town, a profession or a family often beats the wallet. When you sell to a doctor, speak to the group he feels part of: «colleagues of yours in your city already have this».",
+        "el": "Μη θεωρείς δεδομένο ότι οι άνθρωποι θα κινηθούν με το συμφέρον που εσύ νομίζεις ότι «πρέπει» να έχουν. Το ότι ανήκεις σε ένα έθνος, μια πόλη, ένα επάγγελμα ή μια οικογένεια νικά συχνά το πορτοφόλι. Όταν πουλάς σε έναν γιατρό, μίλα στην ομάδα όπου νιώθει ότι ανήκει: «συνάδελφοί σας στην πόλη σας το έχουν ήδη»."
+      },
+      "check": {
+        "q": {
+          "en": "What does the internationalism of the Manifesto claim?",
+          "el": "Τι υποστηρίζει ο διεθνισμός του Μανιφέστου;"
+        },
+        "options": [
+          {
+            "en": "Workers of all nations share one interest, above national borders",
+            "el": "Οι εργάτες όλων των εθνών έχουν ένα κοινό συμφέρον, πάνω από τα σύνορα"
+          },
+          {
+            "en": "Each nation's workers should compete with the others",
+            "el": "Οι εργάτες κάθε έθνους πρέπει να ανταγωνίζονται τους άλλους"
+          },
+          {
+            "en": "Only one country can ever become communist",
+            "el": "Μόνο μία χώρα μπορεί ποτέ να γίνει κομμουνιστική"
+          }
+        ],
+        "answer": 0,
+        "why": {
+          "en": "Class, not nation, is the line that matters for the authors. History showed that national feeling was stronger than they expected.",
+          "el": "Για τους συγγραφείς η γραμμή που μετρά είναι η τάξη, όχι το έθνος. Η ιστορία έδειξε ότι το εθνικό αίσθημα ήταν πιο δυνατό απ' όσο περίμεναν."
+        }
+      }
+    },
+    {
+      "title": {
+        "en": "Workers of the world, unite",
+        "el": "Προλετάριοι όλων των χωρών, ενωθείτε"
+      },
+      "explain": {
+        "en": "The last page is a call to action. Communists, it says, refuse to hide their views and aims. Let the ruling classes tremble at a communist revolution. The workers «have nothing to lose but their chains. They have a world to win.» Then the final line: «Workers of all countries, unite!» As writing it is a model: one enemy, one promise, short sentences, a closing line people can shout.",
+        "el": "Η τελευταία σελίδα είναι κάλεσμα σε δράση. Οι κομμουνιστές, λέει, αρνούνται να κρύψουν τις απόψεις και τους σκοπούς τους. Ας τρέμουν οι κυρίαρχες τάξεις μπροστά σε μια κομμουνιστική επανάσταση. Οι προλετάριοι «δεν έχουν να χάσουν τίποτα εκτός από τις αλυσίδες τους. Έχουν να κερδίσουν έναν κόσμο ολόκληρο». Και η τελική φράση: «Προλετάριοι όλων των χωρών, ενωθείτε!» Ως γραφή είναι υπόδειγμα: ένας αντίπαλος, μία υπόσχεση, κοφτές προτάσεις, ένα κλείσιμο που μπορεί να φωναχτεί."
+      },
+      "example": {
+        "en": "The closing sentence became one of the best-known slogans in history. It stood on the state emblem of the Soviet Union in the languages of its republics, and it is carved in English on Marx's tomb at Highgate Cemetery in London.",
+        "el": "Η τελευταία φράση έγινε ένα από τα πιο γνωστά συνθήματα της ιστορίας. Υπήρχε στο κρατικό έμβλημα της Σοβιετικής Ένωσης, στις γλώσσες των δημοκρατιών της, και είναι χαραγμένη στα αγγλικά στον τάφο του Μαρξ στο κοιμητήριο Highgate του Λονδίνου."
+      },
+      "apply": {
+        "en": "End every ad, e-mail and sales call with one clear action, not three. Before that, show what the person loses by staying as he is and what he can win. Test your closing line: if it cannot be said aloud in one breath, shorten it.",
+        "el": "Κλείσε κάθε διαφήμιση, e-mail και τηλεφώνημα πώλησης με μία καθαρή ενέργεια, όχι τρεις. Πριν από αυτό, δείξε τι χάνει ο άλλος αν μείνει όπως είναι και τι μπορεί να κερδίσει. Δοκίμασε το κλείσιμό σου: αν δεν λέγεται δυνατά με μία ανάσα, κόντυνέ το."
+      },
+      "check": {
+        "q": {
+          "en": "What makes the ending of the Manifesto so effective as writing?",
+          "el": "Τι κάνει το κλείσιμο του Μανιφέστου τόσο δυνατό ως κείμενο;"
+        },
+        "options": [
+          {
+            "en": "It apologises to the reader for its strong words",
+            "el": "Ζητά συγγνώμη από τον αναγνώστη για τα σκληρά του λόγια"
+          },
+          {
+            "en": "It lists every detail of the future society",
+            "el": "Απαριθμεί κάθε λεπτομέρεια της μελλοντικής κοινωνίας"
+          },
+          {
+            "en": "It gives one short, clear call that anyone can repeat",
+            "el": "Δίνει ένα σύντομο, καθαρό κάλεσμα που μπορεί να επαναλάβει ο καθένας"
+          }
+        ],
+        "answer": 2,
+        "why": {
+          "en": "Little to lose, a world to win, one action: unite. Simple stakes and a single call move people.",
+          "el": "Λίγα να χάσεις, έναν κόσμο να κερδίσεις, μία ενέργεια: ενωθείτε. Απλό διακύβευμα και ένα μόνο κάλεσμα κινητοποιούν."
+        }
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "A new AI tool can build in one minute a simple site like the ones you sell. What is the wisest reaction?",
+        "el": "Ένα νέο εργαλείο AI φτιάχνει σε ένα λεπτό μια απλή ιστοσελίδα σαν αυτές που πουλάς. Ποια είναι η πιο σοφή αντίδραση;"
+      },
+      "options": [
+        {
+          "en": "Ignore it; clients will always prefer the old way",
+          "el": "Το αγνοείς· οι πελάτες θα προτιμούν πάντα τον παλιό τρόπο"
+        },
+        {
+          "en": "Complain that the market has become unfair",
+          "el": "Παραπονιέσαι ότι η αγορά έγινε άδικη"
+        },
+        {
+          "en": "Use it yourself and move your value to what it cannot do",
+          "el": "Το χρησιμοποιείς ο ίδιος και μεταφέρεις την αξία σου σε ό,τι δεν μπορεί να κάνει"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "The market keeps overturning tools and methods. Whatever looks solid melts, so you move before it does.",
+        "el": "Η αγορά ανατρέπει συνεχώς εργαλεία και μεθόδους. Ό,τι μοιάζει στέρεο εξατμίζεται, άρα κινείσαι πριν γίνει."
+      },
+      "idea": 2
+    },
+    {
+      "q": {
+        "en": "All your new clients come from Meta ads. One morning the ad account is blocked without explanation. What should you have done earlier?",
+        "el": "Όλοι οι νέοι πελάτες σου έρχονται από διαφημίσεις στο Meta. Ένα πρωί ο διαφημιστικός λογαριασμός μπλοκάρεται χωρίς εξήγηση. Τι έπρεπε να είχες κάνει νωρίτερα;"
+      },
+      "options": [
+        {
+          "en": "Kept a second channel you control, such as cold calls and referrals",
+          "el": "Να κρατάς ένα δεύτερο κανάλι που ελέγχεις, όπως τα cold calls και οι συστάσεις"
+        },
+        {
+          "en": "Spent more on the same ads so the platform values you",
+          "el": "Να ξοδεύεις περισσότερα στις ίδιες διαφημίσεις για να σε υπολογίζει η πλατφόρμα"
+        },
+        {
+          "en": "Nothing; such things cannot be predicted",
+          "el": "Τίποτα· αυτά δεν προβλέπονται"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "This is the sorcerer's problem: a power you called up and do not control. You need a way to work without it.",
+        "el": "Είναι το πρόβλημα του μάγου: μια δύναμη που κάλεσες και δεν ελέγχεις. Χρειάζεσαι τρόπο να δουλεύεις και χωρίς αυτήν."
+      },
+      "idea": 4
+    },
+    {
+      "q": {
+        "en": "A lawyer tells you firmly: «In our profession, advertising is undignified.» How do you read this?",
+        "el": "Ένας δικηγόρος σού λέει κοφτά: «Στο επάγγελμά μας η διαφήμιση είναι αναξιοπρεπής». Πώς το διαβάζεις;"
+      },
+      "options": [
+        {
+          "en": "As an eternal truth about the legal profession",
+          "el": "Ως αιώνια αλήθεια για το δικηγορικό επάγγελμα"
+        },
+        {
+          "en": "As a belief shaped by his position; ask what he protects, and check your own bias too",
+          "el": "Ως πεποίθηση που βγαίνει από τη θέση του· ρώτα τι προστατεύει, κι έλεγξε και τη δική σου προκατάληψη"
+        },
+        {
+          "en": "As a personal insult that ends the conversation",
+          "el": "Ως προσωπική προσβολή που τελειώνει την κουβέντα"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "Ideas often follow interests and position. That applies to his view and to yours as a seller.",
+        "el": "Οι ιδέες συχνά ακολουθούν τα συμφέροντα και τη θέση. Αυτό ισχύει για τη δική του άποψη και για τη δική σου ως πωλητή."
+      },
+      "idea": 9
+    },
+    {
+      "q": {
+        "en": "A freelancer does the same small task for you every day and says he feels «like a machine». What do you change?",
+        "el": "Ένας freelancer κάνει κάθε μέρα την ίδια μικρή δουλειά για σένα και λέει ότι νιώθει «σαν μηχανή». Τι αλλάζεις;"
+      },
+      "options": [
+        {
+          "en": "Nothing; he is paid for his hours",
+          "el": "Τίποτα· πληρώνεται για τις ώρες του"
+        },
+        {
+          "en": "Replace him with someone who complains less",
+          "el": "Τον αντικαθιστάς με κάποιον που παραπονιέται λιγότερο"
+        },
+        {
+          "en": "Give him a whole project with a visible result and a new skill to learn",
+          "el": "Του δίνεις ένα ολόκληρο έργο με ορατό αποτέλεσμα και μια νέα δεξιότητα να μάθει"
+        }
+      ],
+      "answer": 2,
+      "why": {
+        "en": "Work cut into tiny repeated pieces makes a person an appendage of the process. Whole work with a result gives it meaning back.",
+        "el": "Η δουλειά που κόβεται σε μικρά επαναλαμβανόμενα κομμάτια κάνει τον άνθρωπο εξάρτημα της διαδικασίας. Ένα ολόκληρο έργο με αποτέλεσμα της ξαναδίνει νόημα."
+      },
+      "idea": 5
+    },
+    {
+      "q": {
+        "en": "A politician on the news promises that a «temporary» emergency power will be used only until the crisis ends. What do you check?",
+        "el": "Ένας πολιτικός στις ειδήσεις υπόσχεται ότι μια «προσωρινή» έκτακτη εξουσία θα ισχύσει μόνο μέχρι να περάσει η κρίση. Τι ελέγχεις;"
+      },
+      "options": [
+        {
+          "en": "Whether there is a fixed end date and someone able to take the power back",
+          "el": "Αν υπάρχει συγκεκριμένη ημερομηνία λήξης και κάποιος που μπορεί να πάρει πίσω την εξουσία"
+        },
+        {
+          "en": "Whether the politician sounds sincere when he speaks",
+          "el": "Αν ο πολιτικός ακούγεται ειλικρινής όταν μιλά"
+        },
+        {
+          "en": "Whether his party won the last election",
+          "el": "Αν το κόμμα του κέρδισε τις τελευταίες εκλογές"
+        }
+      ],
+      "answer": 0,
+      "why": {
+        "en": "The «transitional» state of the Manifesto never withered away in practice. Temporary power without a limit tends to become permanent.",
+        "el": "Το «μεταβατικό» κράτος του Μανιφέστου δεν έσβησε ποτέ στην πράξη. Η προσωρινή εξουσία χωρίς όριο τείνει να γίνεται μόνιμη."
+      },
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "Your Instagram ad ends with: «Call us, write to us, see our portfolio or book a meeting.» Results are weak. What do you do?",
+        "el": "Η διαφήμισή σου στο Instagram τελειώνει έτσι: «Καλέστε μας, γράψτε μας, δείτε τη δουλειά μας ή κλείστε ραντεβού». Τα αποτελέσματα είναι φτωχά. Τι κάνεις;"
+      },
+      "options": [
+        {
+          "en": "Add a fifth option so nobody is left out",
+          "el": "Προσθέτεις πέμπτη επιλογή για να μη μείνει κανείς απέξω"
+        },
+        {
+          "en": "Keep one clear action and say what they win",
+          "el": "Κρατάς μία καθαρή ενέργεια και λες τι κερδίζουν"
+        },
+        {
+          "en": "Make the text longer to explain everything",
+          "el": "Μεγαλώνεις το κείμενο για να τα εξηγήσεις όλα"
+        }
+      ],
+      "answer": 1,
+      "why": {
+        "en": "The Manifesto closes with a single call. One clear action moves people; a list of choices does not.",
+        "el": "Το Μανιφέστο κλείνει με ένα μόνο κάλεσμα. Μία καθαρή ενέργεια κινητοποιεί· μια λίστα επιλογών όχι."
+      },
+      "idea": 15
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {
+        "en": "The Manifesto praises the bourgeoisie for creating enormous productive forces.",
+        "el": "Το Μανιφέστο επαινεί την αστική τάξη επειδή δημιούργησε τεράστιες παραγωγικές δυνάμεις."
+      },
+      "answer": true,
+      "why": {
+        "en": "The authors say it achieved more in a century than all earlier generations together.",
+        "el": "Οι συγγραφείς λένε ότι πέτυχε σε έναν αιώνα περισσότερα από όλες τις προηγούμενες γενιές μαζί."
+      }
+    },
+    {
+      "s": {
+        "en": "The Manifesto wants to abolish all personal belongings, such as clothes and furniture.",
+        "el": "Το Μανιφέστο θέλει να καταργήσει όλα τα προσωπικά αντικείμενα, όπως ρούχα και έπιπλα."
+      },
+      "answer": false,
+      "why": {
+        "en": "Its target is private ownership of the means of production, not personal things.",
+        "el": "Στόχος του είναι η ιδιωτική κυριότητα στα μέσα παραγωγής, όχι τα προσωπικά πράγματα."
+      }
+    },
+    {
+      "s": {
+        "en": "According to the authors, capitalist crises come from producing too much, not too little.",
+        "el": "Κατά τους συγγραφείς, οι κρίσεις του καπιταλισμού προέρχονται από υπερβολική παραγωγή, όχι από λίγη."
+      },
+      "answer": true,
+      "why": {
+        "en": "They call them crises of overproduction: more goods than buyers who can pay.",
+        "el": "Τις λένε κρίσεις υπερπαραγωγής: περισσότερα προϊόντα από τους αγοραστές που μπορούν να πληρώσουν."
+      }
+    },
+    {
+      "s": {
+        "en": "The Manifesto believes capitalism can be fixed step by step with reforms.",
+        "el": "Το Μανιφέστο πιστεύει ότι ο καπιταλισμός διορθώνεται σιγά σιγά με μεταρρυθμίσεις."
+      },
+      "answer": false,
+      "why": {
+        "en": "It says its aims can be reached only by overthrowing the existing social order.",
+        "el": "Λέει ότι οι σκοποί του πετυχαίνονται μόνο με την ανατροπή του υπάρχοντος κοινωνικού καθεστώτος."
+      }
+    },
+    {
+      "s": {
+        "en": "The exact phrase «dictatorship of the proletariat» does not appear in the Manifesto.",
+        "el": "Η ακριβής φράση «δικτατορία του προλεταριάτου» δεν υπάρχει στο Μανιφέστο."
+      },
+      "answer": true,
+      "why": {
+        "en": "The text speaks of the proletariat as ruling class; Marx used the phrase in later writings.",
+        "el": "Το κείμενο μιλά για το προλεταριάτο ως κυρίαρχη τάξη· τη φράση ο Μαρξ τη χρησιμοποίησε σε μεταγενέστερα γραπτά."
+      }
+    },
+    {
+      "s": {
+        "en": "The prediction that the middle classes would disappear into the proletariat came true in the rich countries.",
+        "el": "Η πρόβλεψη ότι τα μεσαία στρώματα θα χάνονταν μέσα στο προλεταριάτο επαληθεύτηκε στις πλούσιες χώρες."
+      },
+      "answer": false,
+      "why": {
+        "en": "The opposite happened: wages rose and the middle class grew strongly in the twentieth century.",
+        "el": "Έγινε το αντίθετο: οι μισθοί ανέβηκαν και η μεσαία τάξη μεγάλωσε πολύ τον εικοστό αιώνα."
+      }
+    },
+    {
+      "s": {
+        "en": "The authors criticise the utopian socialists for expecting change without class struggle.",
+        "el": "Οι συγγραφείς κατακρίνουν τους ουτοπικούς σοσιαλιστές επειδή περίμεναν αλλαγή χωρίς ταξική πάλη."
+      },
+      "answer": true,
+      "why": {
+        "en": "They respected their criticism of society but not their hope in model communities and goodwill.",
+        "el": "Σέβονταν την κριτική τους στην κοινωνία, όχι όμως την ελπίδα τους στις πρότυπες κοινότητες και στην καλή θέληση."
+      }
+    },
+    {
+      "s": {
+        "en": "The Manifesto describes in detail how the future classless society will be organised.",
+        "el": "Το Μανιφέστο περιγράφει με λεπτομέρειες πώς θα οργανωθεί η μελλοντική αταξική κοινωνία."
+      },
+      "answer": false,
+      "why": {
+        "en": "It gives one sentence of vision and ten transitional measures, and almost nothing about how it would work.",
+        "el": "Δίνει μία φράση για το όραμα και δέκα μεταβατικά μέτρα, και σχεδόν τίποτα για το πώς θα λειτουργούσε."
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "a": {
+        "en": "Bourgeoisie",
+        "el": "Αστική τάξη"
+      },
+      "b": {
+        "en": "Owners of factories, capital and trade",
+        "el": "Οι ιδιοκτήτες εργοστασίων, κεφαλαίου και εμπορίου"
+      }
+    },
+    {
+      "a": {
+        "en": "Proletariat",
+        "el": "Προλεταριάτο"
+      },
+      "b": {
+        "en": "Those who live only by selling their labour",
+        "el": "Όσοι ζουν μόνο πουλώντας την εργασία τους"
+      }
+    },
+    {
+      "a": {
+        "en": "Means of production",
+        "el": "Μέσα παραγωγής"
+      },
+      "b": {
+        "en": "Factories, land, machines and capital",
+        "el": "Εργοστάσια, γη, μηχανές και κεφάλαιο"
+      }
+    },
+    {
+      "a": {
+        "en": "Crisis of overproduction",
+        "el": "Κρίση υπερπαραγωγής"
+      },
+      "b": {
+        "en": "More goods than people can buy",
+        "el": "Περισσότερα προϊόντα απ' όσα μπορεί να αγοράσει ο κόσμος"
+      }
+    },
+    {
+      "a": {
+        "en": "Utopian socialism",
+        "el": "Ουτοπικός σοσιαλισμός"
+      },
+      "b": {
+        "en": "Change through model communities, without class struggle",
+        "el": "Αλλαγή με πρότυπες κοινότητες, χωρίς ταξική πάλη"
+      }
+    },
+    {
+      "a": {
+        "en": "Class struggle",
+        "el": "Πάλη των τάξεων"
+      },
+      "b": {
+        "en": "The conflict the authors see driving history",
+        "el": "Η σύγκρουση που κατά τους συγγραφείς κινεί την ιστορία"
+      }
+    }
+  ],
+  "missions": [
+    {
+      "en": "Write a one-page manifesto for your agency: what you believe, what you refuse, what you promise.",
+      "el": "Γράψε ένα μανιφέστο μίας σελίδας για το agency σου: τι πιστεύεις, τι αρνείσαι, τι υπόσχεσαι."
+    },
+    {
+      "en": "List three tools or platforms your income depends on and write a backup plan for each.",
+      "el": "Γράψε τρία εργαλεία ή πλατφόρμες από τα οποία εξαρτάται το εισόδημά σου και ένα εναλλακτικό σχέδιο για το καθένα."
+    },
+    {
+      "en": "Take one news story and write who owns, who works and who gains in it.",
+      "el": "Πάρε μία είδηση και γράψε ποιος κατέχει, ποιος δουλεύει και ποιος κερδίζει σε αυτήν."
+    },
+    {
+      "en": "Rewrite the ending of one ad so that it has a single action and one clear gain.",
+      "el": "Ξαναγράψε το κλείσιμο μιας διαφήμισης ώστε να έχει μία μόνο ενέργεια και ένα καθαρό κέρδος."
+    },
+    {
+      "en": "Thank by name three people whose work stands behind a result you call your own.",
+      "el": "Ευχαρίστησε ονομαστικά τρεις ανθρώπους που η δουλειά τους βρίσκεται πίσω από ένα αποτέλεσμα που λες δικό σου."
+    }
+  ],
+  "mantra": {
+    "en": "Ask who owns, who works and who gains.",
+    "el": "Ρώτα ποιος κατέχει, ποιος δουλεύει και ποιος κερδίζει."
+  },
+  "careful": {
+    "en": "Its key predictions failed: in industrial countries wages rose, the middle class grew and reform, not revolution, changed workers' lives. Revolutions came instead in farming societies such as Russia and China, where the «transitional» state became permanent one-party rule, with famines, terror and many millions of deaths. Critics add that planning without prices and private property works badly. Defenders answer that those regimes betrayed the text and that its picture of crises, globalisation and inequality still explains a lot.",
+    "el": "Οι βασικές του προβλέψεις δεν επαληθεύτηκαν: στις βιομηχανικές χώρες οι μισθοί ανέβηκαν, η μεσαία τάξη μεγάλωσε και τη ζωή των εργατών την άλλαξε η μεταρρύθμιση, όχι η επανάσταση. Οι επαναστάσεις έγιναν σε αγροτικές κοινωνίες, όπως η Ρωσία και η Κίνα, όπου το «μεταβατικό» κράτος έγινε μόνιμη μονοκομματική εξουσία, με λιμούς, τρομοκρατία και πολλά εκατομμύρια νεκρούς. Οι επικριτές προσθέτουν ότι ο σχεδιασμός χωρίς τιμές και ατομική ιδιοκτησία λειτουργεί άσχημα. Οι υπερασπιστές απαντούν ότι εκείνα τα καθεστώτα πρόδωσαν το κείμενο και ότι η εικόνα του για τις κρίσεις, την παγκοσμιοποίηση και την ανισότητα εξηγεί ακόμη πολλά."
+  },
+  "connects": [
+    {
+      "book": "politics",
+      "note": {
+        "en": "Aristotle also puts the conflict of rich and poor at the centre of politics, but his cure is a mixed regime and a strong middle class, not the victory of one side.",
+        "el": "Και ο Αριστοτέλης βάζει τη σύγκρουση πλουσίων και φτωχών στο κέντρο της πολιτικής, αλλά η θεραπεία του είναι το μικτό πολίτευμα και η ισχυρή μεσαία τάξη, όχι η νίκη της μίας πλευράς."
+      }
+    },
+    {
+      "book": "sapiens",
+      "note": {
+        "en": "Harari treats communism and capitalism alike as shared stories that let millions of strangers cooperate, and describes the same explosion of production.",
+        "el": "Ο Χαράρι βλέπει τον κομμουνισμό και τον καπιταλισμό ως κοινές αφηγήσεις που επιτρέπουν σε εκατομμύρια αγνώστους να συνεργάζονται, και περιγράφει την ίδια έκρηξη της παραγωγής."
+      }
+    },
+    {
+      "book": "zero-to-one",
+      "note": {
+        "en": "Thiel looks at the same restless competition from the owner's side: escape it by building something so different that it becomes a monopoly.",
+        "el": "Ο Thiel κοιτά τον ίδιο αδιάκοπο ανταγωνισμό από την πλευρά του ιδιοκτήτη: ξέφυγέ του χτίζοντας κάτι τόσο διαφορετικό που γίνεται μονοπώλιο."
+      }
+    }
+  ]
+}

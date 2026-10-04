@@ -1,0 +1,576 @@
+{
+  "id": "steve-jobs",
+  "title": {"en": "Steve Jobs", "el": "Steve Jobs: Η επίσημη βιογραφία"},
+  "author": "Walter Isaacson",
+  "authorEl": "Γουόλτερ Άιζακσον",
+  "year": 2011,
+  "shelf": "founders",
+  "skills": {"leadership": 3, "strategy": 2, "focus": 2},
+  "oneLine": {
+    "en": "The life of a difficult, obsessive perfectionist who joined technology with art, changed six industries, and showed both the power and the price of a stubborn will.",
+    "el": "Η ζωή ενός δύσκολου, εμμονικού τελειομανή που ένωσε την τεχνολογία με την τέχνη, άλλαξε έξι κλάδους και έδειξε τη δύναμη αλλά και το τίμημα μιας πεισματάρας θέλησης."
+  },
+  "story": {
+    "en": "Steve Jobs asked the biographer Walter Isaacson to write his life and promised not to control the result. Isaacson interviewed Jobs more than forty times in two years and spoke with over a hundred friends, relatives, rivals and colleagues. The book came out in October 2011, days after Jobs died. People still read it because it shows the whole man, the genius and the cruelty, and the thinking behind the Mac, Pixar, the iPod, the iPhone and the iPad.",
+    "el": "Ο Steve Jobs ζήτησε από τον βιογράφο Walter Isaacson να γράψει τη ζωή του και υποσχέθηκε να μην ελέγξει το αποτέλεσμα. Ο Isaacson πήρε πάνω από σαράντα συνεντεύξεις από τον Jobs μέσα σε δύο χρόνια και μίλησε με περισσότερους από εκατό φίλους, συγγενείς, αντιπάλους και συνεργάτες. Το βιβλίο βγήκε τον Οκτώβριο του 2011, λίγες μέρες μετά τον θάνατό του. Διαβάζεται ακόμα γιατί δείχνει ολόκληρο τον άνθρωπο, την ιδιοφυΐα και τη σκληρότητα, και τη σκέψη πίσω από το Mac, την Pixar, το iPod, το iPhone και το iPad."
+  },
+  "forYou": {
+    "en": "You sell design to professionals who judge you in seconds, and you build with a tiny team. Jobs is the master of exactly that: making a product look and feel so good that it sells itself, saying no to almost everything, presenting like a showman and demanding the best from a few people. His life also warns you what happens when willpower replaces facts.",
+    "el": "Πουλάς σχεδιασμό σε επαγγελματίες που σε κρίνουν μέσα σε δευτερόλεπτα, και χτίζεις με μια πολύ μικρή ομάδα. Ο Jobs είναι ο μάστορας ακριβώς σε αυτό: να κάνεις ένα προϊόν τόσο όμορφο στην όψη και στη χρήση που να πουλιέται μόνο του, να λες όχι σχεδόν σε όλα, να παρουσιάζεις σαν σόουμαν και να ζητάς το καλύτερο από λίγους ανθρώπους. Η ζωή του σε προειδοποιεί και για το τι γίνεται όταν η θέληση παίρνει τη θέση των γεγονότων."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Abandoned and chosen", "el": "Εγκαταλειμμένος και διαλεγμένος"},
+      "explain": {
+        "en": "Jobs was given up for adoption at birth and raised by Paul and Clara Jobs. People close to him believed this left two feelings for life. Abandoned: his birth parents did not keep him. Chosen: his adoptive parents picked him and told him he was special. Friends said this mix fed his hunger to control everything he made and to prove his worth. Jobs himself denied that it drove him. The lesson: know which old wound is steering you.",
+        "el": "Ο Jobs δόθηκε για υιοθεσία μόλις γεννήθηκε και μεγάλωσε με τον Paul και την Clara Jobs. Οι κοντινοί του πίστευαν ότι αυτό του άφησε δύο αισθήματα για πάντα. Εγκαταλειμμένος: οι βιολογικοί του γονείς δεν τον κράτησαν. Διαλεγμένος: οι θετοί γονείς τον επέλεξαν και του έλεγαν ότι είναι ξεχωριστός. Φίλοι του είπαν ότι αυτό το μείγμα έθρεψε τη δίψα του να ελέγχει ό,τι έφτιαχνε και να αποδεικνύει την αξία του. Ο ίδιος αρνιόταν ότι αυτό τον κινούσε. Το μάθημα: μάθε ποια παλιά πληγή κρατά το τιμόνι σου."
+      },
+      "example": {
+        "en": "When he was about six, a girl across the street asked whether being adopted meant his real parents did not want him. He ran home in tears. His parents looked him in the eye and said, slowly and firmly, that they had specifically picked him out. He never forgot either sentence.",
+        "el": "Όταν ήταν περίπου έξι χρονών, ένα κορίτσι από απέναντι τον ρώτησε αν το ότι ήταν υιοθετημένος σήμαινε πως οι αληθινοί του γονείς δεν τον ήθελαν. Έτρεξε σπίτι κλαίγοντας. Οι γονείς του τον κοίταξαν στα μάτια και του είπαν, αργά και σταθερά, ότι εκείνοι τον είχαν διαλέξει ειδικά. Δεν ξέχασε ποτέ καμία από τις δύο φράσεις."
+      },
+      "apply": {
+        "en": "Write down honestly what you are trying to prove and to whom: a parent, old classmates, yourself. Use it as fuel for the hard days of cold calls. But catch the moments when it turns into a need to control every detail of every site, and hand that detail to someone else.",
+        "el": "Γράψε ειλικρινά τι προσπαθείς να αποδείξεις και σε ποιον: σε έναν γονιό, σε παλιούς συμμαθητές, στον εαυτό σου. Κάν' το καύσιμο για τις δύσκολες μέρες των cold calls. Πιάσε όμως τις στιγμές που γίνεται ανάγκη να ελέγχεις κάθε λεπτομέρεια σε κάθε ιστοσελίδα, και δώσε εκείνη τη λεπτομέρεια σε κάποιον άλλον."
+      },
+      "check": {
+        "q": {"en": "How did friends explain Jobs's strong need for control?", "el": "Πώς εξηγούσαν οι φίλοι του Jobs τη μεγάλη του ανάγκη για έλεγχο;"},
+        "options": [
+          {"en": "By his studies in engineering at university", "el": "Με τις σπουδές του ως μηχανικός στο πανεπιστήμιο"},
+          {"en": "By feeling both abandoned and chosen", "el": "Με το ότι ένιωθε μαζί εγκαταλειμμένος και διαλεγμένος"},
+          {"en": "By the pressure of Apple's investors", "el": "Με την πίεση από τους επενδυτές της Apple"}
+        ],
+        "answer": 1,
+        "why": {"en": "The adoption left a sense of rejection and of being special, and both pushed him to control and to prove himself.", "el": "Η υιοθεσία άφησε μια αίσθηση απόρριψης και μια αίσθηση ότι είναι ξεχωριστός, και οι δύο τον έσπρωχναν στον έλεγχο και στην απόδειξη."}
+      }
+    },
+    {
+      "title": {"en": "Paint the back of the fence", "el": "Βάψε και το πίσω μέρος"},
+      "explain": {
+        "en": "Jobs learned craftsmanship from his adoptive father, a mechanic who built furniture and fixed cars. Paul Jobs taught him that a good craftsman uses fine wood even for the back of a cabinet, the side against the wall that nobody sees. You will know it is there, so you do it properly. Jobs carried this into every product: the parts hidden inside had to be as beautiful as the outside.",
+        "el": "Ο Jobs έμαθε τη μαστοριά από τον θετό του πατέρα, έναν μηχανικό που έφτιαχνε έπιπλα και επισκεύαζε αυτοκίνητα. Ο Paul Jobs του έμαθε ότι ο καλός μάστορας βάζει καλό ξύλο ακόμα και στην πλάτη ενός ντουλαπιού, στην πλευρά προς τον τοίχο που δεν τη βλέπει κανείς. Εσύ θα ξέρεις ότι είναι εκεί, άρα το κάνεις σωστά. Ο Jobs το κουβάλησε σε κάθε προϊόν: τα μέρη που κρύβονται μέσα έπρεπε να είναι εξίσου όμορφα με το εξωτερικό."
+      },
+      "example": {
+        "en": "For the first Macintosh Jobs made the engineers redo the circuit board because the chips and lines looked ugly, although no customer would ever open the case. He also had the names of the team members engraved inside it, because real artists sign their work.",
+        "el": "Στο πρώτο Macintosh ο Jobs έβαλε τους μηχανικούς να ξανασχεδιάσουν την πλακέτα επειδή τα τσιπ και οι γραμμές έδειχναν άσχημα, αν και κανένας πελάτης δεν θα άνοιγε ποτέ το κουτί. Έβαλε ακόμα να χαραχτούν μέσα τα ονόματα της ομάδας, γιατί οι αληθινοί καλλιτέχνες υπογράφουν το έργο τους."
+      },
+      "apply": {
+        "en": "Check the parts of a site that the client will never look at: clean code, image file names, page titles for Google, how the page looks on a small old phone, the thank-you message after a form. Fix them to the same standard as the hero section, on every single build.",
+        "el": "Έλεγξε τα σημεία μιας ιστοσελίδας που ο πελάτης δεν θα κοιτάξει ποτέ: καθαρός κώδικας, ονόματα αρχείων στις εικόνες, τίτλοι σελίδων για το Google, πώς φαίνεται η σελίδα σε ένα μικρό παλιό κινητό, το μήνυμα ευχαριστίας μετά τη φόρμα. Φτιάξ' τα με το ίδιο στάνταρ που έχει η πρώτη οθόνη, σε κάθε κατασκευή."
+      },
+      "check": {
+        "q": {"en": "Why make the unseen parts beautiful?", "el": "Γιατί να κάνεις όμορφα τα μέρη που δεν φαίνονται;"},
+        "options": [
+          {"en": "Because you know they are there, and care shows", "el": "Γιατί εσύ ξέρεις ότι υπάρχουν, και η φροντίδα φαίνεται"},
+          {"en": "Because customers always open the product", "el": "Γιατί οι πελάτες ανοίγουν πάντα το προϊόν"},
+          {"en": "Because hidden parts cost less to make", "el": "Γιατί τα κρυφά μέρη κοστίζουν λιγότερο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Quality in hidden places is a habit of mind; a team that cuts corners inside will soon cut them outside too.", "el": "Η ποιότητα στα κρυφά σημεία είναι τρόπος σκέψης· μια ομάδα που κάνει εκπτώσεις μέσα θα τις κάνει σύντομα και έξω."}
+      }
+    },
+    {
+      "title": {"en": "The engineer and the visionary", "el": "Ο μηχανικός και ο οραματιστής"},
+      "explain": {
+        "en": "Apple began as a partnership of opposites. Steve Wozniak was the shy engineering genius who loved building clever machines and wanted to give his designs away. Jobs could not design a circuit, but he saw what the machine could become, how to package it, name it and sell it. There was real friction between them, and it was productive. Neither could have made Apple alone. Great things often need a builder and a seller together.",
+        "el": "Η Apple ξεκίνησε ως συνεργασία δύο αντιθέτων. Ο Steve Wozniak ήταν ο ντροπαλός ιδιοφυής μηχανικός που αγαπούσε να φτιάχνει έξυπνα μηχανήματα και ήθελε να χαρίζει τα σχέδιά του. Ο Jobs δεν μπορούσε να σχεδιάσει κύκλωμα, αλλά έβλεπε τι μπορούσε να γίνει το μηχάνημα, πώς να το συσκευάσει, να το ονομάσει και να το πουλήσει. Υπήρχε πραγματική τριβή ανάμεσά τους, και ήταν γόνιμη. Κανείς τους δεν θα έφτιαχνε την Apple μόνος. Τα μεγάλα πράγματα θέλουν συχνά έναν που χτίζει και έναν που πουλά."
+      },
+      "example": {
+        "en": "In 1971 Wozniak built a «blue box», a small device that tricked the telephone network into giving free long-distance calls. For him it was a prank. Jobs said they should sell it, found the parts, set the price, and they sold about a hundred. He later said that without the blue box there would have been no Apple.",
+        "el": "Το 1971 ο Wozniak έφτιαξε ένα «blue box», μια μικρή συσκευή που ξεγελούσε το τηλεφωνικό δίκτυο και έδινε δωρεάν υπεραστικά. Για εκείνον ήταν φάρσα. Ο Jobs είπε να το πουλήσουν, βρήκε τα εξαρτήματα, όρισε την τιμή, και πούλησαν γύρω στα εκατό. Αργότερα είπε ότι χωρίς το blue box δεν θα υπήρχε Apple."
+      },
+      "apply": {
+        "en": "Decide which of the two you are by nature. You are the one who sees the product and sells it. So look for your Wozniak: a person or a tool that builds brilliantly without needing the spotlight. Respect the friction between you, and never do to a partner what Jobs sometimes did, taking the credit or the money.",
+        "el": "Αποφάσισε ποιος από τους δύο είσαι από τη φύση σου. Εσύ είσαι αυτός που βλέπει το προϊόν και το πουλά. Ψάξε λοιπόν τον δικό σου Wozniak: έναν άνθρωπο ή ένα εργαλείο που χτίζει εξαιρετικά χωρίς να θέλει τα φώτα. Σεβάσου την τριβή ανάμεσά σας, και μην κάνεις ποτέ σε συνεργάτη αυτό που έκανε μερικές φορές ο Jobs, να πάρεις τα εύσημα ή τα χρήματα."
+      },
+      "check": {
+        "q": {"en": "What did each partner bring to Apple?", "el": "Τι έφερε ο καθένας από τους δύο στην Apple;"},
+        "options": [
+          {"en": "Both were engineers with the same skills", "el": "Ήταν και οι δύο μηχανικοί με τις ίδιες ικανότητες"},
+          {"en": "Jobs built the machines, Wozniak sold them", "el": "Ο Jobs έφτιαχνε τα μηχανήματα, ο Wozniak τα πουλούσε"},
+          {"en": "Wozniak the engineering, Jobs the vision and selling", "el": "Ο Wozniak τη μηχανική, ο Jobs το όραμα και την πώληση"}
+        ],
+        "answer": 2,
+        "why": {"en": "The company needed both halves: a brilliant machine and someone who could turn it into a product people buy.", "el": "Η εταιρεία χρειαζόταν και τα δύο μισά: ένα εξαιρετικό μηχάνημα και κάποιον που να το κάνει προϊόν που αγοράζεται."}
+      }
+    },
+    {
+      "title": {"en": "The reality distortion field", "el": "Το πεδίο παραμόρφωσης της πραγματικότητας"},
+      "explain": {
+        "en": "Colleagues used this name for Jobs's power to bend how people saw reality. With charm, total certainty and a stare that did not blink, he convinced them that an impossible deadline or technical feat was possible. Often they then did it, because they stopped believing in the limit. It was also a way of deceiving himself and others, and it burned people out. It worked best when the «impossible» thing was only very hard.",
+        "el": "Έτσι ονόμασαν οι συνεργάτες του τη δύναμη του Jobs να λυγίζει το πώς έβλεπαν οι άλλοι την πραγματικότητα. Με γοητεία, απόλυτη βεβαιότητα και ένα βλέμμα που δεν ανοιγόκλεινε, τους έπειθε ότι μια αδύνατη προθεσμία ή ένα τεχνικό κατόρθωμα γίνεται. Συχνά μετά το έκαναν, γιατί έπαυαν να πιστεύουν στο όριο. Ήταν όμως και τρόπος να ξεγελά τον εαυτό του και τους άλλους, και εξαντλούσε τους ανθρώπους. Δούλευε καλύτερα όταν το «αδύνατο» ήταν απλώς πολύ δύσκολο."
+      },
+      "example": {
+        "en": "In 2007 Jobs wanted strong glass for the iPhone screen. Wendell Weeks, head of Corning, said his company had invented such a glass but had no factory making it. Jobs told him not to be afraid, he could do it. Corning converted a plant and delivered the glass in under six months.",
+        "el": "Το 2007 ο Jobs ήθελε ανθεκτικό γυαλί για την οθόνη του iPhone. Ο Wendell Weeks, επικεφαλής της Corning, είπε ότι η εταιρεία του είχε εφεύρει τέτοιο γυαλί αλλά δεν είχε εργοστάσιο που να το παράγει. Ο Jobs του είπε να μη φοβάται, ότι μπορεί να το κάνει. Η Corning μετέτρεψε ένα εργοστάσιο και παρέδωσε το γυαλί σε λιγότερο από έξι μήνες."
+      },
+      "apply": {
+        "en": "Use the honest half of this power. When someone on your team says a thing cannot be done, ask calmly what exactly stops it, and say you believe he can find the way. Set one deadline this month that feels a little too tight. But never use the field to promise a client something untrue.",
+        "el": "Χρησιμοποίησε το τίμιο μισό αυτής της δύναμης. Όταν κάποιος στην ομάδα σου πει ότι κάτι δεν γίνεται, ρώτα ήρεμα τι ακριβώς το εμποδίζει, και πες ότι πιστεύεις πως θα βρει τον τρόπο. Βάλε αυτόν τον μήνα μία προθεσμία που μοιάζει λίγο πολύ σφιχτή. Μη χρησιμοποιήσεις όμως ποτέ το πεδίο για να υποσχεθείς σε πελάτη κάτι που δεν ισχύει."
+      },
+      "check": {
+        "q": {"en": "What was the reality distortion field?", "el": "Τι ήταν το πεδίο παραμόρφωσης της πραγματικότητας;"},
+        "options": [
+          {"en": "A screen technology used in the first Mac", "el": "Μια τεχνολογία οθόνης στο πρώτο Mac"},
+          {"en": "His power to make people believe the impossible", "el": "Η δύναμή του να κάνει τους άλλους να πιστεύουν το αδύνατο"},
+          {"en": "A marketing trick that hid product flaws", "el": "Ένα κόλπο μάρκετινγκ που έκρυβε ελαττώματα"}
+        ],
+        "answer": 1,
+        "why": {"en": "His certainty changed what people thought they could do, for better and sometimes for worse.", "el": "Η βεβαιότητά του άλλαζε αυτό που οι άνθρωποι πίστευαν ότι μπορούν να κάνουν, προς το καλύτερο και μερικές φορές προς το χειρότερο."}
+      }
+    },
+    {
+      "title": {"en": "Impute: people judge the cover", "el": "Ο κόσμος κρίνει από το περιτύλιγμα"},
+      "explain": {
+        "en": "Apple's first investor, Mike Markkula, wrote a one-page marketing philosophy with three points: empathy for the customer, focus, and «impute». Impute means that people form an opinion about a product from the signals it sends: the box, the shop, the brochure, the first touch. You may have the best product in the world, but if you present it in a sloppy way, people will think it is sloppy. The outside must match the inside.",
+        "el": "Ο πρώτος επενδυτής της Apple, ο Mike Markkula, έγραψε μια φιλοσοφία μάρκετινγκ μίας σελίδας με τρία σημεία: να καταλαβαίνεις τον πελάτη, να εστιάζεις, και το «impute», δηλαδή την εντύπωση που αποδίδει ο άλλος. Οι άνθρωποι σχηματίζουν γνώμη για ένα προϊόν από τα σημάδια που στέλνει: το κουτί, το κατάστημα, το φυλλάδιο, το πρώτο άγγιγμα. Μπορεί να έχεις το καλύτερο προϊόν στον κόσμο, αλλά αν το παρουσιάσεις πρόχειρα, θα το θεωρήσουν πρόχειρο. Το έξω πρέπει να ταιριάζει με το μέσα."
+      },
+      "example": {
+        "en": "Jobs and designer Jony Ive spent enormous time on the boxes of the iPod and the iPhone, and Jobs's name is on several packaging patents. He wanted opening the box to feel like a small ceremony that tells you, before you switch anything on, that this object is special.",
+        "el": "Ο Jobs και ο σχεδιαστής Jony Ive αφιέρωσαν τεράστιο χρόνο στα κουτιά του iPod και του iPhone, και το όνομα του Jobs υπάρχει σε αρκετές πατέντες συσκευασίας. Ήθελε το άνοιγμα του κουτιού να μοιάζει με μικρή τελετή που σου λέει, πριν ανάψεις οτιδήποτε, ότι αυτό το αντικείμενο είναι ξεχωριστό."
+      },
+      "apply": {
+        "en": "Look at everything a prospect touches before he ever sees your work: your voice in the first ten seconds of a call, the message with the draft link, your own website, your invoice, your profile photo. Make each of them as polished as your best client site, because he judges the sites by them.",
+        "el": "Κοίτα όλα όσα αγγίζει ένας υποψήφιος πελάτης πριν δει τη δουλειά σου: τη φωνή σου στα πρώτα δέκα δευτερόλεπτα μιας κλήσης, το μήνυμα με το link του draft, τη δική σου ιστοσελίδα, το τιμολόγιό σου, τη φωτογραφία προφίλ σου. Κάνε το καθένα τόσο προσεγμένο όσο η καλύτερη ιστοσελίδα πελάτη σου, γιατί από αυτά κρίνει τις ιστοσελίδες."
+      },
+      "check": {
+        "q": {"en": "What does «impute» mean in Apple's philosophy?", "el": "Τι σημαίνει «impute» στη φιλοσοφία της Apple;"},
+        "options": [
+          {"en": "Lower the price to seem more friendly", "el": "Να ρίχνεις την τιμή για να φαίνεσαι πιο φιλικός"},
+          {"en": "Copy the look of the market leader", "el": "Να αντιγράφεις την εικόνα του πρώτου στην αγορά"},
+          {"en": "People judge quality by how you present it", "el": "Ο κόσμος κρίνει την ποιότητα από το πώς την παρουσιάζεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "Presentation sends signals about quality, so a great product in a careless wrapper is judged as careless.", "el": "Η παρουσίαση στέλνει σημάδια για την ποιότητα, άρα ένα σπουδαίο προϊόν σε πρόχειρο περιτύλιγμα θεωρείται πρόχειρο."}
+      }
+    },
+    {
+      "title": {"en": "Simplicity is hard work", "el": "Η απλότητα θέλει κόπο"},
+      "explain": {
+        "en": "Apple's first brochure said that simplicity is the ultimate sophistication. For Jobs, simple did not mean leaving things out because you are lazy or ignoring the difficult parts. It meant understanding a product so deeply that you conquer its complexity and remove everything that is not essential: buttons, screens, steps, words. That is much harder than adding features. The user must feel that the thing is obvious, as if it could not have been made any other way.",
+        "el": "Το πρώτο φυλλάδιο της Apple έλεγε ότι η απλότητα είναι η υπέρτατη εκλέπτυνση. Για τον Jobs, απλό δεν σήμαινε να παραλείπεις πράγματα από τεμπελιά ή να αγνοείς τα δύσκολα. Σήμαινε να καταλαβαίνεις ένα προϊόν τόσο βαθιά που να δαμάζεις την πολυπλοκότητά του και να αφαιρείς ό,τι δεν είναι ουσιώδες: κουμπιά, οθόνες, βήματα, λέξεις. Αυτό είναι πολύ πιο δύσκολο από το να προσθέτεις λειτουργίες. Ο χρήστης πρέπει να νιώθει ότι το πράγμα είναι αυτονόητο, σαν να μη γινόταν να φτιαχτεί αλλιώς."
+      },
+      "example": {
+        "en": "When Apple designed the iPod, Jobs insisted that any song or function be reachable in three clicks. He also removed the on-off switch: the device simply went to sleep when you stopped using it and woke when you touched a button. Engineers were shocked, then saw he was right.",
+        "el": "Όταν η Apple σχεδίαζε το iPod, ο Jobs επέμενε να φτάνεις σε όποιο τραγούδι ή λειτουργία με τρία κλικ. Αφαίρεσε και τον διακόπτη on-off: η συσκευή απλώς κοιμόταν όταν σταματούσες να τη χρησιμοποιείς και ξυπνούσε όταν άγγιζες ένα κουμπί. Οι μηχανικοί σοκαρίστηκαν, και μετά είδαν ότι είχε δίκιο."
+      },
+      "apply": {
+        "en": "Apply the three-click rule to every site: a visitor must reach the phone number or the booking in one tap from anywhere. Cut each page until only what helps the visitor decide remains. Do the same with your sales pitch: say your offer in one sentence a tired doctor understands at once.",
+        "el": "Εφάρμοσε τον κανόνα των τριών κλικ σε κάθε ιστοσελίδα: ο επισκέπτης πρέπει να φτάνει στο τηλέφωνο ή στο ραντεβού με ένα πάτημα από οπουδήποτε. Κόψε κάθε σελίδα ώσπου να μείνει μόνο ό,τι βοηθά τον επισκέπτη να αποφασίσει. Κάνε το ίδιο με την πώλησή σου: πες την προσφορά σου σε μία πρόταση που ένας κουρασμένος γιατρός καταλαβαίνει αμέσως."
+      },
+      "check": {
+        "q": {"en": "What did simplicity mean for Jobs?", "el": "Τι σήμαινε απλότητα για τον Jobs;"},
+        "options": [
+          {"en": "Mastering complexity until only the essential stays", "el": "Να δαμάζεις την πολυπλοκότητα ώσπου να μείνει το ουσιώδες"},
+          {"en": "Making cheap products with few features", "el": "Να φτιάχνεις φθηνά προϊόντα με λίγες λειτουργίες"},
+          {"en": "Avoiding the difficult technical problems", "el": "Να αποφεύγεις τα δύσκολα τεχνικά προβλήματα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Real simplicity comes after deep understanding, not from ignoring what is hard.", "el": "Η αληθινή απλότητα έρχεται μετά τη βαθιά κατανόηση, όχι από το να αγνοείς τα δύσκολα."}
+      }
+    },
+    {
+      "title": {"en": "Don't ask the customer", "el": "Μη ρωτάς τον πελάτη"},
+      "explain": {
+        "en": "Jobs did not trust market research and focus groups for new products. His view: people do not know what they want until you show it to them. They can only describe a slightly better version of what they already have. So your job is to understand people so well that you sense the need before they can name it. He did care deeply about customers. He simply did not ask them to design the product.",
+        "el": "Ο Jobs δεν εμπιστευόταν τις έρευνες αγοράς και τα focus groups για τα νέα προϊόντα. Η άποψή του: οι άνθρωποι δεν ξέρουν τι θέλουν ώσπου να τους το δείξεις. Μπορούν να περιγράψουν μόνο μια λίγο καλύτερη εκδοχή αυτού που έχουν ήδη. Άρα η δουλειά σου είναι να καταλαβαίνεις τους ανθρώπους τόσο καλά που να νιώθεις την ανάγκη πριν μπορέσουν να την ονομάσουν. Νοιαζόταν πολύ για τους πελάτες. Απλώς δεν τους ζητούσε να σχεδιάσουν το προϊόν."
+      },
+      "example": {
+        "en": "On the day the Macintosh was presented in 1984, a reporter asked Jobs what market research he had done. He answered by asking whether Alexander Graham Bell had done any market research before he invented the telephone. Nobody had asked for a computer with a mouse and pictures either.",
+        "el": "Τη μέρα που παρουσιάστηκε το Macintosh, το 1984, ένας δημοσιογράφος ρώτησε τον Jobs τι έρευνα αγοράς είχε κάνει. Εκείνος απάντησε ρωτώντας αν ο Alexander Graham Bell είχε κάνει έρευνα αγοράς πριν εφεύρει το τηλέφωνο. Ούτε υπολογιστή με ποντίκι και εικόνες είχε ζητήσει ποτέ κανείς."
+      },
+      "apply": {
+        "en": "Stop asking a client «what would you like your site to look like?». Most cannot answer. Study his practice, his patients and his competitors, build the draft you believe is right and show it. People react far better to something real in front of them than to a questionnaire.",
+        "el": "Σταμάτα να ρωτάς τον πελάτη «πώς θα θέλατε να είναι η ιστοσελίδα σας;». Οι περισσότεροι δεν μπορούν να απαντήσουν. Μελέτησε το ιατρείο του, τους ασθενείς του και τους ανταγωνιστές του, φτιάξε το draft που πιστεύεις ότι είναι σωστό και δείξ' το. Οι άνθρωποι αντιδρούν πολύ καλύτερα σε κάτι αληθινό μπροστά τους παρά σε ένα ερωτηματολόγιο."
+      },
+      "check": {
+        "q": {"en": "Why did Jobs avoid focus groups for new products?", "el": "Γιατί ο Jobs απέφευγε τα focus groups για νέα προϊόντα;"},
+        "options": [
+          {"en": "He thought customers were not important", "el": "Θεωρούσε ότι οι πελάτες δεν έχουν σημασία"},
+          {"en": "People cannot ask for what they have never seen", "el": "Οι άνθρωποι δεν ζητούν αυτό που δεν έχουν δει ποτέ"},
+          {"en": "Research was too expensive for Apple", "el": "Η έρευνα ήταν πολύ ακριβή για την Apple"}
+        ],
+        "answer": 1,
+        "why": {"en": "Customers describe improvements to what exists; a truly new thing has to be shown to them first.", "el": "Οι πελάτες περιγράφουν βελτιώσεις σε ό,τι υπάρχει· το πραγματικά καινούργιο πρέπει πρώτα να τους το δείξεις."}
+      }
+    },
+    {
+      "title": {"en": "Control the whole widget", "el": "Έλεγξε όλο το πακέτο"},
+      "explain": {
+        "en": "Jobs believed that a perfect experience needs one company to control everything: the hardware, the software, the services and even the shop. Critics call this a «walled garden», a closed system. Inside it everything simply works together. The opposite model, used by Microsoft and later by Google's Android, is open: sell the software to anyone who makes devices. Open usually wins more market share. Closed usually wins on quality and profit.",
+        "el": "Ο Jobs πίστευε ότι η τέλεια εμπειρία θέλει μία εταιρεία να ελέγχει τα πάντα: το μηχάνημα, το λογισμικό, τις υπηρεσίες, ακόμα και το κατάστημα. Οι επικριτές το λένε «περιφραγμένο κήπο», δηλαδή κλειστό σύστημα. Μέσα του όλα απλώς δουλεύουν μαζί. Το αντίθετο μοντέλο, της Microsoft και αργότερα του Android της Google, είναι ανοιχτό: πουλάς το λογισμικό σε όποιον φτιάχνει συσκευές. Το ανοιχτό κερδίζει συνήθως μεγαλύτερο μερίδιο αγοράς. Το κλειστό κερδίζει συνήθως σε ποιότητα και κέρδος."
+      },
+      "example": {
+        "en": "The iPod won because Apple made the player, the iTunes program and, from 2003, the iTunes Store, which sold a million songs in its first six days. Sony had a music company and device makers too, but its divisions fought each other. The cost of control showed earlier: the closed Mac lost most of the market to Windows.",
+        "el": "Το iPod νίκησε επειδή η Apple έφτιαχνε τη συσκευή, το πρόγραμμα iTunes και, από το 2003, το iTunes Store, που πούλησε ένα εκατομμύριο τραγούδια τις πρώτες έξι μέρες. Η Sony είχε και δισκογραφική και συσκευές, αλλά τα τμήματά της μάλωναν μεταξύ τους. Το κόστος του ελέγχου είχε φανεί νωρίτερα: το κλειστό Mac έχασε το μεγαλύτερο μέρος της αγοράς από τα Windows."
+      },
+      "apply": {
+        "en": "Keep the whole experience in your hands: design, text, hosting, domain, changes and support under one roof, so the client has one phone number and nothing ever falls between two suppliers. Say it as a selling point. Accept the price of this choice: you turn down clients who want you to patch another agency's site.",
+        "el": "Κράτα όλη την εμπειρία στα χέρια σου: σχεδιασμό, κείμενα, φιλοξενία, domain, αλλαγές και υποστήριξη κάτω από μία στέγη, ώστε ο πελάτης να έχει ένα τηλέφωνο και τίποτα να μη χάνεται ανάμεσα σε δύο προμηθευτές. Πες το ως επιχείρημα πώλησης. Δέξου το τίμημα της επιλογής: αρνείσαι πελάτες που θέλουν να μπαλώσεις την ιστοσελίδα άλλης εταιρείας."
+      },
+      "check": {
+        "q": {"en": "What is the trade-off of the closed model?", "el": "Ποιο είναι το αντάλλαγμα στο κλειστό μοντέλο;"},
+        "options": [
+          {"en": "Lower quality but far lower prices", "el": "Χαμηλότερη ποιότητα αλλά πολύ χαμηλότερες τιμές"},
+          {"en": "More market share but weaker design", "el": "Μεγαλύτερο μερίδιο αγοράς αλλά πιο αδύναμο σχέδιο"},
+          {"en": "Better experience but often smaller market share", "el": "Καλύτερη εμπειρία αλλά συχνά μικρότερο μερίδιο αγοράς"}
+        ],
+        "answer": 2,
+        "why": {"en": "Control gives a seamless product, while open systems spread more widely, as Windows did against the Mac.", "el": "Ο έλεγχος δίνει προϊόν που δουλεύει άψογα, ενώ τα ανοιχτά συστήματα απλώνονται περισσότερο, όπως τα Windows απέναντι στο Mac."}
+      }
+    },
+    {
+      "title": {"en": "A players only", "el": "Μόνο παίκτες πρώτης γραμμής"},
+      "explain": {
+        "en": "Jobs believed that the best people are not a little better than average but many times better, and that they want to work only with others like them. Let in a few mediocre «B players» and they hire worse ones, until the company is full of what he called bozos. So he kept teams small and was brutally honest: work was either brilliant or garbage. This produced great products, and it also hurt many people needlessly.",
+        "el": "Ο Jobs πίστευε ότι οι καλύτεροι δεν είναι λίγο καλύτεροι από τον μέσο όρο αλλά πολλές φορές καλύτεροι, και ότι θέλουν να δουλεύουν μόνο με ομοίους τους. Άφησε να μπουν λίγοι μέτριοι, «παίκτες Β», και θα προσλάβουν χειρότερους, ώσπου η εταιρεία να γεμίσει με αυτούς που έλεγε «bozos», δηλαδή άσχετους. Γι' αυτό κρατούσε τις ομάδες μικρές και ήταν ωμά ειλικρινής: η δουλειά ήταν ή αριστούργημα ή σκουπίδι. Αυτό έβγαλε σπουδαία προϊόντα, και πλήγωσε πολλούς ανθρώπους χωρίς λόγο."
+      },
+      "example": {
+        "en": "On the original Mac team Jobs often called people's work terrible to their faces. From 1981 the team gave a yearly award to the person who stood up to him best. Joanna Hoffman won the first one. Jobs knew about the award and liked it: he respected people who pushed back.",
+        "el": "Στην αρχική ομάδα του Mac ο Jobs συχνά έλεγε στους ανθρώπους κατάμουτρα ότι η δουλειά τους ήταν χάλια. Από το 1981 η ομάδα έδινε κάθε χρόνο ένα βραβείο σε όποιον του αντιστεκόταν καλύτερα. Το πρώτο το πήρε η Joanna Hoffman. Ο Jobs ήξερε για το βραβείο και του άρεσε: σεβόταν όσους του πήγαιναν κόντρα."
+      },
+      "apply": {
+        "en": "Keep your team small and the bar high: one excellent collaborator is worth three average ones, and an average one lowers everyone's standard. Be direct about the work, never about the person: «this hero section is not good enough yet, here is why». And reward the person who dares to tell you that you are wrong.",
+        "el": "Κράτα την ομάδα μικρή και τον πήχη ψηλά: ένας εξαιρετικός συνεργάτης αξίζει τρεις μέτριους, και ένας μέτριος ρίχνει το στάνταρ όλων. Να είσαι ευθύς για τη δουλειά, ποτέ για τον άνθρωπο: «αυτή η πρώτη οθόνη δεν είναι ακόμα αρκετά καλή, και να γιατί». Και επιβράβευσε αυτόν που τολμά να σου πει ότι κάνεις λάθος."
+      },
+      "check": {
+        "q": {"en": "What is the «bozo explosion»?", "el": "Τι είναι η «έκρηξη των bozos»;"},
+        "options": [
+          {"en": "Mediocre hires who bring in even weaker people", "el": "Μέτριες προσλήψεις που φέρνουν ακόμα πιο αδύναμους"},
+          {"en": "A product launch that fails in public", "el": "Ένα λανσάρισμα προϊόντος που αποτυγχάνει δημόσια"},
+          {"en": "Too many talented people in one team", "el": "Πάρα πολλοί ταλαντούχοι σε μία ομάδα"}
+        ],
+        "answer": 0,
+        "why": {"en": "B players hire C players, so tolerating a few average people slowly lowers the whole company.", "el": "Οι παίκτες Β προσλαμβάνουν παίκτες Γ, άρα η ανοχή σε λίγους μέτριους ρίχνει σιγά σιγά όλη την εταιρεία."}
+      }
+    },
+    {
+      "title": {"en": "Fired, and better for it", "el": "Τον έδιωξαν, και του βγήκε σε καλό"},
+      "explain": {
+        "en": "In 1985, at thirty, Jobs lost a power struggle with John Sculley, the chief executive he had hired himself, and was pushed out of Apple. It was a public humiliation. The next twelve years were his school. At NeXT he built a beautiful computer that almost nobody bought, and learned what excess costs. At Pixar he learned to lead creative people with patience. He returned to Apple a far better leader.",
+        "el": "Το 1985, στα τριάντα του, ο Jobs έχασε μια μάχη εξουσίας με τον John Sculley, τον διευθύνοντα σύμβουλο που είχε προσλάβει ο ίδιος, και τον έβγαλαν από την Apple. Ήταν δημόσιος εξευτελισμός. Τα επόμενα δώδεκα χρόνια ήταν το σχολείο του. Στη NeXT έφτιαξε έναν πανέμορφο υπολογιστή που δεν αγόρασε σχεδόν κανείς, και έμαθε τι κοστίζει η υπερβολή. Στην Pixar έμαθε να οδηγεί δημιουργικούς ανθρώπους με υπομονή. Γύρισε στην Apple πολύ καλύτερος ηγέτης."
+      },
+      "example": {
+        "en": "Jobs bought the small computer graphics group that became Pixar in 1986 and kept paying its losses for years. In 1995 it released Toy Story, the first full-length computer-animated film and a huge hit. A year later Apple bought NeXT for over 400 million dollars, and its software became the base of every Mac and iPhone.",
+        "el": "Ο Jobs αγόρασε το 1986 τη μικρή ομάδα γραφικών υπολογιστή που έγινε η Pixar και πλήρωνε τις ζημιές της επί χρόνια. Το 1995 η Pixar έβγαλε το Toy Story, την πρώτη ταινία μεγάλου μήκους φτιαγμένη ολόκληρη σε υπολογιστή, και έγινε τεράστια επιτυχία. Έναν χρόνο μετά η Apple αγόρασε τη NeXT για πάνω από 400 εκατομμύρια δολάρια, και το λογισμικό της έγινε η βάση κάθε Mac και iPhone."
+      },
+      "apply": {
+        "en": "Treat your worst setback of the year as tuition you already paid. Write three lines about it: what happened, what you would do differently, what skill it forced you to learn. Keep going with the thing you love while results are slow, as Jobs did with Pixar, but watch the numbers he ignored at NeXT.",
+        "el": "Δες τη χειρότερη αναποδιά της χρονιάς σαν δίδακτρα που έχεις ήδη πληρώσει. Γράψε τρεις γραμμές γι' αυτήν: τι έγινε, τι θα έκανες αλλιώς, ποια ικανότητα σε ανάγκασε να μάθεις. Συνέχισε αυτό που αγαπάς όσο τα αποτελέσματα αργούν, όπως έκανε ο Jobs με την Pixar, αλλά πρόσεχε τους αριθμούς που αγνόησε στη NeXT."
+      },
+      "check": {
+        "q": {"en": "What did the years away from Apple give Jobs?", "el": "Τι έδωσαν στον Jobs τα χρόνια μακριά από την Apple;"},
+        "options": [
+          {"en": "Nothing useful, only lost time", "el": "Τίποτα χρήσιμο, μόνο χαμένο χρόνο"},
+          {"en": "Lessons that made him a better leader", "el": "Μαθήματα που τον έκαναν καλύτερο ηγέτη"},
+          {"en": "A fortune that he later lost at Pixar", "el": "Μια περιουσία που μετά έχασε στην Pixar"}
+        ],
+        "answer": 1,
+        "why": {"en": "NeXT and Pixar taught him discipline and patience, and gave him the technology he later brought back to Apple.", "el": "Η NeXT και η Pixar του έμαθαν πειθαρχία και υπομονή, και του έδωσαν την τεχνολογία που έφερε αργότερα πίσω στην Apple."}
+      }
+    },
+    {
+      "title": {"en": "Focus means saying no", "el": "Εστίαση σημαίνει να λες όχι"},
+      "explain": {
+        "en": "For Jobs, deciding what not to do was as important as deciding what to do. Focus is not saying yes to the thing you concentrate on. It is saying no to a hundred other good ideas. A company, like a person, has limited attention, and every extra product, feature or project takes some away from the few that matter. He was proud of the things Apple had chosen not to make.",
+        "el": "Για τον Jobs, το να αποφασίζεις τι δεν θα κάνεις ήταν εξίσου σημαντικό με το τι θα κάνεις. Εστίαση δεν είναι να λες ναι σε αυτό που σε απασχολεί. Είναι να λες όχι σε εκατό άλλες καλές ιδέες. Μια εταιρεία, όπως και ένας άνθρωπος, έχει περιορισμένη προσοχή, και κάθε επιπλέον προϊόν, λειτουργία ή project κλέβει λίγη από τα λίγα που μετρούν. Ήταν περήφανος για όσα η Apple είχε επιλέξει να μη φτιάξει."
+      },
+      "example": {
+        "en": "When Jobs returned in 1997, Apple sold dozens of confusing products and had just lost about a billion dollars in one year. He drew a square with four boxes on a whiteboard: consumer and professional, desktop and portable. Apple would make one great product for each box and drop the rest. The next year it made a profit.",
+        "el": "Όταν ο Jobs γύρισε το 1997, η Apple πουλούσε δεκάδες προϊόντα που μπέρδευαν τον κόσμο και είχε μόλις χάσει περίπου ένα δισεκατομμύριο δολάρια σε έναν χρόνο. Σχεδίασε στον πίνακα ένα τετράγωνο με τέσσερα κουτιά: καταναλωτές και επαγγελματίες, σταθερός και φορητός. Η Apple θα έφτιαχνε ένα εξαιρετικό προϊόν για κάθε κουτί και θα έκοβε τα υπόλοιπα. Την επόμενη χρονιά έβγαλε κέρδος."
+      },
+      "apply": {
+        "en": "Do what Jobs did with his top managers each year: write the ten things you could do next, then cross out seven and keep three. Refuse side projects, extra services and «interesting» partnerships outside those three. When a new idea excites you, put it on a waiting list for thirty days before touching it.",
+        "el": "Κάνε ό,τι έκανε ο Jobs κάθε χρόνο με τα κορυφαία στελέχη του: γράψε τα δέκα πράγματα που θα μπορούσες να κάνεις μετά, διάγραψε τα επτά και κράτα τρία. Αρνήσου παράπλευρα projects, επιπλέον υπηρεσίες και «ενδιαφέρουσες» συνεργασίες έξω από αυτά τα τρία. Όταν μια νέα ιδέα σε ενθουσιάζει, βάλ' τη σε λίστα αναμονής για τριάντα μέρες πριν την αγγίξεις."
+      },
+      "check": {
+        "q": {"en": "What did focus mean for Jobs?", "el": "Τι σήμαινε εστίαση για τον Jobs;"},
+        "options": [
+          {"en": "Saying no to many good ideas", "el": "Να λες όχι σε πολλές καλές ιδέες"},
+          {"en": "Working more hours on every project", "el": "Να δουλεύεις περισσότερες ώρες σε κάθε project"},
+          {"en": "Offering a product for every customer", "el": "Να έχεις ένα προϊόν για κάθε πελάτη"}
+        ],
+        "answer": 0,
+        "why": {"en": "Attention is limited, so the few important things get done only when the rest is refused.", "el": "Η προσοχή έχει όριο, άρα τα λίγα σημαντικά γίνονται μόνο όταν αρνείσαι τα υπόλοιπα."}
+      }
+    },
+    {
+      "title": {"en": "Cannibalize yourself", "el": "Φάε εσύ το προϊόν σου"},
+      "explain": {
+        "en": "Most companies protect their best-selling product and refuse to launch anything that could hurt its sales. Jobs did the opposite. His rule was that if you do not cannibalize yourself, someone else will. He replaced his own successes while they were still at the top, because he preferred to lose sales to a better Apple product than to a competitor. A company should be driven by great products, not by fear for this year's profit.",
+        "el": "Οι περισσότερες εταιρείες προστατεύουν το προϊόν που πουλά περισσότερο και αρνούνται να βγάλουν οτιδήποτε θα του έκοβε πωλήσεις. Ο Jobs έκανε το αντίθετο. Ο κανόνας του ήταν ότι αν δεν φας εσύ το προϊόν σου, θα το φάει κάποιος άλλος. Αντικαθιστούσε τις δικές του επιτυχίες όσο ήταν ακόμα στην κορυφή, γιατί προτιμούσε να χάνει πωλήσεις από ένα καλύτερο προϊόν της Apple παρά από έναν ανταγωνιστή. Την εταιρεία πρέπει να την οδηγούν τα σπουδαία προϊόντα, όχι ο φόβος για το φετινό κέρδος."
+      },
+      "example": {
+        "en": "In 2005 the iPod mini was the best-selling music player in the world. Jobs stopped making it and replaced it with the thinner iPod nano. Two years later he launched the iPhone, knowing that a phone which plays music would kill iPod sales. It did, and Apple grew many times larger.",
+        "el": "Το 2005 το iPod mini ήταν η συσκευή μουσικής με τις περισσότερες πωλήσεις στον κόσμο. Ο Jobs σταμάτησε την παραγωγή του και έβαλε στη θέση του το πιο λεπτό iPod nano. Δύο χρόνια μετά έβγαλε το iPhone, ξέροντας ότι ένα τηλέφωνο που παίζει μουσική θα σκότωνε τις πωλήσεις του iPod. Έτσι έγινε, και η Apple μεγάλωσε πολλές φορές."
+      },
+      "apply": {
+        "en": "Ask once a quarter: if a new agency wanted to beat Advon, what would it offer? Then offer it yourself first. Rebuild your own older client sites with your newest design standard before a competitor calls those clients. Replace your best-performing ad while it still works, not after it dies.",
+        "el": "Ρώτα μία φορά το τρίμηνο: αν μια νέα εταιρεία ήθελε να νικήσει την Advon, τι θα πρόσφερε; Μετά πρόσφερέ το πρώτος εσύ. Ξαναχτίσε τις παλιότερες ιστοσελίδες πελατών σου με το πιο νέο σου σχεδιαστικό στάνταρ, πριν πάρει αυτούς τους πελάτες τηλέφωνο ένας ανταγωνιστής. Άλλαξε την καλύτερη διαφήμισή σου όσο ακόμα δουλεύει, όχι αφού σβήσει."
+      },
+      "check": {
+        "q": {"en": "Why replace your own successful product?", "el": "Γιατί να αντικαταστήσεις το δικό σου πετυχημένο προϊόν;"},
+        "options": [
+          {"en": "Because customers get bored every year", "el": "Γιατί οι πελάτες βαριούνται κάθε χρόνο"},
+          {"en": "Because old products cost more to produce", "el": "Γιατί τα παλιά προϊόντα κοστίζουν περισσότερο"},
+          {"en": "Otherwise a competitor will do it to you", "el": "Αλλιώς θα σου το κάνει ένας ανταγωνιστής"}
+        ],
+        "answer": 2,
+        "why": {"en": "Better to lose sales to your own improved product than to someone else's.", "el": "Καλύτερα να χάσεις πωλήσεις από το δικό σου καλύτερο προϊόν παρά από κάποιου άλλου."}
+      }
+    },
+    {
+      "title": {"en": "The launch is a show", "el": "Η παρουσίαση είναι παράσταση"},
+      "explain": {
+        "en": "Jobs treated every product launch as theatre. He told a story with a villain, a problem and a hero, the product. He used almost no text on the slides, one big idea at a time, simple words and a surprise near the end. It looked relaxed and natural because he rehearsed for days, every sentence and every click. People did not just learn about a product. They felt something, and they talked about it afterwards.",
+        "el": "Ο Jobs έβλεπε κάθε παρουσίαση προϊόντος σαν θέατρο. Έλεγε μια ιστορία με έναν κακό, ένα πρόβλημα και έναν ήρωα, το προϊόν. Δεν έβαζε σχεδόν καθόλου κείμενο στις διαφάνειες, μία μεγάλη ιδέα κάθε φορά, απλές λέξεις και μια έκπληξη κοντά στο τέλος. Έδειχνε χαλαρό και φυσικό επειδή έκανε πρόβες επί μέρες, κάθε πρόταση και κάθε κλικ. Ο κόσμος δεν μάθαινε απλώς για ένα προϊόν. Ένιωθε κάτι, και το συζητούσε μετά."
+      },
+      "example": {
+        "en": "In January 2007 Jobs said he would present three products: an iPod with a wide screen, a mobile phone and an internet device. He repeated the three names again and again until the audience understood and began to cheer. They were not three devices. They were one, and its name was iPhone.",
+        "el": "Τον Ιανουάριο του 2007 ο Jobs είπε ότι θα παρουσιάσει τρία προϊόντα: ένα iPod με μεγάλη οθόνη, ένα κινητό τηλέφωνο και μια συσκευή για το ίντερνετ. Επανέλαβε τα τρία ονόματα ξανά και ξανά, ώσπου το κοινό κατάλαβε και άρχισε να ζητωκραυγάζει. Δεν ήταν τρεις συσκευές. Ήταν μία, και την έλεγαν iPhone."
+      },
+      "apply": {
+        "en": "Turn the moment you show a client his draft into a small show. Start with the problem: how his practice looks online today. Then reveal the new site on a big screen, one section at a time, and keep the best part for last. Rehearse your words out loud twice before the meeting.",
+        "el": "Κάνε μικρή παράσταση τη στιγμή που δείχνεις στον πελάτη το draft του. Ξεκίνα από το πρόβλημα: πώς φαίνεται σήμερα το ιατρείο του στο ίντερνετ. Μετά αποκάλυψε τη νέα ιστοσελίδα σε μεγάλη οθόνη, ένα κομμάτι τη φορά, και κράτα το καλύτερο για το τέλος. Κάνε πρόβα τα λόγια σου φωναχτά δύο φορές πριν από το ραντεβού."
+      },
+      "check": {
+        "q": {"en": "Why did Jobs's presentations look so effortless?", "el": "Γιατί οι παρουσιάσεις του Jobs έδειχναν τόσο αβίαστες;"},
+        "options": [
+          {"en": "He improvised and trusted his natural talent", "el": "Αυτοσχεδίαζε και εμπιστευόταν το ταλέντο του"},
+          {"en": "He rehearsed every detail for days", "el": "Έκανε πρόβα κάθε λεπτομέρεια επί μέρες"},
+          {"en": "He read the text from detailed slides", "el": "Διάβαζε το κείμενο από αναλυτικές διαφάνειες"}
+        ],
+        "answer": 1,
+        "why": {"en": "The ease was the result of long preparation, a clear story and very few words on screen.", "el": "Η άνεση ήταν αποτέλεσμα μεγάλης προετοιμασίας, καθαρής ιστορίας και ελάχιστων λέξεων στην οθόνη."}
+      }
+    },
+    {
+      "title": {"en": "When willpower meets facts", "el": "Όταν η θέληση συναντά τα γεγονότα"},
+      "explain": {
+        "en": "The same stubborn will that bent reality in business failed Jobs in medicine. Isaacson calls it magical thinking: the belief that if you ignore something you do not want to be true, it will go away. Jobs had done this before, for example when he denied for years that he was the father of his daughter Lisa. Will can move people. It cannot move a tumour. Some facts must be faced at once, with experts.",
+        "el": "Η ίδια πεισματάρα θέληση που λύγιζε την πραγματικότητα στις επιχειρήσεις πρόδωσε τον Jobs στην ιατρική. Ο Isaacson το λέει μαγική σκέψη: η πίστη ότι αν αγνοήσεις κάτι που δεν θέλεις να ισχύει, θα φύγει. Ο Jobs το είχε ξανακάνει, για παράδειγμα όταν αρνιόταν επί χρόνια ότι ήταν ο πατέρας της κόρης του, της Lisa. Η θέληση μπορεί να κινήσει ανθρώπους. Δεν μπορεί να κινήσει έναν όγκο. Κάποια γεγονότα πρέπει να τα αντιμετωπίζεις αμέσως, με ειδικούς."
+      },
+      "example": {
+        "en": "In October 2003 doctors found a tumour in Jobs's pancreas, a rare type that can often be treated by surgery. For nine months he refused the operation and tried a strict vegan diet, juices, acupuncture and herbs. When he had surgery in July 2004, the cancer had spread. He later regretted the delay.",
+        "el": "Τον Οκτώβριο του 2003 οι γιατροί βρήκαν όγκο στο πάγκρεας του Jobs, ενός σπάνιου τύπου που συχνά αντιμετωπίζεται με χειρουργείο. Επί εννέα μήνες αρνιόταν την επέμβαση και δοκίμαζε αυστηρή χορτοφαγική δίαιτα, χυμούς, βελονισμό και βότανα. Όταν χειρουργήθηκε τον Ιούλιο του 2004, ο καρκίνος είχε απλωθεί. Αργότερα μετάνιωσε για την καθυστέρηση."
+      },
+      "apply": {
+        "en": "Name one fact you have been avoiding: a health check, a debt, a client who will clearly not pay, a number in the business that keeps falling. Book the appointment or open the spreadsheet today. Keep your stubbornness for the goals, and give the facts to people who know more than you.",
+        "el": "Ονόμασε ένα γεγονός που αποφεύγεις: μια ιατρική εξέταση, ένα χρέος, έναν πελάτη που είναι φανερό ότι δεν θα πληρώσει, έναν αριθμό στη δουλειά που πέφτει συνέχεια. Κλείσε το ραντεβού ή άνοιξε το αρχείο σήμερα. Κράτα το πείσμα σου για τους στόχους, και άφησε τα γεγονότα σε ανθρώπους που ξέρουν περισσότερα από σένα."
+      },
+      "check": {
+        "q": {"en": "What does Isaacson mean by «magical thinking»?", "el": "Τι εννοεί ο Isaacson με «μαγική σκέψη»;"},
+        "options": [
+          {"en": "Creative ideas that feel like magic to users", "el": "Δημιουργικές ιδέες που μοιάζουν μαγικές στους χρήστες"},
+          {"en": "A marketing style built on mystery", "el": "Ένα στυλ μάρκετινγκ χτισμένο στο μυστήριο"},
+          {"en": "Believing an unwanted fact goes away if ignored", "el": "Να πιστεύεις ότι ένα ανεπιθύμητο γεγονός φεύγει αν το αγνοήσεις"}
+        ],
+        "answer": 2,
+        "why": {"en": "His will worked on people and deadlines, but it could not change a medical fact.", "el": "Η θέλησή του έπιανε σε ανθρώπους και προθεσμίες, αλλά δεν μπορούσε να αλλάξει ένα ιατρικό γεγονός."}
+      }
+    },
+    {
+      "title": {"en": "Stay hungry, stay foolish", "el": "Μείνε πεινασμένος, μείνε τρελός"},
+      "explain": {
+        "en": "Jobs closed his 2005 speech to Stanford graduates with these four words. He took them from the back cover of the last issue of the Whole Earth Catalog, a magazine he loved when he was young. Hungry: never feel you have arrived, keep learning. Foolish: keep taking risks that sensible people avoid. He also said you cannot connect the dots of your life looking forward, only looking back, so follow your curiosity and trust it.",
+        "el": "Ο Jobs έκλεισε την ομιλία του στους αποφοίτους του Stanford το 2005 με αυτές τις λέξεις. Τις πήρε από το οπισθόφυλλο του τελευταίου τεύχους του Whole Earth Catalog, ενός περιοδικού που αγαπούσε στα νιάτα του. Πεινασμένος: μη νιώσεις ποτέ ότι έφτασες, συνέχισε να μαθαίνεις. Τρελός: συνέχισε να παίρνεις ρίσκα που οι φρόνιμοι αποφεύγουν. Είπε ακόμα ότι δεν μπορείς να ενώσεις τις τελείες της ζωής σου κοιτώντας μπροστά, μόνο κοιτώντας πίσω, άρα ακολούθα την περιέργειά σου και εμπιστέψου την."
+      },
+      "example": {
+        "en": "After dropping out of Reed College, Jobs stayed on campus and sat in on a calligraphy class, only because the lettering was beautiful. It had no practical use. Ten years later that knowledge went into the Macintosh, the first personal computer with elegant typefaces and proportional spacing.",
+        "el": "Αφού παράτησε το Reed College, ο Jobs έμεινε στο κολέγιο και παρακολούθησε ένα μάθημα καλλιγραφίας, μόνο επειδή τα γράμματα ήταν όμορφα. Δεν είχε καμία πρακτική χρησιμότητα. Δέκα χρόνια μετά αυτή η γνώση μπήκε στο Macintosh, τον πρώτο προσωπικό υπολογιστή με κομψές γραμματοσειρές και σωστές αποστάσεις ανάμεσα στα γράμματα."
+      },
+      "apply": {
+        "en": "Keep one hour a day for learning something with no direct payoff: history, philosophy, typography, public speaking. Once a month try one «foolish» thing in the business that might fail, such as an unusual ad, a call to a client far above your usual size, or a talk in front of an audience.",
+        "el": "Κράτα μία ώρα την ημέρα για να μαθαίνεις κάτι χωρίς άμεσο όφελος: ιστορία, φιλοσοφία, τυπογραφία, ομιλία μπροστά σε κοινό. Μία φορά τον μήνα δοκίμασε στη δουλειά κάτι «τρελό» που μπορεί να αποτύχει, όπως μια ασυνήθιστη διαφήμιση, ένα τηλεφώνημα σε πελάτη πολύ μεγαλύτερο από τους συνηθισμένους σου, ή μια ομιλία μπροστά σε κόσμο."
+      },
+      "check": {
+        "q": {"en": "What does «stay hungry, stay foolish» ask of you?", "el": "Τι σου ζητά το «μείνε πεινασμένος, μείνε τρελός»;"},
+        "options": [
+          {"en": "Keep learning and keep taking risks", "el": "Να συνεχίζεις να μαθαίνεις και να ρισκάρεις"},
+          {"en": "Work without rest or regular meals", "el": "Να δουλεύεις χωρίς ξεκούραση και κανονικά γεύματα"},
+          {"en": "Ignore all advice from experienced people", "el": "Να αγνοείς κάθε συμβουλή από έμπειρους ανθρώπους"}
+        ],
+        "answer": 0,
+        "why": {"en": "It is about never feeling finished and never becoming too careful to try something new.", "el": "Μιλά για το να μη νιώθεις ποτέ ότι τελείωσες και να μη γίνεις ποτέ τόσο προσεκτικός που να μη δοκιμάζεις κάτι νέο."}
+      }
+    },
+    {
+      "title": {"en": "Build a company that lasts", "el": "Χτίσε εταιρεία που θα μείνει"},
+      "explain": {
+        "en": "Jobs said his passion was to build an enduring company where people were motivated to make great products. Products came first and profit followed. His model was Hewlett-Packard, whose founders built a company that outlived them. He wanted Apple to stand at the meeting point of technology and the humanities, engineering joined with art. In his last years he worked to put that way of thinking into the people, so that it would continue without him.",
+        "el": "Ο Jobs είπε ότι το πάθος του ήταν να χτίσει μια εταιρεία με διάρκεια, όπου οι άνθρωποι θα είχαν κίνητρο να φτιάχνουν σπουδαία προϊόντα. Πρώτα τα προϊόντα, και το κέρδος ακολουθεί. Πρότυπό του ήταν η Hewlett-Packard, που οι ιδρυτές της έχτισαν εταιρεία η οποία τους ξεπέρασε σε διάρκεια. Ήθελε η Apple να στέκεται εκεί που συναντιούνται η τεχνολογία και οι ανθρωπιστικές επιστήμες, η μηχανική δεμένη με την τέχνη. Τα τελευταία του χρόνια δούλεψε για να περάσει αυτόν τον τρόπο σκέψης στους ανθρώπους, ώστε να συνεχίσει χωρίς εκείνον."
+      },
+      "example": {
+        "en": "Jobs set up Apple University, an internal school where managers study the reasoning behind Apple's key decisions. He prepared Tim Cook for years and handed him the job in August 2011, six weeks before he died. That same month Apple became, for a time, the most valuable company in the world.",
+        "el": "Ο Jobs έστησε το Apple University, ένα εσωτερικό σχολείο όπου τα στελέχη μελετούν το σκεπτικό πίσω από τις βασικές αποφάσεις της Apple. Προετοίμαζε τον Tim Cook επί χρόνια και του παρέδωσε τη θέση τον Αύγουστο του 2011, έξι εβδομάδες πριν πεθάνει. Τον ίδιο μήνα η Apple έγινε, για ένα διάστημα, η εταιρεία με τη μεγαλύτερη αξία στον κόσμο."
+      },
+      "apply": {
+        "en": "Write down why you make each important choice, not only what you choose: why whole photos, why no fake reviews, why one clear call to action. Collect these in one document and teach it to every new collaborator. That document is how your taste stays in Advon when you are not in the room.",
+        "el": "Γράφε γιατί κάνεις κάθε σημαντική επιλογή, όχι μόνο τι επιλέγεις: γιατί ολόκληρες φωτογραφίες, γιατί όχι ψεύτικες κριτικές, γιατί μία καθαρή προτροπή για δράση. Μάζεψέ τα σε ένα έγγραφο και δίδαξέ το σε κάθε νέο συνεργάτη. Με αυτό το έγγραφο το γούστο σου μένει στην Advon και όταν δεν είσαι στο δωμάτιο."
+      },
+      "check": {
+        "q": {"en": "What did Jobs want to leave behind above all?", "el": "Τι ήθελε πάνω απ' όλα να αφήσει πίσω του ο Jobs;"},
+        "options": [
+          {"en": "The largest personal fortune of his time", "el": "Τη μεγαλύτερη προσωπική περιουσία της εποχής του"},
+          {"en": "A lasting company that keeps making great products", "el": "Μια εταιρεία με διάρκεια που συνεχίζει να βγάζει σπουδαία προϊόντα"},
+          {"en": "One perfect device that nobody could improve", "el": "Μία τέλεια συσκευή που δεν θα βελτίωνε κανείς"}
+        ],
+        "answer": 1,
+        "why": {"en": "He saw the company itself, with his way of thinking inside it, as his most important creation.", "el": "Θεωρούσε την ίδια την εταιρεία, με τον τρόπο σκέψης του μέσα της, το πιο σημαντικό του δημιούργημα."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "In one month you are offered three things: reselling a booking app, building mobile apps, and a partnership with a print shop. Sales calls are already behind. What do you do?",
+        "el": "Μέσα σε έναν μήνα σου προτείνουν τρία πράγματα: να μεταπωλείς μια εφαρμογή ραντεβού, να φτιάχνεις mobile apps, και συνεργασία με ένα τυπογραφείο. Τα τηλέφωνα πωλήσεων έχουν ήδη μείνει πίσω. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Accept all three and work longer days", "el": "Τα δέχεσαι και τα τρία και δουλεύεις περισσότερες ώρες"},
+        {"en": "Say no to all three and protect your core", "el": "Λες όχι και στα τρία και προστατεύεις το βασικό σου"},
+        {"en": "Accept the one that pays most this month", "el": "Δέχεσαι αυτό που πληρώνει περισσότερο αυτόν τον μήνα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Focus is saying no to good ideas so that the few important things get your full attention.", "el": "Εστίαση είναι να λες όχι σε καλές ιδέες, ώστε τα λίγα σημαντικά να έχουν όλη σου την προσοχή."},
+      "idea": 10
+    },
+    {
+      "q": {
+        "en": "You finished a beautiful draft for a lawyer. You are about to send the link with a quick message full of typos, from your phone, late at night. What do you do?",
+        "el": "Τελείωσες ένα πανέμορφο draft για έναν δικηγόρο. Πας να στείλεις το link με ένα βιαστικό μήνυμα γεμάτο λάθη, από το κινητό, αργά το βράδυ. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Write a clean, careful message and send it in the morning", "el": "Γράφεις ένα καθαρό, προσεγμένο μήνυμα και το στέλνεις το πρωί"},
+        {"en": "Send it now, the site will speak for itself", "el": "Το στέλνεις τώρα, η ιστοσελίδα θα μιλήσει μόνη της"},
+        {"en": "Send only the link with no message at all", "el": "Στέλνεις μόνο το link χωρίς κανένα μήνυμα"}
+      ],
+      "answer": 0,
+      "why": {"en": "Impute: he will judge the site by the wrapper it arrives in. A sloppy message makes the work look sloppy.", "el": "Ο κόσμος κρίνει από το περιτύλιγμα: θα κρίνει την ιστοσελίδα από το πώς του έφτασε. Το πρόχειρο μήνυμα κάνει τη δουλειά να φαίνεται πρόχειρη."},
+      "idea": 4
+    },
+    {
+      "q": {
+        "en": "A collaborator delivers a homepage that is acceptable but far below what you know he can do. The client would probably not notice. What do you do?",
+        "el": "Ένας συνεργάτης παραδίδει μια αρχική σελίδα που είναι αποδεκτή αλλά πολύ κάτω από αυτό που ξέρεις ότι μπορεί. Ο πελάτης μάλλον δεν θα το προσέξει. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Let it pass to avoid an awkward talk", "el": "Το αφήνεις να περάσει για να αποφύγεις μια άβολη κουβέντα"},
+        {"en": "Fix it yourself quietly at night", "el": "Το διορθώνεις μόνος σου αθόρυβα το βράδυ"},
+        {"en": "Tell him plainly it is not his best, and why", "el": "Του λες καθαρά ότι δεν είναι το καλύτερό του, και γιατί"}
+      ],
+      "answer": 2,
+      "why": {"en": "A players stay A players when the bar stays high. Be direct about the work, respectful to the person.", "el": "Οι καλοί μένουν καλοί όταν ο πήχης μένει ψηλά. Ευθύς για τη δουλειά, με σεβασμό προς τον άνθρωπο."},
+      "idea": 8
+    },
+    {
+      "q": {
+        "en": "A new client, a physiotherapist, says «I have no idea what I want, you tell me». What do you do?",
+        "el": "Ένας νέος πελάτης, φυσικοθεραπευτής, σου λέει «δεν έχω ιδέα τι θέλω, πείτε μου εσείς». Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Send him a long questionnaire to fill in", "el": "Του στέλνεις ένα μεγάλο ερωτηματολόγιο να συμπληρώσει"},
+        {"en": "Wait until he decides what he wants", "el": "Περιμένεις ώσπου να αποφασίσει τι θέλει"},
+        {"en": "Build what you believe is right and show it", "el": "Φτιάχνεις αυτό που πιστεύεις σωστό και του το δείχνεις"}
+      ],
+      "answer": 2,
+      "why": {"en": "People do not know what they want until they see it. Show a real draft and let him react.", "el": "Οι άνθρωποι δεν ξέρουν τι θέλουν ώσπου να το δουν. Δείξε ένα πραγματικό draft και άφησέ τον να αντιδράσει."},
+      "idea": 6
+    },
+    {
+      "q": {
+        "en": "A dentist wants ten buttons in the menu, three pop-ups and a moving banner on his homepage. What do you do?",
+        "el": "Ένας οδοντίατρος θέλει δέκα κουμπιά στο μενού, τρία pop-up και ένα κινούμενο banner στην αρχική του σελίδα. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Explain that fewer choices bring more calls, and show it", "el": "Εξηγείς ότι λιγότερες επιλογές φέρνουν περισσότερα τηλεφωνήματα, και το δείχνεις"},
+        {"en": "Add everything, since he is paying", "el": "Τα βάζεις όλα, αφού πληρώνει"},
+        {"en": "Add half of them as a compromise", "el": "Βάζεις τα μισά, σαν συμβιβασμό"}
+      ],
+      "answer": 0,
+      "why": {"en": "Simplicity is the hard work of removing what is not essential, so that the one important action stands out.", "el": "Απλότητα είναι ο κόπος να αφαιρείς ό,τι δεν είναι ουσιώδες, ώστε να ξεχωρίζει η μία σημαντική ενέργεια."},
+      "idea": 5
+    },
+    {
+      "q": {
+        "en": "You have had a pain for two months. You tell yourself it will pass if you keep working and think positively. What do you do?",
+        "el": "Έχεις έναν πόνο εδώ και δύο μήνες. Λες στον εαυτό σου ότι θα περάσει αν συνεχίσεις να δουλεύεις και σκέφτεσαι θετικά. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Keep working, strong will beats everything", "el": "Συνεχίζεις τη δουλειά, η δυνατή θέληση τα νικά όλα"},
+        {"en": "Book a doctor's appointment this week", "el": "Κλείνεις ραντεβού σε γιατρό αυτή την εβδομάδα"},
+        {"en": "Look for a diet online that might cure it", "el": "Ψάχνεις στο ίντερνετ μια δίαιτα που ίσως το γιατρέψει"}
+      ],
+      "answer": 1,
+      "why": {"en": "This is Jobs's most costly mistake: willpower does not change medical facts. Face them early, with experts.", "el": "Αυτό είναι το πιο ακριβό λάθος του Jobs: η θέληση δεν αλλάζει τα ιατρικά γεγονότα. Αντιμετώπισέ τα νωρίς, με ειδικούς."},
+      "idea": 13
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "For Jobs, simplicity meant ignoring the complicated parts of a product.", "el": "Για τον Jobs, απλότητα σήμαινε να αγνοείς τα περίπλοκα σημεία ενός προϊόντος."},
+      "answer": false,
+      "why": {"en": "It meant conquering complexity through deep understanding, then removing the non-essential.", "el": "Σήμαινε να δαμάζεις την πολυπλοκότητα με βαθιά κατανόηση και μετά να αφαιρείς το μη ουσιώδες."}
+    },
+    {
+      "s": {"en": "Jobs stopped making the iPod mini while it was still a best-seller.", "el": "Ο Jobs σταμάτησε την παραγωγή του iPod mini ενώ ήταν ακόμα πρώτο σε πωλήσεις."},
+      "answer": true,
+      "why": {"en": "He replaced it with the nano in 2005: cannibalize yourself before someone else does.", "el": "Το αντικατέστησε με το nano το 2005: φάε εσύ το προϊόν σου πριν το φάει άλλος."}
+    },
+    {
+      "s": {"en": "Jobs relied on focus groups to decide what Apple should build.", "el": "Ο Jobs στηριζόταν σε focus groups για να αποφασίσει τι θα φτιάξει η Apple."},
+      "answer": false,
+      "why": {"en": "He believed people cannot ask for what they have never seen, so he trusted intuition and deep understanding.", "el": "Πίστευε ότι οι άνθρωποι δεν ζητούν αυτό που δεν έχουν δει ποτέ, άρα εμπιστευόταν τη διαίσθηση και τη βαθιά κατανόηση."}
+    },
+    {
+      "s": {"en": "«Impute» means that people judge a product by how it is presented.", "el": "«Impute» σημαίνει ότι οι άνθρωποι κρίνουν ένα προϊόν από το πώς παρουσιάζεται."},
+      "answer": true,
+      "why": {"en": "That is Markkula's principle: the packaging and presentation send signals about quality.", "el": "Αυτή είναι η αρχή του Markkula: η συσκευασία και η παρουσίαση στέλνουν σημάδια για την ποιότητα."}
+    },
+    {
+      "s": {"en": "When Jobs returned to Apple in 1997 he added many new product lines.", "el": "Όταν ο Jobs γύρισε στην Apple το 1997, πρόσθεσε πολλές νέες σειρές προϊόντων."},
+      "answer": false,
+      "why": {"en": "He cut most of them and kept four: one product for each box of a simple grid.", "el": "Έκοψε τα περισσότερα και κράτησε τέσσερα: ένα προϊόν για κάθε κουτί ενός απλού πίνακα."}
+    },
+    {
+      "s": {"en": "Jobs delayed his cancer surgery for about nine months to try alternative treatments.", "el": "Ο Jobs καθυστέρησε το χειρουργείο για τον καρκίνο περίπου εννέα μήνες για να δοκιμάσει εναλλακτικές θεραπείες."},
+      "answer": true,
+      "why": {"en": "Isaacson presents this as magical thinking, and Jobs later regretted it.", "el": "Ο Isaacson το παρουσιάζει ως μαγική σκέψη, και ο Jobs αργότερα το μετάνιωσε."}
+    },
+    {
+      "s": {"en": "The open model, licensing software to every device maker, was Jobs's favourite approach.", "el": "Το ανοιχτό μοντέλο, να δίνεις το λογισμικό σε κάθε κατασκευαστή συσκευών, ήταν η αγαπημένη προσέγγιση του Jobs."},
+      "answer": false,
+      "why": {"en": "He wanted to control hardware, software and services together, the closed «whole widget».", "el": "Ήθελε να ελέγχει μαζί μηχάνημα, λογισμικό και υπηρεσίες, δηλαδή όλο το κλειστό πακέτο."}
+    },
+    {
+      "s": {"en": "The years at NeXT and Pixar made Jobs a better leader when he returned.", "el": "Τα χρόνια στη NeXT και στην Pixar έκαναν τον Jobs καλύτερο ηγέτη όταν γύρισε."},
+      "answer": true,
+      "why": {"en": "Failure at NeXT and patience at Pixar taught him lessons he lacked in his first period at Apple.", "el": "Η αποτυχία στη NeXT και η υπομονή στην Pixar του έμαθαν όσα του έλειπαν στην πρώτη του περίοδο στην Apple."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Reality distortion field", "el": "Πεδίο παραμόρφωσης"}, "b": {"en": "Making people believe the impossible can be done", "el": "Κάνεις τους άλλους να πιστέψουν ότι το αδύνατο γίνεται"}},
+    {"a": {"en": "Impute", "el": "Η αρχή impute"}, "b": {"en": "People judge quality by the presentation", "el": "Ο κόσμος κρίνει την ποιότητα από την παρουσίαση"}},
+    {"a": {"en": "Walled garden", "el": "Περιφραγμένος κήπος"}, "b": {"en": "One company controls hardware, software and services", "el": "Μία εταιρεία ελέγχει μηχάνημα, λογισμικό και υπηρεσίες"}},
+    {"a": {"en": "Bozo explosion", "el": "Έκρηξη των bozos"}, "b": {"en": "Mediocre hires bring in even weaker hires", "el": "Οι μέτριοι φέρνουν ακόμα πιο αδύναμους"}},
+    {"a": {"en": "Magical thinking", "el": "Μαγική σκέψη"}, "b": {"en": "Hoping an unwanted fact disappears if you ignore it", "el": "Ελπίζεις ότι ένα γεγονός θα φύγει αν το αγνοήσεις"}},
+    {"a": {"en": "Cannibalize yourself", "el": "Αυτοκανιβαλισμός"}, "b": {"en": "Replace your own hit before a rival does", "el": "Αντικαθιστάς τη δική σου επιτυχία πριν από τον ανταγωνιστή"}}
+  ],
+  "missions": [
+    {"en": "Write the ten things you could do next in the business, cross out seven and keep three.", "el": "Γράψε τα δέκα πράγματα που θα μπορούσες να κάνεις μετά στη δουλειά, διάγραψε τα επτά και κράτα τρία."},
+    {"en": "Open your latest client site on a phone and remove one element that does not help the visitor decide.", "el": "Άνοιξε την τελευταία ιστοσελίδα πελάτη στο κινητό και αφαίρεσε ένα στοιχείο που δεν βοηθά τον επισκέπτη να αποφασίσει."},
+    {"en": "Rehearse out loud, twice, how you will present the next draft to a client, with the best part last.", "el": "Κάνε πρόβα φωναχτά, δύο φορές, το πώς θα παρουσιάσεις το επόμενο draft σε πελάτη, με το καλύτερο στο τέλος."},
+    {"en": "Check everything a prospect sees before your work, your messages, invoice and own site, and polish the weakest one.", "el": "Έλεγξε όλα όσα βλέπει ένας υποψήφιος πελάτης πριν από τη δουλειά σου, μηνύματα, τιμολόγιο και τη δική σου ιστοσελίδα, και φρόντισε το πιο αδύναμο."},
+    {"en": "Name one fact you have been avoiding and take the first step on it today.", "el": "Ονόμασε ένα γεγονός που αποφεύγεις και κάνε σήμερα το πρώτο βήμα γι' αυτό."}
+  ],
+  "mantra": {"en": "Say no to almost everything, and make the rest insanely good.", "el": "Πες όχι σχεδόν σε όλα, και κάνε τα υπόλοιπα εξωφρενικά καλά."},
+  "careful": {
+    "en": "This is one authorised biography, built on interviews in which people remember decades-old events. Some people who worked closely with Jobs, including Tim Cook and Jony Ive, said the book made him look harsher and smaller than he was. Do not conclude that cruelty made him successful: many colleagues say he succeeded despite it, and countless harsh bosses simply fail. His closed-system approach and his distrust of research also failed more than once.",
+    "el": "Πρόκειται για μία εξουσιοδοτημένη βιογραφία, χτισμένη σε συνεντεύξεις όπου άνθρωποι θυμούνται γεγονότα δεκαετιών. Κάποιοι στενοί συνεργάτες του Jobs, ανάμεσά τους ο Tim Cook και ο Jony Ive, είπαν ότι το βιβλίο τον έδειξε πιο σκληρό και πιο μικρό απ' ό,τι ήταν. Μη βγάλεις το συμπέρασμα ότι η σκληρότητα τον έκανε πετυχημένο: πολλοί συνεργάτες λένε ότι πέτυχε παρά τη σκληρότητα, και αμέτρητα σκληρά αφεντικά απλώς αποτυγχάνουν. Το κλειστό του σύστημα και η δυσπιστία του στην έρευνα απέτυχαν επίσης πάνω από μία φορά."
+  },
+  "connects": [
+    {"book": "zero-to-one", "note": {"en": "Thiel uses Apple as proof that a company wins by making something new and much better, not by copying.", "el": "Ο Thiel φέρνει την Apple ως απόδειξη ότι μια εταιρεία κερδίζει φτιάχνοντας κάτι νέο και πολύ καλύτερο, όχι αντιγράφοντας."}},
+    {"book": "be-2-0", "note": {"en": "Collins praises humble leaders, the opposite of Jobs's style, yet both agree on the right people first and on building a company that lasts.", "el": "Ο Collins επαινεί τους ταπεινούς ηγέτες, το αντίθετο από το στυλ του Jobs, όμως συμφωνούν ότι προηγούνται οι σωστοί άνθρωποι και ότι χτίζεις εταιρεία που θα μείνει."}},
+    {"book": "deep-work", "note": {"en": "Newport's rule of long, undisturbed concentration is the personal version of Jobs's rule of saying no to almost everything.", "el": "Ο κανόνας του Newport για πολύωρη συγκέντρωση χωρίς διακοπές είναι η προσωπική εκδοχή του κανόνα του Jobs να λέει όχι σχεδόν σε όλα."}}
+  ]
+}

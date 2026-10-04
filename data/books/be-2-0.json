@@ -1,0 +1,576 @@
+{
+  "id": "be-2-0",
+  "title": {"en": "BE 2.0 (Beyond Entrepreneurship 2.0)", "el": "BE 2.0: Πέρα από την επιχειρηματικότητα"},
+  "author": "Jim Collins & Bill Lazier",
+  "authorEl": "Τζιμ Κόλινς & Μπιλ Λέιζιερ",
+  "year": 2020,
+  "shelf": "business",
+  "skills": {"leadership": 3, "strategy": 3},
+  "oneLine": {
+    "en": "A small company becomes a great, lasting one through disciplined people, disciplined thinking and disciplined action, not through luck or one brilliant idea.",
+    "el": "Μια μικρή εταιρεία γίνεται σπουδαία και αντέχει στον χρόνο με πειθαρχημένους ανθρώπους, πειθαρχημένη σκέψη και πειθαρχημένη δράση, όχι με τύχη ή με μία λαμπρή ιδέα."
+  },
+  "story": {
+    "en": "In 1992 Jim Collins and his Stanford mentor Bill Lazier wrote Beyond Entrepreneurship, a guide for small companies that want to become great. In 2020 Collins republished it with new chapters that add everything he learned in thirty years of research: Good to Great, Built to Last, Great by Choice. Founders love it because it is written for small and mid-sized firms, not giants. Netflix founder Reed Hastings said he reread the original many times.",
+    "el": "Το 1992 ο Jim Collins και ο μέντοράς του στο Stanford, ο Bill Lazier, έγραψαν το Beyond Entrepreneurship, έναν οδηγό για μικρές εταιρείες που θέλουν να γίνουν σπουδαίες. Το 2020 ο Collins το ξαναέβγαλε με νέα κεφάλαια, όπου βάζει όσα έμαθε σε τριάντα χρόνια έρευνας: Good to Great, Built to Last, Great by Choice. Οι ιδρυτές το αγαπούν γιατί μιλά σε μικρές και μεσαίες εταιρείες, όχι σε κολοσσούς. Ο ιδρυτής του Netflix, Reed Hastings, έχει πει ότι διάβασε το αρχικό βιβλίο πολλές φορές."
+  },
+  "forYou": {
+    "en": "You have 200+ live sites, a tiny team and a wish to scale. This is exactly the stage the book is written for: the moment a founder who does everything himself must turn into the builder of a company. It gives you a clear order of work: first the right people, then one simple strategy, then steady execution, and values that stay the same while everything else changes.",
+    "el": "Έχεις 200+ ιστοσελίδες στον αέρα, μια πολύ μικρή ομάδα και θέλεις να μεγαλώσεις. Το βιβλίο γράφτηκε ακριβώς για αυτή τη φάση: τη στιγμή που ο ιδρυτής που τα κάνει όλα μόνος πρέπει να γίνει αυτός που χτίζει εταιρεία. Σου δίνει μια καθαρή σειρά: πρώτα οι σωστοί άνθρωποι, μετά μία απλή στρατηγική, μετά σταθερή εκτέλεση, και αξίες που μένουν ίδιες όσο όλα τα άλλα αλλάζουν."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Greatness is a choice", "el": "Το σπουδαίο είναι επιλογή"},
+      "explain": {
+        "en": "The main claim of the book: a company does not become great because of luck, a hot market or one genius idea. It becomes great because its people choose discipline and keep applying a few principles for years. Collins found that great companies did not have more good luck than the others. They simply did more with the luck they got, good or bad. He calls this «return on luck».",
+        "el": "Η βασική θέση του βιβλίου: μια εταιρεία δεν γίνεται σπουδαία από τύχη, από μια καυτή αγορά ή από μία ιδιοφυή ιδέα. Γίνεται σπουδαία επειδή οι άνθρωποί της διαλέγουν την πειθαρχία και εφαρμόζουν λίγες αρχές για χρόνια. Ο Collins βρήκε ότι οι σπουδαίες εταιρείες δεν είχαν περισσότερη καλή τύχη από τις άλλες. Απλώς έβγαλαν περισσότερα από την τύχη που τους έλαχε, καλή ή κακή. Αυτό το λέει «απόδοση της τύχης»."
+      },
+      "example": {
+        "en": "Southwest Airlines copied its whole model from a California airline called PSA. Both lived through the same fuel shocks, strikes and deregulation. Southwest kept its simple recipe with discipline and became the most consistently profitable US airline. PSA kept changing course, was sold in the late 1980s and the brand disappeared.",
+        "el": "Η Southwest Airlines αντέγραψε όλο το μοντέλο της από μια αεροπορική της Καλιφόρνιας, την PSA. Και οι δύο πέρασαν τις ίδιες κρίσεις καυσίμων, απεργίες και την απελευθέρωση της αγοράς. Η Southwest κράτησε με πειθαρχία την απλή συνταγή της και έγινε η πιο σταθερά κερδοφόρα αεροπορική των ΗΠΑ. Η PSA άλλαζε συνέχεια πορεία, πουλήθηκε στα τέλη της δεκαετίας του '80 και το όνομα χάθηκε."
+      },
+      "apply": {
+        "en": "Stop explaining a bad month with the market, the season or the algorithm. Write down the three things fully in your hands, for example calls per day, speed of delivery and follow-up with every lead, and judge yourself only on those. When something lucky happens, ask at once how to get the most out of it.",
+        "el": "Σταμάτα να εξηγείς έναν κακό μήνα με την αγορά, την εποχή ή τον αλγόριθμο. Γράψε τα τρία πράγματα που είναι εντελώς στο χέρι σου, για παράδειγμα κλήσεις την ημέρα, ταχύτητα παράδοσης και follow-up σε κάθε lead, και κρίνε τον εαυτό σου μόνο από αυτά. Όταν σου τύχει κάτι καλό, ρώτα αμέσως πώς θα το εκμεταλλευτείς στο έπακρο."
+      },
+      "check": {
+        "q": {"en": "What did Collins find about luck in great companies?", "el": "Τι βρήκε ο Collins για την τύχη στις σπουδαίες εταιρείες;"},
+        "options": [
+          {"en": "They had much more good luck than the rest", "el": "Είχαν πολύ περισσότερη καλή τύχη από τις άλλες"},
+          {"en": "They had similar luck but got more out of it", "el": "Είχαν παρόμοια τύχη, αλλά έβγαλαν περισσότερα από αυτήν"},
+          {"en": "Luck played no role at all in business", "el": "Η τύχη δεν παίζει κανέναν ρόλο στις επιχειρήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "The difference was not the amount of luck but the return on it, which comes from discipline.", "el": "Η διαφορά δεν ήταν πόση τύχη είχαν αλλά τι έκαναν με αυτήν, και αυτό βγαίνει από την πειθαρχία."}
+      }
+    },
+    {
+      "title": {"en": "Business is relationships", "el": "Η επιχείρηση είναι σχέσεις"},
+      "explain": {
+        "en": "This is the legacy of Bill Lazier, Collins's mentor. You can live life as a string of transactions, where you count what you get from each person. Or you can live it as relationships, where you invest in people for the long run. Bill chose to trust people first, before they proved themselves, and to treat everyone with dignity. He measured success by how many lives he changed for the better.",
+        "el": "Αυτή είναι η κληρονομιά του Bill Lazier, του μέντορα του Collins. Μπορείς να ζεις τη ζωή σαν μια σειρά από συναλλαγές, όπου μετράς τι παίρνεις από τον καθένα. Ή μπορείς να τη ζεις σαν σχέσεις, όπου επενδύεις στους ανθρώπους για πολλά χρόνια. Ο Bill διάλεγε να εμπιστεύεται πρώτος, πριν ο άλλος το αποδείξει, και να φέρεται σε όλους με αξιοπρέπεια. Μετρούσε την επιτυχία με το πόσες ζωές άλλαξε προς το καλύτερο."
+      },
+      "example": {
+        "en": "In 1988 Bill Lazier took a risk on a thirty-year-old Jim Collins with no record as a teacher and helped him get a course to teach at Stanford. That one act of trust started Collins's whole career. Collins says Bill did the same for hundreds of young people.",
+        "el": "Το 1988 ο Bill Lazier ρίσκαρε για έναν τριαντάχρονο Jim Collins που δεν είχε διδάξει ποτέ και τον βοήθησε να αναλάβει ένα μάθημα στο Stanford. Αυτή η μία πράξη εμπιστοσύνης ξεκίνησε όλη την καριέρα του Collins. Ο ίδιος λέει ότι ο Bill έκανε το ίδιο για εκατοντάδες νέους ανθρώπους."
+      },
+      "apply": {
+        "en": "Treat each client as a ten-year relationship, not a sale. Call a client three months after launch just to ask how the site is working, with nothing to sell. Give a new collaborator your trust from day one and say it out loud. If someone abuses it, stop working with that person, not with trust.",
+        "el": "Δες κάθε πελάτη σαν σχέση δέκα χρόνων, όχι σαν μία πώληση. Πάρε έναν πελάτη τηλέφωνο τρεις μήνες μετά το live μόνο για να ρωτήσεις πώς πάει η ιστοσελίδα, χωρίς να πουλήσεις τίποτα. Δώσε σε έναν νέο συνεργάτη την εμπιστοσύνη σου από την πρώτη μέρα και πες του το. Αν κάποιος την προδώσει, κόψε εκείνον, όχι την εμπιστοσύνη."
+      },
+      "check": {
+        "q": {"en": "How did Bill Lazier approach trust?", "el": "Πώς αντιμετώπιζε ο Bill Lazier την εμπιστοσύνη;"},
+        "options": [
+          {"en": "He gave it first and accepted the risk", "el": "Την έδινε πρώτος και δεχόταν το ρίσκο"},
+          {"en": "He gave it only after years of proof", "el": "Την έδινε μόνο μετά από χρόνια αποδείξεων"},
+          {"en": "He kept it for family and close friends", "el": "Την κρατούσε για την οικογένεια και τους φίλους"}
+        ],
+        "answer": 0,
+        "why": {"en": "He bet that trusting people first brings out their best, and that the gain is bigger than the occasional loss.", "el": "Πόνταρε ότι όταν εμπιστεύεσαι πρώτος βγάζεις το καλύτερο από τον άλλον, και ότι το κέρδος είναι μεγαλύτερο από τη σπάνια ζημιά."}
+      }
+    },
+    {
+      "title": {"en": "First who, then what", "el": "Πρώτα ποιος, μετά τι"},
+      "explain": {
+        "en": "A great vision with average people gives average results. So the first job of a leader is not strategy, it is people: get the right ones on the bus, the wrong ones off, and each one in the right seat. Then decide where to drive. Collins says the most important number in a company is the share of key seats filled with the right people. The right person needs to be guided, not tightly managed.",
+        "el": "Ένα σπουδαίο όραμα με μέτριους ανθρώπους δίνει μέτρια αποτελέσματα. Γι' αυτό η πρώτη δουλειά του ηγέτη δεν είναι η στρατηγική, είναι οι άνθρωποι: βάλε τους σωστούς στο λεωφορείο, κατέβασε τους λάθος και κάθισε τον καθένα στη σωστή θέση. Μετά αποφάσισε πού πάει το λεωφορείο. Ο Collins λέει ότι ο πιο σημαντικός αριθμός μιας εταιρείας είναι πόσες από τις θέσεις-κλειδιά έχουν τον σωστό άνθρωπο. Ο σωστός άνθρωπος θέλει κατεύθυνση, όχι στενό έλεγχο."
+      },
+      "example": {
+        "en": "At Wells Fargo in the 1970s, CEO Dick Cooley knew banking would change but not how. Instead of writing a plan, he kept hiring the best people he could find, often without a specific job for them. When deregulation hit, his team handled it better than almost any other American bank.",
+        "el": "Στη Wells Fargo τη δεκαετία του '70, ο διευθύνων σύμβουλος Dick Cooley ήξερε ότι ο τραπεζικός κλάδος θα άλλαζε, αλλά όχι πώς. Αντί να γράψει σχέδιο, προσλάμβανε συνεχώς τους καλύτερους που έβρισκε, συχνά χωρίς συγκεκριμένη θέση. Όταν ήρθε η απελευθέρωση της αγοράς, η ομάδα του τα κατάφερε καλύτερα από σχεδόν κάθε άλλη αμερικανική τράπεζα."
+      },
+      "apply": {
+        "en": "List the key seats of your agency: sales calls, building, client changes, ads, payments. Next to each write who sits there today and whether you would happily hire that person again. A seat with you in it by necessity counts as empty. Fill the weakest seat before you start any new project.",
+        "el": "Γράψε τις θέσεις-κλειδιά της εταιρείας σου: τηλεφωνικές πωλήσεις, κατασκευή, αλλαγές πελατών, διαφημίσεις, εισπράξεις. Δίπλα σε καθεμία σημείωσε ποιος κάθεται σήμερα και αν θα τον ξαναπροσλάμβανες με χαρά. Η θέση όπου κάθεσαι εσύ από ανάγκη μετρά ως άδεια. Γέμισε την πιο αδύναμη θέση πριν ξεκινήσεις οποιοδήποτε νέο project."
+      },
+      "check": {
+        "q": {"en": "What comes first according to Collins?", "el": "Τι έρχεται πρώτο σύμφωνα με τον Collins;"},
+        "options": [
+          {"en": "A detailed five-year strategy", "el": "Μια αναλυτική στρατηγική πενταετίας"},
+          {"en": "A big marketing budget", "el": "Ένα μεγάλο budget για διαφήμιση"},
+          {"en": "The right people in the key seats", "el": "Οι σωστοί άνθρωποι στις θέσεις-κλειδιά"}
+        ],
+        "answer": 2,
+        "why": {"en": "With the right people you can change direction when the world changes; with the wrong ones even a good plan fails.", "el": "Με τους σωστούς ανθρώπους αλλάζεις πορεία όταν αλλάζει ο κόσμος· με τους λάθος αποτυγχάνει ακόμα και το καλό σχέδιο."}
+      }
+    },
+    {
+      "title": {"en": "Level 5 leadership", "el": "Ηγέτης Επιπέδου 5"},
+      "explain": {
+        "en": "The leaders who turned good companies into great ones had a rare mix: personal humility and very strong will. Their ambition was huge, but it was for the company and its cause, not for themselves. When things went well they looked out of the window and gave credit to others and to luck. When things went badly they looked in the mirror and took the blame. They also prepared successors who could do even better.",
+        "el": "Οι ηγέτες που έκαναν καλές εταιρείες σπουδαίες είχαν ένα σπάνιο μείγμα: προσωπική ταπεινότητα και πολύ δυνατή θέληση. Η φιλοδοξία τους ήταν τεράστια, αλλά για την εταιρεία και τον σκοπό της, όχι για τον εαυτό τους. Όταν τα πράγματα πήγαιναν καλά, κοιτούσαν από το παράθυρο και έδιναν τα εύσημα στους άλλους και στην τύχη. Όταν πήγαιναν άσχημα, κοιτούσαν στον καθρέφτη και αναλάμβαναν την ευθύνη. Ετοίμαζαν και διαδόχους που θα τα πήγαιναν ακόμα καλύτερα."
+      },
+      "example": {
+        "en": "Darwin Smith, a shy in-house lawyer, became CEO of Kimberly-Clark in 1971. He made a brutal decision: he sold the paper mills, the heart of the old company, and put everything into consumer brands like Kleenex and Huggies. In twenty years the company beat its rivals, and he said he was just trying to become qualified for the job.",
+        "el": "Ο Darwin Smith, ένας ντροπαλός νομικός σύμβουλος, έγινε επικεφαλής της Kimberly-Clark το 1971. Πήρε μια σκληρή απόφαση: πούλησε τα εργοστάσια χαρτιού, την καρδιά της παλιάς εταιρείας, και τα έριξε όλα σε καταναλωτικά προϊόντα όπως τα Kleenex και τα Huggies. Σε είκοσι χρόνια η εταιρεία ξεπέρασε τους ανταγωνιστές της, κι εκείνος έλεγε ότι απλώς προσπαθούσε να γίνει άξιος της θέσης."
+      },
+      "apply": {
+        "en": "Change how you speak about results. When a month goes well, name the person who made it happen, in front of the team. When a site is delivered late or a client leaves angry, say first what you did wrong before you look at anyone else. Ask yourself whether a decision serves Advon or just your ego.",
+        "el": "Άλλαξε τον τρόπο που μιλάς για τα αποτελέσματα. Όταν ένας μήνας πάει καλά, πες μπροστά στην ομάδα ποιος το έκανε να γίνει. Όταν μια ιστοσελίδα παραδοθεί αργά ή ένας πελάτης φύγει θυμωμένος, πες πρώτα τι έκανες εσύ λάθος πριν κοιτάξεις οποιονδήποτε άλλον. Ρώτα τον εαυτό σου αν μια απόφαση υπηρετεί την Advon ή μόνο τον εγωισμό σου."
+      },
+      "check": {
+        "q": {"en": "What defines a Level 5 leader?", "el": "Τι χαρακτηρίζει τον ηγέτη Επιπέδου 5;"},
+        "options": [
+          {"en": "Charisma and a famous personal brand", "el": "Χάρισμα και διάσημο προσωπικό όνομα"},
+          {"en": "Humility together with iron will for the cause", "el": "Ταπεινότητα μαζί με σιδερένια θέληση για τον σκοπό"},
+          {"en": "Kindness that avoids hard decisions", "el": "Καλοσύνη που αποφεύγει τις δύσκολες αποφάσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Humble does not mean soft: these leaders made very hard choices, but for the company and not for themselves.", "el": "Ταπεινός δεν σημαίνει μαλακός: αυτοί οι ηγέτες πήραν πολύ σκληρές αποφάσεις, αλλά για την εταιρεία και όχι για τον εαυτό τους."}
+      }
+    },
+    {
+      "title": {"en": "Function over form", "el": "Η ουσία πάνω από το στυλ"},
+      "explain": {
+        "en": "There is no single correct personality for a leader. Some great leaders are loud and charming, others quiet and reserved. Style is the form. What matters is the function: does the leader make a clear vision felt, decide in time, stay focused on a few priorities, stay close to people, give honest feedback and keep the company moving forward? Do not copy somebody else's style. Do the job of a leader in your own way.",
+        "el": "Δεν υπάρχει μία σωστή προσωπικότητα για ηγέτη. Κάποιοι σπουδαίοι ηγέτες είναι θορυβώδεις και γοητευτικοί, άλλοι ήσυχοι και συγκρατημένοι. Το στυλ είναι η μορφή. Αυτό που μετρά είναι η λειτουργία: κάνει ο ηγέτης το όραμα καθαρό, αποφασίζει έγκαιρα, μένει σε λίγες προτεραιότητες, είναι κοντά στους ανθρώπους, δίνει ειλικρινές feedback και κρατά την εταιρεία σε κίνηση; Μην αντιγράφεις το στυλ κάποιου άλλου. Κάνε τη δουλειά του ηγέτη με τον δικό σου τρόπο."
+      },
+      "example": {
+        "en": "Sam Walton of Walmart was a showman: in 1984 he danced the hula on Wall Street after losing a bet to his employees. William McKnight, who built 3M over decades, was soft-spoken and almost invisible. Two opposite personalities, and both built companies that became great and outlived them.",
+        "el": "Ο Sam Walton της Walmart ήταν σόουμαν: το 1984 χόρεψε χούλα στη Wall Street επειδή έχασε ένα στοίχημα με τους υπαλλήλους του. Ο William McKnight, που έχτισε την 3M μέσα σε δεκαετίες, ήταν χαμηλών τόνων και σχεδόν αόρατος. Δύο αντίθετοι χαρακτήρες, και οι δύο έχτισαν εταιρείες που έγιναν σπουδαίες και τους ξεπέρασαν σε διάρκεια."
+      },
+      "apply": {
+        "en": "Stop asking whether you look like a leader and start checking whether you act like one. Each Friday answer three questions on paper: Did the team know this week's one priority? Did I decide quickly where a decision was needed? Did I tell someone clearly what was good and what was not?",
+        "el": "Σταμάτα να αναρωτιέσαι αν μοιάζεις με ηγέτη και έλεγξε αν φέρεσαι σαν ηγέτης. Κάθε Παρασκευή απάντησε γραπτά σε τρεις ερωτήσεις: Ήξερε η ομάδα τη μία προτεραιότητα της εβδομάδας; Αποφάσισα γρήγορα εκεί που χρειαζόταν απόφαση; Είπα σε κάποιον καθαρά τι ήταν καλό και τι όχι;"
+      },
+      "check": {
+        "q": {"en": "What does «function over form» mean for leadership?", "el": "Τι σημαίνει «η ουσία πάνω από το στυλ» στην ηγεσία;"},
+        "options": [
+          {"en": "Only extroverts can lead a company well", "el": "Μόνο οι εξωστρεφείς μπορούν να ηγηθούν σωστά"},
+          {"en": "A leader should copy a proven famous style", "el": "Ο ηγέτης πρέπει να αντιγράψει ένα γνωστό στυλ"},
+          {"en": "Effective action matters, not personality type", "el": "Μετρά η αποτελεσματική πράξη, όχι ο τύπος χαρακτήρα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Great leaders have very different personalities; what they share is that they do what leadership requires.", "el": "Οι σπουδαίοι ηγέτες έχουν πολύ διαφορετικούς χαρακτήρες· κοινό τους είναι ότι κάνουν αυτό που απαιτεί η ηγεσία."}
+      }
+    },
+    {
+      "title": {"en": "Core values and purpose", "el": "Αξίες και σκοπός που δεν αλλάζουν"},
+      "explain": {
+        "en": "A lasting company needs a foundation that never changes. It has two parts. Core values: three to five beliefs you would keep even if they cost you money. Purpose: the reason the company exists beyond profit, something you can chase for a hundred years and never finish. Everything else, products, prices, tools and methods, must be free to change. Values are not invented for a poster. You discover them by looking at how you already behave.",
+        "el": "Μια εταιρεία που αντέχει χρειάζεται ένα θεμέλιο που δεν αλλάζει ποτέ. Έχει δύο μέρη. Βασικές αξίες: τρεις με πέντε πεποιθήσεις που θα κρατούσες ακόμα κι αν σου κόστιζαν χρήματα. Σκοπός: ο λόγος που υπάρχει η εταιρεία πέρα από το κέρδος, κάτι που μπορείς να κυνηγάς εκατό χρόνια χωρίς να τελειώσει. Όλα τα άλλα, προϊόντα, τιμές, εργαλεία και μέθοδοι, πρέπει να μπορούν να αλλάζουν. Τις αξίες δεν τις εφευρίσκεις για μια αφίσα. Τις ανακαλύπτεις κοιτώντας πώς φέρεσαι ήδη."
+      },
+      "example": {
+        "en": "Johnson & Johnson's written credo puts patients and doctors before shareholders. In 1982, when poisoned Tylenol capsules killed seven people in Chicago, the company pulled about 31 million bottles from the shelves at a cost of around 100 million dollars. The decision was fast because the values were already clear.",
+        "el": "Το γραπτό «πιστεύω» της Johnson & Johnson βάζει τους ασθενείς και τους γιατρούς πριν από τους μετόχους. Το 1982, όταν δηλητηριασμένες κάψουλες Tylenol σκότωσαν επτά ανθρώπους στο Σικάγο, η εταιρεία απέσυρε περίπου 31 εκατομμύρια φιαλίδια, με κόστος γύρω στα 100 εκατομμύρια δολάρια. Η απόφαση πάρθηκε γρήγορα γιατί οι αξίες ήταν ήδη ξεκάθαρες."
+      },
+      "apply": {
+        "en": "Write three values you already live by, for example «we never put fake reviews on a site» or «we never promise what the client's business cannot back up». Test each one: would you keep it if it lost you a sale? Then write one sentence on why Advon exists beyond money, and use both when you hire.",
+        "el": "Γράψε τρεις αξίες που ήδη τηρείς, για παράδειγμα «δεν βάζουμε ποτέ ψεύτικες κριτικές σε ιστοσελίδα» ή «δεν υποσχόμαστε κάτι που η δουλειά του πελάτη δεν μπορεί να στηρίξει». Τέσταρε την καθεμία: θα την κρατούσες αν σου κόστιζε μια πώληση; Μετά γράψε σε μία πρόταση γιατί υπάρχει η Advon πέρα από τα χρήματα, και χρησιμοποίησέ τα όταν προσλαμβάνεις."
+      },
+      "check": {
+        "q": {"en": "How do you know something is a real core value?", "el": "Πώς ξέρεις ότι κάτι είναι πραγματική βασική αξία;"},
+        "options": [
+          {"en": "You would keep it even when it costs you", "el": "Θα την κρατούσες ακόμα κι όταν σου κοστίζει"},
+          {"en": "It sounds impressive to your clients", "el": "Ακούγεται εντυπωσιακή στους πελάτες σου"},
+          {"en": "Your strongest competitors also list it", "el": "Την αναφέρουν και οι δυνατοί ανταγωνιστές σου"}
+        ],
+        "answer": 0,
+        "why": {"en": "A value you drop when it becomes expensive was a slogan, not a value.", "el": "Μια αξία που την παρατάς όταν γίνει ακριβή ήταν σύνθημα, όχι αξία."}
+      }
+    },
+    {
+      "title": {"en": "The BHAG", "el": "Ο τεράστιος, τολμηρός στόχος"},
+      "explain": {
+        "en": "On top of the fixed foundation you put an envisioned future: a BHAG, a Big Hairy Audacious Goal. It is one huge, clear target, ten to twenty-five years away, that you have maybe a 50 to 70 percent chance of reaching. It must be so simple that everyone understands it without explanation, and so exciting that it pulls people forward. Add a vivid description of what life looks like when you get there.",
+        "el": "Πάνω στο σταθερό θεμέλιο βάζεις το μέλλον που οραματίζεσαι: ένα BHAG, δηλαδή έναν τεράστιο, τολμηρό στόχο. Είναι ένας μεγάλος, καθαρός προορισμός, δέκα με είκοσι πέντε χρόνια μακριά, που έχεις ίσως 50 με 70 τοις εκατό πιθανότητες να πετύχεις. Πρέπει να είναι τόσο απλός που να τον καταλαβαίνουν όλοι χωρίς εξηγήσεις, και τόσο συναρπαστικός που να τραβά τους ανθρώπους μπροστά. Πρόσθεσε και μια ζωντανή περιγραφή του πώς θα είναι η ζωή όταν φτάσεις."
+      },
+      "example": {
+        "en": "In 1961 President Kennedy said the United States should land a man on the Moon and bring him back safely before the decade ended. Nobody needed a committee to explain the goal. It focused hundreds of thousands of people, and in July 1969 Apollo 11 landed.",
+        "el": "Το 1961 ο πρόεδρος Kennedy είπε ότι οι Ηνωμένες Πολιτείες πρέπει να στείλουν άνθρωπο στη Σελήνη και να τον φέρουν πίσω ασφαλή πριν τελειώσει η δεκαετία. Κανείς δεν χρειάστηκε επιτροπή για να καταλάβει τον στόχο. Συγκέντρωσε την προσπάθεια εκατοντάδων χιλιάδων ανθρώπων, και τον Ιούλιο του 1969 το Apollo 11 προσεληνώθηκε."
+      },
+      "apply": {
+        "en": "Write one BHAG for Advon in a single line with a number and a year, for example a specific count of live sites or a clear position among Greek professionals by a set date. Say it to your team and put it where you see it daily. If it does not scare you a little, make it bigger.",
+        "el": "Γράψε ένα BHAG για την Advon σε μία γραμμή, με αριθμό και χρονιά, για παράδειγμα συγκεκριμένο πλήθος ιστοσελίδων στον αέρα ή μια καθαρή θέση ανάμεσα στους Έλληνες επαγγελματίες ως μια ορισμένη ημερομηνία. Πες το στην ομάδα σου και βάλ' το κάπου που το βλέπεις κάθε μέρα. Αν δεν σε τρομάζει λίγο, μεγάλωσέ το."
+      },
+      "check": {
+        "q": {"en": "Which of these is a good BHAG?", "el": "Ποιο από αυτά είναι καλό BHAG;"},
+        "options": [
+          {"en": "Improve our service a little every year", "el": "Να βελτιώνουμε λίγο την εξυπηρέτηση κάθε χρόνο"},
+          {"en": "One clear, daring target with a date", "el": "Ένας καθαρός, τολμηρός στόχος με ημερομηνία"},
+          {"en": "A list of twenty goals for this quarter", "el": "Μια λίστα με είκοσι στόχους για το τρίμηνο"}
+        ],
+        "answer": 1,
+        "why": {"en": "A BHAG is single, huge, clear and has a finish line, like the Moon landing.", "el": "Το BHAG είναι ένα, τεράστιο, καθαρό και έχει γραμμή τερματισμού, όπως η προσελήνωση."}
+      }
+    },
+    {
+      "title": {"en": "The genius of the AND", "el": "Η ιδιοφυΐα του ΚΑΙ"},
+      "explain": {
+        "en": "Average companies believe they must choose: low cost OR high quality, freedom OR control, profit OR purpose, short term OR long term. Collins calls this the tyranny of the OR. Great companies refuse the choice and find a way to have both at the same time. The most important pair is this one: keep your core values untouched AND keep changing everything else. Stability and progress together, not one against the other.",
+        "el": "Οι μέτριες εταιρείες πιστεύουν ότι πρέπει να διαλέξουν: χαμηλό κόστος Ή υψηλή ποιότητα, ελευθερία Ή έλεγχος, κέρδος Ή σκοπός, σήμερα Ή αύριο. Ο Collins το λέει τυραννία του Ή. Οι σπουδαίες εταιρείες αρνούνται το δίλημμα και βρίσκουν τρόπο να έχουν και τα δύο μαζί. Το πιο σημαντικό ζευγάρι είναι αυτό: κράτα τις βασικές σου αξίες ανέγγιχτες ΚΑΙ άλλαζε συνέχεια όλα τα υπόλοιπα. Σταθερότητα και πρόοδος μαζί, όχι το ένα εναντίον του άλλου."
+      },
+      "example": {
+        "en": "3M ran tight financial controls and at the same time let its scientists spend about 15 percent of their time on their own ideas. That freedom inside discipline produced the Post-it note, which grew from a glue that did not stick well and one employee's wish for a better bookmark.",
+        "el": "Η 3M είχε αυστηρό οικονομικό έλεγχο και ταυτόχρονα άφηνε τους επιστήμονές της να αφιερώνουν περίπου το 15 τοις εκατό του χρόνου τους σε δικές τους ιδέες. Αυτή η ελευθερία μέσα στην πειθαρχία έβγαλε το Post-it, που γεννήθηκε από μια κόλλα που δεν κολλούσε καλά και από την ανάγκη ενός υπαλλήλου για καλύτερο σελιδοδείκτη."
+      },
+      "apply": {
+        "en": "Catch yourself each time you say «either... or». Either fast or beautiful? Either cheap or premium? Either many clients or good service? Write the dilemma down and spend ten minutes asking how to get both. Your own offer already does it: no build fee AND a site that looks expensive.",
+        "el": "Πιάσε τον εαυτό σου κάθε φορά που λες «ή το ένα ή το άλλο». Ή γρήγορα ή όμορφα; Ή φθηνά ή premium; Ή πολλοί πελάτες ή καλή εξυπηρέτηση; Γράψε το δίλημμα και αφιέρωσε δέκα λεπτά στο πώς θα έχεις και τα δύο. Η ίδια σου η προσφορά το κάνει ήδη: μηδέν κόστος κατασκευής ΚΑΙ ιστοσελίδα που δείχνει ακριβή."
+      },
+      "check": {
+        "q": {"en": "What is the «tyranny of the OR»?", "el": "Τι είναι η «τυραννία του Ή»;"},
+        "options": [
+          {"en": "Having too many products at the same time", "el": "Να έχεις πάρα πολλά προϊόντα ταυτόχρονα"},
+          {"en": "Letting the team vote on every decision", "el": "Να ψηφίζει η ομάδα για κάθε απόφαση"},
+          {"en": "Believing you must pick one of two good things", "el": "Να πιστεύεις ότι πρέπει να διαλέξεις ένα από δύο καλά"}
+        ],
+        "answer": 2,
+        "why": {"en": "Great companies look for the way to get both, for example fixed values and constant change.", "el": "Οι σπουδαίες εταιρείες ψάχνουν πώς θα έχουν και τα δύο, για παράδειγμα σταθερές αξίες και συνεχή αλλαγή."}
+      }
+    },
+    {
+      "title": {"en": "Face the brutal facts", "el": "Κοίτα την ωμή αλήθεια"},
+      "explain": {
+        "en": "Disciplined thinking starts with honesty. You must look at the hard facts of your situation exactly as they are, without softening them. At the same time you must keep total faith that you will win in the end. Collins calls this mix the Stockdale Paradox. Blind optimism fails, because it breaks when reality does not obey. Build a climate where people can tell you bad news without fear.",
+        "el": "Η πειθαρχημένη σκέψη ξεκινά από την ειλικρίνεια. Πρέπει να βλέπεις τα σκληρά δεδομένα της κατάστασής σου ακριβώς όπως είναι, χωρίς να τα ωραιοποιείς. Ταυτόχρονα πρέπει να κρατάς απόλυτη πίστη ότι στο τέλος θα νικήσεις. Αυτό το μείγμα ο Collins το λέει Παράδοξο του Stockdale. Η τυφλή αισιοδοξία αποτυγχάνει, γιατί σπάει όταν η πραγματικότητα δεν υπακούει. Φτιάξε κλίμα όπου οι άνθρωποι σου λένε τα κακά νέα χωρίς φόβο."
+      },
+      "example": {
+        "en": "Admiral Jim Stockdale was a prisoner of war in Vietnam for more than seven years and was tortured many times. He told Collins that the men who did not make it were the optimists who kept saying «we will be out by Christmas». He never doubted the end, but he never lied to himself about the present.",
+        "el": "Ο ναύαρχος Jim Stockdale έμεινε αιχμάλωτος πολέμου στο Βιετνάμ πάνω από επτά χρόνια και βασανίστηκε πολλές φορές. Είπε στον Collins ότι όσοι δεν άντεξαν ήταν οι αισιόδοξοι που έλεγαν συνέχεια «ως τα Χριστούγεννα θα έχουμε βγει». Ο ίδιος δεν αμφέβαλε ποτέ για το τέλος, αλλά δεν είπε ποτέ ψέματα στον εαυτό του για το παρόν."
+      },
+      "apply": {
+        "en": "Once a month write your five brutal facts in numbers: how many calls for one meeting, how many meetings for one sale, how many clients did not renew and why, how much one lead from ads costs, how many days a build really takes. Then write one action for the worst number.",
+        "el": "Μία φορά τον μήνα γράψε τις πέντε ωμές αλήθειες σου με αριθμούς: πόσες κλήσεις για ένα ραντεβού, πόσα ραντεβού για μία πώληση, πόσοι πελάτες δεν ανανέωσαν και γιατί, πόσο κοστίζει ένα lead από διαφήμιση, πόσες μέρες παίρνει στ' αλήθεια μια κατασκευή. Μετά γράψε μία ενέργεια για τον χειρότερο αριθμό."
+      },
+      "check": {
+        "q": {"en": "What does the Stockdale Paradox ask of you?", "el": "Τι σου ζητά το Παράδοξο του Stockdale;"},
+        "options": [
+          {"en": "Faith in the end plus honesty about today", "el": "Πίστη για το τέλος και ειλικρίνεια για το σήμερα"},
+          {"en": "Positive thinking that ignores bad news", "el": "Θετική σκέψη που αγνοεί τα κακά νέα"},
+          {"en": "Expecting the worst so nothing surprises you", "el": "Να περιμένεις το χειρότερο για να μην εκπλαγείς"}
+        ],
+        "answer": 0,
+        "why": {"en": "Both halves are needed: faith without facts is fantasy, facts without faith is despair.", "el": "Χρειάζονται και τα δύο μισά: πίστη χωρίς δεδομένα είναι φαντασίωση, δεδομένα χωρίς πίστη είναι απόγνωση."}
+      }
+    },
+    {
+      "title": {"en": "The Hedgehog Concept", "el": "Η ιδέα του σκαντζόχοιρου"},
+      "explain": {
+        "en": "The fox knows many tricks, the hedgehog knows one big thing and wins. A great company finds its one big thing where three circles meet. One: what you are deeply passionate about. Two: what you can be the best in the world at, and just as important, what you cannot. Three: what drives your economic engine, measured by one number, profit per something. Then say no to everything outside the three circles.",
+        "el": "Η αλεπού ξέρει πολλά κόλπα, ο σκαντζόχοιρος ξέρει ένα μεγάλο πράγμα και κερδίζει. Μια σπουδαία εταιρεία βρίσκει το ένα μεγάλο της πράγμα εκεί που συναντιούνται τρεις κύκλοι. Ένα: αυτό για το οποίο έχεις βαθύ πάθος. Δύο: αυτό στο οποίο μπορείς να γίνεις ο καλύτερος στον κόσμο, και εξίσου σημαντικό, αυτό στο οποίο δεν μπορείς. Τρία: αυτό που κινεί την οικονομική σου μηχανή, μετρημένο με έναν αριθμό, κέρδος ανά κάτι. Μετά λες όχι σε ό,τι είναι έξω από τους τρεις κύκλους."
+      },
+      "example": {
+        "en": "Walgreens decided it would be the best, most convenient drugstore, and nothing else. It switched its key number from profit per store to profit per customer visit. That let it open many stores close together on good corners. For twenty-five years its stock beat the general market many times over.",
+        "el": "Η Walgreens αποφάσισε ότι θα είναι το καλύτερο, πιο βολικό φαρμακείο-κατάστημα, και τίποτα άλλο. Άλλαξε τον βασικό της αριθμό από κέρδος ανά κατάστημα σε κέρδος ανά επίσκεψη πελάτη. Έτσι μπόρεσε να ανοίγει πολλά καταστήματα κοντά το ένα στο άλλο, σε καλές γωνίες. Για είκοσι πέντε χρόνια η μετοχή της ξεπέρασε την αγορά πολλές φορές."
+      },
+      "apply": {
+        "en": "Draw the three circles for Advon. Passion: what part of the work you love. Best at: perhaps fast, beautiful sites for Greek professionals with no build fee. Engine: one number, for example yearly profit per live site. Then name one service or type of client that sits outside the circles and stop taking it.",
+        "el": "Σχεδίασε τους τρεις κύκλους για την Advon. Πάθος: ποιο κομμάτι της δουλειάς αγαπάς. Καλύτερος: ίσως γρήγορες, όμορφες ιστοσελίδες για Έλληνες επαγγελματίες χωρίς κόστος κατασκευής. Μηχανή: ένας αριθμός, για παράδειγμα ετήσιο κέρδος ανά ενεργή ιστοσελίδα. Μετά ονόμασε μία υπηρεσία ή έναν τύπο πελάτη που μένει έξω από τους κύκλους και σταμάτα να τον αναλαμβάνεις."
+      },
+      "check": {
+        "q": {"en": "Which three circles form the Hedgehog Concept?", "el": "Ποιοι τρεις κύκλοι φτιάχνουν την ιδέα του σκαντζόχοιρου;"},
+        "options": [
+          {"en": "Price, promotion and product", "el": "Τιμή, προώθηση και προϊόν"},
+          {"en": "Passion, best in the world, economic engine", "el": "Πάθος, καλύτερος στον κόσμο, οικονομική μηχανή"},
+          {"en": "Growth, hiring and new markets", "el": "Ανάπτυξη, προσλήψεις και νέες αγορές"}
+        ],
+        "answer": 1,
+        "why": {"en": "The one big thing sits where what you love, what you can be best at and what pays all overlap.", "el": "Το ένα μεγάλο πράγμα βρίσκεται εκεί που συμπίπτουν αυτό που αγαπάς, αυτό που κάνεις καλύτερα και αυτό που φέρνει κέρδος."}
+      }
+    },
+    {
+      "title": {"en": "The flywheel", "el": "Ο σφόνδυλος"},
+      "explain": {
+        "en": "Picture a huge, heavy wheel. The first push barely moves it. You keep pushing in the same direction and it turns a little faster each time, until its own weight works for you. Great companies are built like this: no single miracle moment, just many good decisions that feed each other in a loop. The opposite is the doom loop: jumping from one new programme to the next and losing all momentum.",
+        "el": "Φαντάσου έναν τεράστιο, βαρύ τροχό. Η πρώτη σπρωξιά σχεδόν δεν τον κουνά. Συνεχίζεις να σπρώχνεις προς την ίδια κατεύθυνση και κάθε φορά γυρίζει λίγο πιο γρήγορα, ώσπου το ίδιο του το βάρος δουλεύει για σένα. Έτσι χτίζονται οι σπουδαίες εταιρείες: καμία στιγμή-θαύμα, μόνο πολλές καλές αποφάσεις που τροφοδοτούν η μία την άλλη σε κύκλο. Το αντίθετο είναι ο φαύλος κύκλος: πηδάς από το ένα νέο σχέδιο στο άλλο και χάνεις όλη τη φόρα."
+      },
+      "example": {
+        "en": "In 2001 Collins worked with Jeff Bezos and his team on Amazon's flywheel. Lower prices bring more customers. More customers attract more outside sellers. More sales spread the fixed costs, which allows even lower prices. Amazon kept pushing this same loop for the next two decades.",
+        "el": "Το 2001 ο Collins δούλεψε με τον Jeff Bezos και την ομάδα του πάνω στον σφόνδυλο της Amazon. Χαμηλότερες τιμές φέρνουν περισσότερους πελάτες. Περισσότεροι πελάτες τραβούν περισσότερους τρίτους πωλητές. Περισσότερες πωλήσεις μοιράζουν τα σταθερά κόστη, άρα επιτρέπουν ακόμα χαμηλότερες τιμές. Η Amazon έσπρωχνε τον ίδιο κύκλο για τις επόμενες δύο δεκαετίες."
+      },
+      "apply": {
+        "en": "Write your flywheel in five steps that lead into each other, for example: beautiful site, happy client, Google review and referral, new sites in the portfolio, easier sale, more renewals, money to make the next sites even better. Before any new idea ask: does it speed up this wheel or is it a new wheel?",
+        "el": "Γράψε τον σφόνδυλό σου σε πέντε βήματα που το ένα οδηγεί στο άλλο, για παράδειγμα: όμορφη ιστοσελίδα, ευχαριστημένος πελάτης, κριτική στο Google και σύσταση, νέα δείγματα στο portfolio, πιο εύκολη πώληση, περισσότερες ανανεώσεις, χρήματα για ακόμα καλύτερες ιστοσελίδες. Πριν από κάθε νέα ιδέα ρώτα: επιταχύνει αυτόν τον τροχό ή είναι άλλος τροχός;"
+      },
+      "check": {
+        "q": {"en": "How does a flywheel build greatness?", "el": "Πώς χτίζει το σπουδαίο ένας σφόνδυλος;"},
+        "options": [
+          {"en": "By steady pushes in one direction that add up", "el": "Με σταθερές σπρωξιές προς μία κατεύθυνση που αθροίζονται"},
+          {"en": "By one dramatic launch that changes everything", "el": "Με ένα εντυπωσιακό λανσάρισμα που τα αλλάζει όλα"},
+          {"en": "By changing strategy whenever results slow down", "el": "Με αλλαγή στρατηγικής κάθε φορά που πέφτουν τα νούμερα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Momentum comes from consistency; changing direction again and again is the doom loop.", "el": "Η φόρα έρχεται από τη συνέπεια· το να αλλάζεις συνέχεια κατεύθυνση είναι ο φαύλος κύκλος."}
+      }
+    },
+    {
+      "title": {"en": "The 20 Mile March", "el": "Η πορεία των 20 μιλίων"},
+      "explain": {
+        "en": "Choose a concrete performance mark and hit it every single period, in good times and in bad. It has two sides. A lower limit: you deliver it even when conditions are awful. An upper limit: you do not go far beyond it even when conditions are perfect, so you do not exhaust yourself. The mark must be mostly under your own control. Steady progress beats heroic sprints followed by collapse.",
+        "el": "Διάλεξε έναν συγκεκριμένο δείκτη απόδοσης και πιάσε τον κάθε περίοδο, στα εύκολα και στα δύσκολα. Έχει δύο πλευρές. Ένα κάτω όριο: το πετυχαίνεις ακόμα κι όταν οι συνθήκες είναι άθλιες. Ένα πάνω όριο: δεν το ξεπερνάς κατά πολύ ακόμα κι όταν όλα είναι ιδανικά, για να μην εξαντληθείς. Ο δείκτης πρέπει να εξαρτάται κυρίως από εσένα. Η σταθερή πρόοδος νικά τα ηρωικά σπριντ που τελειώνουν με κατάρρευση."
+      },
+      "example": {
+        "en": "In the 1911 race to the South Pole, Roald Amundsen's team marched about fifteen to twenty miles a day, whatever the weather, and rested even on good days. Robert Scott's team pushed hard in fine weather and stayed in the tents in bad. Amundsen reached the Pole first and returned safely. Scott's team died on the way back.",
+        "el": "Στην κούρσα για τον Νότιο Πόλο το 1911, η ομάδα του Roald Amundsen βάδιζε περίπου δεκαπέντε με είκοσι μίλια την ημέρα, με όποιον καιρό, και ξεκουραζόταν ακόμα και τις καλές μέρες. Η ομάδα του Robert Scott πίεζε πολύ με καλό καιρό και έμενε στις σκηνές με κακό. Ο Amundsen έφτασε πρώτος στον Πόλο και γύρισε ασφαλής. Η ομάδα του Scott πέθανε στον δρόμο της επιστροφής."
+      },
+      "apply": {
+        "en": "Set your march: for example forty cold calls every working day and two delivered sites every week. Do the forty calls on the day you feel terrible. Stop near forty on the day everything flows, and use the rest for delivery. Mark each day on a visible calendar and do not break the chain.",
+        "el": "Όρισε την πορεία σου: για παράδειγμα σαράντα cold calls κάθε εργάσιμη και δύο παραδομένες ιστοσελίδες κάθε εβδομάδα. Κάνε τις σαράντα κλήσεις και τη μέρα που νιώθεις χάλια. Σταμάτα κοντά στις σαράντα τη μέρα που όλα κυλούν, και δώσε τον υπόλοιπο χρόνο στις παραδόσεις. Σημείωνε κάθε μέρα σε ένα ημερολόγιο που βλέπεις και μη σπάσεις την αλυσίδα."
+      },
+      "check": {
+        "q": {"en": "What is special about a 20 Mile March target?", "el": "Τι το ιδιαίτερο έχει ο στόχος στην πορεία των 20 μιλίων;"},
+        "options": [
+          {"en": "You raise it sharply whenever business is good", "el": "Τον ανεβάζεις απότομα όποτε πάει καλά η δουλειά"},
+          {"en": "You skip it when the conditions are bad", "el": "Τον παραλείπεις όταν οι συνθήκες είναι κακές"},
+          {"en": "It has a floor and also a ceiling", "el": "Έχει κάτω όριο αλλά και πάνω όριο"}
+        ],
+        "answer": 2,
+        "why": {"en": "You hit it in bad times and hold back in good times, so you never burn out or overreach.", "el": "Τον πιάνεις στα δύσκολα και συγκρατείσαι στα εύκολα, ώστε να μην καείς και να μην απλωθείς υπερβολικά."}
+      }
+    },
+    {
+      "title": {"en": "Bullets, then cannonballs", "el": "Πρώτα σφαίρες, μετά κανονιές"},
+      "explain": {
+        "en": "You have limited gunpowder. If you fire a big cannonball at once and miss, you have nothing left. So first fire bullets: small, cheap, low-risk tests. Watch what they hit. When a bullet proves with real results that the aim is right, gather your resources and fire the cannonball. Two mistakes are equally bad: betting big with no proof, and never betting big after the proof is in.",
+        "el": "Έχεις περιορισμένο μπαρούτι. Αν ρίξεις κατευθείαν μια μεγάλη κανονιά και αστοχήσεις, δεν σου μένει τίποτα. Γι' αυτό ρίχνεις πρώτα σφαίρες: μικρές, φθηνές δοκιμές με χαμηλό ρίσκο. Βλέπεις τι πετυχαίνουν. Όταν μια σφαίρα αποδείξει με πραγματικά αποτελέσματα ότι η σκόπευση είναι σωστή, μαζεύεις τις δυνάμεις σου και ρίχνεις την κανονιά. Δύο λάθη είναι εξίσου κακά: να ποντάρεις μεγάλα χωρίς απόδειξη, και να μην ποντάρεις ποτέ μεγάλα αφού έχεις την απόδειξη."
+      },
+      "example": {
+        "en": "Apple's iPod of 2001 was a bullet: a music player that worked only with Mac computers, a small market. It sold, people loved it, and Apple learned. Then came the cannonballs: a version for Windows and the iTunes Store in 2003. Apple became the leader of digital music.",
+        "el": "Το iPod της Apple το 2001 ήταν σφαίρα: μια συσκευή μουσικής που δούλευε μόνο με υπολογιστές Mac, δηλαδή μικρή αγορά. Πούλησε, άρεσε, και η Apple έμαθε. Μετά ήρθαν οι κανονιές: έκδοση για Windows και το iTunes Store το 2003. Η Apple έγινε η πρώτη δύναμη στην ψηφιακή μουσική."
+      },
+      "apply": {
+        "en": "Test every new idea small before you spend real money. Run a new ad angle with a tiny daily budget for one week. Try a new cold-call opening on twenty calls. Offer a new service to five existing clients. Only when the numbers are clearly better put the full budget and your time behind it.",
+        "el": "Δοκίμαζε κάθε νέα ιδέα σε μικρή κλίμακα πριν ξοδέψεις σοβαρά χρήματα. Τρέξε μια νέα διαφημιστική ιδέα με μικρό ημερήσιο budget για μία εβδομάδα. Δοκίμασε μια νέα εισαγωγή σε είκοσι cold calls. Πρότεινε μια νέα υπηρεσία σε πέντε υπάρχοντες πελάτες. Μόνο όταν τα νούμερα είναι καθαρά καλύτερα ρίξε όλο το budget και τον χρόνο σου εκεί."
+      },
+      "check": {
+        "q": {"en": "When do you fire the cannonball?", "el": "Πότε ρίχνεις την κανονιά;"},
+        "options": [
+          {"en": "As soon as you feel sure about the idea", "el": "Μόλις νιώσεις σίγουρος για την ιδέα"},
+          {"en": "After small tests show real results", "el": "Αφού οι μικρές δοκιμές δείξουν πραγματικά αποτελέσματα"},
+          {"en": "Never, because big bets are too risky", "el": "Ποτέ, γιατί τα μεγάλα στοιχήματα έχουν πολύ ρίσκο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Proof from cheap tests comes first; then you must commit big, or the test was wasted.", "el": "Πρώτα η απόδειξη από φθηνές δοκιμές· μετά πρέπει να ποντάρεις μεγάλα, αλλιώς η δοκιμή πήγε χαμένη."}
+      }
+    },
+    {
+      "title": {"en": "Productive paranoia", "el": "Παραγωγική παράνοια"},
+      "explain": {
+        "en": "The leaders of the most resilient companies assume that conditions will turn against them, suddenly and at the worst moment. They do not freeze from fear. They turn it into preparation: big cash reserves, buffers of time, limits on risk, plans for what could go wrong. Collins found these companies held several times more cash relative to their size than their rivals. The only mistakes you can learn from are the ones you survive.",
+        "el": "Οι ηγέτες των πιο ανθεκτικών εταιρειών θεωρούν δεδομένο ότι οι συνθήκες θα γυρίσουν εναντίον τους, ξαφνικά και στη χειρότερη στιγμή. Δεν παγώνουν από τον φόβο. Τον κάνουν προετοιμασία: μεγάλα ταμειακά αποθέματα, περιθώρια χρόνου, όρια στο ρίσκο, σχέδια για ό,τι μπορεί να πάει στραβά. Ο Collins βρήκε ότι αυτές οι εταιρείες κρατούσαν πολλαπλάσια μετρητά σε σχέση με το μέγεθός τους από τους ανταγωνιστές. Μόνο από τα λάθη στα οποία επιβιώνεις μπορείς να μάθεις."
+      },
+      "example": {
+        "en": "Bill Gates insisted that Microsoft keep enough cash in the bank to pay everyone for a full year even with zero income. In 1991, at a time of great success, he wrote a memo listing every threat that could destroy the company. The fear kept Microsoft alert and safe.",
+        "el": "Ο Bill Gates επέμενε η Microsoft να έχει αρκετά μετρητά στην τράπεζα για να πληρώνει όλους επί έναν ολόκληρο χρόνο ακόμα και με μηδενικά έσοδα. Το 1991, σε περίοδο μεγάλης επιτυχίας, έγραψε ένα σημείωμα με κάθε απειλή που θα μπορούσε να καταστρέψει την εταιρεία. Ο φόβος κράτησε τη Microsoft σε εγρήγορση και ασφαλή."
+      },
+      "apply": {
+        "en": "Build a reserve that covers at least six months of your fixed costs and do not touch it for growth. Then write your three biggest single points of failure, for example one platform for all sites, one ad account, one person who knows everything, and prepare a backup for each this month.",
+        "el": "Χτίσε ένα απόθεμα που καλύπτει τουλάχιστον έξι μήνες από τα σταθερά σου έξοδα και μην το αγγίζεις για ανάπτυξη. Μετά γράψε τα τρία μεγαλύτερα σημεία όπου αν χαλάσει ένα πράγμα πέφτουν όλα, για παράδειγμα μία πλατφόρμα για όλες τις ιστοσελίδες, ένας διαφημιστικός λογαριασμός, ένας άνθρωπος που τα ξέρει όλα, και ετοίμασε εναλλακτική για το καθένα μέσα στον μήνα."
+      },
+      "check": {
+        "q": {"en": "What makes paranoia «productive»?", "el": "Τι κάνει την παράνοια «παραγωγική»;"},
+        "options": [
+          {"en": "It stops you from taking any risk at all", "el": "Σε εμποδίζει να πάρεις οποιοδήποτε ρίσκο"},
+          {"en": "It makes you distrust your own team", "el": "Σε κάνει να μην εμπιστεύεσαι την ομάδα σου"},
+          {"en": "It becomes reserves and plans before the storm", "el": "Γίνεται αποθέματα και σχέδια πριν από την καταιγίδα"}
+        ],
+        "answer": 2,
+        "why": {"en": "The worry is useful only when it turns into concrete preparation while times are still good.", "el": "Η ανησυχία είναι χρήσιμη μόνο όταν γίνεται συγκεκριμένη προετοιμασία όσο τα πράγματα πάνε ακόμα καλά."}
+      }
+    },
+    {
+      "title": {"en": "Tactical excellence", "el": "Αριστεία στην εκτέλεση"},
+      "explain": {
+        "en": "Vision and strategy are worth nothing if the daily work is sloppy. Great companies are obsessive about details and deliver the same high level every time. The book gives a chain: hire people who care, teach them your values, train them well, agree clear goals, measure, and show appreciation. Collins later added the idea of a short recipe of specific, concrete practices that you keep consistent for years and change only rarely.",
+        "el": "Το όραμα και η στρατηγική δεν αξίζουν τίποτα αν η καθημερινή δουλειά είναι πρόχειρη. Οι σπουδαίες εταιρείες έχουν εμμονή με τις λεπτομέρειες και παραδίδουν το ίδιο ψηλό επίπεδο κάθε φορά. Το βιβλίο δίνει μια αλυσίδα: προσλάμβανε ανθρώπους που νοιάζονται, δίδαξέ τους τις αξίες σου, εκπαίδευσέ τους σωστά, συμφωνήστε καθαρούς στόχους, μέτρα, και δείξε αναγνώριση. Αργότερα ο Collins πρόσθεσε την ιδέα μιας σύντομης συνταγής από συγκεκριμένες πρακτικές που τις κρατάς σταθερές για χρόνια και τις αλλάζεις σπάνια."
+      },
+      "example": {
+        "en": "John Wooden won ten national titles with the UCLA basketball team. At the first practice of every season he taught his star players how to put on their socks and tie their shoes correctly. Wrinkled socks cause blisters, blisters cause missed practices, and missed practices lose games.",
+        "el": "Ο John Wooden κέρδισε δέκα εθνικούς τίτλους με την ομάδα μπάσκετ του UCLA. Στην πρώτη προπόνηση κάθε σεζόν μάθαινε στους αστέρες του πώς να φορούν σωστά τις κάλτσες και να δένουν τα παπούτσια τους. Οι τσαλακωμένες κάλτσες φέρνουν φουσκάλες, οι φουσκάλες χαμένες προπονήσεις, και οι χαμένες προπονήσεις χαμένους αγώνες."
+      },
+      "apply": {
+        "en": "Write your delivery recipe as a checklist of ten concrete points that every site must pass before a client sees it: phone link works, mobile view checked, Greek text read aloud, forms tested, photos sharp. Use the same list on every single site, and let nobody, including you, skip a point.",
+        "el": "Γράψε τη συνταγή παράδοσής σου ως checklist με δέκα συγκεκριμένα σημεία που πρέπει να περνά κάθε ιστοσελίδα πριν τη δει ο πελάτης: το τηλέφωνο πατιέται, το κινητό ελέγχθηκε, τα ελληνικά διαβάστηκαν φωναχτά, οι φόρμες δοκιμάστηκαν, οι φωτογραφίες είναι καθαρές. Χρησιμοποίησε την ίδια λίστα σε κάθε ιστοσελίδα, και κανείς, ούτε εσύ, δεν παραλείπει σημείο."
+      },
+      "check": {
+        "q": {"en": "Why does tactical excellence matter so much?", "el": "Γιατί μετρά τόσο η αριστεία στην εκτέλεση;"},
+        "options": [
+          {"en": "A great vision fails if daily details are sloppy", "el": "Ένα σπουδαίο όραμα αποτυγχάνει αν οι λεπτομέρειες είναι πρόχειρες"},
+          {"en": "Details matter more than having any vision", "el": "Οι λεπτομέρειες μετρούν περισσότερο από κάθε όραμα"},
+          {"en": "Clients only notice the small mistakes", "el": "Οι πελάτες προσέχουν μόνο τα μικρά λάθη"}
+        ],
+        "answer": 0,
+        "why": {"en": "The book wants both: vision gives direction, and consistent execution of details makes it real.", "el": "Το βιβλίο θέλει και τα δύο: το όραμα δίνει κατεύθυνση, και η συνεπής εκτέλεση στις λεπτομέρειες το κάνει πραγματικότητα."}
+      }
+    },
+    {
+      "title": {"en": "The Map: build a clock", "el": "Ο Χάρτης: φτιάξε ρολόι"},
+      "explain": {
+        "en": "Collins puts all his research into one map with four stages. Disciplined people: Level 5 leaders and the right people on the bus. Disciplined thought: the genius of the AND, the brutal facts, the hedgehog. Disciplined action: the flywheel, the 20 Mile March, bullets then cannonballs. Building to last: productive paranoia, and building a clock instead of telling the time. That means building a company that works without you, and that keeps its core while it keeps improving.",
+        "el": "Ο Collins βάζει όλη του την έρευνα σε έναν χάρτη με τέσσερα στάδια. Πειθαρχημένοι άνθρωποι: ηγέτες Επιπέδου 5 και οι σωστοί άνθρωποι στο λεωφορείο. Πειθαρχημένη σκέψη: η ιδιοφυΐα του ΚΑΙ, η ωμή αλήθεια, ο σκαντζόχοιρος. Πειθαρχημένη δράση: ο σφόνδυλος, η πορεία των 20 μιλίων, σφαίρες και μετά κανονιές. Χτίσιμο για να αντέξει: παραγωγική παράνοια, και να φτιάχνεις ρολόι αντί να λες την ώρα. Δηλαδή να χτίζεις εταιρεία που δουλεύει χωρίς εσένα, και που κρατά τον πυρήνα της ενώ βελτιώνεται συνεχώς."
+      },
+      "example": {
+        "en": "Bill Hewlett and Dave Packard started in a garage in 1939 with no great product idea. They tried many things, from an audio device sold to Disney to a bowling-alley sensor. Their real creation was the company itself and its way of working, which kept producing new products for decades after them.",
+        "el": "Ο Bill Hewlett και ο Dave Packard ξεκίνησαν σε ένα γκαράζ το 1939 χωρίς καμία σπουδαία ιδέα για προϊόν. Δοκίμασαν πολλά, από μια συσκευή ήχου που πούλησαν στη Disney μέχρι έναν αισθητήρα για αίθουσες μπόουλινγκ. Το πραγματικό τους δημιούργημα ήταν η ίδια η εταιρεία και ο τρόπος που δούλευε, που έβγαζε νέα προϊόντα για δεκαετίες μετά από αυτούς."
+      },
+      "apply": {
+        "en": "Find where you are on the map and work on the earliest weak stage, because each stage rests on the one before. Then pick one task that only you can do today, such as closing sales or checking every site, and write it down so clearly that another person could do it next month.",
+        "el": "Βρες πού είσαι στον χάρτη και δούλεψε το πιο πρώιμο αδύναμο στάδιο, γιατί κάθε στάδιο πατά στο προηγούμενο. Μετά διάλεξε μία δουλειά που σήμερα μόνο εσύ μπορείς να κάνεις, όπως το κλείσιμο πωλήσεων ή ο έλεγχος κάθε ιστοσελίδας, και γράψε την τόσο καθαρά που να μπορεί να την κάνει άλλος τον επόμενο μήνα."
+      },
+      "check": {
+        "q": {"en": "What does «build a clock, don't tell the time» mean?", "el": "Τι σημαίνει «φτιάξε ρολόι, μη λες την ώρα»;"},
+        "options": [
+          {"en": "Keep a strict schedule for every working day", "el": "Να κρατάς αυστηρό πρόγραμμα κάθε εργάσιμη μέρα"},
+          {"en": "Build a company that works without you", "el": "Να χτίσεις εταιρεία που δουλεύει και χωρίς εσένα"},
+          {"en": "Be the one genius who has every answer", "el": "Να είσαι η μία ιδιοφυΐα που έχει κάθε απάντηση"}
+        ],
+        "answer": 1,
+        "why": {"en": "A leader who has all the answers tells the time; a leader who builds a lasting organisation builds the clock.", "el": "Ο ηγέτης που έχει όλες τις απαντήσεις λέει την ώρα· αυτός που χτίζει οργανισμό με διάρκεια φτιάχνει το ρολόι."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {
+        "en": "You want to launch a new service, online shops, and you think of spending three months of budget on ads for it at once. What do you do?",
+        "el": "Θέλεις να βγάλεις νέα υπηρεσία, e-shop, και σκέφτεσαι να ρίξεις κατευθείαν το διαφημιστικό budget τριών μηνών. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Spend it all now to enter the market first", "el": "Τα ρίχνεις όλα τώρα για να μπεις πρώτος στην αγορά"},
+        {"en": "Sell it to a few clients first, then decide", "el": "Το πουλάς πρώτα σε λίγους πελάτες και μετά αποφασίζεις"},
+        {"en": "Drop the idea because it is too risky", "el": "Αφήνεις την ιδέα γιατί έχει πολύ ρίσκο"}
+      ],
+      "answer": 1,
+      "why": {"en": "Fire a bullet first. When a few real sales prove the aim, fire the cannonball.", "el": "Ρίξε πρώτα σφαίρα. Όταν λίγες πραγματικές πωλήσεις αποδείξουν τη σκόπευση, ρίξε την κανονιά."},
+      "idea": 12
+    },
+    {
+      "q": {
+        "en": "A collaborator is talented but keeps delivering late and you redo his work at night. You have told him twice. What do you do?",
+        "el": "Ένας συνεργάτης έχει ταλέντο, αλλά παραδίδει συνέχεια αργά και ξαναφτιάχνεις τη δουλειά του τα βράδια. Του το έχεις πει δύο φορές. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Accept that this seat has the wrong person and change it", "el": "Δέχεσαι ότι η θέση έχει λάθος άνθρωπο και την αλλάζεις"},
+        {"en": "Keep him and check each task more closely", "el": "Τον κρατάς και ελέγχεις πιο στενά κάθε δουλειά"},
+        {"en": "Write a new growth strategy to motivate him", "el": "Γράφεις νέα στρατηγική ανάπτυξης για να τον εμπνεύσεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "First who. If a person needs tight managing, the seat is filled wrongly, and no strategy fixes that.", "el": "Πρώτα ποιος. Αν κάποιος θέλει στενό έλεγχο, η θέση έχει γεμίσει λάθος, και καμία στρατηγική δεν το διορθώνει."},
+      "idea": 2
+    },
+    {
+      "q": {
+        "en": "September is your best month ever. Leads pour in and you could sell twice as many sites as your team can build well. What do you do?",
+        "el": "Ο Σεπτέμβριος είναι ο καλύτερος μήνας σου ως τώρα. Τα leads πέφτουν βροχή και θα μπορούσες να πουλήσεις τις διπλάσιες ιστοσελίδες από όσες χτίζει σωστά η ομάδα. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Sell everything now and fix quality later", "el": "Πουλάς τα πάντα τώρα και φτιάχνεις την ποιότητα μετά"},
+        {"en": "Stop the ads fully until the queue is empty", "el": "Σταματάς εντελώς τις διαφημίσεις ώσπου να αδειάσει η ουρά"},
+        {"en": "Keep to the pace you can deliver well and build capacity", "el": "Κρατάς τον ρυθμό που παραδίδεις σωστά και χτίζεις δυναμικότητα"}
+      ],
+      "answer": 2,
+      "why": {"en": "The 20 Mile March has a ceiling too. Overreaching in good times is how companies break.", "el": "Η πορεία των 20 μιλίων έχει και πάνω όριο. Έτσι σπάνε οι εταιρείες: απλώνονται υπερβολικά στις καλές εποχές."},
+      "idea": 11
+    },
+    {
+      "q": {
+        "en": "A restaurant owner asks you to also run his social media, shoot videos and print menus. It is good money but far from what you do best. What do you do?",
+        "el": "Ένας εστιάτορας σου ζητά να του τρέχεις και τα social, να γυρίζεις βίντεο και να τυπώνεις μενού. Είναι καλά λεφτά, αλλά μακριά από αυτό που κάνεις καλύτερα. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Take it all, since more income is always good", "el": "Τα παίρνεις όλα, αφού τα περισσότερα έσοδα είναι πάντα καλά"},
+        {"en": "Take it once to see how it goes", "el": "Το αναλαμβάνεις μία φορά να δεις πώς θα πάει"},
+        {"en": "Say no and stay inside your three circles", "el": "Λες όχι και μένεις μέσα στους τρεις κύκλους σου"}
+      ],
+      "answer": 2,
+      "why": {"en": "The Hedgehog Concept is mostly a tool for saying no to work that is outside your one big thing.", "el": "Η ιδέα του σκαντζόχοιρου είναι κυρίως εργαλείο για να λες όχι σε δουλειές έξω από το ένα μεγάλο σου πράγμα."},
+      "idea": 9
+    },
+    {
+      "q": {
+        "en": "Renewals dropped this year. A friend says «don't look at it, stay positive, it will pass». What do you do?",
+        "el": "Οι ανανεώσεις έπεσαν φέτος. Ένας φίλος σου λέει «μην το κοιτάς, μείνε θετικός, θα περάσει». Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Count exactly who left and why, and still trust you will fix it", "el": "Μετράς ακριβώς ποιοι έφυγαν και γιατί, και πιστεύεις ότι θα το λύσεις"},
+        {"en": "Follow the advice and focus only on new sales", "el": "Ακολουθείς τη συμβουλή και κοιτάς μόνο νέες πωλήσεις"},
+        {"en": "Decide the model is broken and plan to close", "el": "Αποφασίζεις ότι το μοντέλο χάλασε και σχεδιάζεις να κλείσεις"}
+      ],
+      "answer": 0,
+      "why": {"en": "The Stockdale Paradox: brutal facts and unbroken faith together, never one without the other.", "el": "Το Παράδοξο του Stockdale: ωμή αλήθεια και ακλόνητη πίστη μαζί, ποτέ το ένα χωρίς το άλλο."},
+      "idea": 8
+    },
+    {
+      "q": {
+        "en": "A friend from the army asks you for an introduction to a client of yours. You gain nothing from it. What do you do?",
+        "el": "Ένας φίλος από τον στρατό σου ζητά να τον συστήσεις σε έναν πελάτη σου. Εσύ δεν κερδίζεις τίποτα. Τι κάνεις;"
+      },
+      "options": [
+        {"en": "Ask what he can offer you in return first", "el": "Ρωτάς πρώτα τι μπορεί να σου δώσει ως αντάλλαγμα"},
+        {"en": "Make the introduction gladly and expect nothing", "el": "Κάνεις τη σύσταση με χαρά και δεν περιμένεις τίποτα"},
+        {"en": "Avoid it, because clients are only for business", "el": "Το αποφεύγεις, γιατί οι πελάτες είναι μόνο για δουλειά"}
+      ],
+      "answer": 1,
+      "why": {"en": "Bill Lazier's lesson: live by relationships, not transactions. Help without keeping score.", "el": "Το μάθημα του Bill Lazier: ζήσε με σχέσεις, όχι με συναλλαγές. Βοήθα χωρίς να κρατάς λογαριασμό."},
+      "idea": 1
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Collins says great companies simply had more good luck than the others.", "el": "Ο Collins λέει ότι οι σπουδαίες εταιρείες απλώς είχαν περισσότερη καλή τύχη από τις άλλες."},
+      "answer": false,
+      "why": {"en": "They had similar luck. They got a higher return on it through discipline.", "el": "Είχαν παρόμοια τύχη. Απλώς την αξιοποίησαν καλύτερα χάρη στην πειθαρχία."}
+    },
+    {
+      "s": {"en": "A Level 5 leader is ambitious first for the company, not for himself.", "el": "Ο ηγέτης Επιπέδου 5 είναι φιλόδοξος πρώτα για την εταιρεία, όχι για τον εαυτό του."},
+      "answer": true,
+      "why": {"en": "That is the definition: personal humility combined with fierce will for the cause.", "el": "Αυτός είναι ο ορισμός: προσωπική ταπεινότητα μαζί με άγρια θέληση για τον σκοπό."}
+    },
+    {
+      "s": {"en": "On a 20 Mile March you go as far as you can on the good days.", "el": "Στην πορεία των 20 μιλίων προχωράς όσο πιο πολύ μπορείς τις καλές μέρες."},
+      "answer": false,
+      "why": {"en": "The march has an upper limit too. You hold back in good times to keep your strength.", "el": "Η πορεία έχει και πάνω όριο. Συγκρατείσαι στα εύκολα για να κρατήσεις δυνάμεις."}
+    },
+    {
+      "s": {"en": "Core values should stay fixed while strategies and methods keep changing.", "el": "Οι βασικές αξίες μένουν σταθερές, ενώ οι στρατηγικές και οι μέθοδοι αλλάζουν συνέχεια."},
+      "answer": true,
+      "why": {"en": "Preserve the core and stimulate progress: this is the central AND of the book.", "el": "Κράτα τον πυρήνα και σπρώξε την πρόοδο: αυτό είναι το κεντρικό ΚΑΙ του βιβλίου."}
+    },
+    {
+      "s": {"en": "According to the book, a company needs a charismatic leader to become great.", "el": "Σύμφωνα με το βιβλίο, μια εταιρεία χρειάζεται χαρισματικό ηγέτη για να γίνει σπουδαία."},
+      "answer": false,
+      "why": {"en": "Function over form: quiet and loud leaders both succeed, if they do what leadership requires.", "el": "Η ουσία πάνω από το στυλ: πετυχαίνουν και οι ήσυχοι και οι θορυβώδεις, αν κάνουν ό,τι απαιτεί η ηγεσία."}
+    },
+    {
+      "s": {"en": "The flywheel gains speed from many pushes in the same direction over time.", "el": "Ο σφόνδυλος παίρνει ταχύτητα από πολλές σπρωξιές προς την ίδια κατεύθυνση μέσα στον χρόνο."},
+      "answer": true,
+      "why": {"en": "There is no single breakthrough moment; momentum is the sum of consistent effort.", "el": "Δεν υπάρχει μία στιγμή που αλλάζουν όλα· η φόρα είναι το άθροισμα της συνεπούς προσπάθειας."}
+    },
+    {
+      "s": {"en": "The Hedgehog Concept tells you to offer as many services as possible.", "el": "Η ιδέα του σκαντζόχοιρου σου λέει να προσφέρεις όσο περισσότερες υπηρεσίες μπορείς."},
+      "answer": false,
+      "why": {"en": "It is the opposite: one big thing where passion, being the best and the economic engine meet.", "el": "Το αντίθετο: ένα μεγάλο πράγμα εκεί που συναντιούνται το πάθος, το «καλύτερος» και η οικονομική μηχανή."}
+    },
+    {
+      "s": {"en": "Productive paranoia means building cash reserves while times are still good.", "el": "Παραγωγική παράνοια σημαίνει να χτίζεις ταμειακά αποθέματα όσο τα πράγματα πάνε ακόμα καλά."},
+      "answer": true,
+      "why": {"en": "You prepare before the storm, because you cannot predict when it comes.", "el": "Προετοιμάζεσαι πριν από την καταιγίδα, γιατί δεν μπορείς να προβλέψεις πότε θα έρθει."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "BHAG", "el": "Στόχος BHAG"}, "b": {"en": "One huge, daring goal ten or more years away", "el": "Ένας τεράστιος, τολμηρός στόχος σε δέκα και πλέον χρόνια"}},
+    {"a": {"en": "Flywheel", "el": "Σφόνδυλος"}, "b": {"en": "Momentum from steady pushes in one direction", "el": "Φόρα από σταθερές σπρωξιές προς μία κατεύθυνση"}},
+    {"a": {"en": "Hedgehog Concept", "el": "Ιδέα του σκαντζόχοιρου"}, "b": {"en": "Passion, best in the world, economic engine", "el": "Πάθος, καλύτερος στον κόσμο, οικονομική μηχανή"}},
+    {"a": {"en": "Level 5 leader", "el": "Ηγέτης Επιπέδου 5"}, "b": {"en": "Humble person with iron will for the cause", "el": "Ταπεινός άνθρωπος με σιδερένια θέληση για τον σκοπό"}},
+    {"a": {"en": "Stockdale Paradox", "el": "Παράδοξο του Stockdale"}, "b": {"en": "Face brutal facts and keep faith you will win", "el": "Βλέπεις την ωμή αλήθεια και πιστεύεις ότι θα νικήσεις"}},
+    {"a": {"en": "Clock building", "el": "Φτιάχνω ρολόι"}, "b": {"en": "Building a company that works without its founder", "el": "Χτίζω εταιρεία που δουλεύει χωρίς τον ιδρυτή της"}}
+  ],
+  "missions": [
+    {"en": "Write three core values you already live by and test each one: would you keep it if it cost you a sale?", "el": "Γράψε τρεις βασικές αξίες που ήδη τηρείς και τέσταρε καθεμία: θα την κρατούσες αν σου κόστιζε μια πώληση;"},
+    {"en": "List the key seats of your agency and mark which ones have the right person today.", "el": "Κατάγραψε τις θέσεις-κλειδιά της εταιρείας σου και σημείωσε ποιες έχουν σήμερα τον σωστό άνθρωπο."},
+    {"en": "Draw your flywheel on one page in five steps and stick it above your desk.", "el": "Σχεδίασε τον σφόνδυλό σου σε μία σελίδα με πέντε βήματα και κόλλησέ τον πάνω από το γραφείο σου."},
+    {"en": "Choose your 20 Mile March number for calls per day and hit it exactly for five days in a row.", "el": "Διάλεξε τον αριθμό σου για την πορεία των 20 μιλίων σε κλήσεις την ημέρα και πιάσε τον ακριβώς πέντε μέρες στη σειρά."},
+    {"en": "Call one past client just to ask how things are going, with nothing to sell.", "el": "Πάρε τηλέφωνο έναν παλιό πελάτη μόνο για να ρωτήσεις πώς πάει, χωρίς να πουλήσεις τίποτα."}
+  ],
+  "mantra": {"en": "Right people, one clear aim, twenty miles every day.", "el": "Σωστοί άνθρωποι, ένας καθαρός στόχος, είκοσι μίλια κάθε μέρα."},
+  "careful": {
+    "en": "Collins studies companies that already won and looks back for what they had in common. That risks survivorship bias: other firms may have done the same things and failed. Several of his «great» companies later fell, such as Circuit City, which went bankrupt, and Fannie Mae. Critics like Phil Rosenzweig say success itself colours how we describe a company. Use the ideas as good discipline, not as proven laws.",
+    "el": "Ο Collins μελετά εταιρείες που ήδη νίκησαν και ψάχνει εκ των υστέρων τι είχαν κοινό. Εδώ κρύβεται η προκατάληψη της επιβίωσης: άλλες εταιρείες μπορεί να έκαναν τα ίδια και να απέτυχαν. Αρκετές από τις «σπουδαίες» του έπεσαν αργότερα, όπως η Circuit City, που χρεοκόπησε, και η Fannie Mae. Επικριτές όπως ο Phil Rosenzweig λένε ότι η ίδια η επιτυχία χρωματίζει το πώς περιγράφουμε μια εταιρεία. Δες τις ιδέες ως καλή πειθαρχία, όχι ως αποδεδειγμένους νόμους."
+  },
+  "connects": [
+    {"book": "e-myth", "note": {"en": "Gerber shows how to build systems so the business runs without you; Collins calls the same goal building a clock.", "el": "Ο Gerber δείχνει πώς στήνεις συστήματα ώστε η επιχείρηση να τρέχει χωρίς εσένα· ο Collins λέει τον ίδιο στόχο «φτιάξε ρολόι»."}},
+    {"book": "zero-to-one", "note": {"en": "Thiel bets on one bold secret and a monopoly; Collins says discipline matters more than the brilliant idea.", "el": "Ο Thiel ποντάρει σε ένα τολμηρό μυστικό και στο μονοπώλιο· ο Collins λέει ότι η πειθαρχία μετρά περισσότερο από τη λαμπρή ιδέα."}},
+    {"book": "who-not-how", "note": {"en": "Both books say the same thing first: find the right person before you plan the work.", "el": "Και τα δύο βιβλία λένε πρώτα το ίδιο πράγμα: βρες τον σωστό άνθρωπο πριν σχεδιάσεις τη δουλειά."}}
+  ]
+}

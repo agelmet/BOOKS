@@ -1,0 +1,558 @@
+{
+  "id": "deep-work",
+  "title": {"en": "Deep Work", "el": "Deep Work: Βαθιά Εργασία"},
+  "author": "Cal Newport",
+  "authorEl": "Καλ Νιούπορτ",
+  "year": 2016,
+  "shelf": "focus",
+  "skills": {"focus": 3, "strategy": 2, "mindset": 1},
+  "oneLine": {
+    "en": "Long, undistracted concentration is becoming rare and very valuable, so whoever trains it and protects it produces better work in less time.",
+    "el": "Η πολύωρη συγκέντρωση χωρίς περισπασμούς γίνεται σπάνια και πολύτιμη, άρα όποιος την εξασκεί και την προστατεύει βγάζει καλύτερη δουλειά σε λιγότερο χρόνο."
+  },
+  "story": {
+    "en": "Cal Newport is a computer science professor at Georgetown University who has never had a social media account. In 2016 he wrote this book in two parts: first he argues that focused work is the most valuable skill in today's economy, then he gives four rules to build it. People still read it because phones and inboxes have only made the problem worse since then.",
+    "el": "Ο Cal Newport είναι καθηγητής πληροφορικής στο Georgetown και δεν είχε ποτέ λογαριασμό στα social media. Το 2016 έγραψε αυτό το βιβλίο σε δύο μέρη: πρώτα εξηγεί γιατί η συγκεντρωμένη δουλειά είναι η πιο πολύτιμη ικανότητα στη σημερινή οικονομία και μετά δίνει τέσσερις κανόνες για να τη χτίσεις. Διαβάζεται ακόμα, γιατί από τότε τα κινητά και τα inbox έκαναν το πρόβλημα μόνο χειρότερο."
+  },
+  "forYou": {
+    "en": "You run a business with a tiny team, 200+ sites and a phone that never stops. Your real value is in the hard thinking: a better offer, a better ad, a system that lets the agency grow without you. That work only happens in protected hours. This book shows you how to guard them while the calls and the clients still get answered.",
+    "el": "Τρέχεις μια επιχείρηση με μικρή ομάδα, 200+ ιστοσελίδες και ένα κινητό που δεν σταματά ποτέ. Η πραγματική σου αξία βρίσκεται στη δύσκολη σκέψη: καλύτερη προσφορά, καλύτερη διαφήμιση, ένα σύστημα που αφήνει το γραφείο να μεγαλώνει χωρίς εσένα. Αυτή η δουλειά γίνεται μόνο σε προστατευμένες ώρες. Το βιβλίο σού δείχνει πώς να τις φυλάς, χωρίς να μένουν αναπάντητοι οι πελάτες και τα τηλέφωνα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Deep work: rare and valuable", "el": "Βαθιά δουλειά: σπάνια και πολύτιμη"},
+      "explain": {
+        "en": "Deep work is hard thinking done with full concentration and no distractions. Shallow work is the easy stuff you can do half-asleep: emails, small fixes, admin. Newport's thesis: deep work is getting rarer exactly when it is getting more valuable. Those who can learn hard things fast and produce at a top level will do well. The rest can be replaced by software, AI or someone cheaper working remotely.",
+        "el": "Βαθιά δουλειά είναι η δύσκολη σκέψη που γίνεται με πλήρη συγκέντρωση και χωρίς περισπασμούς. Ρηχή δουλειά είναι τα εύκολα, αυτά που κάνεις και μισοκοιμισμένος: email, μικροδιορθώσεις, διαδικαστικά. Η θέση του Newport: η βαθιά δουλειά γίνεται πιο σπάνια ακριβώς τη στιγμή που γίνεται πιο πολύτιμη. Όποιος μαθαίνει γρήγορα δύσκολα πράγματα και παράγει σε κορυφαίο επίπεδο θα πάει καλά. Τους υπόλοιπους τους αντικαθιστά ένα λογισμικό, η τεχνητή νοημοσύνη ή κάποιος φθηνότερος που δουλεύει εξ αποστάσεως."
+      },
+      "example": {
+        "en": "In the book, Jason Benn was a financial consultant whose main task could be done by a spreadsheet script. He locked himself in a room with programming textbooks and no computer, studied in long focused sessions, joined a coding bootcamp and became a developer earning more than double his old salary.",
+        "el": "Στο βιβλίο, ο Jason Benn ήταν οικονομικός σύμβουλος και κατάλαβε ότι τη βασική του δουλειά μπορούσε να την κάνει ένα script σε ένα λογιστικό φύλλο. Κλείστηκε σε ένα δωμάτιο με βιβλία προγραμματισμού και χωρίς υπολογιστή, διάβαζε σε μεγάλα συγκεντρωμένα διαστήματα, πήγε σε coding bootcamp και έγινε developer με μισθό πάνω από διπλάσιο."
+      },
+      "apply": {
+        "en": "Write down which of your tasks only you can do and which move the agency forward: the offer, the ad script, the sales system, a new service. That is your deep work. Everything else is shallow. Count how many deep hours you really did last week. That number is your starting point.",
+        "el": "Γράψε ποιες δουλειές μπορείς να κάνεις μόνο εσύ και ποιες πάνε το γραφείο μπροστά: η προσφορά, το σενάριο της διαφήμισης, το σύστημα πωλήσεων, μια νέα υπηρεσία. Αυτή είναι η βαθιά σου δουλειά. Όλα τα άλλα είναι ρηχά. Μέτρησε πόσες βαθιές ώρες έκανες πραγματικά την περασμένη εβδομάδα. Αυτός ο αριθμός είναι η αφετηρία σου."
+      },
+      "check": {
+        "q": {"en": "What makes a task «deep work»?", "el": "Τι κάνει μια δουλειά «βαθιά»;"},
+        "options": [
+          {"en": "It takes many hours to finish", "el": "Θέλει πολλές ώρες για να τελειώσει"},
+          {"en": "It needs full focus and creates real value", "el": "Θέλει πλήρη συγκέντρωση και παράγει πραγματική αξία"},
+          {"en": "It is done on a computer, not on the phone", "el": "Γίνεται στον υπολογιστή και όχι στο κινητό"}
+        ],
+        "answer": 1,
+        "why": {"en": "Depth is about concentration and value, not about length or the device you use.", "el": "Το βάθος έχει να κάνει με τη συγκέντρωση και την αξία, όχι με τη διάρκεια ή τη συσκευή."}
+      }
+    },
+    {
+      "title": {"en": "Time times intensity", "el": "Χρόνος επί ένταση"},
+      "explain": {
+        "en": "Newport gives a simple formula: high-quality work produced equals time spent multiplied by intensity of focus. Most people only look at time and work longer hours. Intensity is the part nobody counts. Two hours with full attention can beat a whole day of half attention. So do not ask only how long you worked. Ask how focused you were while you worked.",
+        "el": "Ο Newport δίνει έναν απλό τύπο: ποιοτική δουλειά που παράγεις ίσον χρόνος επί ένταση συγκέντρωσης. Οι περισσότεροι κοιτούν μόνο τον χρόνο και απλώς δουλεύουν περισσότερες ώρες. Η ένταση είναι το κομμάτι που δεν μετρά κανείς. Δύο ώρες με όλη σου την προσοχή μπορούν να νικήσουν μια ολόκληρη μέρα με μισή προσοχή. Άρα μη ρωτάς μόνο πόσο δούλεψες. Ρώτα πόσο συγκεντρωμένος ήσουν όσο δούλευες."
+      },
+      "example": {
+        "en": "Adam Grant, a professor at Wharton, puts all his teaching into one semester and his research into the rest of the year. When he writes, he shuts his door for days and sets an out-of-office reply. In 2012 alone he published seven articles in top journals.",
+        "el": "Ο Adam Grant, καθηγητής στο Wharton, μαζεύει όλη τη διδασκαλία του σε ένα εξάμηνο και την έρευνα στον υπόλοιπο χρόνο. Όταν γράφει, κλείνει την πόρτα για μέρες και βάζει αυτόματη απάντηση «εκτός γραφείου». Μόνο το 2012 δημοσίευσε επτά άρθρα σε κορυφαία επιστημονικά περιοδικά."
+      },
+      "apply": {
+        "en": "Batch the same kind of work together. Do all your cold calls in one block, all client changes in another, and keep one 90-minute block with the phone in another room for the hardest task of the day. Judge the day by that block, not by how many hours you sat at the desk.",
+        "el": "Μάζεψε τις ίδιες δουλειές μαζί. Κάνε όλα τα cold calls σε ένα μπλοκ, όλες τις αλλαγές πελατών σε άλλο, και κράτα ένα μπλοκ 90 λεπτών, με το κινητό σε άλλο δωμάτιο, για το πιο δύσκολο της ημέρας. Κρίνε τη μέρα από αυτό το μπλοκ, όχι από το πόσες ώρες κάθισες στο γραφείο."
+      },
+      "check": {
+        "q": {"en": "Which part of the formula do most people ignore?", "el": "Ποιο κομμάτι του τύπου αγνοούν οι περισσότεροι;"},
+        "options": [
+          {"en": "The intensity of their focus", "el": "Την ένταση της συγκέντρωσής τους"},
+          {"en": "The number of hours they work", "el": "Τον αριθμό των ωρών που δουλεύουν"},
+          {"en": "The number of tasks on the list", "el": "Τον αριθμό των εργασιών στη λίστα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Everyone counts hours. Few people measure how concentrated those hours were.", "el": "Όλοι μετρούν ώρες. Λίγοι μετρούν πόσο συγκεντρωμένες ήταν αυτές οι ώρες."}
+      }
+    },
+    {
+      "title": {"en": "Attention residue", "el": "Το υπόλειμμα της προσοχής"},
+      "explain": {
+        "en": "When you jump from task A to task B, your attention does not follow at once. A piece of it stays stuck on task A, especially if you left it unfinished. This leftover is called attention residue, and it makes you worse at task B. That is why multitasking is a myth. A quick look at the inbox every ten minutes keeps your mind permanently split.",
+        "el": "Όταν πηδάς από τη δουλειά Α στη δουλειά Β, η προσοχή σου δεν ακολουθεί αμέσως. Ένα κομμάτι της μένει κολλημένο στην Α, ειδικά αν την άφησες μισή. Αυτό το κατάλοιπο λέγεται υπόλειμμα προσοχής και σε κάνει χειρότερο στη Β. Γι' αυτό το multitasking είναι μύθος. Μια γρήγορη ματιά στο inbox κάθε δέκα λεπτά κρατά το μυαλό σου μόνιμα μοιρασμένο."
+      },
+      "example": {
+        "en": "Business professor Sophie Leroy tested this in 2009. People who were interrupted in the middle of one task and moved to a second one performed clearly worse on the second, because they were still thinking about the first.",
+        "el": "Η καθηγήτρια διοίκησης Sophie Leroy το εξέτασε το 2009. Όσοι διακόπηκαν στη μέση μιας εργασίας και πέρασαν σε μια δεύτερη τα πήγαν σαφώς χειρότερα στη δεύτερη, γιατί το μυαλό τους ήταν ακόμα στην πρώτη."
+      },
+      "apply": {
+        "en": "Finish one thing before you open the next. While you build a site or write an ad, close Viber, email and the CRM tab. Check messages at fixed times, for example at 11:00 and at 16:00, not in between. One open loop at a time.",
+        "el": "Τελείωνε ένα πράγμα πριν ανοίξεις το επόμενο. Όσο χτίζεις μια ιστοσελίδα ή γράφεις μια διαφήμιση, κλείσε το Viber, το email και την καρτέλα του CRM. Κοίτα μηνύματα σε σταθερές ώρες, για παράδειγμα στις 11:00 και στις 16:00, όχι ενδιάμεσα. Μία ανοιχτή εκκρεμότητα τη φορά."
+      },
+      "check": {
+        "q": {"en": "Why does a «quick check» of messages hurt your work?", "el": "Γιατί μια «γρήγορη ματιά» στα μηνύματα βλάπτει τη δουλειά σου;"},
+        "options": [
+          {"en": "Because it takes thirty seconds of your time", "el": "Γιατί σου τρώει τριάντα δευτερόλεπτα"},
+          {"en": "Because messages are always bad news", "el": "Γιατί τα μηνύματα φέρνουν πάντα κακά νέα"},
+          {"en": "Because part of your mind stays on what you saw", "el": "Γιατί ένα μέρος του μυαλού σου μένει σε αυτό που είδες"}
+        ],
+        "answer": 2,
+        "why": {"en": "The cost is not the seconds. It is the residue that follows you back to the hard task.", "el": "Το κόστος δεν είναι τα δευτερόλεπτα. Είναι το υπόλειμμα που σε ακολουθεί πίσω στη δύσκολη δουλειά."}
+      }
+    },
+    {
+      "title": {"en": "The busyness trap", "el": "Η παγίδα της πολυάσχολης μέρας"},
+      "explain": {
+        "en": "In knowledge work it is hard to measure what each hour really produced. So people fall back on what is easy to see: fast replies, many meetings, a full calendar. Newport calls this busyness as a stand-in for productivity. It feels like work and it looks like work, but it mostly follows the path of least effort. Being busy all day is not proof that you created value.",
+        "el": "Στη δουλειά γραφείου είναι δύσκολο να μετρήσεις τι πραγματικά έβγαλε κάθε ώρα. Έτσι οι άνθρωποι πιάνονται από ό,τι φαίνεται εύκολα: γρήγορες απαντήσεις, πολλά meetings, γεμάτο ημερολόγιο. Ο Newport το λέει «πολυάσχολος αντί για παραγωγικός». Μοιάζει με δουλειά και δείχνει σαν δουλειά, αλλά συνήθως ακολουθεί τον δρόμο του μικρότερου κόπου. Το ότι έτρεχες όλη μέρα δεν αποδεικνύει ότι δημιούργησες αξία."
+      },
+      "example": {
+        "en": "Tom Cochran, technology chief at Atlantic Media, measured how much time his company spent on email. He found the firm was paying well over a million dollars a year in salaries just for people to read and write messages.",
+        "el": "Ο Tom Cochran, υπεύθυνος τεχνολογίας στην Atlantic Media, μέτρησε πόσο χρόνο ξόδευε η εταιρεία του στα email. Βρήκε ότι πλήρωνε πολύ πάνω από ένα εκατομμύριο δολάρια τον χρόνο σε μισθούς, μόνο για να διαβάζουν και να γράφουν οι άνθρωποι μηνύματα."
+      },
+      "apply": {
+        "en": "Pick one number that shows real value for the week: meetings booked, sites delivered, euros collected. Look at it every Friday. If the number did not move but you were exhausted, you were busy, not productive. Change next week's plan, not your effort.",
+        "el": "Διάλεξε έναν αριθμό που δείχνει πραγματική αξία για την εβδομάδα: ραντεβού που κλείστηκαν, ιστοσελίδες που παραδόθηκαν, ευρώ που εισπράχθηκαν. Κοίτα τον κάθε Παρασκευή. Αν ο αριθμός δεν κουνήθηκε αλλά εσύ ήσουν εξαντλημένος, ήσουν απασχολημένος, όχι παραγωγικός. Άλλαξε το πλάνο της επόμενης εβδομάδας, όχι την προσπάθειά σου."
+      },
+      "check": {
+        "q": {"en": "Why do people choose visible busyness?", "el": "Γιατί οι άνθρωποι διαλέγουν το να φαίνονται απασχολημένοι;"},
+        "options": [
+          {"en": "Because busy people earn more money", "el": "Γιατί οι απασχολημένοι βγάζουν περισσότερα χρήματα"},
+          {"en": "Because real value is hard to measure, so activity stands in for it", "el": "Γιατί η πραγματική αξία μετριέται δύσκολα και τη θέση της παίρνει η κίνηση"},
+          {"en": "Because deep work is forbidden in most companies", "el": "Γιατί η βαθιά δουλειά απαγορεύεται στις περισσότερες εταιρείες"}
+        ],
+        "answer": 1,
+        "why": {"en": "Without a clear measure of output, people show activity instead, because it is easy and visible.", "el": "Όταν δεν υπάρχει καθαρό μέτρο αποτελέσματος, οι άνθρωποι δείχνουν κίνηση, γιατί είναι εύκολη και φαίνεται."}
+      }
+    },
+    {
+      "title": {"en": "Four ways to go deep", "el": "Τέσσερις τρόποι να βουτήξεις"},
+      "explain": {
+        "en": "There is no single way to fit deep work into a life. Newport describes four. Monastic: cut off almost everything and only do deep work. Bimodal: split your time, with long retreats of days or weeks and normal life in between. Rhythmic: the same deep block every day, like a habit. Journalistic: grab any free gap and dive in. Choose the one that fits your job.",
+        "el": "Δεν υπάρχει ένας μόνο τρόπος να χωρέσεις τη βαθιά δουλειά στη ζωή σου. Ο Newport περιγράφει τέσσερις. Μοναστικός: κόβεις σχεδόν τα πάντα και κάνεις μόνο βαθιά δουλειά. Διπλός: μοιράζεις τον χρόνο, με απομόνωση ημερών ή εβδομάδων και κανονική ζωή ανάμεσα. Ρυθμικός: το ίδιο βαθύ μπλοκ κάθε μέρα, σαν συνήθεια. Δημοσιογραφικός: αρπάζεις κάθε ελεύθερο κενό και βουτάς. Διάλεξε αυτόν που ταιριάζει στη δουλειά σου."
+      },
+      "example": {
+        "en": "Computer scientist Donald Knuth stopped using email in 1990 (monastic). Carl Jung built a stone tower in Bollingen to write, then returned to his busy practice in Zurich (bimodal). Biographer Walter Isaacson wrote his first book in any free hour he found (journalistic).",
+        "el": "Ο πληροφορικός Donald Knuth σταμάτησε να χρησιμοποιεί email το 1990 (μοναστικός). Ο Carl Jung έχτισε έναν πέτρινο πύργο στο Bollingen για να γράφει και μετά γύριζε στο γεμάτο ιατρείο του στη Ζυρίχη (διπλός). Ο βιογράφος Walter Isaacson έγραψε το πρώτο του βιβλίο σε όποια ελεύθερη ώρα έβρισκε (δημοσιογραφικός)."
+      },
+      "apply": {
+        "en": "Start with the rhythmic way, because clients and calls need you daily: one fixed deep block every morning before the phone goes on. Add a bimodal touch once a month: one full day away from the office to think only about the business, not in it.",
+        "el": "Ξεκίνα με τον ρυθμικό τρόπο, αφού πελάτες και τηλέφωνα σε χρειάζονται κάθε μέρα: ένα σταθερό βαθύ μπλοκ κάθε πρωί, πριν ανοίξει το κινητό. Πρόσθεσε και κάτι από τον διπλό μία φορά τον μήνα: μια ολόκληρη μέρα μακριά από το γραφείο, για να σκεφτείς την επιχείρηση από ψηλά και όχι την καθημερινή δουλειά της."
+      },
+      "check": {
+        "q": {"en": "What is the rhythmic philosophy?", "el": "Τι είναι ο ρυθμικός τρόπος;"},
+        "options": [
+          {"en": "Going away alone for several weeks", "el": "Να φεύγεις μόνος για μερικές εβδομάδες"},
+          {"en": "Working deeply whenever a gap appears", "el": "Να δουλεύεις βαθιά όποτε βρεθεί ένα κενό"},
+          {"en": "A fixed deep block at the same time daily", "el": "Ένα σταθερό βαθύ μπλοκ την ίδια ώρα κάθε μέρα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Rhythmic means habit: same time, every day, so you never have to decide when to go deep.", "el": "Ρυθμικός σημαίνει συνήθεια: ίδια ώρα, κάθε μέρα, ώστε να μη χρειάζεται να αποφασίζεις πότε θα βουτήξεις."}
+      }
+    },
+    {
+      "title": {"en": "Rituals beat willpower", "el": "Η ρουτίνα νικά τη θέληση"},
+      "explain": {
+        "en": "Willpower is limited and runs out during the day. So do not count on it to start deep work. Build a ritual instead: the same place, the same time, the same coffee, clear rules such as no internet, and a fixed length. When every detail is decided in advance, starting takes almost no energy. For big projects Newport also suggests a grand gesture: a change of place that tells your mind this matters.",
+        "el": "Η θέληση είναι περιορισμένη και μέσα στη μέρα τελειώνει. Άρα μη στηρίζεσαι σε αυτήν για να ξεκινήσεις βαθιά δουλειά. Χτίσε ένα τελετουργικό: ίδιος χώρος, ίδια ώρα, ίδιος καφές, καθαροί κανόνες όπως «χωρίς ίντερνετ» και σταθερή διάρκεια. Όταν κάθε λεπτομέρεια έχει αποφασιστεί από πριν, το ξεκίνημα δεν θέλει σχεδόν καθόλου ενέργεια. Για μεγάλα πρότζεκτ ο Newport προτείνει και μια μεγάλη κίνηση: μια αλλαγή χώρου που λέει στο μυαλό σου ότι αυτό μετράει."
+      },
+      "example": {
+        "en": "In 2007 J.K. Rowling could not finish the last Harry Potter book at home, with children, dogs and the window cleaner. She checked into a suite at the Balmoral Hotel in Edinburgh and completed the book there.",
+        "el": "Το 2007 η J.K. Rowling δεν μπορούσε να τελειώσει το τελευταίο βιβλίο του Χάρι Πότερ στο σπίτι, με τα παιδιά, τα σκυλιά και τον άνθρωπο που καθάριζε τα τζάμια. Έκλεισε μια σουίτα στο ξενοδοχείο Balmoral στο Εδιμβούργο και ολοκλήρωσε το βιβλίο εκεί."
+      },
+      "apply": {
+        "en": "Design your own start ritual and write it on one card: where you sit, what time you begin, how long, phone in the drawer, which coffee, what you will have finished at the end. Follow the same card every morning for two weeks without changing it.",
+        "el": "Σχεδίασε το δικό σου τελετουργικό έναρξης και γράψ' το σε μία κάρτα: πού κάθεσαι, τι ώρα αρχίζεις, πόσο κρατά, κινητό στο συρτάρι, ποιος καφές, τι θα έχεις τελειώσει στο τέλος. Ακολούθησε την ίδια κάρτα κάθε πρωί για δύο εβδομάδες, χωρίς να την αλλάξεις."
+      },
+      "check": {
+        "q": {"en": "Why does a ritual help you start deep work?", "el": "Γιατί ένα τελετουργικό σε βοηθά να ξεκινήσεις βαθιά δουλειά;"},
+        "options": [
+          {"en": "It removes decisions, so starting costs less energy", "el": "Αφαιρεί αποφάσεις, άρα το ξεκίνημα θέλει λιγότερη ενέργεια"},
+          {"en": "It makes the work itself easier to do", "el": "Κάνει την ίδια τη δουλειά πιο εύκολη"},
+          {"en": "It proves to others that you are serious", "el": "Δείχνει στους άλλους ότι το εννοείς"}
+        ],
+        "answer": 0,
+        "why": {"en": "When place, time and rules are fixed, you do not spend willpower on deciding. You just begin.", "el": "Όταν ο χώρος, η ώρα και οι κανόνες είναι σταθερά, δεν ξοδεύεις θέληση σε αποφάσεις. Απλώς αρχίζεις."}
+      }
+    },
+    {
+      "title": {"en": "Count your deep hours", "el": "Μέτρα τις βαθιές σου ώρες"},
+      "explain": {
+        "en": "Newport borrows four disciplines of execution from business. One: aim your deep hours at a small number of very important goals. Two: measure the thing you control today, the hours of deep work, and not only the final result that comes later. Three: keep a visible scoreboard. Four: review it every week and ask what went well and what blocked you.",
+        "el": "Ο Newport δανείζεται από τον κόσμο των επιχειρήσεων τέσσερις πειθαρχίες εκτέλεσης. Πρώτη: στόχευσε τις βαθιές σου ώρες σε λίγους, πολύ σημαντικούς στόχους. Δεύτερη: μέτρα αυτό που ελέγχεις σήμερα, δηλαδή τις ώρες βαθιάς δουλειάς, και όχι μόνο το τελικό αποτέλεσμα που έρχεται αργότερα. Τρίτη: κράτα έναν πίνακα που να φαίνεται. Τέταρτη: κάθε εβδομάδα κοίτα τον και ρώτα τι πήγε καλά και τι σε μπλόκαρε."
+      },
+      "example": {
+        "en": "Newport kept a card at his desk with one line per week. He added a tally mark for every hour of deep work and circled the mark when that hour produced a key result for a paper. Seeing the numbers changed how he planned his weeks.",
+        "el": "Ο Newport είχε στο γραφείο του μια κάρτα με μία γραμμή για κάθε εβδομάδα. Έβαζε μια γραμμούλα για κάθε ώρα βαθιάς δουλειάς και την κύκλωνε όταν εκείνη η ώρα έβγαζε ένα βασικό αποτέλεσμα για κάποια δημοσίευση. Βλέποντας τους αριθμούς, άλλαξε τον τρόπο που σχεδίαζε τις εβδομάδες του."
+      },
+      "apply": {
+        "en": "Put a sheet of paper on the wall next to your screen. Make one mark for every full hour of deep work. Set a weekly target, for example ten marks. Every Friday, count them and write one line: what stole the missing hours.",
+        "el": "Κόλλησε ένα χαρτί στον τοίχο, δίπλα στην οθόνη σου. Βάλε μια γραμμή για κάθε πλήρη ώρα βαθιάς δουλειάς. Όρισε εβδομαδιαίο στόχο, για παράδειγμα δέκα γραμμές. Κάθε Παρασκευή μέτρησέ τες και γράψε μία πρόταση: τι σου έκλεψε τις ώρες που λείπουν."
+      },
+      "check": {
+        "q": {"en": "Which number should you track every day?", "el": "Ποιον αριθμό πρέπει να παρακολουθείς κάθε μέρα;"},
+        "options": [
+          {"en": "The revenue of the whole year", "el": "Τον τζίρο ολόκληρης της χρονιάς"},
+          {"en": "The hours of deep work you actually did", "el": "Τις ώρες βαθιάς δουλειάς που έκανες πραγματικά"},
+          {"en": "The number of emails you answered", "el": "Τον αριθμό των email που απάντησες"}
+        ],
+        "answer": 1,
+        "why": {"en": "Deep hours are in your control today and they lead to the results that show up later.", "el": "Τις βαθιές ώρες τις ελέγχεις σήμερα, και αυτές φέρνουν τα αποτελέσματα που φαίνονται αργότερα."}
+      }
+    },
+    {
+      "title": {"en": "Embrace boredom", "el": "Αγκάλιασε τη βαρεμάρα"},
+      "explain": {
+        "en": "Concentration is a skill you train, like a muscle. If you pull out the phone at every empty moment, in a queue, at a red light, in the lift, you teach your brain that it never has to stay with one thing. Then it cannot focus when you need it. Newport's rule: do not take breaks from distraction to focus. Take planned breaks from focus to be distracted.",
+        "el": "Η συγκέντρωση είναι ικανότητα που γυμνάζεται, σαν μυς. Αν βγάζεις το κινητό σε κάθε άδεια στιγμή, στην ουρά, στο φανάρι, στο ασανσέρ, μαθαίνεις στο μυαλό σου ότι δεν χρειάζεται ποτέ να μείνει σε ένα πράγμα. Και μετά δεν μπορεί να συγκεντρωθεί όταν το χρειάζεσαι. Ο κανόνας του Newport: μην κάνεις διαλείμματα από τον περισπασμό για να συγκεντρωθείς. Κάνε προγραμματισμένα διαλείμματα από τη συγκέντρωση για να χαζέψεις."
+      },
+      "example": {
+        "en": "Stanford professor Clifford Nass studied people who constantly switch between media. In his 2009 research they were worse at ignoring irrelevant information and worse at switching tasks than people who rarely multitask. Constant switching had weakened their attention.",
+        "el": "Ο καθηγητής του Stanford Clifford Nass μελέτησε ανθρώπους που πηδούν συνεχώς από το ένα μέσο στο άλλο. Στην έρευνά του το 2009, αυτοί τα πήγαν χειρότερα στο να αγνοούν άσχετες πληροφορίες, και χειρότερα στην αλλαγή εργασίας, από όσους σπάνια κάνουν πολλά μαζί. Το συνεχές πήγαινε-έλα είχε αδυνατίσει την προσοχή τους."
+      },
+      "apply": {
+        "en": "Decide in advance the times when you may use the internet for fun, for example 13:00 and 18:00. Outside those times, stay offline even when you are bored or waiting. In the queue or the car, leave the phone in your pocket. That small discomfort is the training.",
+        "el": "Όρισε από πριν τις ώρες που επιτρέπεται το ίντερνετ για χάζι, για παράδειγμα 13:00 και 18:00. Εκτός αυτών μείνε offline, ακόμα κι όταν βαριέσαι ή περιμένεις. Στην ουρά ή στο αυτοκίνητο, άσε το κινητό στην τσέπη. Αυτή η μικρή δυσφορία είναι η προπόνηση."
+      },
+      "check": {
+        "q": {"en": "Why is checking the phone whenever you are bored harmful?", "el": "Γιατί σε βλάπτει να πιάνεις το κινητό κάθε φορά που βαριέσαι;"},
+        "options": [
+          {"en": "It uses up the battery too fast", "el": "Γιατί τελειώνει γρήγορα η μπαταρία"},
+          {"en": "It makes you miss important calls", "el": "Γιατί χάνεις σημαντικές κλήσεις"},
+          {"en": "It trains your brain to need constant stimulation", "el": "Γιατί μαθαίνει το μυαλό σου να θέλει συνεχώς ερέθισμα"}
+        ],
+        "answer": 2,
+        "why": {"en": "A brain that never tolerates boredom cannot hold focus when the work gets hard.", "el": "Ένα μυαλό που δεν αντέχει ποτέ τη βαρεμάρα δεν κρατά τη συγκέντρωση όταν η δουλειά δυσκολεύει."}
+      }
+    },
+    {
+      "title": {"en": "Productive meditation", "el": "Παραγωγικός διαλογισμός"},
+      "explain": {
+        "en": "Use time when your body is busy but your mind is free, such as walking, driving, showering or running, to think about one clearly defined work problem. When your thoughts wander, gently bring them back to the problem. Watch for looping, where you repeat what you already know instead of going further. This gives you extra thinking hours and trains your focus at the same time.",
+        "el": "Χρησιμοποίησε τον χρόνο που το σώμα σου είναι απασχολημένο αλλά το μυαλό ελεύθερο, όπως στο περπάτημα, στην οδήγηση, στο ντους ή στο τρέξιμο, για να σκεφτείς ένα σαφώς ορισμένο πρόβλημα της δουλειάς. Όταν η σκέψη ξεφεύγει, φέρ' την ήρεμα πίσω. Πρόσεξε μην κάνεις κύκλους, δηλαδή να επαναλαμβάνεις όσα ξέρεις ήδη αντί να προχωράς. Έτσι κερδίζεις επιπλέον ώρες σκέψης και ταυτόχρονα γυμνάζεις τη συγκέντρωσή σου."
+      },
+      "example": {
+        "en": "When Newport was a researcher at MIT he walked to and from work every day. He used those walks to think through one problem at a time, and he worked out much of the structure of an earlier book of his on foot.",
+        "el": "Όταν ο Newport ήταν ερευνητής στο MIT, πήγαινε και γύριζε από τη δουλειά με τα πόδια κάθε μέρα. Χρησιμοποιούσε αυτές τις διαδρομές για να δουλεύει στο μυαλό του ένα πρόβλημα τη φορά, και έτσι έστησε μεγάλο μέρος της δομής ενός προηγούμενου βιβλίου του περπατώντας."
+      },
+      "apply": {
+        "en": "Choose one question before you leave the house, for example: «What is the first sentence of my cold call that makes a dentist keep listening?» Drive or walk without music or podcast and think only about that. Record a voice note with the answer when you arrive.",
+        "el": "Διάλεξε μία ερώτηση πριν φύγεις από το σπίτι, για παράδειγμα: «Ποια είναι η πρώτη φράση στο cold call που κάνει έναν οδοντίατρο να συνεχίσει να ακούει;». Οδήγησε ή περπάτα χωρίς μουσική ή podcast και σκέψου μόνο αυτό. Όταν φτάσεις, ηχογράφησε την απάντηση σε ένα φωνητικό σημείωμα."
+      },
+      "check": {
+        "q": {"en": "What do you do in productive meditation?", "el": "Τι κάνεις στον παραγωγικό διαλογισμό;"},
+        "options": [
+          {"en": "Focus on one work problem while walking or driving", "el": "Σκέφτεσαι ένα πρόβλημα της δουλειάς ενώ περπατάς ή οδηγείς"},
+          {"en": "Empty your mind and think of nothing at all", "el": "Αδειάζεις το μυαλό και δεν σκέφτεσαι τίποτα"},
+          {"en": "Listen to a business podcast on the way to work", "el": "Ακούς ένα επιχειρηματικό podcast στη διαδρομή"}
+        ],
+        "answer": 0,
+        "why": {"en": "The body moves, the mind stays on one problem, and you keep returning to it when it drifts.", "el": "Το σώμα κινείται, το μυαλό μένει σε ένα πρόβλημα, και το γυρίζεις πίσω κάθε φορά που ξεφεύγει."}
+      }
+    },
+    {
+      "title": {"en": "Choose tools like a craftsman", "el": "Διάλεγε εργαλεία σαν μάστορας"},
+      "explain": {
+        "en": "Most people keep any app that offers some small benefit. Newport calls this the any-benefit mindset, and it fills your day with noise. A craftsman thinks differently. He lists the few things that decide success in his work and life, and adopts a tool only if its positive effect on those things is clearly bigger than its cost in time and attention. Otherwise he leaves it.",
+        "el": "Οι περισσότεροι κρατούν κάθε εφαρμογή που προσφέρει έστω ένα μικρό όφελος. Ο Newport το λέει νοοτροπία «κάποιο όφελος έχει», και αυτή γεμίζει τη μέρα σου θόρυβο. Ο μάστορας σκέφτεται αλλιώς. Γράφει τα λίγα πράγματα που κρίνουν την επιτυχία στη δουλειά και στη ζωή του και υιοθετεί ένα εργαλείο μόνο αν η θετική του επίδραση σε αυτά είναι καθαρά μεγαλύτερη από το κόστος του σε χρόνο και προσοχή. Αλλιώς το αφήνει."
+      },
+      "example": {
+        "en": "Virginia farmer Forrest Pritchard sold his hay baler. The machine clearly had a benefit, but when he did the full sums, buying hay from others cost less and brought extra nutrients to his soil, which was what really mattered for his farm.",
+        "el": "Ο αγρότης Forrest Pritchard από τη Βιρτζίνια πούλησε τη χορτοδετική του μηχανή. Το μηχάνημα είχε προφανώς κάποιο όφελος, αλλά όταν έκανε όλους τους λογαριασμούς, το να αγοράζει σανό από άλλους κόστιζε λιγότερο και έφερνε επιπλέον θρεπτικά στοιχεία στο χώμα του, που ήταν αυτό που μετρούσε πραγματικά για τη φάρμα."
+      },
+      "apply": {
+        "en": "List your two main business goals, for example more booked meetings and faster delivery. For each app on your phone ask: does it strongly help one of them? Instagram for your ads passes, endless scrolling does not. Remove the rest for 30 days and see if anyone notices.",
+        "el": "Γράψε τους δύο βασικούς στόχους της επιχείρησης, για παράδειγμα περισσότερα ραντεβού και πιο γρήγορη παράδοση. Για κάθε εφαρμογή στο κινητό ρώτα: βοηθά δυνατά κάποιον από τους δύο; Το Instagram για τις διαφημίσεις σου περνά, το ατελείωτο σκρολάρισμα όχι. Βγάλε τα υπόλοιπα για 30 μέρες και δες αν θα το καταλάβει κανείς."
+      },
+      "check": {
+        "q": {"en": "When does a craftsman adopt a tool?", "el": "Πότε υιοθετεί ένα εργαλείο ο μάστορας;"},
+        "options": [
+          {"en": "When it offers at least one small benefit", "el": "Όταν προσφέρει έστω ένα μικρό όφελος"},
+          {"en": "When all his competitors already use it", "el": "Όταν το χρησιμοποιούν ήδη όλοι οι ανταγωνιστές"},
+          {"en": "When it strongly helps his main goals, more than it costs", "el": "Όταν βοηθά δυνατά τους βασικούς στόχους, πάνω από το κόστος του"}
+        ],
+        "answer": 2,
+        "why": {"en": "Some benefit is not enough. The benefit to your core goals must clearly beat the cost in attention.", "el": "Το «κάποιο όφελος» δεν αρκεί. Το όφελος στους βασικούς στόχους πρέπει να ξεπερνά καθαρά το κόστος σε προσοχή."}
+      }
+    },
+    {
+      "title": {"en": "Give every minute a job", "el": "Δώσε δουλειά σε κάθε λεπτό"},
+      "explain": {
+        "en": "Treat time like money you are spending. At the start of the day, draw your working hours on paper and split them into blocks, each with one job: calls, deep work, emails, lunch. When the day changes, and it will, simply redraw the remaining blocks. The goal is not to obey the plan perfectly. It is to always decide on purpose what you do next.",
+        "el": "Δες τον χρόνο σαν χρήμα που ξοδεύεις. Στην αρχή της μέρας, ζωγράφισε τις ώρες δουλειάς σου σε ένα χαρτί και χώρισέ τες σε μπλοκ, το καθένα με μία δουλειά: τηλέφωνα, βαθιά δουλειά, email, φαγητό. Όταν η μέρα αλλάξει, και θα αλλάξει, απλώς ξανασχεδίασε τα μπλοκ που έμειναν. Στόχος δεν είναι να υπακούσεις τέλεια στο πλάνο. Στόχος είναι να αποφασίζεις πάντα συνειδητά τι κάνεις μετά."
+      },
+      "example": {
+        "en": "Newport plans each workday this way in a simple notebook, with blocks of at least thirty minutes, and redraws the plan in the next column whenever something unexpected happens. He later published a planner built on this exact method.",
+        "el": "Ο Newport σχεδιάζει έτσι κάθε εργάσιμη μέρα σε ένα απλό τετράδιο, με μπλοκ τουλάχιστον μισής ώρας, και ξαναγράφει το πλάνο στη διπλανή στήλη όποτε συμβεί κάτι απρόοπτο. Αργότερα κυκλοφόρησε και δικό του ημερολόγιο, φτιαγμένο ακριβώς πάνω σε αυτή τη μέθοδο."
+      },
+      "apply": {
+        "en": "Take five minutes each morning and block the whole day on paper: cold calls 10:00 to 12:00, client changes 12:00 to 13:30, deep block 15:00 to 16:30. Put small tasks into one shared block. When a client call breaks the plan, redraw the rest instead of drifting.",
+        "el": "Κάθε πρωί πάρε πέντε λεπτά και χώρισε όλη τη μέρα σε μπλοκ, σε χαρτί: cold calls 10:00 με 12:00, αλλαγές πελατών 12:00 με 13:30, βαθύ μπλοκ 15:00 με 16:30. Βάλε τα μικροπράγματα όλα μαζί σε ένα μπλοκ. Όταν ένα τηλεφώνημα πελάτη χαλάσει το πλάνο, ξανασχεδίασε τα υπόλοιπα αντί να αφεθείς."
+      },
+      "check": {
+        "q": {"en": "What do you do when the day breaks your time-block plan?", "el": "Τι κάνεις όταν η μέρα σού χαλάσει το πλάνο με τα μπλοκ;"},
+        "options": [
+          {"en": "Drop the plan and react to whatever comes", "el": "Αφήνεις το πλάνο και αντιδράς σε ό,τι έρθει"},
+          {"en": "Redraw the blocks for the hours that remain", "el": "Ξανασχεδιάζεις τα μπλοκ για τις ώρες που έμειναν"},
+          {"en": "Work late to follow the first plan exactly", "el": "Ξενυχτάς για να βγει το πρώτο πλάνο ακριβώς"}
+        ],
+        "answer": 1,
+        "why": {"en": "The plan is a tool for deciding on purpose. Revising it is part of the method, not a failure.", "el": "Το πλάνο είναι εργαλείο για να αποφασίζεις συνειδητά. Η αναθεώρηση είναι μέρος της μεθόδου, όχι αποτυχία."}
+      }
+    },
+    {
+      "title": {"en": "A fixed stop time", "el": "Σταθερή ώρα που σταματάς"},
+      "explain": {
+        "en": "Decide first when your workday ends, for example 17:30, and then work backwards to make everything fit. Newport calls this fixed-schedule productivity. A hard limit forces you to be efficient: you say no more often, you cut shallow work and you guard the deep hours. It also protects your evenings, so you come back rested. A tight budget of time makes you spend it better.",
+        "el": "Αποφάσισε πρώτα πότε τελειώνει η εργάσιμη μέρα σου, για παράδειγμα στις 17:30, και μετά πήγαινε προς τα πίσω για να χωρέσουν όλα. Ο Newport το λέει παραγωγικότητα σταθερού ωραρίου. Ένα σκληρό όριο σε αναγκάζει να γίνεις αποδοτικός: λες «όχι» πιο συχνά, κόβεις τη ρηχή δουλειά και φυλάς τις βαθιές ώρες. Προστατεύει και τα βράδια σου, άρα γυρνάς ξεκούραστος. Όταν ο χρόνος είναι μετρημένος, τον ξοδεύεις καλύτερα."
+      },
+      "example": {
+        "en": "Harvard computer science professor Radhika Nagpal decided as a young professor to work a fixed number of hours, about fifty a week, and to travel rarely. She still earned tenure, and described the approach in a widely read 2013 article.",
+        "el": "Η καθηγήτρια πληροφορικής του Harvard Radhika Nagpal αποφάσισε, ως νέα καθηγήτρια, να δουλεύει σταθερό αριθμό ωρών, γύρω στις πενήντα την εβδομάδα, και να ταξιδεύει σπάνια. Παρ' όλα αυτά πήρε μονιμότητα, και περιέγραψε τον τρόπο της σε ένα άρθρο του 2013 που διαβάστηκε πολύ."
+      },
+      "apply": {
+        "en": "Set a stop time for weekdays and tell your team and family. Then ask each morning: what must be cut or delegated so that I really stop then? Say no to one low-value request this week, such as a meeting that could be a two-line message.",
+        "el": "Όρισε ώρα που σταματάς τις καθημερινές και πες την στην ομάδα και στους δικούς σου. Μετά ρώτα κάθε πρωί: τι πρέπει να κοπεί ή να ανατεθεί για να σταματήσω πράγματι τότε; Πες «όχι» αυτή την εβδομάδα σε ένα αίτημα χαμηλής αξίας, όπως ένα meeting που χωράει σε ένα μήνυμα δύο γραμμών."
+      },
+      "check": {
+        "q": {"en": "How does a hard stop time make you more productive?", "el": "Πώς σε κάνει πιο παραγωγικό μια σταθερή ώρα λήξης;"},
+        "options": [
+          {"en": "The limit forces you to cut low-value work", "el": "Το όριο σε αναγκάζει να κόψεις τη δουλειά χαμηλής αξίας"},
+          {"en": "You get extra hours of sleep every night", "el": "Κερδίζεις παραπάνω ώρες ύπνου κάθε βράδυ"},
+          {"en": "Clients respect people who leave early", "el": "Οι πελάτες σέβονται όσους φεύγουν νωρίς"}
+        ],
+        "answer": 0,
+        "why": {"en": "With less time available you must choose, and what survives is the work that matters.", "el": "Με λιγότερο διαθέσιμο χρόνο πρέπει να διαλέξεις, και αυτό που μένει είναι η δουλειά που μετρά."}
+      }
+    },
+    {
+      "title": {"en": "Shut down completely", "el": "Κλείσε εντελώς τη μέρα"},
+      "explain": {
+        "en": "Your ability to focus needs rest to refill. So end the day with a short shutdown ritual: look at every open task, make sure each one has a plan or a place on a list, check tomorrow's calendar, then say out loud that you are done. After that, no work email and no work thoughts until morning. Because every loop has a plan, your mind lets go.",
+        "el": "Η ικανότητά σου να συγκεντρώνεσαι θέλει ξεκούραση για να ξαναγεμίσει. Γι' αυτό κλείνε τη μέρα με ένα σύντομο τελετουργικό: δες κάθε ανοιχτή εκκρεμότητα, βεβαιώσου ότι η καθεμία έχει πλάνο ή θέση σε μια λίστα, κοίτα το αυριανό πρόγραμμα και μετά πες δυνατά ότι τελείωσες. Από εκεί και πέρα, ούτε email δουλειάς ούτε σκέψεις δουλειάς μέχρι το πρωί. Επειδή κάθε εκκρεμότητα έχει πλάνο, το μυαλό σου την αφήνει."
+      },
+      "example": {
+        "en": "In a 2008 University of Michigan study, people who walked for about an hour in a park did roughly 20% better on a demanding attention test than people who walked on busy city streets. Real rest restores focus.",
+        "el": "Σε μια έρευνα του Πανεπιστημίου του Michigan το 2008, όσοι περπάτησαν περίπου μία ώρα σε πάρκο τα πήγαν γύρω στο 20% καλύτερα σε ένα απαιτητικό τεστ προσοχής από όσους περπάτησαν σε πολυσύχναστους δρόμους της πόλης. Η πραγματική ξεκούραση επαναφέρει τη συγκέντρωση."
+      },
+      "apply": {
+        "en": "Spend the last ten minutes of work like this: empty your head onto tomorrow's list, write the first task for the morning, close the laptop and say «done for today». Mute client chats after that. An urgent problem can reach you by phone call, nothing else.",
+        "el": "Πέρνα τα τελευταία δέκα λεπτά της δουλειάς έτσι: άδειασε το κεφάλι σου στη λίστα της επόμενης μέρας, γράψε την πρώτη δουλειά για το πρωί, κλείσε το λάπτοπ και πες «τέλος για σήμερα». Μετά βάλε τα chat των πελατών στο αθόρυβο. Ένα επείγον πρόβλημα μπορεί να σε βρει με τηλεφώνημα, με τίποτα άλλο."
+      },
+      "check": {
+        "q": {"en": "Why does the shutdown ritual let your mind rest?", "el": "Γιατί το τελετουργικό κλεισίματος αφήνει το μυαλό σου να ξεκουραστεί;"},
+        "options": [
+          {"en": "Because you finish every single task first", "el": "Γιατί πρώτα τελειώνεις όλες τις εκκρεμότητες"},
+          {"en": "Because you stop caring about the business", "el": "Γιατί παύεις να νοιάζεσαι για την επιχείρηση"},
+          {"en": "Because every open task has a plan for later", "el": "Γιατί κάθε ανοιχτή εκκρεμότητα έχει πλάνο για αργότερα"}
+        ],
+        "answer": 2,
+        "why": {"en": "You do not need to finish everything. A trusted plan is enough for the mind to release it.", "el": "Δεν χρειάζεται να τα τελειώσεις όλα. Ένα πλάνο που εμπιστεύεσαι αρκεί για να τα αφήσει το μυαλό."}
+      }
+    },
+    {
+      "title": {"en": "Emails that close the loop", "el": "Email που κλείνουν το θέμα"},
+      "explain": {
+        "en": "A short, lazy reply like «sure, when?» feels quick but starts a long chain of messages. Each one pulls you back into the inbox. Newport's fix is the process-centric email. Before you reply, ask: what is the project here, and what is the fastest path to finish it? Then write the whole path in one message: the steps, your options and what happens next.",
+        "el": "Μια σύντομη, τεμπέλικη απάντηση τύπου «ναι, πότε;» μοιάζει γρήγορη αλλά ανοίγει μια μεγάλη αλυσίδα μηνυμάτων. Το καθένα σε τραβά πίσω στο inbox. Η λύση του Newport είναι το email που περιγράφει τη διαδικασία. Πριν απαντήσεις, ρώτα: ποιο είναι το θέμα εδώ και ποιος είναι ο συντομότερος δρόμος για να κλείσει; Μετά γράψε όλο τον δρόμο σε ένα μήνυμα: τα βήματα, τις επιλογές σου και τι γίνεται μετά."
+      },
+      "example": {
+        "en": "Someone asks to meet for coffee. The lazy reply is «Great, when are you free?», which leads to five more emails. The process reply gives three exact times and a place, and adds that if none works they should send two alternatives and you will confirm.",
+        "el": "Κάποιος ζητά να πιείτε έναν καφέ. Η τεμπέλικη απάντηση είναι «Ωραία, πότε μπορείς;», που φέρνει άλλα πέντε email. Η απάντηση-διαδικασία δίνει τρεις συγκεκριμένες ώρες και ένα μέρος, και προσθέτει ότι, αν δεν βολεύει καμία, να στείλει δύο δικές του και θα επιβεβαιώσεις."
+      },
+      "apply": {
+        "en": "Write to a client in one message everything needed to finish: «Send me by Friday: 1. the photos, 2. your working hours, 3. the text for the About section. On Monday I send you the draft. You reply with all changes in one message.» One exchange instead of ten.",
+        "el": "Γράψε στον πελάτη σε ένα μήνυμα ό,τι χρειάζεται για να κλείσει το θέμα: «Στείλτε μου μέχρι Παρασκευή: 1. τις φωτογραφίες, 2. το ωράριο, 3. το κείμενο για το Σχετικά με εμάς. Δευτέρα σας στέλνω το draft. Μου απαντάτε με όλες τις αλλαγές σε ένα μήνυμα». Μία ανταλλαγή αντί για δέκα."
+      },
+      "check": {
+        "q": {"en": "What does a process-centric email contain?", "el": "Τι περιέχει ένα email που περιγράφει τη διαδικασία;"},
+        "options": [
+          {"en": "A fast one-line reply to keep things moving", "el": "Μια γρήγορη απάντηση μίας γραμμής για να προχωρά"},
+          {"en": "All the steps needed to finish the matter", "el": "Όλα τα βήματα που χρειάζονται για να κλείσει το θέμα"},
+          {"en": "A polite request to talk on the phone instead", "el": "Ένα ευγενικό αίτημα να μιλήσετε στο τηλέφωνο"}
+        ],
+        "answer": 1,
+        "why": {"en": "It costs a few more minutes now and saves many messages and interruptions later.", "el": "Κοστίζει λίγα λεπτά παραπάνω τώρα και γλιτώνει πολλά μηνύματα και διακοπές μετά."}
+      }
+    },
+    {
+      "title": {"en": "Be hard to reach", "el": "Να μη σε βρίσκουν εύκολα"},
+      "explain": {
+        "en": "You do not owe everyone an instant answer. Newport suggests making people do a little work before they contact you, for example by stating what kind of messages you answer, and not replying at all when a message is vague, unimportant or nothing bad happens if you stay silent. It is better to be respected for the quality of your work than liked for the speed of your replies.",
+        "el": "Δεν χρωστάς σε όλους άμεση απάντηση. Ο Newport προτείνει να βάζεις τους άλλους να κάνουν λίγη δουλειά πριν σε βρουν, για παράδειγμα λέγοντας καθαρά σε ποια μηνύματα απαντάς, και να μην απαντάς καθόλου όταν το μήνυμα είναι θολό, ασήμαντο ή όταν δεν θα συμβεί τίποτα κακό αν σωπάσεις. Καλύτερα να σε σέβονται για την ποιότητα της δουλειάς σου παρά να σε συμπαθούν για την ταχύτητα των απαντήσεών σου."
+      },
+      "example": {
+        "en": "Novelist Neal Stephenson publishes no email address and explains why in an essay on his site: he can either write good novels over long quiet stretches or answer many messages, but not both. Readers get books instead of replies.",
+        "el": "Ο μυθιστοριογράφος Neal Stephenson δεν δίνει πουθενά διεύθυνση email και εξηγεί το γιατί σε ένα κείμενο στη σελίδα του: μπορεί είτε να γράφει καλά μυθιστορήματα σε μεγάλα ήσυχα διαστήματα είτε να απαντά σε πολλά μηνύματα, όχι και τα δύο. Οι αναγνώστες παίρνουν βιβλία αντί για απαντήσεις."
+      },
+      "apply": {
+        "en": "Set clear rules for clients from day one: changes go in the client chat, answered within 24 hours on working days; a call only for something urgent. Then keep the rule yourself. Stop answering Viber at 23:00, because every late reply teaches the client to expect it.",
+        "el": "Βάλε καθαρούς κανόνες στους πελάτες από την πρώτη μέρα: οι αλλαγές γράφονται στο chat του πελάτη και απαντιούνται μέσα σε 24 ώρες τις εργάσιμες· τηλέφωνο μόνο για κάτι επείγον. Μετά κράτα τον κανόνα κι εσύ. Σταμάτα να απαντάς στο Viber στις 23:00, γιατί κάθε αργοπορημένη απάντηση μαθαίνει στον πελάτη να την περιμένει."
+      },
+      "check": {
+        "q": {"en": "What should you want to be known for?", "el": "Για ποιο πράγμα θέλεις να σε ξέρουν;"},
+        "options": [
+          {"en": "For the quality of the work you deliver", "el": "Για την ποιότητα της δουλειάς που παραδίδεις"},
+          {"en": "For answering every message in minutes", "el": "Για το ότι απαντάς σε κάθε μήνυμα σε λίγα λεπτά"},
+          {"en": "For never saying no to any request", "el": "Για το ότι δεν λες ποτέ «όχι» σε κανένα αίτημα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Fast replies are pleasant, but respect and income come from the results you produce.", "el": "Οι γρήγορες απαντήσεις είναι ευχάριστες, αλλά ο σεβασμός και το εισόδημα έρχονται από τα αποτελέσματά σου."}
+      }
+    },
+    {
+      "title": {"en": "The deep life is better", "el": "Η βαθιά ζωή είναι καλύτερη"},
+      "explain": {
+        "en": "Deep work is not only more productive. Newport argues it also makes life more satisfying. What you pay attention to becomes your experience of the day. A day spent on one meaningful, hard thing feels fuller than a day cut into a hundred small reactions. Concentration brings the state of flow, where you are fully absorbed, and the pride of a craftsman who does something well.",
+        "el": "Η βαθιά δουλειά δεν είναι μόνο πιο παραγωγική. Ο Newport υποστηρίζει ότι κάνει και τη ζωή πιο γεμάτη. Αυτό στο οποίο δίνεις προσοχή γίνεται η εμπειρία της μέρας σου. Μια μέρα αφιερωμένη σε ένα δύσκολο πράγμα με νόημα μοιάζει πιο πλούσια από μια μέρα κομματιασμένη σε εκατό μικρές αντιδράσεις. Η συγκέντρωση φέρνει τη ροή (flow), όπου απορροφάσαι εντελώς, και την περηφάνια του μάστορα που κάνει κάτι καλά."
+      },
+      "example": {
+        "en": "Psychologist Mihaly Csikszentmihalyi paged workers at random moments and asked how they felt. They reported flow, their best moments, far more often at work than in free time, although they said they wished they were at leisure.",
+        "el": "Ο ψυχολόγος Mihaly Csikszentmihalyi ειδοποιούσε εργαζόμενους σε τυχαίες στιγμές και ρωτούσε πώς νιώθουν. Ανέφεραν ροή, δηλαδή τις καλύτερες στιγμές τους, πολύ πιο συχνά στη δουλειά παρά στον ελεύθερο χρόνο, παρόλο που έλεγαν ότι θα προτιμούσαν να ξεκουράζονται."
+      },
+      "apply": {
+        "en": "Notice tonight which hours of the day you enjoyed most. They are usually the ones where you built something with full attention, not the ones spent on notifications. Plan tomorrow so that at least one such block exists, and plan your free time too: a walk, a book, friends, not the phone.",
+        "el": "Πρόσεξε απόψε ποιες ώρες της μέρας χάρηκες περισσότερο. Συνήθως είναι αυτές που έχτισες κάτι με όλη σου την προσοχή, όχι αυτές που πέρασες στις ειδοποιήσεις. Σχεδίασε την αυριανή μέρα ώστε να υπάρχει τουλάχιστον ένα τέτοιο μπλοκ, και σχεδίασε και τον ελεύθερο χρόνο σου: βόλτα, βιβλίο, φίλοι, όχι κινητό."
+      },
+      "check": {
+        "q": {"en": "According to Newport, what does a deep life give you besides results?", "el": "Κατά τον Newport, τι σου δίνει η βαθιά ζωή πέρα από αποτελέσματα;"},
+        "options": [
+          {"en": "More free hours to spend on social media", "el": "Περισσότερες ελεύθερες ώρες για τα social media"},
+          {"en": "More meaning and satisfaction in your days", "el": "Περισσότερο νόημα και ικανοποίηση στις μέρες σου"},
+          {"en": "Less need to plan your free time", "el": "Λιγότερη ανάγκη να σχεδιάζεις τον ελεύθερο χρόνο"}
+        ],
+        "answer": 1,
+        "why": {"en": "Your attention shapes your experience, and focused, meaningful effort feels better than scattered reaction.", "el": "Η προσοχή σου διαμορφώνει την εμπειρία σου, και η συγκεντρωμένη προσπάθεια με νόημα είναι πιο ευχάριστη από τη σκόρπια αντίδραση."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You sit down to write the script for a new ad. Ten minutes in, a client message lights up the phone. What do you do?", "el": "Κάθεσαι να γράψεις το σενάριο μιας νέας διαφήμισης. Στα δέκα λεπτά ανάβει το κινητό με μήνυμα πελάτη. Τι κάνεις;"},
+      "options": [
+        {"en": "Read it quickly and then return to the script", "el": "Το διαβάζεις γρήγορα και γυρνάς στο σενάριο"},
+        {"en": "Leave it for the fixed message time and keep writing", "el": "Το αφήνεις για τη σταθερή ώρα των μηνυμάτων και συνεχίζεις"},
+        {"en": "Answer it now so the client stays happy", "el": "Απαντάς τώρα για να μείνει ευχαριστημένος ο πελάτης"}
+      ],
+      "answer": 1,
+      "why": {"en": "Even a quick look leaves attention residue. The phone should not be in the room in the first place.", "el": "Ακόμα και μια γρήγορη ματιά αφήνει υπόλειμμα προσοχής. Το κινητό δεν έπρεπε καν να είναι στο δωμάτιο."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "It is Friday. You answered 200 messages and feel worn out, but no new meeting was booked and no site was delivered. What is the right conclusion?", "el": "Είναι Παρασκευή. Απάντησες σε 200 μηνύματα και είσαι πτώμα, αλλά δεν κλείστηκε κανένα νέο ραντεβού και δεν παραδόθηκε καμία ιστοσελίδα. Ποιο είναι το σωστό συμπέρασμα;"},
+      "options": [
+        {"en": "I was busy, not productive, and I must change the plan", "el": "Ήμουν απασχολημένος, όχι παραγωγικός, και πρέπει να αλλάξω το πλάνο"},
+        {"en": "It was a good week, because I worked very hard", "el": "Ήταν καλή εβδομάδα, γιατί δούλεψα πολύ σκληρά"},
+        {"en": "I need to work on Saturday and Sunday as well", "el": "Πρέπει να δουλέψω και Σάββατο και Κυριακή"}
+      ],
+      "answer": 0,
+      "why": {"en": "Tiredness is not a measure of value. The number that matters did not move.", "el": "Η κούραση δεν είναι μέτρο αξίας. Ο αριθμός που μετρά δεν κουνήθηκε."},
+      "idea": 3
+    },
+    {
+      "q": {"en": "A new AI tool promises a small benefit and all your competitors talk about it. Learning it needs two weeks. How do you decide?", "el": "Ένα νέο εργαλείο AI υπόσχεται ένα μικρό όφελος και όλοι οι ανταγωνιστές μιλούν γι' αυτό. Για να το μάθεις θέλεις δύο εβδομάδες. Πώς αποφασίζεις;"},
+      "options": [
+        {"en": "Adopt it, because any benefit is still a benefit", "el": "Το υιοθετείς, γιατί κάθε όφελος είναι όφελος"},
+        {"en": "Adopt it, so that you do not fall behind the others", "el": "Το υιοθετείς, για να μη μείνεις πίσω από τους άλλους"},
+        {"en": "Check if it strongly helps your two main goals", "el": "Ελέγχεις αν βοηθά δυνατά τους δύο βασικούς σου στόχους"}
+      ],
+      "answer": 2,
+      "why": {"en": "The craftsman approach: a tool earns its place only when the gain for your core goals beats its cost.", "el": "Η λογική του μάστορα: ένα εργαλείο κερδίζει τη θέση του μόνο όταν το όφελος στους βασικούς στόχους ξεπερνά το κόστος."},
+      "idea": 9
+    },
+    {
+      "q": {"en": "A dentist writes: «I want some changes on the site, can we talk?» How do you reply?", "el": "Ένας οδοντίατρος γράφει: «Θέλω κάποιες αλλαγές στη σελίδα, να τα πούμε;». Πώς απαντάς;"},
+      "options": [
+        {"en": "«Of course, when is a good time for you?»", "el": "«Φυσικά, πότε σας βολεύει;»"},
+        {"en": "«Sure, I will call you sometime this week.»", "el": "«Βεβαίως, θα σας πάρω κάποια στιγμή μέσα στην εβδομάδα»."},
+        {"en": "Ask for all changes in one numbered message and say when they will be done", "el": "Ζητάς όλες τις αλλαγές σε ένα αριθμημένο μήνυμα και λες πότε θα είναι έτοιμες"}
+      ],
+      "answer": 2,
+      "why": {"en": "A process-centric reply lays out the whole path and closes the matter in one exchange.", "el": "Η απάντηση-διαδικασία περιγράφει όλο τον δρόμο και κλείνει το θέμα σε μία ανταλλαγή."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "You are in a long queue at the bank and feel bored. Your hand goes to the phone. What do you do?", "el": "Είσαι σε μεγάλη ουρά στην τράπεζα και βαριέσαι. Το χέρι σου πάει στο κινητό. Τι κάνεις;"},
+      "options": [
+        {"en": "Leave it in your pocket and stay with the boredom", "el": "Το αφήνεις στην τσέπη και μένεις με τη βαρεμάρα"},
+        {"en": "Scroll a little, since the time is lost anyway", "el": "Σκρολάρεις λίγο, αφού ο χρόνος είναι χαμένος έτσι κι αλλιώς"},
+        {"en": "Answer work emails to make the wait useful", "el": "Απαντάς σε email δουλειάς για να αξιοποιήσεις την αναμονή"}
+      ],
+      "answer": 0,
+      "why": {"en": "Tolerating boredom is the training that keeps your ability to concentrate strong.", "el": "Το να αντέχεις τη βαρεμάρα είναι η προπόνηση που κρατά δυνατή τη συγκέντρωσή σου."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "It is 21:30, you are having dinner at home and you remember an unpaid invoice you must chase. What do you do?", "el": "Είναι 21:30, τρως στο σπίτι και θυμάσαι ένα απλήρωτο τιμολόγιο που πρέπει να κυνηγήσεις. Τι κάνεις;"},
+      "options": [
+        {"en": "Open the laptop and send the reminder now", "el": "Ανοίγεις το λάπτοπ και στέλνεις την υπενθύμιση τώρα"},
+        {"en": "Note it for the morning in one line and return to dinner", "el": "Το σημειώνεις για το πρωί σε μία γραμμή και γυρνάς στο φαγητό"},
+        {"en": "Keep thinking about it so that you do not forget", "el": "Το έχεις στο μυαλό σου συνέχεια για να μην το ξεχάσεις"}
+      ],
+      "answer": 1,
+      "why": {"en": "After the shutdown, a task only needs a place on tomorrow's list. Then your mind can rest.", "el": "Μετά το κλείσιμο της μέρας, μια εκκρεμότητα χρειάζεται μόνο μια θέση στην αυριανή λίστα. Τότε το μυαλό ξεκουράζεται."},
+      "idea": 12
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Two fully focused hours can produce more than a whole distracted day.", "el": "Δύο ώρες πλήρους συγκέντρωσης μπορούν να βγάλουν περισσότερη δουλειά από μια ολόκληρη μέρα με περισπασμούς."},
+      "answer": true,
+      "why": {"en": "Output is time multiplied by intensity, so high intensity can beat long hours.", "el": "Το αποτέλεσμα είναι χρόνος επί ένταση, άρα η μεγάλη ένταση μπορεί να νικήσει τις πολλές ώρες."}
+    },
+    {
+      "s": {"en": "Good multitaskers lose nothing when they switch between tasks.", "el": "Όσοι είναι καλοί στο multitasking δεν χάνουν τίποτα όταν αλλάζουν δουλειά."},
+      "answer": false,
+      "why": {"en": "Every switch leaves attention residue, and heavy multitaskers actually focus worse.", "el": "Κάθε αλλαγή αφήνει υπόλειμμα προσοχής, και όσοι το κάνουν συνέχεια συγκεντρώνονται τελικά χειρότερα."}
+    },
+    {
+      "s": {"en": "Newport says everyone must work like a monk, cut off from the world.", "el": "Ο Newport λέει ότι όλοι πρέπει να δουλεύουν σαν μοναχοί, αποκομμένοι από τον κόσμο."},
+      "answer": false,
+      "why": {"en": "He gives four approaches. For most people the rhythmic daily block fits best.", "el": "Δίνει τέσσερις τρόπους. Στους περισσότερους ταιριάζει ο ρυθμικός, με το καθημερινό μπλοκ."}
+    },
+    {
+      "s": {"en": "A fixed start ritual saves willpower.", "el": "Ένα σταθερό τελετουργικό έναρξης εξοικονομεί θέληση."},
+      "answer": true,
+      "why": {"en": "When place, time and rules are decided in advance, you spend no energy deciding.", "el": "Όταν ο χώρος, η ώρα και οι κανόνες έχουν αποφασιστεί από πριν, δεν ξοδεύεις ενέργεια σε αποφάσεις."}
+    },
+    {
+      "s": {"en": "An app deserves a place on your phone if it has any benefit at all.", "el": "Μια εφαρμογή αξίζει θέση στο κινητό σου αν έχει έστω και ένα μικρό όφελος."},
+      "answer": false,
+      "why": {"en": "That is the any-benefit mindset. The benefit must be strong for your core goals and beat the cost.", "el": "Αυτή είναι η νοοτροπία «κάποιο όφελος έχει». Το όφελος πρέπει να είναι μεγάλο για τους βασικούς στόχους και να ξεπερνά το κόστος."}
+    },
+    {
+      "s": {"en": "Stopping work at a fixed hour can make you more efficient.", "el": "Το να σταματάς τη δουλειά σε σταθερή ώρα μπορεί να σε κάνει πιο αποδοτικό."},
+      "answer": true,
+      "why": {"en": "The limit forces you to drop shallow work and protect what matters.", "el": "Το όριο σε αναγκάζει να πετάξεις τη ρηχή δουλειά και να προστατέψεις ό,τι μετρά."}
+    },
+    {
+      "s": {"en": "A time-block plan is useless once the day goes differently than planned.", "el": "Το πλάνο με τα μπλοκ είναι άχρηστο από τη στιγμή που η μέρα θα πάει αλλιώς."},
+      "answer": false,
+      "why": {"en": "You simply redraw the remaining blocks. The point is to keep choosing on purpose.", "el": "Απλώς ξανασχεδιάζεις τα μπλοκ που έμειναν. Το ζητούμενο είναι να συνεχίσεις να διαλέγεις συνειδητά."}
+    },
+    {
+      "s": {"en": "Resting properly in the evening helps tomorrow's concentration.", "el": "Η σωστή ξεκούραση το βράδυ βοηθά τη συγκέντρωση της επόμενης μέρας."},
+      "answer": true,
+      "why": {"en": "Focus is a limited resource that refills with real downtime.", "el": "Η συγκέντρωση είναι περιορισμένο απόθεμα που ξαναγεμίζει με πραγματική ξεκούραση."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Deep work", "el": "Βαθιά δουλειά"}, "b": {"en": "Hard thinking with full focus and no distraction", "el": "Δύσκολη σκέψη με πλήρη συγκέντρωση, χωρίς περισπασμούς"}},
+    {"a": {"en": "Shallow work", "el": "Ρηχή δουλειά"}, "b": {"en": "Easy tasks you can do while distracted", "el": "Εύκολες δουλειές που γίνονται και με περισπασμούς"}},
+    {"a": {"en": "Attention residue", "el": "Υπόλειμμα προσοχής"}, "b": {"en": "The part of your mind stuck on the last task", "el": "Το κομμάτι του μυαλού που έμεινε στην προηγούμενη δουλειά"}},
+    {"a": {"en": "Rhythmic philosophy", "el": "Ρυθμικός τρόπος"}, "b": {"en": "The same deep block at the same time daily", "el": "Το ίδιο βαθύ μπλοκ την ίδια ώρα κάθε μέρα"}},
+    {"a": {"en": "Time-blocking", "el": "Μπλοκ χρόνου"}, "b": {"en": "Giving every part of the day one job", "el": "Κάθε κομμάτι της μέρας παίρνει μία δουλειά"}},
+    {"a": {"en": "Shutdown ritual", "el": "Τελετουργικό κλεισίματος"}, "b": {"en": "A fixed routine that ends the workday completely", "el": "Σταθερή ρουτίνα που κλείνει οριστικά την εργάσιμη μέρα"}}
+  ],
+  "missions": [
+    {"en": "Block 90 minutes tomorrow morning for your hardest task, with the phone in another room and all tabs closed.", "el": "Κλείσε αύριο το πρωί 90 λεπτά για την πιο δύσκολη δουλειά σου, με το κινητό σε άλλο δωμάτιο και όλες τις καρτέλες κλειστές."},
+    {"en": "Draw tomorrow's time blocks on paper in five minutes, and redraw them once when the day changes.", "el": "Ζωγράφισε σε χαρτί τα αυριανά μπλοκ μέσα σε πέντε λεπτά, και ξανασχεδίασέ τα μία φορά όταν αλλάξει η μέρα."},
+    {"en": "Walk for fifteen minutes without headphones and think about one single business question until you have an answer.", "el": "Περπάτα δεκαπέντε λεπτά χωρίς ακουστικά και σκέψου μία μόνο ερώτηση της επιχείρησης, μέχρι να βρεις απάντηση."},
+    {"en": "Rewrite one reply to a client as a process email: all steps, all dates, in one message.", "el": "Ξαναγράψε μία απάντηση σε πελάτη ως email διαδικασίας: όλα τα βήματα, όλες οι ημερομηνίες, σε ένα μήνυμα."},
+    {"en": "Do a ten-minute shutdown tonight: list tomorrow's tasks, close the laptop and say «done for today».", "el": "Κάνε απόψε ένα δεκάλεπτο κλείσιμο: γράψε τις αυριανές δουλειές, κλείσε το λάπτοπ και πες «τέλος για σήμερα»."}
+  ],
+  "mantra": {"en": "One hard thing, full attention, phone away.", "el": "Ένα δύσκολο πράγμα, όλη μου η προσοχή, το κινητό μακριά."},
+  "careful": {
+    "en": "The book fits professors and writers best. Their examples are mostly people who control their own schedule. A founder who sells by phone and serves clients cannot disappear for days, so adapt the rules instead of copying them. Newport also undervalues social media as a sales channel, which for you is real work. Some studies he leans on, such as willpower as a fuel that runs out, have not replicated well.",
+    "el": "Το βιβλίο ταιριάζει κυρίως σε καθηγητές και συγγραφείς. Τα παραδείγματά του είναι ως επί το πλείστον άνθρωποι που ορίζουν μόνοι τους το πρόγραμμά τους. Ένας ιδρυτής που πουλά από το τηλέφωνο και εξυπηρετεί πελάτες δεν μπορεί να χάνεται για μέρες, άρα προσάρμοσε τους κανόνες αντί να τους αντιγράψεις. Ο Newport υποτιμά επίσης τα social media ως κανάλι πωλήσεων, που για σένα είναι κανονική δουλειά. Και κάποιες έρευνες στις οποίες στηρίζεται, όπως η θέληση ως καύσιμο που τελειώνει, δεν έχουν επιβεβαιωθεί καλά."
+  },
+  "connects": [
+    {"book": "procrastination-puzzle", "note": {"en": "Newport tells you to protect deep hours; Pychyl explains why you avoid starting them and how to begin anyway.", "el": "Ο Newport σου λέει να προστατεύεις τις βαθιές ώρες· ο Pychyl εξηγεί γιατί αποφεύγεις να τις ξεκινήσεις και πώς να αρχίσεις παρ' όλα αυτά."}},
+    {"book": "feel-good-productivity", "note": {"en": "Ali Abdaal argues that enjoyment, not strict discipline, is what keeps you productive, a softer view than Newport's rules.", "el": "Ο Ali Abdaal υποστηρίζει ότι αυτό που σε κρατά παραγωγικό είναι η ευχαρίστηση και όχι η αυστηρή πειθαρχία, μια πιο ήπια ματιά από τους κανόνες του Newport."}},
+    {"book": "who-not-how", "note": {"en": "Shallow work that you cannot delete should go to someone else, which frees your own hours for depth.", "el": "Η ρηχή δουλειά που δεν μπορείς να σβήσεις πρέπει να πάει σε κάποιον άλλον, ώστε οι δικές σου ώρες να μείνουν για βάθος."}}
+  ]
+}

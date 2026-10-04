@@ -1,0 +1,536 @@
+{
+  "id": "the-founders",
+  "title": {"en": "The Founders", "el": "Οι Ιδρυτές"},
+  "author": "Jimmy Soni",
+  "authorEl": "Τζίμι Σόνι",
+  "year": 2022,
+  "shelf": "founders",
+  "skills": {"strategy": 3, "leadership": 2, "mindset": 2},
+  "oneLine": {
+    "en": "How a small, stubborn team survived fraud, a hostile giant, a coup and a market crash to build PayPal, and then went on to build half of Silicon Valley.",
+    "el": "Πώς μια μικρή, πεισματάρα ομάδα άντεξε απάτες, έναν εχθρικό γίγαντα, ένα πραξικόπημα και ένα κραχ για να χτίσει την PayPal, και μετά έχτισε τη μισή Silicon Valley."
+  },
+  "story": {
+    "en": "Jimmy Soni spent years interviewing hundreds of early PayPal people and reading their old emails. The result is the full story of the four years from 1998 to 2002: two rival startups on the same street, their merger, the fight with eBay, the fraud crisis, the removal of Elon Musk as CEO, the IPO and the sale. People read it because it shows how messy a great company looks from the inside.",
+    "el": "Ο Τζίμι Σόνι πέρασε χρόνια μιλώντας με εκατοντάδες ανθρώπους της πρώτης PayPal και διαβάζοντας τα παλιά τους email. Το αποτέλεσμα είναι όλη η ιστορία των τεσσάρων χρόνων από το 1998 ως το 2002: δύο αντίπαλες startup στον ίδιο δρόμο, η συγχώνευσή τους, η μάχη με το eBay, η κρίση με τις απάτες, η απομάκρυνση του Έλον Μασκ από CEO, η είσοδος στο χρηματιστήριο και η πώληση. Διαβάζεται γιατί δείχνει πόσο χαοτική είναι από μέσα μια σπουδαία εταιρεία."
+  },
+  "forYou": {
+    "en": "You run a small team that wants to grow fast, you pay to win every client, and you depend on platforms you do not own. PayPal lived exactly these problems at a huge scale. The book shows you how a tiny team beats bigger players: one clear number, speed, brutally honest talk, and loving the customers who matter most.",
+    "el": "Έχεις μια μικρή ομάδα που θέλει να μεγαλώσει γρήγορα, πληρώνεις για να κερδίσεις κάθε πελάτη και εξαρτάσαι από πλατφόρμες που δεν είναι δικές σου. Η PayPal έζησε ακριβώς αυτά τα προβλήματα, σε τεράστια κλίμακα. Το βιβλίο σού δείχνει πώς μια μικρή ομάδα νικά μεγαλύτερους παίκτες: ένας καθαρός αριθμός, ταχύτητα, ωμή ειλικρίνεια και αγάπη για τους πελάτες που μετράνε περισσότερο."
+  },
+  "ideas": [
+    {
+      "title": {"en": "The first idea rarely wins", "el": "Η πρώτη ιδέα σπάνια είναι η σωστή"},
+      "explain": {
+        "en": "PayPal did not start as PayPal. It came from two different companies with two different plans, and neither plan was the one that won. The lesson: start with something, put it in front of real people, and be ready to change it. The founders who win are not the ones with the perfect first idea. They are the ones who notice quickly that the idea is wrong.",
+        "el": "Η PayPal δεν ξεκίνησε ως PayPal. Βγήκε από δύο διαφορετικές εταιρείες με δύο διαφορετικά σχέδια, και κανένα από τα δύο δεν ήταν αυτό που κέρδισε. Το μάθημα: ξεκίνα με κάτι, δείξ' το σε αληθινούς ανθρώπους και να είσαι έτοιμος να το αλλάξεις. Δεν κερδίζουν οι ιδρυτές με την τέλεια πρώτη ιδέα. Κερδίζουν όσοι καταλαβαίνουν γρήγορα ότι η ιδέα τους είναι λάθος."
+      },
+      "example": {
+        "en": "Max Levchin and Peter Thiel founded Confinity in 1998 to make security software for PalmPilots, then switched to sending money between PalmPilots. A few doors away in Palo Alto, Elon Musk started X.com in 1999 to be a complete online bank. Neither plan survived as designed.",
+        "el": "Ο Μαξ Λέβτσιν και ο Πίτερ Τιλ ίδρυσαν την Confinity το 1998 για να φτιάξουν λογισμικό ασφαλείας για τα PalmPilot, και μετά το γύρισαν σε αποστολή χρημάτων από PalmPilot σε PalmPilot. Λίγες πόρτες πιο κάτω, στο Πάλο Άλτο, ο Έλον Μασκ ξεκίνησε το 1999 την X.com για να γίνει μια πλήρης online τράπεζα. Κανένα σχέδιο δεν έμεινε όπως σχεδιάστηκε."
+      },
+      "apply": {
+        "en": "Treat every new service you think of (eshops, video, monthly care plans) as a test, not a decision. Offer it to five clients this month, watch who actually pays and uses it, and keep only what real behaviour confirms.",
+        "el": "Δες κάθε νέα υπηρεσία που σκέφτεσαι (eshop, βίντεο, μηνιαία πακέτα συντήρησης) σαν δοκιμή, όχι σαν απόφαση. Πρότεινέ τη σε πέντε πελάτες αυτόν τον μήνα, δες ποιος πραγματικά πληρώνει και τη χρησιμοποιεί, και κράτα μόνο ό,τι επιβεβαιώνει η αληθινή συμπεριφορά."
+      },
+      "check": {
+        "q": {"en": "What does the origin of PayPal teach?", "el": "Τι διδάσκει το ξεκίνημα της PayPal;"},
+        "options": [
+          {"en": "A great company needs a perfect first plan", "el": "Μια σπουδαία εταιρεία θέλει τέλειο πρώτο σχέδιο"},
+          {"en": "The first plan is a starting point you must be ready to change", "el": "Το πρώτο σχέδιο είναι αφετηρία που πρέπει να είσαι έτοιμος να αλλάξεις"},
+          {"en": "You should never change direction once you start", "el": "Δεν πρέπει ποτέ να αλλάζεις πορεία αφού ξεκινήσεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "Both Confinity and X.com began with plans that were dropped. What won came later.", "el": "Και η Confinity και η X.com ξεκίνησαν με σχέδια που εγκαταλείφθηκαν. Αυτό που κέρδισε ήρθε αργότερα."}
+      }
+    },
+    {
+      "title": {"en": "Follow what users really do", "el": "Ακολούθα αυτό που κάνουν οι χρήστες"},
+      "explain": {
+        "en": "Customers often use your product in a way you did not plan. That is not a problem, it is a signal. The team that watches real behaviour and moves towards it wins. The team that insists on its original vision loses time. PayPal's success came from two things nobody had put at the centre of the plan: paying by email, and eBay sellers.",
+        "el": "Οι πελάτες συχνά χρησιμοποιούν το προϊόν σου με τρόπο που δεν είχες σχεδιάσει. Αυτό δεν είναι πρόβλημα, είναι σήμα. Κερδίζει η ομάδα που κοιτάζει την αληθινή συμπεριφορά και πηγαίνει προς τα εκεί. Όποια επιμένει στο αρχικό της όραμα χάνει χρόνο. Η επιτυχία της PayPal ήρθε από δύο πράγματα που κανείς δεν είχε βάλει στο κέντρο του σχεδίου: την πληρωμή με email και τους πωλητές του eBay."
+      },
+      "example": {
+        "en": "Sending money by email was built as a side feature next to the PalmPilot product. Almost nobody beamed money between PalmPilots, but the email version exploded. Then eBay sellers started putting PayPal in their auctions on their own. The team was surprised, then built tools especially for them.",
+        "el": "Η αποστολή χρημάτων με email φτιάχτηκε ως δευτερεύουσα λειτουργία δίπλα στο προϊόν για PalmPilot. Σχεδόν κανείς δεν έστελνε χρήματα από PalmPilot σε PalmPilot, αλλά η εκδοχή με το email απογειώθηκε. Μετά, οι πωλητές του eBay άρχισαν μόνοι τους να βάζουν το PayPal στις δημοπρασίες τους. Η ομάδα ξαφνιάστηκε, και μετά έφτιαξε εργαλεία ειδικά γι' αυτούς."
+      },
+      "apply": {
+        "en": "Look at your last 30 clients and count which profession came most easily, paid on time and sent you referrals. That group is your eBay sellers. Build your ads, your examples and your cold-call list around them first.",
+        "el": "Κοίτα τους τελευταίους 30 πελάτες σου και μέτρα ποιο επάγγελμα ήρθε πιο εύκολα, πλήρωσε στην ώρα του και σου έστειλε συστάσεις. Αυτή η ομάδα είναι οι δικοί σου «πωλητές του eBay». Χτίσε πρώτα γύρω της τις διαφημίσεις, τα παραδείγματα και τη λίστα για τα cold call."
+      },
+      "check": {
+        "q": {"en": "eBay sellers started using PayPal without being asked. What was the right reaction?", "el": "Οι πωλητές του eBay άρχισαν να χρησιμοποιούν το PayPal χωρίς να τους το ζητήσει κανείς. Ποια ήταν η σωστή αντίδραση;"},
+        "options": [
+          {"en": "Build for them, because real use shows where the market is", "el": "Να χτίσεις γι' αυτούς, γιατί η αληθινή χρήση δείχνει πού είναι η αγορά"},
+          {"en": "Block them, because they were not in the plan", "el": "Να τους μπλοκάρεις, γιατί δεν ήταν στο σχέδιο"},
+          {"en": "Ignore them and keep pushing the PalmPilot product", "el": "Να τους αγνοήσεις και να συνεχίσεις με το προϊόν για PalmPilot"}
+        ],
+        "answer": 0,
+        "why": {"en": "Unplanned demand is the strongest signal a young company gets.", "el": "Η ζήτηση που δεν σχεδίασες είναι το πιο δυνατό σήμα που παίρνει μια νέα εταιρεία."}
+      }
+    },
+    {
+      "title": {"en": "Pay the customer, not the advertiser", "el": "Πλήρωσε τον πελάτη, όχι τη διαφήμιση"},
+      "explain": {
+        "en": "Every customer costs money to win. This is called customer acquisition cost. PayPal decided to give that money straight to the customers instead of to advertising. A new user got cash, and the friend who invited them got cash too. So every user became a salesman. It was expensive, but it was fast, and in a network business speed decides who survives.",
+        "el": "Κάθε πελάτης κοστίζει χρήματα για να τον κερδίσεις. Αυτό λέγεται κόστος απόκτησης πελάτη. Η PayPal αποφάσισε να δώσει αυτά τα χρήματα κατευθείαν στους πελάτες αντί στη διαφήμιση. Ο νέος χρήστης έπαιρνε μετρητά, και ο φίλος που τον κάλεσε έπαιρνε κι αυτός. Έτσι κάθε χρήστης έγινε πωλητής. Ήταν ακριβό, αλλά γρήγορο, και σε μια επιχείρηση δικτύου η ταχύτητα κρίνει ποιος επιβιώνει."
+      },
+      "example": {
+        "en": "PayPal gave 10 dollars to each new user and 10 dollars to whoever referred them. Sign-ups grew by several percent every day and the service passed a million users within months. The bonuses cost tens of millions of dollars, so the company lowered them to 5 dollars and later ended them.",
+        "el": "Η PayPal έδινε 10 δολάρια σε κάθε νέο χρήστη και 10 δολάρια σε όποιον τον σύστησε. Οι εγγραφές ανέβαιναν αρκετά τοις εκατό κάθε μέρα και η υπηρεσία πέρασε το ένα εκατομμύριο χρήστες μέσα σε λίγους μήνες. Τα μπόνους κόστισαν δεκάδες εκατομμύρια δολάρια, γι' αυτό η εταιρεία τα κατέβασε στα 5 δολάρια και αργότερα τα σταμάτησε."
+      },
+      "apply": {
+        "en": "Work out what one new client costs you in ads and calling hours. Then offer part of that amount to existing clients as a reward for every colleague they bring, for example free months of hosting. A doctor's recommendation to another doctor beats any ad.",
+        "el": "Υπολόγισε πόσο σου κοστίζει ένας νέος πελάτης σε διαφημίσεις και ώρες τηλεφώνου. Μετά δώσε ένα μέρος αυτού του ποσού στους υπάρχοντες πελάτες ως ανταμοιβή για κάθε συνάδελφο που φέρνουν, για παράδειγμα δωρεάν μήνες φιλοξενίας. Η σύσταση ενός γιατρού σε άλλον γιατρό νικά κάθε διαφήμιση."
+      },
+      "check": {
+        "q": {"en": "What was the logic behind the 10-dollar bonus?", "el": "Ποια ήταν η λογική πίσω από το μπόνους των 10 δολαρίων;"},
+        "options": [
+          {"en": "Giving money away is always good marketing", "el": "Το να χαρίζεις χρήματα είναι πάντα καλό μάρκετινγκ"},
+          {"en": "It was a gift with no business purpose", "el": "Ήταν ένα δώρο χωρίς επιχειρηματικό σκοπό"},
+          {"en": "It was the cost of winning a customer, paid to the customer", "el": "Ήταν το κόστος απόκτησης πελάτη, πληρωμένο στον ίδιο τον πελάτη"}
+        ],
+        "answer": 2,
+        "why": {"en": "The bonus replaced advertising spend and turned users into recruiters.", "el": "Το μπόνους αντικατέστησε τη διαφήμιση και έκανε τους χρήστες να φέρνουν άλλους χρήστες."}
+      }
+    },
+    {
+      "title": {"en": "One number, and growth breaks things", "el": "Ένας αριθμός, και η ανάπτυξη σπάει πράγματα"},
+      "explain": {
+        "en": "The early team watched one number: how many users they had. Everyone saw it, all day. One clear number focuses a team better than any speech. But fast growth has a price. When users multiply, everything behind the product breaks: support, servers, checks. Growth without the ability to serve it produces angry customers, so you must build the back office as fast as the front.",
+        "el": "Η πρώτη ομάδα παρακολουθούσε έναν αριθμό: πόσους χρήστες είχε. Τον έβλεπαν όλοι, όλη μέρα. Ένας καθαρός αριθμός συγκεντρώνει μια ομάδα καλύτερα από κάθε λόγο. Όμως η γρήγορη ανάπτυξη έχει τίμημα. Όταν οι χρήστες πολλαπλασιάζονται, ό,τι υπάρχει πίσω από το προϊόν σπάει: εξυπηρέτηση, servers, έλεγχοι. Ανάπτυξη που δεν μπορείς να εξυπηρετήσεις φέρνει θυμωμένους πελάτες, άρα πρέπει να χτίζεις το «πίσω» όσο γρήγορα χτίζεις το «μπροστά»."
+      },
+      "example": {
+        "en": "At Confinity a small counter on the office computers, jokingly called the World Domination Index, showed the number of users going up. In 2000 growth outran support: tens of thousands of customer emails sat unanswered. The company fixed it by quickly opening a customer service centre in Omaha, Nebraska.",
+        "el": "Στην Confinity ένας μικρός μετρητής στους υπολογιστές του γραφείου, που για πλάκα τον έλεγαν «Δείκτη Παγκόσμιας Κυριαρχίας», έδειχνε τον αριθμό των χρηστών να ανεβαίνει. Το 2000 η ανάπτυξη ξεπέρασε την εξυπηρέτηση: δεκάδες χιλιάδες email πελατών έμεναν αναπάντητα. Η εταιρεία το έλυσε ανοίγοντας γρήγορα ένα κέντρο εξυπηρέτησης στην Όμαχα της Νεμπράσκα."
+      },
+      "apply": {
+        "en": "Pick one number for the team, for example new sites sold this month, and put it where everyone sees it daily. Next to it keep a second number that shows the cost of growth: how many client requests are waiting more than 24 hours.",
+        "el": "Διάλεξε έναν αριθμό για την ομάδα, για παράδειγμα πόσες νέες ιστοσελίδες πουλήθηκαν αυτόν τον μήνα, και βάλ' τον εκεί που τον βλέπουν όλοι κάθε μέρα. Δίπλα του κράτα έναν δεύτερο αριθμό που δείχνει το κόστος της ανάπτυξης: πόσα αιτήματα πελατών περιμένουν πάνω από 24 ώρες."
+      },
+      "check": {
+        "q": {"en": "Why did PayPal have to open a support centre in a hurry?", "el": "Γιατί η PayPal χρειάστηκε να ανοίξει βιαστικά κέντρο εξυπηρέτησης;"},
+        "options": [
+          {"en": "Investors demanded an office outside California", "el": "Οι επενδυτές ζήτησαν γραφείο εκτός Καλιφόρνιας"},
+          {"en": "Users grew faster than the team's ability to answer them", "el": "Οι χρήστες αυξάνονταν πιο γρήγορα απ' όσο μπορούσε να τους απαντήσει η ομάδα"},
+          {"en": "The product had stopped growing and needed promotion", "el": "Το προϊόν είχε σταματήσει να μεγαλώνει και ήθελε προώθηση"}
+        ],
+        "answer": 1,
+        "why": {"en": "Fast growth breaks whatever sits behind the product, starting with support.", "el": "Η γρήγορη ανάπτυξη σπάει ό,τι βρίσκεται πίσω από το προϊόν, ξεκινώντας από την εξυπηρέτηση."}
+      }
+    },
+    {
+      "title": {"en": "Merge instead of bleeding", "el": "Ένωση αντί για αιμορραγία"},
+      "explain": {
+        "en": "Two rivals that fight with money can destroy each other while a third player wins. Confinity and X.com both paid bonuses to the same customers and both burned cash very fast. They understood that the war had no winner. So they merged. A merger is painful: two cultures, two egos, two technologies. But it is better than mutual destruction. Sometimes the smartest move against a rival is to join forces.",
+        "el": "Δύο αντίπαλοι που πολεμούν με χρήμα μπορούν να καταστρέψουν ο ένας τον άλλον, ενώ κερδίζει ένας τρίτος. Η Confinity και η X.com έδιναν και οι δύο μπόνους στους ίδιους πελάτες και έκαιγαν μετρητά πολύ γρήγορα. Κατάλαβαν ότι ο πόλεμος δεν είχε νικητή. Έτσι ενώθηκαν. Μια συγχώνευση πονάει: δύο κουλτούρες, δύο εγωισμοί, δύο τεχνολογίες. Είναι όμως καλύτερη από την αμοιβαία καταστροφή. Καμιά φορά η πιο έξυπνη κίνηση απέναντι σε έναν αντίπαλο είναι να ενώσεις δυνάμεις."
+      },
+      "example": {
+        "en": "In March 2000 the two companies merged in a roughly equal deal under the X.com name. In the same month the company closed a 100 million dollar funding round, just before the dot-com market crashed. Thiel had pushed to finish the round fast because he feared the crash was coming.",
+        "el": "Τον Μάρτιο του 2000 οι δύο εταιρείες συγχωνεύτηκαν με περίπου ίσους όρους, με το όνομα X.com. Τον ίδιο μήνα η εταιρεία έκλεισε έναν γύρο χρηματοδότησης 100 εκατομμυρίων δολαρίων, λίγο πριν καταρρεύσει η αγορά των dot-com. Ο Τιλ είχε πιέσει να κλείσει γρήγορα ο γύρος, γιατί φοβόταν ότι το κραχ πλησίαζε."
+      },
+      "apply": {
+        "en": "Stop answering a competitor's lower price with an even lower one. Ask instead who you could work with: a photographer, an accountant, an ads specialist, even another small agency. Share clients where each side is stronger, rather than both getting poorer.",
+        "el": "Σταμάτα να απαντάς στη χαμηλότερη τιμή ενός ανταγωνιστή με ακόμα χαμηλότερη. Ρώτα καλύτερα με ποιον θα μπορούσες να συνεργαστείς: έναν φωτογράφο, έναν λογιστή, έναν ειδικό στις διαφημίσεις, ακόμα και ένα άλλο μικρό γραφείο. Μοιραστείτε πελάτες εκεί που ο καθένας είναι πιο δυνατός, αντί να φτωχαίνετε και οι δύο."
+      },
+      "check": {
+        "q": {"en": "Why did Confinity and X.com merge?", "el": "Γιατί συγχωνεύτηκαν η Confinity και η X.com;"},
+        "options": [
+          {"en": "They were burning cash against each other with no winner in sight", "el": "Έκαιγαν μετρητά η μία απέναντι στην άλλη χωρίς νικητή στον ορίζοντα"},
+          {"en": "The founders were old friends who wanted to work together", "el": "Οι ιδρυτές ήταν παλιοί φίλοι που ήθελαν να δουλέψουν μαζί"},
+          {"en": "A regulator ordered the two companies to unite", "el": "Μια ρυθμιστική αρχή διέταξε τις δύο εταιρείες να ενωθούν"}
+        ],
+        "answer": 0,
+        "why": {"en": "The merger stopped a money war that could have killed both.", "el": "Η συγχώνευση σταμάτησε έναν πόλεμο χρημάτων που θα μπορούσε να σκοτώσει και τις δύο."}
+      }
+    },
+    {
+      "title": {"en": "Never rebuild in a storm", "el": "Μην ξαναχτίζεις μέσα στην καταιγίδα"},
+      "explain": {
+        "en": "A leader can be brilliant and still lose the team. In 2000 Musk, as CEO, wanted two big changes while the company was losing money to fraud: rewrite the whole system on Microsoft technology, and replace the PayPal name with X. The team believed both moves were dangerous distractions. When a leader stops listening, good people organise against him. And when customers love a name, you keep the name.",
+        "el": "Ένας ηγέτης μπορεί να είναι λαμπρός και παρ' όλα αυτά να χάσει την ομάδα. Το 2000 ο Μασκ, ως CEO, ήθελε δύο μεγάλες αλλαγές ενώ η εταιρεία έχανε χρήματα από απάτες: να ξαναγραφτεί όλο το σύστημα σε τεχνολογία της Microsoft και να αντικατασταθεί το όνομα PayPal με το X. Η ομάδα πίστευε ότι και τα δύο ήταν επικίνδυνοι περισπασμοί. Όταν ο ηγέτης σταματά να ακούει, οι καλοί άνθρωποι οργανώνονται εναντίον του. Και όταν οι πελάτες αγαπούν ένα όνομα, το κρατάς."
+      },
+      "example": {
+        "en": "In September 2000 Musk left on a trip that combined investor meetings with a delayed honeymoon. While he was away, senior people took a letter of no confidence to the board. Musk was removed and Thiel returned as CEO. Musk accepted the decision, kept his shares and continued to support the company.",
+        "el": "Τον Σεπτέμβριο του 2000 ο Μασκ έφυγε για ένα ταξίδι που συνδύαζε συναντήσεις με επενδυτές και τον μήνα του μέλιτος που είχε αναβάλει. Όσο έλειπε, κορυφαία στελέχη πήγαν στο διοικητικό συμβούλιο μια επιστολή δυσπιστίας. Ο Μασκ απομακρύνθηκε και ο Τιλ επέστρεψε ως CEO. Ο Μασκ δέχτηκε την απόφαση, κράτησε τις μετοχές του και συνέχισε να στηρίζει την εταιρεία."
+      },
+      "apply": {
+        "en": "Fix the urgent problem first and postpone the big rebuild. Before you change your tools, your offer or your brand, ask your two closest people what they think is dangerous about it, and really listen. If you lose an argument, accept it without grudges.",
+        "el": "Λύσε πρώτα το επείγον πρόβλημα και άφησε τη μεγάλη αναδόμηση για μετά. Πριν αλλάξεις εργαλεία, προσφορά ή όνομα, ρώτα τους δύο πιο κοντινούς σου ανθρώπους τι βλέπουν επικίνδυνο σε αυτό, και άκουσέ τους πραγματικά. Αν χάσεις μια διαφωνία, δέξου το χωρίς κακίες."
+      },
+      "check": {
+        "q": {"en": "What mainly turned the team against Musk as CEO?", "el": "Τι έστρεψε κυρίως την ομάδα εναντίον του Μασκ ως CEO;"},
+        "options": [
+          {"en": "He wanted to sell the company to eBay too early", "el": "Ήθελε να πουλήσει την εταιρεία στο eBay πολύ νωρίς"},
+          {"en": "He refused to work long hours with the team", "el": "Αρνιόταν να δουλέψει πολλές ώρες με την ομάδα"},
+          {"en": "He pushed a full rewrite and the X name during a crisis", "el": "Πίεζε για ολική επανεγγραφή και για το όνομα X μέσα σε κρίση"}
+        ],
+        "answer": 2,
+        "why": {"en": "The team saw both moves as risky distractions while fraud was draining the company.", "el": "Η ομάδα έβλεπε και τις δύο κινήσεις ως ριψοκίνδυνους περισπασμούς, ενώ οι απάτες στράγγιζαν την εταιρεία."}
+      }
+    },
+    {
+      "title": {"en": "The ugly problem is the moat", "el": "Το άσχημο πρόβλημα είναι το οχυρό σου"},
+      "explain": {
+        "en": "Fraud almost killed PayPal. Criminals, many from organised groups in Russia, used stolen cards to pull out money, and the company paid the bill. Banks said this could not be solved. Levchin's team solved it with a mix of software and human investigators. The boring, painful problem that everyone avoids often becomes your strongest protection, because competitors cannot copy the solution quickly.",
+        "el": "Οι απάτες παραλίγο να σκοτώσουν την PayPal. Εγκληματίες, πολλοί από οργανωμένες ομάδες στη Ρωσία, χρησιμοποιούσαν κλεμμένες κάρτες για να τραβήξουν χρήματα, και τον λογαριασμό τον πλήρωνε η εταιρεία. Οι τράπεζες έλεγαν ότι αυτό δεν λύνεται. Η ομάδα του Λέβτσιν το έλυσε συνδυάζοντας λογισμικό και ανθρώπους ερευνητές. Το βαρετό, επίπονο πρόβλημα που όλοι αποφεύγουν γίνεται συχνά η πιο ισχυρή σου προστασία, γιατί οι ανταγωνιστές δεν μπορούν να αντιγράψουν γρήγορα τη λύση."
+      },
+      "example": {
+        "en": "At the worst point PayPal was losing millions of dollars a month to fraud. The team built a tool called Igor, named after a fraudster who taunted them, which flagged suspicious payments for human analysts. Levchin and David Gausebeck also created one of the first commercial CAPTCHA tests to stop automated sign-ups.",
+        "el": "Στη χειρότερη φάση η PayPal έχανε εκατομμύρια δολάρια τον μήνα από απάτες. Η ομάδα έφτιαξε ένα εργαλείο που το ονόμασε Igor, από έναν απατεώνα που τους κορόιδευε, το οποίο σημάδευε τις ύποπτες πληρωμές για να τις ελέγξουν άνθρωποι αναλυτές. Ο Λέβτσιν και ο Ντέιβιντ Γκάουζμπεκ έφτιαξαν επίσης ένα από τα πρώτα εμπορικά τεστ CAPTCHA, για να σταματήσουν τις αυτόματες εγγραφές."
+      },
+      "apply": {
+        "en": "Name the dull problem that eats your profit, such as clients who pay late or renewals that slip. Build a simple system for it: automatic reminders plus one human call on a fixed day. Solving this well is harder to copy than a nice design.",
+        "el": "Ονόμασε το βαρετό πρόβλημα που σου τρώει το κέρδος, όπως οι πελάτες που πληρώνουν αργά ή οι ανανεώσεις που ξεφεύγουν. Φτιάξε ένα απλό σύστημα γι' αυτό: αυτόματες υπενθυμίσεις και ένα τηλεφώνημα από άνθρωπο σε σταθερή μέρα. Αυτό, αν το λύσεις καλά, αντιγράφεται πιο δύσκολα από ένα ωραίο design."
+      },
+      "check": {
+        "q": {"en": "Why did solving fraud become a strength for PayPal?", "el": "Γιατί η λύση στις απάτες έγινε δύναμη για την PayPal;"},
+        "options": [
+          {"en": "Fraud was a small issue that was easy to fix", "el": "Οι απάτες ήταν μικρό θέμα που λύθηκε εύκολα"},
+          {"en": "Rivals could not easily copy a solution that hard", "el": "Οι αντίπαλοι δεν μπορούσαν εύκολα να αντιγράψουν μια τόσο δύσκολη λύση"},
+          {"en": "Banks shared their own fraud tools with PayPal", "el": "Οι τράπεζες μοιράστηκαν τα δικά τους εργαλεία με την PayPal"}
+        ],
+        "answer": 1,
+        "why": {"en": "A hard problem solved well protects you from competitors.", "el": "Ένα δύσκολο πρόβλημα που λύθηκε καλά σε προστατεύει από τους ανταγωνιστές."}
+      }
+    },
+    {
+      "title": {"en": "Building on someone else's land", "el": "Χτίζεις σε ξένο οικόπεδο"},
+      "explain": {
+        "en": "Most of PayPal's payments happened on eBay, a company that did not own PayPal and did not like it. This is the platform problem: when your business lives inside another company's product, that company can change the rules at any time. PayPal could not escape quickly. So it defended itself with the only weapon it had: being the product the heaviest users preferred.",
+        "el": "Οι περισσότερες πληρωμές της PayPal γίνονταν στο eBay, μια εταιρεία που δεν της ανήκε και που δεν τη συμπαθούσε. Αυτό είναι το πρόβλημα της πλατφόρμας: όταν η επιχείρησή σου ζει μέσα στο προϊόν μιας άλλης εταιρείας, εκείνη μπορεί να αλλάξει τους κανόνες όποτε θέλει. Η PayPal δεν μπορούσε να ξεφύγει γρήγορα. Αμύνθηκε λοιπόν με το μόνο όπλο που είχε: να είναι το προϊόν που προτιμούσαν οι πιο δυνατοί χρήστες."
+      },
+      "example": {
+        "en": "eBay owned a rival payment service, Billpoint, run together with the bank Wells Fargo. It placed Billpoint inside its own checkout and offered sellers perks to use it. Still, the big sellers kept choosing PayPal, because it was faster and built for them, and PayPal stayed on most auctions.",
+        "el": "Το eBay είχε δική του ανταγωνιστική υπηρεσία πληρωμών, την Billpoint, που τη λειτουργούσε μαζί με την τράπεζα Wells Fargo. Έβαλε την Billpoint μέσα στο δικό του ταμείο και έδινε προνόμια στους πωλητές για να τη χρησιμοποιούν. Παρ' όλα αυτά, οι μεγάλοι πωλητές συνέχισαν να διαλέγουν το PayPal, γιατί ήταν πιο γρήγορο και φτιαγμένο γι' αυτούς, και το PayPal έμεινε στις περισσότερες δημοπρασίες."
+      },
+      "apply": {
+        "en": "List the platforms your income depends on: Meta for ads, your hosting provider, the tools you build with. For each one write what you would do if it doubled its price or closed your account tomorrow. Keep a second source of leads that you own, like referrals and your call lists.",
+        "el": "Γράψε τις πλατφόρμες από τις οποίες εξαρτάται το εισόδημά σου: τη Meta για τις διαφημίσεις, τον πάροχο φιλοξενίας, τα εργαλεία με τα οποία χτίζεις. Για καθεμία σημείωσε τι θα έκανες αν αύριο διπλασίαζε την τιμή ή σου έκλεινε τον λογαριασμό. Κράτα και μια δεύτερη πηγή πελατών που είναι δική σου, όπως οι συστάσεις και οι λίστες τηλεφώνων σου."
+      },
+      "check": {
+        "q": {"en": "How did PayPal survive on eBay against Billpoint?", "el": "Πώς επιβίωσε η PayPal μέσα στο eBay απέναντι στην Billpoint;"},
+        "options": [
+          {"en": "It left eBay and found new customers elsewhere", "el": "Έφυγε από το eBay και βρήκε πελάτες αλλού"},
+          {"en": "It asked the courts to shut Billpoint down", "el": "Ζήτησε από τα δικαστήρια να κλείσουν την Billpoint"},
+          {"en": "It won the loyalty of the biggest sellers", "el": "Κέρδισε την προτίμηση των μεγαλύτερων πωλητών"}
+        ],
+        "answer": 2,
+        "why": {"en": "When the platform owner is against you, the love of its heaviest users is your shield.", "el": "Όταν ο ιδιοκτήτης της πλατφόρμας είναι εναντίον σου, η προτίμηση των πιο δυνατών χρηστών του είναι η ασπίδα σου."}
+      }
+    },
+    {
+      "title": {"en": "Free brings users, fees pay", "el": "Το δωρεάν φέρνει χρήστες, η χρέωση πληρώνει"},
+      "explain": {
+        "en": "PayPal grew by being free and by paying bonuses. That cannot last. The company was burning millions every month and had to become a real business before the cash ran out. It did two things. It started charging the people who earned money through it, the sellers. And it lowered its own costs by moving users away from expensive credit cards to bank accounts.",
+        "el": "Η PayPal μεγάλωσε επειδή ήταν δωρεάν και μοίραζε μπόνους. Αυτό δεν κρατά για πάντα. Η εταιρεία έκαιγε εκατομμύρια κάθε μήνα και έπρεπε να γίνει κανονική επιχείρηση πριν τελειώσουν τα μετρητά. Έκανε δύο πράγματα. Άρχισε να χρεώνει αυτούς που έβγαζαν χρήματα μέσα από αυτήν, τους πωλητές. Και μείωσε τα δικά της κόστη, μετακινώντας τους χρήστες από τις ακριβές πιστωτικές κάρτες στους τραπεζικούς λογαριασμούς."
+      },
+      "example": {
+        "en": "In 2000 PayPal pushed sellers into paid business accounts with a fee on each payment received. To verify bank accounts cheaply it sent two tiny random deposits and asked the user to confirm the amounts, an idea from Sanjay Bhargava that banks and apps still use today.",
+        "el": "Το 2000 η PayPal έσπρωξε τους πωλητές σε επαγγελματικούς λογαριασμούς με προμήθεια σε κάθε πληρωμή που δέχονταν. Για να επιβεβαιώνει φθηνά τους τραπεζικούς λογαριασμούς, έστελνε δύο μικροσκοπικές τυχαίες καταθέσεις και ζητούσε από τον χρήστη να επιβεβαιώσει τα ποσά, μια ιδέα του Σαντζάι Μπαργκάβα που τράπεζες και εφαρμογές χρησιμοποιούν ακόμα."
+      },
+      "apply": {
+        "en": "Check that your free build really pays for itself. Write down the hours and tools one site costs you and compare them with what that client pays over two years. If the number is thin, add paid extras for the clients who earn most from their site.",
+        "el": "Έλεγξε ότι η δωρεάν κατασκευή όντως βγάζει τα λεφτά της. Γράψε τις ώρες και τα εργαλεία που σου κοστίζει μια ιστοσελίδα και σύγκρινέ τα με όσα πληρώνει αυτός ο πελάτης σε δύο χρόνια. Αν το νούμερο είναι οριακό, πρόσθεσε επί πληρωμή έξτρα για τους πελάτες που κερδίζουν περισσότερα από τη σελίδα τους."
+      },
+      "check": {
+        "q": {"en": "Who did PayPal choose to charge?", "el": "Ποιον διάλεξε να χρεώνει η PayPal;"},
+        "options": [
+          {"en": "The sellers who earned money through it", "el": "Τους πωλητές που έβγαζαν χρήματα μέσα από αυτήν"},
+          {"en": "Every new user at the moment of sign-up", "el": "Κάθε νέο χρήστη τη στιγμή της εγγραφής"},
+          {"en": "Nobody, it lived only on investor money", "el": "Κανέναν, ζούσε μόνο με χρήματα επενδυτών"}
+        ],
+        "answer": 0,
+        "why": {"en": "The people who profit from a service are the ones most willing to pay for it.", "el": "Όσοι κερδίζουν από μια υπηρεσία είναι και οι πιο πρόθυμοι να πληρώσουν γι' αυτήν."}
+      }
+    },
+    {
+      "title": {"en": "Talent density", "el": "Πυκνότητα ταλέντου"},
+      "explain": {
+        "en": "PayPal hired people the founders already knew and trusted: friends from Stanford and from the University of Illinois, and friends of friends. They looked for very smart, stubborn people who did not fit in big companies, and gave them huge responsibility early. They also preferred people who think from first principles: start from what is true, not from how others have always done it.",
+        "el": "Η PayPal προσλάμβανε ανθρώπους που οι ιδρυτές ήδη γνώριζαν και εμπιστεύονταν: φίλους από το Στάνφορντ και το Πανεπιστήμιο του Ιλινόι, και φίλους φίλων. Έψαχναν πολύ έξυπνους, πεισματάρηδες ανθρώπους που δεν ταίριαζαν στις μεγάλες εταιρείες, και τους έδιναν νωρίς τεράστια ευθύνη. Προτιμούσαν επίσης όσους σκέφτονται από τις πρώτες αρχές: ξεκινάς από αυτό που ισχύει, όχι από το πώς το έκαναν πάντα οι άλλοι."
+      },
+      "example": {
+        "en": "Levchin brought his programmer friends from Illinois. Thiel brought people he knew from Stanford, such as David Sacks and Reid Hoffman. Many were in their twenties with no experience in banking. That lack of experience helped: they tried things that bankers considered impossible.",
+        "el": "Ο Λέβτσιν έφερε τους φίλους του προγραμματιστές από το Ιλινόι. Ο Τιλ έφερε γνωστούς του από το Στάνφορντ, όπως τον Ντέιβιντ Σακς και τον Ριντ Χόφμαν. Πολλοί ήταν γύρω στα είκοσι, χωρίς καμία εμπειρία σε τράπεζες. Η απειρία αυτή βοήθησε: δοκίμαζαν πράγματα που οι τραπεζικοί θεωρούσαν αδύνατα."
+      },
+      "apply": {
+        "en": "Hire your next person for sharpness and hunger, not for a long CV. Give a small paid test task from real work, and watch how they think when something is unclear. One excellent person is worth more than three average ones you must supervise.",
+        "el": "Διάλεξε τον επόμενο συνεργάτη σου για το μυαλό και την όρεξή του, όχι για το μακρύ βιογραφικό. Δώσε μια μικρή πληρωμένη δοκιμαστική εργασία από αληθινή δουλειά και δες πώς σκέφτεται όταν κάτι δεν είναι ξεκάθαρο. Ένας εξαιρετικός άνθρωπος αξίζει περισσότερο από τρεις μέτριους που πρέπει να επιβλέπεις."
+      },
+      "check": {
+        "q": {"en": "What kind of people did early PayPal look for?", "el": "Τι ανθρώπους έψαχνε η πρώτη PayPal;"},
+        "options": [
+          {"en": "Experienced bankers with long careers", "el": "Έμπειρους τραπεζικούς με μακριά καριέρα"},
+          {"en": "Very smart, stubborn people they already trusted", "el": "Πολύ έξυπνους, πεισματάρηδες ανθρώπους που ήδη εμπιστεύονταν"},
+          {"en": "Calm people who avoid any disagreement", "el": "Ήρεμους ανθρώπους που αποφεύγουν κάθε διαφωνία"}
+        ],
+        "answer": 1,
+        "why": {"en": "The team was built from friends and bright misfits, not from industry veterans.", "el": "Η ομάδα χτίστηκε από φίλους και λαμπρά «αταίριαστα» μυαλά, όχι από βετεράνους του κλάδου."}
+      }
+    },
+    {
+      "title": {"en": "Truth before politeness", "el": "Η αλήθεια πριν από την ευγένεια"},
+      "explain": {
+        "en": "The culture at PayPal was confrontational, intellectual and very hardworking. People argued loudly about ideas, and the best argument won, whoever said it. Meetings were kept few and short. Small teams owned a product from start to finish and shipped quickly. This is uncomfortable, and it is not for everyone. But it means that bad ideas die early, before they cost real money.",
+        "el": "Η κουλτούρα στην PayPal ήταν συγκρουσιακή, διανοητική και πολύ εργατική. Οι άνθρωποι τσακώνονταν δυνατά για ιδέες, και κέρδιζε το καλύτερο επιχείρημα, όποιος κι αν το έλεγε. Οι συσκέψεις ήταν λίγες και σύντομες. Μικρές ομάδες είχαν ένα προϊόν από την αρχή ως το τέλος και το έβγαζαν γρήγορα. Αυτό είναι άβολο και δεν είναι για όλους. Σημαίνει όμως ότι οι κακές ιδέες πεθαίνουν νωρίς, πριν κοστίσουν αληθινά χρήματα."
+      },
+      "example": {
+        "en": "David Sacks, who ran product, was known for disliking meetings and cancelling the ones he found useless. Engineers often worked through the night, and Levchin was famous for sleeping at the office. People who lived it describe the period as exhausting and as the most intense work of their lives.",
+        "el": "Ο Ντέιβιντ Σακς, που είχε την ευθύνη του προϊόντος, ήταν γνωστός για την αντιπάθειά του στις συσκέψεις και ακύρωνε όσες έβρισκε άχρηστες. Οι μηχανικοί δούλευαν συχνά όλη νύχτα, και ο Λέβτσιν ήταν διάσημος επειδή κοιμόταν στο γραφείο. Όσοι το έζησαν περιγράφουν εκείνη την περίοδο ως εξαντλητική και ως την πιο έντονη δουλειά της ζωής τους."
+      },
+      "apply": {
+        "en": "Ask your team one question at the end of each week: «What are we doing that is a waste of time?» Thank the person who disagrees with you, out loud. Cut any regular meeting that does not end with a decision.",
+        "el": "Κάνε στην ομάδα σου μία ερώτηση στο τέλος κάθε εβδομάδας: «Τι κάνουμε που είναι χάσιμο χρόνου;» Ευχαρίστησε φωναχτά αυτόν που διαφωνεί μαζί σου. Κόψε κάθε τακτική σύσκεψη που δεν τελειώνει με απόφαση."
+      },
+      "check": {
+        "q": {"en": "What is the benefit of a confrontational culture?", "el": "Ποιο είναι το όφελος μιας συγκρουσιακής κουλτούρας;"},
+        "options": [
+          {"en": "Everyone feels comfortable all the time", "el": "Όλοι νιώθουν άνετα συνέχεια"},
+          {"en": "The boss never has to explain decisions", "el": "Ο επικεφαλής δεν χρειάζεται ποτέ να εξηγεί αποφάσεις"},
+          {"en": "Bad ideas get killed early, before they cost money", "el": "Οι κακές ιδέες κόβονται νωρίς, πριν κοστίσουν χρήματα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Open argument tests ideas while they are still cheap to change.", "el": "Η ανοιχτή διαφωνία δοκιμάζει τις ιδέες όσο είναι ακόμα φθηνό να αλλάξουν."}
+      }
+    },
+    {
+      "title": {"en": "Small team against the rulebook", "el": "Μικρή ομάδα απέναντι στους κανόνες"},
+      "explain": {
+        "en": "Moving money is one of the most regulated activities in the world. PayPal was a few hundred young people with no banking background, and it still changed how the world pays. It moved faster than the rules, and then had to deal with regulators, banks and card companies that wanted to stop it. The lesson is double: a small team can enter a heavy industry, and it must take the rules seriously once it grows.",
+        "el": "Η μεταφορά χρημάτων είναι από τις πιο αυστηρά ρυθμισμένες δραστηριότητες στον κόσμο. Η PayPal ήταν λίγες εκατοντάδες νέοι χωρίς τραπεζικό παρελθόν, και παρ' όλα αυτά άλλαξε τον τρόπο που πληρώνει ο κόσμος. Κινήθηκε πιο γρήγορα από τους κανόνες, και μετά βρέθηκε απέναντι σε ρυθμιστικές αρχές, τράπεζες και εταιρείες καρτών που ήθελαν να τη σταματήσουν. Το μάθημα είναι διπλό: μια μικρή ομάδα μπορεί να μπει σε βαρύ κλάδο, και οφείλει να πάρει στα σοβαρά τους κανόνες μόλις μεγαλώσει."
+      },
+      "example": {
+        "en": "Several American states questioned whether PayPal was an unlicensed bank, and in 2002 Louisiana told it to stop serving customers there until it obtained a licence. The card networks also pressured it over fraud and disputes. The company answered each one case by case and kept operating.",
+        "el": "Αρκετές αμερικανικές πολιτείες αμφισβήτησαν αν η PayPal ήταν τράπεζα χωρίς άδεια, και το 2002 η Λουιζιάνα τής ζήτησε να σταματήσει να εξυπηρετεί πελάτες εκεί μέχρι να πάρει άδεια. Τα δίκτυα των καρτών την πίεζαν επίσης για τις απάτες και τις αμφισβητήσεις πληρωμών. Η εταιρεία απάντησε σε καθεμία περίπτωση χωριστά και συνέχισε να λειτουργεί."
+      },
+      "apply": {
+        "en": "Use your size as a weapon: decide in a day what a big agency decides in a month. But treat the rules that touch your clients as part of the product: privacy, cookies, invoices, contracts. A professional buys safety from you, not only a nice page.",
+        "el": "Χρησιμοποίησε το μέγεθός σου ως όπλο: αποφάσισε σε μία μέρα ό,τι ένα μεγάλο γραφείο αποφασίζει σε έναν μήνα. Δες όμως τους κανόνες που αγγίζουν τους πελάτες σου ως μέρος του προϊόντος: απόρρητο, cookies, τιμολόγια, συμβάσεις. Ο επαγγελματίας αγοράζει από σένα ασφάλεια, όχι μόνο μια ωραία σελίδα."
+      },
+      "check": {
+        "q": {"en": "What is the double lesson about regulation?", "el": "Ποιο είναι το διπλό μάθημα για τους κανόνες;"},
+        "options": [
+          {"en": "A small team can enter a regulated field, but must respect the rules as it grows", "el": "Μια μικρή ομάδα μπορεί να μπει σε ρυθμισμένο κλάδο, αλλά πρέπει να σέβεται τους κανόνες όσο μεγαλώνει"},
+          {"en": "Rules do not apply to technology companies", "el": "Οι κανόνες δεν ισχύουν για τις εταιρείες τεχνολογίας"},
+          {"en": "Only banks can ever handle payments", "el": "Μόνο οι τράπεζες μπορούν να διαχειρίζονται πληρωμές"}
+        ],
+        "answer": 0,
+        "why": {"en": "PayPal moved first and then had to answer regulators state by state.", "el": "Η PayPal κινήθηκε πρώτη και μετά χρειάστηκε να απαντήσει στις αρχές, πολιτεία προς πολιτεία."}
+      }
+    },
+    {
+      "title": {"en": "Go when ready, not when calm", "el": "Προχώρα όταν είσαι έτοιμος, όχι όταν έχει ηρεμία"},
+      "explain": {
+        "en": "There is never a perfect moment. PayPal went to the stock market in the worst possible weather: the dot-com crash had destroyed trust in internet companies, and the attacks of 11 September 2001 had frozen the markets. Many advised waiting. The team went ahead, because the business itself was strong and growing. If your numbers are real, bad timing around you matters less than you fear.",
+        "el": "Τέλεια στιγμή δεν υπάρχει ποτέ. Η PayPal μπήκε στο χρηματιστήριο με τον χειρότερο δυνατό καιρό: το κραχ των dot-com είχε διαλύσει την εμπιστοσύνη στις εταιρείες του ίντερνετ, και οι επιθέσεις της 11ης Σεπτεμβρίου 2001 είχαν παγώσει τις αγορές. Πολλοί συμβούλευαν αναμονή. Η ομάδα προχώρησε, γιατί η ίδια η επιχείρηση ήταν γερή και μεγάλωνε. Αν οι αριθμοί σου είναι αληθινοί, η κακή συγκυρία γύρω σου μετρά λιγότερο απ' όσο φοβάσαι."
+      },
+      "example": {
+        "en": "PayPal filed for its IPO only weeks after 11 September 2001, and faced a patent lawsuit and regulatory questions just before listing. On 15 February 2002 the shares were priced at 13 dollars and rose by more than half on the first day. The staff celebrated in the office car park.",
+        "el": "Η PayPal κατέθεσε τα χαρτιά για το χρηματιστήριο μόλις λίγες εβδομάδες μετά την 11η Σεπτεμβρίου 2001, και λίγο πριν την εισαγωγή βρέθηκε αντιμέτωπη με μια αγωγή για πατέντα και με ερωτήσεις από ρυθμιστικές αρχές. Στις 15 Φεβρουαρίου 2002 η μετοχή τιμολογήθηκε στα 13 δολάρια και ανέβηκε πάνω από το μισό την πρώτη μέρα. Το προσωπικό το γιόρτασε στο πάρκινγκ του γραφείου."
+      },
+      "apply": {
+        "en": "Stop waiting for the right season to launch your next offer, raise a price or start a new ad. Check one thing only: do your own numbers support it? If yes, set a date this week and go, even if the market feels slow.",
+        "el": "Σταμάτα να περιμένεις την κατάλληλη εποχή για να βγάλεις την επόμενη προσφορά, να ανεβάσεις μια τιμή ή να ξεκινήσεις μια νέα διαφήμιση. Έλεγξε μόνο ένα πράγμα: το στηρίζουν οι δικοί σου αριθμοί; Αν ναι, όρισε ημερομηνία αυτή την εβδομάδα και προχώρα, ακόμα κι αν η αγορά μοιάζει υποτονική."
+      },
+      "check": {
+        "q": {"en": "Why did the PayPal IPO succeed in such a bad period?", "el": "Γιατί πέτυχε η είσοδος της PayPal στο χρηματιστήριο σε τόσο κακή περίοδο;"},
+        "options": [
+          {"en": "The market had fully recovered by then", "el": "Η αγορά είχε πια ανακάμψει πλήρως"},
+          {"en": "The underlying business was strong and growing", "el": "Η ίδια η επιχείρηση ήταν γερή και μεγάλωνε"},
+          {"en": "eBay publicly supported the listing", "el": "Το eBay στήριξε δημόσια την εισαγωγή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Real numbers carried the company through a frightened market.", "el": "Οι αληθινοί αριθμοί πέρασαν την εταιρεία μέσα από μια φοβισμένη αγορά."}
+      }
+    },
+    {
+      "title": {"en": "Know when to sell", "el": "Να ξέρεις πότε να πουλήσεις"},
+      "explain": {
+        "en": "A few months after the IPO, PayPal sold itself to its old enemy. The logic was simple: most of its business still depended on eBay, and eBay could keep attacking it for years. Selling removed the biggest risk. But the two cultures did not fit. The loud, fast startup people did not want to live inside a careful corporation, and most of the leaders left soon after.",
+        "el": "Λίγους μήνες μετά την είσοδο στο χρηματιστήριο, η PayPal πουλήθηκε στον παλιό της εχθρό. Η λογική ήταν απλή: το μεγαλύτερο μέρος της δουλειάς της εξαρτιόταν ακόμα από το eBay, και το eBay μπορούσε να τη χτυπά για χρόνια. Η πώληση έβγαλε από τη μέση τον μεγαλύτερο κίνδυνο. Όμως οι δύο κουλτούρες δεν ταίριαζαν. Οι θορυβώδεις, γρήγοροι άνθρωποι της startup δεν ήθελαν να ζήσουν μέσα σε μια προσεκτική μεγάλη εταιρεία, και οι περισσότεροι επικεφαλής έφυγαν σύντομα."
+      },
+      "example": {
+        "en": "In July 2002 eBay announced it would buy PayPal for 1.5 billion dollars in shares, and the deal closed that October. Billpoint was shut down. Thiel left when the deal closed, and Sacks, Hoffman, Levchin and others followed within months.",
+        "el": "Τον Ιούλιο του 2002 το eBay ανακοίνωσε ότι αγοράζει την PayPal για 1,5 δισεκατομμύριο δολάρια σε μετοχές, και η συμφωνία ολοκληρώθηκε τον Οκτώβριο. Η Billpoint έκλεισε. Ο Τιλ έφυγε μόλις ολοκληρώθηκε η συμφωνία, και ο Σακς, ο Χόφμαν, ο Λέβτσιν και άλλοι ακολούθησαν μέσα σε λίγους μήνες."
+      },
+      "apply": {
+        "en": "Decide your biggest single risk before someone forces the decision on you. If one client, one platform or one ad channel brings most of your income, write down what a calm exit or a second option would look like, and start building it now.",
+        "el": "Αποφάσισε ποιο είναι το μεγαλύτερο ρίσκο σου πριν σου επιβάλει κάποιος την απόφαση. Αν ένας πελάτης, μία πλατφόρμα ή ένα κανάλι διαφήμισης φέρνει το μεγαλύτερο μέρος του εισοδήματός σου, γράψε πώς θα έμοιαζε μια ήρεμη έξοδος ή μια δεύτερη επιλογή, και άρχισε να τη χτίζεις τώρα."
+      },
+      "check": {
+        "q": {"en": "What was the main reason PayPal agreed to be bought by eBay?", "el": "Ποιος ήταν ο βασικός λόγος που η PayPal δέχτηκε να αγοραστεί από το eBay;"},
+        "options": [
+          {"en": "The founders had run out of ideas", "el": "Οι ιδρυτές είχαν ξεμείνει από ιδέες"},
+          {"en": "PayPal's shares had collapsed after the IPO", "el": "Η μετοχή της PayPal είχε καταρρεύσει μετά την εισαγωγή"},
+          {"en": "Its business still depended heavily on eBay", "el": "Η δουλειά της εξαρτιόταν ακόμα πολύ από το eBay"}
+        ],
+        "answer": 2,
+        "why": {"en": "Selling removed the danger of a platform owner who could keep attacking.", "el": "Η πώληση εξαφάνισε τον κίνδυνο ενός ιδιοκτήτη πλατφόρμας που μπορούσε να συνεχίσει να επιτίθεται."}
+      }
+    },
+    {
+      "title": {"en": "The people are the real product", "el": "Το πραγματικό προϊόν είναι οι άνθρωποι"},
+      "explain": {
+        "en": "The most valuable thing PayPal produced was not a payment service. It was a group of people who had survived a hard time together, trusted each other, and learned what they could do. After the sale they funded, hired and advised each other for twenty years. This group is known as the PayPal Mafia. Relationships built under pressure are the strongest asset you will ever own.",
+        "el": "Το πιο πολύτιμο πράγμα που έβγαλε η PayPal δεν ήταν μια υπηρεσία πληρωμών. Ήταν μια ομάδα ανθρώπων που πέρασαν μαζί δύσκολα, εμπιστεύονταν ο ένας τον άλλον και έμαθαν τι μπορούν να καταφέρουν. Μετά την πώληση χρηματοδοτούσαν, προσλάμβαναν και συμβούλευαν ο ένας τον άλλον για είκοσι χρόνια. Η ομάδα αυτή έμεινε γνωστή ως «Μαφία της PayPal». Οι σχέσεις που χτίζονται κάτω από πίεση είναι το πιο δυνατό περιουσιακό στοιχείο που θα έχεις ποτέ."
+      },
+      "example": {
+        "en": "Musk went on to SpaceX and Tesla. Thiel co-founded Palantir and was the first outside investor in Facebook. Hoffman founded LinkedIn. Chad Hurley, Steve Chen and Jawed Karim created YouTube. Jeremy Stoppelman and Russel Simmons started Yelp. Sacks built Yammer, and Levchin later founded Affirm.",
+        "el": "Ο Μασκ προχώρησε στη SpaceX και την Tesla. Ο Τιλ συνίδρυσε την Palantir και ήταν ο πρώτος εξωτερικός επενδυτής στο Facebook. Ο Χόφμαν ίδρυσε το LinkedIn. Ο Τσαντ Χέρλι, ο Στιβ Τσεν και ο Τζαβέντ Καρίμ έφτιαξαν το YouTube. Ο Τζέρεμι Στόπελμαν και ο Ράσελ Σίμονς ξεκίνησαν το Yelp. Ο Σακς έχτισε το Yammer, και ο Λέβτσιν ίδρυσε αργότερα την Affirm."
+      },
+      "apply": {
+        "en": "Invest in the few people who work hard beside you now: collaborators, a good freelancer, a client who became a friend. Help them win too, introduce them to each other, and stay in touch. In ten years this circle will bring you more than any ad.",
+        "el": "Επένδυσε στους λίγους ανθρώπους που δουλεύουν σκληρά δίπλα σου τώρα: συνεργάτες, έναν καλό freelancer, έναν πελάτη που έγινε φίλος. Βοήθησέ τους να πετύχουν κι αυτοί, γνώρισέ τους μεταξύ τους και κράτα επαφή. Σε δέκα χρόνια αυτός ο κύκλος θα σου φέρει περισσότερα από κάθε διαφήμιση."
+      },
+      "check": {
+        "q": {"en": "What does the PayPal Mafia show?", "el": "Τι δείχνει η «Μαφία της PayPal»;"},
+        "options": [
+          {"en": "Trust built in hard times keeps producing value for decades", "el": "Η εμπιστοσύνη που χτίζεται στα δύσκολα παράγει αξία για δεκαετίες"},
+          {"en": "People who sell a company never work again", "el": "Όσοι πουλούν μια εταιρεία δεν ξαναδουλεύουν ποτέ"},
+          {"en": "Only one person from a team can succeed later", "el": "Μόνο ένας από κάθε ομάδα μπορεί να πετύχει αργότερα"}
+        ],
+        "answer": 0,
+        "why": {"en": "The alumni kept funding and hiring each other and built many famous companies.", "el": "Οι παλιοί συνεργάτες συνέχισαν να χρηματοδοτούν και να προσλαμβάνουν ο ένας τον άλλον και έχτισαν πολλές διάσημες εταιρείες."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "You notice that psychologists sign up with you far more easily than any other profession, although you never targeted them. What do you do?", "el": "Βλέπεις ότι οι ψυχολόγοι κλείνουν μαζί σου πολύ πιο εύκολα από κάθε άλλο επάγγελμα, χωρίς να τους έχεις στοχεύσει ποτέ. Τι κάνεις;"},
+      "options": [
+        {"en": "Keep calling every profession equally, as planned", "el": "Συνεχίζεις να παίρνεις όλα τα επαγγέλματα το ίδιο, όπως είχες σχεδιάσει"},
+        {"en": "Build ads, examples and call lists especially for them", "el": "Φτιάχνεις διαφημίσεις, παραδείγματα και λίστες ειδικά γι' αυτούς"},
+        {"en": "Raise their price sharply since they like you", "el": "Τους ανεβάζεις απότομα την τιμή αφού σε προτιμούν"}
+      ],
+      "answer": 1,
+      "why": {"en": "Like eBay sellers for PayPal, unplanned demand shows where to focus.", "el": "Όπως οι πωλητές του eBay για την PayPal, η ζήτηση που δεν σχεδίασες δείχνει πού να εστιάσεις."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "A competitor in your city starts offering websites at a price below yours. What is the PayPal lesson?", "el": "Ένας ανταγωνιστής στην πόλη σου αρχίζει να προσφέρει ιστοσελίδες σε τιμή κάτω από τη δική σου. Ποιο είναι το μάθημα της PayPal;"},
+      "options": [
+        {"en": "Avoid a money war that makes both of you poorer", "el": "Απόφυγε έναν πόλεμο τιμών που φτωχαίνει και τους δύο"},
+        {"en": "Cut your price below his immediately", "el": "Ρίξε αμέσως την τιμή σου κάτω από τη δική του"},
+        {"en": "Stop selling until he goes out of business", "el": "Σταμάτα να πουλάς μέχρι να κλείσει εκείνος"}
+      ],
+      "answer": 0,
+      "why": {"en": "Confinity and X.com merged precisely because their cash war had no winner.", "el": "Η Confinity και η X.com ενώθηκαν ακριβώς επειδή ο πόλεμος χρημάτων τους δεν είχε νικητή."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "In your busiest month, with client changes piling up, you feel like moving all your sites to a new system. What do you do?", "el": "Στον πιο φορτωμένο μήνα σου, με τις αλλαγές των πελατών να μαζεύονται, σου έρχεται να μεταφέρεις όλες τις ιστοσελίδες σε νέο σύστημα. Τι κάνεις;"},
+      "options": [
+        {"en": "Start the migration now so it is done sooner", "el": "Ξεκινάς τη μεταφορά τώρα για να τελειώσει νωρίτερα"},
+        {"en": "Do both at once and ask the team for patience", "el": "Κάνεις και τα δύο μαζί και ζητάς υπομονή από την ομάδα"},
+        {"en": "Clear the urgent work first and plan the rebuild for a calm period", "el": "Καθαρίζεις πρώτα τα επείγοντα και σχεδιάζεις την αλλαγή για ήρεμη περίοδο"}
+      ],
+      "answer": 2,
+      "why": {"en": "Musk lost the team by pushing a full rewrite in the middle of a crisis.", "el": "Ο Μασκ έχασε την ομάδα επειδή πίεσε για ολική επανεγγραφή στη μέση μιας κρίσης."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "Meta suddenly doubles the cost of your ads. Which earlier habit would protect you most?", "el": "Η Meta διπλασιάζει ξαφνικά το κόστος των διαφημίσεών σου. Ποια συνήθεια από πριν θα σε προστάτευε περισσότερο;"},
+      "options": [
+        {"en": "Having spent the whole budget on one channel", "el": "Να έχεις ρίξει όλο το budget σε ένα κανάλι"},
+        {"en": "Having a second source of clients that you own", "el": "Να έχεις μια δεύτερη πηγή πελατών που είναι δική σου"},
+        {"en": "Having a larger office", "el": "Να έχεις μεγαλύτερο γραφείο"}
+      ],
+      "answer": 1,
+      "why": {"en": "A platform can change its rules any day, as eBay did to PayPal.", "el": "Μια πλατφόρμα μπορεί να αλλάξει τους κανόνες της οποιαδήποτε μέρα, όπως έκανε το eBay στην PayPal."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "A team member tells you in front of others that your new idea will not work. What do you do?", "el": "Ένας συνεργάτης σού λέει μπροστά σε άλλους ότι η νέα σου ιδέα δεν θα δουλέψει. Τι κάνεις;"},
+      "options": [
+        {"en": "Ask for the reasons and thank them for saying it", "el": "Ζητάς τα επιχειρήματά του και τον ευχαριστείς που το είπε"},
+        {"en": "Tell them to keep such comments private", "el": "Του λες να κρατά τέτοια σχόλια για τον εαυτό του"},
+        {"en": "Go ahead quickly so nobody else objects", "el": "Προχωράς γρήγορα για να μην προλάβει να φέρει αντίρρηση άλλος"}
+      ],
+      "answer": 0,
+      "why": {"en": "At PayPal the best argument won, and bad ideas died before they cost money.", "el": "Στην PayPal κέρδιζε το καλύτερο επιχείρημα, και οι κακές ιδέες πέθαιναν πριν κοστίσουν χρήματα."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A friend you once worked hard with on a tough project asks for your help with something of his own. How do you see it?", "el": "Ένας φίλος με τον οποίο κάποτε δουλέψατε σκληρά σε ένα δύσκολο project σού ζητά βοήθεια για κάτι δικό του. Πώς το βλέπεις;"},
+      "options": [
+        {"en": "As lost time, because he is not a client", "el": "Ως χαμένο χρόνο, γιατί δεν είναι πελάτης"},
+        {"en": "As something to do only if he pays first", "el": "Ως κάτι που το κάνεις μόνο αν πληρώσει πρώτα"},
+        {"en": "As an investment in the circle that will carry you for years", "el": "Ως επένδυση στον κύκλο που θα σε στηρίζει για χρόνια"}
+      ],
+      "answer": 2,
+      "why": {"en": "The PayPal alumni kept helping each other and all of them gained from it.", "el": "Οι άνθρωποι της PayPal συνέχισαν να βοηθούν ο ένας τον άλλον και κέρδισαν όλοι από αυτό."},
+      "idea": 14
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "PayPal began as a plan to send money by email.", "el": "Η PayPal ξεκίνησε ως σχέδιο αποστολής χρημάτων με email."},
+      "answer": false,
+      "why": {"en": "Confinity started with PalmPilot security and beaming money; email was a side feature that took off.", "el": "Η Confinity ξεκίνησε με ασφάλεια και αποστολή χρημάτων σε PalmPilot· το email ήταν δευτερεύουσα λειτουργία που απογειώθηκε."}
+    },
+    {
+      "s": {"en": "The referral bonus was a way of paying the cost of winning customers directly to the customers.", "el": "Το μπόνους σύστασης ήταν ένας τρόπος να πληρώνεται το κόστος απόκτησης πελατών κατευθείαν στους πελάτες."},
+      "answer": true,
+      "why": {"en": "Instead of advertising, the money went to new users and to those who invited them.", "el": "Αντί για διαφήμιση, τα χρήματα πήγαιναν στους νέους χρήστες και σε όσους τους καλούσαν."}
+    },
+    {
+      "s": {"en": "eBay helped PayPal grow because it had no payment service of its own.", "el": "Το eBay βοήθησε την PayPal να μεγαλώσει γιατί δεν είχε δική του υπηρεσία πληρωμών."},
+      "answer": false,
+      "why": {"en": "eBay owned Billpoint and pushed it against PayPal.", "el": "Το eBay είχε την Billpoint και την προωθούσε εναντίον της PayPal."}
+    },
+    {
+      "s": {"en": "Musk was removed as CEO while he was away on a trip.", "el": "Ο Μασκ απομακρύνθηκε από CEO ενώ έλειπε σε ταξίδι."},
+      "answer": true,
+      "why": {"en": "In September 2000 the board replaced him with Thiel while he was travelling.", "el": "Τον Σεπτέμβριο του 2000 το συμβούλιο τον αντικατέστησε με τον Τιλ, ενώ εκείνος ταξίδευε."}
+    },
+    {
+      "s": {"en": "PayPal's fraud problem was solved by software alone, with no human judgment.", "el": "Το πρόβλημα των απατών στην PayPal λύθηκε μόνο με λογισμικό, χωρίς ανθρώπινη κρίση."},
+      "answer": false,
+      "why": {"en": "The system combined software that flagged cases with human analysts who judged them.", "el": "Το σύστημα συνδύαζε λογισμικό που σημάδευε περιπτώσεις με ανθρώπους αναλυτές που τις έκριναν."}
+    },
+    {
+      "s": {"en": "PayPal went public in February 2002, a few months after the 11 September attacks.", "el": "Η PayPal μπήκε στο χρηματιστήριο τον Φεβρουάριο του 2002, λίγους μήνες μετά τις επιθέσεις της 11ης Σεπτεμβρίου."},
+      "answer": true,
+      "why": {"en": "It was one of the first technology listings after the attacks and the dot-com crash.", "el": "Ήταν από τις πρώτες εισαγωγές εταιρείας τεχνολογίας μετά τις επιθέσεις και το κραχ των dot-com."}
+    },
+    {
+      "s": {"en": "After eBay bought PayPal, the founding team stayed and ran it for many years.", "el": "Αφού το eBay αγόρασε την PayPal, η ιδρυτική ομάδα έμεινε και τη διοικούσε για πολλά χρόνια."},
+      "answer": false,
+      "why": {"en": "Most of the leaders left within months, because the cultures did not fit.", "el": "Οι περισσότεροι επικεφαλής έφυγαν μέσα σε λίγους μήνες, γιατί οι κουλτούρες δεν ταίριαζαν."}
+    },
+    {
+      "s": {"en": "Former PayPal people founded LinkedIn, YouTube and Yelp.", "el": "Πρώην άνθρωποι της PayPal ίδρυσαν το LinkedIn, το YouTube και το Yelp."},
+      "answer": true,
+      "why": {"en": "Hoffman, the trio of Hurley, Chen and Karim, and Stoppelman with Simmons all came from PayPal.", "el": "Ο Χόφμαν, η τριάδα Χέρλι, Τσεν και Καρίμ, και ο Στόπελμαν με τον Σίμονς προέρχονταν όλοι από την PayPal."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Confinity", "el": "Η Confinity"}, "b": {"en": "Thiel and Levchin's startup that created PayPal", "el": "Η startup των Τιλ και Λέβτσιν που έφτιαξε το PayPal"}},
+    {"a": {"en": "X.com", "el": "Η X.com"}, "b": {"en": "Musk's online bank that merged with Confinity", "el": "Η online τράπεζα του Μασκ που ενώθηκε με την Confinity"}},
+    {"a": {"en": "Billpoint", "el": "Η Billpoint"}, "b": {"en": "eBay's own payment service, PayPal's rival", "el": "Η υπηρεσία πληρωμών του eBay, αντίπαλος της PayPal"}},
+    {"a": {"en": "Igor", "el": "Το Igor"}, "b": {"en": "The tool that flagged suspicious payments", "el": "Το εργαλείο που σημάδευε τις ύποπτες πληρωμές"}},
+    {"a": {"en": "Referral bonus", "el": "Μπόνους σύστασης"}, "b": {"en": "Cash paid to users for bringing new users", "el": "Χρήματα στους χρήστες για κάθε νέο χρήστη που φέρνουν"}},
+    {"a": {"en": "PayPal Mafia", "el": "Μαφία της PayPal"}, "b": {"en": "Former employees who built many famous companies", "el": "Πρώην εργαζόμενοι που έχτισαν πολλές διάσημες εταιρείες"}}
+  ],
+  "missions": [
+    {"en": "Count your last 30 clients by profession and circle the group that closed most easily.", "el": "Μέτρησε τους τελευταίους 30 πελάτες σου ανά επάγγελμα και κύκλωσε την ομάδα που έκλεισε πιο εύκολα."},
+    {"en": "Write a simple referral reward for existing clients and send it to five of them.", "el": "Γράψε μια απλή ανταμοιβή σύστασης για τους υπάρχοντες πελάτες και στείλ' τη σε πέντε από αυτούς."},
+    {"en": "List the three platforms your income depends on and one backup plan for each.", "el": "Γράψε τις τρεις πλατφόρμες από τις οποίες εξαρτάται το εισόδημά σου και ένα εναλλακτικό σχέδιο για καθεμία."},
+    {"en": "Choose one number for the team and put it somewhere everyone sees it every day.", "el": "Διάλεξε έναν αριθμό για την ομάδα και βάλ' τον κάπου που τον βλέπουν όλοι κάθε μέρα."},
+    {"en": "Ask your closest collaborator what you are doing that wastes time, and write down the answer without arguing.", "el": "Ρώτα τον πιο κοντινό σου συνεργάτη τι κάνετε που είναι χάσιμο χρόνου, και σημείωσε την απάντηση χωρίς να αντιμιλήσεις."}
+  ],
+  "mantra": {
+    "en": "Watch the users, move fast, tell the truth, keep your people.",
+    "el": "Κοίτα τους χρήστες, κινήσου γρήγορα, λέγε την αλήθεια, κράτα τους ανθρώπους σου."
+  },
+  "careful": {
+    "en": "This is a story told mostly by the winners, twenty years later, and memories flatter. It is a clear case of survivorship bias: hundreds of dot-com startups did similar things and died. PayPal also had rare luck with timing and investor money that a small agency does not have. The all-night culture burned people out, and the team was almost entirely young men from the same circles. Copy the principles, not the lifestyle.",
+    "el": "Την ιστορία αυτή τη διηγούνται κυρίως οι νικητές, είκοσι χρόνια μετά, και η μνήμη ωραιοποιεί. Είναι καθαρή περίπτωση μεροληψίας επιβίωσης: εκατοντάδες startup της εποχής έκαναν παρόμοια πράγματα και έκλεισαν. Η PayPal είχε επίσης σπάνια τύχη στη συγκυρία και χρήματα επενδυτών που ένα μικρό γραφείο δεν έχει. Η κουλτούρα της ολονυχτίας εξάντλησε ανθρώπους, και η ομάδα ήταν σχεδόν αποκλειστικά νέοι άντρες από τους ίδιους κύκλους. Αντίγραψε τις αρχές, όχι τον τρόπο ζωής."
+  },
+  "connects": [
+    {"book": "zero-to-one", "note": {"en": "Thiel's own book turns his PayPal experience into rules: avoid competition, build a monopoly, hire people who belong together.", "el": "Το βιβλίο του ίδιου του Τιλ κάνει την εμπειρία της PayPal κανόνες: απόφυγε τον ανταγωνισμό, χτίσε μονοπώλιο, πάρε ανθρώπους που ταιριάζουν μεταξύ τους."}},
+    {"book": "liftoff", "note": {"en": "Liftoff shows what Musk did next with his PayPal money: he put it into SpaceX and nearly lost all of it.", "el": "Το Liftoff δείχνει τι έκανε μετά ο Μασκ με τα χρήματα της PayPal: τα έβαλε στη SpaceX και παραλίγο να τα χάσει όλα."}},
+    {"book": "e-myth", "note": {"en": "The E-Myth wants calm systems and manuals, while PayPal ran on brilliant chaos, which is useful to compare for a small agency.", "el": "Το E-Myth θέλει ήρεμα συστήματα και εγχειρίδια, ενώ η PayPal δούλευε με λαμπρό χάος, μια χρήσιμη σύγκριση για ένα μικρό γραφείο."}}
+  ]
+}

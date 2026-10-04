@@ -1,0 +1,558 @@
+{
+  "id": "pre-suasion",
+  "title": {"en": "Pre-Suasion: A Revolutionary Way to Influence and Persuade", "el": "Προ-πειθώ: Ένας επαναστατικός τρόπος να επηρεάζεις και να πείθεις"},
+  "author": "Robert Cialdini",
+  "authorEl": "Ρόμπερτ Τσιαλντίνι",
+  "year": 2016,
+  "shelf": "sales",
+  "skills": {"persuasion": 3, "sales": 2, "communication": 2},
+  "oneLine": {
+    "en": "What you do in the moment before your message decides whether it works: first guide the listener's attention to the right idea, then make your request.",
+    "el": "Αυτό που κάνεις τη στιγμή πριν από το μήνυμά σου κρίνει αν θα πιάσει: πρώτα στρέφεις την προσοχή του άλλου στη σωστή ιδέα και μετά ζητάς."
+  },
+  "story": {
+    "en": "Thirty-two years after «Influence», Robert Cialdini came back with a second big idea. Watching the best salespeople and fundraisers up close, he saw that they did not win with better arguments. They won earlier, with what they did before they made their request. In this 2016 book he explains how attention works, why the opening matters most, and adds a seventh principle of persuasion: unity.",
+    "el": "Τριάντα δύο χρόνια μετά την «Επιρροή», ο Ρόμπερτ Τσιαλντίνι επέστρεψε με μια δεύτερη μεγάλη ιδέα. Παρατηρώντας από κοντά τους καλύτερους πωλητές και υπεύθυνους εράνων, είδε ότι δεν κέρδιζαν με καλύτερα επιχειρήματα. Κέρδιζαν νωρίτερα, με όσα έκαναν πριν ζητήσουν οτιδήποτε. Σε αυτό το βιβλίο του 2016 εξηγεί πώς δουλεύει η προσοχή, γιατί η αρχή μετρά περισσότερο απ' όλα, και προσθέτει μια έβδομη αρχή πειθούς: την ενότητα."
+  },
+  "forYou": {
+    "en": "On a cold call you have ten seconds, and in an ad two. That is exactly the territory of this book: the opening. It teaches you what to say and show before the offer, so that a busy doctor is already thinking about lost patients and trust when he hears «the build costs 0€». The same rules shape your ads, your meetings and your own workspace.",
+    "el": "Στο cold call έχεις δέκα δευτερόλεπτα και στη διαφήμιση δύο. Αυτό ακριβώς είναι το γήπεδο του βιβλίου: η αρχή. Σου μαθαίνει τι να πεις και τι να δείξεις πριν από την προσφορά, ώστε ο πολυάσχολος γιατρός να σκέφτεται ήδη τους ασθενείς που χάνει και την εμπιστοσύνη όταν ακούσει «η κατασκευή κοστίζει 0€». Οι ίδιοι κανόνες ισχύουν για τις διαφημίσεις σου, τα ραντεβού σου και τον χώρο όπου δουλεύεις."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Win before you speak", "el": "Κέρδισε πριν μιλήσεις"},
+      "explain": {
+        "en": "Pre-suasion means making a person open to your message before he hears it. Cialdini trained undercover in many sales teams and noticed that the top performers spent more time on what they did before the request than on the request itself. Like good gardeners, they prepared the soil first. The best persuaders have the best openers: this is called frontloading.",
+        "el": "Προ-πειθώ σημαίνει να κάνεις τον άλλον δεκτικό στο μήνυμά σου πριν το ακούσει. Ο Τσιαλντίνι εκπαιδεύτηκε «μυστικά» σε πολλές ομάδες πωλήσεων και πρόσεξε ότι οι κορυφαίοι αφιέρωναν περισσότερο χρόνο σε όσα έκαναν πριν από το αίτημα παρά στο ίδιο το αίτημα. Σαν καλοί κηπουροί, ετοίμαζαν πρώτα το χώμα. Οι καλύτεροι στην πειθώ έχουν τις καλύτερες εισαγωγές: βάζουν το βάρος στην αρχή."
+      },
+      "example": {
+        "en": "Cialdini trained with a company that sold home fire alarms. Its top seller, Jim, always «forgot» something in his car and asked the family if he could let himself out and back in. His explanation: you only let people you trust walk in and out of your home alone. He built trust before saying a word about alarms.",
+        "el": "Ο Τσιαλντίνι εκπαιδεύτηκε σε μια εταιρεία που πουλούσε συναγερμούς πυρκαγιάς για σπίτια. Ο κορυφαίος πωλητής της, ο Τζιμ, «ξεχνούσε» πάντα κάτι στο αυτοκίνητο και ρωτούσε την οικογένεια αν μπορεί να βγει και να ξαναμπεί μόνος του. Η εξήγησή του: μόνο ανθρώπους που εμπιστεύεσαι αφήνεις να μπαινοβγαίνουν μόνοι στο σπίτι σου. Έχτιζε εμπιστοσύνη πριν πει λέξη για συναγερμούς."
+      },
+      "apply": {
+        "en": "Plan the first 20 seconds of every call and meeting as carefully as the offer, but with true things, not Jim's little act. Open with something specific and real about him: «I read your patients' reviews; they keep mentioning how well you explain things.» Only then say why you called.",
+        "el": "Σχεδίασε τα πρώτα 20 δευτερόλεπτα κάθε τηλεφωνήματος και ραντεβού όσο προσεκτικά σχεδιάζεις την προσφορά, αλλά με αλήθειες, όχι με το θεατράκι του Τζιμ. Άνοιξε με κάτι συγκεκριμένο και πραγματικό για εκείνον: «Διάβασα τις κριτικές των ασθενών σας, γράφουν συνέχεια πόσο καλά εξηγείτε». Μόνο μετά πες γιατί πήρες."
+      },
+      "check": {
+        "q": {"en": "What did the top performers do differently, according to Cialdini?", "el": "Τι έκαναν διαφορετικά οι κορυφαίοι, σύμφωνα με τον Τσιαλντίνι;"},
+        "options": [
+          {"en": "They prepared the listener before the request", "el": "Προετοίμαζαν τον άλλον πριν από το αίτημα"},
+          {"en": "They had many more arguments ready", "el": "Είχαν έτοιμα πολύ περισσότερα επιχειρήματα"},
+          {"en": "They offered the biggest discounts", "el": "Έδιναν τις μεγαλύτερες εκπτώσεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "They won earlier: they first created the right state of mind, and the same offer then worked better.", "el": "Κέρδιζαν νωρίτερα: πρώτα δημιουργούσαν τη σωστή διάθεση, και μετά η ίδια προσφορά έπιανε καλύτερα."}
+      }
+    },
+    {
+      "title": {"en": "Privileged moments", "el": "Προνομιακές στιγμές"},
+      "explain": {
+        "en": "A privileged moment is a short window in which a person is especially open to one kind of message, because something he has just seen or heard put a matching idea at the top of his mind. Ask in that window and the same request gets far more yeses. The window closes fast, so the request must follow the opener immediately.",
+        "el": "Προνομιακή στιγμή είναι ένα σύντομο παράθυρο όπου ο άλλος είναι ιδιαίτερα ανοιχτός σε ένα συγκεκριμένο είδος μηνύματος, επειδή κάτι που μόλις είδε ή άκουσε έφερε μια σχετική ιδέα στην κορυφή του μυαλού του. Αν ζητήσεις μέσα σε αυτό το παράθυρο, το ίδιο αίτημα παίρνει πολύ περισσότερα «ναι». Το παράθυρο κλείνει γρήγορα, άρα το αίτημα πρέπει να ακολουθεί αμέσως."
+      },
+      "example": {
+        "en": "A consultant Cialdini knew always met resistance to his 75,000 dollar fee. He started joking, just before naming it: «As you can tell, I am not going to be able to charge you a million dollars for this.» With a million in the client's mind, 75,000 looked modest, and the haggling stopped.",
+        "el": "Ένας σύμβουλος επιχειρήσεων που γνώριζε ο Τσιαλντίνι συναντούσε πάντα αντιρρήσεις για την αμοιβή του, 75.000 δολάρια. Άρχισε να αστειεύεται, λίγο πριν πει το ποσό: «Όπως καταλαβαίνετε, δεν θα μπορέσω να σας χρεώσω ένα εκατομμύριο γι' αυτό». Με το εκατομμύριο στο μυαλό του πελάτη, τα 75.000 φάνηκαν λογικά και τα παζάρια σταμάτησαν."
+      },
+      "apply": {
+        "en": "Say, just before your price and only because it is true: «Obviously I am not going to ask you for the one or two thousand euros a website usually costs.» Then give your number at once: the build is 0€, only the yearly hosting and domain. Do not let other talk come between the two sentences.",
+        "el": "Πες, ακριβώς πριν από την τιμή σου και μόνο επειδή ισχύει: «Προφανώς δεν θα σας ζητήσω τα χίλια ή δύο χιλιάδες ευρώ που κοστίζει συνήθως μια ιστοσελίδα». Και δώσε αμέσως το δικό σου νούμερο: η κατασκευή 0€, μόνο η ετήσια φιλοξενία και το domain. Μην αφήσεις άλλη κουβέντα να μπει ανάμεσα στις δύο προτάσεις."
+      },
+      "check": {
+        "q": {"en": "Why must the request come right after the opener?", "el": "Γιατί το αίτημα πρέπει να έρχεται αμέσως μετά την εισαγωγή;"},
+        "options": [
+          {"en": "People get bored by long introductions", "el": "Ο κόσμος βαριέται τις μεγάλες εισαγωγές"},
+          {"en": "It is more polite to be brief", "el": "Είναι πιο ευγενικό να είσαι σύντομος"},
+          {"en": "The window of openness closes quickly", "el": "Το παράθυρο της δεκτικότητας κλείνει γρήγορα"}
+        ],
+        "answer": 2,
+        "why": {"en": "The idea you raised stays at the top of the mind only for a short time; then attention moves on.", "el": "Η ιδέα που ξύπνησες μένει στην κορυφή του μυαλού μόνο για λίγο. Μετά η προσοχή πάει αλλού."}
+      }
+    },
+    {
+      "title": {"en": "The one-sided question", "el": "Η ερώτηση που οδηγεί μονόδρομα"},
+      "explain": {
+        "en": "A single-chute question sends the mind down one path only. Asked «are you unhappy with...?», we search our memory for unhappy moments and find them. Asked «are you a helpful person?», we look for times we helped, answer yes, and then want to act like it. Such a question creates a privileged moment for the request that follows.",
+        "el": "Μια μονόδρομη ερώτηση στέλνει το μυαλό σε ένα μόνο μονοπάτι. Αν μας ρωτήσουν «είσαι δυσαρεστημένος με...;», ψάχνουμε στη μνήμη μας δυσάρεστες στιγμές και τις βρίσκουμε. Αν μας ρωτήσουν «είσαι άνθρωπος που βοηθά;», ψάχνουμε πότε βοηθήσαμε, απαντάμε ναι, και μετά θέλουμε να φερθούμε ανάλογα. Μια τέτοια ερώτηση φτιάχνει προνομιακή στιγμή για το αίτημα που ακολουθεί."
+      },
+      "example": {
+        "en": "Researchers stopped shoppers and asked them to answer a survey: 29% agreed. When they first asked «Do you consider yourself a helpful person?», 77% agreed. In another study, Canadians asked whether they were unhappy with their social lives were 375% more likely to call themselves unhappy than those asked whether they were happy.",
+        "el": "Ερευνητές σταματούσαν περαστικούς και τους ζητούσαν να απαντήσουν σε μια έρευνα: δέχτηκε το 29%. Όταν πρώτα ρώτησαν «Θεωρείτε τον εαυτό σας άνθρωπο που βοηθά;», δέχτηκε το 77%. Σε άλλη μελέτη, Καναδοί που ρωτήθηκαν αν είναι δυσαρεστημένοι με την κοινωνική τους ζωή δήλωσαν δυστυχισμένοι 375% πιο συχνά από όσους ρωτήθηκαν αν είναι ευχαριστημένοι."
+      },
+      "apply": {
+        "en": "Ask a question that brings out a true side of him before your request: «Do you want new patients to find you easily when they search for your specialty?» Then ask for ten minutes. To learn the truth and not to steer, ask both sides: «What are you happy with, and what not?»",
+        "el": "Κάνε μια ερώτηση που φέρνει στην επιφάνεια μια αληθινή πλευρά του πριν από το αίτημά σου: «Θέλετε οι νέοι ασθενείς να σας βρίσκουν εύκολα όταν ψάχνουν την ειδικότητά σας;» Μετά ζήτα δέκα λεπτά. Όταν θέλεις να μάθεις την αλήθεια και όχι να κατευθύνεις, ρώτα και τις δύο πλευρές: «Με τι είστε ευχαριστημένος και με τι όχι;»"
+      },
+      "check": {
+        "q": {"en": "Why did «Are you a helpful person?» raise the yeses from 29% to 77%?", "el": "Γιατί το «Είστε άνθρωπος που βοηθά;» ανέβασε τα «ναι» από 29% σε 77%;"},
+        "options": [
+          {"en": "It made the survey look shorter", "el": "Έκανε την έρευνα να φαίνεται πιο σύντομη"},
+          {"en": "People recalled helping, then acted in line with it", "el": "Θυμήθηκαν ότι βοηθούν και φέρθηκαν ανάλογα"},
+          {"en": "It made people feel guilty and afraid", "el": "Τους έκανε να νιώσουν ενοχές και φόβο"}
+        ],
+        "answer": 1,
+        "why": {"en": "The question pointed their attention at their helpful side, and they then wanted to be consistent with it.", "el": "Η ερώτηση έστρεψε την προσοχή τους στην πλευρά τους που βοηθά, και μετά ήθελαν να είναι συνεπείς με αυτήν."}
+      }
+    },
+    {
+      "title": {"en": "The focusing illusion", "el": "Η ψευδαίσθηση της εστίασης"},
+      "explain": {
+        "en": "Whatever we are paying attention to seems important, simply because we are looking at it. Daniel Kahneman put it this way: nothing in life is as important as you think it is while you are thinking about it. So the persuader's first job is not to argue. It is to turn the spotlight onto the feature where his offer is strongest.",
+        "el": "Ό,τι προσέχουμε εκείνη τη στιγμή μάς φαίνεται σημαντικό, απλώς επειδή το κοιτάμε. Ο Ντάνιελ Κάνεμαν το είπε έτσι: τίποτα στη ζωή δεν είναι τόσο σημαντικό όσο νομίζεις την ώρα που το σκέφτεσαι. Άρα η πρώτη δουλειά όποιου θέλει να πείσει δεν είναι να επιχειρηματολογήσει. Είναι να γυρίσει τον προβολέα στο σημείο όπου η προσφορά του είναι πιο δυνατή."
+      },
+      "example": {
+        "en": "An online furniture shop was tested with two backgrounds. Visitors who saw fluffy clouds on the page rated comfort as more important and chose more comfortable, more expensive sofas. Visitors who saw coins rated price as more important and chose cheap ones. Almost none believed the background had affected them.",
+        "el": "Ένα ηλεκτρονικό κατάστημα επίπλων δοκιμάστηκε με δύο φόντα. Οι επισκέπτες που είδαν αφράτα σύννεφα στη σελίδα θεώρησαν πιο σημαντική την άνεση και διάλεξαν πιο άνετους, ακριβότερους καναπέδες. Όσοι είδαν κέρματα θεώρησαν πιο σημαντική την τιμή και διάλεξαν φθηνούς. Σχεδόν κανείς δεν πίστευε ότι τον επηρέασε το φόντο."
+      },
+      "apply": {
+        "en": "Decide where the spotlight goes before every meeting. Your strength is trust and a modern image, so start there: open a beautiful live site of a colleague and scroll slowly, in silence, for twenty seconds. Do not open with technical details or with what competitors charge; that puts the light on the wrong thing.",
+        "el": "Αποφάσισε πού θα πέσει ο προβολέας πριν από κάθε ραντεβού. Η δύναμή σου είναι η εμπιστοσύνη και η σύγχρονη εικόνα, άρα ξεκίνα από εκεί: άνοιξε μια όμορφη live ιστοσελίδα ενός συναδέλφου του και κατέβα αργά, σιωπηλά, για είκοσι δευτερόλεπτα. Μην ανοίξεις με τεχνικές λεπτομέρειες ή με το τι χρεώνουν οι ανταγωνιστές. Έτσι ρίχνεις το φως στο λάθος σημείο."
+      },
+      "check": {
+        "q": {"en": "What does the focusing illusion say?", "el": "Τι λέει η ψευδαίσθηση της εστίασης;"},
+        "options": [
+          {"en": "We focus only on things that are truly important", "el": "Εστιάζουμε μόνο σε όσα είναι πραγματικά σημαντικά"},
+          {"en": "What we focus on seems more important than it is", "el": "Ό,τι προσέχουμε μάς φαίνεται πιο σημαντικό απ' όσο είναι"},
+          {"en": "People cannot focus for more than a minute", "el": "Ο άνθρωπος δεν συγκεντρώνεται πάνω από ένα λεπτό"}
+        ],
+        "answer": 1,
+        "why": {"en": "Attention itself creates the feeling of importance, as the clouds and coins on the furniture site showed.", "el": "Η ίδια η προσοχή γεννά την αίσθηση της σημασίας, όπως έδειξαν τα σύννεφα και τα κέρματα στο κατάστημα επίπλων."}
+      }
+    },
+    {
+      "title": {"en": "Setting the agenda", "el": "Ποιος ορίζει το θέμα"},
+      "explain": {
+        "en": "The media rarely succeed in telling people what to think, but they are very successful in telling them what to think about. The subjects that get coverage feel like the important ones. The same is true in every conversation: whoever chooses the topic has done half the persuading, because attention is limited and what is not discussed does not count.",
+        "el": "Τα μέσα ενημέρωσης σπάνια καταφέρνουν να πουν στον κόσμο τι να σκεφτεί, όμως καταφέρνουν θαυμάσια να του πουν για ποιο πράγμα να σκεφτεί. Τα θέματα που προβάλλονται μοιάζουν τα σημαντικά. Το ίδιο ισχύει σε κάθε συζήτηση: όποιος διαλέγει το θέμα έχει κάνει τη μισή πειθώ, γιατί η προσοχή είναι περιορισμένη και ό,τι δεν συζητιέται δεν μετρά."
+      },
+      "example": {
+        "en": "Before the tenth anniversary of the September 11 attacks, about 30% of Americans asked named them among the most important events of the last decades. During the days of heavy anniversary coverage, the number rose to about 65%. Two weeks later, when the coverage stopped, it fell back to 30%.",
+        "el": "Πριν από τη δέκατη επέτειο των επιθέσεων της 11ης Σεπτεμβρίου, περίπου το 30% των Αμερικανών που ρωτήθηκαν τις ανέφερε στα σημαντικότερα γεγονότα των τελευταίων δεκαετιών. Τις μέρες της επετείου, με τα μέσα γεμάτα αφιερώματα, το ποσοστό ανέβηκε περίπου στο 65%. Δύο εβδομάδες αργότερα, όταν τα αφιερώματα σταμάτησαν, ξανάπεσε στο 30%."
+      },
+      "apply": {
+        "en": "Choose the subject of the meeting yourself, with your first question: «How do new patients find you today?» Now the whole talk is about patients, not about technology or price. Do the same in ads: one subject per ad, the patients he is missing, repeated until it feels like the important question.",
+        "el": "Διάλεξε εσύ το θέμα του ραντεβού, με την πρώτη σου ερώτηση: «Πώς σας βρίσκουν σήμερα οι νέοι ασθενείς;» Τώρα όλη η κουβέντα γίνεται για τους ασθενείς, όχι για την τεχνολογία ή την τιμή. Το ίδιο και στις διαφημίσεις: ένα θέμα ανά διαφήμιση, οι ασθενείς που χάνει, ξανά και ξανά, μέχρι να μοιάζει αυτό το σημαντικό ερώτημα."
+      },
+      "check": {
+        "q": {"en": "What is the real power of the media, according to this idea?", "el": "Ποια είναι η πραγματική δύναμη των μέσων ενημέρωσης, σύμφωνα με αυτή την ιδέα;"},
+        "options": [
+          {"en": "They change opinions with strong arguments", "el": "Αλλάζουν γνώμες με δυνατά επιχειρήματα"},
+          {"en": "They make people distrust everything", "el": "Κάνουν τον κόσμο να μην εμπιστεύεται τίποτα"},
+          {"en": "They decide which subjects people think about", "el": "Αποφασίζουν με ποια θέματα θα ασχοληθεί ο κόσμος"}
+        ],
+        "answer": 2,
+        "why": {"en": "The topic that gets attention feels important. Choosing the topic is the pre-suasive move.", "el": "Το θέμα που παίρνει προσοχή μοιάζει σημαντικό. Η επιλογή του θέματος είναι η κίνηση της προ-πειθούς."}
+      }
+    },
+    {
+      "title": {"en": "What is focal seems causal", "el": "Ό,τι είναι στο κέντρο μοιάζει αιτία"},
+      "explain": {
+        "en": "We believe that whatever stands in the centre of our view is the cause of what happens. The person we can see best in a conversation seems to be leading it. This is why leaders get too much credit and too much blame for results, and why simply changing the camera angle can change a verdict.",
+        "el": "Πιστεύουμε ότι αυτό που βρίσκεται στο κέντρο του οπτικού μας πεδίου είναι η αιτία όσων συμβαίνουν. Ο άνθρωπος που βλέπουμε καλύτερα σε μια συζήτηση μάς φαίνεται ότι την οδηγεί. Γι' αυτό οι ηγέτες παίρνουν υπερβολικά πολλά εύσημα και υπερβολικά πολλή ευθύνη για τα αποτελέσματα, και γι' αυτό μια απλή αλλαγή στη γωνία της κάμερας μπορεί να αλλάξει μια ετυμηγορία."
+      },
+      "example": {
+        "en": "Shelley Taylor seated observers around two people talking. Each observer judged the speaker whose face he could see as the one who set the tone. Daniel Lassiter found the same with filmed police confessions: when the camera showed only the suspect, viewers saw the confession as more voluntary than when it showed suspect and detective side by side.",
+        "el": "Η Σέλεϊ Τέιλορ έβαλε παρατηρητές γύρω από δύο ανθρώπους που συζητούσαν. Κάθε παρατηρητής έκρινε ότι τον τόνο τον έδινε ο συνομιλητής που έβλεπε κατά πρόσωπο. Ο Ντάνιελ Λάσιτερ βρήκε το ίδιο σε βιντεοσκοπημένες ομολογίες στην αστυνομία: όταν η κάμερα έδειχνε μόνο τον ύποπτο, οι θεατές θεωρούσαν την ομολογία πιο εκούσια απ' ό,τι όταν έδειχνε ύποπτο και αστυνομικό πλάι πλάι."
+      },
+      "apply": {
+        "en": "Put in the centre of the screen what you want him to see as the cause of success. When you present the draft, the doctor's own face and name fill the screen, not your logo. In an ad show the finished site large and clear. On video calls share the screen instead of your face.",
+        "el": "Βάλε στο κέντρο της οθόνης αυτό που θέλεις να δει ως αιτία της επιτυχίας. Όταν παρουσιάζεις το draft, την οθόνη τη γεμίζουν το πρόσωπο και το όνομα του γιατρού, όχι το λογότυπό σου. Στη διαφήμιση δείξε την έτοιμη ιστοσελίδα μεγάλη και καθαρή. Στις βιντεοκλήσεις μοιράσου την οθόνη αντί να δείχνεις το πρόσωπό σου."
+      },
+      "check": {
+        "q": {"en": "The camera shows only the suspect during a confession. How do viewers judge it?", "el": "Η κάμερα δείχνει μόνο τον ύποπτο στην ομολογία. Πώς την κρίνουν οι θεατές;"},
+        "options": [
+          {"en": "As more voluntary, with the suspect responsible", "el": "Ως πιο εκούσια, με υπεύθυνο τον ύποπτο"},
+          {"en": "As forced by the detective they cannot see", "el": "Ως αναγκαστική, από τον αστυνομικό που δεν βλέπουν"},
+          {"en": "Exactly the same as from any other angle", "el": "Ακριβώς όπως και από κάθε άλλη γωνία"}
+        ],
+        "answer": 0,
+        "why": {"en": "The person in the centre of view is seen as the cause; the pressure from the unseen detective disappears from the picture.", "el": "Αυτός που είναι στο κέντρο θεωρείται η αιτία. Η πίεση από τον αστυνομικό που δεν φαίνεται χάνεται από την εικόνα."}
+      }
+    },
+    {
+      "title": {"en": "Attractors that must fit", "el": "Μαγνήτες που πρέπει να ταιριάζουν"},
+      "explain": {
+        "en": "Three things pull attention automatically: the sexual, the threatening and the different. But pulling attention is not enough. Sex sells only products connected with it, such as perfume or clothes. Fear makes people want to join the crowd, so «most popular» works after it. Romance makes people want to stand out, so «unique» works after it. Use the wrong pair and the ad backfires.",
+        "el": "Τρία πράγματα τραβούν αυτόματα την προσοχή: το σεξουαλικό, το απειλητικό και το διαφορετικό. Όμως δεν αρκεί να τραβήξεις την προσοχή. Το σεξ πουλά μόνο προϊόντα που σχετίζονται μαζί του, όπως αρώματα ή ρούχα. Ο φόβος κάνει τον άνθρωπο να θέλει να μπει στο πλήθος, άρα μετά από αυτόν πιάνει το «το πιο δημοφιλές». Το ρομαντικό κλίμα τον κάνει να θέλει να ξεχωρίσει, άρα πιάνει το «μοναδικό». Με λάθος ζευγάρι, η διαφήμιση γυρίζει εναντίον σου."
+      },
+      "example": {
+        "en": "Cialdini's team showed people an ad for the San Francisco Museum of Modern Art. After a scary film clip, the line «visited by over a million people each year» made the museum more attractive, and «stand out from the crowd» made it less. After a romantic clip the result was exactly the opposite.",
+        "el": "Η ομάδα του Τσιαλντίνι έδειξε σε ανθρώπους μια διαφήμιση του Μουσείου Μοντέρνας Τέχνης του Σαν Φρανσίσκο. Μετά από ένα τρομακτικό απόσπασμα ταινίας, η φράση «το επισκέπτονται πάνω από ένα εκατομμύριο άνθρωποι τον χρόνο» έκανε το μουσείο πιο ελκυστικό, ενώ το «ξεχώρισε από το πλήθος» λιγότερο. Μετά από ένα ρομαντικό απόσπασμα, το αποτέλεσμα ήταν ακριβώς το αντίθετο."
+      },
+      "apply": {
+        "en": "Match the two halves of every ad. If the hook is a worry («patients cannot find your practice»), follow with safety in numbers and one easy step: «200+ professionals already trust us. See a free draft.» Never use shocking or sexy images that have nothing to do with websites.",
+        "el": "Ταίριαξε τα δύο μισά κάθε διαφήμισης. Αν το άνοιγμα είναι μια ανησυχία («οι ασθενείς δεν βρίσκουν το ιατρείο σας»), συνέχισε με την ασφάλεια των πολλών και ένα εύκολο βήμα: «200+ επαγγελματίες μάς εμπιστεύονται ήδη. Δείτε ένα δωρεάν draft». Μη βάλεις ποτέ σοκαριστικές ή προκλητικές εικόνες που δεν έχουν σχέση με ιστοσελίδες."
+      },
+      "check": {
+        "q": {"en": "Your ad starts with a worry. Which second line fits best?", "el": "Η διαφήμισή σου ξεκινά με μια ανησυχία. Ποια δεύτερη φράση ταιριάζει καλύτερα;"},
+        "options": [
+          {"en": "«Be the only one who has this»", "el": "«Γίνε ο μόνος που το έχει»"},
+          {"en": "«A limited edition for the few»", "el": "«Περιορισμένη έκδοση για λίγους»"},
+          {"en": "«Hundreds of colleagues already chose it»", "el": "«Εκατοντάδες συνάδελφοι το έχουν ήδη επιλέξει»"}
+        ],
+        "answer": 2,
+        "why": {"en": "A worried person wants the safety of the group, so popularity persuades and «stand out» repels.", "el": "Ο ανήσυχος άνθρωπος ζητά την ασφάλεια της ομάδας, άρα τον πείθει η δημοφιλία και τον απωθεί το «ξεχώρισε»."}
+      }
+    },
+    {
+      "title": {"en": "Unfinished and mysterious", "el": "Το μισοτελειωμένο και το μυστήριο"},
+      "explain": {
+        "en": "Getting attention is one thing; holding it is another. Three things hold it: what concerns me personally, what is unfinished and what is mysterious. The Zeigarnik effect says that an unfinished task stays in the mind and pulls us back until it is closed. A mystery works the same way: we cannot leave before we learn the answer.",
+        "el": "Άλλο να τραβήξεις την προσοχή και άλλο να την κρατήσεις. Τρία πράγματα την κρατούν: ό,τι με αφορά προσωπικά, ό,τι έμεινε στη μέση και ό,τι είναι μυστήριο. Το φαινόμενο Ζεϊγκάρνικ λέει ότι μια μισοτελειωμένη δουλειά μένει στο μυαλό και μας τραβά πίσω μέχρι να κλείσει. Το ίδιο κάνει και ένα μυστήριο: δεν μπορούμε να φύγουμε πριν μάθουμε την απάντηση."
+      },
+      "example": {
+        "en": "In 1920s Berlin the psychologist Bluma Zeigarnik noticed a waiter who remembered every order perfectly until the bill was paid, and forgot it the next moment. Her experiments confirmed it: people recall interrupted tasks much better. Cialdini opens his lectures with a puzzle and gives the answer only at the end; students stay in their seats after the bell.",
+        "el": "Στο Βερολίνο της δεκαετίας του 1920, η ψυχολόγος Μπλούμα Ζεϊγκάρνικ πρόσεξε έναν σερβιτόρο που θυμόταν τέλεια κάθε παραγγελία μέχρι να πληρωθεί ο λογαριασμός, και την ξεχνούσε την επόμενη στιγμή. Τα πειράματά της το επιβεβαίωσαν: θυμόμαστε πολύ καλύτερα τις δουλειές που διακόπηκαν. Ο Τσιαλντίνι ανοίγει τα μαθήματά του με ένα αίνιγμα και δίνει τη λύση μόνο στο τέλος. Οι φοιτητές μένουν στη θέση τους και μετά το κουδούνι."
+      },
+      "apply": {
+        "en": "Open ads and videos with a true puzzle and answer it at the end: «Two dentists on the same street. One gets three times more calls from Google. Why?» End a call with an open loop: «Tomorrow I will send you the one thing I would change on your Google profile.»",
+        "el": "Άνοιξε διαφημίσεις και βίντεο με ένα αληθινό αίνιγμα και απάντησέ το στο τέλος: «Δύο οδοντίατροι στον ίδιο δρόμο. Ο ένας δέχεται τριπλάσια τηλεφωνήματα από το Google. Γιατί;» Κλείσε ένα τηλεφώνημα αφήνοντας κάτι ανοιχτό: «Αύριο θα σας στείλω το ένα πράγμα που θα άλλαζα στο προφίλ σας στο Google»."
+      },
+      "check": {
+        "q": {"en": "What does the Zeigarnik effect say?", "el": "Τι λέει το φαινόμενο Ζεϊγκάρνικ;"},
+        "options": [
+          {"en": "Finished tasks are remembered best", "el": "Θυμόμαστε καλύτερα όσα έχουμε τελειώσει"},
+          {"en": "Unfinished tasks stay in the mind", "el": "Τα μισοτελειωμένα μένουν στο μυαλό"},
+          {"en": "People forget whatever they do not like", "el": "Ξεχνάμε ό,τι δεν μας αρέσει"}
+        ],
+        "answer": 1,
+        "why": {"en": "The mind keeps an open loop active until it is closed, like the waiter with the unpaid order.", "el": "Το μυαλό κρατά ζωντανή κάθε εκκρεμότητα μέχρι να κλείσει, όπως ο σερβιτόρος με την απλήρωτη παραγγελία."}
+      }
+    },
+    {
+      "title": {"en": "Words and metaphors steer", "el": "Οι λέξεις και οι μεταφορές κατευθύνουν"},
+      "explain": {
+        "en": "Thinking works by association: one idea wakes up the ideas connected to it. So the words and images you use first decide which thoughts come next. A metaphor is the fastest way to do this. Some studies say even body sensations work as metaphors: weight suggests seriousness, warmth suggests a warm person, a hard chair a hard negotiator.",
+        "el": "Η σκέψη δουλεύει με συνειρμούς: μια ιδέα ξυπνά τις ιδέες που συνδέονται μαζί της. Άρα οι λέξεις και οι εικόνες που βάζεις πρώτες αποφασίζουν ποιες σκέψεις θα ακολουθήσουν. Η μεταφορά είναι ο πιο γρήγορος τρόπος να το πετύχεις. Κάποιες μελέτες λένε ότι ακόμα και οι αισθήσεις του σώματος λειτουργούν σαν μεταφορές: το βάρος παραπέμπει σε σοβαρότητα, η ζέστη σε ζεστό άνθρωπο, η σκληρή καρέκλα σε σκληρό διαπραγματευτή."
+      },
+      "example": {
+        "en": "Readers were told about rising crime in a city. When crime was called a «beast», most chose to catch and jail criminals. When it was called a «virus», most chose to treat the causes. In other studies, people holding a heavy clipboard rated a job candidate as more serious, and people in hard chairs bargained harder.",
+        "el": "Σε αναγνώστες περιέγραψαν την αύξηση της εγκληματικότητας σε μια πόλη. Όταν το έγκλημα ονομάστηκε «θηρίο», οι περισσότεροι διάλεξαν συλλήψεις και φυλακή. Όταν ονομάστηκε «ιός», οι περισσότεροι διάλεξαν να χτυπηθούν οι αιτίες. Σε άλλες μελέτες, όσοι κρατούσαν ένα βαρύ ντοσιέ έκριναν έναν υποψήφιο για δουλειά ως πιο σοβαρό, και όσοι κάθονταν σε σκληρές καρέκλες παζάρευαν πιο σκληρά."
+      },
+      "apply": {
+        "en": "Choose one metaphor for the website and use it everywhere: «It is your practice's reception desk that never closes.» Avoid cold words like «package» and «contract»; say «your site», «our cooperation». In a meeting sit side by side on comfortable chairs and accept the coffee you are offered.",
+        "el": "Διάλεξε μία μεταφορά για την ιστοσελίδα και χρησιμοποίησέ την παντού: «Είναι η ρεσεψιόν του ιατρείου σας που δεν κλείνει ποτέ». Απόφυγε ψυχρές λέξεις όπως «πακέτο» και «συμβόλαιο». Πες «η ιστοσελίδα σας», «η συνεργασία μας». Στο ραντεβού κάθισε δίπλα του, σε άνετες καρέκλες, και δέξου τον καφέ που θα σου προσφέρει."
+      },
+      "check": {
+        "q": {"en": "Crime is described as a «virus» instead of a «beast». What changes?", "el": "Το έγκλημα περιγράφεται ως «ιός» αντί για «θηρίο». Τι αλλάζει;"},
+        "options": [
+          {"en": "People prefer to treat the causes", "el": "Ο κόσμος προτιμά να χτυπηθούν οι αιτίες"},
+          {"en": "People ask for many more arrests", "el": "Ο κόσμος ζητά πολύ περισσότερες συλλήψεις"},
+          {"en": "Nothing; only the facts matter", "el": "Τίποτα, μετρούν μόνο τα γεγονότα"}
+        ],
+        "answer": 0,
+        "why": {"en": "The metaphor wakes up its own associations: a virus is treated at the source, a beast is caught and caged.", "el": "Η μεταφορά ξυπνά τους δικούς της συνειρμούς: τον ιό τον αντιμετωπίζεις στην πηγή του, το θηρίο το πιάνεις και το κλείνεις σε κλουβί."}
+      }
+    },
+    {
+      "title": {"en": "Change the room", "el": "Άλλαξε τον χώρο"},
+      "explain": {
+        "en": "Our surroundings feed us cues all day, and each cue pushes thinking in a direction. So you can pre-suade yourself: put in front of you the things that wake up the state you need. High ceilings help broad, creative thinking; low ceilings help detailed work. A picture of your goal or of your audience on the desk changes what you produce.",
+        "el": "Ο χώρος γύρω μας μάς στέλνει ερεθίσματα όλη μέρα, και κάθε ερέθισμα σπρώχνει τη σκέψη προς μια κατεύθυνση. Άρα μπορείς να προ-πείσεις τον εαυτό σου: βάλε μπροστά σου ό,τι ξυπνά τη διάθεση που χρειάζεσαι. Τα ψηλά ταβάνια βοηθούν την ευρεία, δημιουργική σκέψη. Τα χαμηλά βοηθούν τη δουλειά με λεπτομέρειες. Μια εικόνα του στόχου σου ή του κοινού σου στο γραφείο αλλάζει αυτό που βγάζεις."
+      },
+      "example": {
+        "en": "Fundraisers in a call centre who had a photo of a runner winning a race on their instruction sheet collected 60% more money than colleagues without it. Cialdini himself wrote stiff, academic pages in his university office, and clear pages for ordinary readers at home, by a window with ordinary people passing below.",
+        "el": "Σε ένα τηλεφωνικό κέντρο εράνων, όσοι είχαν στο φύλλο οδηγιών τους τη φωτογραφία μιας αθλήτριας που κόβει πρώτη το νήμα μάζεψαν 60% περισσότερα χρήματα από τους συναδέλφους τους που δεν την είχαν. Ο ίδιος ο Τσιαλντίνι έγραφε δύσκαμπτες, ακαδημαϊκές σελίδες στο γραφείο του στο πανεπιστήμιο, και καθαρές σελίδες για απλούς αναγνώστες στο σπίτι του, δίπλα σε ένα παράθυρο από όπου έβλεπε απλούς ανθρώπους να περνούν."
+      },
+      "apply": {
+        "en": "Set up your calling spot. Put in front of you a printed review from a happy doctor and today's goal in big numbers. Make calls from the same place every day, with nothing else on the desk. For creative work on a new design, move to a room with space and light.",
+        "el": "Στήσε τη γωνιά των τηλεφωνημάτων σου. Βάλε μπροστά σου τυπωμένη μια κριτική ενός ευχαριστημένου γιατρού και τον σημερινό στόχο με μεγάλα νούμερα. Κάνε τα τηλεφωνήματα από το ίδιο σημείο κάθε μέρα, χωρίς τίποτε άλλο στο γραφείο. Για δημιουργική δουλειά σε ένα νέο σχέδιο, πήγαινε σε χώρο με άπλα και φως."
+      },
+      "check": {
+        "q": {"en": "Why did the photo of the winning runner raise the money collected?", "el": "Γιατί η φωτογραφία της αθλήτριας που νικά ανέβασε τα χρήματα που μαζεύτηκαν;"},
+        "options": [
+          {"en": "The donors could see the photo too", "el": "Τη φωτογραφία την έβλεπαν και οι δωρητές"},
+          {"en": "The callers were paid more for it", "el": "Οι τηλεφωνητές πληρώθηκαν περισσότερο γι' αυτήν"},
+          {"en": "It kept the idea of achievement in the callers' minds", "el": "Κρατούσε την ιδέα της επίτευξης στο μυαλό των τηλεφωνητών"}
+        ],
+        "answer": 2,
+        "why": {"en": "A cue in the surroundings wakes up the matching state of mind, and behaviour follows.", "el": "Ένα ερέθισμα στον χώρο ξυπνά την αντίστοιχη διάθεση, και η συμπεριφορά ακολουθεί."}
+      }
+    },
+    {
+      "title": {"en": "If-then plans", "el": "Σχέδια «αν... τότε...»"},
+      "explain": {
+        "en": "Pre-suasive effects fade fast, so good intentions need a hook that lasts. An if-then plan ties the action to a specific cue: «If or when X happens, then I will do Y.» Now you do not need to remember or to find willpower; the situation itself reminds you. To make a change last in others, get an active commitment and attach it to a cue they will meet.",
+        "el": "Τα αποτελέσματα της προ-πειθούς σβήνουν γρήγορα, άρα οι καλές προθέσεις θέλουν έναν γάντζο που κρατά. Ένα σχέδιο «αν... τότε...» δένει την πράξη με ένα συγκεκριμένο ερέθισμα: «Αν ή όταν γίνει το Χ, τότε θα κάνω το Ψ». Τώρα δεν χρειάζεται να το θυμηθείς ή να βρεις θέληση. Σου το θυμίζει η ίδια η κατάσταση. Για να κρατήσει μια αλλαγή στους άλλους, πάρε μια ενεργή δέσμευση και δέσε τη με κάτι που θα συναντήσουν."
+      },
+      "example": {
+        "en": "Epilepsy patients who struggled to take their medicine on time were asked to form a plan such as «When it is 8 in the morning and I finish brushing my teeth, then I will take my pill.» The share who took it on schedule rose from 55% to 89%.",
+        "el": "Από ασθενείς με επιληψία που δυσκολεύονταν να παίρνουν το φάρμακό τους στην ώρα του ζητήθηκε να φτιάξουν ένα σχέδιο όπως «Όταν είναι 8 το πρωί και τελειώσω το βούρτσισμα των δοντιών, τότε θα πάρω το χάπι μου». Το ποσοστό όσων το έπαιρναν στην ώρα του ανέβηκε από 55% σε 89%."
+      },
+      "apply": {
+        "en": "Write if-then plans for your weak moments: «If he says: send me an email, then I ask: of course, and so I send the right thing, how do new patients find you today?» Give clients one too: «When you finish with your last patient on Thursday, send me the photos.»",
+        "el": "Γράψε σχέδια «αν... τότε...» για τις αδύναμες στιγμές σου: «Αν πει: στείλτε μου ένα email, τότε ρωτώ: βεβαίως, και για να σας στείλω το σωστό, πώς σας βρίσκουν σήμερα οι νέοι ασθενείς;» Δώσε ένα και στους πελάτες: «Όταν τελειώσετε με τον τελευταίο ασθενή την Πέμπτη, στείλτε μου τις φωτογραφίες»."
+      },
+      "check": {
+        "q": {"en": "Why does an if-then plan work better than a simple intention?", "el": "Γιατί ένα σχέδιο «αν... τότε...» δουλεύει καλύτερα από μια απλή πρόθεση;"},
+        "options": [
+          {"en": "The situation itself triggers the action", "el": "Την πράξη την ξεκινά η ίδια η κατάσταση"},
+          {"en": "It makes the goal smaller and easier", "el": "Κάνει τον στόχο μικρότερο και πιο εύκολο"},
+          {"en": "It adds a punishment if you fail", "el": "Προσθέτει μια τιμωρία αν αποτύχεις"}
+        ],
+        "answer": 0,
+        "why": {"en": "The cue is chosen in advance, so you do not rely on memory or willpower in the moment.", "el": "Το ερέθισμα έχει οριστεί από πριν, άρα δεν βασίζεσαι στη μνήμη ή στη θέληση εκείνης της στιγμής."}
+      }
+    },
+    {
+      "title": {"en": "The right principle at the right stage", "el": "Η σωστή αρχή στο σωστό στάδιο"},
+      "explain": {
+        "en": "Cialdini puts the six principles of «Influence» in order. First build the relationship: reciprocity and liking. Then reduce uncertainty: social proof and authority. Finally motivate action: consistency and scarcity. A gift works best when it is meaningful, unexpected and personal. An expert is believed more when he mentions a weakness first and then his strength.",
+        "el": "Ο Τσιαλντίνι βάζει σε σειρά τις έξι αρχές της «Επιρροής». Πρώτα χτίζεις τη σχέση: ανταπόδοση και συμπάθεια. Μετά μειώνεις την αβεβαιότητα: κοινωνική απόδειξη και κύρος. Στο τέλος παρακινείς σε πράξη: συνέπεια και σπανιότητα. Ένα δώρο πιάνει περισσότερο όταν έχει αξία, έρχεται απρόσμενα και είναι προσωπικό. Τον ειδικό τον πιστεύουν περισσότερο όταν αναφέρει πρώτα μια αδυναμία και μετά το δυνατό του σημείο."
+      },
+      "example": {
+        "en": "Restaurants in Beijing marked a few dishes on the menu as «most popular». Nothing else changed, and it was true. Sales of each marked dish rose by 13 to 20 percent. The label removed the customer's doubt about what to order, at no cost and without any pressure.",
+        "el": "Εστιατόρια στο Πεκίνο σημείωσαν μερικά πιάτα στον κατάλογο ως «τα πιο δημοφιλή». Τίποτε άλλο δεν άλλαξε, και ήταν αλήθεια. Οι πωλήσεις κάθε σημειωμένου πιάτου ανέβηκαν 13 με 20 τοις εκατό. Η σήμανση έδιωξε την αμφιβολία του πελάτη για το τι να παραγγείλει, χωρίς κόστος και χωρίς καμία πίεση."
+      },
+      "apply": {
+        "en": "Order your call in three steps. One: give something and find common ground. Two: remove doubt with two sites of colleagues and your 200+ live sites. Three: only at the end ask for the small yes and mention a real limit. Asking for commitment in step one is why calls die.",
+        "el": "Βάλε το τηλεφώνημά σου σε τρία βήματα. Ένα: δώσε κάτι και βρες κοινό έδαφος. Δύο: διώξε την αμφιβολία με δύο ιστοσελίδες συναδέλφων και τις 200+ live ιστοσελίδες σου. Τρία: μόνο στο τέλος ζήτα το μικρό «ναι» και ανάφερε ένα αληθινό όριο. Όταν ζητάς δέσμευση από το πρώτο βήμα, το τηλεφώνημα πεθαίνει."
+      },
+      "check": {
+        "q": {"en": "Which principles belong to the first stage, building the relationship?", "el": "Ποιες αρχές ανήκουν στο πρώτο στάδιο, το χτίσιμο της σχέσης;"},
+        "options": [
+          {"en": "Scarcity and consistency", "el": "Σπανιότητα και συνέπεια"},
+          {"en": "Reciprocity and liking", "el": "Ανταπόδοση και συμπάθεια"},
+          {"en": "Authority and social proof", "el": "Κύρος και κοινωνική απόδειξη"}
+        ],
+        "answer": 1,
+        "why": {"en": "First the relationship (give, be liked), then certainty (proof, expertise), and last the push to act.", "el": "Πρώτα η σχέση (δίνεις, γίνεσαι συμπαθής), μετά η βεβαιότητα (αποδείξεις, εμπειρία) και τελευταία η ώθηση για πράξη."}
+      }
+    },
+    {
+      "title": {"en": "Unity: one of us", "el": "Ενότητα: ένας από εμάς"},
+      "explain": {
+        "en": "The seventh principle. It is more than liking or similarity: it is shared identity. When someone is «one of us» (family, the same hometown, the same profession, the same small group), we help him almost as we would help ourselves. Family is the strongest form, and language that sounds like family («what I would tell my own brother») borrows some of its power.",
+        "el": "Η έβδομη αρχή. Είναι κάτι παραπάνω από συμπάθεια ή ομοιότητα: είναι κοινή ταυτότητα. Όταν κάποιος είναι «ένας από εμάς» (οικογένεια, ο ίδιος τόπος, το ίδιο επάγγελμα, η ίδια μικρή ομάδα), τον βοηθάμε σχεδόν όπως θα βοηθούσαμε τον εαυτό μας. Η οικογένεια είναι η πιο δυνατή μορφή, και τα λόγια που θυμίζουν οικογένεια («αυτό θα έλεγα και στον αδελφό μου») δανείζονται λίγη από τη δύναμή της."
+      },
+      "example": {
+        "en": "Cialdini needed his students' parents to fill in a long questionnaire. Normally fewer than 20% of parents answer such requests. He offered each student one extra point on a test if a parent replied. Of 163 questionnaires sent, 159 came back within a week. Parents do things for their own child.",
+        "el": "Ο Τσιαλντίνι χρειαζόταν οι γονείς των φοιτητών του να συμπληρώσουν ένα μεγάλο ερωτηματολόγιο. Συνήθως σε τέτοια αιτήματα απαντά λιγότερο από το 20% των γονιών. Πρόσφερε σε κάθε φοιτητή έναν επιπλέον βαθμό σε ένα τεστ αν απαντούσε ένας γονιός του. Από τα 163 ερωτηματολόγια που στάλθηκαν, τα 159 γύρισαν μέσα σε μια εβδομάδα. Οι γονείς κάνουν πράγματα για το παιδί τους."
+      },
+      "apply": {
+        "en": "Name the true group you share before the offer: «I also run a small business and I know what every euro means», or the same town, or a colleague who introduced you. Speak as to your own people: «If you were my brother, this is exactly what I would tell you.» Say it only when you mean it.",
+        "el": "Πες ποια αληθινή ομάδα μοιράζεστε πριν από την προσφορά: «Κι εγώ έχω μια μικρή επιχείρηση και ξέρω τι σημαίνει κάθε ευρώ», ή ο ίδιος τόπος, ή ο συνάδελφος που σας σύστησε. Μίλα όπως σε δικό σου άνθρωπο: «Αν ήσασταν αδελφός μου, ακριβώς αυτό θα σας έλεγα». Πες το μόνο όταν το εννοείς."
+      },
+      "check": {
+        "q": {"en": "How is unity different from simple liking?", "el": "Σε τι διαφέρει η ενότητα από την απλή συμπάθεια;"},
+        "options": [
+          {"en": "It needs a long friendship first", "el": "Θέλει πρώτα μια μακρόχρονη φιλία"},
+          {"en": "It works only inside real families", "el": "Δουλεύει μόνο μέσα σε πραγματικές οικογένειες"},
+          {"en": "It is shared identity: he is one of us", "el": "Είναι κοινή ταυτότητα: είναι ένας από εμάς"}
+        ],
+        "answer": 2,
+        "why": {"en": "Liking says «he is like me». Unity says «he is of us», and that moves people much more.", "el": "Η συμπάθεια λέει «μου μοιάζει». Η ενότητα λέει «είναι δικός μας», και αυτό κινητοποιεί πολύ περισσότερο."}
+      }
+    },
+    {
+      "title": {"en": "Ask for advice, not opinion", "el": "Ζήτα συμβουλή, όχι γνώμη"},
+      "explain": {
+        "en": "People feel close to what they helped to create, and to the people they created it with. This is co-creation. One word makes the difference. Ask for someone's «opinion» and he steps back and judges you from outside. Ask for his «advice» and he steps beside you and thinks with you, and afterwards he supports the idea as partly his own.",
+        "el": "Ο άνθρωπος δένεται με ό,τι βοήθησε να φτιαχτεί, και με αυτούς με τους οποίους το έφτιαξε. Αυτό λέγεται συν-δημιουργία. Μία λέξη κάνει τη διαφορά. Αν ζητήσεις από κάποιον τη «γνώμη» του, κάνει ένα βήμα πίσω και σε κρίνει απ' έξω. Αν ζητήσεις τη «συμβουλή» του, έρχεται δίπλα σου και σκέφτεται μαζί σου, και μετά στηρίζει την ιδέα σαν να είναι λίγο και δική του."
+      },
+      "example": {
+        "en": "People were shown the plan for a new fast-casual restaurant and asked for their advice, their opinions or their expectations. Those asked for advice felt most connected to the brand and were the most willing to eat there. Managers also rate a project more highly when they believe they had a hand in it.",
+        "el": "Σε ανθρώπους έδειξαν το σχέδιο για ένα νέο εστιατόριο γρήγορου φαγητού και τους ζήτησαν είτε τη συμβουλή τους, είτε τη γνώμη τους, είτε τις προσδοκίες τους. Όσοι έδωσαν συμβουλή ένιωσαν πιο δεμένοι με το εστιατόριο και ήταν οι πιο πρόθυμοι να φάνε εκεί. Και οι διευθυντές βαθμολογούν ψηλότερα ένα έργο όταν πιστεύουν ότι έβαλαν κι αυτοί το χέρι τους."
+      },
+      "apply": {
+        "en": "Bring the client into the build. Ask: «I would like your advice: what should a new patient see first when he opens your site?» Use his answer in the draft and tell him so. Ask your best clients for advice on a new service before you launch it.",
+        "el": "Βάλε τον πελάτη μέσα στην κατασκευή. Ρώτα: «Θα ήθελα τη συμβουλή σας: τι πρέπει να βλέπει πρώτο ένας νέος ασθενής όταν ανοίγει την ιστοσελίδα σας;» Βάλε την απάντησή του στο draft και πες του το. Ζήτα τη συμβουλή των καλύτερων πελατών σου για μια νέα υπηρεσία πριν τη βγάλεις."
+      },
+      "check": {
+        "q": {"en": "What happens when you ask for «advice» instead of «opinion»?", "el": "Τι γίνεται όταν ζητάς «συμβουλή» αντί για «γνώμη»;"},
+        "options": [
+          {"en": "The person becomes more critical of you", "el": "Ο άλλος γίνεται πιο επικριτικός μαζί σου"},
+          {"en": "The person joins your side and thinks with you", "el": "Ο άλλος έρχεται με το μέρος σου και σκέφτεται μαζί σου"},
+          {"en": "The person expects to be paid for it", "el": "Ο άλλος περιμένει να πληρωθεί γι' αυτό"}
+        ],
+        "answer": 1,
+        "why": {"en": "Advice puts him in a co-creating frame of mind; opinion puts him in a judging one.", "el": "Η συμβουλή τον βάζει σε διάθεση συν-δημιουργίας. Η γνώμη τον βάζει σε διάθεση κριτή."}
+      }
+    },
+    {
+      "title": {"en": "Acting in unison", "el": "Όταν κινούμαστε μαζί"},
+      "explain": {
+        "en": "The second road to unity is acting together. When people move, sing, march or tap in the same rhythm, they start to feel like one group: they like each other more and help each other more afterwards. Armies, choirs, churches and sports fans have used this for centuries. Doing the same thing at the same time blurs the line between «me» and «you».",
+        "el": "Ο δεύτερος δρόμος προς την ενότητα είναι να κάνουμε κάτι μαζί. Όταν οι άνθρωποι κινούνται, τραγουδούν, παρελαύνουν ή χτυπούν τον ίδιο ρυθμό, αρχίζουν να νιώθουν μία ομάδα: συμπαθούν περισσότερο ο ένας τον άλλον και βοηθιούνται περισσότερο μετά. Στρατοί, χορωδίες, εκκλησίες και οπαδοί το κάνουν αιώνες τώρα. Το να κάνεις το ίδιο πράγμα την ίδια στιγμή θολώνει τη γραμμή ανάμεσα στο «εγώ» και το «εσύ»."
+      },
+      "example": {
+        "en": "In one experiment people tapped on a table to tones in headphones, some in time with a partner and some not. Later the partner had to stay behind to finish a long task. Of those who had tapped in rhythm with him, 49% stayed to help. Of the others, 18%.",
+        "el": "Σε ένα πείραμα οι συμμετέχοντες χτυπούσαν το τραπέζι με τον ρυθμό που άκουγαν στα ακουστικά, άλλοι συγχρονισμένα με έναν σύντροφο και άλλοι όχι. Αργότερα ο σύντροφος έπρεπε να μείνει για να τελειώσει μια μεγάλη εργασία. Από όσους είχαν χτυπήσει στον ίδιο ρυθμό μαζί του, έμεινε να τον βοηθήσει το 49%. Από τους υπόλοιπους, το 18%."
+      },
+      "apply": {
+        "en": "Do something together with the client instead of presenting at him. Sit on the same side of the desk, look at the same screen and scroll his draft together, step by step. Follow his pace of speech. With your team, open the week with the same short ritual every Monday.",
+        "el": "Κάνε κάτι μαζί με τον πελάτη αντί να του κάνεις παρουσίαση. Κάθισε στην ίδια πλευρά του γραφείου, κοιτάξτε την ίδια οθόνη και δείτε το draft του μαζί, βήμα βήμα. Ακολούθησε τον ρυθμό με τον οποίο μιλά. Με την ομάδα σου, άνοιγε την εβδομάδα με το ίδιο σύντομο τελετουργικό κάθε Δευτέρα."
+      },
+      "check": {
+        "q": {"en": "What did tapping in the same rhythm produce?", "el": "Τι έφερε το χτύπημα στον ίδιο ρυθμό;"},
+        "options": [
+          {"en": "More willingness to help the partner", "el": "Περισσότερη προθυμία να βοηθήσουν τον σύντροφο"},
+          {"en": "Better memory for the tones", "el": "Καλύτερη μνήμη για τους ήχους"},
+          {"en": "More competition between the two", "el": "Περισσότερο ανταγωνισμό ανάμεσα στους δύο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Acting in unison creates a feeling of «we», and we help those who are part of «we».", "el": "Η κοινή, συγχρονισμένη δράση γεννά ένα αίσθημα «εμείς», και βοηθάμε όσους ανήκουν στο «εμείς»."}
+      }
+    },
+    {
+      "title": {"en": "The triple tumor", "el": "Ο τριπλός όγκος"},
+      "explain": {
+        "en": "Why be honest when tricks work? Besides the damage to its reputation, Cialdini says, a company that deceives its customers grows three tumors inside. Employees who must lie against their values work worse because of the stress. The honest ones leave, which is costly. And those who stay are the ones comfortable with cheating, so they cheat the company too.",
+        "el": "Γιατί να είσαι τίμιος αφού τα κόλπα πιάνουν; Πέρα από τη ζημιά στη φήμη της, λέει ο Τσιαλντίνι, μια εταιρεία που εξαπατά τους πελάτες της βγάζει μέσα της τρεις όγκους. Οι εργαζόμενοι που πρέπει να λένε ψέματα κόντρα στις αξίες τους αποδίδουν χειρότερα από το άγχος. Οι τίμιοι φεύγουν, και αυτό κοστίζει ακριβά. Και όσοι μένουν είναι αυτοί που δεν τους ενοχλεί η απάτη, άρα κλέβουν και την ίδια την εταιρεία."
+      },
+      "example": {
+        "en": "At the American bank Wells Fargo, staff under heavy sales pressure opened about two million accounts that customers had never asked for. In 2016 the bank was fined 185 million dollars and said it had fired about 5,300 employees over the practice. The cheating aimed at customers had spread through the whole organisation.",
+        "el": "Στην αμερικανική τράπεζα Wells Fargo, υπάλληλοι κάτω από ασφυκτική πίεση για πωλήσεις άνοιξαν περίπου δύο εκατομμύρια λογαριασμούς που οι πελάτες δεν είχαν ζητήσει ποτέ. Το 2016 η τράπεζα πλήρωσε πρόστιμο 185 εκατομμυρίων δολαρίων και ανακοίνωσε ότι είχε απολύσει περίπου 5.300 υπαλλήλους γι' αυτή την πρακτική. Η εξαπάτηση που στόχευε τους πελάτες είχε απλωθεί σε όλο τον οργανισμό."
+      },
+      "apply": {
+        "en": "Make it a house rule and say it to your team in words: no invented reviews, no fake deadlines, no claims the client has not confirmed. If a client asks for fake reviews on his site, answer: «We do not do that, and it protects you too.» Whoever lies for you will one day lie to you.",
+        "el": "Κάν' το κανόνα του σπιτιού και πες το στην ομάδα σου με λόγια: όχι ψεύτικες κριτικές, όχι ψεύτικες προθεσμίες, όχι ισχυρισμοί που ο πελάτης δεν έχει επιβεβαιώσει. Αν ένας πελάτης ζητήσει ψεύτικες κριτικές στην ιστοσελίδα του, απάντησε: «Αυτό δεν το κάνουμε, και αυτό προστατεύει κι εσάς». Όποιος λέει ψέματα για χάρη σου, μια μέρα θα πει ψέματα και σε εσένα."
+      },
+      "check": {
+        "q": {"en": "Which are the three inner costs of deceiving customers?", "el": "Ποια είναι τα τρία εσωτερικά κόστη της εξαπάτησης των πελατών;"},
+        "options": [
+          {"en": "Higher taxes, lawsuits and bad press", "el": "Υψηλότεροι φόροι, μηνύσεις και κακή δημοσιότητα"},
+          {"en": "Worse performance, staff leaving and internal fraud", "el": "Χειρότερη απόδοση, αποχωρήσεις και εσωτερική απάτη"},
+          {"en": "Slower growth, fewer ads and lower prices", "el": "Πιο αργή ανάπτυξη, λιγότερες διαφημίσεις και χαμηλότερες τιμές"}
+        ],
+        "answer": 1,
+        "why": {"en": "The damage happens inside, even if no customer ever finds out: stress, turnover and employees who cheat the firm.", "el": "Η ζημιά γίνεται μέσα στην εταιρεία, ακόμα κι αν κανένας πελάτης δεν το μάθει ποτέ: άγχος, αποχωρήσεις και υπάλληλοι που κλέβουν την επιχείρηση."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "In a meeting you are about to say your price. What do you do in the sentence just before it?", "el": "Σε ένα ραντεβού είσαι έτοιμος να πεις την τιμή σου. Τι κάνεις στην πρόταση ακριβώς πριν;"},
+      "options": [
+        {"en": "Apologise that nothing is really free", "el": "Ζητάς συγγνώμη που τίποτα δεν είναι εντελώς δωρεάν"},
+        {"en": "Mention truthfully what a site usually costs", "el": "Αναφέρεις με ειλικρίνεια πόσο κοστίζει συνήθως μια ιστοσελίδα"},
+        {"en": "Change the subject to technical details", "el": "Γυρίζεις την κουβέντα σε τεχνικές λεπτομέρειες"}
+      ],
+      "answer": 1,
+      "why": {"en": "The larger true number creates a privileged moment: with it in mind, your price looks as modest as it is.", "el": "Το μεγαλύτερο αληθινό νούμερο φτιάχνει μια προνομιακή στιγμή: με αυτό στο μυαλό, η τιμή σου φαίνεται όσο μικρή είναι."},
+      "idea": 1
+    },
+    {
+      "q": {"en": "You are preparing a new service and want your best clients to support it. What do you write to them?", "el": "Ετοιμάζεις μια νέα υπηρεσία και θέλεις να τη στηρίξουν οι καλύτεροι πελάτες σου. Τι τους γράφεις;"},
+      "options": [
+        {"en": "«What is your opinion of this service?»", "el": "«Ποια είναι η γνώμη σας γι' αυτή την υπηρεσία;»"},
+        {"en": "«We launch on Monday, tell your friends»", "el": "«Βγαίνει τη Δευτέρα, πείτε το σε φίλους»"},
+        {"en": "«I would like your advice on this service»", "el": "«Θα ήθελα τη συμβουλή σας γι' αυτή την υπηρεσία»"}
+      ],
+      "answer": 2,
+      "why": {"en": "Asking for advice makes them co-creators. They will feel the service is partly theirs and support it.", "el": "Όταν ζητάς συμβουλή, τους κάνεις συν-δημιουργούς. Θα νιώσουν ότι η υπηρεσία είναι λίγο και δική τους και θα τη στηρίξουν."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "A seller asks you: «What annoys you about your current bank?» and then presents his own. How do you think clearly?", "el": "Ένας πωλητής σε ρωτά: «Τι σας ενοχλεί στη σημερινή σας τράπεζα;» και μετά παρουσιάζει τη δική του. Πώς σκέφτεσαι καθαρά;"},
+      "options": [
+        {"en": "Ask yourself also what you are happy with", "el": "Ρωτάς τον εαυτό σου και με τι είσαι ευχαριστημένος"},
+        {"en": "List every complaint you can remember", "el": "Απαριθμείς κάθε παράπονο που θυμάσαι"},
+        {"en": "Change bank, since you found problems", "el": "Αλλάζεις τράπεζα, αφού βρήκες προβλήματα"}
+      ],
+      "answer": 0,
+      "why": {"en": "It was a one-sided question that sends you looking only for bad things. Asking the other side restores the balance.", "el": "Ήταν μονόδρομη ερώτηση, που σε στέλνει να ψάξεις μόνο τα άσχημα. Η ερώτηση για την άλλη πλευρά φέρνει πίσω την ισορροπία."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "Your ad opens with «Patients search for a dentist in your area and do not find you». Which line comes next?", "el": "Η διαφήμισή σου ανοίγει με «Οι ασθενείς ψάχνουν οδοντίατρο στην περιοχή σας και δεν σας βρίσκουν». Ποια φράση ακολουθεί;"},
+      "options": [
+        {"en": "«Be different from every other dentist»", "el": "«Γίνετε διαφορετικός από κάθε άλλον οδοντίατρο»"},
+        {"en": "«200+ professionals already trust us. See a free draft»", "el": "«200+ επαγγελματίες μάς εμπιστεύονται ήδη. Δείτε ένα δωρεάν draft»"},
+        {"en": "«An exclusive offer for very few»", "el": "«Μια αποκλειστική προσφορά για πολύ λίγους»"}
+      ],
+      "answer": 1,
+      "why": {"en": "After a worry, people look for the safety of the many and a clear, easy step. «Stand out» messages backfire there.", "el": "Μετά από μια ανησυχία ο άνθρωπος ζητά την ασφάλεια των πολλών και ένα καθαρό, εύκολο βήμα. Τα μηνύματα «ξεχώρισε» εκεί γυρίζουν ανάποδα."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "A team member suggests writing a few invented reviews for a new client's site «so it does not look empty». What do you do?", "el": "Κάποιος από την ομάδα προτείνει να γράψετε λίγες ψεύτικες κριτικές στην ιστοσελίδα ενός νέου πελάτη, «για να μη φαίνεται άδεια». Τι κάνεις;"},
+      "options": [
+        {"en": "Refuse, and explain what cheating does to a team", "el": "Αρνείσαι και εξηγείς τι κάνει η απάτη σε μια ομάδα"},
+        {"en": "Agree, but only until real ones arrive", "el": "Συμφωνείς, αλλά μόνο μέχρι να έρθουν αληθινές"},
+        {"en": "Let him decide, it is his project", "el": "Τον αφήνεις να αποφασίσει, δικό του είναι το έργο"}
+      ],
+      "answer": 0,
+      "why": {"en": "The triple tumor: a team taught to deceive customers performs worse, loses its honest people and ends up deceiving you.", "el": "Ο τριπλός όγκος: μια ομάδα που μαθαίνει να εξαπατά τους πελάτες αποδίδει χειρότερα, χάνει τους τίμιους ανθρώπους της και στο τέλος εξαπατά εσένα."},
+      "idea": 15
+    },
+    {
+      "q": {"en": "You keep forgetting to follow up with doctors who said «call me next week». What is the best fix?", "el": "Ξεχνάς συνέχεια να ξαναπάρεις τους γιατρούς που είπαν «πάρτε με την άλλη εβδομάδα». Ποια είναι η καλύτερη λύση;"},
+      "options": [
+        {"en": "Promise yourself to try harder", "el": "Υπόσχεσαι στον εαυτό σου ότι θα προσπαθήσεις περισσότερο"},
+        {"en": "Wait until they call you back themselves", "el": "Περιμένεις να σε πάρουν μόνοι τους"},
+        {"en": "«When I close the call, then I put the follow-up in the calendar»", "el": "«Όταν κλείνω το τηλέφωνο, τότε βάζω το follow-up στο ημερολόγιο»"}
+      ],
+      "answer": 2,
+      "why": {"en": "An if-then plan ties the action to a cue that always happens, so no memory or willpower is needed.", "el": "Ένα σχέδιο «αν... τότε...» δένει την πράξη με ένα ερέθισμα που συμβαίνει πάντα, άρα δεν χρειάζεται μνήμη ή θέληση."},
+      "idea": 10
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Whatever a person is paying attention to seems more important to him at that moment than it really is.", "el": "Ό,τι προσέχει κάποιος του φαίνεται εκείνη τη στιγμή πιο σημαντικό απ' όσο είναι στην πραγματικότητα."},
+      "answer": true,
+      "why": {"en": "This is the focusing illusion, the basis of the whole book.", "el": "Αυτή είναι η ψευδαίσθηση της εστίασης, η βάση όλου του βιβλίου."}
+    },
+    {
+      "s": {"en": "A good opener changes what a person believes for months.", "el": "Μια καλή εισαγωγή αλλάζει για μήνες αυτά που πιστεύει ο άλλος."},
+      "answer": false,
+      "why": {"en": "Pre-suasion opens a short window. To make a change last you need a commitment and a lasting cue.", "el": "Η προ-πειθώ ανοίγει ένα σύντομο παράθυρο. Για να κρατήσει μια αλλαγή χρειάζεται δέσμευση και ένα ερέθισμα που μένει."}
+    },
+    {
+      "s": {"en": "Asking «Are you a helpful person?» before a request for help raises the number of people who agree.", "el": "Η ερώτηση «Είστε άνθρωπος που βοηθά;» πριν από ένα αίτημα για βοήθεια ανεβάζει τον αριθμό όσων δέχονται."},
+      "answer": true,
+      "why": {"en": "In the study agreement rose from 29% to 77%.", "el": "Στη μελέτη, η αποδοχή ανέβηκε από 29% σε 77%."}
+    },
+    {
+      "s": {"en": "Sexual images help to sell any kind of product.", "el": "Οι σεξουαλικές εικόνες βοηθούν να πουληθεί οποιοδήποτε προϊόν."},
+      "answer": false,
+      "why": {"en": "They help only for products connected with attraction. Elsewhere they take attention away from the message.", "el": "Βοηθούν μόνο σε προϊόντα που σχετίζονται με την έλξη. Αλλού παίρνουν την προσοχή μακριά από το μήνυμα."}
+    },
+    {
+      "s": {"en": "Asking a client for his «opinion» binds him to you more than asking for his «advice».", "el": "Όταν ζητάς από τον πελάτη τη «γνώμη» του, δένεται μαζί σου περισσότερο απ' ό,τι όταν ζητάς τη «συμβουλή» του."},
+      "answer": false,
+      "why": {"en": "The opposite: opinion makes him a judge, advice makes him a partner.", "el": "Το αντίθετο: η γνώμη τον κάνει κριτή, η συμβουλή τον κάνει συνεργάτη."}
+    },
+    {
+      "s": {"en": "An unfinished story holds attention better than a finished one.", "el": "Μια ιστορία που έμεινε στη μέση κρατά την προσοχή καλύτερα από μια ολοκληρωμένη."},
+      "answer": true,
+      "why": {"en": "The Zeigarnik effect: the mind keeps coming back to what is still open.", "el": "Το φαινόμενο Ζεϊγκάρνικ: το μυαλό γυρίζει ξανά και ξανά σε ό,τι μένει ανοιχτό."}
+    },
+    {
+      "s": {"en": "According to Cialdini, deceiving customers damages a company from the inside, even if customers never find out.", "el": "Κατά τον Τσιαλντίνι, η εξαπάτηση των πελατών βλάπτει μια εταιρεία από μέσα, ακόμα κι αν οι πελάτες δεν το μάθουν ποτέ."},
+      "answer": true,
+      "why": {"en": "That is the triple tumor: worse performance, honest staff leaving and internal fraud.", "el": "Αυτός είναι ο τριπλός όγκος: χειρότερη απόδοση, αποχώρηση των τίμιων και εσωτερική απάτη."}
+    },
+    {
+      "s": {"en": "The main power of the media is that they tell people exactly what to think.", "el": "Η κύρια δύναμη των μέσων ενημέρωσης είναι ότι λένε στον κόσμο ακριβώς τι να σκεφτεί."},
+      "answer": false,
+      "why": {"en": "Their power is to decide what people think about. The chosen subject then feels important.", "el": "Η δύναμή τους είναι ότι ορίζουν για ποιο πράγμα θα σκεφτεί ο κόσμος. Το θέμα που διαλέγουν μοιάζει μετά σημαντικό."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Pre-suasion", "el": "Προ-πειθώ"}, "b": {"en": "Preparing the listener before the message", "el": "Προετοιμάζεις τον άλλον πριν από το μήνυμα"}},
+    {"a": {"en": "Privileged moment", "el": "Προνομιακή στιγμή"}, "b": {"en": "A short window when a request fits best", "el": "Σύντομο παράθυρο όπου το αίτημα ταιριάζει καλύτερα"}},
+    {"a": {"en": "Focusing illusion", "el": "Ψευδαίσθηση της εστίασης"}, "b": {"en": "What we look at seems important", "el": "Ό,τι κοιτάμε μάς φαίνεται σημαντικό"}},
+    {"a": {"en": "Zeigarnik effect", "el": "Φαινόμενο Ζεϊγκάρνικ"}, "b": {"en": "Unfinished things stay in the mind", "el": "Τα μισοτελειωμένα μένουν στο μυαλό"}},
+    {"a": {"en": "Unity", "el": "Ενότητα"}, "b": {"en": "The feeling that he is one of us", "el": "Η αίσθηση ότι είναι ένας από εμάς"}},
+    {"a": {"en": "Triple tumor", "el": "Τριπλός όγκος"}, "b": {"en": "Three hidden inner costs of cheating customers", "el": "Τρία κρυφά εσωτερικά κόστη όταν εξαπατάς πελάτες"}}
+  ],
+  "missions": [
+    {"en": "Write the exact first two sentences of your cold call, with one true and specific detail about the doctor, and use them on your next five calls.", "el": "Γράψε τις δύο πρώτες προτάσεις του cold call σου ακριβώς, με μια αληθινή και συγκεκριμένη λεπτομέρεια για τον γιατρό, και πες τες στα επόμενα πέντε τηλεφωνήματα."},
+    {"en": "Put a printed review from a happy client and today's call goal in front of the place where you make your calls.", "el": "Βάλε μια τυπωμένη κριτική ενός ευχαριστημένου πελάτη και τον σημερινό στόχο τηλεφωνημάτων μπροστά στο σημείο από όπου τηλεφωνείς."},
+    {"en": "Write three if-then plans for the objections you hear most often, and read them before you start calling.", "el": "Γράψε τρία σχέδια «αν... τότε...» για τις αντιρρήσεις που ακούς πιο συχνά, και διάβασέ τα πριν αρχίσεις τα τηλεφωνήματα."},
+    {"en": "Ask one current client for his advice (use the word) on something you are planning, and tell him afterwards what you did with it.", "el": "Ζήτα από έναν σημερινό πελάτη τη συμβουλή του (πες αυτή τη λέξη) για κάτι που σχεδιάζεις, και πες του μετά τι έκανες με αυτήν."},
+    {"en": "Rewrite one ad so that it opens with a true puzzle and gives the answer only in the last line.", "el": "Ξαναγράψε μια διαφήμιση ώστε να ανοίγει με ένα αληθινό αίνιγμα και να δίνει την απάντηση μόνο στην τελευταία γραμμή."}
+  ],
+  "mantra": {"en": "First win the moment, then make the request.", "el": "Πρώτα κερδίζω τη στιγμή, μετά ζητάω."},
+  "careful": {
+    "en": "Part of the book rests on «priming» studies, and several of them failed when other labs repeated them: the warm drink, the heavy clipboard and similar body-metaphor effects are doubtful, and real effects are usually small and short. Many stories are single anecdotes. Some openers described, like the salesman who pretends to forget things, are small deceptions; Cialdini's own ethics chapter argues against using them. Treat the book as a guide to attention, not as a set of magic tricks.",
+    "el": "Ένα μέρος του βιβλίου στηρίζεται σε μελέτες «priming», και αρκετές απέτυχαν όταν τις επανέλαβαν άλλα εργαστήρια: το ζεστό ρόφημα, το βαρύ ντοσιέ και παρόμοια ευρήματα με μεταφορές του σώματος είναι αμφίβολα, και τα πραγματικά αποτελέσματα είναι συνήθως μικρά και σύντομα. Πολλές ιστορίες είναι μεμονωμένα ανέκδοτα. Κάποιες εισαγωγές που περιγράφονται, όπως του πωλητή που κάνει ότι ξέχασε κάτι, είναι μικρές εξαπατήσεις, και το κεφάλαιο του ίδιου του Τσιαλντίνι για την ηθική είναι εναντίον τους. Δες το βιβλίο ως οδηγό για την προσοχή, όχι ως συλλογή από μαγικά κόλπα."
+  },
+  "connects": [
+    {"book": "influence", "note": {"en": "Influence gives the six principles; Pre-Suasion adds when to use each one, what to do just before, and a seventh principle, unity.", "el": "Η Επιρροή δίνει τις έξι αρχές. Η Προ-πειθώ προσθέτει πότε να χρησιμοποιήσεις την καθεμία, τι να κάνεις ακριβώς πριν, και μια έβδομη αρχή, την ενότητα."}},
+    {"book": "secrets-of-closing", "note": {"en": "Ziglar works on the end of the conversation, the close; Cialdini shows that the close is often decided in the first minute.", "el": "Ο Ζίγκλαρ δουλεύει το τέλος της κουβέντας, το κλείσιμο. Ο Τσιαλντίνι δείχνει ότι το κλείσιμο κρίνεται συχνά στο πρώτο λεπτό."}},
+    {"book": "deep-work", "note": {"en": "Both books say attention is your scarcest resource: Newport protects your own, Cialdini shows how surroundings and cues direct it.", "el": "Και τα δύο βιβλία λένε ότι η προσοχή είναι ο πιο σπάνιος πόρος σου: ο Νιούπορτ προστατεύει τη δική σου, ο Τσιαλντίνι δείχνει πώς την κατευθύνουν ο χώρος και τα ερεθίσματα."}}
+  ]
+}

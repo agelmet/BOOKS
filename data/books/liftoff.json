@@ -1,0 +1,536 @@
+{
+  "id": "liftoff",
+  "title": {"en": "Liftoff", "el": "Liftoff: Η απογείωση της SpaceX"},
+  "author": "Eric Berger",
+  "authorEl": "Έρικ Μπέργκερ",
+  "year": 2021,
+  "shelf": "founders",
+  "skills": {"leadership": 3, "mindset": 3, "strategy": 2},
+  "oneLine": {
+    "en": "How a few hundred young engineers on a tiny Pacific island failed three times, nearly went bankrupt, and reached orbit on their fourth and last attempt.",
+    "el": "Πώς λίγες εκατοντάδες νέοι μηχανικοί σε ένα μικροσκοπικό νησί του Ειρηνικού απέτυχαν τρεις φορές, έφτασαν ένα βήμα πριν τη χρεοκοπία και μπήκαν σε τροχιά στην τέταρτη και τελευταία προσπάθεια."
+  },
+  "story": {
+    "en": "Eric Berger is a space journalist who interviewed Elon Musk and dozens of the first SpaceX employees. His book covers only the early years, 2002 to 2008, and one small rocket, the Falcon 1. It follows the engineers who built it, the island where they launched it, three failures and one success. People read it because it shows, day by day, what building something very hard with little money really takes.",
+    "el": "Ο Έρικ Μπέργκερ είναι δημοσιογράφος διαστήματος που μίλησε με τον Έλον Μασκ και με δεκάδες από τους πρώτους εργαζόμενους της SpaceX. Το βιβλίο του καλύπτει μόνο τα πρώτα χρόνια, από το 2002 ως το 2008, και έναν μικρό πύραυλο, τον Falcon 1. Ακολουθεί τους μηχανικούς που τον έχτισαν, το νησί από όπου τον εκτόξευσαν, τρεις αποτυχίες και μία επιτυχία. Διαβάζεται γιατί δείχνει, μέρα με τη μέρα, τι χρειάζεται στ' αλήθεια για να χτίσεις κάτι πολύ δύσκολο με λίγα χρήματα."
+  },
+  "forYou": {
+    "en": "You also build with a tiny team, little money and tools that big agencies do not use, and you want to do in days what others do in months. This book is the best lesson you can find on speed, on doing things yourself, on fixing the real cause of a failure, and on how a leader behaves on the worst day.",
+    "el": "Κι εσύ χτίζεις με μικρή ομάδα, λίγα χρήματα και εργαλεία που τα μεγάλα γραφεία δεν χρησιμοποιούν, και θέλεις να κάνεις σε μέρες ό,τι οι άλλοι κάνουν σε μήνες. Αυτό το βιβλίο είναι το καλύτερο μάθημα που θα βρεις για την ταχύτητα, για το να φτιάχνεις τα πράγματα μόνος σου, για το να διορθώνεις την πραγματική αιτία μιας αποτυχίας και για το πώς φέρεται ένας ηγέτης στη χειρότερη μέρα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Absurd price? Do the maths", "el": "Αν η τιμή είναι παράλογη, κάνε τον λογαριασμό"},
+      "explain": {
+        "en": "SpaceX began with a different dream. Musk wanted to send a small greenhouse to Mars to make people excited about space again. He discovered that the rocket to carry it cost far too much. Instead of giving up, he asked a simple question: what do the materials of a rocket really cost? The answer was a small part of the selling price. So he decided to build his own.",
+        "el": "Η SpaceX ξεκίνησε από ένα άλλο όνειρο. Ο Μασκ ήθελε να στείλει ένα μικρό θερμοκήπιο στον Άρη, για να ξαναενθουσιαστεί ο κόσμος με το διάστημα. Ανακάλυψε ότι ο πύραυλος που θα το μετέφερε κόστιζε υπερβολικά. Αντί να τα παρατήσει, έκανε μια απλή ερώτηση: πόσο κοστίζουν στ' αλήθεια τα υλικά ενός πυραύλου; Η απάντηση ήταν ένα μικρό κομμάτι της τιμής πώλησης. Έτσι αποφάσισε να φτιάξει τον δικό του."
+      },
+      "example": {
+        "en": "In 2001 and 2002 Musk travelled to Russia to buy old missiles converted into rockets. The sellers did not take him seriously and the price was too high. On the flight home he opened a spreadsheet with the cost of building a rocket himself. He founded SpaceX in 2002.",
+        "el": "Το 2001 και το 2002 ο Μασκ ταξίδεψε στη Ρωσία για να αγοράσει παλιούς πυραύλους που είχαν μετατραπεί σε διαστημικούς. Οι πωλητές δεν τον πήραν στα σοβαρά και η τιμή ήταν πολύ υψηλή. Στην πτήση της επιστροφής άνοιξε ένα υπολογιστικό φύλλο με το κόστος να χτίσει πύραυλο μόνος του. Ίδρυσε τη SpaceX το 2002."
+      },
+      "apply": {
+        "en": "Break down any price that looks crazy to you, such as a tool subscription, a freelancer or a video production, into its real parts: hours and materials. If the real cost is a small part of the price, learn to do it in-house, as you did with websites.",
+        "el": "Ανάλυσε κάθε τιμή που σου φαίνεται τρελή, όπως μια συνδρομή σε εργαλείο, έναν freelancer ή μια παραγωγή βίντεο, στα πραγματικά της κομμάτια: ώρες και υλικά. Αν το πραγματικό κόστος είναι μικρό μέρος της τιμής, μάθε να το κάνεις μέσα στην ομάδα, όπως έκανες με τις ιστοσελίδες."
+      },
+      "check": {
+        "q": {"en": "What did Musk do when rockets proved too expensive to buy?", "el": "Τι έκανε ο Μασκ όταν οι πύραυλοι αποδείχτηκαν πολύ ακριβοί για να τους αγοράσει;"},
+        "options": [
+          {"en": "He dropped the idea of going to space", "el": "Παράτησε την ιδέα του διαστήματος"},
+          {"en": "He worked out the real cost and decided to build his own", "el": "Υπολόγισε το πραγματικό κόστος και αποφάσισε να φτιάξει δικό του"},
+          {"en": "He waited for prices to fall by themselves", "el": "Περίμενε να πέσουν οι τιμές από μόνες τους"}
+        ],
+        "answer": 1,
+        "why": {"en": "He compared the price with the cost of the raw materials and saw a huge gap.", "el": "Σύγκρινε την τιμή με το κόστος των υλικών και είδε ένα τεράστιο κενό."}
+      }
+    },
+    {
+      "title": {"en": "Few people, very good, fully trusted", "el": "Λίγοι, πολύ καλοί, με πλήρη εμπιστοσύνη"},
+      "explain": {
+        "en": "Musk believed that a small group of excellent engineers beats a large group of average ones. He looked for young, hungry people who had built real things with their hands, interviewed the early hires himself, and then gave each one a whole piece of the rocket to own. Great responsibility attracts great people. They worked extremely hard because the result was truly theirs.",
+        "el": "Ο Μασκ πίστευε ότι μια μικρή ομάδα εξαιρετικών μηχανικών νικά μια μεγάλη ομάδα μέτριων. Έψαχνε νέους, πεινασμένους ανθρώπους που είχαν φτιάξει αληθινά πράγματα με τα χέρια τους, έκανε ο ίδιος τις συνεντεύξεις στους πρώτους, και μετά έδινε στον καθένα ένα ολόκληρο κομμάτι του πυραύλου να είναι δικό του. Η μεγάλη ευθύνη τραβά μεγάλους ανθρώπους. Δούλευαν εξαντλητικά, γιατί το αποτέλεσμα ήταν πραγματικά δικό τους."
+      },
+      "example": {
+        "en": "Engineers in their twenties ran entire systems of the Falcon 1. Zach Dunn started as an intern and soon carried serious responsibility for the rocket's propulsion. At older aerospace companies people of that age waited many years for such responsibility.",
+        "el": "Μηχανικοί γύρω στα είκοσι πέντε είχαν την ευθύνη ολόκληρων συστημάτων του Falcon 1. Ο Ζακ Νταν ξεκίνησε ως ασκούμενος και σύντομα είχε σοβαρή ευθύνη για το σύστημα πρόωσης του πυραύλου. Στις παλιές εταιρείες αεροδιαστημικής, άνθρωποι αυτής της ηλικίας περίμεναν πολλά χρόνια για τέτοια ευθύνη."
+      },
+      "apply": {
+        "en": "Give each person on your team one complete thing to own, for example all change requests, or all first drafts, with the freedom to decide how. Judge the result, not the method. Ownership makes a good person work as if the business were theirs.",
+        "el": "Δώσε σε κάθε άνθρωπο της ομάδας σου ένα ολόκληρο πράγμα να είναι δικό του, για παράδειγμα όλα τα αιτήματα αλλαγών ή όλα τα πρώτα draft, με ελευθερία να αποφασίζει το πώς. Κρίνε το αποτέλεσμα, όχι τη μέθοδο. Όταν κάτι είναι δικό του, ο καλός συνεργάτης δουλεύει σαν να είναι δική του η επιχείρηση."
+      },
+      "check": {
+        "q": {"en": "How did SpaceX get so much from young engineers?", "el": "Πώς πήρε η SpaceX τόσα πολλά από νέους μηχανικούς;"},
+        "options": [
+          {"en": "By keeping them on small, safe tasks for years", "el": "Κρατώντας τους για χρόνια σε μικρές, ασφαλείς εργασίες"},
+          {"en": "By checking every step they took", "el": "Ελέγχοντας κάθε τους βήμα"},
+          {"en": "By giving them full ownership of real systems", "el": "Δίνοντάς τους ολόκληρη την ευθύνη για αληθινά συστήματα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Real responsibility is what attracted and motivated the best people.", "el": "Η αληθινή ευθύνη ήταν αυτό που τράβηξε και κινητοποίησε τους καλύτερους."}
+      }
+    },
+    {
+      "title": {"en": "Build it yourself", "el": "Φτιάξ' το μόνος σου"},
+      "explain": {
+        "en": "Traditional rocket makers buy most parts from suppliers, and each supplier adds its own profit and its own delays. SpaceX did the opposite: it built around 80 to 90 percent of the rocket in its own factory. This is called vertical integration, which simply means doing the steps yourself instead of buying them. You control cost, speed and quality, and you can change a design the same day.",
+        "el": "Οι παραδοσιακοί κατασκευαστές πυραύλων αγοράζουν τα περισσότερα εξαρτήματα από προμηθευτές, και κάθε προμηθευτής προσθέτει το δικό του κέρδος και τις δικές του καθυστερήσεις. Η SpaceX έκανε το αντίθετο: έφτιαχνε περίπου το 80 με 90 τοις εκατό του πυραύλου στο δικό της εργοστάσιο. Αυτό λέγεται κάθετη ολοκλήρωση, δηλαδή απλά κάνεις τα βήματα μόνος σου αντί να τα αγοράζεις. Ελέγχεις κόστος, ταχύτητα και ποιότητα, και αλλάζεις ένα σχέδιο την ίδια μέρα."
+      },
+      "example": {
+        "en": "SpaceX made its own engines, tanks and electronics. A well-known story from those years: a supplier asked about 120,000 dollars for a part that moves the engine. Musk said it was no more complicated than a garage door opener, and an engineer built it in-house for a few thousand dollars.",
+        "el": "Η SpaceX έφτιαχνε τους δικούς της κινητήρες, δεξαμενές και ηλεκτρονικά. Μια γνωστή ιστορία εκείνων των χρόνων: ένας προμηθευτής ζήτησε περίπου 120.000 δολάρια για ένα εξάρτημα που κινεί τον κινητήρα. Ο Μασκ είπε ότι δεν ήταν πιο περίπλοκο από έναν μηχανισμό γκαραζόπορτας, και ένας μηχανικός το έφτιαξε μέσα στην εταιρεία με λίγες χιλιάδες δολάρια."
+      },
+      "apply": {
+        "en": "Keep inside your team the steps that decide your speed and quality: design, copy, changes, client communication. Before you pay an outside service, ask if you can build a simple version yourself with AI in a day. Buy from outside only what is truly not your job.",
+        "el": "Κράτα μέσα στην ομάδα σου τα βήματα που κρίνουν την ταχύτητα και την ποιότητά σου: σχεδιασμό, κείμενα, αλλαγές, επικοινωνία με τον πελάτη. Πριν πληρώσεις μια εξωτερική υπηρεσία, ρώτα αν μπορείς να φτιάξεις μια απλή εκδοχή μόνος σου με AI σε μία μέρα. Αγόραζε απ' έξω μόνο ό,τι πραγματικά δεν είναι δική σου δουλειά."
+      },
+      "check": {
+        "q": {"en": "What is the main gain from vertical integration?", "el": "Ποιο είναι το βασικό κέρδος από την κάθετη ολοκλήρωση;"},
+        "options": [
+          {"en": "You control cost, speed and quality yourself", "el": "Ελέγχεις ο ίδιος κόστος, ταχύτητα και ποιότητα"},
+          {"en": "You need far fewer skilled people", "el": "Χρειάζεσαι πολύ λιγότερους ικανούς ανθρώπους"},
+          {"en": "Suppliers take on all the risk", "el": "Οι προμηθευτές παίρνουν όλο το ρίσκο"}
+        ],
+        "answer": 0,
+        "why": {"en": "Without suppliers in the middle you remove their margins and their delays.", "el": "Χωρίς προμηθευτές στη μέση, βγάζεις τα περιθώρια κέρδους και τις καθυστερήσεις τους."}
+      }
+    },
+    {
+      "title": {"en": "Simple beats clever", "el": "Το απλό νικά το έξυπνο"},
+      "explain": {
+        "en": "The heart of the Falcon 1 was the Merlin engine, designed by Tom Mueller. He did not chase the most advanced engine in the world. He chose a design that was simple, strong and easy to manufacture. Its key part, the pintle injector, mixes the fuel in an uncomplicated way and rarely misbehaves. An engine you can build cheaply, again and again, is worth more than a brilliant one you can build once.",
+        "el": "Η καρδιά του Falcon 1 ήταν ο κινητήρας Merlin, που σχεδίασε ο Τομ Μιούλερ. Δεν κυνήγησε τον πιο προηγμένο κινητήρα του κόσμου. Διάλεξε ένα σχέδιο απλό, γερό και εύκολο στην κατασκευή. Το βασικό του εξάρτημα, ο εγχυτήρας τύπου pintle, αναμειγνύει τα καύσιμα με απλό τρόπο και σπάνια κάνει νερά. Ένας κινητήρας που φτιάχνεται φθηνά, ξανά και ξανά, αξίζει περισσότερο από έναν λαμπρό που φτιάχνεται μία φορά."
+      },
+      "example": {
+        "en": "Mueller had worked on engines at the company TRW and built rocket engines as a hobby in his spare time. The pintle injector he chose was the same kind used on the engine that landed the Apollo astronauts on the Moon. The Merlin was tested again and again at a site in McGregor, Texas.",
+        "el": "Ο Μιούλερ είχε δουλέψει σε κινητήρες στην εταιρεία TRW και έφτιαχνε πυραυλοκινητήρες ως χόμπι στον ελεύθερο χρόνο του. Ο εγχυτήρας pintle που διάλεξε ήταν του ίδιου τύπου με αυτόν στον κινητήρα που προσεδάφισε τους αστροναύτες του Apollo στη Σελήνη. Ο Merlin δοκιμάστηκε ξανά και ξανά σε μια εγκατάσταση στο ΜακΓκρέγκορ του Τέξας."
+      },
+      "apply": {
+        "en": "Choose for every site the solution that is simple to build, simple to change and unlikely to break, even if a fancier one exists. Ask yourself: can I repeat this on the next fifty sites without trouble? If not, simplify it.",
+        "el": "Διάλεξε για κάθε ιστοσελίδα τη λύση που φτιάχνεται απλά, αλλάζει απλά και δύσκολα χαλάει, ακόμα κι αν υπάρχει μια πιο εντυπωσιακή. Ρώτα τον εαυτό σου: μπορώ να το επαναλάβω στις επόμενες πενήντα ιστοσελίδες χωρίς μπελάδες; Αν όχι, απλοποίησέ το."
+      },
+      "check": {
+        "q": {"en": "Why was the Merlin a good engine for a young company?", "el": "Γιατί ο Merlin ήταν καλός κινητήρας για μια νέα εταιρεία;"},
+        "options": [
+          {"en": "It was the most complex engine ever designed", "el": "Ήταν ο πιο περίπλοκος κινητήρας που σχεδιάστηκε ποτέ"},
+          {"en": "It was simple, robust and cheap to manufacture", "el": "Ήταν απλός, ανθεκτικός και φθηνός στην κατασκευή"},
+          {"en": "It was bought ready-made from a supplier", "el": "Αγοράστηκε έτοιμος από προμηθευτή"}
+        ],
+        "answer": 1,
+        "why": {"en": "Mueller designed for reliability and manufacturing, not for records.", "el": "Ο Μιούλερ σχεδίασε για αξιοπιστία και εύκολη παραγωγή, όχι για ρεκόρ."}
+      }
+    },
+    {
+      "title": {"en": "Build, test, break, fix", "el": "Φτιάξε, δοκίμασε, σπάσε, διόρθωσε"},
+      "explain": {
+        "en": "The old way of building rockets is to study everything on paper for years so that nothing fails. SpaceX worked like a software company: build something quickly, test it, watch it break, fix it, test again. Each failure is information. This is called iterative design, improving in many small rounds. It looks messy from outside, but it is faster and cheaper, as long as you really learn from each round.",
+        "el": "Ο παλιός τρόπος να χτίζεις πυραύλους είναι να μελετάς τα πάντα στο χαρτί για χρόνια, ώστε να μην αποτύχει τίποτα. Η SpaceX δούλευε σαν εταιρεία λογισμικού: φτιάξε κάτι γρήγορα, δοκίμασέ το, δες το να σπάει, διόρθωσέ το, δοκίμασε ξανά. Κάθε αποτυχία είναι πληροφορία. Αυτό λέγεται επαναληπτικός σχεδιασμός, δηλαδή βελτίωση σε πολλούς μικρούς γύρους. Απ' έξω μοιάζει ακατάστατο, αλλά είναι πιο γρήγορο και πιο φθηνό, αρκεί να μαθαίνεις πραγματικά από κάθε γύρο."
+      },
+      "example": {
+        "en": "In Texas the team fired engines until they failed, changed the design and fired again within days. Musk set deadlines that seemed impossible and decided quickly on the spot, so nobody waited weeks for an approval. The first engine version was later replaced by a better-cooled one.",
+        "el": "Στο Τέξας η ομάδα άναβε κινητήρες μέχρι να αποτύχουν, άλλαζε το σχέδιο και τους ξανάναβε μέσα σε λίγες μέρες. Ο Μασκ έβαζε προθεσμίες που έμοιαζαν αδύνατες και αποφάσιζε γρήγορα, επιτόπου, ώστε κανείς να μην περιμένει εβδομάδες για μια έγκριση. Η πρώτη εκδοχή του κινητήρα αντικαταστάθηκε αργότερα από μια με καλύτερη ψύξη."
+      },
+      "apply": {
+        "en": "Launch your next ad, script or offer in a rough version today instead of perfecting it for a week. Run it on twenty people, note what failed, change one thing and run it again. Ten quick rounds teach you more than one perfect plan.",
+        "el": "Βγάλε την επόμενη διαφήμιση, το επόμενο script ή την επόμενη προσφορά σου σήμερα, σε πρόχειρη μορφή, αντί να την τελειοποιείς μια εβδομάδα. Δοκίμασέ τη σε είκοσι ανθρώπους, σημείωσε τι δεν πήγε καλά, άλλαξε ένα πράγμα και ξανατρέξ' τη. Δέκα γρήγοροι γύροι σού μαθαίνουν περισσότερα από ένα τέλειο σχέδιο."
+      },
+      "check": {
+        "q": {"en": "What makes iterative design work?", "el": "Τι κάνει τον επαναληπτικό σχεδιασμό να δουλεύει;"},
+        "options": [
+          {"en": "Learning from each quick failure and trying again", "el": "Να μαθαίνεις από κάθε γρήγορη αποτυχία και να ξαναδοκιμάζεις"},
+          {"en": "Avoiding every test until the design is perfect", "el": "Να αποφεύγεις κάθε δοκιμή μέχρι το σχέδιο να γίνει τέλειο"},
+          {"en": "Hiding failures from the rest of the team", "el": "Να κρύβεις τις αποτυχίες από την υπόλοιπη ομάδα"}
+        ],
+        "answer": 0,
+        "why": {"en": "Speed only helps if every round produces a lesson that changes the next one.", "el": "Η ταχύτητα βοηθά μόνο αν κάθε γύρος βγάζει ένα μάθημα που αλλάζει τον επόμενο."}
+      }
+    },
+    {
+      "title": {"en": "The dreamer needs a seller", "el": "Ο οραματιστής θέλει έναν πωλητή"},
+      "explain": {
+        "en": "Musk pushed the engineering. Gwynne Shotwell made it a business. She joined in the first months, in 2002, to find customers, and she sold launches on a rocket that had not flown yet. She was calm with customers and with government officials when Musk was not. Every founder with a big vision needs a partner who builds trust, closes deals and keeps promises realistic.",
+        "el": "Ο Μασκ έσπρωχνε τη μηχανική. Η Γκουίν Σότγουελ την έκανε επιχείρηση. Ήρθε τους πρώτους μήνες, το 2002, για να βρει πελάτες, και πούλησε εκτοξεύσεις με έναν πύραυλο που δεν είχε πετάξει ακόμα. Ήταν ήρεμη με τους πελάτες και με τους κρατικούς αξιωματούχους εκεί που ο Μασκ δεν ήταν. Κάθε ιδρυτής με μεγάλο όραμα χρειάζεται έναν συνεργάτη που χτίζει εμπιστοσύνη, κλείνει συμφωνίες και κρατά τις υποσχέσεις ρεαλιστικές."
+      },
+      "example": {
+        "en": "Shotwell signed customers such as the government of Malaysia for a Falcon 1 launch years before the rocket worked, and she led the talks with NASA. At the end of 2008 she became president of SpaceX and has run its daily operations ever since.",
+        "el": "Η Σότγουελ έκλεισε πελάτες, όπως την κυβέρνηση της Μαλαισίας, για εκτόξευση με Falcon 1 χρόνια πριν δουλέψει ο πύραυλος, και ηγήθηκε των συζητήσεων με τη NASA. Στο τέλος του 2008 έγινε πρόεδρος της SpaceX και από τότε τρέχει την καθημερινή της λειτουργία."
+      },
+      "apply": {
+        "en": "Write down honestly which half you are: the builder or the seller. Then find the person who covers your weak half, even part-time, for example someone patient who handles client follow-ups and payments while you sell and design.",
+        "el": "Γράψε ειλικρινά ποιο μισό είσαι: αυτός που χτίζει ή αυτός που πουλάει. Μετά βρες τον άνθρωπο που καλύπτει το αδύναμο μισό σου, έστω και για λίγες ώρες, για παράδειγμα κάποιον υπομονετικό που αναλαμβάνει τα follow-up και τις πληρωμές των πελατών όσο εσύ πουλάς και σχεδιάζεις."
+      },
+      "check": {
+        "q": {"en": "What did Shotwell bring that SpaceX lacked?", "el": "Τι έφερε η Σότγουελ που έλειπε από τη SpaceX;"},
+        "options": [
+          {"en": "A new design for the rocket engine", "el": "Ένα νέο σχέδιο για τον κινητήρα του πυραύλου"},
+          {"en": "Money from her own personal fortune", "el": "Χρήματα από την προσωπική της περιουσία"},
+          {"en": "Customers, trust and steady business sense", "el": "Πελάτες, εμπιστοσύνη και σταθερή επιχειρηματική κρίση"}
+        ],
+        "answer": 2,
+        "why": {"en": "She sold launches before the rocket flew and managed the customer relationships.", "el": "Πούλησε εκτοξεύσεις πριν πετάξει ο πύραυλος και κράτησε τις σχέσεις με τους πελάτες."}
+      }
+    },
+    {
+      "title": {"en": "Gate closed? Find your island", "el": "Αν η πόρτα είναι κλειστή, βρες το δικό σου νησί"},
+      "explain": {
+        "en": "SpaceX first prepared to launch from an Air Force base in California. Then it was told to wait, for an unknown number of months, because of another rocket nearby. Waiting would have killed a company that was burning its money. So the team packed up and moved to a tiny island in the Pacific. The freedom had a price: heat, salt, rust, and supplies that took weeks to arrive.",
+        "el": "Η SpaceX ετοιμάστηκε αρχικά να εκτοξεύσει από μια βάση της Πολεμικής Αεροπορίας στην Καλιφόρνια. Μετά της είπαν να περιμένει, άγνωστο πόσους μήνες, εξαιτίας ενός άλλου πυραύλου εκεί κοντά. Η αναμονή θα σκότωνε μια εταιρεία που έκαιγε τα χρήματά της. Η ομάδα λοιπόν τα μάζεψε και μετακόμισε σε ένα μικροσκοπικό νησί στον Ειρηνικό. Η ελευθερία είχε τίμημα: ζέστη, αλάτι, σκουριά και προμήθειες που έκαναν εβδομάδες να φτάσουν."
+      },
+      "example": {
+        "en": "At Vandenberg base the Air Force would not let SpaceX launch while a large Titan IV rocket with a secret satellite stood on a pad nearby. In 2005 SpaceX moved to Omelek, a small island in Kwajalein Atoll in the Marshall Islands, and built its launch pad there by hand.",
+        "el": "Στη βάση Βάντενμπεργκ η Πολεμική Αεροπορία δεν άφηνε τη SpaceX να εκτοξεύσει όσο ένας μεγάλος πύραυλος Titan IV με απόρρητο δορυφόρο βρισκόταν σε διπλανή εξέδρα. Το 2005 η SpaceX μετακόμισε στο Ομέλεκ, ένα μικρό νησί στην ατόλη Κουατζαλέιν, στα Νησιά Μάρσαλ, και έχτισε εκεί την εξέδρα εκτόξευσης με τα χέρια της."
+      },
+      "apply": {
+        "en": "Notice where you are waiting for someone else's permission: a client who has not sent material, a platform reviewing your ad, a partner who is slow. Decide what you can build without them today, such as a draft from public information, so that the wait never stops your work.",
+        "el": "Εντόπισε πού περιμένεις την άδεια κάποιου άλλου: έναν πελάτη που δεν έχει στείλει υλικό, μια πλατφόρμα που ελέγχει τη διαφήμισή σου, έναν αργό συνεργάτη. Αποφάσισε τι μπορείς να χτίσεις σήμερα χωρίς αυτούς, όπως ένα draft από δημόσιες πληροφορίες, ώστε η αναμονή να μη σταματά ποτέ τη δουλειά σου."
+      },
+      "check": {
+        "q": {"en": "Why did SpaceX move its launches to Kwajalein?", "el": "Γιατί η SpaceX μετέφερε τις εκτοξεύσεις της στο Κουατζαλέιν;"},
+        "options": [
+          {"en": "The weather in California was too cold", "el": "Ο καιρός στην Καλιφόρνια ήταν πολύ κρύος"},
+          {"en": "It could not afford to wait for permission in California", "el": "Δεν άντεχε να περιμένει την άδεια στην Καλιφόρνια"},
+          {"en": "NASA ordered it to launch from the Pacific", "el": "Η NASA τη διέταξε να εκτοξεύει από τον Ειρηνικό"}
+        ],
+        "answer": 1,
+        "why": {"en": "An open-ended delay was more dangerous than the hardship of a remote island.", "el": "Μια καθυστέρηση χωρίς ημερομηνία ήταν πιο επικίνδυνη από τις κακουχίες ενός απομακρυσμένου νησιού."}
+      }
+    },
+    {
+      "title": {"en": "Feed the team first", "el": "Πρώτα φρόντισε την ομάδα"},
+      "explain": {
+        "en": "Speed has a human cost. On the island people worked from dawn until night in the heat, far from their families, for months. The book is honest that this broke some marriages and burned people out. A leader who asks for extreme effort owes the team the basics: food, rest, respect and a reason. When these are missing, even the most loyal people stop.",
+        "el": "Η ταχύτητα έχει ανθρώπινο κόστος. Στο νησί οι άνθρωποι δούλευαν από την αυγή ως το βράδυ μέσα στη ζέστη, μακριά από τις οικογένειές τους, για μήνες. Το βιβλίο λέει ειλικρινά ότι αυτό διέλυσε κάποιους γάμους και εξάντλησε ανθρώπους. Ο ηγέτης που ζητά ακραία προσπάθεια χρωστά στην ομάδα τα βασικά: φαγητό, ξεκούραση, σεβασμό και έναν λόγο. Όταν αυτά λείπουν, σταματούν ακόμα και οι πιο πιστοί."
+      },
+      "example": {
+        "en": "In 2005 the crew on Omelek, exhausted and short of food and supplies, simply stopped working until help came. The managers sent a helicopter with chicken wings and cigarettes, and work started again. Inside SpaceX the episode is remembered as the Kwaj mutiny.",
+        "el": "Το 2005 το συνεργείο στο Ομέλεκ, εξαντλημένο και με ελλείψεις σε φαγητό και προμήθειες, απλά σταμάτησε να δουλεύει μέχρι να έρθει βοήθεια. Οι υπεύθυνοι έστειλαν ένα ελικόπτερο με φτερούγες κοτόπουλου και τσιγάρα, και η δουλειά ξανάρχισε. Μέσα στη SpaceX το επεισόδιο έμεινε γνωστό ως «η ανταρσία του Κουάτζ»."
+      },
+      "apply": {
+        "en": "Ask each person who works with you, before the next heavy week, what they need to do it well: clearer instructions, a day off after, faster answers from you. Give it before they have to ask. People forgive hard work, not being ignored.",
+        "el": "Ρώτα κάθε άνθρωπο που δουλεύει μαζί σου, πριν την επόμενη φορτωμένη εβδομάδα, τι χρειάζεται για να τη βγάλει καλά: πιο καθαρές οδηγίες, ένα ρεπό μετά, πιο γρήγορες απαντήσεις από σένα. Δώσ' το πριν χρειαστεί να το ζητήσει. Οι άνθρωποι συγχωρούν τη σκληρή δουλειά, όχι την αδιαφορία."
+      },
+      "check": {
+        "q": {"en": "What does the Kwaj mutiny teach a leader?", "el": "Τι διδάσκει σε έναν ηγέτη η «ανταρσία του Κουάτζ»;"},
+        "options": [
+          {"en": "Extreme effort is possible only if basic needs are covered", "el": "Η ακραία προσπάθεια γίνεται μόνο αν καλύπτονται οι βασικές ανάγκες"},
+          {"en": "Tired employees should be replaced at once", "el": "Οι κουρασμένοι εργαζόμενοι πρέπει να αντικαθίστανται αμέσως"},
+          {"en": "Teams work best when supplies are short", "el": "Οι ομάδες δουλεύουν καλύτερα όταν οι προμήθειες λείπουν"}
+        ],
+        "answer": 0,
+        "why": {"en": "Even a devoted crew stopped when food and supplies did not arrive.", "el": "Ακόμα κι ένα αφοσιωμένο συνεργείο σταμάτησε όταν δεν έφτασαν φαγητό και προμήθειες."}
+      }
+    },
+    {
+      "title": {"en": "Find the cause, not a culprit", "el": "Βρες την αιτία, όχι έναν ένοχο"},
+      "explain": {
+        "en": "When something fails, the first instinct is to find a person to blame. That feels good and teaches nothing. The first Falcon 1 flight failed in about half a minute. At first the failure was blamed on a mistake by technicians. A careful investigation found something else: a tiny part eaten by the salty air. Blaming people would have left the real problem in the next rocket.",
+        "el": "Όταν κάτι αποτυγχάνει, το πρώτο ένστικτο είναι να βρεις έναν άνθρωπο να φταίει. Αυτό σε ανακουφίζει και δεν σου μαθαίνει τίποτα. Η πρώτη πτήση του Falcon 1 απέτυχε σε περίπου μισό λεπτό. Στην αρχή η αποτυχία αποδόθηκε σε λάθος των τεχνικών. Μια προσεκτική έρευνα βρήκε κάτι άλλο: ένα μικροσκοπικό εξάρτημα φαγωμένο από τον αλμυρό αέρα. Αν έμεναν στο ποιος έφταιξε, το πραγματικό πρόβλημα θα περνούσε και στον επόμενο πύραυλο."
+      },
+      "example": {
+        "en": "On 24 March 2006 a fuel leak started a fire on the engine seconds after liftoff, and the rocket fell back near the island. The cause was a small aluminium nut on a fuel line that had corroded in the sea air. SpaceX replaced such aluminium fittings with stainless steel.",
+        "el": "Στις 24 Μαρτίου 2006 μια διαρροή καυσίμου άναψε φωτιά στον κινητήρα δευτερόλεπτα μετά την απογείωση, και ο πύραυλος έπεσε κοντά στο νησί. Η αιτία ήταν ένα μικρό παξιμάδι αλουμινίου σε μια γραμμή καυσίμου, που είχε διαβρωθεί από τον θαλασσινό αέρα. Η SpaceX αντικατέστησε αυτά τα εξαρτήματα αλουμινίου με ανοξείδωτο ατσάλι."
+      },
+      "apply": {
+        "en": "Ask «why» five times the next time a client leaves or a site goes out with a mistake, until you reach a cause you can fix in the process: a missing checklist, an unclear brief, no second look. Then change the process, not only the person's mood.",
+        "el": "Ρώτα «γιατί» πέντε φορές την επόμενη φορά που θα φύγει ένας πελάτης ή θα βγει μια ιστοσελίδα με λάθος, μέχρι να φτάσεις σε μια αιτία που διορθώνεται στη διαδικασία: μια λίστα ελέγχου που λείπει, ασαφείς οδηγίες, κανένας δεύτερος έλεγχος. Μετά άλλαξε τη διαδικασία, όχι μόνο τη διάθεση του ανθρώπου."
+      },
+      "check": {
+        "q": {"en": "What actually destroyed the first Falcon 1?", "el": "Τι κατέστρεψε πραγματικά τον πρώτο Falcon 1;"},
+        "options": [
+          {"en": "A storm that hit the island at launch", "el": "Μια καταιγίδα που χτύπησε το νησί στην εκτόξευση"},
+          {"en": "A software error in the guidance system", "el": "Ένα σφάλμα λογισμικού στο σύστημα καθοδήγησης"},
+          {"en": "A small corroded nut that let fuel leak", "el": "Ένα μικρό διαβρωμένο παξιμάδι που άφησε καύσιμο να διαρρεύσει"}
+        ],
+        "answer": 2,
+        "why": {"en": "The investigation showed corrosion, not the technicians, was the cause.", "el": "Η έρευνα έδειξε ότι η αιτία ήταν η διάβρωση, όχι οι τεχνικοί."}
+      }
+    },
+    {
+      "title": {"en": "The risk you chose to skip", "el": "Το ρίσκο που αποφάσισες να παραλείψεις"},
+      "explain": {
+        "en": "When you move fast you cannot fix everything, so you choose which risks to accept. That is right. But the second and third flights show the cost: both were lost to problems that were small, known or easy to check. Each time the rocket flew further and each time a new detail stopped it. Progress is real even when the result is still failure, and the last detail matters as much as the first.",
+        "el": "Όταν τρέχεις, δεν μπορείς να διορθώσεις τα πάντα, οπότε διαλέγεις ποια ρίσκα θα δεχτείς. Σωστά κάνεις. Όμως η δεύτερη και η τρίτη πτήση δείχνουν το κόστος: και οι δύο χάθηκαν από προβλήματα μικρά, γνωστά ή εύκολα να ελεγχθούν. Κάθε φορά ο πύραυλος πήγαινε πιο μακριά, και κάθε φορά τον σταματούσε μια νέα λεπτομέρεια. Η πρόοδος είναι αληθινή ακόμα κι όταν το αποτέλεσμα είναι πάλι αποτυχία, και η τελευταία λεπτομέρεια μετρά όσο και η πρώτη."
+      },
+      "example": {
+        "en": "In March 2007 the second flight reached space, but fuel sloshing in the upper stage made it spin and it never reached orbit. Musk later said slosh had been number eleven on their list of top ten risks. In August 2008 the third flight failed because the new engine kept a little thrust and pushed the first stage into the second.",
+        "el": "Τον Μάρτιο του 2007 η δεύτερη πτήση έφτασε στο διάστημα, αλλά το καύσιμο που κουνιόταν μέσα στο πάνω τμήμα το έκανε να στριφογυρίζει και δεν μπήκε ποτέ σε τροχιά. Ο Μασκ είπε αργότερα ότι αυτό το ρίσκο ήταν το ενδέκατο στη λίστα με τα δέκα σημαντικότερα. Τον Αύγουστο του 2008 η τρίτη πτήση απέτυχε επειδή ο νέος κινητήρας κράτησε λίγη ώθηση και έσπρωξε το πρώτο τμήμα πάνω στο δεύτερο."
+      },
+      "apply": {
+        "en": "Write the three small checks you usually skip when you rush a site live: the form really sends, the phone link works on mobile, the English version has no Greek left. Make them a fixed two-minute list. The skipped small thing is what the client remembers.",
+        "el": "Γράψε τους τρεις μικρούς ελέγχους που συνήθως παραλείπεις όταν βιάζεσαι να βγάλεις μια ιστοσελίδα live: η φόρμα όντως στέλνει, το τηλέφωνο πατιέται από κινητό, η αγγλική εκδοχή δεν έχει ξεχασμένα ελληνικά. Κάν' τους μια σταθερή λίστα δύο λεπτών. Το μικρό που παρέλειψες είναι αυτό που θυμάται ο πελάτης."
+      },
+      "check": {
+        "q": {"en": "What do the second and third failures have in common?", "el": "Τι κοινό έχουν η δεύτερη και η τρίτη αποτυχία;"},
+        "options": [
+          {"en": "Both were caused by bad weather", "el": "Και οι δύο οφείλονταν σε κακό καιρό"},
+          {"en": "Both came from small details, while the rocket got further each time", "el": "Και οι δύο ήρθαν από μικρές λεπτομέρειες, ενώ ο πύραυλος πήγαινε κάθε φορά πιο μακριά"},
+          {"en": "Both showed that the whole design was wrong", "el": "Και οι δύο έδειξαν ότι όλο το σχέδιο ήταν λάθος"}
+        ],
+        "answer": 1,
+        "why": {"en": "Slosh and a moment of leftover thrust were small issues; the main design was sound.", "el": "Το κούνημα του καυσίμου και μια στιγμή υπολειπόμενης ώθησης ήταν μικρά ζητήματα· το βασικό σχέδιο ήταν σωστό."}
+      }
+    },
+    {
+      "title": {"en": "Worst day: lift the team", "el": "Στη χειρότερη μέρα, σήκωσε την ομάδα"},
+      "explain": {
+        "en": "After the third failure everyone expected Musk to explode. He was known for being harsh. Instead he did the opposite. He told the team that the problem was understood, that there was one more rocket, and that they would fly it soon. No blame, no hunt for the guilty. A team that has just failed needs a clear next step and a leader who still believes. Anger can wait.",
+        "el": "Μετά την τρίτη αποτυχία όλοι περίμεναν τον Μασκ να εκραγεί. Ήταν γνωστός για τη σκληρότητά του. Έκανε το αντίθετο. Είπε στην ομάδα ότι το πρόβλημα είχε κατανοηθεί, ότι υπήρχε ένας ακόμα πύραυλος και ότι θα τον πετούσαν σύντομα. Ούτε κατηγορίες ούτε κυνήγι ενόχων. Μια ομάδα που μόλις απέτυχε χρειάζεται ένα καθαρό επόμενο βήμα και έναν ηγέτη που πιστεύει ακόμα. Ο θυμός μπορεί να περιμένει."
+      },
+      "example": {
+        "en": "On 2 August 2008, hours after the rocket was lost, Musk spoke to the staff and wrote to them that SpaceX would not give up. The fix was simple: wait a few seconds longer before the stages separate. He asked for the fourth rocket within weeks, and it flew eight weeks later.",
+        "el": "Στις 2 Αυγούστου 2008, λίγες ώρες αφότου χάθηκε ο πύραυλος, ο Μασκ μίλησε στο προσωπικό και τους έγραψε ότι η SpaceX δεν θα τα παρατήσει. Η διόρθωση ήταν απλή: λίγα δευτερόλεπτα περισσότερη αναμονή πριν χωρίσουν τα τμήματα. Ζήτησε τον τέταρτο πύραυλο μέσα σε λίγες εβδομάδες, και αυτός πέταξε οκτώ εβδομάδες αργότερα."
+      },
+      "apply": {
+        "en": "Say three things, in this order, the next time your team loses a client or makes a big mistake: what happened, what we change, what we do tomorrow morning. Keep your frustration for later and in private. People repeat the effort for a leader who stays steady.",
+        "el": "Πες τρία πράγματα, με αυτή τη σειρά, την επόμενη φορά που η ομάδα σου θα χάσει έναν πελάτη ή θα κάνει ένα μεγάλο λάθος: τι έγινε, τι αλλάζουμε, τι κάνουμε αύριο το πρωί. Κράτα τον εκνευρισμό σου για αργότερα και κατ' ιδίαν. Οι άνθρωποι ξαναπροσπαθούν για έναν ηγέτη που μένει σταθερός."
+      },
+      "check": {
+        "q": {"en": "How did Musk react right after the third failure?", "el": "Πώς αντέδρασε ο Μασκ αμέσως μετά την τρίτη αποτυχία;"},
+        "options": [
+          {"en": "He rallied the team and pointed to the next launch", "el": "Εμψύχωσε την ομάδα και έδειξε την επόμενη εκτόξευση"},
+          {"en": "He fired the engineers responsible", "el": "Απέλυσε τους υπεύθυνους μηχανικούς"},
+          {"en": "He closed the Falcon 1 programme", "el": "Έκλεισε το πρόγραμμα του Falcon 1"}
+        ],
+        "answer": 0,
+        "why": {"en": "He gave no blame, only the cause, the fix and a date.", "el": "Δεν έριξε ευθύνες, έδωσε μόνο την αιτία, τη διόρθωση και μια ημερομηνία."}
+      }
+    },
+    {
+      "title": {"en": "Fix it here, fix it now", "el": "Διόρθωσέ το εδώ, διόρθωσέ το τώρα"},
+      "explain": {
+        "en": "To save time, the fourth rocket travelled to the island by military cargo plane instead of by ship. During the flight it was damaged. The normal answer was to send it back to California and lose more than a month, which the company could not survive. The engineers decided to repair it themselves on the island. When the correct process would kill you, a team that knows its product deeply can find a faster safe way.",
+        "el": "Για να κερδίσει χρόνο, ο τέταρτος πύραυλος ταξίδεψε στο νησί με στρατιωτικό μεταγωγικό αεροπλάνο αντί για πλοίο. Στην πτήση έπαθε ζημιά. Η κανονική απάντηση ήταν να γυρίσει στην Καλιφόρνια και να χαθεί πάνω από ένας μήνας, κάτι που η εταιρεία δεν θα άντεχε. Οι μηχανικοί αποφάσισαν να τον επισκευάσουν μόνοι τους στο νησί. Όταν η σωστή διαδικασία θα σε σκοτώσει, μια ομάδα που ξέρει βαθιά το προϊόν της μπορεί να βρει έναν πιο γρήγορο ασφαλή δρόμο."
+      },
+      "example": {
+        "en": "As the C-17 plane descended, the air pressure outside rose faster than inside the rocket's tank, and the thin walls began to buckle with loud bangs. Engineers on board, among them Zach Dunn, opened a line to let air in, and the tank popped back. On Omelek the team took the rocket apart, repaired it and rebuilt it in about a week.",
+        "el": "Καθώς το αεροπλάνο C-17 κατέβαινε, η πίεση του αέρα απ' έξω ανέβηκε πιο γρήγορα απ' ό,τι μέσα στη δεξαμενή του πυραύλου, και τα λεπτά τοιχώματα άρχισαν να τσαλακώνονται με δυνατούς κρότους. Οι μηχανικοί που ήταν μέσα, ανάμεσά τους ο Ζακ Νταν, άνοιξαν μια γραμμή για να μπει αέρας, και η δεξαμενή ξαναφούσκωσε. Στο Ομέλεκ η ομάδα έλυσε τον πύραυλο, τον επισκεύασε και τον ξανάστησε σε περίπου μία εβδομάδα."
+      },
+      "apply": {
+        "en": "Solve a client problem in the same call or the same day whenever you can, instead of saying «we will look at it next week». Know your sites and tools well enough to repair on the spot. A fast fix after a mistake often wins more trust than no mistake.",
+        "el": "Λύσε το πρόβλημα ενός πελάτη στο ίδιο τηλεφώνημα ή την ίδια μέρα όποτε μπορείς, αντί να πεις «θα το δούμε την άλλη εβδομάδα». Μάθε τις ιστοσελίδες και τα εργαλεία σου τόσο καλά ώστε να διορθώνεις επιτόπου. Μια γρήγορη διόρθωση μετά από λάθος κερδίζει συχνά περισσότερη εμπιστοσύνη από το να μην είχε γίνει λάθος."
+      },
+      "check": {
+        "q": {"en": "Why did the team repair the damaged rocket on the island?", "el": "Γιατί η ομάδα επισκεύασε τον χτυπημένο πύραυλο πάνω στο νησί;"},
+        "options": [
+          {"en": "The Air Force refused to fly it back", "el": "Η Πολεμική Αεροπορία αρνήθηκε να τον πάει πίσω"},
+          {"en": "The damage was too small to matter", "el": "Η ζημιά ήταν πολύ μικρή για να έχει σημασία"},
+          {"en": "Sending it back would cost time the company did not have", "el": "Η επιστροφή του θα κόστιζε χρόνο που η εταιρεία δεν είχε"}
+        ],
+        "answer": 2,
+        "why": {"en": "Weeks of delay would have meant running out of money before the launch.", "el": "Εβδομάδες καθυστέρησης θα σήμαιναν ότι τα χρήματα θα τελείωναν πριν την εκτόξευση."}
+      }
+    },
+    {
+      "title": {"en": "The last attempt", "el": "Η τελευταία προσπάθεια"},
+      "explain": {
+        "en": "By 2008 the stakes were total. Musk had planned money for three flights and all three had failed. Tesla, his other company, was also close to collapse, and the world financial crisis had begun. The fourth rocket was built from the last parts and the last cash. If it failed, SpaceX was finished. Persistence is not repeating the same thing: every attempt carried the lessons of the one before.",
+        "el": "Το 2008 τα πάντα παίζονταν. Ο Μασκ είχε προβλέψει χρήματα για τρεις πτήσεις και είχαν αποτύχει και οι τρεις. Η Tesla, η άλλη του εταιρεία, ήταν κι αυτή κοντά στην κατάρρευση, και η παγκόσμια οικονομική κρίση είχε ξεκινήσει. Ο τέταρτος πύραυλος στήθηκε με τα τελευταία εξαρτήματα και τα τελευταία μετρητά. Αν αποτύγχανε, η SpaceX τελείωνε. Επιμονή δεν σημαίνει να επαναλαμβάνεις το ίδιο: κάθε προσπάθεια κουβαλούσε τα μαθήματα της προηγούμενης."
+      },
+      "example": {
+        "en": "On 28 September 2008 the fourth Falcon 1 lifted off from Omelek with a dummy load instead of a real satellite, and reached orbit. It was the first privately developed liquid-fuel rocket to do so. In the California factory hundreds of employees watched the video and cheered.",
+        "el": "Στις 28 Σεπτεμβρίου 2008 ο τέταρτος Falcon 1 απογειώθηκε από το Ομέλεκ με ένα ψεύτικο φορτίο αντί για αληθινό δορυφόρο, και μπήκε σε τροχιά. Ήταν ο πρώτος πύραυλος υγρών καυσίμων που αναπτύχθηκε με ιδιωτικά χρήματα και το κατάφερε. Στο εργοστάσιο της Καλιφόρνιας εκατοντάδες εργαζόμενοι παρακολουθούσαν το βίντεο και πανηγύριζαν."
+      },
+      "apply": {
+        "en": "Write after every lost sale one line: what I change in the next call. Then make the next call. Count attempts with lessons, not attempts alone. A fourth try that carries three corrections is a different try, and that is how persistence pays.",
+        "el": "Γράψε μετά από κάθε χαμένη πώληση μία γραμμή: τι αλλάζω στο επόμενο τηλεφώνημα. Μετά κάνε το επόμενο τηλεφώνημα. Μέτρα προσπάθειες με μάθημα, όχι σκέτες προσπάθειες. Μια τέταρτη προσπάθεια που κουβαλά τρεις διορθώσεις είναι άλλη προσπάθεια, και έτσι ανταμείβεται η επιμονή."
+      },
+      "check": {
+        "q": {"en": "What made the fourth flight different from blind stubbornness?", "el": "Τι ξεχώριζε την τέταρτη πτήση από το τυφλό πείσμα;"},
+        "options": [
+          {"en": "It carried the fixes learned from three failures", "el": "Κουβαλούσε τις διορθώσεις από τρεις αποτυχίες"},
+          {"en": "It used a completely new rocket design", "el": "Χρησιμοποίησε εντελώς νέο σχέδιο πυραύλου"},
+          {"en": "It had more money behind it than the others", "el": "Είχε περισσότερα χρήματα από τις προηγούμενες"}
+        ],
+        "answer": 0,
+        "why": {"en": "The same rocket flew, but each known cause of failure had been corrected.", "el": "Πέταξε ο ίδιος πύραυλος, αλλά κάθε γνωστή αιτία αποτυχίας είχε διορθωθεί."}
+      }
+    },
+    {
+      "title": {"en": "One anchor customer", "el": "Ένας πελάτης-άγκυρα"},
+      "explain": {
+        "en": "Reaching orbit did not pay the bills. The company was still almost out of money at the end of 2008. What saved it was one large customer who believed in it: NASA. A big, serious client gives a young company money, and also credibility that brings other clients. But such a client only signs after you have proved you can deliver. The success came first, the contract second.",
+        "el": "Η είσοδος σε τροχιά δεν πλήρωσε τους λογαριασμούς. Η εταιρεία ήταν ακόμα σχεδόν χωρίς χρήματα στο τέλος του 2008. Αυτό που την έσωσε ήταν ένας μεγάλος πελάτης που την πίστεψε: η NASA. Ένας μεγάλος, σοβαρός πελάτης δίνει σε μια νέα εταιρεία χρήματα, αλλά και κύρος που φέρνει άλλους πελάτες. Τέτοιος πελάτης όμως υπογράφει μόνο αφού αποδείξεις ότι μπορείς να παραδώσεις. Πρώτα ήρθε η επιτυχία, μετά το συμβόλαιο."
+      },
+      "example": {
+        "en": "On 23 December 2008 NASA awarded SpaceX a contract worth 1.6 billion dollars for twelve cargo flights to the International Space Station, using the bigger Falcon 9 rocket. NASA had already supported the company with a smaller development agreement in 2006. Musk has said he answered the call with «I love you guys».",
+        "el": "Στις 23 Δεκεμβρίου 2008 η NASA έδωσε στη SpaceX ένα συμβόλαιο 1,6 δισεκατομμυρίου δολαρίων για δώδεκα πτήσεις φορτίου στον Διεθνή Διαστημικό Σταθμό, με τον μεγαλύτερο πύραυλο Falcon 9. Η NASA είχε ήδη στηρίξει την εταιρεία με μια μικρότερη συμφωνία ανάπτυξης το 2006. Ο Μασκ έχει πει ότι απάντησε στο τηλεφώνημα με ένα «Σας αγαπώ, παιδιά»."
+      },
+      "apply": {
+        "en": "Identify the one client whose name would open doors in each profession, such as a well-known clinic or a respected professor. Give that site your very best work, ask permission to show it, and mention it in the first minute of calls to colleagues.",
+        "el": "Βρες σε κάθε επάγγελμα τον έναν πελάτη που το όνομά του θα σου άνοιγε πόρτες, όπως μια γνωστή κλινική ή έναν καταξιωμένο καθηγητή. Δώσε σε αυτή την ιστοσελίδα την καλύτερη δουλειά σου, ζήτα άδεια να τη δείχνεις και ανάφερέ τη στο πρώτο λεπτό κάθε τηλεφωνήματος σε συναδέλφους του."
+      },
+      "check": {
+        "q": {"en": "What did the NASA contract give SpaceX besides money?", "el": "Τι έδωσε στη SpaceX το συμβόλαιο της NASA πέρα από χρήματα;"},
+        "options": [
+          {"en": "Control over NASA's own rockets", "el": "Τον έλεγχο των πυραύλων της ίδιας της NASA"},
+          {"en": "Credibility that attracts other customers", "el": "Κύρος που φέρνει και άλλους πελάτες"},
+          {"en": "A promise that it would never fail again", "el": "Μια υπόσχεση ότι δεν θα αποτύχει ποτέ ξανά"}
+        ],
+        "answer": 1,
+        "why": {"en": "A serious anchor client is proof to everyone else that you can deliver.", "el": "Ένας σοβαρός πελάτης-άγκυρα είναι απόδειξη για όλους τους άλλους ότι μπορείς να παραδώσεις."}
+      }
+    },
+    {
+      "title": {"en": "A small rocket changed an industry", "el": "Ένας μικρός πύραυλος άλλαξε έναν κλάδο"},
+      "explain": {
+        "en": "The Falcon 1 itself was small and flew only five times. Its real product was a way of working: a lean team, building in-house, testing quickly, keeping costs low. SpaceX used that method on bigger rockets and changed spaceflight. Before it, space belonged to governments and a few giant contractors. After it, private companies launch most of the world's satellites. The small first project is the school for the big one.",
+        "el": "Ο ίδιος ο Falcon 1 ήταν μικρός και πέταξε μόνο πέντε φορές. Το πραγματικό του προϊόν ήταν ένας τρόπος δουλειάς: λιτή ομάδα, κατασκευή μέσα στην εταιρεία, γρήγορες δοκιμές, χαμηλό κόστος. Η SpaceX εφάρμοσε αυτή τη μέθοδο σε μεγαλύτερους πυραύλους και άλλαξε τις διαστημικές πτήσεις. Πριν από αυτήν, το διάστημα ανήκε σε κυβερνήσεις και σε λίγους γιγάντιους εργολάβους. Μετά, ιδιωτικές εταιρείες εκτοξεύουν τους περισσότερους δορυφόρους του κόσμου. Το μικρό πρώτο project είναι το σχολείο για το μεγάλο."
+      },
+      "example": {
+        "en": "The last Falcon 1 flew in 2009 and carried a Malaysian satellite. The Falcon 9 first flew in 2010, began landing and reusing its boosters in the following years, and in 2020 carried NASA astronauts to the space station. Many of the Falcon 1 engineers led that later work.",
+        "el": "Ο τελευταίος Falcon 1 πέταξε το 2009 και μετέφερε έναν δορυφόρο της Μαλαισίας. Ο Falcon 9 πέταξε πρώτη φορά το 2010, άρχισε τα επόμενα χρόνια να προσγειώνει και να ξαναχρησιμοποιεί τους πυραύλους του, και το 2020 μετέφερε αστροναύτες της NASA στον διαστημικό σταθμό. Πολλοί από τους μηχανικούς του Falcon 1 ηγήθηκαν αυτής της μεταγενέστερης δουλειάς."
+      },
+      "apply": {
+        "en": "Treat your simple websites as your Falcon 1. Write down the method that makes them fast and cheap, step by step, so you can apply the same method to bigger products later: eshops, client panels, software for a whole profession.",
+        "el": "Δες τις απλές ιστοσελίδες σου ως τον δικό σου Falcon 1. Κατάγραψε βήμα βήμα τη μέθοδο που τις κάνει γρήγορες και φθηνές, ώστε να εφαρμόσεις την ίδια μέθοδο αργότερα σε μεγαλύτερα προϊόντα: eshop, πάνελ για πελάτες, λογισμικό για έναν ολόκληρο κλάδο."
+      },
+      "check": {
+        "q": {"en": "What was the most valuable thing the Falcon 1 produced?", "el": "Ποιο ήταν το πιο πολύτιμο πράγμα που έβγαλε ο Falcon 1;"},
+        "options": [
+          {"en": "Large profits from its five flights", "el": "Μεγάλα κέρδη από τις πέντε πτήσεις του"},
+          {"en": "A famous brand name for small rockets", "el": "Ένα διάσημο όνομα στους μικρούς πυραύλους"},
+          {"en": "A method and a team ready for bigger rockets", "el": "Μια μέθοδο και μια ομάδα έτοιμες για μεγαλύτερους πυραύλους"}
+        ],
+        "answer": 2,
+        "why": {"en": "The way of working learned on the small rocket made the Falcon 9 possible.", "el": "Ο τρόπος δουλειάς που μαθεύτηκε στον μικρό πύραυλο έκανε εφικτό τον Falcon 9."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "A site you delivered goes live with the client's phone number wrong. Your collaborator typed it. What do you do first?", "el": "Μια ιστοσελίδα που παρέδωσες βγαίνει live με λάθος τηλέφωνο του πελάτη. Το είχε πληκτρολογήσει ο συνεργάτης σου. Τι κάνεις πρώτα;"},
+      "options": [
+        {"en": "Tell the collaborator off so it never happens again", "el": "Κατσαδιάζεις τον συνεργάτη για να μην ξανασυμβεί"},
+        {"en": "Fix it, then find why no check caught it", "el": "Το διορθώνεις και μετά ψάχνεις γιατί κανένας έλεγχος δεν το έπιασε"},
+        {"en": "Wait and see whether the client notices", "el": "Περιμένεις να δεις αν θα το προσέξει ο πελάτης"}
+      ],
+      "answer": 1,
+      "why": {"en": "Like the corroded nut, the real cause is usually in the process, not in one person.", "el": "Όπως με το διαβρωμένο παξιμάδι, η πραγματική αιτία βρίσκεται συνήθως στη διαδικασία, όχι σε έναν άνθρωπο."},
+      "idea": 8
+    },
+    {
+      "q": {"en": "Your team just lost the biggest client of the year after weeks of work. Everyone is silent. What do you say?", "el": "Η ομάδα σου μόλις έχασε τον μεγαλύτερο πελάτη της χρονιάς, μετά από εβδομάδες δουλειάς. Όλοι είναι σιωπηλοί. Τι λες;"},
+      "options": [
+        {"en": "What happened, what we change, what we do tomorrow", "el": "Τι έγινε, τι αλλάζουμε, τι κάνουμε αύριο"},
+        {"en": "Whose fault it was, so it is clear", "el": "Ποιος έφταιξε, για να είναι ξεκάθαρο"},
+        {"en": "Nothing, so they can think about it alone", "el": "Τίποτα, για να το σκεφτούν μόνοι τους"}
+      ],
+      "answer": 0,
+      "why": {"en": "After the third failure Musk gave the cause, the fix and the next date, with no blame.", "el": "Μετά την τρίτη αποτυχία ο Μασκ έδωσε την αιτία, τη διόρθωση και την επόμενη ημερομηνία, χωρίς κατηγορίες."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A client has not sent photos for three weeks and the project is frozen. What is the Kwajalein move?", "el": "Ένας πελάτης δεν έχει στείλει φωτογραφίες εδώ και τρεις εβδομάδες και το project έχει παγώσει. Ποια είναι η κίνηση «Κουατζαλέιν»;"},
+      "options": [
+        {"en": "Keep waiting, since you cannot start without them", "el": "Συνεχίζεις να περιμένεις, αφού χωρίς αυτές δεν ξεκινάς"},
+        {"en": "Cancel the project and move on", "el": "Ακυρώνεις το project και προχωράς"},
+        {"en": "Build the draft with what is available and swap the photos later", "el": "Χτίζεις το draft με ό,τι υπάρχει και αλλάζεις τις φωτογραφίες μετά"}
+      ],
+      "answer": 2,
+      "why": {"en": "SpaceX refused to sit and wait for permission; it found a way to keep working.", "el": "Η SpaceX αρνήθηκε να κάθεται και να περιμένει άδεια· βρήκε τρόπο να συνεχίσει τη δουλειά."},
+      "idea": 6
+    },
+    {
+      "q": {"en": "An outside service quotes you a high monthly fee for something your team could probably build in a day. What do you do?", "el": "Μια εξωτερική υπηρεσία σού ζητά υψηλή μηνιαία συνδρομή για κάτι που η ομάδα σου μάλλον φτιάχνει σε μία μέρα. Τι κάνεις;"},
+      "options": [
+        {"en": "Pay, because outside services are always better", "el": "Πληρώνεις, γιατί οι εξωτερικές υπηρεσίες είναι πάντα καλύτερες"},
+        {"en": "Work out the real cost and try building it yourself", "el": "Υπολογίζεις το πραγματικό κόστος και δοκιμάζεις να το φτιάξεις μόνος σου"},
+        {"en": "Give up on the feature entirely", "el": "Παρατάς εντελώς τη λειτουργία"}
+      ],
+      "answer": 1,
+      "why": {"en": "SpaceX built most parts in-house when supplier prices made no sense.", "el": "Η SpaceX έφτιαχνε τα περισσότερα εξαρτήματα μόνη της όταν οι τιμές των προμηθευτών δεν έβγαζαν νόημα."},
+      "idea": 2
+    },
+    {
+      "q": {"en": "You have a new cold-call script. How do you improve it fastest?", "el": "Έχεις ένα νέο script για cold call. Πώς το βελτιώνεις πιο γρήγορα;"},
+      "options": [
+        {"en": "Use it on twenty calls today and change it each evening", "el": "Το χρησιμοποιείς σε είκοσι τηλεφωνήματα σήμερα και το αλλάζεις κάθε βράδυ"},
+        {"en": "Rewrite it for two weeks until it is perfect", "el": "Το ξαναγράφεις δύο εβδομάδες μέχρι να γίνει τέλειο"},
+        {"en": "Ask friends who do not sell what they think", "el": "Ρωτάς φίλους που δεν πουλάνε τι γνώμη έχουν"}
+      ],
+      "answer": 0,
+      "why": {"en": "Build, test, break, fix: real tests teach faster than planning on paper.", "el": "Φτιάξε, δοκίμασε, σπάσε, διόρθωσε: οι αληθινές δοκιμές διδάσκουν πιο γρήγορα από τον σχεδιασμό στο χαρτί."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "You have trained for months for a race and failed to finish it twice. A friend says «just keep trying the same way». What is the better advice from Liftoff?", "el": "Προπονείσαι μήνες για έναν αγώνα και δύο φορές δεν τον τερμάτισες. Ένας φίλος σού λέει «συνέχισε απλά με τον ίδιο τρόπο». Ποια είναι η καλύτερη συμβουλή από το Liftoff;"},
+      "options": [
+        {"en": "Stop, because two failures prove you cannot", "el": "Σταμάτα, γιατί δύο αποτυχίες δείχνουν ότι δεν μπορείς"},
+        {"en": "Repeat exactly the same plan with more willpower", "el": "Επανάλαβε ακριβώς το ίδιο πλάνο με περισσότερη θέληση"},
+        {"en": "Try again, but change what each failure showed you", "el": "Ξαναδοκίμασε, αλλά άλλαξε αυτό που σου έδειξε κάθε αποτυχία"}
+      ],
+      "answer": 2,
+      "why": {"en": "The fourth flight succeeded because it carried the corrections of the first three.", "el": "Η τέταρτη πτήση πέτυχε επειδή κουβαλούσε τις διορθώσεις των τριών πρώτων."},
+      "idea": 12
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "SpaceX began because Musk found existing rockets far too expensive for his Mars idea.", "el": "Η SpaceX ξεκίνησε επειδή ο Μασκ βρήκε τους υπάρχοντες πυραύλους υπερβολικά ακριβούς για την ιδέα του για τον Άρη."},
+      "answer": true,
+      "why": {"en": "After failing to buy rockets in Russia, he calculated the cost of building his own.", "el": "Αφού δεν κατάφερε να αγοράσει πυραύλους στη Ρωσία, υπολόγισε το κόστος να χτίσει δικό του."}
+    },
+    {
+      "s": {"en": "SpaceX bought most parts of the Falcon 1 from established suppliers.", "el": "Η SpaceX αγόρασε τα περισσότερα εξαρτήματα του Falcon 1 από καθιερωμένους προμηθευτές."},
+      "answer": false,
+      "why": {"en": "It built most of the rocket in its own factory to control cost and speed.", "el": "Έφτιαχνε το μεγαλύτερο μέρος του πυραύλου στο δικό της εργοστάσιο, για να ελέγχει κόστος και ταχύτητα."}
+    },
+    {
+      "s": {"en": "The Merlin engine was designed to be simple and easy to manufacture.", "el": "Ο κινητήρας Merlin σχεδιάστηκε για να είναι απλός και εύκολος στην κατασκευή."},
+      "answer": true,
+      "why": {"en": "Tom Mueller chose a robust pintle injector design over a more exotic one.", "el": "Ο Τομ Μιούλερ διάλεξε ένα ανθεκτικό σχέδιο με εγχυτήρα pintle αντί για κάτι πιο εξεζητημένο."}
+    },
+    {
+      "s": {"en": "The first Falcon 1 failed because of a mistake by a technician on the launch pad.", "el": "Ο πρώτος Falcon 1 απέτυχε εξαιτίας λάθους ενός τεχνικού στην εξέδρα εκτόξευσης."},
+      "answer": false,
+      "why": {"en": "That was the first guess; the investigation found a nut corroded by salty air.", "el": "Αυτή ήταν η πρώτη εικασία· η έρευνα βρήκε ένα παξιμάδι διαβρωμένο από τον αλμυρό αέρα."}
+    },
+    {
+      "s": {"en": "After the third failure Musk blamed the engineers and stopped the programme.", "el": "Μετά την τρίτη αποτυχία ο Μασκ κατηγόρησε τους μηχανικούς και σταμάτησε το πρόγραμμα."},
+      "answer": false,
+      "why": {"en": "He encouraged the team and asked for the fourth rocket within weeks.", "el": "Εμψύχωσε την ομάδα και ζήτησε τον τέταρτο πύραυλο μέσα σε λίγες εβδομάδες."}
+    },
+    {
+      "s": {"en": "The fourth Falcon 1 was damaged in a cargo plane and repaired on the island.", "el": "Ο τέταρτος Falcon 1 έπαθε ζημιά μέσα σε μεταγωγικό αεροπλάνο και επισκευάστηκε πάνω στο νησί."},
+      "answer": true,
+      "why": {"en": "The tank buckled during descent and the team fixed it on Omelek in about a week.", "el": "Η δεξαμενή τσαλακώθηκε στην κάθοδο και η ομάδα τη διόρθωσε στο Ομέλεκ σε περίπου μία εβδομάδα."}
+    },
+    {
+      "s": {"en": "Falcon 1 reached orbit on its very first flight in 2006.", "el": "Ο Falcon 1 μπήκε σε τροχιά από την πρώτη κιόλας πτήση του, το 2006."},
+      "answer": false,
+      "why": {"en": "It failed three times and reached orbit on the fourth flight, in September 2008.", "el": "Απέτυχε τρεις φορές και μπήκε σε τροχιά στην τέταρτη πτήση, τον Σεπτέμβριο του 2008."}
+    },
+    {
+      "s": {"en": "A NASA contract at the end of 2008 saved SpaceX from running out of money.", "el": "Ένα συμβόλαιο της NASA στο τέλος του 2008 έσωσε τη SpaceX από το να μείνει χωρίς χρήματα."},
+      "answer": true,
+      "why": {"en": "The 1.6 billion dollar cargo contract arrived in December 2008.", "el": "Το συμβόλαιο φορτίου του 1,6 δισεκατομμυρίου δολαρίων ήρθε τον Δεκέμβριο του 2008."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Falcon 1", "el": "Ο Falcon 1"}, "b": {"en": "SpaceX's first small rocket, four tries to orbit", "el": "Ο πρώτος μικρός πύραυλος της SpaceX, τέσσερις προσπάθειες ως την τροχιά"}},
+    {"a": {"en": "Merlin", "el": "Ο Merlin"}, "b": {"en": "The simple, robust engine designed by Tom Mueller", "el": "Ο απλός, ανθεκτικός κινητήρας του Τομ Μιούλερ"}},
+    {"a": {"en": "Omelek", "el": "Το Ομέλεκ"}, "b": {"en": "The tiny Pacific island used as launch site", "el": "Το μικροσκοπικό νησί του Ειρηνικού για τις εκτοξεύσεις"}},
+    {"a": {"en": "Vertical integration", "el": "Κάθετη ολοκλήρωση"}, "b": {"en": "Building most parts yourself instead of buying them", "el": "Φτιάχνεις τα περισσότερα μόνος σου αντί να τα αγοράζεις"}},
+    {"a": {"en": "Iterative design", "el": "Επαναληπτικός σχεδιασμός"}, "b": {"en": "Build, test, fail, fix, and repeat quickly", "el": "Φτιάχνεις, δοκιμάζεις, αποτυγχάνεις, διορθώνεις, ξανά και γρήγορα"}},
+    {"a": {"en": "Gwynne Shotwell", "el": "Γκουίν Σότγουελ"}, "b": {"en": "The seller and operator who became SpaceX president", "el": "Η πωλήτρια και οργανώτρια που έγινε πρόεδρος της SpaceX"}}
+  ],
+  "missions": [
+    {"en": "Pick one outside service you pay for and work out what it would cost to build a simple version yourself.", "el": "Διάλεξε μια εξωτερική υπηρεσία που πληρώνεις και υπολόγισε πόσο θα κόστιζε να φτιάξεις μόνος σου μια απλή εκδοχή."},
+    {"en": "Write a two-minute checklist of the three small checks you skip before a site goes live.", "el": "Γράψε μια λίστα ελέγχου δύο λεπτών με τους τρεις μικρούς ελέγχους που παραλείπεις πριν βγει μια ιστοσελίδα live."},
+    {"en": "Take your last lost sale and ask «why» five times until you reach something you can change.", "el": "Πάρε την τελευταία χαμένη πώληση και ρώτα «γιατί» πέντε φορές, μέχρι να φτάσεις σε κάτι που μπορείς να αλλάξεις."},
+    {"en": "Give one collaborator full ownership of one complete task this week and judge only the result.", "el": "Δώσε σε έναν συνεργάτη ολόκληρη την ευθύνη για μία εργασία αυτή την εβδομάδα και κρίνε μόνο το αποτέλεσμα."},
+    {"en": "Launch a rough version of your next ad today and note one thing to change tomorrow.", "el": "Βγάλε σήμερα μια πρόχειρη εκδοχή της επόμενης διαφήμισής σου και σημείωσε ένα πράγμα που θα αλλάξεις αύριο."}
+  ],
+  "mantra": {
+    "en": "Fail, find the cause, fix it, fly again.",
+    "el": "Απέτυχε, βρες την αιτία, διόρθωσέ τη, ξαναπέτα."
+  },
+  "careful": {
+    "en": "The book is written with great sympathy for SpaceX and relies on the memories of people who stayed and won. This is survivorship bias: one more failure and the same choices would be called reckless. The company survived thanks to Musk's personal fortune and government money, which you do not have. The pace broke marriages and health, and Musk's harsh style is described but rarely questioned. Take the method, not the working hours.",
+    "el": "Το βιβλίο είναι γραμμένο με μεγάλη συμπάθεια για τη SpaceX και στηρίζεται στις αναμνήσεις όσων έμειναν και κέρδισαν. Αυτό είναι μεροληψία επιβίωσης: με μία ακόμα αποτυχία, οι ίδιες επιλογές θα λέγονταν απερισκεψία. Η εταιρεία επέζησε χάρη στην προσωπική περιουσία του Μασκ και σε κρατικά χρήματα, που εσύ δεν έχεις. Ο ρυθμός διέλυσε γάμους και υγεία, και το σκληρό στιλ του Μασκ περιγράφεται αλλά σπάνια αμφισβητείται. Πάρε τη μέθοδο, όχι τα ωράρια."
+  },
+  "connects": [
+    {"book": "the-founders", "note": {"en": "The Founders tells the PayPal story that gave Musk the money and the scars he brought to SpaceX.", "el": "Οι Ιδρυτές διηγούνται την ιστορία της PayPal, που έδωσε στον Μασκ τα χρήματα και τα σημάδια που έφερε στη SpaceX."}},
+    {"book": "steve-jobs", "note": {"en": "Jobs and Musk both demanded the impossible from small teams; Jobs obsessed over design, Musk over cost and speed.", "el": "Ο Τζομπς και ο Μασκ ζητούσαν και οι δύο το αδύνατο από μικρές ομάδες· ο Τζομπς είχε εμμονή με το design, ο Μασκ με το κόστος και την ταχύτητα."}},
+    {"book": "who-not-how", "note": {"en": "Who Not How says find a person instead of doing it yourself, while SpaceX built almost everything in-house, so you must choose case by case.", "el": "Το Who Not How λέει να βρεις έναν άνθρωπο αντί να το κάνεις ο ίδιος, ενώ η SpaceX έφτιαχνε σχεδόν τα πάντα μόνη της, άρα διαλέγεις κατά περίπτωση."}}
+  ]
+}

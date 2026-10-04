@@ -1,0 +1,536 @@
+{
+  "id": "inner-game-of-tennis",
+  "title": {"en": "The Inner Game of Tennis", "el": "Το Εσωτερικό Παιχνίδι του Τένις"},
+  "author": "W. Timothy Gallwey",
+  "authorEl": "Τίμοθι Γκάλγουεϊ",
+  "year": 1974,
+  "shelf": "mind",
+  "skills": {"focus": 3, "mindset": 3, "leadership": 1},
+  "oneLine": {
+    "en": "You perform best when the judging voice in your head goes quiet and you let your trained body and mind do the work.",
+    "el": "Αποδίδεις καλύτερα όταν η φωνή που σε κρίνει μέσα στο κεφάλι σου ησυχάζει και αφήνεις το εκπαιδευμένο σώμα και μυαλό σου να κάνουν τη δουλειά."
+  },
+  "story": {
+    "en": "Timothy Gallwey was a Harvard tennis captain who became a coach in California. He noticed that his students improved faster when he gave fewer instructions and simply helped them pay attention. In 1974 he wrote this short book about the game played inside the mind. It sold over a million copies and is still read by athletes, coaches, musicians and business leaders, because it explains simply why we get in our own way.",
+    "el": "Ο Τίμοθι Γκάλγουεϊ ήταν αρχηγός της ομάδας τένις του Χάρβαρντ και έγινε προπονητής στην Καλιφόρνια. Πρόσεξε ότι οι μαθητές του βελτιώνονταν πιο γρήγορα όταν τους έδινε λιγότερες οδηγίες και απλώς τους βοηθούσε να προσέχουν. Το 1974 έγραψε αυτό το μικρό βιβλίο για το παιχνίδι που παίζεται μέσα στο μυαλό. Πούλησε πάνω από ένα εκατομμύριο αντίτυπα και το διαβάζουν ακόμα αθλητές, προπονητές, μουσικοί και στελέχη, γιατί εξηγεί απλά πώς γινόμαστε εμείς το εμπόδιο του εαυτού μας."
+  },
+  "forYou": {
+    "en": "A cold call, a sales meeting or a talk in front of people is a performance, just like a tennis point. You already know what to say. What fails is the voice in your head that comments, worries and tries too hard. This book shows you how to quiet it, learn faster without beating yourself up, and coach your team by helping them notice instead of lecturing them.",
+    "el": "Ένα cold call, ένα ραντεβού πώλησης ή μια ομιλία μπροστά σε κόσμο είναι μια επίδοση, όπως ένας πόντος στο τένις. Το τι θα πεις το ξέρεις ήδη. Αυτό που σε χαλάει είναι η φωνή στο κεφάλι σου που σχολιάζει, ανησυχεί και σφίγγεται. Το βιβλίο σού δείχνει πώς να την ησυχάζεις, πώς να μαθαίνεις πιο γρήγορα χωρίς να μαλώνεις τον εαυτό σου και πώς να καθοδηγείς την ομάδα σου βοηθώντας τη να παρατηρεί, αντί να της κάνεις κήρυγμα."
+  },
+  "ideas": [
+    {
+      "title": {"en": "Two games at once", "el": "Δύο παιχνίδια ταυτόχρονα"},
+      "explain": {
+        "en": "Every activity is two games. The outer game is against an outside opponent and outside obstacles: the other player, the net, the score. The inner game is played in your own mind against nervousness, self-doubt, lapses of attention and self-criticism. Most people train only the outer game: technique, tips, tactics. Gallwey's claim is that you rarely lose because you lack knowledge. You lose because the inner opponent stops you from using what you know.",
+        "el": "Κάθε δραστηριότητα είναι δύο παιχνίδια. Το εξωτερικό παίζεται απέναντι σε έναν αντίπαλο και σε εμπόδια έξω από σένα: τον άλλο παίκτη, το φιλέ, το σκορ. Το εσωτερικό παίζεται μέσα στο μυαλό σου, απέναντι στη νευρικότητα, την αμφιβολία, την αφηρημάδα και την αυτοκριτική. Οι περισσότεροι προπονούν μόνο το εξωτερικό: τεχνική, συμβουλές, τακτική. Ο Γκάλγουεϊ υποστηρίζει ότι σπάνια χάνεις επειδή δεν ξέρεις. Χάνεις επειδή ο εσωτερικός αντίπαλος δεν σε αφήνει να χρησιμοποιήσεις όσα ξέρεις."
+      },
+      "example": {
+        "en": "At the Tokyo Olympics in 2021, gymnast Simone Biles, the best in the world, withdrew from several finals. Her body was fine. She had the «twisties», a mental block in which a gymnast loses the sense of where she is in the air. The outer game was intact; the inner one was not.",
+        "el": "Στους Ολυμπιακούς του Τόκιο το 2021, η Σιμόν Μπάιλς, η καλύτερη γυμνάστρια στον κόσμο, αποσύρθηκε από αρκετούς τελικούς. Το σώμα της ήταν μια χαρά. Είχε τα λεγόμενα «twisties», ένα νοητικό μπλοκάρισμα όπου η αθλήτρια χάνει την αίσθηση του πού βρίσκεται στον αέρα. Το εξωτερικό παιχνίδι ήταν άθικτο· το εσωτερικό όχι."
+      },
+      "apply": {
+        "en": "Split your next bad call into two lists. Outer: what you did not know, a price, an answer to an objection. Inner: where you rushed, froze or talked over the prospect because you were nervous. If the inner list is longer, another sales script will not fix it.",
+        "el": "Χώρισε το επόμενο κακό σου τηλεφώνημα σε δύο λίστες. Εξωτερικό: τι δεν ήξερες, μια τιμή, μια απάντηση σε αντίρρηση. Εσωτερικό: πού βιάστηκες, πάγωσες ή μίλησες πάνω στον άλλον από νευρικότητα. Αν η εσωτερική λίστα είναι μεγαλύτερη, άλλο ένα script πωλήσεων δεν θα το λύσει."
+      },
+      "check": {
+        "q": {"en": "What is the «inner game»?", "el": "Τι είναι το «εσωτερικό παιχνίδι»;"},
+        "options": [
+          {"en": "The tactics you use against the opponent", "el": "Η τακτική που χρησιμοποιείς απέναντι στον αντίπαλο"},
+          {"en": "The contest in your own mind against doubt, nerves and self-criticism", "el": "Ο αγώνας μέσα στο μυαλό σου απέναντι στην αμφιβολία, το άγχος και την αυτοκριτική"},
+          {"en": "Practising alone without a partner", "el": "Η προπόνηση μόνος σου, χωρίς παρτενέρ"}
+        ],
+        "answer": 1,
+        "why": {"en": "The inner game is against your own mental obstacles, which stop you from using the skill you already have.", "el": "Το εσωτερικό παιχνίδι είναι απέναντι στα δικά σου νοητικά εμπόδια, που δεν σε αφήνουν να χρησιμοποιήσεις την ικανότητα που ήδη έχεις."}
+      }
+    },
+    {
+      "title": {"en": "Self 1 and Self 2", "el": "Εαυτός 1 και Εαυτός 2"},
+      "explain": {
+        "en": "Listen to players on a court and you hear them talk to themselves: «keep your wrist firm, you idiot». Who is talking to whom? Gallwey names the two sides. Self 1 is the teller: the conscious, verbal mind that gives orders and judges. Self 2 is the doer: the body and the unconscious mind that actually hits the ball and has learned far more than Self 1 can put into words. Your game depends on the relationship between the two.",
+        "el": "Άκου παίκτες σε ένα γήπεδο και θα τους ακούσεις να μιλούν στον εαυτό τους: «σφίξε τον καρπό, ρε βλάκα». Ποιος μιλά σε ποιον; Ο Γκάλγουεϊ δίνει όνομα στις δύο πλευρές. Ο Εαυτός 1 είναι αυτός που λέει: το συνειδητό μυαλό με τις λέξεις, που δίνει εντολές και κρίνει. Ο Εαυτός 2 είναι αυτός που κάνει: το σώμα και το ασυνείδητο, που χτυπά πραγματικά την μπάλα και έχει μάθει πολύ περισσότερα απ' όσα μπορεί να πει με λόγια ο Εαυτός 1. Το παιχνίδι σου εξαρτάται από τη σχέση των δύο."
+      },
+      "example": {
+        "en": "Think about walking down stairs. Self 2 does it perfectly every day, working out dozens of muscles and distances without a word. Now try to do it while Self 1 instructs each foot: «left knee bend, now right». You slow down, stiffen and may even trip.",
+        "el": "Σκέψου πώς κατεβαίνεις μια σκάλα. Ο Εαυτός 2 το κάνει τέλεια κάθε μέρα, υπολογίζοντας δεκάδες μυς και αποστάσεις χωρίς ούτε μια λέξη. Δοκίμασε τώρα να το κάνεις ενώ ο Εαυτός 1 δίνει οδηγίες σε κάθε πόδι: «λύγισε αριστερό γόνατο, τώρα δεξί». Αργείς, σφίγγεσαι, μπορεί και να σκοντάψεις."
+      },
+      "apply": {
+        "en": "Catch Self 1 during your next meeting. Each time you notice a sentence in your head such as «do not forget the price» or «that sounded stupid», make a small mark on your notepad. Do not fight it. Counting it is enough to see how much it talks.",
+        "el": "Πιάσε τον Εαυτό 1 στο επόμενο ραντεβού σου. Κάθε φορά που ακούς μέσα στο κεφάλι σου μια φράση όπως «μην ξεχάσεις την τιμή» ή «αυτό ακούστηκε χαζό», βάλε ένα σημαδάκι στο σημειωματάριο. Μην τον πολεμάς. Φτάνει να τον μετρήσεις για να δεις πόσο πολύ μιλάει."
+      },
+      "check": {
+        "q": {"en": "Which one is Self 2?", "el": "Ποιος είναι ο Εαυτός 2;"},
+        "options": [
+          {"en": "The body and unconscious mind that actually performs", "el": "Το σώμα και το ασυνείδητο, που κάνουν πραγματικά την κίνηση"},
+          {"en": "The voice that gives instructions", "el": "Η φωνή που δίνει οδηγίες"},
+          {"en": "Your opponent across the net", "el": "Ο αντίπαλος απέναντι από το φιλέ"}
+        ],
+        "answer": 0,
+        "why": {"en": "Self 1 tells and judges; Self 2 does. Self 2 holds the real skill.", "el": "Ο Εαυτός 1 λέει και κρίνει· ο Εαυτός 2 κάνει. Η πραγματική ικανότητα βρίσκεται στον Εαυτό 2."}
+      }
+    },
+    {
+      "title": {"en": "Trying too hard", "el": "Όταν προσπαθείς υπερβολικά"},
+      "explain": {
+        "en": "The core problem is that Self 1 does not trust Self 2. So it takes over: it gives a stream of commands, judges every result and «tries hard». That trying shows in the body as tight muscles in the arm, shoulders and face, and tight muscles cannot move smoothly. The shot gets worse, Self 1 criticises more, you tighten more. The harder you force it, the worse you play. Gallwey calls this interference.",
+        "el": "Το βασικό πρόβλημα είναι ότι ο Εαυτός 1 δεν εμπιστεύεται τον Εαυτό 2. Έτσι παίρνει το τιμόνι: δίνει τη μια εντολή μετά την άλλη, κρίνει κάθε αποτέλεσμα και «βάζει τα δυνατά του». Αυτή η προσπάθεια φαίνεται στο σώμα ως σφιγμένοι μύες στο χέρι, στους ώμους, στο πρόσωπο, και οι σφιγμένοι μύες δεν κινούνται ομαλά. Το χτύπημα χειροτερεύει, ο Εαυτός 1 κατσαδιάζει περισσότερο, σφίγγεσαι κι άλλο. Όσο το ζορίζεις, τόσο χειρότερα παίζεις. Ο Γκάλγουεϊ το λέει παρεμβολή."
+      },
+      "example": {
+        "en": "Psychologist Sian Beilock tested this with experienced golfers. When they were told to pay attention to the details of their own putting stroke, they putted worse than when a distracting task kept their conscious mind busy. Thinking about a well-learned movement breaks it.",
+        "el": "Η ψυχολόγος Σάιαν Μπέιλοκ το δοκίμασε με έμπειρους παίκτες του γκολφ. Όταν τους ζήτησε να προσέχουν τις λεπτομέρειες της κίνησής τους στο putt, τα πήγαν χειρότερα απ' ό,τι όταν μια άσχετη εργασία κρατούσε απασχολημένο το συνειδητό μυαλό τους. Όταν σκέφτεσαι μια καλά μαθημένη κίνηση, τη χαλάς."
+      },
+      "apply": {
+        "en": "Check your body before you dial: jaw, shoulders, the hand holding the phone. If they are tight, you are trying too hard to close. Drop your shoulders, breathe out slowly and aim only to have a good conversation. A relaxed voice sells better than a forced one.",
+        "el": "Τσέκαρε το σώμα σου πριν καλέσεις: σαγόνι, ώμους, το χέρι που κρατά το τηλέφωνο. Αν είναι σφιγμένα, προσπαθείς υπερβολικά να κλείσεις. Ρίξε τους ώμους, βγάλε αργά τον αέρα και βάλε στόχο μόνο μια καλή κουβέντα. Μια χαλαρή φωνή πουλάει καλύτερα από μια ζορισμένη."
+      },
+      "check": {
+        "q": {"en": "Why does «trying hard» often make you play worse?", "el": "Γιατί το «βάζω τα δυνατά μου» συχνά σε κάνει να παίζεις χειρότερα;"},
+        "options": [
+          {"en": "Because effort is never useful in sport", "el": "Επειδή η προσπάθεια δεν χρησιμεύει ποτέ στον αθλητισμό"},
+          {"en": "Because you get tired faster", "el": "Επειδή κουράζεσαι πιο γρήγορα"},
+          {"en": "Because Self 1's commands and judging tighten the body", "el": "Επειδή οι εντολές και οι κρίσεις του Εαυτού 1 σφίγγουν το σώμα"}
+        ],
+        "answer": 2,
+        "why": {"en": "Self 1's distrust creates muscle tension and overcontrol, which interfere with what Self 2 already knows how to do.", "el": "Η δυσπιστία του Εαυτού 1 φέρνει σφίξιμο και υπερβολικό έλεγχο, που μπαίνουν εμπόδιο σε ό,τι ο Εαυτός 2 ξέρει ήδη να κάνει."}
+      }
+    },
+    {
+      "title": {"en": "Quiet Self 1", "el": "Ησύχασε τον Εαυτό 1"},
+      "explain": {
+        "en": "The solution is not a better instruction. It is less noise. When players describe their best moments they say they were not thinking at all: no instructions, no fear, no self-praise, only the ball. You cannot order the mind to be silent, because that is one more command. You quiet it in three ways that the rest of the book teaches: stop judging, trust Self 2, and give the mind one simple thing to focus on.",
+        "el": "Η λύση δεν είναι μια καλύτερη οδηγία. Είναι λιγότερος θόρυβος. Όταν οι παίκτες περιγράφουν τις καλύτερες στιγμές τους, λένε ότι δεν σκέφτονταν καθόλου: ούτε οδηγίες, ούτε φόβος, ούτε αυτοθαυμασμός, μόνο η μπάλα. Δεν μπορείς να διατάξεις το μυαλό να σωπάσει, γιατί κι αυτό είναι μια ακόμη εντολή. Το ησυχάζεις με τρεις τρόπους, που διδάσκει το υπόλοιπο βιβλίο: παύεις να κρίνεις, εμπιστεύεσαι τον Εαυτό 2 και δίνεις στο μυαλό ένα απλό πράγμα να προσέχει."
+      },
+      "example": {
+        "en": "Gallwey points to a cat stalking a bird. It is completely alert and completely relaxed. It does not think «I must crouch lower» or «what if I miss». It just watches, and its body springs at the right instant. If it misses, it does not blame itself.",
+        "el": "Ο Γκάλγουεϊ δείχνει μια γάτα που παραμονεύει ένα πουλί. Είναι σε απόλυτη εγρήγορση και ταυτόχρονα εντελώς χαλαρή. Δεν σκέφτεται «πρέπει να χαμηλώσω κι άλλο» ή «κι αν αστοχήσω;». Απλώς κοιτάζει, και το σώμα της τινάζεται τη σωστή στιγμή. Αν αστοχήσει, δεν τα βάζει με τον εαυτό της."
+      },
+      "apply": {
+        "en": "Stop rehearsing your pitch in your head while the client talks. That is Self 1 preparing commands. Give your mind one job instead: hear the exact words he uses for his problem. Your answer will come more naturally because you actually listened.",
+        "el": "Πάψε να κάνεις πρόβα την παρουσίασή σου μέσα στο κεφάλι σου την ώρα που μιλά ο πελάτης. Αυτός είναι ο Εαυτός 1 που ετοιμάζει εντολές. Δώσε στο μυαλό σου μία μόνο δουλειά: να ακούσει ακριβώς με ποιες λέξεις περιγράφει το πρόβλημά του. Η απάντησή σου θα βγει πιο φυσικά, επειδή όντως άκουσες."
+      },
+      "check": {
+        "q": {"en": "How do you quiet Self 1?", "el": "Πώς ησυχάζεις τον Εαυτό 1;"},
+        "options": [
+          {"en": "By giving the mind one simple thing to focus on and dropping judgment", "el": "Δίνοντας στο μυαλό ένα απλό πράγμα να προσέχει και αφήνοντας τις κρίσεις"},
+          {"en": "By telling yourself firmly to stop thinking", "el": "Λέγοντας αυστηρά στον εαυτό σου να πάψει να σκέφτεται"},
+          {"en": "By memorising more technical instructions", "el": "Αποστηθίζοντας περισσότερες τεχνικές οδηγίες"}
+        ],
+        "answer": 0,
+        "why": {"en": "Ordering silence is one more command. Focus and non-judgment calm the mind without a fight.", "el": "Το να διατάξεις σιωπή είναι άλλη μία εντολή. Η εστίαση και η παρατήρηση χωρίς κριτική ηρεμούν το μυαλό χωρίς μάχη."}
+      }
+    },
+    {
+      "title": {"en": "See facts, not good or bad", "el": "Δες γεγονότα, όχι καλό και κακό"},
+      "explain": {
+        "en": "The first skill is to stop labelling your shots good or bad. A judgment adds nothing to the event and starts a chain: «bad backhand» becomes «my backhand is bad», then «I am a bad player», and the body tightens to match. Non-judgment does not mean ignoring errors. It means seeing them as plain facts: the ball landed a metre out. Praise is the same trap, because every «good» implies a coming «bad».",
+        "el": "Η πρώτη δεξιότητα είναι να πάψεις να βαφτίζεις τα χτυπήματά σου καλά ή κακά. Η κρίση δεν προσθέτει τίποτα στο γεγονός και ξεκινά μια αλυσίδα: το «κακό μπάκχαντ» γίνεται «έχω κακό μπάκχαντ», μετά «είμαι κακός παίκτης», και το σώμα σφίγγεται ανάλογα. Το να μην κρίνεις δεν σημαίνει ότι αγνοείς τα λάθη. Σημαίνει ότι τα βλέπεις ως σκέτα γεγονότα: η μπάλα έπεσε ένα μέτρο έξω. Η ίδια παγίδα είναι και ο έπαινος, γιατί κάθε «καλό» προαναγγέλλει ένα «κακό»."
+      },
+      "example": {
+        "en": "Gallwey's image is the rose. When we plant a seed we do not call it small and rootless. We do not criticise the bud for not being open. At every stage it is exactly what it should be, and it holds its whole potential. Your errors are a stage of growth, not a verdict.",
+        "el": "Η εικόνα του Γκάλγουεϊ είναι το τριαντάφυλλο. Όταν φυτεύουμε έναν σπόρο, δεν τον λέμε μικρό και χωρίς ρίζες. Δεν κατηγορούμε το μπουμπούκι που δεν άνοιξε ακόμα. Σε κάθε στάδιο είναι ακριβώς αυτό που πρέπει και κρύβει όλες του τις δυνατότητες. Τα λάθη σου είναι στάδιο ανάπτυξης, όχι ετυμηγορία."
+      },
+      "apply": {
+        "en": "Review your calls like a referee, not a critic. Write «I spoke for ninety seconds before asking a question», not «I was terrible». Give your team feedback the same way: describe what you saw on the page or heard on the call, and leave out «good» and «bad».",
+        "el": "Κοίτα τα τηλεφωνήματά σου σαν διαιτητής, όχι σαν κριτικός. Γράψε «μίλησα ενενήντα δευτερόλεπτα πριν κάνω ερώτηση», όχι «ήμουν χάλια». Με τον ίδιο τρόπο δώσε feedback στην ομάδα: περίγραψε τι είδες στη σελίδα ή τι άκουσες στο τηλεφώνημα, και άσε έξω το «καλό» και το «κακό»."
+      },
+      "check": {
+        "q": {"en": "What does non-judgment mean for Gallwey?", "el": "Τι σημαίνει για τον Γκάλγουεϊ «χωρίς κριτική»;"},
+        "options": [
+          {"en": "Pretending your mistakes did not happen", "el": "Να κάνεις πως τα λάθη σου δεν έγιναν"},
+          {"en": "Seeing what happened as a fact, without the labels good or bad", "el": "Να βλέπεις αυτό που έγινε ως γεγονός, χωρίς τις ταμπέλες «καλό» ή «κακό»"},
+          {"en": "Praising yourself instead of criticising", "el": "Να επαινείς τον εαυτό σου αντί να τον κατακρίνεις"}
+        ],
+        "answer": 1,
+        "why": {"en": "You still see the error clearly, as information. You only drop the label, which adds tension and nothing else.", "el": "Το λάθος το βλέπεις καθαρά, ως πληροφορία. Αφήνεις μόνο την ταμπέλα, που προσθέτει σφίξιμο και τίποτε άλλο."}
+      }
+    },
+    {
+      "title": {"en": "The awareness cure", "el": "Η θεραπεία της επίγνωσης"},
+      "explain": {
+        "en": "Once you see without judging, something surprising happens: the body often corrects itself. You do not need to tell it what to change. You only need to feel or see clearly what it is doing right now. Clear, calm awareness of what is gives Self 2 the information it needs, and it adjusts on its own. Gallwey's rule is that awareness itself is curative. You notice first and fix second, and often no fixing is needed.",
+        "el": "Μόλις αρχίσεις να βλέπεις χωρίς να κρίνεις, γίνεται κάτι απρόσμενο: το σώμα συχνά διορθώνεται μόνο του. Δεν χρειάζεται να του πεις τι να αλλάξει. Χρειάζεται μόνο να νιώσεις ή να δεις καθαρά τι κάνει αυτή τη στιγμή. Η ήρεμη, καθαρή επίγνωση του «τι γίνεται τώρα» δίνει στον Εαυτό 2 την πληροφορία που του λείπει, κι εκείνος προσαρμόζεται. Ο κανόνας του Γκάλγουεϊ: η επίγνωση θεραπεύει από μόνη της. Πρώτα παρατηρείς, μετά διορθώνεις, και συχνά δεν χρειάζεται καν διόρθωση."
+      },
+      "example": {
+        "en": "A businessman in the book had been told by five different coaches that he took his racket back too high on the backhand. He knew it and could not change it. Gallwey had him watch his swing in a window reflection. He was amazed at how high it really was, and it dropped by itself.",
+        "el": "Ένας επιχειρηματίας στο βιβλίο είχε ακούσει από πέντε διαφορετικούς προπονητές ότι σηκώνει πολύ ψηλά τη ρακέτα στο μπάκχαντ. Το ήξερε και δεν μπορούσε να το αλλάξει. Ο Γκάλγουεϊ τον έβαλε να δει την κίνησή του στην αντανάκλαση ενός τζαμιού. Έμεινε έκπληκτος με το πόσο ψηλά ήταν στ' αλήθεια, και η ρακέτα χαμήλωσε μόνη της."
+      },
+      "apply": {
+        "en": "Record only your own voice on three cold calls (a voice memo next to you, never the other person without their consent) and listen once with a single question, for example «how fast am I speaking?». Do not make a list of faults. Just hear it clearly. On the next calls keep noticing your speed, and let it settle without forcing it.",
+        "el": "Ηχογράφησε μόνο τη δική σου φωνή σε τρία cold calls (ένα φωνητικό σημείωμα δίπλα σου, ποτέ τον συνομιλητή χωρίς τη συγκατάθεσή του) και άκουσέ τα μία φορά με μία μόνο ερώτηση, για παράδειγμα «πόσο γρήγορα μιλάω;». Μη φτιάξεις λίστα με λάθη. Απλώς άκουσέ το καθαρά. Στα επόμενα τηλεφωνήματα συνέχισε να προσέχεις την ταχύτητά σου και άφησέ τη να στρώσει χωρίς ζόρι."
+      },
+      "check": {
+        "q": {"en": "What does «awareness is curative» mean?", "el": "Τι σημαίνει ότι «η επίγνωση θεραπεύει»;"},
+        "options": [
+          {"en": "Knowing the theory of a movement is enough", "el": "Αρκεί να ξέρεις τη θεωρία μιας κίνησης"},
+          {"en": "A coach must point out every fault for you", "el": "Ο προπονητής πρέπει να σου δείχνει κάθε λάθος"},
+          {"en": "Clearly seeing what you do now lets the body correct itself", "el": "Όταν βλέπεις καθαρά τι κάνεις τώρα, το σώμα διορθώνεται μόνο του"}
+        ],
+        "answer": 2,
+        "why": {"en": "Calm observation of what is gives Self 2 the feedback it needs; commands are often unnecessary.", "el": "Η ήρεμη παρατήρηση του «τι γίνεται» δίνει στον Εαυτό 2 το feedback που χρειάζεται· οι εντολές συχνά περισσεύουν."}
+      }
+    },
+    {
+      "title": {"en": "Trust Self 2", "el": "Εμπιστεύσου τον Εαυτό 2"},
+      "explain": {
+        "en": "Self 2 is far more capable than Self 1 believes. To return a serve it works out the speed, spin and path of the ball and directs hundreds of muscles in a fraction of a second, something no spoken instruction could do. It learns naturally, the way children do, by watching and trying. Gallwey asks you to treat it with respect: stop insulting it, give it clear goals, and let it learn from experience.",
+        "el": "Ο Εαυτός 2 είναι πολύ πιο ικανός απ' όσο πιστεύει ο Εαυτός 1. Για να επιστρέψει ένα σερβίς υπολογίζει ταχύτητα, φάλτσο και τροχιά της μπάλας και συντονίζει εκατοντάδες μύες σε κλάσματα δευτερολέπτου, κάτι που καμία προφορική οδηγία δεν θα κατάφερνε. Μαθαίνει φυσικά, όπως τα παιδιά: κοιτάζοντας και δοκιμάζοντας. Ο Γκάλγουεϊ σου ζητά να του φέρεσαι με σεβασμό: πάψε να τον βρίζεις, δώσε του καθαρούς στόχους και άφησέ τον να μάθει από την εμπειρία."
+      },
+      "example": {
+        "en": "A child learning to walk falls dozens of times. The mother does not say «bad step, you are uncoordinated». She watches with interest and enjoys the progress, and the child does not judge itself either. It learns one of the hardest skills of its life without a single technical instruction.",
+        "el": "Ένα παιδί που μαθαίνει να περπατά πέφτει δεκάδες φορές. Η μητέρα δεν λέει «κακό βήμα, δεν έχεις συντονισμό». Κοιτάζει με ενδιαφέρον και χαίρεται την πρόοδο, και το παιδί δεν κρίνει τον εαυτό του. Μαθαίνει μία από τις πιο δύσκολες δεξιότητες της ζωής του χωρίς ούτε μία τεχνική οδηγία."
+      },
+      "apply": {
+        "en": "Trust your own experience in meetings. You have explained your offer hundreds of times, so you do not need to read it from notes. Keep only three words on paper as a reminder, look at the client, and let the explanation come out in your natural words.",
+        "el": "Εμπιστεύσου την πείρα σου στα ραντεβού. Την προσφορά σου την έχεις εξηγήσει εκατοντάδες φορές· δεν χρειάζεται να τη διαβάζεις από σημειώσεις. Κράτα στο χαρτί μόνο τρεις λέξεις για υπενθύμιση, κοίτα τον πελάτη και άσε την εξήγηση να βγει με τα δικά σου, φυσικά λόγια."
+      },
+      "check": {
+        "q": {"en": "How should Self 1 treat Self 2?", "el": "Πώς πρέπει να φέρεται ο Εαυτός 1 στον Εαυτό 2;"},
+        "options": [
+          {"en": "Control it closely so it makes no mistakes", "el": "Να τον ελέγχει στενά για να μην κάνει λάθη"},
+          {"en": "Give it a clear goal and trust it to learn and perform", "el": "Να του δίνει καθαρό στόχο και να τον εμπιστεύεται να μάθει και να αποδώσει"},
+          {"en": "Criticise it sharply so it improves faster", "el": "Να τον κατσαδιάζει για να βελτιωθεί πιο γρήγορα"}
+        ],
+        "answer": 1,
+        "why": {"en": "Self 2 is highly capable and learns naturally. Control and criticism only interfere with it.", "el": "Ο Εαυτός 2 είναι πολύ ικανός και μαθαίνει φυσικά. Ο έλεγχος και η κριτική απλώς τον εμποδίζουν."}
+      }
+    },
+    {
+      "title": {"en": "Images and feel, not words", "el": "Εικόνες και αίσθηση, όχι λόγια"},
+      "explain": {
+        "en": "Self 2 does not speak the language of words. Its language is images and feelings. Telling it «rotate the hips, bend the knees, follow through» overloads it. Showing works better: watch a good stroke closely, hold the picture of the result you want, feel the movement in your body, and then let it copy. Gallwey calls this programming by image. You ask for the result you want and leave the how to Self 2.",
+        "el": "Ο Εαυτός 2 δεν καταλαβαίνει από λέξεις. Η γλώσσα του είναι οι εικόνες και οι αισθήσεις. Αν του πεις «γύρνα τους γοφούς, λύγισε τα γόνατα, ολοκλήρωσε την κίνηση», τον φορτώνεις. Το δείξιμο δουλεύει καλύτερα: κοίτα προσεκτικά ένα σωστό χτύπημα, κράτα την εικόνα του αποτελέσματος που θέλεις, νιώσε την κίνηση στο σώμα σου και μετά άφησέ το να αντιγράψει. Ο Γκάλγουεϊ το λέει προγραμματισμό με εικόνα. Ζητάς το αποτέλεσμα που θέλεις και αφήνεις το «πώς» στον Εαυτό 2."
+      },
+      "example": {
+        "en": "Gallwey tried it with a beginner who had never held a racket. He said nothing and just hit ten forehands for him to watch. The man then hit a decent forehand at once. The one thing he got wrong was his feet, the only thing he had told himself in words to remember.",
+        "el": "Ο Γκάλγουεϊ το δοκίμασε με έναν αρχάριο που δεν είχε πιάσει ποτέ ρακέτα. Δεν είπε τίποτα· χτύπησε απλώς δέκα φόρχαντ για να τον βλέπει. Ο άνθρωπος έκανε αμέσως ένα αξιοπρεπές φόρχαντ. Το μόνο που του ξέφυγε ήταν τα πόδια, το μοναδικό πράγμα που είχε πει στον εαυτό του με λόγια να θυμάται."
+      },
+      "apply": {
+        "en": "Train a new caller by letting them listen to five recordings of your own side of real calls that went well, before you give any script. Ask only «what did you notice?». For your own speaking, watch one speaker you admire for ten minutes, then record yourself and compare how it looks.",
+        "el": "Εκπαίδευσε έναν καινούργιο στα τηλέφωνα βάζοντάς τον να ακούσει πέντε ηχογραφήσεις της δικής σου πλευράς από αληθινές κλήσεις που πήγαν καλά, πριν του δώσεις οποιοδήποτε script. Ρώτα μόνο «τι πρόσεξες;». Για τη δική σου ομιλία, δες δέκα λεπτά έναν ομιλητή που θαυμάζεις, μετά βιντεοσκόπησε τον εαυτό σου και σύγκρινε την εικόνα."
+      },
+      "check": {
+        "q": {"en": "What is the best way to teach Self 2 a movement?", "el": "Ποιος είναι ο καλύτερος τρόπος να μάθεις στον Εαυτό 2 μια κίνηση;"},
+        "options": [
+          {"en": "Show it a clear picture and let it feel and copy", "el": "Να του δείξεις μια καθαρή εικόνα και να τον αφήσεις να νιώσει και να αντιγράψει"},
+          {"en": "Give it a long list of exact verbal steps", "el": "Να του δώσεις μια μεγάλη λίστα με ακριβή βήματα σε λόγια"},
+          {"en": "Repeat the rule loudly before each try", "el": "Να λες δυνατά τον κανόνα πριν από κάθε προσπάθεια"}
+        ],
+        "answer": 0,
+        "why": {"en": "Self 2 learns through images and sensation. Many verbal commands overload it.", "el": "Ο Εαυτός 2 μαθαίνει με εικόνες και αισθήσεις. Οι πολλές προφορικές εντολές τον φορτώνουν."}
+      }
+    },
+    {
+      "title": {"en": "Let it happen", "el": "Άσε το να γίνει"},
+      "explain": {
+        "en": "There is a difference between making a shot happen and letting it happen. Making it is Self 1 forcing every muscle. Letting it is giving Self 2 a clear picture and then staying out of the way. This is not laziness or going soft. You still care, focus and move with energy, but without strain. Gallwey calls it effortless effort: full commitment with no forcing, the way you write your signature.",
+        "el": "Άλλο να κάνεις το χτύπημα να γίνει και άλλο να το αφήνεις να γίνει. Στην πρώτη περίπτωση ο Εαυτός 1 ζορίζει κάθε μυ. Στη δεύτερη δίνεις στον Εαυτό 2 μια καθαρή εικόνα και μετά δεν μπαίνεις στη μέση. Αυτό δεν είναι τεμπελιά ούτε χαλαρότητα. Συνεχίζεις να νοιάζεσαι, να συγκεντρώνεσαι και να κινείσαι με ενέργεια, αλλά χωρίς σφίξιμο. Ο Γκάλγουεϊ το λέει προσπάθεια χωρίς κόπο: δίνεσαι ολόκληρος χωρίς να πιέζεις, όπως όταν βάζεις την υπογραφή σου."
+      },
+      "example": {
+        "en": "Falling asleep is the everyday proof. The harder you order yourself to sleep, the more awake you are. Sleep comes when you stop trying and let it. The same is true of remembering a name: it appears the moment you stop forcing your memory.",
+        "el": "Η καθημερινή απόδειξη είναι ο ύπνος. Όσο πιο πολύ διατάζεις τον εαυτό σου να κοιμηθεί, τόσο πιο ξύπνιος μένεις. Ο ύπνος έρχεται όταν πάψεις να προσπαθείς και τον αφήσεις. Το ίδιο ισχύει όταν ψάχνεις ένα όνομα: σου έρχεται τη στιγμή που παύεις να πιέζεις τη μνήμη σου."
+      },
+      "apply": {
+        "en": "Picture for ten seconds how you want the call to sound before you start: calm pace, one clear question, a friendly close. Then make the call without steering each sentence. Afterwards notice what happened, as a fact, and picture it again before the next one.",
+        "el": "Φαντάσου για δέκα δευτερόλεπτα πώς θέλεις να ακουστεί το τηλεφώνημα πριν ξεκινήσεις: ήρεμος ρυθμός, μία καθαρή ερώτηση, φιλικό κλείσιμο. Μετά κάνε το τηλεφώνημα χωρίς να οδηγείς κάθε φράση. Στο τέλος πρόσεξε τι έγινε, ως γεγονός, και ξαναφτιάξε την εικόνα πριν από το επόμενο."
+      },
+      "check": {
+        "q": {"en": "What is «effortless effort»?", "el": "Τι είναι η «προσπάθεια χωρίς κόπο»;"},
+        "options": [
+          {"en": "Not caring about the result at all", "el": "Να μη σε νοιάζει καθόλου το αποτέλεσμα"},
+          {"en": "Working fewer hours than others", "el": "Να δουλεύεις λιγότερες ώρες από τους άλλους"},
+          {"en": "Full focus and commitment without forcing or strain", "el": "Πλήρης συγκέντρωση και δόσιμο, χωρίς ζόρι και σφίξιμο"}
+        ],
+        "answer": 2,
+        "why": {"en": "You stay fully engaged, but you let Self 2 perform instead of forcing each movement.", "el": "Μένεις απόλυτα μέσα στο παιχνίδι, αλλά αφήνεις τον Εαυτό 2 να αποδώσει αντί να ζορίζεις κάθε κίνηση."}
+      }
+    },
+    {
+      "title": {"en": "Start a new groove", "el": "Άνοιξε καινούργιο αυλάκι"},
+      "explain": {
+        "en": "A habit is like a groove worn into the nervous system: each repetition makes it deeper, so the needle falls into it by itself. Fighting an old habit keeps your attention on it and deepens it. Gallwey's way is to leave the old groove alone and start a new one. His four steps: observe the present behaviour without judging, picture the result you want, let Self 2 do it, and calmly watch what happens.",
+        "el": "Μια συνήθεια μοιάζει με αυλάκι χαραγμένο στο νευρικό σύστημα: κάθε επανάληψη το βαθαίνει, και η βελόνα πέφτει μέσα μόνη της. Όταν πολεμάς μια παλιά συνήθεια, η προσοχή σου μένει πάνω της και τη βαθαίνεις. Ο τρόπος του Γκάλγουεϊ είναι να αφήσεις το παλιό αυλάκι ήσυχο και να ανοίξεις καινούργιο. Τα τέσσερα βήματά του: παρατήρησε χωρίς κριτική τι κάνεις τώρα, φαντάσου το αποτέλεσμα που θέλεις, άσε τον Εαυτό 2 να το κάνει και κοίτα ήρεμα τι βγαίνει."
+      },
+      "example": {
+        "en": "Gallwey notes that a child does not have to break the habit of crawling. It does not fight it or feel guilty about it. It simply starts walking, finds that it works better, and crawling fades away because it is no longer needed.",
+        "el": "Ο Γκάλγουεϊ παρατηρεί ότι το παιδί δεν χρειάζεται να «κόψει» τη συνήθεια του μπουσουλήματος. Δεν την πολεμά ούτε νιώθει ενοχές γι' αυτήν. Απλώς αρχίζει να περπατά, βλέπει ότι το εξυπηρετεί καλύτερα, και το μπουσούλημα σβήνει επειδή δεν χρειάζεται πια."
+      },
+      "apply": {
+        "en": "Do not fight «I check messages every five minutes». Start a new groove instead: one 45-minute block each morning with the phone in another room, at the same hour, doing only calls or only building. Repeat it daily and let the old habit shrink without attacking it.",
+        "el": "Μην πολεμάς το «κοιτάζω μηνύματα κάθε πέντε λεπτά». Άνοιξε καλύτερα ένα νέο αυλάκι: ένα μπλοκ 45 λεπτών κάθε πρωί, με το κινητό σε άλλο δωμάτιο, την ίδια ώρα, μόνο τηλέφωνα ή μόνο στήσιμο σελίδων. Επανάλαβέ το καθημερινά και άσε την παλιά συνήθεια να μικρύνει χωρίς να της επιτεθείς."
+      },
+      "check": {
+        "q": {"en": "How do you change a bad habit, according to Gallwey?", "el": "Πώς αλλάζεις μια κακή συνήθεια, κατά τον Γκάλγουεϊ;"},
+        "options": [
+          {"en": "Fight it with willpower until it breaks", "el": "Την πολεμάς με θέληση μέχρι να σπάσει"},
+          {"en": "Start a new habit beside it and let the old one fade", "el": "Ξεκινάς μια νέα συνήθεια δίπλα της και αφήνεις την παλιά να σβήσει"},
+          {"en": "Punish yourself each time it appears", "el": "Τιμωρείς τον εαυτό σου κάθε φορά που εμφανίζεται"}
+        ],
+        "answer": 1,
+        "why": {"en": "Fighting a groove keeps you in it. A new groove, repeated, replaces it without a battle.", "el": "Όταν πολεμάς ένα αυλάκι, μένεις μέσα του. Ένα νέο, με επανάληψη, παίρνει τη θέση του χωρίς μάχη."}
+      }
+    },
+    {
+      "title": {"en": "Watch the seams", "el": "Κοίτα τις ραφές"},
+      "explain": {
+        "en": "«Watch the ball» is the oldest advice in tennis and almost nobody does it, because a ball is boring and the mind wanders. Gallwey makes the task more interesting: watch the seams of the ball as it spins toward you. A fine, moving detail absorbs the mind completely, so there is no attention left for worry or instructions. Focus is not forced. It follows interest, so give the mind something subtle and real to look at.",
+        "el": "Το «κοίτα την μπάλα» είναι η πιο παλιά συμβουλή στο τένις και σχεδόν κανείς δεν την ακολουθεί, γιατί η μπάλα είναι βαρετή και το μυαλό ξεφεύγει. Ο Γκάλγουεϊ κάνει την άσκηση πιο ενδιαφέρουσα: κοίτα τις ραφές της μπάλας καθώς περιστρέφεται προς το μέρος σου. Μια λεπτή, κινούμενη λεπτομέρεια απορροφά ολόκληρο το μυαλό· δεν μένει προσοχή για ανησυχία ή οδηγίες. Η συγκέντρωση δεν επιβάλλεται. Ακολουθεί το ενδιαφέρον· δώσε λοιπόν στο μυαλό κάτι λεπτό και αληθινό να κοιτά."
+      },
+      "example": {
+        "en": "Gallwey reports that students asked to watch the pattern the seams make started seeing the ball better than ever before, and hit it more cleanly without any correction of their stroke. Many told him the ball suddenly seemed bigger and slower than usual.",
+        "el": "Ο Γκάλγουεϊ γράφει ότι οι μαθητές στους οποίους ζήτησε να προσέχουν το σχήμα που κάνουν οι ραφές άρχισαν να βλέπουν την μπάλα καλύτερα από ποτέ και να τη χτυπούν πιο καθαρά, χωρίς καμία διόρθωση στην κίνησή τους. Πολλοί του είπαν ότι η μπάλα ξαφνικά τους φάνηκε πιο μεγάλη και πιο αργή."
+      },
+      "apply": {
+        "en": "Choose your «seams» for a call: the prospect's tone of voice, or the exact words he uses for his practice. Listen for that one detail as if you had to repeat it afterwards. You will stop hearing your own nervous chatter and notice when he is really interested.",
+        "el": "Διάλεξε τις δικές σου «ραφές» για ένα τηλεφώνημα: τον τόνο της φωνής του άλλου, ή τις ακριβείς λέξεις που χρησιμοποιεί για το ιατρείο του. Άκου αυτή τη μία λεπτομέρεια σαν να έπρεπε να την επαναλάβεις μετά. Θα πάψεις να ακούς τη δική σου νευρική φλυαρία και θα καταλαβαίνεις πότε ενδιαφέρεται πραγματικά."
+      },
+      "check": {
+        "q": {"en": "Why watch the seams and not just «the ball»?", "el": "Γιατί να κοιτάς τις ραφές και όχι απλώς «την μπάλα»;"},
+        "options": [
+          {"en": "A fine detail absorbs the mind fully and leaves no room for chatter", "el": "Μια λεπτή λεπτομέρεια απορροφά όλο το μυαλό και δεν αφήνει χώρο για φλυαρία"},
+          {"en": "The seams show where the ball will bounce", "el": "Οι ραφές δείχνουν πού θα σκάσει η μπάλα"},
+          {"en": "It is a rule in professional tennis", "el": "Είναι κανόνας στο επαγγελματικό τένις"}
+        ],
+        "answer": 0,
+        "why": {"en": "Attention follows interest. A subtle detail holds the mind so Self 1 goes quiet.", "el": "Η προσοχή ακολουθεί το ενδιαφέρον. Μια λεπτή λεπτομέρεια κρατά το μυαλό, και ο Εαυτός 1 ησυχάζει."}
+      }
+    },
+    {
+      "title": {"en": "Bounce-hit", "el": "Σκάει-χτυπάω"},
+      "explain": {
+        "en": "This is Gallwey's most famous drill. Say «bounce» out loud at the exact instant the ball hits the court and «hit» at the exact instant it meets a racket, yours or the opponent's. That is all. The exercise keeps Self 1 busy with a simple task tied to the rhythm of what is really happening, so it has no chance to give orders. Players find they move and swing better without trying to.",
+        "el": "Είναι η πιο γνωστή άσκηση του Γκάλγουεϊ. Πες δυνατά «σκάει» ακριβώς τη στιγμή που η μπάλα αγγίζει το γήπεδο και «χτυπάω» ακριβώς τη στιγμή που βρίσκει ρακέτα, τη δική σου ή του αντιπάλου. Αυτό είναι όλο. Η άσκηση απασχολεί τον Εαυτό 1 με μια απλή δουλειά, δεμένη με τον ρυθμό αυτού που πραγματικά συμβαίνει, ώστε να μην προλαβαίνει να δίνει εντολές. Οι παίκτες βλέπουν ότι κινούνται και χτυπούν καλύτερα χωρίς να το προσπαθούν."
+      },
+      "example": {
+        "en": "In a well-known American television demonstration in the 1970s, Gallwey took a middle-aged woman who had never played tennis and, using mainly bounce-hit and almost no technical instruction, had her rallying over the net in about twenty minutes.",
+        "el": "Σε μια γνωστή επίδειξη στην αμερικανική τηλεόραση τη δεκαετία του 1970, ο Γκάλγουεϊ πήρε μια μεσήλικη γυναίκα που δεν είχε παίξει ποτέ τένις και, κυρίως με το «σκάει-χτυπάω» και σχεδόν χωρίς τεχνικές οδηγίες, την έβαλε να ανταλλάσσει μπαλιές πάνω από το φιλέ σε περίπου είκοσι λεπτά."
+      },
+      "apply": {
+        "en": "Make your own bounce-hit for calls: «listen, answer». While the other person speaks, your only job is «listen». When they stop, silently count one beat, then «answer». This simple rhythm stops you from interrupting and from planning your reply while they talk.",
+        "el": "Φτιάξε το δικό σου «σκάει-χτυπάω» για τα τηλέφωνα: «ακούω, απαντώ». Όσο μιλά ο άλλος, η μόνη σου δουλειά είναι το «ακούω». Όταν σταματήσει, μέτρα από μέσα σου έναν χτύπο και μετά «απαντώ». Αυτός ο απλός ρυθμός σε σταματά από το να διακόπτεις και να σχεδιάζεις την απάντηση ενώ εκείνος μιλά."
+      },
+      "check": {
+        "q": {"en": "Why does bounce-hit work?", "el": "Γιατί δουλεύει το «σκάει-χτυπάω»;"},
+        "options": [
+          {"en": "It teaches the correct grip", "el": "Μαθαίνει το σωστό κράτημα της ρακέτας"},
+          {"en": "It makes the opponent nervous", "el": "Αγχώνει τον αντίπαλο"},
+          {"en": "It occupies Self 1 with the present rhythm so it cannot interfere", "el": "Απασχολεί τον Εαυτό 1 με τον ρυθμό του παρόντος, ώστε να μην μπαίνει στη μέση"}
+        ],
+        "answer": 2,
+        "why": {"en": "A simple task tied to what is happening right now keeps the commanding mind busy and quiet.", "el": "Μια απλή δουλειά δεμένη με ό,τι συμβαίνει αυτή τη στιγμή κρατά το μυαλό που διατάζει απασχολημένο και ήσυχο."}
+      }
+    },
+    {
+      "title": {"en": "Relaxed concentration", "el": "Χαλαρή συγκέντρωση"},
+      "explain": {
+        "en": "The goal of the inner game is a state Gallwey calls relaxed concentration, what athletes call «the zone»: the mind is still, fully absorbed in here and now, and action flows without thought. You cannot grab this state by wanting it. It comes as a side effect of practising focus. Between points, when the mind runs to the score, bring it back with something that is always present, such as your own breathing.",
+        "el": "Ο σκοπός του εσωτερικού παιχνιδιού είναι μια κατάσταση που ο Γκάλγουεϊ ονομάζει χαλαρή συγκέντρωση, αυτό που οι αθλητές λένε «ζώνη»: το μυαλό είναι ακίνητο, απορροφημένο στο εδώ και τώρα, και η κίνηση κυλά χωρίς σκέψη. Δεν πιάνεις αυτή την κατάσταση επειδή τη θέλεις. Έρχεται ως παρενέργεια της εξάσκησης στη συγκέντρωση. Ανάμεσα στους πόντους, όταν το μυαλό τρέχει στο σκορ, φέρ' το πίσω με κάτι που είναι πάντα παρόν, όπως η αναπνοή σου."
+      },
+      "example": {
+        "en": "Psychologist Mihaly Csikszentmihalyi studied the same state in climbers, chess players and surgeons and in 1975 named it «flow». American football coach Pete Carroll, who won a Super Bowl with the Seattle Seahawks, has used Gallwey's book for decades and wrote a foreword to it.",
+        "el": "Ο ψυχολόγος Μιχάι Τσικσεντμιχάι μελέτησε την ίδια κατάσταση σε ορειβάτες, σκακιστές και χειρουργούς και το 1975 την ονόμασε «ροή» (flow). Ο προπονητής αμερικανικού ποδοσφαίρου Πιτ Κάρολ, που πήρε Super Bowl με τους Seattle Seahawks, χρησιμοποιεί το βιβλίο του Γκάλγουεϊ εδώ και δεκαετίες και έγραψε πρόλογο σε έκδοσή του."
+      },
+      "apply": {
+        "en": "Use the gap between calls as a tennis player uses the gap between points. Do not replay the last call or guess the next. Take three slow breaths and feel the air go in and out. Then dial with a clean mind. It takes fifteen seconds.",
+        "el": "Χρησιμοποίησε το κενό ανάμεσα στα τηλεφωνήματα όπως ο τενίστας το κενό ανάμεσα στους πόντους. Μην ξαναπαίζεις το προηγούμενο τηλεφώνημα και μη μαντεύεις το επόμενο. Πάρε τρεις αργές ανάσες και νιώσε τον αέρα να μπαίνει και να βγαίνει. Μετά κάλεσε με καθαρό μυαλό. Θέλει δεκαπέντε δευτερόλεπτα."
+      },
+      "check": {
+        "q": {"en": "How do you reach «the zone»?", "el": "Πώς φτάνεις στη «ζώνη»;"},
+        "options": [
+          {"en": "By practising focus on the present; it comes as a side effect", "el": "Με εξάσκηση στη συγκέντρωση στο παρόν· έρχεται ως παρενέργεια"},
+          {"en": "By wanting it very strongly before the match", "el": "Θέλοντάς το πάρα πολύ πριν από τον αγώνα"},
+          {"en": "By thinking carefully about each movement", "el": "Σκεπτόμενος προσεκτικά κάθε κίνηση"}
+        ],
+        "answer": 0,
+        "why": {"en": "The zone cannot be forced. It appears when the mind is quietly absorbed in here and now.", "el": "Η ζώνη δεν έρχεται με το ζόρι. Εμφανίζεται όταν το μυαλό είναι ήσυχα απορροφημένο στο εδώ και τώρα."}
+      }
+    },
+    {
+      "title": {"en": "Your opponent is your friend", "el": "Ο αντίπαλος είναι φίλος σου"},
+      "explain": {
+        "en": "Many people play to prove their worth, so every loss feels like a verdict on them as a person. Gallwey separates the two: your value as a human being does not depend on any score. What then is winning for? Winning is overcoming obstacles to reach a goal, and its real value is what the effort brings out in you. So the opponent who makes it hard is doing you a favour. Real competition is cooperation.",
+        "el": "Πολλοί παίζουν για να αποδείξουν ότι αξίζουν· έτσι κάθε ήττα μοιάζει με ετυμηγορία για το ποιοι είναι. Ο Γκάλγουεϊ τα ξεχωρίζει: η αξία σου ως ανθρώπου δεν εξαρτάται από κανένα σκορ. Τότε σε τι χρησιμεύει η νίκη; Νίκη είναι να ξεπερνάς εμπόδια για να φτάσεις έναν στόχο, και η πραγματική της αξία είναι αυτό που βγάζει από μέσα σου η προσπάθεια. Άρα ο αντίπαλος που σου τα κάνει δύσκολα σου κάνει χάρη. Ο αληθινός ανταγωνισμός είναι συνεργασία."
+      },
+      "example": {
+        "en": "Gallwey's picture is the surfer. He waits for the biggest wave he can handle, not because he needs to prove anything, but because only a big wave demands all his skill, courage and concentration. The obstacle is exactly what lets him find out what he can do.",
+        "el": "Η εικόνα του Γκάλγουεϊ είναι ο σέρφερ. Περιμένει το μεγαλύτερο κύμα που μπορεί να δαμάσει, όχι επειδή έχει κάτι να αποδείξει, αλλά επειδή μόνο ένα μεγάλο κύμα του ζητά όλη του την τέχνη, το θάρρος και τη συγκέντρωση. Το εμπόδιο είναι ακριβώς αυτό που του δείχνει τι μπορεί να κάνει."
+      },
+      "apply": {
+        "en": "Treat the toughest prospect as your best training partner. When a sceptical doctor fires objections, thank him silently: he is showing you the holes in your pitch for free. After the call, write down his hardest question and prepare a better answer for the next one.",
+        "el": "Δες τον πιο δύσκολο υποψήφιο πελάτη ως τον καλύτερο παρτενέρ σου στην προπόνηση. Όταν ένας δύσπιστος γιατρός σου ρίχνει αντιρρήσεις, πες του από μέσα σου ευχαριστώ: σου δείχνει δωρεάν τα κενά της παρουσίασής σου. Μετά το τηλεφώνημα γράψε την πιο δύσκολη ερώτησή του και ετοίμασε καλύτερη απάντηση για τον επόμενο."
+      },
+      "check": {
+        "q": {"en": "Why is a strong opponent a «friend»?", "el": "Γιατί ένας δυνατός αντίπαλος είναι «φίλος»;"},
+        "options": [
+          {"en": "Because he will let you win eventually", "el": "Επειδή κάποια στιγμή θα σε αφήσει να κερδίσεις"},
+          {"en": "Because his resistance brings out abilities you would never find alone", "el": "Επειδή η αντίστασή του βγάζει ικανότητες που μόνος σου δεν θα έβρισκες ποτέ"},
+          {"en": "Because losing to him proves you are modest", "el": "Επειδή, όταν χάνεις από αυτόν, αποδεικνύεις ότι είσαι μετριόφρων"}
+        ],
+        "answer": 1,
+        "why": {"en": "Obstacles draw out your best. The opponent provides them, so he helps you grow, whatever the score.", "el": "Τα εμπόδια βγάζουν τον καλύτερο εαυτό σου. Ο αντίπαλος σου τα προσφέρει, άρα σε βοηθά να εξελιχθείς, όποιο κι αν είναι το σκορ."}
+      }
+    },
+    {
+      "title": {"en": "The inner game off the court", "el": "Το εσωτερικό παιχνίδι έξω από το γήπεδο"},
+      "explain": {
+        "en": "Tennis is only the practice ground. The same Self 1 follows you into work, relationships and sleepless nights. Anxiety is Self 1 living in the future: what if I lose, what if they say no. Regret is Self 1 living in the past. Neither is happening now. Peace and your best performance are both found in the present moment. Gallwey calls inner stability the most valuable skill: staying steady whatever the outer score is.",
+        "el": "Το τένις είναι μόνο το γήπεδο προπόνησης. Ο ίδιος Εαυτός 1 σε ακολουθεί στη δουλειά, στις σχέσεις και στα ξενύχτια. Το άγχος είναι ο Εαυτός 1 που ζει στο μέλλον: κι αν χάσω, κι αν πουν όχι. Η μετάνοια είναι ο Εαυτός 1 που ζει στο παρελθόν. Τίποτε από τα δύο δεν συμβαίνει τώρα. Η ηρεμία και η καλύτερη απόδοσή σου βρίσκονται και οι δύο στην παρούσα στιγμή. Ο Γκάλγουεϊ θεωρεί πιο πολύτιμη δεξιότητα την εσωτερική σταθερότητα: να μένεις ίδιος, όποιο κι αν είναι το σκορ απ' έξω."
+      },
+      "example": {
+        "en": "Gallwey's method left the court quickly. Companies such as AT&T hired him to train managers, he wrote «The Inner Game of Work», and his approach, asking questions that raise awareness instead of giving orders, became a foundation of modern business coaching through John Whitmore and the GROW model.",
+        "el": "Η μέθοδος του Γκάλγουεϊ βγήκε γρήγορα από το γήπεδο. Εταιρείες όπως η AT&T τον κάλεσαν να εκπαιδεύσει στελέχη, έγραψε το «The Inner Game of Work», και η προσέγγισή του, ερωτήσεις που αυξάνουν την επίγνωση αντί για εντολές, έγινε θεμέλιο του σύγχρονου business coaching μέσω του Τζον Γουίτμορ και του μοντέλου GROW."
+      },
+      "apply": {
+        "en": "Ask one question when worry about money or growth wakes you at night: «what is actually happening right now?». The answer is usually «I am lying in bed and nothing is wrong this minute». Write the worry on paper as tomorrow's task, then return to your breathing.",
+        "el": "Κάνε μία ερώτηση όταν η έγνοια για τα λεφτά ή την ανάπτυξη σε ξυπνά τη νύχτα: «τι συμβαίνει πραγματικά αυτή τη στιγμή;». Η απάντηση είναι συνήθως «είμαι ξαπλωμένος και αυτό το λεπτό δεν τρέχει τίποτα». Γράψε την έγνοια σε ένα χαρτί ως αυριανή δουλειά και γύρνα στην αναπνοή σου."
+      },
+      "check": {
+        "q": {"en": "What is anxiety, in Gallwey's terms?", "el": "Τι είναι το άγχος, με τα λόγια του Γκάλγουεϊ;"},
+        "options": [
+          {"en": "A sign that you care about your work", "el": "Σημάδι ότι νοιάζεσαι για τη δουλειά σου"},
+          {"en": "Self 2 warning you about real danger", "el": "Ο Εαυτός 2 που σε προειδοποιεί για πραγματικό κίνδυνο"},
+          {"en": "Self 1 living in the future instead of the present", "el": "Ο Εαυτός 1 που ζει στο μέλλον αντί για το παρόν"}
+        ],
+        "answer": 2,
+        "why": {"en": "Anxiety is the mind on «what if». Coming back to what is happening now removes its fuel.", "el": "Το άγχος είναι το μυαλό κολλημένο στο «κι αν». Όταν γυρίζεις σε αυτό που συμβαίνει τώρα, του κόβεις το καύσιμο."}
+      }
+    }
+  ],
+  "scenarios": [
+    {
+      "q": {"en": "In the middle of a cold call you hear yourself thinking «I am talking too fast, he is bored, I am losing him». What do you do?", "el": "Στη μέση ενός cold call πιάνεις τον εαυτό σου να σκέφτεται «μιλάω πολύ γρήγορα, βαριέται, τον χάνω». Τι κάνεις;"},
+      "options": [
+        {"en": "Order yourself firmly to slow down and sound confident", "el": "Διατάζεις αυστηρά τον εαυτό σου να κόψει ταχύτητα και να ακουστεί σίγουρος"},
+        {"en": "Put all your attention on his voice and exact words", "el": "Ρίχνεις όλη σου την προσοχή στη φωνή του και στις ακριβείς λέξεις του"},
+        {"en": "End the call quickly before it gets worse", "el": "Κλείνεις γρήγορα πριν χειροτερέψει"}
+      ],
+      "answer": 1,
+      "why": {"en": "More commands feed Self 1. A fine detail to focus on, his voice, absorbs the mind and quiets the chatter.", "el": "Οι επιπλέον εντολές ταΐζουν τον Εαυτό 1. Μια λεπτή λεπτομέρεια για εστίαση, η φωνή του, απορροφά το μυαλό και σβήνει τη φλυαρία."},
+      "idea": 10
+    },
+    {
+      "q": {"en": "A new team member keeps making the same mistake on calls: he talks over the client. How do you coach him the Gallwey way?", "el": "Ένας καινούργιος στην ομάδα κάνει συνέχεια το ίδιο λάθος στα τηλέφωνα: μιλά πάνω στον πελάτη. Πώς τον καθοδηγείς με τον τρόπο του Γκάλγουεϊ;"},
+      "options": [
+        {"en": "Let him listen to his own recording and ask what he notices", "el": "Τον βάζεις να ακούσει τη δική του ηχογράφηση και ρωτάς τι προσέχει"},
+        {"en": "Give him a list of ten rules for listening", "el": "Του δίνεις μια λίστα με δέκα κανόνες ακρόασης"},
+        {"en": "Tell him each time that it was a bad call", "el": "Του λες κάθε φορά ότι το τηλεφώνημα ήταν κακό"}
+      ],
+      "answer": 0,
+      "why": {"en": "Awareness is curative: when he clearly hears what he does, without judgment, he starts correcting it himself.", "el": "Η επίγνωση θεραπεύει: όταν ακούσει καθαρά τι κάνει, χωρίς κριτική, αρχίζει να το διορθώνει μόνος του."},
+      "idea": 5
+    },
+    {
+      "q": {"en": "You have a talk in front of fifty people tomorrow and want to prepare tonight. What helps most?", "el": "Αύριο μιλάς μπροστά σε πενήντα άτομα και θέλεις να προετοιμαστείς απόψε. Τι βοηθά περισσότερο;"},
+      "options": [
+        {"en": "Memorise every sentence and every hand movement", "el": "Να αποστηθίσεις κάθε φράση και κάθε κίνηση των χεριών"},
+        {"en": "Write a list of everything you must not do on stage", "el": "Να γράψεις μια λίστα με όλα όσα δεν πρέπει να κάνεις στη σκηνή"},
+        {"en": "Picture clearly how you want it to look and feel, then trust yourself to deliver", "el": "Να δεις καθαρά πώς θέλεις να φαίνεται και να το νιώσεις, και μετά να εμπιστευτείς τον εαυτό σου"}
+      ],
+      "answer": 2,
+      "why": {"en": "Self 2 learns from images and feel, not from long lists of verbal commands.", "el": "Ο Εαυτός 2 μαθαίνει από εικόνες και αίσθηση, όχι από μακριές λίστες με εντολές."},
+      "idea": 7
+    },
+    {
+      "q": {"en": "After three «no» answers in a row you tell yourself «I am useless at this». What is the inner-game response?", "el": "Μετά από τρία «όχι» στη σειρά λες στον εαυτό σου «είμαι άχρηστος σε αυτό». Ποια είναι η απάντηση του εσωτερικού παιχνιδιού;"},
+      "options": [
+        {"en": "Tell yourself instead «I am the best salesman in Greece»", "el": "Να πεις στον εαυτό σου «είμαι ο καλύτερος πωλητής στην Ελλάδα»"},
+        {"en": "State the facts: three calls, three no's, and what you actually said in each", "el": "Να πεις τα γεγονότα: τρία τηλεφωνήματα, τρία «όχι», και τι ακριβώς είπες στο καθένα"},
+        {"en": "Stop for the day, since you are in bad form", "el": "Να σταματήσεις για σήμερα, αφού δεν είσαι σε φόρμα"}
+      ],
+      "answer": 1,
+      "why": {"en": "Both «useless» and «the best» are judgments. Plain facts give you information without tension.", "el": "Και το «άχρηστος» και το «καλύτερος» είναι κρίσεις. Τα σκέτα γεγονότα σου δίνουν πληροφορία χωρίς σφίξιμο."},
+      "idea": 4
+    },
+    {
+      "q": {"en": "A very demanding lawyer questions every detail of your offer for forty minutes. How do you see him?", "el": "Ένας πολύ απαιτητικός δικηγόρος εξετάζει κάθε λεπτομέρεια της προσφοράς σου επί σαράντα λεπτά. Πώς τον βλέπεις;"},
+      "options": [
+        {"en": "As a partner whose resistance is making your pitch stronger", "el": "Ως παρτενέρ που με την αντίστασή του δυναμώνει την παρουσίασή σου"},
+        {"en": "As an enemy who wants to humiliate you", "el": "Ως εχθρό που θέλει να σε ταπεινώσει"},
+        {"en": "As proof that your offer is weak", "el": "Ως απόδειξη ότι η προσφορά σου είναι αδύναμη"}
+      ],
+      "answer": 0,
+      "why": {"en": "Like the big wave for the surfer, a hard opponent brings out skill you would not find with an easy one.", "el": "Όπως το μεγάλο κύμα για τον σέρφερ, ο δύσκολος αντίπαλος βγάζει ικανότητα που δεν θα έβρισκες με έναν εύκολο."},
+      "idea": 13
+    },
+    {
+      "q": {"en": "You want to stop scrolling on your phone in bed every night. What would Gallwey suggest?", "el": "Θέλεις να κόψεις το σκρολάρισμα στο κινητό κάθε βράδυ στο κρεβάτι. Τι θα πρότεινε ο Γκάλγουεϊ;"},
+      "options": [
+        {"en": "Scold yourself each night until you feel ashamed enough", "el": "Να μαλώνεις τον εαυτό σου κάθε βράδυ, μέχρι να ντραπείς αρκετά"},
+        {"en": "Fight the urge with pure willpower while holding the phone", "el": "Να πολεμάς την παρόρμηση με σκέτη θέληση, με το κινητό στο χέρι"},
+        {"en": "Start a new habit in its place, a book by the bed and the phone in another room", "el": "Να ξεκινήσεις μια νέα συνήθεια στη θέση του: ένα βιβλίο στο κομοδίνο και το κινητό σε άλλο δωμάτιο"}
+      ],
+      "answer": 2,
+      "why": {"en": "You do not break a groove by fighting it. You start a new one and let the old fade.", "el": "Ένα αυλάκι δεν σπάει όταν το πολεμάς. Ανοίγεις καινούργιο και αφήνεις το παλιό να σβήσει."},
+      "idea": 9
+    }
+  ],
+  "truefalse": [
+    {
+      "s": {"en": "Self 1 is the part of you that actually hits the ball.", "el": "Ο Εαυτός 1 είναι το κομμάτι σου που χτυπά πραγματικά την μπάλα."},
+      "answer": false,
+      "why": {"en": "Self 1 tells and judges. Self 2, the body and unconscious mind, does the hitting.", "el": "Ο Εαυτός 1 λέει και κρίνει. Την μπάλα τη χτυπά ο Εαυτός 2, το σώμα και το ασυνείδητο."}
+    },
+    {
+      "s": {"en": "Praising your own shots as «good» is also a form of judgment.", "el": "Το να λες τα χτυπήματά σου «καλά» είναι κι αυτό μια μορφή κρίσης."},
+      "answer": true,
+      "why": {"en": "Every «good» sets up a «bad». Gallwey wants facts, with neither label.", "el": "Κάθε «καλό» ετοιμάζει ένα «κακό». Ο Γκάλγουεϊ θέλει γεγονότα, χωρίς καμία από τις δύο ταμπέλες."}
+    },
+    {
+      "s": {"en": "Non-judgment means you ignore your mistakes.", "el": "Το «χωρίς κριτική» σημαίνει ότι αγνοείς τα λάθη σου."},
+      "answer": false,
+      "why": {"en": "You see errors even more clearly, as facts. You only drop the emotional label.", "el": "Τα λάθη τα βλέπεις ακόμα πιο καθαρά, ως γεγονότα. Αφήνεις μόνο τη συναισθηματική ταμπέλα."}
+    },
+    {
+      "s": {"en": "Simply observing what you do, calmly, often changes it without any instruction.", "el": "Και μόνο που παρατηρείς ήρεμα τι κάνεις, συχνά αυτό αλλάζει χωρίς καμία οδηγία."},
+      "answer": true,
+      "why": {"en": "This is the awareness cure: clear feedback lets Self 2 correct itself.", "el": "Αυτή είναι η θεραπεία της επίγνωσης: το καθαρό feedback αφήνει τον Εαυτό 2 να διορθωθεί μόνος του."}
+    },
+    {
+      "s": {"en": "The best way to drop an old habit is to fight it as hard as you can.", "el": "Ο καλύτερος τρόπος να αφήσεις μια παλιά συνήθεια είναι να την πολεμήσεις όσο πιο σκληρά μπορείς."},
+      "answer": false,
+      "why": {"en": "Fighting keeps your attention on the old groove. Start a new one instead.", "el": "Η μάχη κρατά την προσοχή σου στο παλιό αυλάκι. Άνοιξε καλύτερα ένα καινούργιο."}
+    },
+    {
+      "s": {"en": "«Let it happen» means you stop caring and stop focusing.", "el": "Το «άσε το να γίνει» σημαίνει ότι παύεις να νοιάζεσαι και να συγκεντρώνεσαι."},
+      "answer": false,
+      "why": {"en": "You stay fully focused and committed. You only stop forcing and overcontrolling.", "el": "Μένεις απόλυτα συγκεντρωμένος και δοσμένος. Απλώς παύεις να ζορίζεις και να ελέγχεις τα πάντα."}
+    },
+    {
+      "s": {"en": "For Gallwey, your worth as a person does not depend on winning.", "el": "Για τον Γκάλγουεϊ, η αξία σου ως ανθρώπου δεν εξαρτάται από τη νίκη."},
+      "answer": true,
+      "why": {"en": "He separates human value from performance; winning matters for what the effort draws out of you.", "el": "Ξεχωρίζει την αξία του ανθρώπου από την επίδοση· η νίκη μετράει για ό,τι βγάζει από μέσα σου η προσπάθεια."}
+    },
+    {
+      "s": {"en": "Anxiety comes from the mind leaving the present for the future.", "el": "Το άγχος γεννιέται όταν το μυαλό αφήνει το παρόν και πάει στο μέλλον."},
+      "answer": true,
+      "why": {"en": "Anxiety is Self 1 asking «what if». Returning to here and now calms it.", "el": "Το άγχος είναι ο Εαυτός 1 που ρωτά «κι αν;». Όταν γυρίζεις στο εδώ και τώρα, ηρεμεί."}
+    }
+  ],
+  "pairs": [
+    {"a": {"en": "Self 1", "el": "Εαυτός 1"}, "b": {"en": "The voice that gives orders and judges", "el": "Η φωνή που δίνει εντολές και κρίνει"}},
+    {"a": {"en": "Self 2", "el": "Εαυτός 2"}, "b": {"en": "The body and unconscious mind that performs", "el": "Το σώμα και το ασυνείδητο, που κάνουν την κίνηση"}},
+    {"a": {"en": "Bounce-hit", "el": "Σκάει-χτυπάω"}, "b": {"en": "A drill that keeps the mind in the present rhythm", "el": "Άσκηση που κρατά το μυαλό στον ρυθμό του παρόντος"}},
+    {"a": {"en": "Groove", "el": "Αυλάκι"}, "b": {"en": "A habit worn deeper by each repetition", "el": "Συνήθεια που βαθαίνει με κάθε επανάληψη"}},
+    {"a": {"en": "Awareness cure", "el": "Θεραπεία της επίγνωσης"}, "b": {"en": "Seeing clearly what is lets the body self-correct", "el": "Βλέπεις καθαρά τι γίνεται και το σώμα διορθώνεται"}},
+    {"a": {"en": "Relaxed concentration", "el": "Χαλαρή συγκέντρωση"}, "b": {"en": "Still mind, full focus, no strain: the zone", "el": "Ήσυχο μυαλό, πλήρης εστίαση, κανένα σφίξιμο: η ζώνη"}}
+  ],
+  "missions": [
+    {"en": "Record your own voice on one cold call and write down five plain facts about it, with no «good» or «bad» in any sentence.", "el": "Ηχογράφησε τη φωνή σου σε ένα cold call και γράψε πέντε σκέτα γεγονότα γι' αυτό, χωρίς «καλό» ή «κακό» σε καμία πρόταση."},
+    {"en": "Do ten calls with the «listen, answer» rhythm: wait one silent beat after the other person stops before you speak.", "el": "Κάνε δέκα τηλεφωνήματα με τον ρυθμό «ακούω, απαντώ»: περίμενε έναν σιωπηλό χτύπο αφού σταματήσει ο άλλος, πριν μιλήσεις."},
+    {"en": "Take three slow breaths before each call for one whole session and note at the end how your voice sounded.", "el": "Πάρε τρεις αργές ανάσες πριν από κάθε τηλεφώνημα για έναν ολόκληρο γύρο και σημείωσε στο τέλος πώς ακουγόταν η φωνή σου."},
+    {"en": "Watch ten minutes of a speaker or seller you admire, with the sound of your own commentary off, then try one pitch yourself.", "el": "Δες δέκα λεπτά έναν ομιλητή ή πωλητή που θαυμάζεις, χωρίς να σχολιάζεις από μέσα σου, και μετά δοκίμασε μία παρουσίαση ο ίδιος."},
+    {"en": "Pick one habit you have been fighting and write the new groove that replaces it: what, where and at what time each day.", "el": "Διάλεξε μία συνήθεια που πολεμάς και γράψε το νέο αυλάκι που θα πάρει τη θέση της: τι, πού και τι ώρα κάθε μέρα."}
+  ],
+  "mantra": {
+    "en": "See it clearly, trust myself, let it happen.",
+    "el": "Το βλέπω καθαρά, εμπιστεύομαι τον εαυτό μου, το αφήνω να γίνει."
+  },
+  "careful": {
+    "en": "Self 1 and Self 2 are a useful picture, not brain science, and the book rests on Gallwey's coaching stories rather than controlled studies, though later research on choking and attention supports much of it. The method works best for skills you have already practised. A real beginner still needs correct technique and instruction, and «just trust yourself» does not replace knowledge, preparation or honest feedback from others. Some of the later chapters lean on Eastern spirituality.",
+    "el": "Ο Εαυτός 1 και ο Εαυτός 2 είναι μια χρήσιμη εικόνα, όχι νευροεπιστήμη, και το βιβλίο στηρίζεται στις ιστορίες του Γκάλγουεϊ από το γήπεδο, όχι σε ελεγχόμενες μελέτες, αν και μεταγενέστερες έρευνες για το «πνίξιμο» υπό πίεση και την προσοχή επιβεβαιώνουν μεγάλο μέρος του. Η μέθοδος δουλεύει καλύτερα σε δεξιότητες που έχεις ήδη εξασκήσει. Ο πραγματικά αρχάριος χρειάζεται σωστή τεχνική και διδασκαλία, και το «εμπιστεύσου τον εαυτό σου» δεν αντικαθιστά τη γνώση, την προετοιμασία ή το ειλικρινές feedback των άλλων. Τα τελευταία κεφάλαια γέρνουν προς την ανατολική πνευματικότητα."
+  },
+  "connects": [
+    {"book": "four-agreements", "note": {"en": "Ruiz's inner Judge and Gallwey's Self 1 are the same voice, and both books answer it with awareness instead of self-punishment.", "el": "Ο εσωτερικός Κριτής του Ρουίς και ο Εαυτός 1 του Γκάλγουεϊ είναι η ίδια φωνή, και τα δύο βιβλία της απαντούν με επίγνωση αντί για αυτοτιμωρία."}},
+    {"book": "meditations", "note": {"en": "Marcus says it is your judgment about an event that disturbs you; Gallwey shows the same thing on a tennis court, shot by shot.", "el": "Ο Μάρκος λέει ότι σε ταράζει η κρίση σου για ένα γεγονός· ο Γκάλγουεϊ δείχνει το ίδιο σε ένα γήπεδο τένις, χτύπημα το χτύπημα."}},
+    {"book": "deep-work", "note": {"en": "Newport protects focus from outside distraction with rules and schedules, while Gallwey trains it against the distraction inside your own head.", "el": "Ο Newport προστατεύει τη συγκέντρωση από τους εξωτερικούς περισπασμούς με κανόνες και πρόγραμμα, ενώ ο Γκάλγουεϊ τη γυμνάζει απέναντι στον περισπασμό μέσα στο ίδιο σου το κεφάλι."}}
+  ]
+}
